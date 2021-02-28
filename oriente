@@ -1,12 +1,57 @@
 #EXTM3U
-#EXT-X-VERSION:3 #EXT-X-STREAM-INF:BANDWIDTH=1223128,CODECS="avc1.100.31,mp4a.40.2",RESOLUTION=1280x720 chunklist.m3u8
-#EXT-X-VERSION:3 #EXT-X-TARGETDURATION:5 #EXT-X-MEDIA-SEQUENCE:352906 #EXTINF:4.0, media-um7g57zmk_352906.ts #EXTINF:4.0, media-um7g57zmk_352907.ts #EXTINF:4.0, media-um7g57zmk_352908.ts #EXTINF:4.0, media-um7g57zmk_352909.ts #EXTINF:4.0, media-um7g57zmk_352910.ts #EXTINF:4.0, media-um7g57zmk_352911.ts
-#EXT-X-VERSION:3 #EXT-X-TARGETDURATION:4 #EXT-X-MEDIA-SEQUENCE:352912 #EXTINF:4.0, media-uzff109qf_352912.ts #EXTINF:4.0, media-uzff109qf_352913.ts #EXTINF:4.0, media-uzff109qf_352914.ts #EXTINF:4.0, media-uzff109qf_352915.ts #EXTINF:4.0, media-uzff109qf_352916.ts #EXTINF:4.0, media-uzff109qf_352917.ts
-#EXT-X-VERSION:4 #EXT-X-INDEPENDENT-SEGMENTS #EXT-X-MEDIA:TYPE=CLOSED-CAPTIONS,GROUP-ID="cc1",LANGUAGE="en",NAME="English",AUTOSELECT=YES,DEFAULT=YES,INSTREAM-ID="CC1" #EXT-X-STREAM-INF:BANDWIDTH=1086734,AVERAGE-BANDWIDTH=1240800,CODECS="avc1.4d401f,mp4a.40.5",RESOLUTION=1280x720,FRAME-RATE=29.970 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8 #EXT-X-STREAM-INF:BANDWIDTH=1086734,AVERAGE-BANDWIDTH=1240800,CODECS="avc1.4d401f,mp4a.40.5",RESOLUTION=1280x720,FRAME-RATE=29.970 https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8 #EXT-X-STREAM-INF:BANDWIDTH=708360,AVERAGE-BANDWIDTH=800800,CODECS="avc1.66.30,mp4a.40.5",RESOLUTION=640x360,FRAME-RATE=29.970 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_600k.m3u8 #EXT-X-STREAM-INF:BANDWIDTH=708360,AVERAGE-BANDWIDTH=800800,CODECS="avc1.66.30,mp4a.40.5",RESOLUTION=640x360,FRAME-RATE=29.970 https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_600k.m3u8 #EXT-X-STREAM-INF:BANDWIDTH=294786,AVERAGE-BANDWIDTH=325600,CODECS="avc1.66.30,mp4a.40.5",RESOLUTION=320x180,FRAME-RATE=29.970 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_200k.m3u8 #EXT-X-STREAM-INF:BANDWIDTH=294786,AVERAGE-BANDWIDTH=325600,CODECS="avc1.66.30,mp4a.40.5",RESOLUTION=320x180,FRAME-RATE=29.970 https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_200k.m3u8 #EXT-X-STREAM-INF:BANDWIDTH=70400,CODECS="mp4a.40.5" https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_audio.m3u8 #EXT-X-STREAM-INF:BANDWIDTH=70400,CODECS="mp4a.40.5" https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_audio.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=256000 https://hiroshima-tv-live.hls.wselive.stream.ne.jp/hls-live/1/hiroshima-tv-live/live/chunklist.m3u8 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=256000 https://hiroshima-tv-live.hls.wselive.stream.ne.jp/hls-live/2/hiroshima-tv-live/live/chunklist.m3u8 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=256000 https://hiroshima-tv-live.hls.wselive.stream.ne.jp/hls-live/1/hiroshima-tv-live/live/chunklist.m3u8 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=256000 https://hiroshima-tv-live.hls.wselive.stream.ne.jp/hls-live/2/hiroshima-tv-live/live/chunklist.m3u8
-#EXT-X-VERSION:3 #EXT-X-TARGETDURATION:11 #EXT-X-MEDIA-SEQUENCE:649437 #EXTINF:10.0100, 20201215T171052-High-324/1437.ts #EXTINF:10.0100, 20201215T171052-High-324/1438.ts #EXTINF:10.0100, 20201215T171052-High-324/1439.ts #EXTINF:10.0100, 20201215T171052-High-324/1440.ts #EXTINF:10.0100, 20201215T171052-High-324/1441.ts #EXTINF:10.0100, 20201215T171052-High-324/1442.ts
-#EXT-X-VERSION:3 #EXT-X-STREAM-INF:BANDWIDTH=1135437,CODECS="avc1.42c01f,mp4a.40.2",RESOLUTION=711x400 chunklist_w248605338.m3u8
-#EXT-X-VERSION:3 #EXT-X-TARGETDURATION:11 #EXT-X-MEDIA-SEQUENCE:2248269 #EXT-X-DISCONTINUITY-SEQUENCE:0 #EXTINF:10.01, media_w571700836_2248269.ts #EXTINF:10.01, media_w571700836_2248270.ts #EXTINF:10.01, media_w571700836_2248271.ts
-#EXT-X-VERSION:3 #EXT-X-TARGETDURATION:11 #EXT-X-MEDIA-SEQUENCE:2248271 #EXT-X-DISCONTINUITY-SEQUENCE:0 #EXTINF:10.01, media_w1149163158_2248271.ts #EXTINF:10.01, media_w1149163158_2248272.ts #EXTINF:10.01, media_w1149163158_2248273.ts
-#EXT-X-VERSION:3 #EXT-X-STREAM-INF:BANDWIDTH=2237049,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1920x1080 chunklist_w1482147127.m3u8
-#EXT-X-VERSION:3 #EXT-X-TARGETDURATION:18 #EXT-X-MEDIA-SEQUENCE:172634 #EXTINF:8.0, media_w644291506_172634.ts #EXTINF:8.0, media_w644291506_172635.ts #EXTINF:7.733, media_w644291506_172636.ts
+
+#EXTINF:-1 group-title="JAPON", WNI
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1 group-title="JAPON", TOKIO MX2
+http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+#EXTINF:-1 group-title="JAPON", NHK World Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 group-title="JAPON", Hirochima TV
+https://hiroshima-tv-live.hls.wselive.stream.ne.jp/hiroshima-tv-live/live/playlist.m3u8
+#EXTINF:-1 group-title="JAPON", CDN
+https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 group-title="SOUTH KOREA", EBS
+http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="SOUTH KOREA", EBS 1
+http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="SOUTH KOREA", EBS 2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="SOUTH KOREA", KBS
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 group-title="SOUTH KOREA", KCTV 05
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+#EXTINF:-1 group-title="SOUTH KOREA", KCTV 21
+http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
+#EXTINF:-1 group-title="SOUTH KOREA", NBS
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1 group-title="SOUTH KOREA", SBS INTERNACIONAL
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
+#EXTINF:-1 group-title="SOUTH KOREA", SBS PLUS INTERNACIONAL
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+#EXTINF:-1 group-title="SOUTH KOREA", SBS PLUS INTERNACIONAL
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+#EXTINF:-1 group-title="SOUTH KOREA", TBC
+http://221.157.125.239:1935/live/psike/playlist.m3u8
+#EXTINF:-1 group-title="SOUTH KOREA", TJB
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 group-title="SOUTH KOREA", TJB
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 group-title="SOUTH KOREA", YTN
+http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
+#EXTINF:-1 group-title="SOUTH KOREA", YTN
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1 group-title="SOUTH KOREA", MBC Busan
+https://5ca29b882aaf6.streamlock.net:443/livetv/BusanMBC_TV_livestream/playlist.m3u8
+#EXTINF:-1 group-title="SOUTH KOREA", MBC Yeosu
+https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
+#EXTINF:-1 group-title="SOUTH KOREA", MBC Ulsan
+https://5ddfd163bd00d.streamlock.net:443/nHDTV/nHDTV/playlist.m3u8
+#EXTINF:-1 group-title="SOUTH KOREA", 이데일리TV
+http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8
+#EXTINF:-1 group-title="SOUTH KOREA", 한국선거방송
+http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
+
+
+
+
+
