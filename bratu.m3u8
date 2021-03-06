@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:-1,=== BRATU ====
+#EXTINF:0 tvg-logo="https://bratu-marian.com/wp-content/uploads/2020/12/logo-300x54.png", === BRATU bratu-marian.com ====
 http://nosirve.com
+
 #EXTINF:-1,USA NETWORK
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/6cdb3402d11f58d.ts|User-Agent=1m3u8
 #EXTINF:-1,SYFY
