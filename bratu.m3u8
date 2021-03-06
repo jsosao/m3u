@@ -1,5 +1,4 @@
 #EXTM3U
-# BRUTU
 #EXTINF:-1,USA NETWORK
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/6cdb3402d11f58d.ts|User-Agent=1m3u8
 #EXTINF:-1,SYFY
@@ -146,14 +145,33 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/b02b9f2c6e42794.t
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/297dc21e6da8c54.ts|User-Agent=1m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",UNIVISION
-http://evdibac.com:80/307200112733/307200112733/81187?checkedby:hlscat.com
+http://bazarhd.online:80/307210150633/307210150633/81187?checkedby:hlscat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",UNIVISION
-http://bazarhd.online:80/307210117666/307210117666/81187?checkedby:hlscat.com
+http://bazarhd.online:80/307210113622/307210113622/81187?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",UNIVISION
+http://tvmedia2.com:8080/Hunter2/Hunter2/164172.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",UNIVISION
+http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/8725?checkedby:hlscat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",UNIVISION SPORTS   ULTIMO
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",UNIVISION TDN
+http://tvmedia2.com:8080/Hunter2/Hunter2/164171.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",UNIVISION USA HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Univision HD
+http://ott-iptv.info:2016/Daniel/Daniel/51019?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",UNIVISION DEPORTES
+http://bazarhd.online:80/307210113622/307210113622/86934?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",UNIVISION TELENOVELAS
+http://bazarhd.online:80/307210113622/307210113622/87016?checkedby:hlscat.com
 
+
+#EXTINF:0 tvg-country="UG" tvg-logo="" group-title="Undefined",TELEMUNDO
+http://bazarhd.online:80/307210113622/307210113622/84926?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Telemundo Full HD
+http://6bc79edb.ulkakak.pw/iptv/CHPLNSPSC3DXKY/1080/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="http://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" group-title="Undefined",Telemundo Telenovelas
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:hlscat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TELEMUNDO44
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654?checkedby:hlscat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TELEMUNDO48
@@ -164,5 +182,14 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/657?checkedby:hlscat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TELEMUNDONEWYORK
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/658?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Telemundo Boston
+http://ariaccess.com:80/ArisGladio/PartnerGladio/76972?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Telemundo Chicago
+http://ariaccess.com:80/ArisGladio/PartnerGladio/76973?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Telemundo Denver
+http://ariaccess.com:80/ArisGladio/PartnerGladio/76975?checkedby:hlscat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" group-title="Undefined",Telemundo Telenovelas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=940&deviceId=5cf96cc422df39f1a338d165&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",TELEMUNDO INTERNACIONAL
+http://bazarhd.online:80/307210113622/307210113622/87034?checkedby:hlscat.com
+
