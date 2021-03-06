@@ -1,5 +1,6 @@
 #EXTM3U
 # BRUTU DAY
+#EXT-X-VERSION:3
 http://geotvplus.eu:2082/get.php?username=Calderon&password=Calderon&type=m3u
 http://client-premiumzone.in:8080/get.php?username=eva&password=eva&type=m3u
 http://ip.clientmarket.top:8080/get.php?username=nelsonporto&password=g3wnyhj13c&type=m3u
