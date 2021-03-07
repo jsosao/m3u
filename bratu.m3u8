@@ -163,6 +163,21 @@ http://nosirve.com
 #EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/JH99Psi.jpg" group-title="KTLA",KTLA 5 (Los Angeles)
 https://bozztv.com/teleyupp1/teleup-N8qwnqgUq2/playlist.m3u8?checkedby:hlscat.com
 
+#EXTINF:0,=== HSL CAT USA NETWORK====
+http://nosirve.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="USA NETWORK",USA NETWORK
+http://tvmedia2.com:8080/Hunter2/Hunter2/164170.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="USA NETWORK",USA NETWORK HD
+http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/8333?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="USA NETWORK",USA NETWORK West
+http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/182146?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="USA NETWORK",USA Network West LHD
+http://supersonictv.live:25461/903310/034806/22129?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="USA NETWORK",USA USA NETWORK (WEST)
+http://supersonictv.live:25461/903310/034806/22175?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="USA NETWORK",USA Network East UHD
+http://supersonictv.live:25461/903310/034806/22174?checkedby:hlscat.com
+
 #EXTINF:0,=== HSL CAT NBC====
 http://nosirve.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="NBC Local",NBC 10 EAST
@@ -445,7 +460,7 @@ http://supersonictv.live:25461/903310/034806/22884?checkedby:hlscat.com
 http://supersonictv.live:25461/903310/034806/22885?checkedby:hlscat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="CINEMAX",CINEMAX THRILLERMAX HD
 http://tvmedia2.com:8080/Hunter2/Hunter2/164334.ts?CINEMAX:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CINEMAXX MORE MAXX
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="CINEMAX",CINEMAXX MORE MAXX
 http://tvmedia2.com:8080/Hunter2/Hunter2/164333.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="CINEMAX",Cinemax East UHD
 http://supersonictv.live:25461/903310/034806/22879?checkedby:hlscat.com
