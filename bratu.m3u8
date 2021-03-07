@@ -202,4 +202,18 @@ http://bazarhd.online:80/307210113622/307210113622/87034?checkedby:hlscat.com
 
 
 #EXTINF:0 tvg-country="MEXICO" tvg-logo="https://image.multimedios.com/sites/default/files/styles/social_share_amp/public/video_embed_field_thumbnails/mediastream/5d9e440d675235586a92be7f.jpg" group-title="MULTIMEDIOS", MULTIMEDIOS JUAREZ
-https://mdstrm.com/live-stream-playlist/2F5d9e440d675235586a92be7f.m3u8
+https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
+
+#EXT-X-VERSION:3
+#EXT-X-MDSTRM-CDN-VERSION:2
+#EXT-X-STREAM-INF:BANDWIDTH=325600,RESOLUTION=256x144,CODECS="avc1.42001e,mp4a.40.2"
+https://us-b4-p-e-by2.cdn.mdstrm.com/live-stream/5d9e440d675235586a92be7f/publish/media_200.m3u8?pid=MPnvFvUFHsUi3vrsupk9OcIqLeSpwIck&sid=5AMBHj2aCZQJ8Jykq9GNWpFKvAbYuvUq&uid=zBTYO7gIl856Lf95mZoMp7lnzn3HHGYV&es=us-b4-p-e-by2.cdn.mdstrm.com&ote=1615165563816&ot=-mqZ7vH8hS0QCn3CCmbMAA&proto=https&pz=us
+#EXT-X-STREAM-INF:BANDWIDTH=545600,RESOLUTION=426x240,CODECS="avc1.42001e,mp4a.40.2"
+https://us-b4-p-e-by2.cdn.mdstrm.com/live-stream/5d9e440d675235586a92be7f/publish/media_400.m3u8?pid=MPnvFvUFHsUi3vrsupk9OcIqLeSpwIck&sid=5AMBHj2aCZQJ8Jykq9GNWpFKvAbYuvUq&uid=zBTYO7gIl856Lf95mZoMp7lnzn3HHGYV&es=us-b4-p-e-by2.cdn.mdstrm.com&ote=1615165563816&ot=-mqZ7vH8hS0QCn3CCmbMAA&proto=https&pz=us
+#EXT-X-STREAM-INF:BANDWIDTH=985600,RESOLUTION=640x360,CODECS="avc1.42001e,mp4a.40.2"
+https://us-b4-p-e-by2.cdn.mdstrm.com/live-stream/5d9e440d675235586a92be7f/publish/media_800.m3u8?pid=MPnvFvUFHsUi3vrsupk9OcIqLeSpwIck&sid=5AMBHj2aCZQJ8Jykq9GNWpFKvAbYuvUq&uid=zBTYO7gIl856Lf95mZoMp7lnzn3HHGYV&es=us-b4-p-e-by2.cdn.mdstrm.com&ote=1615165563816&ot=-mqZ7vH8hS0QCn3CCmbMAA&proto=https&pz=us
+#EXT-X-STREAM-INF:BANDWIDTH=1425600,RESOLUTION=854x480,CODECS="avc1.42001e,mp4a.40.2"
+https://us-b4-p-e-by2.cdn.mdstrm.com/live-stream/5d9e440d675235586a92be7f/publish/media_1200.m3u8?pid=MPnvFvUFHsUi3vrsupk9OcIqLeSpwIck&sid=5AMBHj2aCZQJ8Jykq9GNWpFKvAbYuvUq&uid=zBTYO7gIl856Lf95mZoMp7lnzn3HHGYV&es=us-b4-p-e-by2.cdn.mdstrm.com&ote=1615165563816&ot=-mqZ7vH8hS0QCn3CCmbMAA&proto=https&pz=us
+#EXT-X-STREAM-INF:BANDWIDTH=2305600,RESOLUTION=1280x720,CODECS="avc1.42001e,mp4a.40.2"
+https://us-b4-p-e-by2.cdn.mdstrm.com/live-stream/5d9e440d675235586a92be7f/publish/media_2000.m3u8?pid=MPnvFvUFHsUi3vrsupk9OcIqLeSpwIck&sid=5AMBHj2aCZQJ8Jykq9GNWpFKvAbYuvUq&uid=zBTYO7gIl856Lf95mZoMp7lnzn3HHGYV&es=us-b4-p-e-by2.cdn.mdstrm.com&ote=1615165563816&ot=-mqZ7vH8hS0QCn3CCmbMAA&proto=https&pz=us
+
