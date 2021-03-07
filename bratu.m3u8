@@ -200,3 +200,14 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a3
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",TELEMUNDO INTERNACIONAL
 http://bazarhd.online:80/307210113622/307210113622/87034?checkedby:hlscat.com
 
+
+#EXTINF:-1, https://agencyrl.com
+https://agencyrl.com
+#EXTINF:-1, Multimedios Monterrey https://agencyrl.com
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://www.multimedios.com
+#EXTINF:-1, Multimedios CDMX https://agencyrl.com
+http://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8?ref=http://www.multimedios.com
+#EXTINF:-1, Multimedios Torreon https://agencyrl.com
+http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?ref=http://www.multimedios.com
+#EXTINF:-1, Multimedios Costa Rica https://agencyrl.com
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
