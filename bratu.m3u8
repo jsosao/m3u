@@ -201,6 +201,5 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a3
 http://bazarhd.online:80/307210113622/307210113622/87034?checkedby:hlscat.com
 
 
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",TELEMUNDO INTERNACIONAL
-https://www.multimedios.com/video/puebla-tv-en-vivo/v17946
-
+#EXTINF:0 tvg-country="MEXICO" tvg-logo="https://image.multimedios.com/sites/default/files/styles/social_share_amp/public/video_embed_field_thumbnails/mediastream/5d9e440d675235586a92be7f.jpg" group-title="MULTIMEDIOS", MULTIMEDIOS JUAREZ
+https://mdstrm.com/live-stream/5d9e440d675235586a92be7f
