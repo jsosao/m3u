@@ -202,32 +202,5 @@ http://bazarhd.online:80/307210113622/307210113622/87034?checkedby:hlscat.com
 
 
 #EXTINF:0 tvg-country="MEXICO" tvg-logo="https://image.multimedios.com/sites/all/themes/multimedioslaguna/images/logo_amp_mm_bg.png" group-title="MULTIMEDIOS", MULTIMEDIOS LAGUNA
-https://us-b4-p-e-by2.cdn.mdstrm.com/live-stream/5d9e440d675235586a92be7f/publish/media_800.m3u8?pid=MPnvFvUFHsUi3vrsupk9OcIqLeSpwIck&sid=5AMBHj2aCZQJ8Jykq9GNWpFKvAbYuvUq&uid=zBTYO7gIl856Lf95mZoMp7lnzn3HHGYV&es=us-b4-p-e-by2.cdn.mdstrm.com&ote=1615165563816&ot=-mqZ7vH8hS0QCn3CCmbMAA&proto=https&pz=us
-
-
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:5
-#EXT-X-MEDIA-SEQUENCE:416214
-#EXT-X-DISCONTINUITY-SEQUENCE:143
-#EXTINF:4.00400,
-://us-b4-p-e-by2.cdn.mdstrm.com/live-stream/5d9e440d675235586a92be7f/media_2000_20210307T011338_416214.ts?
-#EXTINF:4.00400,
-://us-b4-p-e-by2.cdn.mdstrm.com/live-stream/5d9e440d675235586a92be7f/media_2000_20210307T011342_416215.ts?
-#EXTINF:4.00400,
-://us-b4-p-e-by2.cdn.mdstrm.com/live-stream/5d9e440d675235586a92be7f/media_2000_20210307T011346_416216.ts?
-#EXTINF:4.00400,
-://us-b4-p-e-by2.cdn.mdstrm.com/live-stream/5d9e440d675235586a92be7f/media_2000_20210307T011350_416217.ts?
-#EXTINF:4.00400,
-://us-b4-p-e-by2.cdn.mdstrm.com/live-stream/5d9e440d675235586a92be7f/media_2000_20210307T011354_416218.ts?
-#EXTINF:4.00400,
-://us-b4-p-e-by2.cdn.mdstrm.com/live-stream/5d9e440d675235586a92be7f/media_2000_20210307T011358_416219.ts?
-#EXTINF:4.00400,
-://us-b4-p-e-by2.cdn.mdstrm.com/live-stream/5d9e440d675235586a92be7f/media_2000_20210307T011402_416220.ts?
-#EXTINF:4.00400,
-://us-b4-p-e-by2.cdn.mdstrm.com/live-stream/5d9e440d675235586a92be7f/media_2000_20210307T011406_416221.ts?
-#EXTINF:4.00400,
-://us-b4-p-e-by2.cdn.mdstrm.com/live-stream/5d9e440d675235586a92be7f/media_2000_20210307T011410_416222.ts?
-#EXTINF:4.00400,
-://us-b4-p-e-by2.cdn.mdstrm.com/live-stream/5d9e440d675235586a92be7f/media_2000_20210307T011414_416223.ts?
-
-
+https://us-b4-p-e-by2.cdn.mdstrm.com/live-stream/5d9e440d675235586a92be7f/publish/media_1200.m3u8?pid=MPnvFvUFHsUi3vrsupk9OcIqLeSpwIck&sid=5AMBHj2aCZQJ8Jykq9GNWpFKvAbYuvUq&uid=zBTYO7gIl856Lf95mZoMp7lnzn3HHGYV&es=us-b4-p-e-by2.cdn.mdstrm.com&ote=1615165563816&ot=-mqZ7vH8hS0QCn3CCmbMAA&proto=https&pz=us
+#EXT-X-STREAM-INF:BANDWIDTH=2305600,RESOLUTION=1280x720,CODECS="avc1.42001e,mp4a.40.2"
