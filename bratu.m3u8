@@ -2,149 +2,149 @@
 #EXTINF:0 tvg-logo="https://bratu-marian.com/wp-content/uploads/2020/12/logo-300x54.png", === BRATU https://bratu-marian.com/ ====
 http://nosirve.com
 
-#EXTINF:-1,USA NETWORK
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" USA NETWORK
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/6cdb3402d11f58d.ts|User-Agent=1m3u8
-#EXTINF:-1,SYFY
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" SYFY
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/67038808a84c8bf.ts|User-Agent=1m3u8
-#EXTINF:-1,ABC
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" ABC
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/0e6c4d14b1f65b1.ts|User-Agent=1m3u8
-#EXTINF:-1,AMC USA
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" AMC USA
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/66b474a9a9f378f.ts|User-Agent=1m3u8
-#EXTINF:-1,HBO ZONE
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" HBO ZONE
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/c6742879f48d851.ts|User-Agent=1m3u8
-#EXTINF:-1,HBO SINGNATURE
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" HBO SINGNATURE
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/5c7ef9dc7c56bcc.ts|User-Agent=1m3u8
-#EXTINF:-1,HBO COMEDY
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" HBO COMEDY
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/703a7ca1b55dd42.ts|User-Agent=1m3u8
-#EXTINF:-1,Discovery USA
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" Discovery USA
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/ef7e8c7bc86110e.ts|User-Agent=1m3u8
-#EXTINF:-1,FOX NEWS
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" FOX NEWS
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/bdccd1583f23b76.ts|User-Agent=1m3u8
-#EXTINF:-1,HBO HD
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" HBO HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/f7572ae43c4e6c9.ts|User-Agent=1m3u8
-#EXTINF:-1,ROMEDY NOW
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" ROMEDY NOW
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/71cbae270b70d42.ts|User-Agent=1m3u8
-#EXTINF:-1,FX
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" FX
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/72f775298861002.ts|User-Agent=1m3u8
-#EXTINF:-1,HGTV
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" HGTV
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/49574eb6f420f42.ts|User-Agent=1m3u8
-#EXTINF:-1,SPIKE
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" SPIKE
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/f031091391cd4bc.ts|User-Agent=1m3u8
-#EXTINF:-1,LIFETIME
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" LIFETIME
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/dc7b922d466aff1.ts|User-Agent=1m3u8
-#EXTINF:-1,TNT TV
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" TNT TV
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/34ce89ee7805b57.ts|User-Agent=1m3u8
-#EXTINF:-1,CBS
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" CBS
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/60df592cb434e69.ts|User-Agent=1m3u8
-#EXTINF:-1,STARZ HD
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" STARZ HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/d5e1cf3fe6ec7a1.ts|User-Agent=1m3u8
-#EXTINF:-1,STARZ WEST
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" STARZ WEST
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/0195e4ebd24a621.ts|User-Agent=1m3u8
-#EXTINF:-1,STARZ COMEDY
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" STARZ COMEDY
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/0410ef59b25fa10.ts|User-Agent=1m3u8
-#EXTINF:-1,STARZ EDGE
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" STARZ EDGE
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/5a0cbe78eaa3e8d.ts|User-Agent=1m3u8
-#EXTINF:-1,BRAVO
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" BRAVO
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/0d3dbf8c78f1fb7.ts|User-Agent=1m3u8
-#EXTINF:-1,CW TV
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" CW TV
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/ca29df416404eb0.ts|User-Agent=1m3u8
-#EXTINF:-1,E ENTERTAINMENT
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" E ENTERTAINMENT
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/745d08bd8add130.ts|User-Agent=1m3u8
-#EXTINF:-1,SHOWTIME
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" SHOWTIME
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/01dc6c36aaa44ca.ts|User-Agent=1m3u8
-#EXTINF:-1,FOOD NETWORK
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" FOOD NETWORK
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/5a6d71f43306a8a.ts|User-Agent=1m3u8
-#EXTINF:-1,HISTORY US
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" HISTORY US
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/bd2d62fd0dc1671.ts|User-Agent=1m3u8
-#EXTINF:-1,TBS
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" TBS
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/2d41bb876ce7c58.ts|User-Agent=1m3u8
-#EXTINF:-1,COMEDY CENTRAL
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" COMEDY CENTRAL
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/1decf72573aba25.ts|User-Agent=1m3u8
-#EXTINF:-1,MOVIETIME
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" MOVIETIME
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/6a85d8af1dba51b.ts|User-Agent=1m3u8
-#EXTINF:-1,NAT GEO USA
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" NAT GEO USA
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/9aec1251f2f1722.ts|User-Agent=1m3u8
-#EXTINF:-1,FOX US
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" FOX US
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/f653089b2488843.ts|User-Agent=1m3u8
-#EXTINF:-1,CNN US
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" CNN US
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/bc30096cf71a404.ts|User-Agent=1m3u8
-#EXTINF:-1,CINEMAX
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" CINEMAX
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/a372ed6cf65b6f5.ts|User-Agent=1m3u8
-#EXTINF:-1,NICK AT NITE
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" NICK AT NITE
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/b222b06906f7b01.ts|User-Agent=1m3u8
-#EXTINF:-1,OWN
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" OWN
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/ff33126656267e6.ts|User-Agent=1m3u8
-#EXTINF:-1,HALLMARK
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" HALLMARK
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/ebdb2e695fb8225.ts|User-Agent=1m3u8
-#EXTINF:-1,HALLMARK  DRAMA
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" HALLMARK  DRAMA
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/a05fa9feb340d57.ts|User-Agent=1m3u8
-#EXTINF:-1,HALLMARK  MOVIES & MYSTERIES
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" HALLMARK  MOVIES & MYSTERIES
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/ea42cd8adbacbf5.ts|User-Agent=1m3u8
-#EXTINF:-1,TLC USA
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" TLC USA
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/ae6fb6b1324062f.ts|User-Agent=1m3u8
-#EXTINF:-1,BET
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" BET
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/a12bdf862525aa3.ts|User-Agent=1m3u8
-#EXTINF:-1,LMN US
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" LMN US
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/85b69598048162d.ts|User-Agent=1m3u8
-#EXTINF:-1,SUNDANCE
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" SUNDANCE
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/5fb14664cf33f02.ts|User-Agent=1m3u8
-#EXTINF:-1,FXX
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" FXX
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/91aa6e119268a4a.ts|User-Agent=1m3u8
-#EXTINF:-1,VH1 US
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" VH1 US
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/916e78353aae72e.ts|User-Agent=1m3u8
-#EXTINF:-1,SEC NETWORK
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" SEC NETWORK
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/96fe5b675f4cd6f.ts|User-Agent=1m3u8
-#EXTINF:-1,MLB NETWORK
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" MLB NETWORK
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/99ef9719dbc08ac.ts|User-Agent=1m3u8
-#EXTINF:-1,FREEFROM
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" FREEFROM
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/5c23a6e4dd0d025.ts|User-Agent=1m3u8
-#EXTINF:-1,DISNEY CH US
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" DISNEY CH US
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/c3aec54924de8fa.ts|User-Agent=1m3u8
-#EXTINF:-1,DISCOVERY SCI
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" DISCOVERY SCI
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/109c2fc33faa673.ts|User-Agent=1m3u8
-#EXTINF:-1,DISCOVERY VELOCITY
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" DISCOVERY VELOCITY
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/67995090b823efb.ts|User-Agent=1m3u8
-#EXTINF:-1,EL REY NETWORK
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" EL REY NETWORK
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/4b8d32b1e7dfcd2.ts|User-Agent=1m3u8
-#EXTINF:-1,TV LAND
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" TV LAND
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/8a8b8e9dcaced2e.ts|User-Agent=1m3u8
-#EXTINF:-1,TRAVEL CHANNEL
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" TRAVEL CHANNEL
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/1c507d6a658a8d7.ts|User-Agent=1m3u8
-#EXTINF:-1,TENNIS CHANNEL
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" TENNIS CHANNEL
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/8c570323c46977a.ts|User-Agent=1m3u8
-#EXTINF:-1,BBC AMERICA
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" BBC AMERICA
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/3f81dd244090bac.ts|User-Agent=1m3u8
-#EXTINF:-1,MSNBC
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" MSNBC
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/8de3156f7d974da.ts|User-Agent=1m3u8
-#EXTINF:-1,BIG TEN NETWORK
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" BIG TEN NETWORK
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/0a8c23a12b66e1b.ts|User-Agent=1m3u8
-#EXTINF:-1,GSN
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" GSN
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/ad14cbfdae92119.ts|User-Agent=1m3u8
-#EXTINF:-1,IFC
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" IFC
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/cfe184c83cd7ef3.ts|User-Agent=1m3u8
-#EXTINF:-1,ANIMAL PLANET US
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" ANIMAL PLANET US
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/2008f2290a3e70b.ts|User-Agent=1m3u8
-#EXTINF:-1,CARTOON NET US
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" CARTOON NET US
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/37c45aa761c20c2.ts|User-Agent=1m3u8
-#EXTINF:-1,DISCOVERY ID
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" DISCOVERY ID
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/d01c3cfe0f2380e.ts|User-Agent=1m3u8
-#EXTINF:-1,DISCOVERY FAMILY
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" DISCOVERY FAMILY
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/6b78de5e46919bf.ts|User-Agent=1m3u8
-#EXTINF:-1,A & E USA
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" A & E USA
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/efa97988d6e8641.ts|User-Agent=1m3u8
-#EXTINF:-1,WE TV
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" WE TV
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/5b71d35616b119d.ts|User-Agent=1m3u8
-#EXTINF:-1,Paramount Network
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" Paramount Network
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/80944d9a539e072.ts|User-Agent=1m3u8
-#EXTINF:-1,DISCOVERY LIFE
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" DISCOVERY LIFE
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/50b5663f5c2770a.ts|User-Agent=1m3u8
-#EXTINF:-1,BOUNCE TV
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" BOUNCE TV
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/7fa33eb99a317cb.ts|User-Agent=1m3u8
-#EXTINF:-1,NICKTOONS
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" NICKTOONS
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/d75391cc2d2543c.ts|User-Agent=1m3u8
-#EXTINF:-1,TEENNICK
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" TEENNICK
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/b02b9f2c6e42794.ts|User-Agent=1m3u8
-#EXTINF:-1,ABC NEWS
+#EXTINF:-1,tvg-country="US" tvg-logo="" group-title="US" ABC NEWS
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/297dc21e6da8c54.ts|User-Agent=1m3u8
 
 #EXTINF:0,=== HSL CAT WGN====
@@ -601,55 +601,55 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 #EXTINF:0,=== HSL CAT ESPAÑA====
 http://nosirve.com
-#EXTINF:-1,AMC ES
+#EXTINF:-1,tvg-country="ES" tvg-logo="" group-title="ES" AMC ES
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/6cc49bcb9969bac.ts|User-Agent=1m3u8
-#EXTINF:-1,ANTENA 3
+#EXTINF:-1,tvg-country="ES" tvg-logo="" group-title="ES" ANTENA 3
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/c96d4179790c2af.ts|User-Agent=1m3u8
-#EXTINF:-1,DISNEY CHANNEL ES
+#EXTINF:-1,tvg-country="ES" tvg-logo="" group-title="ES" DISNEY CHANNEL ES
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/4486d8945630b17.ts|User-Agent=1m3u8
-#EXTINF:-1,DISNEY JR ES
+#EXTINF:-1,tvg-country="ES" tvg-logo="" group-title="ES" DISNEY JR ES
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/7e1f569f70c2760.ts|User-Agent=1m3u8
-#EXTINF:-1,BEIN SPORTS ES
+#EXTINF:-1,tvg-country="ES" tvg-logo="" group-title="ES" BEIN SPORTS ES
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/7600cb72b04c5da.ts|User-Agent=1m3u8
-#EXTINF:-1,M LALIGA
+#EXTINF:-1,tvg-country="ES" tvg-logo="" group-title="ES" M LALIGA
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/60db5d8cba015b9.ts|User-Agent=1m3u8
-#EXTINF:-1,FOX ES
+#EXTINF:-1,tvg-country="ES" tvg-logo="" group-title="ES" FOX ES
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/1870aa62f6a590d.ts|User-Agent=1m3u8
-#EXTINF:-1,HISTORY TV ES
+#EXTINF:-1,tvg-country="ES" tvg-logo="" group-title="ES" HISTORY TV ES
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/fa4c00adaf3e477.ts|User-Agent=1m3u8
-#EXTINF:-1,LA 1
+#EXTINF:-1,tvg-country="ES" tvg-logo="" group-title="ES" LA 1
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/7d95b804dddbda6.ts|User-Agent=1m3u8
-#EXTINF:-1,LA 2
+#EXTINF:-1,tvg-country="ES" tvg-logo="" group-title="ES" LA 2
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/687c41fcf0f6bcb.ts|User-Agent=1m3u8
-#EXTINF:-1,LA SEXTA
+#EXTINF:-1,tvg-country="ES" tvg-logo="" group-title="ES" LA SEXTA
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/9e5ed2b81a043b0.ts|User-Agent=1m3u8
-#EXTINF:-1,M MOTOTGP
+#EXTINF:-1,tvg-country="ES" tvg-logo="" group-title="ES" M MOTOTGP
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/ce916bfb15d43f7.ts|User-Agent=1m3u8
-#EXTINF:-1,M CINE M
+#EXTINF:-1,tvg-country="ES" tvg-logo="" group-title="ES" M CINE M
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/186e8113179aa12.ts|User-Agent=1m3u8
-#EXTINF:-1,M FORMULA 1
+#EXTINF:-1,tvg-country="ES" tvg-logo="" group-title="ES" M FORMULA 1
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/e086c5886ceaa0f.ts|User-Agent=1m3u8
-#EXTINF:-1,M FOTBOL
+#EXTINF:-1,tvg-country="ES" tvg-logo="" group-title="ES" M FOTBOL
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/dfc0eab9e5875fc.ts|User-Agent=1m3u8
-#EXTINF:-1,M ACCION
+#EXTINF:-1,tvg-country="ES" tvg-logo="" group-title="ES" M ACCION
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/468abf6de5876cf.ts|User-Agent=1m3u8
-#EXTINF:-1,M DCINE
+#EXTINF:-1,tvg-country="ES" tvg-logo="" group-title="ES" M DCINE
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/ddec42cd05c901c.ts|User-Agent=1m3u8
-#EXTINF:-1,M SERIES XTRA
+#EXTINF:-1,tvg-country="ES" tvg-logo="" group-title="ES" M SERIES XTRA
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/2b843400a9aebc1.ts|User-Agent=1m3u8
-#EXTINF:-1,SYFY TV ES
+#EXTINF:-1,tvg-country="ES" tvg-logo="" group-title="ES" SYFY TV ES
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/5080f5e8dec0927.ts|User-Agent=1m3u8
-#EXTINF:-1,TNT ES
+#EXTINF:-1,tvg-country="ES" tvg-logo="" group-title="ES" TNT ES
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/516f16c1c2a68c2.ts|User-Agent=1m3u8
-#EXTINF:-1,TOROS TV
+#EXTINF:-1,tvg-country="ES" tvg-logo="" group-title="ES" TOROS TV
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/135ec32569b08c4.ts|User-Agent=1m3u8
-#EXTINF:-1,M GOLF
+#EXTINF:-1,tvg-country="ES" tvg-logo="" group-title="ES" M GOLF
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/54ff054e0790eb8.ts|User-Agent=1m3u8
-#EXTINF:-1,LIGA 123
+#EXTINF:-1,tvg-country="ES" tvg-logo="" group-title="ES" LIGA 123
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/6dde2691a4fabbb.ts|User-Agent=1m3u8
-#EXTINF:-1,M ESTRENOS
+#EXTINF:-1,tvg-country="ES" tvg-logo="" group-title="ES" M ESTRENOS
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/a6ac16259aebc3c.ts|User-Agent=1m3u8
-#EXTINF:-1,LIGA DE CAMPEONES
+#EXTINF:-1,tvg-country="ES" tvg-logo="" group-title="ES" LIGA DE CAMPEONES
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/9a7ec5dc9bd5a35.ts|User-Agent=1m3u8
-#EXTINF:-1,ZEE MUNDO
+#EXTINF:-1,tvg-country="ES" tvg-logo="" group-title="ES" ZEE MUNDO
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/e53a7f5368d5be5.ts|User-Agent=1m3u8
