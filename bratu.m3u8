@@ -598,3 +598,5 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="AZTECA AMERICA",AZTECA UNO
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678?checkedby:hlscat.com
 
+#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="AZTECA AMERICA",ESTRELLAS
+channel-estrellasd2-cdn.blim.com/playlist.m3u8
