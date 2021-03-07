@@ -193,6 +193,51 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a3
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="TELEMUNDO",TELEMUNDO INTERNACIONAL
 http://bazarhd.online:80/307210113622/307210113622/87034?checkedby:hlscat.com
 
+#EXTINF:0,=== HSL CAT KTLA====
+http://nosirve.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/JH99Psi.jpg" group-title="KTLA",KTLA 5 (Los Angeles)
+https://bozztv.com/teleyupp1/teleup-N8qwnqgUq2/playlist.m3u8?checkedby:hlscat.com
+
+#EXTINF:0,=== HSL CAT NBC====
+http://nosirve.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="NBC Local",NBC 10 EAST
+http://tvmedia2.com:8080/Hunter2/Hunter2/164252.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://ewscripps.brightspotcdn.com/dims4/default/31cd86c/2147483647/strip/true/crop/600x200+0+0/resize/400x133!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F09%2F30%2F6709482a41ef96f6ba6259d6ae66%2Fwgba-geographic-locator-600x200.png" group-title="NBC Local",NBC 26 (WGBA)
+https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="NBC Local",NBC 4 NY
+http://tvmedia2.com:8080/Hunter2/Hunter2/164251.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="NBC Local",NBC 5
+http://tvmedia2.com:8080/Hunter2/Hunter2/164250.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="NBC Local",NBC 5 DALLAS TX
+http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/393325?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="NBC Sport",NBC Sports Bay Area HD
+http://tvmedia2.com:8080/Hunter2/Hunter2/164248.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="NBC Sport",NBC Sports Boston HD
+http://tvmedia2.com:8080/Hunter2/Hunter2/164247.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="NBC Sport",NBC Sports California HD
+http://tvmedia2.com:8080/Hunter2/Hunter2/164246.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="NBC Sport",NBC Sports Chicago HD
+http://tvmedia2.com:8080/Hunter2/Hunter2/164245.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="NBC Sport",NBC Sports Network
+http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/8758?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="NBC Sport",NBC Sports Northwest HD
+http://tvmedia2.com:8080/Hunter2/Hunter2/164243.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="NBC Sport",NBC Sports Philadelphia HD
+http://tvmedia2.com:8080/Hunter2/Hunter2/164242.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="NBC Local",NBC UNIVERSO
+http://tvmedia2.com:8080/Hunter2/Hunter2/164241.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="NBC Local",NBC West HD
+http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/8360?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="NBC Local",NBC5CHICAGO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/602?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="NBC Local",NBCMIAMI
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/603?checkedby:hlscat.com
+
+
+
+
+
+
 #EXTINF:0,=== HSL CAT GALAVISION====
 http://nosirve.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="GALAVISION",GALAVISION
