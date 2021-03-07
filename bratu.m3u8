@@ -233,9 +233,72 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="NBC Local",NBCMIAMI
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/603?checkedby:hlscat.com
 
+#EXTINF:0,=== HSL CAT CBS====
+http://nosirve.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="CBS Local",CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="CBS Local",CBS 10 CORPUS CHRISTI
+http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/392380?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="CBS Local",CBS 11 DALLAS
+http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/392395?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="CBS Local",CBS 11 Houston TX
+http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/392400?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="CBS Local",CBS 12 Chicago IL
+http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/392419?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="CBS Local",CBS 2 Los Angeles
+http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/392483?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="CBS Local",CBS 3 PHILADELPHIA*
+http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/392543?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="CBS Local",CBS Baltimore WJZ
+http://supersonictv.live:25461/903310/034806/71330?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="CBS Local",CBS Cleveland WOIO
+http://supersonictv.live:25461/903310/034806/71403?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="CBS Local",CBS EAST
+http://tvmedia2.com:8080/Hunter2/Hunter2/164342.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="CBS Local",CBS NY FHD
+http://tvmedia2.com:8080/Hunter2/Hunter2/164341.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/MH7kNnl.png" group-title="CBS News",CBS News
+https://www.cbsnews.com/common/video/dai_prod.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://cbsnews3.cbsistatic.com/hub/i/r/2019/09/24/0d50a028-008e-4bc3-b644-d37bad126c61/logo-cbsn-boston-1920x1080.jpg" group-title="CBS News",CBS News Boston
+https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://cbsnews1.cbsistatic.com/hub/i/r/2019/06/10/f864d4e3-8707-4b99-9cc0-ba1778552e15/thumbnail/logo-cbsnla-1920x1080-new.jpg" group-title="CBS News",CBS News Los Angeles
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="CBS Sport",CBS SPORTS NETWORK
+http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/8843?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="CBS Local",CBS11HOUSTON
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/491?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="CBS Local",CBS2CHICAGO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/492?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="CBS Local",CBSMIAMI
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/496?checkedby:hlscat.com
 
 
-
+#EXTINF:0,=== HSL CAT ABC====
+http://nosirve.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="ABC Local",ABC 2 ATLANTA
+http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/392296?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="ABC Local",ABC 2 PORTLAND
+http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/392301?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="ABC Local",ABC 5 Cleveland
+http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/392327?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="ABC Local",ABC 6 PHILADELPHIA
+http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/392277?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="ABC Local",ABC 7 Chicago IL
+http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/392336?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="ABC Local",ABC 7 HD
+http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/8399?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="ABC Local",ABC 7 NEW YORK
+http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/392343?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="ABC Local",ABC Atlanta WSB
+http://supersonictv.live:25461/903310/034806/71290?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="ABC Local",ABC EAST HD
+http://tvmedia2.com:8080/Hunter2/Hunter2/164364.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="ABC Local",ABC NEW YORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/728?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="ABC Local",ABC New York UHD
+http://supersonictv.live:25461/903310/034806/71676?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/8sQ5mfL.png" group-title="ABC Local",WXYZ ABC 7 Detroit (New!)
+https://content-auso2.uplynk.com/channel/9c9e4e410b5a471391c116166d8c010e.m3u8?checkedby:hlscat.com
 
 
 #EXTINF:0,=== HSL CAT GALAVISION====
