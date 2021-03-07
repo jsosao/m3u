@@ -147,6 +147,9 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/b02b9f2c6e42794.t
 #EXTINF:-1,ABC NEWS
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/297dc21e6da8c54.ts|User-Agent=1m3u8
 
+#EXTINF:-1,=== HSL CAT UNIVISION====
+http://nosirve.com
+
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",UNIVISION
 http://bazarhd.online:80/307210150633/307210150633/81187?checkedby:hlscat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",UNIVISION
@@ -168,7 +171,7 @@ http://bazarhd.online:80/307210113622/307210113622/86934?checkedby:hlscat.com
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",UNIVISION TELENOVELAS
 http://bazarhd.online:80/307210113622/307210113622/87016?checkedby:hlscat.com
 
-#EXTINF:-1,=== HSL CAT ====
+#EXTINF:-1,=== HSL CAT TELEMUNO====
 http://nosirve.com
 #EXTINF:0 tvg-country="UG" tvg-logo="" group-title="Undefined",TELEMUNDO
 http://bazarhd.online:80/307210113622/307210113622/84926?checkedby:hlscat.com
@@ -196,4 +199,20 @@ http://ariaccess.com:80/ArisGladio/PartnerGladio/76975?checkedby:hlscat.com
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=940&deviceId=5cf96cc422df39f1a338d165&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",TELEMUNDO INTERNACIONAL
 http://bazarhd.online:80/307210113622/307210113622/87034?checkedby:hlscat.com
+
+
+#EXTINF:-1,=== HSL CAT LAGUNA====
+http://nosirve.com
+
+#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/czXDdQC.jpg" group-title="Undefined",Multimedios Laguna
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/yr9M9Kj.png" group-title="Undefined",Multimedios Laguna
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/czXDdQC.jpg" group-title="Undefined",Multimedios Laguna
+https://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Multimedios Guadalajara (Opt-2) (New!)
+http://mdstrm.com/live-stream-playlist_400/5c54d38ca392a5119bb0aa0d.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Multimedios Laguna (Opt-2)
+http://mdstrm.com/live-stream-playlist_400/57bf686a61ff39e1085d43e1.m3u8?checkedby:hlscat.com
+
 
