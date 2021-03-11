@@ -755,70 +755,95 @@ http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/3477?checkedby:h
 #EXTINF:0,=== HSL CAT LATINO====
 http://nosirve.com
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="UNIVISION",UNIVISION
-http://bazarhd.online:80/307210113622/307210113622/81187?checkedby:hlscat.com
+
+
+
+
+#EXTM3U
+#PLAYLIST:hlscat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="UNIVISION",UNIVISION
 http://tvmedia2.com:8080/Hunter2/Hunter2/164172.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="UNIVISION",UNIVISION
-http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/8725?checkedby:hlscat.com
+http://tvmedia2.com:8080/Majdi1/Majdi1/164172.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="UNIVISION Sport",UNIVISION SPORTS   ULTIMO
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="UNIVISION Sport",UNIVISION TDN
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="UNIVISION",UNIVISION TDN
 http://tvmedia2.com:8080/Hunter2/Hunter2/164171.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="UNIVISION",UNIVISION TDN
+http://tvmedia2.com:8080/Majdi1/Majdi1/164171.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="UNIVISION",UNIVISION USA HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="UNIVISION Sport",UNIVISION DEPORTES
-http://bazarhd.online:80/307210113622/307210113622/86934?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="UNIVISION",UNIVISION TELENOVELAS
-http://bazarhd.online:80/307210113622/307210113622/87016?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="UNIVISION",Univision Austin
+http://plustlc.com:8080/live/altintas/03.04.2020/154926.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="UNIVISION",Univision FHD
+http://plustlc.com:8080/live/altintas/03.04.2020/154927.ts?checkedby:hlscat.com
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="TELEMUNDO",Telemundo Full HD
-http://6bc79edb.ulkakak.pw/iptv/CHPLNSPSC3DXKY/1080/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="http://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" group-title="TELEMUNDO",Telemundo Telenovelas
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:hlscat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="TELEMUNDO",TELEMUNDO
+http://tvmedia2.com:8080/Majdi1/Majdi1/164186.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="TELEMUNDO",TELEMUNDO 47 HD
+http://plustlc.com:8080/live/altintas/03.04.2020/154836.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="TELEMUNDO",TELEMUNDO BOSTON HD
+http://plustlc.com:8080/live/altintas/03.04.2020/154837.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="TELEMUNDO",TELEMUNDO DALLAS HD
+http://plustlc.com:8080/live/altintas/03.04.2020/154840.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="TELEMUNDO",TELEMUNDO HOUSTON
+http://plustlc.com:8080/live/altintas/03.04.2020/154844.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="TELEMUNDO",TELEMUNDO MIAMI
+http://plustlc.com:8080/live/altintas/03.04.2020/154846.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="TELEMUNDO",TELEMUNDO44
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654?checkedby:hlscat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="TELEMUNDO",TELEMUNDO48
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/655?checkedby:hlscat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="TELEMUNDO",TELEMUNDOLA
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/656?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="TELEMUNDO",Telemundo Fresno
+http://plustlc.com:8080/live/altintas/03.04.2020/154842.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="TELEMUNDO",TELEMUNDOMIAMI
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/657?checkedby:hlscat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="TELEMUNDO",TELEMUNDONEWYORK
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/658?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="TELEMUNDO",Telemundo Boston
-http://ariaccess.com:80/ArisGladio/PartnerGladio/76972?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="TELEMUNDO",Telemundo Chicago
-http://ariaccess.com:80/ArisGladio/PartnerGladio/76973?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="TELEMUNDO",Telemundo Connecticut
+http://plustlc.com:8080/live/altintas/03.04.2020/154839.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="TELEMUNDO",Telemundo Denver
-http://ariaccess.com:80/ArisGladio/PartnerGladio/76975?checkedby:hlscat.com
+http://plustlc.com:8080/live/altintas/03.04.2020/154841.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="TELEMUNDO",Telemundo San Antonio
+http://plustlc.com:8080/live/altintas/03.04.2020/154849.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="TELEMUNDO",Telemundo Tucson
+http://plustlc.com:8080/live/altintas/03.04.2020/154852.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" group-title="TELEMUNDO",Telemundo Telenovelas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=940&deviceId=5cf96cc422df39f1a338d165&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="TELEMUNDO",TELEMUNDO INTERNACIONAL
-http://bazarhd.online:80/307210113622/307210113622/87034?checkedby:hlscat.com
+
+
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="GALAVISION",GALAVISION
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556?checkedby:hlscat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="GALAVISION",GALAVISION
-http://bazarhd.online:80/307210113622/307210113622/81097?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="GALAVISION",GALAVISION
 http://tvmedia2.com:8080/Hunter2/Hunter2/164295.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="GALAVISION",GALAVISION
+http://tvmedia2.com:8080/Majdi1/Majdi1/164295.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="GALAVISION",GALAVISION
+http://plustlc.com:8080/live/altintas/03.04.2020/154010.ts?checkedby:hlscat.com
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="CANAL DE LAS ESTRELLAS",Canal De Las Estrellas
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Canal De Las Estrellas",Canal De Las Estrellas
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/682?checkedby:hlscat.com
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="ESTRELLATV",ESTRELLATV
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/697?checkedby:hlscat.com
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="UNIMAS",UNIMAS
-http://tvmedia2.com:8080/Hunter2/Hunter2/164174.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="UNIMAS",UNIMAS HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/663?checkedby:hlscat.com
-
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="AZTECA AMERICA",AZTECA CINEMA
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/766?checkedby:hlscat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="AZTECA AMERICA",AZTECA UNO
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678?checkedby:hlscat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="UNIMAS",UNIMAS
+http://tvmedia2.com:8080/Hunter2/Hunter2/164174.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="UNIMAS",UNIMAS
+http://tvmedia2.com:8080/Majdi1/Majdi1/164174.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="UNIMAS",UNIMAS
+http://plustlc.com:8080/live/altintas/03.04.2020/154920.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="UNIMAS",UNIMAS HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/663?checkedby:hlscat.com
 
 
 #EXTINF:0,=== HSL CAT ESPAÑA====
