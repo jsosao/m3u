@@ -151,32 +151,43 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/297dc21e6da8c54.t
 http://nosirve.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="WGN",USA WGN 9 Chicago
 http://supersonictv.live:25461/903310/034806/77553?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="WGN",WGN 9 HD
+http://plustlc.com:8080/live/altintas/03.04.2020/154967.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="WGN",WGN AMERICA
 http://tvmedia2.com:8080/Hunter2/Hunter2/164166.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="WGN",WGN AMERICA HD
-http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/8341?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="WGN",WGN9 NEWS
-http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/8478?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="WGN",WGN AMERICA
+http://tvmedia2.com:8080/Majdi1/Majdi1/164166.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="WGN",WGN America HD
+http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/7260?checkedby:hlscat.com
 
 #EXTINF:0,=== HSL CAT KTLA====
 http://nosirve.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/JH99Psi.jpg" group-title="KTLA",KTLA 5 (Los Angeles)
-https://bozztv.com/teleyupp1/teleup-N8qwnqgUq2/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/JH99Psi.jpg" group-title="KTLA",CW KTLA Los Angeles
+http://supersonictv.live:25461/903310/034806/71614?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="KTLA",KTLA
+http://plustlc.com:8080/live/altintas/03.04.2020/154119.ts?checkedby:hlscat.com
 
 #EXTINF:0,=== HSL CAT USA NETWORK====
 http://nosirve.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="USA NETWORK",USA NETWORK
-http://tvmedia2.com:8080/Hunter2/Hunter2/164170.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="USA NETWORK",USA NETWORK HD
-http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/8333?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="USA NETWORK",USA NETWORK West
-http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/182146?checkedby:hlscat.com
+http://tvmedia2.com:8080/Majdi1/Majdi1/164170.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="USA NETWORK",USA NETWORK EAST
+http://plustlc.com:8080/live/altintas/03.04.2020/154929.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="USA NETWORK",USA NETWORK WEST
+http://plustlc.com:8080/live/altintas/03.04.2020/154931.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="USA NETWORK",USA Network
+http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/892?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="USA NETWORK",USA Network HD
+http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/1096?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="USA NETWORK",USA Network HD
+http://plustlc.com:8080/live/altintas/03.04.2020/154930.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="USA NETWORK",USA Network West LHD
 http://supersonictv.live:25461/903310/034806/22129?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="USA NETWORK",USA USA NETWORK (WEST)
-http://supersonictv.live:25461/903310/034806/22175?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="USA NETWORK",USA Network East UHD
-http://supersonictv.live:25461/903310/034806/22174?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="USA NETWORK",USA NETWORK
+http://bazarhd.online:80/307210113622/307210113622/81189?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="USA NETWORK",USA NETWORK
+http://tvmedia2.com:8080/Hunter2/Hunter2/164170.ts?checkedby:hlscat.com
+
 
 #EXTINF:0,=== HSL CAT NBC====
 http://nosirve.com
@@ -350,8 +361,6 @@ http://tvmedia2.com:8080/Hunter2/Hunter2/164303.ts?checkedby:hlscat.com
 http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/392257?checkedby:hlscat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="FOX NET",FoxNet Clarksburg WV
 http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/392260?checkedby:hlscat.com
-
-
 
 #EXTINF:0,=== HSL CAT TNT====
 http://nosirve.com
