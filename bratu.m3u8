@@ -164,266 +164,250 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a3
 
 
 
-#EXTINF:-1,########## CARLOS ##########
-#EXTINF:-1 ,#0 FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10330
-#EXTINF:-1 ,7RM FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10311
-#EXTINF:-1 ,A3 SERIES FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10320
-#EXTINF:-1 ,AMC FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10317
-#EXTINF:-1 ,AXN FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10316
-#EXTINF:-1 ,AXN WHITE FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10315
-#EXTINF:-1 ,BEIN LALIGA FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10313
-#EXTINF:-1 ,BEIN SPORTS ESPANAA FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10314
-#EXTINF:-1 ,BEMAD FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10310
-#EXTINF:-1 ,CLAN TV FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10309
-#EXTINF:-1 ,COSMO FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10308
-#EXTINF:-1 ,MOVISTAR ACCION FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10325
-#EXTINF:-1 ,MOVISTAR CINEDOC&ROLL FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10326
-#EXTINF:-1 ,MOVISTAR COMEDIA FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10324
-#EXTINF:-1 ,MOVISTAR SERIESMANIA FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10323
-#EXTINF:-1 ,TCM FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10312
-#EXTINF:-1 ,ANTENA 3 FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5434
-#EXTINF:-1 ,BEIN SPORTS LA LIGA FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5417
-#EXTINF:-1 ,COMEDY CENTRAL FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5426
-#EXTINF:-1 ,CUATRO FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5433
-#EXTINF:-1 ,HOLLYWOOD FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5424
-#EXTINF:-1 ,LA 1 FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5435
-#EXTINF:-1 ,MOVISTAR DCINE FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5429
-#EXTINF:-1 ,MOVISTAR XTRA FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5428
-#EXTINF:-1 ,SYFY FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5423
-#EXTINF:-1 ,TELECINCO FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5432
-#EXTINF:-1 ,NATIONAL GEO FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10345
-#EXTINF:-1 ,TNT FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5422
-#EXTINF:-1 ,MOVISTAR GOLF FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10900
-#EXTINF:-1 , FDF HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/9542
-#EXTINF:-1 , LA UNA 1 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3182
-#EXTINF:-1 , LA DOS 2 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3183
-#EXTINF:-1 , TV3 CATALONIA
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3589
-#EXTINF:-1 , ANTENA 3 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3184
-#EXTINF:-1 , CUATRO HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3277
-#EXTINF:-1 , TELECINCO
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3141
-#EXTINF:-1 , LA SEXTA HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3185
-#EXTINF:-1 , TCM HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3253
-#EXTINF:-1 , CANAL 24 HORAS
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3242
-#EXTINF:-1 , CANAL ORBE21
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3187
-#EXTINF:-1 , TELEDEPORTE
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3976
-#EXTINF:-1 , ANDALUCIA TV
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3974
-#EXTINF:-1 , TV GALICIA
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3139
-#EXTINF:-1 , PARAMOUNT CHANNEL
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4040
-#EXTINF:-1 , MOVISTAR ACCION HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3198
-#EXTINF:-1 , MOVISTAR COMEDIA HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3152
-#EXTINF:-1 , MOVISTAR DCINE HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3151
-#EXTINF:-1 , MOVISTAR ESTRENOS FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3190
-#EXTINF:-1 , HOLLYWOOD HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3268
-#EXTINF:-1 , MOVISTAR XTRA
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3153
-#EXTINF:-1 , TNT HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3140
-#EXTINF:-1 ,ENERGY HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3972
-#EXTINF:-1 ,NOVA
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3975
-#EXTINF:-1 ,NEOX TV
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3927
-#EXTINF:-1 ,AMC HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3679
-#EXTINF:-1 ,FOX HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3194
-#EXTINF:-1 ,FOX LIFE HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3195
-#EXTINF:-1 ,MOVISTAR CINE N
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10271
-#EXTINF:-1 ,MOVISTAR CINEDOC&ROLL HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10286
-#EXTINF:-1 ,MOVISTAR SERIES HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3149
-#EXTINF:-1 ,MOVISTAR SERIESMANIA
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3148
-#EXTINF:-1 ,MOVISTAR DRAMA FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/9539
-#EXTINF:-1 ,MOVISTAR DRAMA HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/9540
-#EXTINF:-1 ,MOVISTAR SERIESMANIA HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/9541
-#EXTINF:-1 ,AXN HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3259
-#EXTINF:-1 ,AXN WHITE HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3260
-#EXTINF:-1 ,SYFY HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3267
-#EXTINF:-1 ,CALLE 13 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3197
-#EXTINF:-1 ,COMEDY CENTRAL
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3196
-#EXTINF:-1 ,COSMO
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3236
-#EXTINF:-1 ,CANAL+ COCINA
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3186
-#EXTINF:-1 ,CANAL+ TOROS
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3189
-#EXTINF:-1 ,CANAL  GOL
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3928
-#EXTINF:-1 ,LIGA 123 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4044
-#EXTINF:-1 ,LA LIGA 1
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3191
-#EXTINF:-1 ,MOVISTAR DEPORTES 1
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3155
-#EXTINF:-1 ,MOVISTAR LIGA CAMPEONES HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10284
-#EXTINF:-1 ,MOVISTAR VAMOS FHD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3154
-#EXTINF:-1 ,MOVISTAR MOTO GP
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3146
-#EXTINF:-1 ,EUROSPORT 1
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3222
-#EXTINF:-1 ,EUROSPORT 2
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3221
-#EXTINF:-1 ,ESPN
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3622
-#EXTINF:-1 ,CANAL 26 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3585
-#EXTINF:-1 ,DMAX HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10285
-#EXTINF:-1 ,VIAJAR HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3641
-#EXTINF:-1 ,SUNDANCE
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4042
-#EXTINF:-1 ,NATIONAL GEOGRAPHIC HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3145
-#EXTINF:-1 ,NAT GEO WILD HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3144
-#EXTINF:-1 ,DISCOVERY CHANNEL
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3214
-#EXTINF:-1 ,DISCOVERY MAX
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4038
-#EXTINF:-1 ,ODISEA HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3265
-#EXTINF:-1 ,CANAL DECASA
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3193
-#EXTINF:-1 ,A&E HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3239
-#EXTINF:-1 ,CAZA Y PESCA
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3215
-#EXTINF:-1 ,CRIME & INVESTIGATION
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3212
-#EXTINF:-1 ,MEGA HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3587
-#EXTINF:-1 ,HISTORIA
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3929
-#EXTINF:-1 ,TRECE HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3588
-#EXTINF:-1 ,BABY TV
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4330
-#EXTINF:-1 ,TVE CLAN
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3243
-#EXTINF:-1 ,CLAN TVE
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3973
-#EXTINF:-1 ,CANAL PANDA
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3188
-#EXTINF:-1 ,DISNEY CHANNEL
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3247
-#EXTINF:-1 ,DISNEY JUNIOR
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3966
-#EXTINF:-1 ,DISNEY XD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3249
-#EXTINF:-1 ,NICKELODEON HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3931
-#EXTINF:-1 ,NICK JUNIOR
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3933
-#EXTINF:-1 ,PANDA
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4043
-#EXTINF:-1 ,BOING HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3246
-#EXTINF:-1 ,MEZZO LIVE HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/9581
-#EXTINF:-1 ,MTV ESPANA
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3642
-#EXTINF:-1 ,DIVINITY
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4039
-#EXTINF:-1 ,TAQUILLA 1
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3643
-#EXTINF:-1 ,TAQUILLA 2
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3644
-#EXTINF:-1 ,TAQUILLA 3
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3645
-#EXTINF:-1 ,TAQUILLA 4
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3646
-#EXTINF:-1 ,TAQUILLA 5
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3132
-#EXTINF:-1 ,TAQUILLA 6
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3647
-#EXTINF:-1 ,TAQUILLA 7
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3134
-#EXTINF:-1 ,TAQUILLA 8
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3135
-#EXTINF:-1 ,TAQUILLA 9
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3136
-#EXTINF:-1 ,TAQUILLA10
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3801
-#EXTINF:-1 ,MOVISTAR ALQUILER 1 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10272
-#EXTINF:-1 ,MOVISTAR ALQUILER 2 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10273
-#EXTINF:-1 ,MOVISTAR ALQUILER 3 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10274
-#EXTINF:-1 ,MOVISTAR ALQUILER 4 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10275
-#EXTINF:-1 ,MOVISTAR ALQUILER 5 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10276
-#EXTINF:-1 ,MOVISTAR ALQUILER 6 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10277
-#EXTINF:-1 ,MOVISTAR ALQUILER 7 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10278
-#EXTINF:-1 ,MOVISTAR ALQUILER 8 HD
-http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10279
-
-
+#EXTINF:-1,########## ZUTV ##########
+#EXTINF:-1 tvg-id="" tvg-name="24/7  CAILLOU" tvg-logo="" group-title="24/7",24/7  CAILLOU
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/3.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  CORAJE EL PERRO COBARDE" tvg-logo="" group-title="24/7",24/7  CORAJE EL PERRO COBARDE
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/4.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  CUENTRO GREEM" tvg-logo="" group-title="24/7",24/7  CUENTRO GREEM
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/5.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  DINOSAURIOS 1991" tvg-logo="" group-title="24/7",24/7  DINOSAURIOS 1991
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/6.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  DRAGON BALL 1984" tvg-logo="" group-title="24/7",24/7  DRAGON BALL 1984
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/7.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  LOS SIMPSON" tvg-logo="" group-title="24/7",24/7  LOS SIMPSON
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/8.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  SOUTH PARK" tvg-logo="" group-title="24/7",24/7  SOUTH PARK
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/9.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  THE WALKING DEAD" tvg-logo="" group-title="24/7",24/7  THE WALKING DEAD
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/10.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ALF" tvg-logo="" group-title="24/7",24/7 ALF
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/11.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BARNY Y SUS AMIGOS" tvg-logo="" group-title="24/7",24/7 BARNY Y SUS AMIGOS
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/13.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BATMAN 1966 RETRO" tvg-logo="" group-title="24/7",24/7 BATMAN 1966 RETRO
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/14.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BOB ESPONJA" tvg-logo="" group-title="24/7",24/7 BOB ESPONJA
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/16.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BREAKING  BAD" tvg-logo="" group-title="24/7",24/7 BREAKING  BAD
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/17.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CABALLEROS DEL ZODIACO" tvg-logo="" group-title="24/7",24/7 CABALLEROS DEL ZODIACO
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/18.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CANTINFLAS" tvg-logo="" group-title="24/7",24/7 CANTINFLAS
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/19.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CSI: MIAMI" tvg-logo="" group-title="24/7",24/7 CSI: MIAMI
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/21.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Death note" tvg-logo="" group-title="24/7",24/7 Death note
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/22.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DESAFIO SOBRE FUEGO LATIN AMERICA" tvg-logo="" group-title="24/7",24/7 DESAFIO SOBRE FUEGO LATIN AMERICA
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/23.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON  BALL SUPER" tvg-logo="" group-title="24/7",24/7 DRAGON  BALL SUPER
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/25.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON BALL GT 1996" tvg-logo="" group-title="24/7",24/7 DRAGON BALL GT 1996
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/26.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON BALL Z 1989" tvg-logo="" group-title="24/7",24/7 DRAGON BALL Z 1989
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/27.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El AvispÃ³n Verde" tvg-logo="" group-title="24/7",24/7 El AvispÃ³n Verde
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/28.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAPULIN COLORADO" tvg-logo="" group-title="24/7",24/7 EL CHAPULIN COLORADO
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/29.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAVO DEL 8" tvg-logo="" group-title="24/7",24/7 EL CHAVO DEL 8
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/30.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHEMA" tvg-logo="" group-title="24/7",24/7 EL CHEMA
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/31.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL COYOTE Y CORRE CAMINOS" tvg-logo="" group-title="24/7",24/7 EL COYOTE Y CORRE CAMINOS
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/32.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL PATON DEL MAL" tvg-logo="" group-title="24/7",24/7 EL PATON DEL MAL
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/33.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL SEÃ‘OR DE LOS CIELOS" tvg-logo="" group-title="24/7",24/7 EL SEÃ‘OR DE LOS CIELOS
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/34.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FUTURAMA 1999" tvg-logo="" group-title="24/7",24/7 FUTURAMA 1999
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/35.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HAPPY TREE FRIENDS" tvg-logo="" group-title="24/7",24/7 HAPPY TREE FRIENDS
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/36.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 He-Man" tvg-logo="" group-title="24/7",24/7 He-Man
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/37.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HÃ‰ROES EN PIJAMAS" tvg-logo="" group-title="24/7",24/7 HÃ‰ROES EN PIJAMAS
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/38.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 JUEGO DE TRONOS" tvg-logo="" group-title="24/7",24/7 JUEGO DE TRONOS
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/39.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA CASA DE PAPEL" tvg-logo="" group-title="24/7",24/7 LA CASA DE PAPEL
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/40.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA FAMILIA MONSTERS 1964" tvg-logo="" group-title="24/7",24/7 LA FAMILIA MONSTERS 1964
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/41.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA HORA PICO" tvg-logo="" group-title="24/7",24/7 LA HORA PICO
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/42.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA PANTERA ROSA" tvg-logo="" group-title="24/7",24/7 LA PANTERA ROSA
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/44.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA RISA EN VACIONES" tvg-logo="" group-title="24/7",24/7 LA RISA EN VACIONES
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/45.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA ROSA DE GUADALUPE" tvg-logo="" group-title="24/7",24/7 LA ROSA DE GUADALUPE
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/46.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LAZY TOWN" tvg-logo="" group-title="24/7",24/7 LAZY TOWN
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/47.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LE TEMES ALA OSCURIDAD" tvg-logo="" group-title="24/7",24/7 LE TEMES ALA OSCURIDAD
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/48.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LOS LOCOS ADDAMS" tvg-logo="" group-title="24/7",24/7 LOS LOCOS ADDAMS
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/49.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LOS PICA PIEDRAS" tvg-logo="" group-title="24/7",24/7 LOS PICA PIEDRAS
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/50.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LUIS MIGUEL LA SERIE 2018" tvg-logo="" group-title="24/7",24/7 LUIS MIGUEL LA SERIE 2018
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/51.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Malcolm in the middle 2000" tvg-logo="" group-title="24/7",24/7 Malcolm in the middle 2000
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/52.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mazinger Z" tvg-logo="" group-title="24/7",24/7 Mazinger Z
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/53.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto" tvg-logo="" group-title="24/7",24/7 Naruto
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/55.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peliculas de terror" tvg-logo="" group-title="24/7",24/7 Peliculas de terror
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/57.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PELICULAS ESTRENOS 2018" tvg-logo="" group-title="24/7",24/7 PELICULAS ESTRENOS 2018
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/58.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PEPPA PIG" tvg-logo="" group-title="24/7",24/7 PEPPA PIG
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/59.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PINKY y CEREBRO" tvg-logo="" group-title="24/7",24/7 PINKY y CEREBRO
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/60.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PokÃ©mon" tvg-logo="" group-title="24/7",24/7 PokÃ©mon
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/61.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 POWER RANGERS" tvg-logo="" group-title="24/7",24/7 POWER RANGERS
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/62.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ROBOTECH" tvg-logo="" group-title="24/7",24/7 ROBOTECH
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/63.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SAILOR MOON" tvg-logo="" group-title="24/7",24/7 SAILOR MOON
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/64.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Shark Tank MÃ©xico TEP 1" tvg-logo="" group-title="24/7",24/7 Shark Tank MÃ©xico TEP 1
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/65.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Shark Tank MÃ©xico TEP 2" tvg-logo="" group-title="24/7",24/7 Shark Tank MÃ©xico TEP 2
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/66.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SHERA" tvg-logo="" group-title="24/7",24/7 SHERA
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/67.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SMALLVILLE" tvg-logo="" group-title="24/7",24/7 SMALLVILLE
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/68.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SPIDER-MAN" tvg-logo="" group-title="24/7",24/7 SPIDER-MAN
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/69.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STRANGER THINGS" tvg-logo="" group-title="24/7",24/7 STRANGER THINGS
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/70.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SUPER CAMPEONES" tvg-logo="" group-title="24/7",24/7 SUPER CAMPEONES
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/71.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THUNDERCAST" tvg-logo="" group-title="24/7",24/7 THUNDERCAST
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/72.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 XMEN ANIME" tvg-logo="https://images3.alphacoders.com/867/thumb-1920-867349.png" group-title="24/7",24/7 XMEN ANIME
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/73.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:A&E Latinoamerica" tvg-logo="" group-title="ENTRETENIMIENTO",MrZutv.net:A&E Latinoamerica
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/258.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Animal Planet LatinoamÃ©rica" tvg-logo="" group-title="MUNDO Y CULTURA",MrZutv.net:Animal Planet LatinoamÃ©rica
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/259.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Axn" tvg-logo="" group-title="SERIES",MrZutv.net:Axn
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/263.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Azteca Uno" tvg-logo="" group-title="MEXICO",MrZutv.net:Azteca Uno
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/265.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Boomerang Mexico" tvg-logo="" group-title="NIÃ‘OS",MrZutv.net:Boomerang Mexico
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/267.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Cartoon Network Mexico" tvg-logo="" group-title="NIÃ‘OS",MrZutv.net:Cartoon Network Mexico
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/274.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Cinecanal Oeste" tvg-logo="" group-title="CINEMA",MrZutv.net:Cinecanal Oeste
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/275.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:CineLatino" tvg-logo="" group-title="CINEMA",MrZutv.net:CineLatino
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/276.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:CNN en EspaÃ±ol" tvg-logo="" group-title="NOTICIAS",MrZutv.net:CNN en EspaÃ±ol
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/279.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Discovery Channel" tvg-logo="" group-title="MUNDO Y CULTURA",MrZutv.net:Discovery Channel
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/283.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Discovery Home & Health" tvg-logo="" group-title="MUNDO Y CULTURA",MrZutv.net:Discovery Home & Health
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/284.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Discovery Turbo" tvg-logo="" group-title="MUNDO Y CULTURA",MrZutv.net:Discovery Turbo
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/286.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Disney Channel MÃ©xico" tvg-logo="" group-title="NIÃ‘OS",MrZutv.net:Disney Channel MÃ©xico
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/287.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Disney Junior Mexico" tvg-logo="" group-title="NIÃ‘OS",MrZutv.net:Disney Junior Mexico
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/288.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Disney XD Mexico" tvg-logo="" group-title="NIÃ‘OS",MrZutv.net:Disney XD Mexico
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/289.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:FoX Channel" tvg-logo="" group-title="SERIES",MrZutv.net:FoX Channel
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/295.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Fox Premium Action" tvg-logo="" group-title="CINEMA",MrZutv.net:Fox Premium Action
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/297.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Fox Premium Family Oeste" tvg-logo="" group-title="CINEMA",MrZutv.net:Fox Premium Family Oeste
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/300.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Fox Premium Movies" tvg-logo="" group-title="CINEMA",MrZutv.net:Fox Premium Movies
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/301.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Fox Premium Series Oeste" tvg-logo="" group-title="CINEMA",MrZutv.net:Fox Premium Series Oeste
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/302.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:FX" tvg-logo="" group-title="SERIES",MrZutv.net:FX
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/306.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:FXM Oeste" tvg-logo="" group-title="SERIES",MrZutv.net:FXM Oeste
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/307.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:HBO + Latinoamerica" tvg-logo="" group-title="CINEMA",MrZutv.net:HBO + Latinoamerica
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/309.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:HBO 2 Latinoamerica" tvg-logo="" group-title="CINEMA",MrZutv.net:HBO 2 Latinoamerica
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/310.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:HBO Family Latinoamerica" tvg-logo="" group-title="CINEMA",MrZutv.net:HBO Family Latinoamerica
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/311.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:HBO LatinoamÃ©rica" tvg-logo="" group-title="CINEMA",MrZutv.net:HBO LatinoamÃ©rica
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/312.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Hbo Xtreme" tvg-logo="" group-title="CINEMA",MrZutv.net:Hbo Xtreme
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/313.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:History LatinoamÃ©rica" tvg-logo="" group-title="MUNDO Y CULTURA",MrZutv.net:History LatinoamÃ©rica
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/315.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net: Investigation Discovery" tvg-logo="" group-title="MUNDO Y CULTURA",MrZutv.net: Investigation Discovery
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/321.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Las Estrellas MÃ©xico" tvg-logo="" group-title="MEXICO",MrZutv.net:Las Estrellas MÃ©xico
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/324.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:MTV Latino" tvg-logo="" group-title="MUSICA",MrZutv.net:MTV Latino
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/329.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:National Geographic Norte" tvg-logo="" group-title="MUNDO Y CULTURA",MrZutv.net:National Geographic Norte
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/333.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:National Geographic Wild" tvg-logo="" group-title="MUNDO Y CULTURA",MrZutv.net:National Geographic Wild
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/334.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Nick Jr Latin America" tvg-logo="" group-title="NIÃ‘OS",MrZutv.net:Nick Jr Latin America
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/335.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Nickelodeon Norte" tvg-logo="" group-title="NIÃ‘OS",MrZutv.net:Nickelodeon Norte
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/336.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Paramount Network Latin America" tvg-logo="" group-title="CINEMA",MrZutv.net:Paramount Network Latin America
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/340.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Sony Channel Sur" tvg-logo="" group-title="SERIES",MrZutv.net:Sony Channel Sur
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/344.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Space MExico" tvg-logo="" group-title="CINEMA",MrZutv.net:Space MExico
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/345.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Studio Universal" tvg-logo="" group-title="SERIES",MrZutv.net:Studio Universal
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/346.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Tcl" tvg-logo="" group-title="MUNDO Y CULTURA",MrZutv.net:Tcl
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/349.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:TNT AmÃ©rica Latina" tvg-logo="" group-title="CINEMA",MrZutv.net:TNT AmÃ©rica Latina
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/351.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:TNT Series MÃ©xico" tvg-logo="" group-title="SERIES",MrZutv.net:TNT Series MÃ©xico
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/352.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Universal TV" tvg-logo="" group-title="SERIES",MrZutv.net:Universal TV
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/355.ts
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Warner Channel" tvg-logo="" group-title="SERIES",MrZutv.net:Warner Channel
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/359.ts
+#EXTINF:-1 tvg-id="" tvg-name="url vencida" tvg-logo="" group-title="24/7",url vencida
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/372.ts
+#EXTINF:-1 tvg-id="" tvg-name="DZNA Andy Ruiz vs Chris Arreola:" tvg-logo="" group-title="DEPORTES DE HOY ",DZNA Andy Ruiz vs Chris Arreola:
+http://zutv.online:2086/live/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/565.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tZwNIVrax1IV5BkGzWTYMmjYI5.jpg" group-title="PELICULAS HD 2021",Mortal Kombat (2021)
+http://zutv.online:2086/movie/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/875.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rango (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99Dpm7Ep8OelbNyEVBlln50EHGj.jpg" group-title="PELICULAS HD 2021",Rango (2011)
+http://zutv.online:2086/movie/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/876.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Horizonte Mortal (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWGkIHeCLw9wWvPXnPTOM9d5GiK.jpg" group-title=" PELICULAS HD 2020",Horizonte Mortal (2020)
+http://zutv.online:2086/movie/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/877.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A.fall.from.grace.2020.1080p-dual-lat-cinecalidad.is" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWGkIHeCLw9wWvPXnPTOM9d5GiK.jpg" group-title=" PELICULAS HD 2020",A.fall.from.grace.2020.1080p-dual-lat-cinecalidad.is
+http://zutv.online:2086/movie/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Boys for Life (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ur1wCiFEwZzjehqQM11FFN66rwL.jpg" group-title=" PELICULAS HD 2020",Bad Boys for Life (2020)
+http://zutv.online:2086/movie/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bloodshot (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0Sokh7DazDAxGOpt0ln9soTTET.jpg" group-title=" PELICULAS HD 2020",Bloodshot (2020)
+http://zutv.online:2086/movie/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deep Blue Sea 3 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96rOUJEbHrhVW7JYzPJm5ZyMDg0.jpg" group-title=" PELICULAS HD 2020",Deep Blue Sea 3 (2020)
+http://zutv.online:2086/movie/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dolittle.2020.1080p-dual-lat-cinecalidad.is" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96rOUJEbHrhVW7JYzPJm5ZyMDg0.jpg" group-title=" PELICULAS HD 2020",Dolittle.2020.1080p-dual-lat-cinecalidad.is
+http://zutv.online:2086/movie/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Greyhound.2020.1080p-dual-lat-cinecalidad.is" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96rOUJEbHrhVW7JYzPJm5ZyMDg0.jpg" group-title=" PELICULAS HD 2020",Greyhound.2020.1080p-dual-lat-cinecalidad.is
+http://zutv.online:2086/movie/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Isi & Ossi (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7siFsEYnwCQfAezhupnjogPMoM.jpg" group-title=" PELICULAS HD 2020",Isi & Ossi (2020)
+http://zutv.online:2086/movie/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Like.a.boss.2020.1080p-dual-lat-cinecalidad.is" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7siFsEYnwCQfAezhupnjogPMoM.jpg" group-title=" PELICULAS HD 2020",Like.a.boss.2020.1080p-dual-lat-cinecalidad.is
+http://zutv.online:2086/movie/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulan.2020.lati" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7siFsEYnwCQfAezhupnjogPMoM.jpg" group-title=" PELICULAS HD 2020",Mulan.2020.lati
+http://zutv.online:2086/movie/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Onward (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jiwsh6i9DeguL4iRgQkpkP7m11.jpg" group-title=" PELICULAS HD 2020",Onward (2020)
+http://zutv.online:2086/movie/tyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdfxgxfgrthfdghdgkkkfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/tyhdrthdrthdrthfdghdgfhdfghfgtyhdddrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfgtyhdrthdrthdrthfdghdgfhdfghfg/887.mp4
