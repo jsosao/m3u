@@ -10,9 +10,9 @@ http://nosirve.com
 #EXTINF:-1,########## Mexico ##########
 #EXTINF:-1,——- MX Locals ——-
 
-#EXTINF:-1 tvg-id="156" tvg-name="+ Listas en M3U.CL" tvg-logo="https://www.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL * | CL
+#EXTINF:-1 tvg-id="156" tvg-name="+ Listas en M3U.CL" tvg-logo="https://www.m3u.cl/logo/156___Listas_en_M3U_CL.png" group-title="MX", + Listas en M3U.CL * | CL
 https://vdo1.streamgato.us:3776/stream/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="494" tvg-name="UCL Televisión LATAM" tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png", UCL Televisión LATAM * | UY
+#EXTINF:-1 tvg-id="494" tvg-name="UCL Televisión LATAM" tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png" group-title="MX", UCL Televisión LATAM * | UY
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="16" tvg-name="Conecta TV" tvg-logo="https://www.m3u.cl/logo/16_Conecta_TV.png", Conecta TV * | MX
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
