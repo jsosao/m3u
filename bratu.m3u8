@@ -165,548 +165,265 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a3
 
 
 #EXTINF:-1,########## CARLOS ##########
-#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/frantinoco91/canales/main/guia_satelite.xml"
-#EXTINF:-1 group-title="ACT. 02/04"
-
-
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="Cine", M. Estrenos HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/6078/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="Cine", M. Accion HD
-http://gramm.edmonst.net/iptv/X8YMAHEX67KN2H/7065/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="Cine", M. Cine Español 
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/186e8113179aa12.m3u
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="Cine", M. Cine Español 
-http://museofloral.rocks:13513/jimi/jimi/447026
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="Movistar", TNT HD
-http://museofloral.rocks:13513/jimi/jimi/447002
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="Movistar", AMC HD
-http://museofloral.rocks:13513/jimi/jimi/447034
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="Movistar", CALLE 13 HD
-http://museofloral.rocks:13513/jimi/jimi/447006
-
-#EXTINF:-1 tvg-logo="https://www.parabolica.es/wp-content/uploads/2012/02/cosmo-hd.jpg" group-title="Movistar", COSMO TV HD
-http://91.126.141.201:1935/live/cosmoHD/chunklist_w1473340396.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.parabolica.es/wp-content/uploads/2012/02/cosmo-hd.jpg" group-title="Movistar", COSMO TV 2
-http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.parabolica.es/wp-content/uploads/2012/02/cosmo-hd.jpg" group-title="Movistar", COSMO TV HD ESP
-http://91.126.141.201:1935/live/cosmoHD/chunklist_w1035779792.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar", M. SERIES HD
-http://museofloral.rocks:13513/jimi/jimi/447014
-
-#EXTINF:-1 tvg-id="FOX HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="Movistar" tvg-name="FOX HD",FOX HD
-http://museofloral.rocks:13513/jimi/jimi/447016
-
-#EXTINF:-1 tvg-id="M. LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="LALIGA" tvg-name="M. LaLiga HD",M+ Liga hd
-#EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
-#EXTINF:-1 group-title="LALIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png",M.LaLiga FHD FIBRA 1
-http://museofloral.rocks:13513/jimi/jimi/452209
-#EXTINF:-1 group-title="LALIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png",M.LaLiga FHD FIBRA 2
-http://museofloral.rocks:13513/jimi/jimi/452210
-#EXTINF:-1 group-title="LALIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png",M.LALIGA FHD FIBRA RESERVA
-http://museofloral.rocks:13513/jimi/jimi/452211
-#EXTINF:-1 group-title="LALIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png",M.LALIGA FHD FIBRA 3
-http://museofloral.rocks:13513/jimi/jimi/452212
-#EXTINF:-1 group-title="LALIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png",LALIGA BAR FHD
-http://museofloral.rocks:13513/jimi/jimi/452213
-#EXTINF:-1 group-title="LALIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png",LALIGA BAR HD
-http://museofloral.rocks:13513/jimi/jimi/452214
-#EXTINF:-1 group-title="LALIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png",M. LaLiga FHD♕
-http://museofloral.rocks:13513/jimi/jimi/452215
-#EXTINF:-1 group-title="LALIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png",M. LaLiga FHD♕
-http://museofloral.rocks:13513/jimi/jimi/452216
-#EXTINF:-1 group-title="LALIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png",MOVISTAR LA LIGA HD OP.RADIO⚽
-http://museofloral.rocks:13513/jimi/jimi/452217
-#EXTINF:-1 group-title="LALIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png",MOVISTAR LA LIGA FHD B
-http://museofloral.rocks:13513/jimi/jimi/452218
-#EXTINF:-1 group-title="LALIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png",MOVISTAR LA LIGA HD
-http://museofloral.rocks:13513/jimi/jimi/452219
-#EXTINF:-1 group-title="LALIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png",M. LaLiga 1 HD
-http://museofloral.rocks:13513/jimi/jimi/452220
-#EXTINF:-1 group-title="LALIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png",M. LaLiga 1 HD
-http://museofloral.rocks:13513/jimi/jimi/452221
-#EXTINF:-1 group-title="LALIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png",MOVISTAR LA LIGA 1 HD 1080P
-http://museofloral.rocks:13513/jimi/jimi/452222
-#EXTINF:-1 group-title="LALIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png",M. LaLiga 2 HD♕
-http://museofloral.rocks:13513/jimi/jimi/452223
-#EXTINF:-1 group-title="LALIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png",M. LaLiga 2 HD♕
-http://museofloral.rocks:13513/jimi/jimi/452224
-#EXTINF:-1 group-title="LALIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png",MOVISTAR LA LIGA 2 HD 1080P
-http://museofloral.rocks:13513/jimi/jimi/452225
-#EXTINF:-1 group-title="LALIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png",M. LaLiga 3 HD♕
-http://museofloral.rocks:13513/jimi/jimi/452226
-#EXTINF:-1 group-title="LALIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png",MOVISTAR LA LIGA 3 HD 1080P
-http://museofloral.rocks:13513/jimi/jimi/452227
-#EXTINF:-1 group-title="LALIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png",M. LaLiga 4
-http://museofloral.rocks:13513/jimi/jimi/452228
-#EXTINF:-1 group-title="LALIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png",M. LaLiga 5
-http://museofloral.rocks:13513/jimi/jimi/452229
-#EXTINF:-1 group-title="LALIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png",M. LaLiga 6
-http://museofloral.rocks:13513/jimi/jimi/452230
-#EXTINF:-1 group-title="LALIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png",M. LaLiga 7
-http://museofloral.rocks:13513/jimi/jimi/452231
-#EXTINF:-1 group-title="LALIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png",M. LaLiga 8
-http://museofloral.rocks:13513/jimi/jimi/452232
-#EXTINF:-1 group-title="LALIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png",MOVISTAR LA LIGA UHD 4K♖
-http://museofloral.rocks:13513/jimi/jimi/441309
-
-
-
-#EXTINF:-1 tvg-name="Movistar Liga Campeones HD ES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="LA CHAMPIONS",Movistar Liga Campeones HD ES
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6074/index.m3u
-#EXTINF:-1 group-title="LA CHAMPIONS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png",LIGA DE CAMPEONES FIBRA
-http://museofloral.rocks:13513/jimi/jimi/452233
-#EXTINF:-1 group-title="LA CHAMPIONS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png",LIGA DE CAMPEONES FIBRA 1
-http://museofloral.rocks:13513/jimi/jimi/452234
-#EXTINF:-1 group-title="LA CHAMPIONS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png",MOVISTAR LIGA DE CAMPEONES FIBRA 2
-http://museofloral.rocks:13513/jimi/jimi/452235
-#EXTINF:-1 group-title="LA CHAMPIONS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png",M.LIGA DE CAMPEONES FHD
-http://museofloral.rocks:13513/jimi/jimi/452236
-#EXTINF:-1 group-title="LA CHAMPIONS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png",M.LIGA DE CAMPEONES FHD A
-http://museofloral.rocks:13513/jimi/jimi/452237
-#EXTINF:-1 group-title="LA CHAMPIONS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png",M.LIGA DE CAMPEONES FHD B
-http://museofloral.rocks:13513/jimi/jimi/452238
-#EXTINF:-1 group-title="LA CHAMPIONS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png",M.LIGA DE CAMPEONES FHD C
-http://museofloral.rocks:13513/jimi/jimi/452239
-#EXTINF:-1 group-title="LA CHAMPIONS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png",M.LIGA DE CAMPEONES HD
-http://museofloral.rocks:13513/jimi/jimi/452240
-#EXTINF:-1 group-title="LA CHAMPIONS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png",M.LIGA DE CAMPEONES SD
-http://museofloral.rocks:13513/jimi/jimi/452241
-#EXTINF:-1 group-title="LA CHAMPIONS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png",M.LIGA DE CAMPEONES 1 FHD
-http://museofloral.rocks:13513/jimi/jimi/452242
-#EXTINF:-1 group-title="LA CHAMPIONS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png",M.LIGA DE CAMPEONES 1 FHD
-http://museofloral.rocks:13513/jimi/jimi/452243
-#EXTINF:-1 group-title="LA CHAMPIONS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png",M.LIGA DE CAMPEONES HD 2
-http://museofloral.rocks:13513/jimi/jimi/452244
-#EXTINF:-1 group-title="LA CHAMPIONS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png",M.LIGA DE CAMPEONES 3
-http://museofloral.rocks:13513/jimi/jimi/452245
-#EXTINF:-1 group-title="LA CHAMPIONS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png",M.LIGA DE CAMPEONES 4
-http://museofloral.rocks:13513/jimi/jimi/452246
-#EXTINF:-1 group-title="LA CHAMPIONS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png",M.LIGA DE CAMPEONES 5
-http://museofloral.rocks:13513/jimi/jimi/452247
-#EXTINF:-1 group-title="LA CHAMPIONS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png",M.LIGA DE CAMPEONES 6
-http://museofloral.rocks:13513/jimi/jimi/452248
-#EXTINF:-1 group-title="LA CHAMPIONS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png",M.LIGA DE CAMPEONES 7
-http://museofloral.rocks:13513/jimi/jimi/452249
-#EXTINF:-1 group-title="LA CHAMPIONS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png",M.LIGA DE CAMPEONES 8
-http://museofloral.rocks:13513/jimi/jimi/452250
-
-
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png",VAMOS HD FIBRA
-http://museofloral.rocks:13513/jimi/jimi/447142
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="DAZN",DAZN 1 HD♕
-http://museofloral.rocks:13513/jimi/jimi/441084
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="DAZN",DAZN 2 HD♕
-http://museofloral.rocks:13513/jimi/jimi/441085
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="DAZN",DAZN 1 ITALIA HD♕
-http://museofloral.rocks:13513/jimi/jimi/441120
-
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="DAZN",MOVISTAR DAZN 1 HD 1080P♖
-http://museofloral.rocks:13513/jimi/jimi/441336
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="DAZN",MOVISTAR DAZN 2 HD 1080P♖
-http://museofloral.rocks:13513/jimi/jimi/441337
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV3.png", #0 HD
-http://museofloral.rocks:13513/jimi/jimi/446966
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV3.png", #0
-http://museofloral.rocks:13513/jimi/jimi/446967
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png", #VAMOS HD
-http://museofloral.rocks:13513/jimi/jimi/447141
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png", #VAMOS
-http://museofloral.rocks:13513/jimi/jimi/447141
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png", M. ACCION HD
-http://museofloral.rocks:13513/jimi/jimi/447024
-#EXTINF:-1 group-title="Movistar"tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png", M. ACCION SD
-http://museofloral.rocks:13513/jimi/jimi/447025
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPXTRA.png, MOVISTAR CINEDOC&ROLL HD 
-http://museofloral.rocks:13513/jimi/jimi/447032
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPXTRA.png, M. CINEDOC&ROLL SD
-http://museofloral.rocks:13513/jimi/jimi/447033
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png", M. SERIES HD
-http://museofloral.rocks:13513/jimi/jimi/447014
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png",MOVISTAR SERIES SD
-http://doniptv.com.es:8080/marti/marti/39584
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png",M. SERIESMANIA HD
-http://museofloral.rocks:13513/jimi/jimi/447012
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png",M. ESTRENOS HD
-http://museofloral.rocks:13513/jimi/jimi/447020
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png",M. ESTRENOS SD
-http://museofloral.rocks:13513/jimi/jimi/447021
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png",M. COMEDIA HD
-http://museofloral.rocks:13513/jimi/jimi/447028
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png",M. COMEDIA
-http://museofloral.rocks:13513/jimi/jimi/447029
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png",M. DRAMA HD
-http://museofloral.rocks:13513/jimi/jimi/447022
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png",M. DRAMA SD
-http://museofloral.rocks:13513/jimi/jimi/447023
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png",M. CINE ESPAÑOL HD
-http://museofloral.rocks:13513/jimi/jimi/447026
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png",M. CINE ESPAÑOL SD
-http://museofloral.rocks:13513/jimi/jimi/447027
-#EXTINF:-1 group-title="Movistar" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DISNEY.png",M. DISNEY + HD 
-http://museofloral.rocks:13513/jimi/jimi/447046
-#EXTINF:-1 group-title="TV Premium",FOX HD
-http://museofloral.rocks:13513/jimi/jimi/447015
-#EXTINF:-1 group-title="TV Premium",FOX SD
-http://museofloral.rocks:13513/jimi/jimi/447016
-#EXTINF:-1 group-title="TV Premium",FOX LIFE HD
-http://museofloral.rocks:13513/jimi/jimi/447017
-#EXTINF:-1 group-title="TV Premium",FOX LIFE SD
-http://museofloral.rocks:13513/jimi/jimi/447018
-#EXTINF:-1 group-title="TV Premium",AXN HD
-http://museofloral.rocks:13513/jimi/jimi/447007
-#EXTINF:-1 group-title="TV Premium",AXN SD
-http://museofloral.rocks:13513/jimi/jimi/447008
-#EXTINF:-1 group-title="TV Premium",AXN WHITE HD
-http://museofloral.rocks:13513/jimi/jimi/447009
-#EXTINF:-1 group-title="TV Premium",AXN WHITE
-http://museofloral.rocks:13513/jimi/jimi/447010
-#EXTINF:-1 group-title="TV Premium",TNT HD
-http://museofloral.rocks:13513/jimi/jimi/447001
-#EXTINF:-1 group-title="TV Premium",TNT SD
-http://museofloral.rocks:13513/jimi/jimi/447002
-#EXTINF:-1 group-title="TV Premium",COMEDY CENTRAL HD
-http://museofloral.rocks:13513/jimi/jimi/447003
-#EXTINF:-1 group-title="TV Premium",COMEDY CENTRAL
-http://museofloral.rocks:13513/jimi/jimi/447004
-#EXTINF:-1 group-title="TV Premium",CALLE 13 HD
-http://museofloral.rocks:13513/jimi/jimi/447005
-#EXTINF:-1 group-title="TV Premium",CALLE 13 SD
-http://museofloral.rocks:13513/jimi/jimi/447006
-#EXTINF:-1 group-title="TV Premium",COSMO HD
-http://museofloral.rocks:13513/jimi/jimi/446999
-#EXTINF:-1 group-title="TV Premium",COSMO SD
-http://museofloral.rocks:13513/jimi/jimi/447000
-#EXTINF:-1 group-title="TV Premium",AMC HD
-http://museofloral.rocks:13513/jimi/jimi/447034
-#EXTINF:-1 group-title="TV Premium",AMC
-http://museofloral.rocks:13513/jimi/jimi/447035
-#EXTINF:-1 group-title="TV Premium",SYFY HD
-http://museofloral.rocks:13513/jimi/jimi/446993
-#EXTINF:-1 group-title="TV Premium",SYFY SD
-http://museofloral.rocks:13513/jimi/jimi/446994
-#EXTINF:-1 group-title="TV Premium",TCM HD
-http://museofloral.rocks:13513/jimi/jimi/447036
-#EXTINF:-1 group-title="TV Premium",TCM SD
-http://museofloral.rocks:13513/jimi/jimi/447037
-#EXTINF:-1 group-title="TV Premium",SUNDANCE HD
-http://museofloral.rocks:13513/jimi/jimi/447039
-#EXTINF:-1 group-title="TV Premium",SUNDANCE
-http://museofloral.rocks:13513/jimi/jimi/447040
-#EXTINF:-1 group-title="TV Premium",SOMOS HD
-http://museofloral.rocks:13513/jimi/jimi/447041
-#EXTINF:-1 group-title="TV Premium",SOMOS
-http://museofloral.rocks:13513/jimi/jimi/447042
-#EXTINF:-1 group-title="TV Premium",HOLLYWOOD HD
-http://museofloral.rocks:13513/jimi/jimi/447030
-#EXTINF:-1 group-title="TV Premium",HOLLYWOOD
-http://museofloral.rocks:13513/jimi/jimi/447031
-#EXTINF:-1 group-title="TV Premium",DARK FHD
-http://museofloral.rocks:13513/jimi/jimi/446997
-#EXTINF:-1 group-title="TV Premium",DARK HD
-http://museofloral.rocks:13513/jimi/jimi/446998
-#EXTINF:-1 group-title="TV Premium",MTV espa2
-http://doniptv.com.es:8080/marti/marti/39653
-#EXTINF:-1 group-title="TV Premium",NAT GEO HD
-http://museofloral.rocks:13513/jimi/jimi/441741
-#EXTINF:-1 group-title="TV Premium",NAT GEO
-http://museofloral.rocks:13513/jimi/jimi/441742
-#EXTINF:-1 group-title="TV Premium",NAT GEO WILD HD
-http://museofloral.rocks:13513/jimi/jimi/441743
-#EXTINF:-1 group-title="TV Premium",NAT GEO WILD
-http://museofloral.rocks:13513/jimi/jimi/441744
-#EXTINF:-1 group-title="TV Premium",HISTORIA FHD
-http://museofloral.rocks:13513/jimi/jimi/441745
-#EXTINF:-1 group-title="TV Premium",HISTORIA HD
-http://museofloral.rocks:13513/jimi/jimi/441746
-#EXTINF:-1 group-title="TV Premium",HISTORIA
-http://museofloral.rocks:13513/jimi/jimi/441747
-#EXTINF:-1 group-title="TV Premium",DISCOVERY HD
-http://museofloral.rocks:13513/jimi/jimi/441748
-#EXTINF:-1 group-title="TV Premium",DISCOVERY
-http://museofloral.rocks:13513/jimi/jimi/441749
-#EXTINF:-1 group-title="TV Premium",BLAZE FHD
-http://museofloral.rocks:13513/jimi/jimi/441753
-#EXTINF:-1 group-title="TV Premium",BLAZE HD
-http://museofloral.rocks:13513/jimi/jimi/441754
-#EXTINF:-1 group-title="TV Premium",BLAZE
-http://museofloral.rocks:13513/jimi/jimi/441755
-#EXTINF:-1 group-title="TV Premium",CRIMEN+INVESTIGACION HD
-http://museofloral.rocks:13513/jimi/jimi/441756
-#EXTINF:-1 group-title="TV Premium",CRIMEN+INVESTIGACION
-http://museofloral.rocks:13513/jimi/jimi/441757
-#EXTINF:-1 group-title="TV Premium",VIAJAR HD
-http://museofloral.rocks:13513/jimi/jimi/441758
-#EXTINF:-1 group-title="TV Premium",VIAJAR
-http://museofloral.rocks:13513/jimi/jimi/441759
-#EXTINF:-1 group-title="TV Premium",CAZAyPESCA
-http://museofloral.rocks:13513/jimi/jimi/441740
-#EXTINF:-1 group-title="TV Premium",CAZAYPESCA HD
-http://museofloral.rocks:13513/jimi/jimi/441739
-#EXTINF:-1 group-title="TV Premium",CANAL COCINA FHD
-http://museofloral.rocks:13513/jimi/jimi/441761
-#EXTINF:-1 group-title="TV Premium",CANAL COCINA HD
-http://museofloral.rocks:13513/jimi/jimi/441762
-#EXTINF:-1 group-title="TV Premium",CANAL COCINA
-http://museofloral.rocks:13513/jimi/jimi/441763
-#EXTINF:-1 group-title="TV Premium",CANAL DECASA
-http://museofloral.rocks:13513/jimi/jimi/441764
-#EXTINF:-1 group-title="TV Premium",CANAL DECASA HD
-http://museofloral.rocks:13513/jimi/jimi/441765
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hQ1fzvd.jpg" group-title="Alquiler",M. ALQUILER 1 HD
-http://museofloral.rocks:13513/jimi/jimi/441870
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CGt5SMY.jpg" group-title="Alquiler",M. ALQUILER 2 HD
-http://museofloral.rocks:13513/jimi/jimi/441871
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BEWA0iV.jpg" group-title="Alquiler",M. ALQUILER 3 HD
-http://museofloral.rocks:13513/jimi/jimi/441872
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XDXECu4.jpg" group-title="Alquiler",M. ALQUILER 4 HD
-http://museofloral.rocks:13513/jimi/jimi/441873
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8Y8cpOG.jpg" group-title="Alquiler",M. ALQUILER 5 HD
-http://museofloral.rocks:13513/jimi/jimi/441874
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WMxthSS.jpg" group-title="Alquiler",M. ALQUILER 6 HD
-http://museofloral.rocks:13513/jimi/jimi/441875
-
-#EXTINF:-1 group-title="TDT", 24H TVE HD 1080P
-http://doniptv.com.es:8080/marti/marti/39687
-#EXTINF:-1 group-title="TDT", 24H TVE
-http://doniptv.com.es:8080/marti/marti/39688
-#EXTINF:-1 group-title="Movistar", BABY TV
-http://museofloral.rocks:13513/jimi/jimi/447057
-#EXTINF:-1 group-title="Movistar", DISNEY JUNIOR SD
-http://doniptv.com.es:8080/marti/marti/39698
-#EXTINF:-1 group-title="Movistar", CANAL PANDA HD
-http://museofloral.rocks:13513/jimi/jimi/447055
-#EXTINF:-1 group-title="TV Premium",DISNEY CH HD
-http://museofloral.rocks:13513/jimi/jimi/447049
-#EXTINF:-1 group-title="TV Premium",DISNEY CH
-http://museofloral.rocks:13513/jimi/jimi/447050
-#EXTINF:-1 group-title="TV Premium",NICKELODEON HD
-http://museofloral.rocks:13513/jimi/jimi/447051
-#EXTINF:-1 group-title="TV Premium",NICKELODEON
-http://museofloral.rocks:13513/jimi/jimi/447052
-#EXTINF:-1 group-title="TV Premium",NICK JR
-http://museofloral.rocks:13513/jimi/jimi/447053
-#EXTINF:-1 group-title="TV Premium",DISNEY JR
-http://museofloral.rocks:13513/jimi/jimi/447054
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Movistar_Formula_1.svg" group-title="Movistar Deportes",M. FORMULA 1 FHD
-http://museofloral.rocks:13513/jimi/jimi/447169
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Movistar_Formula_1.svg" group-title="Movistar Deportes",M. FORMULA 1 HD
-http://museofloral.rocks:13513/jimi/jimi/447170
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Movistar Deportes",MOVISTAR GOLF FHD
-http://museofloral.rocks:13513/jimi/jimi/447171
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Movistar Deportes",MOVISTAR GOLF HD
-http://museofloral.rocks:13513/jimi/jimi/447172
-#EXTINF:-1 group-title="TV Premium",EUROSPORT 1 FHD
-http://museofloral.rocks:13513/jimi/jimi/447149
-#EXTINF:-1 group-title="TV Premium",EUROSPORT 1 HD
-http://museofloral.rocks:13513/jimi/jimi/447150
-#EXTINF:-1 group-title="TV Premium",EUROSPORT 2 FHD
-http://museofloral.rocks:13513/jimi/jimi/447151
-#EXTINF:-1 group-title="TV Premium",EUROSPORT 2 HD
-http://museofloral.rocks:13513/jimi/jimi/447152
-#EXTINF:-1 group-title="TV Premium",U-BEAT
-http://museofloral.rocks:13513/jimi/jimi/447174
-#EXTINF:-1 group-title="TV Premium",SUPER TENNIS
-http://museofloral.rocks:13513/jimi/jimi/447175
-#EXTINF:-1 group-title="TV Premium",RED BULL TV
-http://museofloral.rocks:13513/jimi/jimi/447176
-#EXTINF:-1 group-title="TV Premium",MULTIDEPORTE
-http://museofloral.rocks:13513/jimi/jimi/447153
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Movistar Deportes",MOVISTAR DEPORTES FHD
-http://museofloral.rocks:13513/jimi/jimi/447154
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Movistar Deportes",MOVISTAR DEPORTES HD
-http://museofloral.rocks:13513/jimi/jimi/447155
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Movistar Deportes",M. DEPORTES 1
-http://museofloral.rocks:13513/jimi/jimi/447156
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Movistar Deportes",M. DEPORTES 2
-http://museofloral.rocks:13513/jimi/jimi/447157
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Movistar Deportes",M. DEPORTES 3
-http://museofloral.rocks:13513/jimi/jimi/447158
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Movistar Deportes",M. DEPORTES 4
-http://museofloral.rocks:13513/jimi/jimi/447159
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Movistar Deportes",M. DEPORTES 5
-http://museofloral.rocks:13513/jimi/jimi/447160
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Movistar Deportes",M. DEPORTES 6
-http://museofloral.rocks:13513/jimi/jimi/447161
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Movistar Deportes",M. DEPORTES 7
-http://museofloral.rocks:13513/jimi/jimi/447162
-#EXTINF:-1 group-title="Movistar",MOVISTAR CRIMEN
-http://museofloral.rocks:13513/jimi/jimi/447045
-#EXTINF:-1 group-title="TV Premium",DREAMWORKS HD
-http://museofloral.rocks:13513/jimi/jimi/447058
-#EXTINF:-1 group-title="TV Premium",ES: MTV EUROPE HD♖
-http://museofloral.rocks:13513/jimi/jimi/441600
-#EXTINF:-1 group-title="TV Premium",ES: MTV BASE♖
-http://museofloral.rocks:13513/jimi/jimi/441601
-#EXTINF:-1 group-title="TV Premium",ES: MTV ROCKS HD♖
-http://museofloral.rocks:13513/jimi/jimi/441602
-#EXTINF:-1 group-title="TV Premium",ES: MTV DANCE FHD♖
-http://museofloral.rocks:13513/jimi/jimi/441603
-#EXTINF:-1 group-title="TV Premium",ES: MTV HITS HD♖
-http://museofloral.rocks:13513/jimi/jimi/441604
-#EXTINF:-1 group-title="TV Premium",ES: MTV CLASSIC♖
-http://museofloral.rocks:13513/jimi/jimi/441605
-#EXTINF:-1 group-title="TV Premium",ES: MTV LIVE FHD♖
-http://museofloral.rocks:13513/jimi/jimi/441606
-#EXTINF:-1 group-title="TV Premium",ES: MTV HITS EUROPE♖
-http://museofloral.rocks:13513/jimi/jimi/441607
-#EXTINF:-1 group-title="TV Premium",ES: MTV MUSIC 24♖
-http://museofloral.rocks:13513/jimi/jimi/441608
-#EXTINF:-1 group-title="TV Premium",MEZZO LIVE SD♖
-http://museofloral.rocks:13513/jimi/jimi/441609
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="TDT" tvg-name="LA 1 HD",La 1 HD
-https://rtvelivestream.akamaized.net/la1_dvr.m3u8
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="TDT" tvg-name="LA 1 HD",La 1 HD opc2
-http://91.126.141.13:1935/live/41/playlist.m3u8
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="TDT" tvg-name="LA 1 HD",La 1 HD opc3
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/7d95b804dddbda6.m3u
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="TDT" tvg-name="LA 1 HD",La 1
-https://mitele.lookplay.ml/video/la_1/index.m3u8
-#EXTINF:-1 tvg-id="La 2 HD" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="TDT" tvg-name="LA 2",LA 2 HD
-https://rtvelivestream.akamaized.net/la2_dvr.m3u8
-#EXTINF:-1 tvg-id="La 2 HD" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="TDT" tvg-name="LA 2",LA 2 HD opc2
-http://91.126.141.13:1935/live/81/playlist.m3u8
-#EXTINF:-1 tvg-id="La 2 HD" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="TDT" tvg-name="LA 2",LA 2 HD opc3
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/687c41fcf0f6bcb.m3u
-#EXTINF:-1 tvg-id="La 2 HD" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="TDT" tvg-name="LA 2",LA 2
-https://mitele.lookplay.ml/video/la_2/index.m3u8
-#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" group-title="TDT" tvg-name="ANTENA 3 HD",ANTENA 3 HD
-#EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/50.ts
-#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" group-title="TDT" tvg-name="ANTENA 3 HD",ANTENA 3 HD opc2
-http://91.126.141.13:1935/live/11/playlist.m3u8
-#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" group-title="TDT" tvg-name="ANTENA 3 HD",ANTENA 3 HD opc3
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/c96d4179790c2af.m3u
-#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" group-title="TDT" tvg-name="ANTENA 3 HD",ANTENA 3
-https://mitele.lookplay.ml/video/antena_3/index.m3u8
-#EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png" group-title="TDT" tvg-name="CUATRO HD",CUATRO
-http://lampfal.ddns.net:8080/Enrike/Okundia/18494
-#EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png" group-title="TDT" tvg-name="CUATRO HD",CUATRO opc2
-http://lampfal.ddns.net:8080/Enrike/Okundia/18495
-#EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png" group-title="TDT" tvg-name="CUATRO HD",CUATRO opc3
-http://lampfal.ddns.net:8080/Enrike/Okundia/18496
-#EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png" group-title="TDT" tvg-name="CUATRO HD",CUATRO opc4
-http://91.126.141.13:1935/live/51/playlist.m3u8
-#EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png" group-title="TDT" tvg-name="CUATRO HD",CUATRO opc5
-https://mitele.lookplay.ml/video/cuatro/index.m3u8
-#EXTINF:-1 tvg-id="TELECINCO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="TDT" tvg-name="TELECINCO HD",TELECINCO
-http://lampfal.ddns.net:8080/Enrike/Okundia/18497
-#EXTINF:-1 tvg-id="TELECINCO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="TDT" tvg-name="TELECINCO HD",TELECINCO opc2
-http://91.126.141.13:1935/live/61/playlist.m3u8
-#EXTINF:-1 tvg-id="TELECINCO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="TDT" tvg-name="TELECINCO HD",TELECINCO opc3
-https://mitele.lookplay.ml/video/telecinco/index.m3u8
-#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="TDT" tvg-name="LA SEXTA HD",La Sexta HD
-http://91.126.141.13:1935/live/21/playlist.m3u8
-#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="TDT" tvg-name="LA SEXTA HD",La Sexta HD opc2
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/9e5ed2b81a043b0.m3u
-#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="TDT" tvg-name="LA SEXTA HD",La Sexta
-https://mitele.lookplay.ml/video/la_sexta/index.m3u8
-#EXTINF:-1 tvg-id="Atreseries HD" tvg-logo="https://mma.prnewswire.com/media/323322/1498622_logo_atreseries_Logo.jpg?p=facebook" group-title="TDT" tvg-name="Atreseries HD",Atreseries HD
-http://91.126.141.13:1935/live/101/playlist.m3u8
-#EXTINF:-1 tvg-id="Atreseries HD" tvg-logo="https://mma.prnewswire.com/media/323322/1498622_logo_atreseries_Logo.jpg?p=facebook" group-title="TDT" tvg-name="Atreseries HD",Atreseries
-https://mitele.lookplay.ml/video/atreseries/index.m3u8
-#EXTINF:-1 tvg-id="Energy" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ENERGY.png" group-title="TDT" tvg-name="Energy",Energy
-https://mitele.lookplay.ml/video/energy/index.m3u8
-#EXTINF:-1 tvg-id="NEOX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" group-title="TDT" tvg-name="NEOX",NEOX
-http://lampfal.ddns.net:8080/Enrike/Okundia/18598
-#EXTINF:-1 tvg-id="NEOX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" group-title="TDT" tvg-name="NEOX",NEOX opc2
-http://lampfal.ddns.net:8080/OZdani/Aluiz/18598
-#EXTINF:-1 tvg-id="NEOX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" group-title="TDT" tvg-name="NEOX",NEOX opc3
-https://mitele.lookplay.ml/video/neox/index.m3u8
-#EXTINF:-1 tvg-id="NOVA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png" group-title="TDT" tvg-name="NOVA",NOVA
-http://lampfal.ddns.net:8080/Enrike/Okundia/18597
-#EXTINF:-1 tvg-id="NOVA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png" group-title="TDT" tvg-name="NOVA",NOVA opc2
-http://lampfal.ddns.net:8080/OZdani/Aluiz/18597
-#EXTINF:-1 tvg-id="NOVA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png" group-title="TDT" tvg-name="NOVA",NOVA opc3
-https://mitele.lookplay.ml/video/nova/index.m3u8
-#EXTINF:-1 tvg-id="MEGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEGA.png" group-title="TDT" tvg-name="MEGA",MEGA
-https://mitele.lookplay.ml/video/mega/index.m3u8
-#EXTINF:-1 tvg-id="MEGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEGA.png" group-title="TDT" tvg-name="MEGA",MEGA HD
-https://directo.atresmedia.com:443/1617344007_16453e8ff4e125163bdcaf882beefe53d40258b4/geomega/bitrate_4.m3u8
-#EXTINF:-1 tvg-id="BE MAD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BEMAD.png" group-title="TDT" tvg-name="BE MAD",BE MAD
-https://mitele.lookplay.ml/video/be_mad/index.m3u8
-#EXTINF:-1 tvg-id="DIVINITY" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png" group-title="TDT" tvg-name="DIVINITY",DIVINITY
-http://lampfal.ddns.net:8080/Enrike/Okundia/18605
-#EXTINF:-1 tvg-id="DIVINITY" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png" group-title="TDT" tvg-name="DIVINITY",DIVINITY opc2
-https://mitele.lookplay.ml/video/divinity/index.m3u8
-#EXTINF:-1 tvg-id="24 HORAS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/24H.png" group-title="TDT" tvg-name="24 HORAS",24 horas
-https://rtvelivestream.akamaized.net/24h_dvr.m3u8
-#EXTINF:-1 tvg-id="TRECE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/13TV.png" group-title="TDT" tvg-name="TRECE",TRECE TV
-https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PARCH.png" group-title="TDT" tvg-name="Paramount Channel",Paramount Channel
-https://mitele.lookplay.ml/video/paramount_channel/index.m3u8
-#EXTINF:-1 tvg-id="Intereconomia TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/INTECO.png" group-title="TDT" tvg-name="INTERECONOMIA",El Toro TV
-https://live1-eltorotv.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="TELEDEPORTE FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="TDT" tvg-name="TELEDEPORTE FHD",Teledeporte hd
-https://rtvelivestream.akamaized.net/tdp_dvr.m3u8
-#EXTINF:-1 tvg-id="TELEDEPORTE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="TDT" tvg-name="TELEDEPORTE FHD",Teledeporte hd opc2
-https://rtvelivestream.akamaized.net/tdp_dvr_4000.m3u8
-#EXTINF:-1 tvg-id="TELEDEPORTE FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="TDT" tvg-name="TELEDEPORTE FHD",Teledeporte hd opc3
-https://rtvelivestream-lvlt.rtve.es/tdp_dvr_4000.m3u8
-#EXTINF:-1 tvg-id="TELEDEPORTE FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="TDT" tvg-name="TELEDEPORTE FHD",Teledeporte hd opc4
-http://91.126.141.13:1935/live/91/playlist.m3u8
-#EXTINF:-1 tvg-id="TELEDEPORTE FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="TDT" tvg-name="TELEDEPORTE FHD",Teledeporte
-https://mitele.lookplay.ml/video/teledeporte/index.m3u8
-#EXTINF:-1 tvg-id="BARCA TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BARNA.png" group-title="TDT" tvg-name="BARCA TV",Barca Tv
-http://91.126.138.142:1935/live/smil:barza.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="R. MADRID TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" group-title="TDT" tvg-name="R. MADRID TV",Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1 tvg-id="R. MADRID TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" group-title="TDT" tvg-name="R. MADRID TV",Real Madrid TV opc2
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
-#EXTINF:-1 tvg-id="GOL HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" group-title="TDT" tvg-name="GOL HD",GOL Tv
-#EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/35.ts
-#EXTINF:-1 tvg-id="GOL HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" group-title="TDT" tvg-name="GOL HD",GOL Tv opc2
-http://91.126.141.12:1935/live/smil:gol.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FDF" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FDFIC.png" group-title="TDT" tvg-name="FDF",FDF
-http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FDF" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FDFIC.png" group-title="TDT" tvg-name="FDF",FDF opc2
-https://mitele.lookplay.ml/video/fdf/index.m3u8
-#EXTINF:-1 tvg-id="DKISS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DKISS.png" group-title="TDT" tvg-name="DKISS",DKISS
-http://91.126.141.201:1935/live/kiss/chunklist_w951039339.m3u8
-#EXTINF:-1 tvg-id="DKISS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DKISS.png" group-title="TDT" tvg-name="DKISS",DKISS opc2
-https://mitele.lookplay.ml/video/dkiss/index.m3u8
-#EXTINF:-1 tvg-id="Ten" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TEN.png" group-title="TDT" tvg-name="TEN",TEN
-http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TN" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TEN.png" group-title="TDT" tvg-name="TEN",TEN opc2
-https://mitele.lookplay.ml/video/ten/index.m3u8
-#EXTINF:-1 tvg-id="Discovery MAX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="TDT" tvg-name="DMAX",DMAX
-http://91.126.141.12:1935/live/discoverymax/chunklist_w1243729103.m3u8
-#EXTINF:-1 tvg-id="Discovery MAX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="TDT" tvg-name="DMAX",DMAX opc2
-#EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/24.ts
-#EXTINF:-1 tvg-id="Discovery MAX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="TDT" tvg-name="DMAX",DMAX opc3
-http://asiantv4you.com/live/Bandook/onMmCEPoxr/12173.m3u8
-#EXTINF:-1 tvg-id="Discovery MAX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="TDT" tvg-name="DMAX",DMAX opc4
-http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
-#EXTINF:-1 tvg-id="Discovery MAX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="TDT" tvg-name="DMAX",DMAX opc5
-https://mitele.lookplay.ml/video/dmax/index.m3u8
-
-#EXTINF:-1 tvg-id="DISNEY CH HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DISNEY.png" group-title="Infantil" tvg-name="DISNEY CH HD",Disney +
-http://asiantv4you.com/live/Bandook/onMmCEPoxr/15800.m3u8
-#EXTINF:-1 tvg-id="DISNEY CH HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCH.png" group-title="Infantil" tvg-name="DISNEY CH HD",DISNEY CHANNEL
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/4486d8945630b17.m3u
-#EXTINF:-1 tvg-id="Pluto TV Action Kids" tvg-logo="https://images.pluto.tv/channels/60218c2a32f9c40007c2f7cc/colorLogoPNG.png" group-title="Infantil" tvg-name="Pluto TV Action Kids,Pluto TV Action Kids
-https://stitcher.pluto.tv/stitch/hls/channel/60218c2a32f9c40007c2f7cc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
-#EXTINF:-1 tvg-id="Bob Esponja" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="Infantil" tvg-name="Bob Esponja",Bob Esponja
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=1234567890&serverSideAds=false
-#EXTVLCOPT:http-user-agent=ExoPlayer2/22 (Linux;Android 10) ExoPlayerLib/2.10.6
+#EXTINF:-1 ,#0 FHD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10330
+#EXTINF:-1 ,7RM FHD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10311
+#EXTINF:-1 ,A3 SERIES FHD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10320
+#EXTINF:-1 ,AMC FHD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10317
+#EXTINF:-1 ,AXN FHD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10316
+#EXTINF:-1 ,AXN WHITE FHD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10315
+#EXTINF:-1 ,BEIN LALIGA FHD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10313
+#EXTINF:-1 ,BEIN SPORTS ESPANAA FHD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10314
+#EXTINF:-1 ,BEMAD FHD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10310
+#EXTINF:-1 ,CLAN TV FHD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10309
+#EXTINF:-1 ,COSMO FHD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10308
+#EXTINF:-1 ,MOVISTAR ACCION FHD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10325
+#EXTINF:-1 ,MOVISTAR CINEDOC&ROLL FHD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10326
+#EXTINF:-1 ,MOVISTAR COMEDIA FHD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10324
+#EXTINF:-1 ,MOVISTAR SERIESMANIA FHD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10323
+#EXTINF:-1 ,TCM FHD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10312
+#EXTINF:-1 ,ANTENA 3 FHD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5434
+#EXTINF:-1 ,BEIN SPORTS LA LIGA FHD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5417
+#EXTINF:-1 ,COMEDY CENTRAL FHD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5426
+#EXTINF:-1 ,CUATRO FHD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5433
+#EXTINF:-1 ,HOLLYWOOD FHD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5424
+#EXTINF:-1 ,LA 1 FHD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5435
+#EXTINF:-1 ,MOVISTAR DCINE FHD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5429
+#EXTINF:-1 ,MOVISTAR XTRA FHD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5428
+#EXTINF:-1 ,SYFY FHD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5423
+#EXTINF:-1 ,TELECINCO FHD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5432
+#EXTINF:-1 ,NATIONAL GEO FHD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10345
+#EXTINF:-1 ,TNT FHD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/5422
+#EXTINF:-1 ,MOVISTAR GOLF FHD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10900
+#EXTINF:-1 , FDF HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/9542
+#EXTINF:-1 , LA UNA 1 HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3182
+#EXTINF:-1 , LA DOS 2 HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3183
+#EXTINF:-1 , TV3 CATALONIA
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3589
+#EXTINF:-1 , ANTENA 3 HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3184
+#EXTINF:-1 , CUATRO HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3277
+#EXTINF:-1 , TELECINCO
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3141
+#EXTINF:-1 , LA SEXTA HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3185
+#EXTINF:-1 , TCM HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3253
+#EXTINF:-1 , CANAL 24 HORAS
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3242
+#EXTINF:-1 , CANAL ORBE21
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3187
+#EXTINF:-1 , TELEDEPORTE
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3976
+#EXTINF:-1 , ANDALUCIA TV
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3974
+#EXTINF:-1 , TV GALICIA
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3139
+#EXTINF:-1 , PARAMOUNT CHANNEL
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4040
+#EXTINF:-1 , MOVISTAR ACCION HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3198
+#EXTINF:-1 , MOVISTAR COMEDIA HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3152
+#EXTINF:-1 , MOVISTAR DCINE HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3151
+#EXTINF:-1 , MOVISTAR ESTRENOS FHD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3190
+#EXTINF:-1 , HOLLYWOOD HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3268
+#EXTINF:-1 , MOVISTAR XTRA
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3153
+#EXTINF:-1 , TNT HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3140
+#EXTINF:-1 ,ENERGY HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3972
+#EXTINF:-1 ,NOVA
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3975
+#EXTINF:-1 ,NEOX TV
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3927
+#EXTINF:-1 ,AMC HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3679
+#EXTINF:-1 ,FOX HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3194
+#EXTINF:-1 ,FOX LIFE HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3195
+#EXTINF:-1 ,MOVISTAR CINE N
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10271
+#EXTINF:-1 ,MOVISTAR CINEDOC&ROLL HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10286
+#EXTINF:-1 ,MOVISTAR SERIES HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3149
+#EXTINF:-1 ,MOVISTAR SERIESMANIA
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3148
+#EXTINF:-1 ,MOVISTAR DRAMA FHD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/9539
+#EXTINF:-1 ,MOVISTAR DRAMA HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/9540
+#EXTINF:-1 ,MOVISTAR SERIESMANIA HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/9541
+#EXTINF:-1 ,AXN HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3259
+#EXTINF:-1 ,AXN WHITE HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3260
+#EXTINF:-1 ,SYFY HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3267
+#EXTINF:-1 ,CALLE 13 HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3197
+#EXTINF:-1 ,COMEDY CENTRAL
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3196
+#EXTINF:-1 ,COSMO
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3236
+#EXTINF:-1 ,CANAL+ COCINA
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3186
+#EXTINF:-1 ,CANAL+ TOROS
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3189
+#EXTINF:-1 ,CANAL  GOL
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3928
+#EXTINF:-1 ,LIGA 123 HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4044
+#EXTINF:-1 ,LA LIGA 1
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3191
+#EXTINF:-1 ,MOVISTAR DEPORTES 1
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3155
+#EXTINF:-1 ,MOVISTAR LIGA CAMPEONES HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10284
+#EXTINF:-1 ,MOVISTAR VAMOS FHD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3154
+#EXTINF:-1 ,MOVISTAR MOTO GP
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3146
+#EXTINF:-1 ,EUROSPORT 1
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3222
+#EXTINF:-1 ,EUROSPORT 2
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3221
+#EXTINF:-1 ,ESPN
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3622
+#EXTINF:-1 ,CANAL 26 HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3585
+#EXTINF:-1 ,DMAX HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10285
+#EXTINF:-1 ,VIAJAR HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3641
+#EXTINF:-1 ,SUNDANCE
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4042
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3145
+#EXTINF:-1 ,NAT GEO WILD HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3144
+#EXTINF:-1 ,DISCOVERY CHANNEL
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3214
+#EXTINF:-1 ,DISCOVERY MAX
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4038
+#EXTINF:-1 ,ODISEA HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3265
+#EXTINF:-1 ,CANAL DECASA
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3193
+#EXTINF:-1 ,A&E HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3239
+#EXTINF:-1 ,CAZA Y PESCA
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3215
+#EXTINF:-1 ,CRIME & INVESTIGATION
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3212
+#EXTINF:-1 ,MEGA HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3587
+#EXTINF:-1 ,HISTORIA
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3929
+#EXTINF:-1 ,TRECE HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3588
+#EXTINF:-1 ,BABY TV
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4330
+#EXTINF:-1 ,TVE CLAN
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3243
+#EXTINF:-1 ,CLAN TVE
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3973
+#EXTINF:-1 ,CANAL PANDA
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3188
+#EXTINF:-1 ,DISNEY CHANNEL
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3247
+#EXTINF:-1 ,DISNEY JUNIOR
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3966
+#EXTINF:-1 ,DISNEY XD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3249
+#EXTINF:-1 ,NICKELODEON HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3931
+#EXTINF:-1 ,NICK JUNIOR
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3933
+#EXTINF:-1 ,PANDA
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4043
+#EXTINF:-1 ,BOING HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3246
+#EXTINF:-1 ,MEZZO LIVE HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/9581
+#EXTINF:-1 ,MTV ESPANA
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3642
+#EXTINF:-1 ,DIVINITY
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/4039
+#EXTINF:-1 ,TAQUILLA 1
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3643
+#EXTINF:-1 ,TAQUILLA 2
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3644
+#EXTINF:-1 ,TAQUILLA 3
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3645
+#EXTINF:-1 ,TAQUILLA 4
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3646
+#EXTINF:-1 ,TAQUILLA 5
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3132
+#EXTINF:-1 ,TAQUILLA 6
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3647
+#EXTINF:-1 ,TAQUILLA 7
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3134
+#EXTINF:-1 ,TAQUILLA 8
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3135
+#EXTINF:-1 ,TAQUILLA 9
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3136
+#EXTINF:-1 ,TAQUILLA10
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/3801
+#EXTINF:-1 ,MOVISTAR ALQUILER 1 HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10272
+#EXTINF:-1 ,MOVISTAR ALQUILER 2 HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10273
+#EXTINF:-1 ,MOVISTAR ALQUILER 3 HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10274
+#EXTINF:-1 ,MOVISTAR ALQUILER 4 HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10275
+#EXTINF:-1 ,MOVISTAR ALQUILER 5 HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10276
+#EXTINF:-1 ,MOVISTAR ALQUILER 6 HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10277
+#EXTINF:-1 ,MOVISTAR ALQUILER 7 HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10278
+#EXTINF:-1 ,MOVISTAR ALQUILER 8 HD
+http://localhd.tv:8081/abtaria0206/LWwNyUDslN/10279
 
 
