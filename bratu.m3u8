@@ -5,6 +5,31 @@ http://nosirve.com
 #EXTINF:-1 tvg-id="" tvg-name="Dinamarca - Belgica" tvg-logo="" group-title="Dinamarca - Belgica",ESPA: Dinamarca - Belgica
 http://91.126.141.13:1935/live/51/1800-def.m3u8
 
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:8
+#EXT-X-MEDIA-SEQUENCE:255329
+#EXTINF:6.000,
+index_6_255329.ts?m=1606789165
+#EXTINF:6.000,
+index_6_255330.ts?m=1606789165
+#EXTINF:6.000,
+index_6_255331.ts?m=1606789165
+#EXTINF:6.000,
+index_6_255332.ts?m=1606789165
+#EXTINF:6.000,
+index_6_255333.ts?m=1606789165
+#EXTINF:6.000,
+index_6_255334.ts?m=1606789165
+#EXTINF:6.000,
+index_6_255335.ts?m=1606789165
+#EXTINF:6.000,
+index_6_255336.ts?m=1606789165
+#EXTINF:6.000,
+index_6_255337.ts?m=1606789165
+#EXTINF:6.000,
+index_6_255338.ts?m=1606789165
+
+
 #EXTINF:-1 tvg-id="" tvg-name="ESPA: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="ESPAÃ‘A APOYANOS MRZUTV.NET BAJA NUESTRA APP",ESPA: NATIONAL GEOGRAPHIC HD
 http://gratuita.mrzutv.net:8080/asfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfga/asfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfgaasfdgsadfgsadfga/41074
 #EXTINF:-1 tvg-id="" tvg-name="ESPA: NAT GEO WILD HD" tvg-logo="" group-title="ESPAÃ‘A APOYANOS MRZUTV.NET BAJA NUESTRA APP",ESPA: NAT GEO WILD HD
