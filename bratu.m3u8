@@ -545,25 +545,6 @@ http://gratuita.mrzutv.net:8080/afsgadfgafsgadfgafsgadfgafsgadfgafsgadfgafsgadfg
 
 *************************** REGIO TV ******************************************
 
-#EXTINF:-1 group-title="Lista MX",, DREIKOTV CANAL 24/7
-https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
-#EXTINF:0 tvg-logo="", Discovery ID
-http://ipeteve.com/php/th.php?channel=id145d&f.m3u8
-#EXTINF:0 tvg-logo="", RCN
-https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
-#EXTINF:0 tvg-logo="", Locomotion
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-#EXTINF:0 tvg-logo="", 93.3 FM
-https://14543.live.streamtheworld.com/XHQQ_FM_SC
-#EXTINF:0 tvg-logo="", 690 RG AM
-https://19303.live.streamtheworld.com/RG690_SC
-#EXTINF:0 tvg-logo="", LA MEJOR 92.5 FM
-https://16643.live.streamtheworld.com/XHSROFM_SC
-#EXTINF:0 tvg-logo="", LA CALIENTE 94.1
-https://14943.live.streamtheworld.com/XETFM_SC
-#EXTINF:0 tvg-logo="", LA LUPE 105.3
-https://16693.live.streamtheworld.com/XHPAGFM_SC
-
 *** NACIONALES ***
 #EXTINF:-1 group-title="Lista MX", group-title="Lista MX",, ONCE NINOS (CLASES)
 http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=3315&p=3&k=srregio&f=.m3u8 
@@ -637,10 +618,6 @@ http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=2606&p=3&k=srregio&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=2703&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="Lista MX",, MULTIMEDIOS HD
 http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=2882&p=3&k=srregio&f=.m3u8  
-
-
-
-
 
 
 *** INFANTILES ***
@@ -947,9 +924,6 @@ http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=2091&p=3&k=srregio&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=2402&p=3&k=srregio&f=.m3u8     
 
 ****************************************** TV *************************************************************************
-
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/--lCxTMtpU40/WcgWNrEwaMI/AAAAAAAAAX4/xHZi5qp08SIrAzErQYQma0bbSy422YnWwCLcBGAs/s320/Sin%2Bt%25C3%25ADtulo-1.jpg", SRREGIO.NET
-http://regioflix.club/apoyo.mp4
 
 #EXTINF:-1  group-title="Lista TV", LOCOMOTION
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
