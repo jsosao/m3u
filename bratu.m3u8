@@ -4,55 +4,55 @@ http://nosirve.com
 
 ******************************************** TDT CHANNELS ***************************************************
 
-#EXTINF:-1 tvg-id="ETBSAT.TV" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="TDT Channels" tvg-name="EITB Basque",EITB Basque
+#EXTINF:-1 group-title="TDT Channels",EITB Basque
 https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-#EXTINF:-1 tvg-id="TVGA.TV" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="TDT Channels" tvg-name="TVG América",TVG América
+#EXTINF:-1 group-title="TDT Channels",TVG América
 https://america-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="ATVHD.TV" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" group-title="TDT Channels" tvg-name="ATV Andorra",ATV Andorra
+#EXTINF:-1 group-title="TDT Channels",ATV Andorra
 https://videos.rtva.ad/live/rtva/playlist.m3u8
-#EXTINF:-1 tvg-id="ATVCW.TV" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" group-title="TDT Channels" tvg-name="ATV Web Andorra",ATV Web Andorra
+#EXTINF:-1 group-title="TDT Channels",ATV Web Andorra
 https://videos.rtva.ad/live/web/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CNNee/picture?width=320&height=320" group-title="TDT Channels" tvg-name="CNN Internacional",CNN Internacional
+#EXTINF:-1 group-title="TDT Channels",CNN Internacional
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Bloom.TV" tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg" group-title="TDT Channels" tvg-name="Bloomberg Europe",Bloomberg Europe EN
+#EXTINF:-1 group-title="TDT Channels" ,Bloomberg Europe EN
 https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
-#EXTINF:-1 tvg-id="France24.TV" tvg-logo="https://graph.facebook.com/FRANCE24/picture?width=200&height=200" group-title="TDT Channels" tvg-name="France 24 Francia",France 24 Francia
+#EXTINF:-1 group-title="TDT Channels" ,France 24 Francia
 https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="France24.TV" tvg-logo="https://graph.facebook.com/FRANCE24/picture?width=200&height=200" group-title="TDT Channels" tvg-name="France 24 Francia",France 24 Francia EN
+#EXTINF:-1 group-title="TDT Channels" ,France 24 Francia EN
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="France24.TV" tvg-logo="https://graph.facebook.com/FRANCE24/picture?width=200&height=200" group-title="TDT Channels" tvg-name="France 24 Francia",France 24 Francia FR
+#EXTINF:-1 group-title="TDT Channels" ,France 24 Francia FR
 https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/BFMTV/picture?width=200&height=200" group-title="TDT Channels" tvg-name="BFM TV Francia",BFM TV Francia FR
+#EXTINF:-1 group-title="TDT Channels" ,BFM TV Francia FR
 https://bfmtvalive1-a.akamaihd.net/2a233d36eeeb4367b7b6e9fa069d9fe9/eu-central-1/876450610001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tv5mondeofficiel/picture?width=200&height=200" group-title="TDT Channels" tvg-name="TV5Monde Francia",TV5Monde Francia FR
+#EXTINF:-1 group-title="TDT Channels" ,TV5Monde Francia FR
 https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tgcom24/picture?width=200&height=200" group-title="TDT Channels" tvg-name="TGCom24 Italia",TGCom24 Italia IT
+#EXTINF:-1 group-title="TDT Channels" ,TGCom24 Italia IT
 https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
-#EXTINF:-1 tvg-id="RaiN.TV" tvg-logo="https://graph.facebook.com/rainews.it/picture?width=200&height=200" group-title="TDT Channels" tvg-name="Rai News 24 Italia",Rai News 24 Italia IT
+#EXTINF:-1 group-title="TDT Channels" ,Rai News 24 Italia IT
 https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/La5mediaset/picture?width=200&height=200" group-title="TDT Channels" tvg-name="La5 Italia",La5 Italia IT
+#EXTINF:-1 group-title="TDT Channels" ,La5 Italia IT
 https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/dmaxitalia/picture?width=200&height=200" group-title="TDT Channels" tvg-name="DMAX Discovery Italia",DMAX Discovery Italia IT
+#EXTINF:-1 group-title="TDT Channels" ,DMAX Discovery Italia IT
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/realtimeitalia/picture?width=200&height=200" group-title="TDT Channels" tvg-name="Real Time Italia",Real Time Italia IT
+#EXTINF:-1 group-title="TDT Channels" ,Real Time Italia IT
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
-#EXTINF:-1 tvg-id="DW.TV" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="TDT Channels" tvg-name="DW Alemania",DW Alemania
+#EXTINF:-1 group-title="TDT Channels" ,DW Alemania
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-#EXTINF:-1 tvg-id="DW.TV" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="TDT Channels" tvg-name="DW Alemania",DW Alemania EN
+#EXTINF:-1 group-title="TDT Channels" ,DW Alemania EN
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1 tvg-id="DW.TV" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="TDT Channels" tvg-name="DW Alemania",DW Alemania DE
+#EXTINF:-1 group-title="TDT Channels" ,DW Alemania DE
 https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/DasErste/picture?width=200&height=200" group-title="TDT Channels" tvg-name="Das Erste Alemania",Das Erste Alemania DE
+#EXTINF:-1 group-title="TDT Channels" ,Das Erste Alemania DE
 https://mcdn.daserste.de/daserste/int/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/ndrniedersachsen/picture?width=200&height=200" group-title="TDT Channels" tvg-name="NDR Niedersachsen Alemania",NDR Niedersachsen Alemania DE
+#EXTINF:-1 group-title="TDT Channels" ,NDR Niedersachsen Alemania DE
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8
-#EXTINF:-1 tvg-id="SkyN.TV" tvg-logo="https://graph.facebook.com/skynews/picture?width=200&height=200" group-title="TDT Channels" tvg-name="Sky News UK",Sky News UK EN
+#EXTINF:-1 group-title="TDT Channels" ,Sky News UK EN
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/GBNewsOnline/picture?width=200&height=200" group-title="TDT Channels" tvg-name="GB News UK",GB News UK EN
+#EXTINF:-1 group-title="TDT Channels" ,GB News UK EN
 https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtpmadeira/picture?width=200&height=200" group-title="TDT Channels" tvg-name="RTP Madeira Portugal",RTP Madeira Portugal PT
+#EXTINF:-1 group-title="TDT Channels",RTP Madeira Portugal PT
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtpacores/picture?width=200&height=200" group-title="TDT Channels" tvg-name="RTP Açores Portugal",RTP Açores Portugal PT
+#EXTINF:-1 group-title="TDT Channels" ,RTP Açores Portugal PT
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/portocanal/picture?width=200&height=200" group-title="TDT Channels" tvg-name="Porto Canal Portugal",Porto Canal Portugal PT
 https://streamer-b02.videos.sapo.pt/live/portocanal/master.m3u8
@@ -90,113 +90,113 @@ https://rt-uk-gd.secure2.footprint.net/1106.m3u8
 https://rt-usa-gd.secure2.footprint.net/1105.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RTnews/picture?width=200&height=200" group-title="TDT Channels" tvg-name="RT News",RT News FR
 https://rt-france-gd.secure2.footprint.net/1107.m3u8
-#EXTINF:-1 tvg-id="RTDoc.TV" tvg-logo="https://graph.facebook.com/RTDocumentary/picture?width=200&height=200" group-title="TDT Channels" tvg-name="RT Documentary",RT Documentary EN
+#EXTINF:-1 group-title="TDT Channels" ,RT Documentary EN
 https://rt-doc-gd.secure2.footprint.net/1101.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/FOXNews/picture?width=200&height=200" group-title="TDT Channels" tvg-name="FOX News USA",FOX News USA EN
+#EXTINF:-1 group-title="TDT Channels" ,FOX News USA EN
 https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/ABCNews/picture?width=200&height=200" group-title="TDT Channels" tvg-name="ABC News USA",ABC News USA EN
+#EXTINF:-1 group-title="TDT Channels" ,ABC News USA EN
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CBSNews/picture?width=200&height=200" group-title="TDT Channels" tvg-name="CBS News USA",CBS News USA EN
+#EXTINF:-1 group-title="TDT Channels" ,CBS News USA EN
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/cheddar/picture?width=200&height=200" group-title="TDT Channels" tvg-name="Cheddar USA",Cheddar USA EN
+#EXTINF:-1 group-title="TDT Channels",Cheddar USA EN
 https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg" group-title="TDT Channels" tvg-name="Bloomberg USA",Bloomberg USA EN
+#EXTINF:-1 group-title="TDT Channels",Bloomberg USA EN
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg" group-title="TDT Channels" tvg-name="Bloomberg USA",Bloomberg USA EN
+#EXTINF:-1 group-title="TDT Channels",Bloomberg USA EN
 https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/courttv/picture?width=200&height=200" group-title="TDT Channels" tvg-name="CourtTV USA",CourtTV USA EN
+#EXTINF:-1 group-title="TDT Channels" ,CourtTV USA EN
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/NASA/picture?width=200&height=200" group-title="TDT Channels" tvg-name="NASA TV Public",NASA TV Public
+#EXTINF:-1 group-title="TDT Channels" ,NASA TV Public
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/NASA/picture?width=200&height=200" group-title="TDT Channels" tvg-name="NASA TV Media",NASA TV Media
+#EXTINF:-1 group-title="TDT Channels" ,NASA TV Media
 http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/NASA/picture?width=200&height=200" group-title="TDT Channels" tvg-name="NASA TV ISS Views",NASA TV ISS Views
+#EXTINF:-1 group-title="TDT Channels" ,NASA TV ISS Views
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/TheWeatherChannel/picture?width=200&height=200" group-title="TDT Channels" tvg-name="The Weather Channel USA",The Weather Channel USA
+#EXTINF:-1 group-title="TDT Channels" ,The Weather Channel USA
 https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/WeatherNation/picture?width=200&height=200" group-title="TDT Channels" tvg-name="WeatherNation USA",WeatherNation USA
+#EXTINF:-1 group-title="TDT Channels" ,WeatherNation USA
 https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/EntertainmentTonight/picture?width=200&height=200" group-title="TDT Channels" tvg-name="Entertainment Tonight USA",Entertainment Tonight USA EN
+#EXTINF:-1 group-title="TDT Channels" ,Entertainment Tonight USA EN
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/RealAmericasVoice/picture?width=200&height=200" group-title="TDT Channels" tvg-name="America's Voice USA",America's Voice USA EN
+#EXTINF:-1 group-title="TDT Channels" ,America's Voice USA EN
 https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/BUZZRtv/picture?width=200&height=200" group-title="TDT Channels" tvg-name="BUZZR TV USA",BUZZR TV USA EN
+#EXTINF:-1 group-title="TDT Channels" ,BUZZR TV USA EN
 https://buzzr-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/DablNetwork/picture?width=200&height=200" group-title="TDT Channels" tvg-name="Dabl USA",Dabl USA EN
+#EXTINF:-1 group-title="TDT Channels" ,Dabl USA EN
 https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest.m3u8
-#EXTINF:-1 tvg-id="Zee.TV" tvg-logo="https://graph.facebook.com/zeemundo/picture?width=200&height=200" group-title="TDT Channels" tvg-name="Zee Mundo USA",Zee Mundo USA
+#EXTINF:-1 group-title="TDT Channels" ,Zee Mundo USA
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/index-1621748050-now.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/newsmax/picture?width=200&height=200" group-title="TDT Channels" tvg-name="Newsmax TV USA",Newsmax TV USA EN
+#EXTINF:-1 group-title="TDT Channels" ,Newsmax TV USA EN
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/cbnonline/picture?width=200&height=200" group-title="TDT Channels" tvg-name="CBN USA",CBN USA
+#EXTINF:-1 group-title="TDT Channels" ,CBN USA
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/cbnonline/picture?width=200&height=200" group-title="TDT Channels" tvg-name="CBN USA",CBN USA EN
+#EXTINF:-1 group-title="TDT Channels" ,CBN USA EN
 https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200" group-title="TDT Channels" tvg-name="Canal 6 Multimedios Mexico",Canal 6 Multimedios Mexico
+#EXTINF:-1 group-title="TDT Channels" ,Canal 6 Multimedios Mexico
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/FOROtv/picture?width=200&height=200" group-title="TDT Channels" tvg-name="Televisa News Mexico",Televisa News Mexico
+#EXTINF:-1 group-title="TDT Channels" ,Televisa News Mexico
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
-#EXTINF:-1 tvg-id="ADN40.TV" tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200" group-title="TDT Channels" tvg-name="ADN40 Mexico",ADN40 Mexico
+#EXTINF:-1 group-title="TDT Channels" ,ADN40 Mexico
 https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200" group-title="TDT Channels" tvg-name="Canal Once Mexico",Canal Once Mexico
+#EXTINF:-1 group-title="TDT Channels" ,Canal Once Mexico
 https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200" group-title="TDT Channels" tvg-name="Canal Once Mexico",Canal Once Mexico
+#EXTINF:-1  group-title="TDT Channels" tvg-name="Canal Once Mexico",Canal Once Mexico
 https://live2.canaloncelive.tv/livepkgr2/internacional.smil/.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/quierotvGDL/picture?width=200&height=200" group-title="TDT Channels" tvg-name="Quiero TV Mexico",Quiero TV Mexico
+#EXTINF:-1 group-title="TDT Channels" ,Quiero TV Mexico
 https://quierotvlive.tk/httplive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/turistikmedia/picture?width=200&height=200" group-title="TDT Channels" tvg-name="Turistik TV Mexico",Turistik TV Mexico
+#EXTINF:-1 group-title="TDT Channels" ,Turistik TV Mexico
 https://5fa5de1a545ae.streamlock.net/turistik/turistik/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/NoticiasCaracol/picture?width=200&height=200" group-title="TDT Channels" tvg-name="Noticias Caracol Colombia",Noticias Caracol Colombia
+#EXTINF:-1 group-title="TDT Channels" ,Noticias Caracol Colombia
 https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalCapitalOficial/picture?width=200&height=200" group-title="TDT Channels" tvg-name="Canal Capital Colombia",Canal Capital Colombia
+#EXTINF:-1 group-title="TDT Channels" ,Canal Capital Colombia
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalTeleantioquia/picture?width=200&height=200" group-title="TDT Channels" tvg-name="Teleantioquia Colombia",Teleantioquia Colombia
+#EXTINF:-1 group-title="TDT Channels" ,Teleantioquia Colombia
 https://hdvideo2.cdn.net.co/live01/ta.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/senalcolombiapaginaoficial/picture?width=200&height=200" group-title="TDT Channels" tvg-name="Señal Colombia",Señal Colombia
+#EXTINF:-1 group-title="TDT Channels" ,Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/TelepacificoTV/picture?width=200&height=200" group-title="TDT Channels" tvg-name="Telepacifico Colombia",Telepacifico Colombia
+#EXTINF:-1 group-title="TDT Channels" tvg-name="Telepacifico Colombia",Telepacifico Colombia
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/canaltro/picture?width=200&height=200" group-title="TDT Channels" tvg-name="Canal TRO Colombia",Canal TRO Colombia
+#EXTINF:-1 group-title="TDT Channels" ,Canal TRO Colombia
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/canaltro/picture?width=200&height=200" group-title="TDT Channels" tvg-name="Canal TRO Colombia",Canal TRO Colombia
+#EXTINF:-1 group-title="TDT Channels" ,Canal TRO Colombia
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
 https://liveingesta119.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Exitosanoticias/picture?width=200&height=200" group-title="TDT Channels" tvg-name="Exitosa Noticias Perú",Exitosa Noticias Perú
+#EXTINF:-1 group-title="TDT Channels" ,Exitosa Noticias Perú
 https://cu.onliv3.com/livevd1/user2.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/panamericana.pe/picture?width=200&height=200" group-title="TDT Channels" tvg-name="Panamericana Perú",Panamericana Perú
+#EXTINF:-1 group-title="TDT Channels" ,Panamericana Perú
 https://cdnhd.iblups.com/hls/ptv2.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200" group-title="TDT Channels" tvg-name="TV Perú",TV Perú
+#EXTINF:-1 group-title="TDT Channels" ,TV Perú
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200" group-title="TDT Channels" tvg-name="TV Perú Noticias",TV Perú Noticias
+#EXTINF:-1 group-title="TDT Channels" ,TV Perú Noticias
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalipe/picture?width=200&height=200" group-title="TDT Channels" tvg-name="Canal IPe Perú",Canal IPe Perú
+#EXTINF:-1 group-title="TDT Channels" ,Canal IPe Perú
 https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1 tvg-id="TeleSUR.TV" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=200&height=200" group-title="TDT Channels" tvg-name="TeleSUR Venezuela",TeleSUR Venezuela
+#EXTINF:-1 group-title="TDT Channels" ,TeleSUR Venezuela
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/VTVtuCanal/picture?width=200&height=200" group-title="TDT Channels" tvg-name="Venezolana de Televisión",Venezolana de Televisión
+#EXTINF:-1 group-title="TDT Channels",Venezolana de Televisión
 https://livestream.streamingconnect.com/hls/vtvweb.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/TelevenTV/picture?width=200&height=200" group-title="TDT Channels" tvg-name="Televen TV Venezuela",Televen TV Venezuela
+#EXTINF:-1 group-title="TDT Channels" ,Televen TV Venezuela
 https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalantigua/picture?width=200&height=200" group-title="TDT Channels" tvg-name="Canal Antigua Guatemala",Canal Antigua Guatemala
+#EXTINF:-1 group-title="TDT Channels" ,Canal Antigua Guatemala
 https://5ef74a4cbddfc.streamlock.net/CanalAntigua/myStream/plalist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tctelevision10/picture?width=200&height=200" group-title="TDT Channels" tvg-name="TC TV Ecuador",TC TV Ecuador
+#EXTINF:-1 group-title="TDT Channels" ,TC TV Ecuador
 https://mdstrm.com/live-stream-playlist/5fdd14e2ae4dcc06ebf7546e.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/TeleamazonasEcuador/picture?width=200&height=200" group-title="TDT Channels" tvg-name="TeleAmazonas Ecuador",TeleAmazonas Ecuador
+#EXTINF:-1 group-title="TDT Channels" ,TeleAmazonas Ecuador
 https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/BoliviatvOficial/picture?width=200&height=200" group-title="TDT Channels" tvg-name="Bolivia 7.2 TV",Bolivia 7.2 TV
+#EXTINF:-1 group-title="TDT Channels" ,Bolivia 7.2 TV
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/patboliviahd/picture?width=200&height=200" group-title="TDT Channels" tvg-name="Red Pat Bolivia",Red Pat Bolivia
+#EXTINF:-1 group-title="TDT Channels" ,Red Pat Bolivia
 https://5975e06a1f292.streamlock.net:4443/patbolivia/patlapaz/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/telemicro5/picture?width=200&height=200" group-title="TDT Channels" tvg-name="Telemicro República Dominicana",Telemicro República Dominicana
+#EXTINF:-1 group-title="TDT Channels" ,Telemicro República Dominicana
 https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362163071272255490/hkgMSxBw_200x200.jpg" group-title="TDT Channels" tvg-name="HCH Honduras",HCH Honduras
+#EXTINF:-1 group-title="TDT Channels" ,HCH Honduras
 https://5d597bfcee285.streamlock.net/hch/hch/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/ABCTVpy/picture?width=200&height=200" group-title="TDT Channels" tvg-name="ABC TV Paraguay",ABC TV Paraguay
+#EXTINF:-1 group-title="TDT Channels" ,ABC TV Paraguay
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/trecepy/picture?width=200&height=200" group-title="TDT Channels" tvg-name="Trece Paraguay",Trece Paraguay
+#EXTINF:-1 group-title="TDT Channels",Trece Paraguay
 http://174.138.118.252/live/trece.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Unicanal/picture?width=200&height=200" group-title="TDT Channels" tvg-name="Unicanal Paraguay",Unicanal Paraguay
+#EXTINF:-1 group-title="TDT Channels" ,Unicanal Paraguay
 http://45.55.127.106/live/unicanal_mid.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/200823376627607/picture?width=200&height=200" group-title="TDT Channels" tvg-name="Nicavisión TV Nicaragua",Nicavisión TV Nicaragua
 https://5ca9af4645e15.streamlock.net/canal12/videocanal12/playlist.m3u8
