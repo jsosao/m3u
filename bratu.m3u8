@@ -18,131 +18,131 @@ https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8
 https://bfmtvalive1-a.akamaihd.net/2a233d36eeeb4367b7b6e9fa069d9fe9/eu-central-1/876450610001/playlist.m3u8
 #EXTINF:-1 group-title="Europa", TV5Monde Francia FR
 https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
-#EXTINF:-1 group-title="Europa" ,TGCom24 Italia IT
+#EXTINF:-1 group-title="Europa", TGCom24 Italia IT
 https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
-#EXTINF:-1 group-title="Europa" ,Rai News 24 Italia IT
+#EXTINF:-1 group-title="Europa", Rai News 24 Italia IT
 https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
-#EXTINF:-1 group-title="Europa" ,La5 Italia IT
+#EXTINF:-1 group-title="Europa", La5 Italia IT
 https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
-#EXTINF:-1 group-title="Europa" ,DMAX Discovery Italia IT
+#EXTINF:-1 group-title="Europa", DMAX Discovery Italia IT
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
-#EXTINF:-1 group-title="Europa" ,Real Time Italia IT
+#EXTINF:-1 group-title="Europa", Real Time Italia IT
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
-#EXTINF:-1 group-title="Europa" ,Sky News UK EN
+#EXTINF:-1 group-title="Europa", Sky News UK EN
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
 
-#EXTINF:-1 group-title="Europa" ,Current Time TV
+#EXTINF:-1 group-title="Europa", Current Time TV
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
-#EXTINF:-1 group-title="Europa" ,RT News EN
+#EXTINF:-1 group-title="Europa", RT News EN
 https://rt-news-gd.secure2.footprint.net/1103.m3u8
-#EXTINF:-1 group-title="Europa" ,RT News EN
+#EXTINF:-1 group-title="Europa", RT News EN
 https://rt-uk-gd.secure2.footprint.net/1106.m3u8
-#EXTINF:-1 group-title="Europa" ,RT News EN
+#EXTINF:-1 group-title="Europa", RT News EN
 https://rt-usa-gd.secure2.footprint.net/1105.m3u8
 #EXTINF:-1 group-title="Europa" ,RT News FR
 https://rt-france-gd.secure2.footprint.net/1107.m3u8
-#EXTINF:-1 group-title="Europa" ,RT Documentary EN
+#EXTINF:-1 group-title="Europa", RT Documentary EN
 https://rt-doc-gd.secure2.footprint.net/1101.m3u8
 
-#EXTINF:-1 group-title="America" ,FOX News USA EN
+#EXTINF:-1 group-title="America", FOX News USA EN
 https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
-#EXTINF:-1 group-title="America" ,ABC News USA EN
+#EXTINF:-1 group-title="America", ABC News USA EN
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 group-title="America" ,CBS News USA EN
+#EXTINF:-1 group-title="America", CBS News USA EN
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1 group-title="America" ,Bloomberg USA EN
+#EXTINF:-1 group-title="America", Bloomberg USA EN
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
-#EXTINF:-1 group-title="America" ,Bloomberg USA EN
+#EXTINF:-1 group-title="America", Bloomberg USA EN
 https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
-#EXTINF:-1 group-title="America" ,The Weather Channel USA
+#EXTINF:-1 group-title="America", The Weather Channel USA
 https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1 group-title="America" ,WeatherNation USA
+#EXTINF:-1 group-title="America", WeatherNation USA
 https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="America" ,Entertainment Tonight USA EN
+#EXTINF:-1 group-title="America", Entertainment Tonight USA EN
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
-#EXTINF:-1 group-title="America" ,America's Voice USA EN
+#EXTINF:-1 group-title="America", America's Voice USA EN
 https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
-#EXTINF:-1 group-title="America" ,BUZZR TV USA EN
+#EXTINF:-1 group-title="America", BUZZR TV USA EN
 https://buzzr-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="America" ,Zee Mundo USA
+#EXTINF:-1 group-title="America", Zee Mundo USA
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/index-1621748050-now.m3u8
-#EXTINF:-1 group-title="America" ,Newsmax TV USA EN
+#EXTINF:-1 group-title="America", Newsmax TV USA EN
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
-#EXTINF:-1 group-title="America" ,Canal 6 Multimedios Mexico
+#EXTINF:-1 group-title="America", Canal 6 Multimedios Mexico
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 group-title="America" ,Televisa News Mexico
+#EXTINF:-1 group-title="America", Televisa News Mexico
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
-#EXTINF:-1 group-title="America,ADN40 Mexico
+#EXTINF:-1 group-title="America", ADN40 Mexico
 https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200" group-title="America" ,Canal Once Mexico
+#EXTINF:-1 group-title="America", Canal Once Mexico
 https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200" group-title="America" ,Canal Once Mexico
+#EXTINF:-1 group-title="America", Canal Once Mexico
 https://live2.canaloncelive.tv/livepkgr2/internacional.smil/.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/quierotvGDL/picture?width=200&height=200" group-title="America" ,Quiero TV Mexico
+#EXTINF:-1 group-title="America", Quiero TV Mexico
 https://quierotvlive.tk/httplive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/turistikmedia/picture?width=200&height=200" group-title="America" ,Turistik TV Mexico
+#EXTINF:-1 group-title="America", Turistik TV Mexico
 https://5fa5de1a545ae.streamlock.net/turistik/turistik/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/NoticiasCaracol/picture?width=200&height=200" group-title="America" ,Noticias Caracol Colombia
+#EXTINF:-1 group-title="America", Noticias Caracol Colombia
 https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalCapitalOficial/picture?width=200&height=200" group-title="America" ,Canal Capital Colombia
+#EXTINF:-1 group-title="America", Canal Capital Colombia
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalTeleantioquia/picture?width=200&height=200" group-title="America" ,Teleantioquia Colombia
+#EXTINF:-1 group-title="America", Teleantioquia Colombia
 https://hdvideo2.cdn.net.co/live01/ta.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/senalcolombiapaginaoficial/picture?width=200&height=200" group-title="America" ,Señal Colombia
+#EXTINF:-1 group-title="America", Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/TelepacificoTV/picture?width=200&height=200" group-title="America" ,Telepacifico Colombia
+#EXTINF:-1 group-title="America", Telepacifico Colombia
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/canaltro/picture?width=200&height=200" group-title="America" ,Canal TRO Colombia
+#EXTINF:-1 group-title="America", Canal TRO Colombia
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/canaltro/picture?width=200&height=200" group-title="America" ,Canal TRO Colombia
+#EXTINF:-1 group-title="America", Canal TRO Colombia
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
 https://liveingesta119.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Exitosanoticias/picture?width=200&height=200" group-title="America" ,Exitosa Noticias Perú
+#EXTINF:-1 group-title="America", Exitosa Noticias Perú
 https://cu.onliv3.com/livevd1/user2.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/panamericana.pe/picture?width=200&height=200" group-title="America", Panamericana Perú
+#EXTINF:-1 group-title="America", Panamericana Perú
 https://cdnhd.iblups.com/hls/ptv2.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200" group-title="America" ,TV Perú
+#EXTINF:-1 group-title="America", TV Perú
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200" group-title="America",TV Perú Noticias
+#EXTINF:-1 group-title="America", TV Perú Noticias
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalipe/picture?width=200&height=200" group-title="America" ,Canal IPe Perú
+#EXTINF:-1 group-title="America", Canal IPe Perú
 https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1 tvg-id="TeleSUR.TV" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=200&height=200" group-title="America" ,TeleSUR Venezuela
+#EXTINF:-1 group-title="America", TeleSUR Venezuela
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/VTVtuCanal/picture?width=200&height=200" group-title="America" ,Venezolana de Televisión
+#EXTINF:-1 group-title="America", Venezolana de Televisión
 https://livestream.streamingconnect.com/hls/vtvweb.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/TelevenTV/picture?width=200&height=200" group-title="America" ,Televen TV Venezuela
+#EXTINF:-1 group-title="America", Televen TV Venezuela
 https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalantigua/picture?width=200&height=200" group-title="America" ,Canal Antigua Guatemala
+#EXTINF:-1 group-title="America", Canal Antigua Guatemala
 https://5ef74a4cbddfc.streamlock.net/CanalAntigua/myStream/plalist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tctelevision10/picture?width=200&height=200" group-title="America" ,TC TV Ecuador
+#EXTINF:-1 group-title="America", TC TV Ecuador
 https://mdstrm.com/live-stream-playlist/5fdd14e2ae4dcc06ebf7546e.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/TeleamazonasEcuador/picture?width=200&height=200" group-title="America" ,TeleAmazonas Ecuador
+#EXTINF:-1 group-title="America", TeleAmazonas Ecuador
 https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/BoliviatvOficial/picture?width=200&height=200" group-title="America" ,Bolivia 7.2 TV
+#EXTINF:-1 group-title="America", Bolivia 7.2 TV
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/patboliviahd/picture?width=200&height=200" group-title="America" ,Red Pat Bolivia
+#EXTINF:-1 group-title="America", Red Pat Bolivia
 https://5975e06a1f292.streamlock.net:4443/patbolivia/patlapaz/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/telemicro5/picture?width=200&height=200" group-title="America" ,Telemicro RepÃºblica Dominicana
+#EXTINF:-1 group-title="America", Telemicro RepÃºblica Dominicana
 https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362163071272255490/hkgMSxBw_200x200.jpg" group-title="America" ,HCH Honduras
+#EXTINF:-1 group-title="America", HCH Honduras
 https://5d597bfcee285.streamlock.net/hch/hch/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/ABCTVpy/picture?width=200&height=200" group-title="America" ,ABC TV Paraguay
+#EXTINF:-1 group-title="America", ABC TV Paraguay
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/trecepy/picture?width=200&height=200" group-title="America" ,Trece Paraguay
+#EXTINF:-1 group-title="America", Trece Paraguay
 http://174.138.118.252/live/trece.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Unicanal/picture?width=200&height=200" group-title="America" ,Unicanal Paraguay
+#EXTINF:-1 group-title="America", Unicanal Paraguay
 http://45.55.127.106/live/unicanal_mid.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/200823376627607/picture?width=200&height=200" group-title="America" ,Nicavisión TV Nicaragua
+#EXTINF:-1 group-title="America", Nicavisión TV Nicaragua
 https://5ca9af4645e15.streamlock.net/canal12/videocanal12/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CANAL33.TV/picture?width=200&height=200" group-title="America" ,Canal 33 El Salvador
+#EXTINF:-1 group-title="America", Canal 33 El Salvador
 https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/MultimediosCR/picture?width=200&height=200" group-title="America" ,Multimedios Costa Rica
+#EXTINF:-1 group-title="America", Multimedios Costa Rica
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/nextvpanama/picture?width=200&height=200" group-title="America" ,Nex TV Panamá
+#EXTINF:-1 group-title="America", Nex TV Panamá
 http://198.1.123.99:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/RedeMassaOficial/picture?width=200&height=200" group-title="America" ,Rede Massa Brasil
+#EXTINF:-1 group-title="America", Rede Massa Brasil
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/master.m3u8
 
 #EXTINF:-1 tvg-id="NHK.TV" tvg-logo="https://graph.facebook.com/nhkworld/picture?width=200&height=200" group-title=" Asia" ,NHK World Japan EN
