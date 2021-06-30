@@ -70,7 +70,7 @@ https://f8e7y4c6.ssl.hwcdn.net/mundohd/index-1621748050-now.m3u8
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
 #EXTINF:-1 group-title="America", Canal 6 Multimedios Mexico
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 group-title="America", Televisa News Mexico
+#EXTINF:-1 group-title="America", Televisa News Mexico FOROTV
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
 #EXTINF:-1 group-title="America", ADN40 Mexico
 https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
@@ -124,7 +124,7 @@ https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 #EXTINF:-1 group-title="America", Red Pat Bolivia
 https://5975e06a1f292.streamlock.net:4443/patbolivia/patlapaz/master.m3u8
-#EXTINF:-1 group-title="America", Telemicro RepÃºblica Dominicana
+#EXTINF:-1 group-title="America", Telemicro República Dominicana
 https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
 #EXTINF:-1 group-title="America", HCH Honduras
 https://5d597bfcee285.streamlock.net/hch/hch/master.m3u8
