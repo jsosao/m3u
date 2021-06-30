@@ -4,76 +4,75 @@ http://nosirve.com
 
 ******************************************** TDT CHANNELS ***************************************************
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CNNee/picture?width=320&height=320" group-title="Int. Europa" tvg-name="CNN Internacional",CNN Internacional
+#EXTINF:-1 group-title="Int. Europa" tvg-name="CNN Internacional",CNN Internacional
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Bloom.TV" tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg" group-title="Int. Europa" tvg-name="Bloomberg Europe",Bloomberg Europe EN
+#EXTINF:-1 group-title="Int. Europa" tvg-name="Bloomberg Europe",Bloomberg Europe EN
 https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
-#EXTINF:-1 tvg-id="France24.TV" tvg-logo="https://graph.facebook.com/FRANCE24/picture?width=200&height=200" group-title="Int. Europa" tvg-name="France 24 Francia",France 24 Francia
+#EXTINF:-1 group-title="Int. Europa" tvg-name="France 24 Francia",France 24 Francia
 https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="France24.TV" tvg-logo="https://graph.facebook.com/FRANCE24/picture?width=200&height=200" group-title="Int. Europa" tvg-name="France 24 Francia",France 24 Francia EN
+#EXTINF:-1 group-title="Int. Europa" tvg-name="France 24 Francia",France 24 Francia EN
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="France24.TV" tvg-logo="https://graph.facebook.com/FRANCE24/picture?width=200&height=200" group-title="Int. Europa" tvg-name="France 24 Francia",France 24 Francia FR
+#EXTINF:-1 group-title="Int. Europa" tvg-name="France 24 Francia",France 24 Francia FR
 https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/BFMTV/picture?width=200&height=200" group-title="Int. Europa" tvg-name="BFM TV Francia",BFM TV Francia FR
+#EXTINF:-1 group-title="Int. Europa" tvg-name="BFM TV Francia",BFM TV Francia FR
 https://bfmtvalive1-a.akamaihd.net/2a233d36eeeb4367b7b6e9fa069d9fe9/eu-central-1/876450610001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tv5mondeofficiel/picture?width=200&height=200" group-title="Int. Europa" tvg-name="TV5Monde Francia",TV5Monde Francia FR
+#EXTINF:-1 group-title="Int. Europa" tvg-name="TV5Monde Francia",TV5Monde Francia FR
 https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tgcom24/picture?width=200&height=200" group-title="Int. Europa" tvg-name="TGCom24 Italia",TGCom24 Italia IT
+#EXTINF:-1 group-title="Int. Europa" tvg-name="TGCom24 Italia",TGCom24 Italia IT
 https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
-#EXTINF:-1 tvg-id="RaiN.TV" tvg-logo="https://graph.facebook.com/rainews.it/picture?width=200&height=200" group-title="Int. Europa" tvg-name="Rai News 24 Italia",Rai News 24 Italia IT
+#EXTINF:-1 group-title="Int. Europa" tvg-name="Rai News 24 Italia",Rai News 24 Italia IT
 https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/La5mediaset/picture?width=200&height=200" group-title="Int. Europa" tvg-name="La5 Italia",La5 Italia IT
+#EXTINF:-1 group-title="Int. Europa" tvg-name="La5 Italia",La5 Italia IT
 https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/dmaxitalia/picture?width=200&height=200" group-title="Int. Europa" tvg-name="DMAX Discovery Italia",DMAX Discovery Italia IT
+#EXTINF:-1 group-title="Int. Europa" tvg-name="DMAX Discovery Italia",DMAX Discovery Italia IT
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/realtimeitalia/picture?width=200&height=200" group-title="Int. Europa" tvg-name="Real Time Italia",Real Time Italia IT
+#EXTINF:-1 group-title="Int. Europa" tvg-name="Real Time Italia",Real Time Italia IT
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
-
-#EXTINF:-1 tvg-id="SkyN.TV" tvg-logo="https://graph.facebook.com/skynews/picture?width=200&height=200" group-title="Int. Europa" tvg-name="Sky News UK",Sky News UK EN
+#EXTINF:-1 group-title="Int. Europa" tvg-name="Sky News UK",Sky News UK EN
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/currenttimetv/picture?width=200&height=200" group-title="Int. Europa" tvg-name="Current Time TV",Current Time TV
+#EXTINF:-1 group-title="Int. Europa" tvg-name="Current Time TV",Current Time TV
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/RTnews/picture?width=200&height=200" group-title="Int. Europa" tvg-name="RT News",RT News EN
+#EXTINF:-1 group-title="Int. Europa" tvg-name="RT News",RT News EN
 https://rt-news-gd.secure2.footprint.net/1103.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/RTnews/picture?width=200&height=200" group-title="Int. Europa" tvg-name="RT News",RT News EN
+#EXTINF:-1 group-title="Int. Europa" tvg-name="RT News",RT News EN
 https://rt-uk-gd.secure2.footprint.net/1106.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/RTnews/picture?width=200&height=200" group-title="Int. Europa" tvg-name="RT News",RT News EN
+#EXTINF:-1 group-title="Int. Europa" tvg-name="RT News",RT News EN
 https://rt-usa-gd.secure2.footprint.net/1105.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/RTnews/picture?width=200&height=200" group-title="Int. Europa" tvg-name="RT News",RT News FR
+#EXTINF:-1 group-title="Int. Europa" tvg-name="RT News",RT News FR
 https://rt-france-gd.secure2.footprint.net/1107.m3u8
-#EXTINF:-1 tvg-id="RTDoc.TV" tvg-logo="https://graph.facebook.com/RTDocumentary/picture?width=200&height=200" group-title="Int. Europa" tvg-name="RT Documentary",RT Documentary EN
+#EXTINF:-1 group-title="Int. Europa" tvg-name="RT Documentary",RT Documentary EN
 https://rt-doc-gd.secure2.footprint.net/1101.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/FOXNews/picture?width=200&height=200" group-title="Int. AmÃ©rica" tvg-name="FOX News USA",FOX News USA EN
+#EXTINF:-1 group-title="Int. AmÃ©rica" tvg-name="FOX News USA",FOX News USA EN
 https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/ABCNews/picture?width=200&height=200" group-title="Int. AmÃ©rica" tvg-name="ABC News USA",ABC News USA EN
+#EXTINF:-1 group-title="Int. AmÃ©rica" tvg-name="ABC News USA",ABC News USA EN
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CBSNews/picture?width=200&height=200" group-title="Int. AmÃ©rica" tvg-name="CBS News USA",CBS News USA EN
+#EXTINF:-1 group-title="Int. AmÃ©rica" tvg-name="CBS News USA",CBS News USA EN
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg" group-title="Int. AmÃ©rica" tvg-name="Bloomberg USA",Bloomberg USA EN
+#EXTINF:-1 group-title="Int. AmÃ©rica" tvg-name="Bloomberg USA",Bloomberg USA EN
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg" group-title="Int. AmÃ©rica" tvg-name="Bloomberg USA",Bloomberg USA EN
+#EXTINF:-1 group-title="Int. AmÃ©rica" tvg-name="Bloomberg USA",Bloomberg USA EN
 https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/TheWeatherChannel/picture?width=200&height=200" group-title="Int. AmÃ©rica" tvg-name="The Weather Channel USA",The Weather Channel USA
+#EXTINF:-1 group-title="Int. AmÃ©rica" tvg-name="The Weather Channel USA",The Weather Channel USA
 https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/WeatherNation/picture?width=200&height=200" group-title="Int. AmÃ©rica" tvg-name="WeatherNation USA",WeatherNation USA
+#EXTINF:-1 group-title="Int. AmÃ©rica" tvg-name="WeatherNation USA",WeatherNation USA
 https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/EntertainmentTonight/picture?width=200&height=200" group-title="Int. AmÃ©rica" tvg-name="Entertainment Tonight USA",Entertainment Tonight USA EN
+#EXTINF:-1 group-title="Int. AmÃ©rica" tvg-name="Entertainment Tonight USA",Entertainment Tonight USA EN
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/RealAmericasVoice/picture?width=200&height=200" group-title="Int. AmÃ©rica" tvg-name="America's Voice USA",America's Voice USA EN
+#EXTINF:-1 group-title="Int. AmÃ©rica" tvg-name="America's Voice USA",America's Voice USA EN
 https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/BUZZRtv/picture?width=200&height=200" group-title="Int. AmÃ©rica" tvg-name="BUZZR TV USA",BUZZR TV USA EN
+#EXTINF:-1 group-title="Int. AmÃ©rica" tvg-name="BUZZR TV USA",BUZZR TV USA EN
 https://buzzr-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Zee.TV" tvg-logo="https://graph.facebook.com/zeemundo/picture?width=200&height=200" group-title="Int. AmÃ©rica" tvg-name="Zee Mundo USA",Zee Mundo USA
+#EXTINF:-1 group-title="Int. AmÃ©rica" tvg-name="Zee Mundo USA",Zee Mundo USA
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/index-1621748050-now.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/newsmax/picture?width=200&height=200" group-title="Int. AmÃ©rica" tvg-name="Newsmax TV USA",Newsmax TV USA EN
+#EXTINF:-1 group-title="Int. AmÃ©rica" tvg-name="Newsmax TV USA",Newsmax TV USA EN
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200" group-title="Int. AmÃ©rica" tvg-name="Canal 6 Multimedios Mexico",Canal 6 Multimedios Mexico
+#EXTINF:-1 group-title="Int. AmÃ©rica" tvg-name="Canal 6 Multimedios Mexico",Canal 6 Multimedios Mexico
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/FOROtv/picture?width=200&height=200" group-title="Int. AmÃ©rica" tvg-name="Televisa News Mexico",Televisa News Mexico
+#EXTINF:-1 group-title="Int. AmÃ©rica" tvg-name="Televisa News Mexico",Televisa News Mexico
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
-#EXTINF:-1 tvg-id="ADN40.TV" tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200" group-title="Int. AmÃ©rica" tvg-name="ADN40 Mexico",ADN40 Mexico
+#EXTINF:-1 group-title="Int. AmÃ©rica" tvg-name="ADN40 Mexico",ADN40 Mexico
 https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200" group-title="Int. AmÃ©rica" tvg-name="Canal Once Mexico",Canal Once Mexico
 https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
