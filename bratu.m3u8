@@ -10,38 +10,37 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
 #EXTINF:-1 group-title="Europa", France 24 Francia
 https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
-#EXTINF:-1 group-title="Int. Europa" tvg-name="France 24 Francia",France 24 Francia EN
+#EXTINF:-1 group-title="Int. Europa", France 24 Francia EN
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
-#EXTINF:-1 group-title="Int. Europa" tvg-name="France 24 Francia",France 24 Francia FR
+#EXTINF:-1 group-title="Int. Europa", France 24 Francia FR
 https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8
-#EXTINF:-1 group-title="Int. Europa" tvg-name="BFM TV Francia",BFM TV Francia FR
+#EXTINF:-1 group-title="Int. Europa", BFM TV Francia FR
 https://bfmtvalive1-a.akamaihd.net/2a233d36eeeb4367b7b6e9fa069d9fe9/eu-central-1/876450610001/playlist.m3u8
-#EXTINF:-1 group-title="Int. Europa" tvg-name="TV5Monde Francia",TV5Monde Francia FR
+#EXTINF:-1 group-title="Int. Europa", TV5Monde Francia FR
 https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
-#EXTINF:-1 group-title="Int. Europa" tvg-name="TGCom24 Italia",TGCom24 Italia IT
+#EXTINF:-1 group-title="Int. Europa", TGCom24 Italia IT
 https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
-#EXTINF:-1 group-title="Int. Europa" tvg-name="Rai News 24 Italia",Rai News 24 Italia IT
+#EXTINF:-1 group-title="Int. Europa",Rai News 24 Italia IT
 https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
-#EXTINF:-1 group-title="Int. Europa" tvg-name="La5 Italia",La5 Italia IT
+#EXTINF:-1 group-title="Int. Europa", La5 Italia IT
 https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
-#EXTINF:-1 group-title="Int. Europa" tvg-name="DMAX Discovery Italia",DMAX Discovery Italia IT
+#EXTINF:-1 group-title="Int. Europa", DMAX Discovery Italia IT
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
-#EXTINF:-1 group-title="Int. Europa" tvg-name="Real Time Italia",Real Time Italia IT
+#EXTINF:-1 group-title="Int. Europa", Real Time Italia IT
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
-#EXTINF:-1 group-title="Int. Europa" tvg-name="Sky News UK",Sky News UK EN
+#EXTINF:-1 group-title="Int. Europa", Sky News UK EN
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
-
-#EXTINF:-1 group-title="Int. Europa" tvg-name="Current Time TV",Current Time TV
+#EXTINF:-1 group-title="Int. Europa",Current Time TV
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
-#EXTINF:-1 group-title="Int. Europa" tvg-name="RT News",RT News EN
+#EXTINF:-1 group-title="Int. Europa",RT News EN
 https://rt-news-gd.secure2.footprint.net/1103.m3u8
-#EXTINF:-1 group-title="Int. Europa" tvg-name="RT News",RT News EN
+#EXTINF:-1 group-title="Int. Europa",RT News EN
 https://rt-uk-gd.secure2.footprint.net/1106.m3u8
-#EXTINF:-1 group-title="Int. Europa" tvg-name="RT News",RT News EN
+#EXTINF:-1 group-title="Int. Europa",RT News EN
 https://rt-usa-gd.secure2.footprint.net/1105.m3u8
-#EXTINF:-1 group-title="Int. Europa" tvg-name="RT News",RT News FR
+#EXTINF:-1 group-title="Int. Europa",RT News FR
 https://rt-france-gd.secure2.footprint.net/1107.m3u8
-#EXTINF:-1 group-title="Int. Europa" tvg-name="RT Documentary",RT Documentary EN
+#EXTINF:-1 group-title="Int. Europa",RT Documentary EN
 https://rt-doc-gd.secure2.footprint.net/1101.m3u8
 
 #EXTINF:-1 group-title="Int. AmÃ©rica" tvg-name="FOX News USA",FOX News USA EN
