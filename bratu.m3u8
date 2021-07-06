@@ -2,6 +2,135 @@
 #EXTINF:0 tvg-logo="https://bratu-marian.com/wp-content/uploads/2020/12/logo-300x54.png", === BRATU https://bratu-marian.com/ ====
 http://nosirve.com
 
+******************************************** SPORTS ***************************************************
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/lKl2wZH.png",Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/9q8gFsq.png",Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/U6XDpXY.png",Abu Dhabi Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/8VqomZ5.png",Abu Dhabi Sports 4
+https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/o90fKsH.png",Al Kass Sports 1
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1laoGlw/master.m3u8
+#EXTINF:-1 group-title="Sport",Al Kass Sports 2
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2baIzzy/master.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/o90fKsH.png",Al Kass Sports 4
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4fzjeApo/master.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/o90fKsH.png",Al Kass Sports 5
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass5Zpgdua/master.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/wULpnYR.png",ALL Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/arriyadiax2.png",Arryadia
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/arriyadiax2.png",Arryadia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/arriyadiax2.png",Arryadia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/5CdW62M.png",ATG
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/G9BMhDS.png",Bahrain Sport 1
+http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/G9BMhDS.png",Bahrain Sport 1
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png",Bek Sports East
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png",Bek Sports West
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png",CCTV中国中央电视台-5 体育
+http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png",CCTV中国中央电视台-5 体育
+http://121.31.30.90:8085/ysten-business/live/cctv-5/yst.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png",CCTV中国中央电视台-5+ 体育赛事
+http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png",CCTV中国中央电视台-5+ 体育赛事
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 group-title="Sport",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="http://www.livenewsmag.com/wp-content/uploads/2017/03/DD-Sports-TV.jpg",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/eytrf0Y.png",Dubai Racing
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/eytrf0Y.png",Dubai Racing 2
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/iYgHR5D.png",Dubai Sports 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/qBdOZ1x.png",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://static1.squarespace.com/static/5a6f534f017db2d628751be1/t/5a6f5557652deada67290f54",Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Sport",Esport Club
+https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
+#EXTINF:-1 group-title="Sport",FOX Sport HD 1
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/jt6g1Jt.png",Horizon Sports
+https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg",KTV Sport
+https://kwmedia.hibridmedia.com/kwmedia/kwtvsports_dabr/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png",New Japan Pro Wrestling World
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="http://www.nettv.live/uploads/18/1-1P426222R1296.jpg",NewTV未来电视 精品体育
+http://121.31.30.90:8085/ysten-business/live/jtiyu/1.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="http://part.gov.om/part/images/oman_sport.png",Oman Sport
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/tuGkZsJ.png",Pro X
+https://vid.hls.protv.ro/proxhdn/proxhd.m3u8?1
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/1M4zMdC.png",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/Lqtz4tS.jpg",Rai Sport
+https://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/master.m3u8
+#EXTINF:-1 group-title="Sport",Real Madrid
+https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.postimg.cc/DZrGJ8Bq/Real-Madrid.png",Real Madrid TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/2M9WfqA.jpg",Real Madrid TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",Red Bull TV
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",Red Bull TV
+https://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",Red Bull TV
+https://i.mjh.nz/au/Melbourne/tv.redbull.tv.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/IaRaabJ.jpg",Sharjah Sport
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/1ZKpTT5.jpg",Sportskool
+https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/IsXK52p.jpg",SportsMax
+http://161.0.157.5/PLTV/88888888/224/3221226766/index.m3u8
+#EXTINF:-1 group-title="Sport",Super Tennis
+https://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/7qSbS53.png",Telecaribe Deportes
+https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
+#EXTINF:-1 group-title="Sport",Türkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="Sport",Türkmenistan Sport
+http://217.174.225.146/legacyhls/ch004_400/index.m3u8
+#EXTINF:-1 group-title="Sport",Türkmenistan Sport
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="Sport",Türkmenistan Sport
+https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="http://tv-online.in/wp-content/uploads/2015/09/Turkmen-sport-logo.jpg",Türkmenistan Sport
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="Sport",Viasat Sport East
+https://persik.tv/stream/3602/287583/10249.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/smyvTHD.jpg",World Of Free Sports TV
+https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
+#EXTINF:-1 group-title="Sport",Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Sport",Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+#EXTINF:-1 group-title="Sport",Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="http://www.ktrk.kg/images/channels/nav/sport.png",КТРК Спорт
+http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/ud7AVaF.png",Матч!
+https://uiptv.do.am/1ufc/000000003/playlist.m3u8
+
 ******************************************** KIDS ***************************************************
 
 #EXTINF:-1 group-title="Kids",3ABN KIDS TV
