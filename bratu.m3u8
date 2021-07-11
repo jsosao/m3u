@@ -2,8 +2,6 @@
 #EXTINF:0 tvg-logo="https://bratu-marian.com/wp-content/uploads/2020/12/logo-300x54.png", === BRATU https://bratu-marian.com/ ====
 http://nosirve.com
 
-
-
 ******************************************** TELEGRAM EXTM3U GROUP ***************************************************
 
 #EXTINF:-1 group-title="USA",A&E
@@ -391,15 +389,6 @@ https://live1.presstv.com/live/hispan.m3u8
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 #EXTINF:-1 group-title="Asia", RTHK 31 32 Hong Kong
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
-
-#EXTINF:-1 group-title="Deportivos", Redbull TV EN
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 group-title="Deportivos", Stadium USA EN
-https://bcovlive-a.akamaihd.net/e64d564b9275484f85981d8c146fb915/us-east-1/5994000126001/8036529875f74c81b5f50851bffbc421/playlist_ssaiM.m3u8
-#EXTINF:-1 group-title="Deportivos", Garage TV
-http://186.0.233.76:1935/Garage/garage.smil/.m3u8
-#EXTINF:-1 group-title="Deportivos", Best Cable Sports Perú
-https://live.siete.us/bestcablesports/bestcablesports/index.m3u8
 
 #EXTINF:-1 group-title="Religiosos", María Visión Mexico
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
@@ -959,10 +948,6 @@ http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=2606&p=3&k=srregio&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=2703&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="Lista MX", MULTIMEDIOS HD
 http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=2882&p=3&k=srregio&f=.m3u8  
-
-
-
-
 
 
 *** INFANTILES ***
