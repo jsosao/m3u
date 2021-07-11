@@ -4,236 +4,238 @@ http://nosirve.com
 
 
 
+******************************************** TELEGRAM EXTM3U GROUP ***************************************************
 
-
-#EXTINF:-1,A&E
+#EXTINF:-1 group-title="USA",A&E
 http://31.220.41.88:8081/live/us-ae.stream/playlist.m3u8
-#EXTINF:-1,ABC
+#EXTINF:-1 group-title="USA",ABC
 http://31.220.41.88:8081/live/us-abc.stream/playlist.m3u8
-#EXTINF:-1,AMC
+#EXTINF:-1 group-title="USA",AMC
 http://31.220.41.88:8081/live/us-amc.stream/playlist.m3u8
-#EXTINF:-1,Animal Planet
+#EXTINF:-1 group-title="USA",Animal Planet
 http://31.220.41.88:8081/live/us-animal.stream/playlist.m3u8
-#EXTINF:-1,Arena Sport1
+#EXTINF:-1 group-title="USA",Arena Sport1
 http://31.220.41.88:8081/live/arena1.stream/playlist.m3u8
-#EXTINF:-1,Arena Sport2
+#EXTINF:-1 group-title="USA",Arena Sport2
 http://31.220.41.88:8081/live/arena2.stream/playlist.m3u8
-#EXTINF:-1,Arena Sport3
+#EXTINF:-1 group-title="USA",Arena Sport3
 http://31.220.41.88:8081/live/arena3.stream/playlist.m3u8
-#EXTINF:-1,Arena Sport4
+#EXTINF:-1 group-title="USA",Arena Sport4
 http://31.220.41.88:8081/live/arena4.stream/playlist.m3u8
-#EXTINF:-1,beIN Sport English 2
+#EXTINF:-1 group-title="USA",beIN Sport English 2
 http://31.220.41.88:8081/live/bein12.stream/playlist.m3u8
-#EXTINF:-1,beIN Sports 1
+#EXTINF:-1 group-title="USA",beIN Sports 1
 http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
-#EXTINF:-1,beIN Sports 1
+#EXTINF:-1 group-title="USA",beIN Sports 1
 http://31.220.41.88:8081/live/bein9.stream/playlist.m3u8
-#EXTINF:-1,beIN Sports 2
+#EXTINF:-1 group-title="USA",beIN Sports 2
 http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
-#EXTINF:-1,beIN Sports 3
+#EXTINF:-1 group-title="USA",beIN Sports 3
 http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
-#EXTINF:-1,beIN Sports 4
+#EXTINF:-1 group-title="USA",beIN Sports 4
 http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
-#EXTINF:-1,beIN Sports 4 SD
+#EXTINF:-1 group-title="USA",beIN Sports 4 SD
 http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
-#EXTINF:-1,beIN Sports 5
+#EXTINF:-1 group-title="USA",beIN Sports 5
 http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
-#EXTINF:-1,beIN Sports 5 SD
+#EXTINF:-1 group-title="USA",beIN Sports 5 SD
 http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
-#EXTINF:-1,beIN Sports 6
+#EXTINF:-1 group-title="USA",beIN Sports 6
 http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
-#EXTINF:-1,beIN Sports MAX 4
+#EXTINF:-1 group-title="USA",beIN Sports MAX 4
 http://31.220.41.88:8081/live/fr-beinmax4.stream/playlist.m3u8
-#EXTINF:-1,beIN Sports MAX 5
+#EXTINF:-1 group-title="USA",beIN Sports MAX 5
 http://31.220.41.88:8081/live/fr-beinmax5.stream/playlist.m3u8
-#EXTINF:-1,beIN Sports MAX 6
+#EXTINF:-1 group-title="USA",beIN Sports MAX 6
 http://31.220.41.88:8081/live/fr-beinmax6.stream/playlist.m3u8
-#EXTINF:-1,beIN Sports MAX 7
+#EXTINF:-1 group-title="USA",beIN Sports MAX 7
 http://31.220.41.88:8081/live/fr-beinmax7.stream/playlist.m3u8
-#EXTINF:-1,Boomerang
+#EXTINF:-1 group-title="USA",Boomerang
 http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
-#EXTINF:-1,BT Sport 1
+#EXTINF:-1 group-title="USA",BT Sport 1
 http://31.220.41.88:8081/live/bt1.stream/playlist.m3u8
-#EXTINF:-1,BT Sport 3
+#EXTINF:-1 group-title="USA",BT Sport 3
 http://31.220.41.88:8081/live/bt33.stream/playlist.m3u8
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1 group-title="USA",Cartoon Network
 http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8
-#EXTINF:-1,CBS
+#EXTINF:-1 group-title="USA",CBS
 http://31.220.41.88:8081/live/us-cbs.stream/playlist.m3u8
-#EXTINF:-1,Cinemax
+#EXTINF:-1 group-title="USA",Cinemax
 http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
-#EXTINF:-1,Cinemax Action
+#EXTINF:-1 group-title="USA",Cinemax Action
 http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8
-#EXTINF:-1,Comedy Central
+#EXTINF:-1 group-title="USA",Comedy Central
 http://31.220.41.88:8081/live/us-comedy.stream/playlist.m3u8
-#EXTINF:-1,DAVE
+#EXTINF:-1 group-title="USA",DAVE
 http://31.220.41.88:8081/live/dave.stream/playlist.m3u8
-#EXTINF:-1,DAZN F1
+#EXTINF:-1 group-title="USA",DAZN F1
 http://31.220.41.88:8081/live/es-moviestarf1.stream/playlist.m3u8
-#EXTINF:-1,DE SAT HD
+#EXTINF:-1 group-title="USA",DE SAT HD
 http://31.220.41.88:8081/live/de-3sat.stream/playlist.m3u8
-#EXTINF:-1,DE Sky Sport 1
+#EXTINF:-1 group-title="USA",DE Sky Sport 1
 http://31.220.41.88:8081/live/de-skysport1.stream/playlist.m3u8
-#EXTINF:-1,Discovery Channel
+#EXTINF:-1 group-title="USA",Discovery Channel
 http://31.220.41.88:8081/live/us-discovery.stream/playlist.m3u8
-#EXTINF:-1,Disney
+#EXTINF:-1 group-title="USA",Disney
 http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8
-#EXTINF:-1,Disney XD
+#EXTINF:-1 group-title="USA",Disney XD
 http://31.220.41.88:8081/live/disneyxd.stream/playlist.m3u8
-#EXTINF:-1,ES Movistar Deportes
+#EXTINF:-1 group-title="USA",ES Movistar Deportes
 http://31.220.41.88:8081/live/es-movistar-deportes.stream/playlist.m3u8
-#EXTINF:-1,ES movistar deportes2
+#EXTINF:-1 group-title="USA",ES movistar deportes2
 http://31.220.41.88:8081/live/es-movistar-deportes2.stream/playlist.m3u8
-#EXTINF:-1,ES movistar laliga
+#EXTINF:-1 group-title="USA",ES movistar laliga
 http://31.220.41.88:8081/live/es-movistarlaliga.stream/playlist.m3u8
-#EXTINF:-1,ES Movistar LaLiga
+#EXTINF:-1 group-title="USA",ES Movistar LaLiga
 http://31.220.41.88:8081/live/bein-laliga.stream/playlist.m3u8
-#EXTINF:-1,ESLaLigaTV Bar
+#EXTINF:-1 group-title="USA",ESLaLigaTV Bar
 http://31.220.41.88:8081/live/es-laligatvbar.stream/playlist.m3u8
-#EXTINF:-1,ESPN 2 HD
+#EXTINF:-1 group-title="USA",ESPN 2 HD
 http://31.220.41.88:8081/live/nl-foxsports2.stream/playlist.m3u8
-#EXTINF:-1,ESPN 3 HD
+#EXTINF:-1 group-title="USA",ESPN 3 HD
 http://31.220.41.88:8081/live/nl-foxsports3.stream/playlist.m3u8
-#EXTINF:-1,ESPN 4 HD
+#EXTINF:-1 group-title="USA",ESPN 4 HD
 http://31.220.41.88:8081/live/nl-foxsports4.stream/playlist.m3u8
-#EXTINF:-1,ESPN 5 HD
+#EXTINF:-1 group-title="USA",ESPN 5 HD
 http://31.220.41.88:8081/live/nl-foxsports5.stream/playlist.m3u8
-#EXTINF:-1,ESPN 6 HD
+#EXTINF:-1 group-title="USA",ESPN 6 HD
 http://31.220.41.88:8081/live/nl-foxsports6.stream/playlist.m3u8
-#EXTINF:-1,ESPN HD
+#EXTINF:-1 group-title="USA",ESPN HD
 http://31.220.41.88:8081/live/nl-foxsports1.stream/playlist.m3u8
 
-#EXTIN:-1,Eurosport 2
+#EXTIN:-1 group-title="USA",Eurosport 2
 http://31.220.41.88:8081/live/skysports-premier-league.stream/playlist.m3u8
-#EXTINF:-1,FOX
+#EXTINF:-1 group-title="USA",FOX
 http://31.220.41.88:8081/live/us-fox.stream/playlist.m3u8
-#EXTINF:-1,beIN Sport 3
+#EXTINF:-1 group-title="USA",beIN Sport 3
 http://31.220.41.88:8081/live/fr-beinsport3.stream/playlist.m3u8
-#EXTINF:-1,beIN Sports 1
+#EXTINF:-1 group-title="USA",beIN Sports 1
 http://31.220.41.88:8081/live/fr-beinsport1.stream/playlist.m3u8
-#EXTINF:-1,beIN Sports 2
+#EXTINF:-1 group-title="USA",beIN Sports 2
 http://31.220.41.88:8081/live/fr-beinsport2.stream/playlist.m3u8
-#EXTINF:-1,RMC Sport 1
+#EXTINF:-1 group-title="USA",RMC Sport 1
 http://31.220.41.88:8081/live/fr-sfr1.stream/playlist.m3u8
-#EXTINF:-1,RMC Sport 2
+#EXTINF:-1 group-title="USA",RMC Sport 2
 http://31.220.41.88:8081/live/fr-sfr2.stream/playlist.m3u8
-#EXTINF:-1,FreeForm
+#EXTINF:-1 group-title="USA",FreeForm
 http://31.220.41.88:8081/live/us-freeform.stream/playlist.m3u8
-#EXTINF:-1,FX
+#EXTINF:-1 group-title="USA",FX
 http://31.220.41.88:8081/live/us-fx.stream/playlist.m3u8
-#EXTINF:-1,FXX
+#EXTINF:-1 group-title="USA",FXX
 http://31.220.41.88:8081/live/us-fxx.stream/playlist.m3u8
-#EXTINF:-1,hallmark
+#EXTINF:-1 group-title="USA",hallmark
 http://31.220.41.88:8081/live/us-hallmark.stream/playlist.m3u8
-#EXTINF:-1,HBO
+#EXTINF:-1 group-title="USA",HBO
 http://31.220.41.88:8081/live/us-hbo.stream/playlist.m3u8
-#EXTINF:-1,HBO Family
+#EXTINF:-1 group-title="USA",HBO Family
 http://31.220.41.88:8081/live/us-hbofamily.stream/playlist.m3u8
-#EXTINF:-1,HBO Zone
+#EXTINF:-1 group-title="USA",HBO Zone
 http://31.220.41.88:8081/live/us-hbozone.stream/playlist.m3u8
-#EXTINF:-1,DAZN 2
+#EXTINF:-1 group-title="USA",DAZN 2
 http://31.220.41.88:8081/live/it-dazn1.stream/playlist.m3u8
-#EXTINF:-1,Sky Sport Calcio
+#EXTINF:-1 group-title="USA",Sky Sport Calcio
 http://31.220.41.88:8081/live/it-skysportserieA.stream/playlist.m3u8
-#EXTINF:-1,Sky Sport Football
+#EXTINF:-1 group-title="USA",Sky Sport Football
 http://31.220.41.88:8081/live/it-skysport-football.stream/playlist.m3u8
-#EXTINF:-1,Lifetime
+#EXTINF:-1 group-title="USA",Lifetime
 http://31.220.41.88:8081/live/us-lifetime.stream/playlist.m3u8
-#EXTINF:-1,Lifetime Movie Network
+#EXTINF:-1 group-title="USA",Lifetime Movie Network
 http://31.220.41.88:8081/live/us-lmn.stream/playlist.m3u8
-#EXTINF:-1,Movistar Fútbol
+#EXTINF:-1 group-title="USA",Movistar Fútbol
 http://31.220.41.88:8081/live/es-movistar-futbol.stream/playlist.m3u8
-#EXTINF:-1,Nick Jr
+#EXTINF:-1 group-title="USA",Nick Jr
 http://31.220.41.88:8081/live/uk-nickjr.stream/playlist.m3u8
-#EXTINF:-1,Nick Jr.
+#EXTINF:-1 group-title="USA",Nick Jr.
 http://31.220.41.88:8081/live/de-skybundes2.stream/playlist.m3u8
-#EXTINF:-1,Nickelodeon
+#EXTINF:-1 group-title="USA",Nickelodeon
 http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
-#EXTINF:-1,Paramount (Spike)
+#EXTINF:-1 group-title="USA",Paramount (Spike)
 http://31.220.41.88:8081/live/us-paramount.stream/playlist.m3u8
-#EXTINF:-1,Premier Sports 1
+#EXTINF:-1 group-title="USA",Premier Sports 1
 http://31.220.41.88:8081/live/prem.stream/playlist.m3u8
-#EXTINF:-1,SHOWTIME
+#EXTINF:-1 group-title="USA",SHOWTIME
 http://31.220.41.88:8081/live/us-showtime.stream/playlist.m3u8
-#EXTINF:-1,SHOWTIME 2
+#EXTINF:-1 group-title="USA",SHOWTIME 2
 http://31.220.41.88:8081/live/us-showtime2.stream/playlist.m3u8
-#EXTINF:-1,Sky Arena
+#EXTINF:-1 group-title="USA",Sky Arena
 http://31.220.41.88:8081/live/skysports-arena.stream/playlist.m3u8
-#EXTINF:-1,Sky Cinema Drama
+#EXTINF:-1 group-title="USA",Sky Cinema Drama
 http://31.220.41.88:8081/live/mdrama.stream/playlist.m3u8
-#EXTINF:-1,Sky F1
+#EXTINF:-1 group-title="USA",Sky F1
 http://31.220.41.88:8081/live/skysportsf1.stream/playlist.m3u8
-#EXTINF:-1,Sky Main Event
+#EXTINF:-1 group-title="USA",Sky Main Event
 http://31.220.41.88:8081/live/skysports-maineventz.stream/playlist.m3u8
-#EXTINF:-1,Sky Mix
+#EXTINF:-1 group-title="USA",Sky Mix
 http://31.220.41.88:8081/live/skysportsmix.stream/playlist.m3u8
-#EXTINF:-1,Sky Movies Action & Adventure
+#EXTINF:-1 group-title="USA",Sky Movies Action & Adventure
 http://31.220.41.88:8081/live/maction.stream/playlist.m3u8
-#EXTINF:-1,Sky Movies Comedy
+#EXTINF:-1 group-title="USA",Sky Movies Comedy
 http://31.220.41.88:8081/live/mcomedy.stream/playlist.m3u8
-#EXTINF:-1,Sky Movies Crime & Thriller
+#EXTINF:-1 group-title="USA",Sky Movies Crime & Thriller
 http://31.220.41.88:8081/live/mcrime.stream/playlist.m3u8
-#EXTINF:-1,Sky Movies Disney
+#EXTINF:-1 group-title="USA",Sky Movies Disney
 http://31.220.41.88:8081/live/mdisney.stream/playlist.m3u8
-#EXTINF:-1,Sky Movies Family
+#EXTINF:-1 group-title="USA",Sky Movies Family
 http://31.220.41.88:8081/live/mfamily.stream/playlist.m3u8
-#EXTINF:-1,Sky Movies Premiere
+#EXTINF:-1 group-title="USA",Sky Movies Premiere
 http://31.220.41.88:8081/live/mpremiere.stream/playlist.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 1
+#EXTINF:-1 group-title="USA",Sky Sport Bundesliga 1
 http://31.220.41.88:8081/live/de-skybundes1.stream/playlist.m3u8
-#EXTINF:-1,skysports footbal
+#EXTINF:-1 group-title="USA",skysports footbal
 http://31.220.41.88:8081/live/skysports-football.stream/playlist.m3u8
-#EXTINF:-1,SPORT TV 1 HD
+#EXTINF:-1 group-title="USA",SPORT TV 1 HD
 http://31.220.41.88:8081/live/pt-sporttv1.stream/playlist.m3u8
-#EXTINF:-1,SPORT TV 2 HD
+#EXTINF:-1 group-title="USA",SPORT TV 2 HD
 http://31.220.41.88:8081/live/pt-sporttv2.stream/playlist.m3u8
-#EXTINF:-1,SPORT TV 3 HD
+#EXTINF:-1 group-title="USA",SPORT TV 3 HD
 http://31.220.41.88:8081/live/pt-sporttv3.stream/playlist.m3u8
-#EXTINF:-1,SPORT TV 4 HD
+#EXTINF:-1 group-title="USA",SPORT TV 4 HD
 http://31.220.41.88:8081/live/pt-sporttv4.stream/playlist.m3u8
-#EXTINF:-1,SPORT TV 5 HD
+#EXTINF:-1 group-title="USA",SPORT TV 5 HD
 http://31.220.41.88:8081/live/pt-sporttv5.stream/playlist.m3u8
-#EXTINF:-1,Starz
+#EXTINF:-1 group-title="USA",Starz
 http://31.220.41.88:8081/live/us-starz.stream/playlist.m3u8
-#EXTINF:-1,Starz Cinema
+#EXTINF:-1 group-title="USA",Starz Cinema
 http://31.220.41.88:8081/live/us-starzcinema.stream/playlist.m3u8
 
-#EXTIN:-1,Starz Edge
+#EXTIN:-1 group-title="USA",Starz Edge
 http://31.220.41.88:8081/live/us-starzedge.stream/playlist.m3u8
-#EXTINF:-1,Starz Encore
+#EXTINF:-1 group-title="USA",Starz Encore
 http://31.220.41.88:8081/live/us-starzencore.stream/playlist.m3u8
-#EXTINF:-1,Syfy
+#EXTINF:-1 group-title="USA",Syfy
 http://31.220.41.88:8081/live/us-syfy.stream/playlist.m3u8
-#EXTINF:-1,TBS
+#EXTINF:-1 group-title="USA",TBS
 http://31.220.41.88:8081/live/us-tbs.stream/playlist.m3u8
-#EXTINF:-1,TNT
+#EXTINF:-1 group-title="USA",TNT
 http://31.220.41.88:8081/live/us-tnt.stream/playlist.m3u8
-#EXTINF:-1,‎USA Network
+#EXTINF:-1 group-title="USA",‎USA Network
 http://31.220.41.88:8081/live/us-usanet.stream/playlist.m3u8
-#EXTINF:-1,VH1
+#EXTINF:-1 group-title="USA",VH1
 http://31.220.41.88:8081/live/us-vh1.stream/playlist.m3u8
-#EXTINF:-1,Ziggo Sport Racing
+#EXTINF:-1 group-title="USA",Ziggo Sport Racing
 http://31.220.41.88:8081/live/nl-ziggoracing.stream/playlist.m3u8
-#EXTINF:-1,Ziggo Sport Select
+#EXTINF:-1 group-title="USA",Ziggo Sport Select
 http://31.220.41.88:8081/live/nl-ziggoselect.stream/playlist.m3u8
-#EXTINF:-1,Ziggo Sport Voetbal
+#EXTINF:-1 group-title="USA",Ziggo Sport Voetbal
 http://31.220.41.88:8081/live/nl-ziggovoetbal.stream/playlist.m3u8
-#EXTINF:-1,Eurosport HD
+#EXTINF:-1 group-title="USA",Eurosport HD
 http://str.smartip-tv.net:8888/Eurosport_HD/index.m3u8?token=test
-#EXTINF:-1,BEIN SPORTS 3HD
+#EXTINF:-1 group-title="USA",BEIN SPORTS 3HD
 http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
-#EXTINF:-1,BEIN SPORTS 4HD
+#EXTINF:-1 group-title="USA",BEIN SPORTS 4HD
 http://str.smartip-tv.net:8888/BEIN_SPORT_4_HD/index.m3u8?token=test
-#EXTINF:-1,BEIN SPORTS 5HD
+#EXTINF:-1 group-title="USA",BEIN SPORTS 5HD
 http://str.smartip-tv.net:8888/BEIN_SPORT_5_HD/index.m3u8?token=test
-#EXTINF:-1,BEIN SPORTS 6HD
+#EXTINF:-1 group-title="USA",BEIN SPORTS 6HD
 http://str.smartip-tv.net:8888/BEIN_SPORT_6_HD/index.m3u8?token=test
-#EXTINF:-1,BEIN SPORTS 7HD
+#EXTINF:-1 group-title="USA",BEIN SPORTS 7HD
 http://str.smartip-tv.net:8888/BEIN_SPORT_7_HD/index.m3u8?token=test
-#EXTINF:-1,BEIN SPORTS 8HD
+#EXTINF:-1 group-title="USA",BEIN SPORTS 8HD
 http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
-#EXTINF:-1,BEIN SPORTS 9HD
+#EXTINF:-1 group-title="USA",BEIN SPORTS 9HD
 http://str.smartip-tv.net:8888/BEIN_SPORT_9_HD/index.m3u8?token=test
+
+
 ******************************************** SPORTS ***************************************************
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/lKl2wZH.png",Abu Dhabi Sports 1
