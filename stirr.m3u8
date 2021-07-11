@@ -1,29 +1,17 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/Stirr/epg.xml.gz"
 
-
 ****************************************** STIRR *************************************************************************
 
-
 #EXTINF:-1 tvg-id="dco" tvg-chno="1" tvg-logo="https://i.mjh.nz/Stirr/.images/dco.png" group-title="STIRR",STIRR | National
-
 https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
-
 #EXTINF:-1 tvg-id="externallinearfeed-09-27-2019-204550290-09-27-2019" tvg-chno="6" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-09-27-2019-204550290-09-27-2019.png" group-title="STIRR",Newsy
-
 https://dai.google.com/linear/hls/event/0PopB0AoSiClAGrHVHBTlw/master.m3u8
-
 #EXTINF:-1 tvg-id="externallinearfeed-05-25-2020-174756630-05-25-2020" tvg-chno="7" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-05-25-2020-174756630-05-25-2020.png" group-title="STIRR",The First
-
 https://dai.google.com/linear/hls/event/nX39-giHRPuKQiVAhua0Kg/master.m3u8
-
 #EXTINF:-1 tvg-id="news-247" tvg-chno="2" tvg-logo="https://i.mjh.nz/Stirr/.images/news-247.png" group-title="STIRR",News 24/7
-
 https://dai.google.com/linear/hls/event/8hUeiLMpTm-YNqk7kadUwA/master.m3u8
-
 #EXTINF:-1 tvg-id="externallinearfeed-01-28-2021-01-28-2021" tvg-chno="9" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-01-28-2021-01-28-2021.png" group-title="STIRR",Quicktake
-
 https://dai.google.com/linear/hls/event/6ANW1HGeSTKzJlnAa9u1AQ/master.m3u8
-
 #EXTINF:-1 tvg-id="externallinearfeed-12-19-2020-12-19-2020" tvg-chno="5" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-12-19-2020-12-19-2020.png" group-title="STIRR",Bloomberg TV
 https://dai.google.com/linear/hls/event/NiumF4GTSGe-pXM-iMsP0A/master.m3u8
 #EXTINF:-1 tvg-id="externallinearfeed-03-22-2019-03-22-2019" tvg-chno="10" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-03-22-2019-03-22-2019.png" group-title="STIRR",Law & Crime 
@@ -32,7 +20,6 @@ https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
 https://dai.google.com/linear/hls/event/frfwucAPTVunrpitYiymwg/master.m3u8
 #EXTINF:-1 tvg-id="stirr-tv-mix" tvg-chno="50" tvg-logo="https://i.mjh.nz/Stirr/.images/stirr-tv-mix.png" group-title="STIRR",STIRR TV Mix
 https://dai.google.com/linear/hls/event/ZP8ZMv95Q0Gm9EiyYOGHAA/master.m3u8
-
 #EXTINF:-1 tvg-id="externallinearfeed-06-25-2020-191519528-06-25-2020" tvg-chno="53" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-06-25-2020-191519528-06-25-2020.png" group-title="STIRR",Deal or No Deal
 https://dai.google.com/linear/hls/event/9cq79TtPR6WbyaQGeDlHjA/master.m3u8
 #EXTINF:-1 tvg-id="externallinearfeed-06-25-2020-213812110-06-25-2020" tvg-chno="54" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-06-25-2020-213812110-06-25-2020.png" group-title="STIRR",Wipeout Xtra
@@ -41,7 +28,6 @@ https://dai.google.com/linear/hls/event/0DG8p66IRES7ZzEe1WJS-w/master.m3u8
 https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
 #EXTINF:-1 tvg-id="american-classics-07-18-2019-202011476" tvg-chno="57" tvg-logo="https://i.mjh.nz/Stirr/.images/american-classics-07-18-2019-202011476.png" group-title="STIRR",American Classics
 https://dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8
-
 #EXTINF:-1 tvg-id="externallinearfeed-01-28-2021-184530260-01-28-2021" tvg-chno="56" tvg-logo="https://i.mjh.nz/Stirr/.images/externallinearfeed-01-28-2021-184530260-01-28-2021.png" group-title="STIRR",Dove
 https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
 #EXTINF:-1 tvg-id="filmrise-classic-tv" tvg-chno="58" tvg-logo="https://i.mjh.nz/Stirr/.images/filmrise-classic-tv.png" group-title="STIRR",Filmrise Classic TV
