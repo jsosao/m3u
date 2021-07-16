@@ -347,7 +347,7 @@ http://186.101.216.211:8000/play/a0e3
 http://186.101.216.211:8000/play/ettv
 #EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Ecuador TV Co
 http://186.101.216.211:8000/play/a04c
-#EXTINF:-1 tvg-id="a038",Ecuavisa Co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Ecuavisa Co
 http://186.101.216.211:8000/play/a038
 #EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",El Trece na
 http://186.101.216.211:8000/play/a0aj
@@ -563,7 +563,7 @@ http://186.101.216.211:8000/play/a06f
 http://186.101.216.211:8000/play/a0a3
 #EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",WOBI Na
 http://186.101.216.211:8000/play/a0ak
-#EXTINF:-1 tvg-id="Canal Warner TV (México)",Warner Co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",,Warner Co
 http://186.101.216.211:8000/play/a02h
 #EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Win
 http://186.101.216.211:8000/play/a0cq
@@ -571,7 +571,7 @@ http://186.101.216.211:8000/play/a0cq
 http://186.101.216.211:8000/play/g07j
 #EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Zona Latina co
 http://186.101.216.211:8000/play/a06i
-#EXTINF:-1 tvg-id="Canal ZOOM (Colombia)",Zoom
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Zoom
 http://186.101.216.211:8000/play/a09b
 
 
