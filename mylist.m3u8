@@ -231,717 +231,345 @@ http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="USA",BEIN SPORTS 9HD
 http://str.smartip-tv.net:8888/BEIN_SPORT_9_HD/index.m3u8?token=test
 
-*******
-
-#EXTINF:-1 group-title=" USA 12072021",FOX FHD
-https://my.odtv.uk:443/9186897972/4075991752/43
-
-
-#EXTINF:-1 group-title=" USA 12072021",HITS MOVIES
-https://my.odtv.uk:443/9186897972/4075991752/70
-#EXTINF:-1 group-title=" USA 12072021",HBO FHD
-https://my.odtv.uk:443/9186897972/4075991752/72
-#EXTINF:-1 group-title=" USA 12072021",CINEMAX FHD
-https://my.odtv.uk:443/9186897972/4075991752/73
-#EXTINF:-1 group-title=" USA 12072021",FOX MOVIES PREMIUM FHD
-https://my.odtv.uk:443/9186897972/4075991752/74
-#EXTINF:-1 group-title=" USA 12072021",FOX FAMILY MOVIES
-https://my.odtv.uk:443/9186897972/4075991752/75
-#EXTINF:-1 group-title=" USA 12072021",FOX ACTION MOVIES FHD
-https://my.odtv.uk:443/9186897972/4075991752/76
-#EXTINF:-1 group-title=" USA 12072021",TVN MOVIES
-https://my.odtv.uk:443/9186897972/4075991752/77
-
-#EXTINF:-1 group-title=" USA 12072021",NAT GEO WILD FHD
-https://my.odtv.uk:443/9186897972/4075991752/88
-#EXTINF:-1 group-title=" USA 12072021",NATIONAL GEOGRAPHIC FHD
-https://my.odtv.uk:443/9186897972/4075991752/89
-#EXTINF:-1 group-title=" USA 12072021",DISCOVERY ASIA
-https://my.odtv.uk:443/9186897972/4075991752/91
-#EXTINF:-1 group-title=" USA 12072021",MY - 554 (DISCOVERY SCIENCE)
-https://my.odtv.uk:443/9186897972/4075991752/92
-#EXTINF:-1 group-title=" USA 12072021",HISTORY FHD
-https://my.odtv.uk:443/9186897972/4075991752/93
-#EXTINF:-1 group-title=" USA 12072021",ANIMAL PLANET FHD
-https://my.odtv.uk:443/9186897972/4075991752/94
-
-#EXTINF:-1 group-title=" USA 12072021",DISNEY JUNIOR
-https://my.odtv.uk:443/9186897972/4075991752/101
-#EXTINF:-1 group-title=" USA 12072021",DISNEY CHANNEL
-https://my.odtv.uk:443/9186897972/4075991752/102
-#EXTINF:-1 group-title=" USA 12072021",MY - 615 (CARTOON NETWORK)
-https://my.odtv.uk:443/9186897972/4075991752/103
-#EXTINF:-1 group-title=" USA 12072021",MY - 616 (NICKELODEON)
-https://my.odtv.uk:443/9186897972/4075991752/104
-#EXTINF:-1 group-title=" USA 12072021",MY - 617 (NICKELODEON JUNIOR)
-https://my.odtv.uk:443/9186897972/4075991752/105
-#EXTINF:-1 group-title=" USA 12072021",MY - 619 (BOOMERANG)
-https://my.odtv.uk:443/9186897972/4075991752/107
-#EXTINF:-1 group-title=" USA 12072021",FOX LIFE 
-https://my.odtv.uk:443/9186897972/4075991752/108
-#EXTINF:-1 group-title=" USA 12072021",HITS HD
-https://my.odtv.uk:443/9186897972/4075991752/113
-#EXTINF:-1 group-title=" USA 12072021",WARNER TV
-https://my.odtv.uk:443/9186897972/4075991752/117
-#EXTINF:-1 group-title=" USA 12072021",CRIME INVESTIGATION CI
-https://my.odtv.uk:443/9186897972/4075991752/118
-#EXTINF:-1 group-title=" USA 12072021",LIVE PREMIER LEAGUE- FULL HD
-https://my.odtv.uk:443/9186897972/4075991752/134
-#EXTINF:-1 group-title=" USA 12072021",LIVE ONLY - Less Delay
-https://my.odtv.uk:443/9186897972/4075991752/317
-#EXTINF:-1 group-title=" USA 12072021",MY - 815 (FOX SPORTS 1)
-https://my.odtv.uk:443/9186897972/4075991752/130
-#EXTINF:-1 group-title=" USA 12072021",MY - 816 (FOX SPORTS 2)
-https://my.odtv.uk:443/9186897972/4075991752/131
-#EXTINF:-1 group-title=" USA 12072021",MY - 817 (FOX SPORTS 3)
-https://my.odtv.uk:443/9186897972/4075991752/132
-#EXTINF:-1 group-title=" USA 12072021",MY - 819 (BEIN SPORTS)
-https://my.odtv.uk:443/9186897972/4075991752/135
-#EXTINF:-1 group-title=" USA 12072021",MY - 819 (BEIN SPORTS MAX)
-https://my.odtv.uk:443/9186897972/4075991752/136
-#EXTINF:-1 group-title=" USA 12072021",MY - 820 (EUROSPORTS)
-https://my.odtv.uk:443/9186897972/4075991752/139
-#EXTINF:-1 group-title=" USA 12072021",MY - 821 (WWE NETWORK)
-https://my.odtv.uk:443/9186897972/4075991752/140
-#EXTINF:-1 group-title=" USA 12072021",MY - 822 (GOLF CHANNEL)
-https://my.odtv.uk:443/9186897972/4075991752/141
-#EXTINF:-1 group-title=" USA 12072021",MY - 823 (RUGBYPASS TV)
-https://my.odtv.uk:443/9186897972/4075991752/142
-#EXTINF:-1 group-title=" USA 12072021",MY - 824 (CRICKET)
-https://my.odtv.uk:443/9186897972/4075991752/143
-#EXTINF:-1 group-title=" USA 12072021",CINEMA WORLD
-https://my.odtv.uk:443/9186897972/4075991752/144
-#EXTINF:-1 group-title=" USA 12072021",DREAMWORKS
-https://my.odtv.uk:443/9186897972/4075991752/147
-#EXTINF:-1 group-title=" USA 12072021",K+ FHD
-https://my.odtv.uk:443/9186897972/4075991752/152
-#EXTINF:-1 group-title=" USA 12072021",HISTORY MY
-https://my.odtv.uk:443/9186897972/4075991752/153
-#EXTINF:-1 group-title=" USA 12072021",MY - 917 (RTM SPORTS)
-https://my.odtv.uk:443/9186897972/4075991752/158
-#EXTINF:-1 group-title=" USA 12072021",CELESTIAL CLASSIC MOVIE
-https://my.odtv.uk:443/9186897972/4075991752/160
-#EXTINF:-1 group-title=" USA 12072021",CELESTIAL MOVIE
-https://my.odtv.uk:443/9186897972/4075991752/161
-#EXTINF:-1 group-title=" USA 12072021",AXN HD
-https://my.odtv.uk:443/9186897972/4075991752/176
-#EXTINF:-1 group-title=" USA 12072021",HBO HITS FHD
-https://my.odtv.uk:443/9186897972/4075991752/180
-#EXTINF:-1 group-title=" USA 12072021",HBO FAMILY FHD
-https://my.odtv.uk:443/9186897972/4075991752/181
-#EXTINF:-1 group-title=" USA 12072021",HBO SIGNATURE FHD
-https://my.odtv.uk:443/9186897972/4075991752/182
-#EXTINF:-1 group-title=" USA 12072021",MY - 944 (RED BY HBO)
-https://my.odtv.uk:443/9186897972/4075991752/183
-#EXTINF:-1 group-title=" USA 12072021",FOX CRIME 
-https://my.odtv.uk:443/9186897972/4075991752/184
-#EXTINF:-1 group-title=" USA 12072021",DISCOVERY CHANNEL
-https://my.odtv.uk:443/9186897972/4075991752/90
-#EXTINF:-1 group-title=" USA 12072021",Fox Action Movies - Backup
-https://my.odtv.uk:443/9186897972/4075991752/192
-
-#EXTINF:-1 group-title=" USA 12072021",FOX MOVIE II
-https://my.odtv.uk:443/9186897972/4075991752/216
-#EXTINF:-1 group-title=" USA 12072021",FOX ACTION MOVIES II
-https://my.odtv.uk:443/9186897972/4075991752/217
-#EXTINF:-1 group-title=" USA 12072021",HBO II
-https://my.odtv.uk:443/9186897972/4075991752/218
-#EXTINF:-1 group-title=" USA 12072021",ARENA- Backup
-https://my.odtv.uk:443/9186897972/4075991752/219
-
-#EXTINF:-1 group-title=" USA 12072021",UNIPAI SPORTS 1
-https://my.odtv.uk:443/9186897972/4075991752/347
-#EXTINF:-1 group-title=" USA 12072021",UNIPAI SPORTS 2
-https://my.odtv.uk:443/9186897972/4075991752/348
-#EXTINF:-1 group-title=" USA 12072021",UNIPAI SPORTS 3
-https://my.odtv.uk:443/9186897972/4075991752/349
-#EXTINF:-1 group-title=" USA 12072021",UNIPAI SPORTS 4
-https://my.odtv.uk:443/9186897972/4075991752/350
-#EXTINF:-1 group-title=" USA 12072021",UNIPAI SPORTS 5
-https://my.odtv.uk:443/9186897972/4075991752/351
-
-#EXTINF:-1 group-title=" USA 12072021",US: AT&T SportsNet Southwest
-https://my.odtv.uk:443/9186897972/4075991752/476
-#EXTINF:-1 group-title=" USA 12072021",US: CBS SPORTS NETWORK
-https://my.odtv.uk:443/9186897972/4075991752/481
-#EXTINF:-1 group-title=" USA 12072021",US: Cinemax
-https://my.odtv.uk:443/9186897972/4075991752/482
-#EXTINF:-1 group-title=" USA 12072021",US: Cinemax Actionmax
-https://my.odtv.uk:443/9186897972/4075991752/483
-#EXTINF:-1 group-title=" USA 12072021",US: Cinemax Moremax
-https://my.odtv.uk:443/9186897972/4075991752/484
-#EXTINF:-1 group-title=" USA 12072021",US: Cinemax Moviemax
-https://my.odtv.uk:443/9186897972/4075991752/485
-#EXTINF:-1 group-title=" USA 12072021",US: Cinemax Outermax
-https://my.odtv.uk:443/9186897972/4075991752/486
-#EXTINF:-1 group-title=" USA 12072021",US: ESPN
-https://my.odtv.uk:443/9186897972/4075991752/491
-#EXTINF:-1 group-title=" USA 12072021",US: ESPN 2
-https://my.odtv.uk:443/9186897972/4075991752/492
-#EXTINF:-1 group-title=" USA 12072021",US: ESPN U
-https://my.odtv.uk:443/9186897972/4075991752/493
-#EXTINF:-1 group-title=" USA 12072021",US: Fox Sport 1
-https://my.odtv.uk:443/9186897972/4075991752/494
-#EXTINF:-1 group-title=" USA 12072021",US: Fox Sport 2
-https://my.odtv.uk:443/9186897972/4075991752/495
-#EXTINF:-1 group-title=" USA 12072021",US: FOX Sports Arizona
-https://my.odtv.uk:443/9186897972/4075991752/496
-#EXTINF:-1 group-title=" USA 12072021",US: Fox Sports Detroit
-https://my.odtv.uk:443/9186897972/4075991752/497
-#EXTINF:-1 group-title=" USA 12072021",US: FOX Sports MidWest
-https://my.odtv.uk:443/9186897972/4075991752/498
-#EXTINF:-1 group-title=" USA 12072021",US: Fox Sports NEW ORLEANS
-https://my.odtv.uk:443/9186897972/4075991752/499
-#EXTINF:-1 group-title=" USA 12072021",US: FOX Sports North
-https://my.odtv.uk:443/9186897972/4075991752/500
-#EXTINF:-1 group-title=" USA 12072021",US: Fox Sports OHIO
-https://my.odtv.uk:443/9186897972/4075991752/501
-#EXTINF:-1 group-title=" USA 12072021",US: Fox Sports OKLAHOMA
-https://my.odtv.uk:443/9186897972/4075991752/502
-#EXTINF:-1 group-title=" USA 12072021",US: FOX Sports Prime Ticket
-https://my.odtv.uk:443/9186897972/4075991752/503
-#EXTINF:-1 group-title=" USA 12072021",US: FOX Sports SouthEast
-https://my.odtv.uk:443/9186897972/4075991752/504
-#EXTINF:-1 group-title=" USA 12072021",US: FOX Sports SouthWest
-https://my.odtv.uk:443/9186897972/4075991752/505
-#EXTINF:-1 group-title=" USA 12072021",US: Fox Sports SUN
-https://my.odtv.uk:443/9186897972/4075991752/506
-#EXTINF:-1 group-title=" USA 12072021",US: FOX Sports West
-https://my.odtv.uk:443/9186897972/4075991752/507
-#EXTINF:-1 group-title=" USA 12072021",US: Fox Sports WISCONSIN
-https://my.odtv.uk:443/9186897972/4075991752/508
-#EXTINF:-1 group-title=" USA 12072021",US: FX HD
-https://my.odtv.uk:443/9186897972/4075991752/509
-#EXTINF:-1 group-title=" USA 12072021",US: FXM HD
-https://my.odtv.uk:443/9186897972/4075991752/510
-#EXTINF:-1 group-title=" USA 12072021",US: FXX
-https://my.odtv.uk:443/9186897972/4075991752/511
-#EXTINF:-1 group-title=" USA 12072021",US: Hallmark Channel
-https://my.odtv.uk:443/9186897972/4075991752/512
-#EXTINF:-1 group-title=" USA 12072021",US: Hallmark Movies & Mysteries
-https://my.odtv.uk:443/9186897972/4075991752/513
-#EXTINF:-1 group-title=" USA 12072021",US: HBO
-https://my.odtv.uk:443/9186897972/4075991752/514
-#EXTINF:-1 group-title=" USA 12072021",US: HBO 2 FHD
-https://my.odtv.uk:443/9186897972/4075991752/515
-#EXTINF:-1 group-title=" USA 12072021",US: HBO COMEDY
-https://my.odtv.uk:443/9186897972/4075991752/516
-#EXTINF:-1 group-title=" USA 12072021",US: HBO Family
-https://my.odtv.uk:443/9186897972/4075991752/517
-#EXTINF:-1 group-title=" USA 12072021",US: HBO Signature
-https://my.odtv.uk:443/9186897972/4075991752/518
-#EXTINF:-1 group-title=" USA 12072021",US: HBO Zone
-https://my.odtv.uk:443/9186897972/4075991752/519
-#EXTINF:-1 group-title=" USA 12072021",US: NBC HD
-https://my.odtv.uk:443/9186897972/4075991752/530
-#EXTINF:-1 group-title=" USA 12072021",US: NBC Sports Bay Area
-https://my.odtv.uk:443/9186897972/4075991752/531
-#EXTINF:-1 group-title=" USA 12072021",US: NBC Sports Boston
-https://my.odtv.uk:443/9186897972/4075991752/532
-#EXTINF:-1 group-title=" USA 12072021",US: NBC Sports Chicago
-https://my.odtv.uk:443/9186897972/4075991752/533
-#EXTINF:-1 group-title=" USA 12072021",US: NBC Sports Northwest
-https://my.odtv.uk:443/9186897972/4075991752/534
-#EXTINF:-1 group-title=" USA 12072021",US: NBC Sports Washington
-https://my.odtv.uk:443/9186897972/4075991752/535
-#EXTINF:-1 group-title=" USA 12072021",US: NBCSN SPORTS
-https://my.odtv.uk:443/9186897972/4075991752/536
-#EXTINF:-1 group-title=" USA 12072021",US: NFL Network
-https://my.odtv.uk:443/9186897972/4075991752/537
-#EXTINF:-1 group-title=" USA 12072021",US: NFL Redzone
-https://my.odtv.uk:443/9186897972/4075991752/538
-#EXTINF:-1 group-title=" USA 12072021",US: NHL Network
-https://my.odtv.uk:443/9186897972/4075991752/539
-#EXTINF:-1 group-title=" USA 12072021",US: TNT
-https://my.odtv.uk:443/9186897972/4075991752/544
-#EXTINF:-1 group-title=" USA 12072021",US: TUDN HD
-https://my.odtv.uk:443/9186897972/4075991752/551
-#EXTINF:-1 group-title=" USA 12072021",US: Universal Kids
-https://my.odtv.uk:443/9186897972/4075991752/552
-#EXTINF:-1 group-title=" USA 12072021",US: WWE NETWORK HD
-https://my.odtv.uk:443/9186897972/4075991752/554
-#EXTINF:-1 group-title=" USA 12072021",US: YES Network
-https://my.odtv.uk:443/9186897972/4075991752/555
-#EXTINF:-1 group-title=" USA 12072021",National Geographic MY
-https://my.odtv.uk:443/9186897972/4075991752/739
-#EXTINF:-1 group-title=" USA 12072021",NatGeo Wild MY
-https://my.odtv.uk:443/9186897972/4075991752/740
-#EXTINF:-1 group-title=" USA 12072021",NatGeo People MY
-https://my.odtv.uk:443/9186897972/4075991752/741
-#EXTINF:-1 group-title=" USA 12072021",Paramount Network
-https://my.odtv.uk:443/9186897972/4075991752/745
-#EXTINF:-1 group-title=" USA 12072021",ID- NHK World Japan
-https://my.odtv.uk:443/9186897972/4075991752/864
-#EXTINF:-1 group-title=" USA 12072021",ID- Arirang Korea
-https://my.odtv.uk:443/9186897972/4075991752/865
-#EXTINF:-1 group-title=" USA 12072021",ID- Celestial Movies
-https://my.odtv.uk:443/9186897972/4075991752/866
-#EXTINF:-1 group-title=" USA 12072021",ID- Fox Sports 2
-https://my.odtv.uk:443/9186897972/4075991752/989
-#EXTINF:-1 group-title=" USA 12072021",ID- Fight Sports
-https://my.odtv.uk:443/9186897972/4075991752/990
-#EXTINF:-1 group-title=" USA 12072021",ID- Soccer Channel
-https://my.odtv.uk:443/9186897972/4075991752/991
-#EXTINF:-1 group-title=" USA 12072021",ID- Bein Sport 2
-https://my.odtv.uk:443/9186897972/4075991752/992
-#EXTINF:-1 group-title=" USA 12072021",ID- Fox Sports 3
-https://my.odtv.uk:443/9186897972/4075991752/993
-#EXTINF:-1 group-title=" USA 12072021",ID- SCM
-https://my.odtv.uk:443/9186897972/4075991752/994
-#EXTINF:-1 group-title=" USA 12072021",ID- Bein Sports 1
-https://my.odtv.uk:443/9186897972/4075991752/995
-#EXTINF:-1 group-title=" USA 12072021",ID- MNC Sports
-https://my.odtv.uk:443/9186897972/4075991752/996
-#EXTINF:-1 group-title=" USA 12072021",UK- BT Sports 1 FHD
-https://my.odtv.uk:443/9186897972/4075991752/997
-#EXTINF:-1 group-title=" USA 12072021",UK- BT Sports 1 HD
-https://my.odtv.uk:443/9186897972/4075991752/998
-#EXTINF:-1 group-title=" USA 12072021",UK- BT Sports 1 SD
-https://my.odtv.uk:443/9186897972/4075991752/999
-#EXTINF:-1 group-title=" USA 12072021",UK- BT Sports 2 FHD
-https://my.odtv.uk:443/9186897972/4075991752/1000
-#EXTINF:-1 group-title=" USA 12072021",UK- BT Sports 2 HD
-https://my.odtv.uk:443/9186897972/4075991752/1001
-#EXTINF:-1 group-title=" USA 12072021",UK- BT Sports 2 SD
-https://my.odtv.uk:443/9186897972/4075991752/1002
-#EXTINF:-1 group-title=" USA 12072021",UK- BT Sports 3 FHD
-https://my.odtv.uk:443/9186897972/4075991752/1003
-#EXTINF:-1 group-title=" USA 12072021",UK- BT Sports 3 HD
-https://my.odtv.uk:443/9186897972/4075991752/1004
-#EXTINF:-1 group-title=" USA 12072021",UK- BT Sports 3 SD
-https://my.odtv.uk:443/9186897972/4075991752/1005
-#EXTINF:-1 group-title=" USA 12072021",UK- Premiere Sports 1 FHD
-https://my.odtv.uk:443/9186897972/4075991752/1006
-#EXTINF:-1 group-title=" USA 12072021",UK- Premiere Sports 2 FHD
-https://my.odtv.uk:443/9186897972/4075991752/1007
-#EXTINF:-1 group-title=" USA 12072021",UK- Sky Sports NFL HD
-https://my.odtv.uk:443/9186897972/4075991752/1008
-#EXTINF:-1 group-title=" USA 12072021",UK- Sky Sports NFL  SD
-https://my.odtv.uk:443/9186897972/4075991752/1009
-#EXTINF:-1 group-title=" USA 12072021",UK- Sky Sports Arena HD
-https://my.odtv.uk:443/9186897972/4075991752/1010
-#EXTINF:-1 group-title=" USA 12072021",UK- Sky Sports Arena SD
-https://my.odtv.uk:443/9186897972/4075991752/1011
-#EXTINF:-1 group-title=" USA 12072021",UK- Sky Sports Cricket HD
-https://my.odtv.uk:443/9186897972/4075991752/1012
-#EXTINF:-1 group-title=" USA 12072021",UK- Sky Sports Cricket SD
-https://my.odtv.uk:443/9186897972/4075991752/1013
-#EXTINF:-1 group-title=" USA 12072021",UK- Sky Sports F1 HD
-https://my.odtv.uk:443/9186897972/4075991752/1014
-#EXTINF:-1 group-title=" USA 12072021",UK- Sky Sports F1 SD
-https://my.odtv.uk:443/9186897972/4075991752/1015
-#EXTINF:-1 group-title=" USA 12072021",UK- Sky Sports Football HD
-https://my.odtv.uk:443/9186897972/4075991752/1016
-#EXTINF:-1 group-title=" USA 12072021",UK- Sky Sports Football SD
-https://my.odtv.uk:443/9186897972/4075991752/1017
-#EXTINF:-1 group-title=" USA 12072021",UK- Sky Sports Golf HD
-https://my.odtv.uk:443/9186897972/4075991752/1018
-#EXTINF:-1 group-title=" USA 12072021",UK- Sky Sports Golf SD
-https://my.odtv.uk:443/9186897972/4075991752/1019
-#EXTINF:-1 group-title=" USA 12072021",UK- Sky Sports News HD
-https://my.odtv.uk:443/9186897972/4075991752/1020
-#EXTINF:-1 group-title=" USA 12072021",UK- Sky Sports News SD
-https://my.odtv.uk:443/9186897972/4075991752/1021
-#EXTINF:-1 group-title=" USA 12072021",UK- Sky Sports Premier League HD
-https://my.odtv.uk:443/9186897972/4075991752/1022
-#EXTINF:-1 group-title=" USA 12072021",UK- Sky Sports Premier League SD
-https://my.odtv.uk:443/9186897972/4075991752/1023
-#EXTINF:-1 group-title=" USA 12072021",TH- True Sports EPL 1 HD
-https://my.odtv.uk:443/9186897972/4075991752/1024
-#EXTINF:-1 group-title=" USA 12072021",TH- True Sports EPL 2 HD
-https://my.odtv.uk:443/9186897972/4075991752/1025
-#EXTINF:-1 group-title=" USA 12072021",TH- True Sports EPL 3 HD
-https://my.odtv.uk:443/9186897972/4075991752/1026
-#EXTINF:-1 group-title=" USA 12072021",TH- True Sports EPL 4 HD
-https://my.odtv.uk:443/9186897972/4075991752/1027
-#EXTINF:-1 group-title=" USA 12072021",TH- True Sports EPL 5 HD
-https://my.odtv.uk:443/9186897972/4075991752/1028
-#EXTINF:-1 group-title=" USA 12072021",TH- True Sports EPL 1 SD
-https://my.odtv.uk:443/9186897972/4075991752/1029
-#EXTINF:-1 group-title=" USA 12072021",TH- True Sports EPL 2 SD
-https://my.odtv.uk:443/9186897972/4075991752/1030
-#EXTINF:-1 group-title=" USA 12072021",TH- True Sports EPL 3 SD
-https://my.odtv.uk:443/9186897972/4075991752/1031
-#EXTINF:-1 group-title=" USA 12072021",TH- True Sports EPL 4 SD
-https://my.odtv.uk:443/9186897972/4075991752/1032
-#EXTINF:-1 group-title=" USA 12072021",TH- True Sport 1 HD
-https://my.odtv.uk:443/9186897972/4075991752/1033
-#EXTINF:-1 group-title=" USA 12072021",TH- True Sport 2 HD
-https://my.odtv.uk:443/9186897972/4075991752/1034
-#EXTINF:-1 group-title=" USA 12072021",TH- True Sport 3 HD
-https://my.odtv.uk:443/9186897972/4075991752/1035
-#EXTINF:-1 group-title=" USA 12072021",TH- True Sport 4 HD
-https://my.odtv.uk:443/9186897972/4075991752/1036
-#EXTINF:-1 group-title=" USA 12072021",TH- True Sport 1 SD
-https://my.odtv.uk:443/9186897972/4075991752/1037
-#EXTINF:-1 group-title=" USA 12072021",TH- True Sport 2 SD
-https://my.odtv.uk:443/9186897972/4075991752/1038
-#EXTINF:-1 group-title=" USA 12072021",TH- True Sport 4 SD
-https://my.odtv.uk:443/9186897972/4075991752/1039
-#EXTINF:-1 group-title=" USA 12072021",TH- True Sport 5 SD
-https://my.odtv.uk:443/9186897972/4075991752/1040
-#EXTINF:-1 group-title=" USA 12072021",TH- True Sport 6 SD
-https://my.odtv.uk:443/9186897972/4075991752/1041
-#EXTINF:-1 group-title=" USA 12072021",TH- True Sport 7 SD
-https://my.odtv.uk:443/9186897972/4075991752/1042
-#EXTINF:-1 group-title=" USA 12072021",TH- FOX SPORTS HD
-https://my.odtv.uk:443/9186897972/4075991752/1043
-#EXTINF:-1 group-title=" USA 12072021",TH- FOX SPORTS 2 HD
-https://my.odtv.uk:443/9186897972/4075991752/1044
-#EXTINF:-1 group-title=" USA 12072021",TH- FOX SPORTS 3 HD
-https://my.odtv.uk:443/9186897972/4075991752/1045
-#EXTINF:-1 group-title=" USA 12072021",TH- BeinSport 1 HD
-https://my.odtv.uk:443/9186897972/4075991752/1046
-#EXTINF:-1 group-title=" USA 12072021",ID- Galaxy
-https://my.odtv.uk:443/9186897972/4075991752/1093
-#EXTINF:-1 group-title=" USA 12072021",ID- Galaxy Premium
-https://my.odtv.uk:443/9186897972/4075991752/1094
-#EXTINF:-1 group-title=" USA 12072021",MICKEY MOUSE
-https://my.odtv.uk:443/9186897972/4075991752/312
-#EXTINF:-1 group-title=" USA 12072021",FAM MOVIES
-https://my.odtv.uk:443/9186897972/4075991752/315
-#EXTINF:-1 group-title=" USA 12072021",IN: Zee Action HD
-https://my.odtv.uk:443/9186897972/4075991752/729
-
 *******************************************************************************
 
-#EXTINF:-1 group-title="TELEGRAM 16072021",24 Horas
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",24 Horas
 http://186.101.216.211:8000/play/a0e8
-#EXTINF:-1 group-title="TELEGRAM 16072021",A&E
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",A&E
 http://186.101.216.211:8000/play/a0dr
-#EXTINF:-1 group-title="TELEGRAM 16072021",AE Mundo Co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",AE Mundo Co
 http://186.101.216.211:8000/play/a02p
-#EXTINF:-1 group-title="TELEGRAM 16072021",AMC
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",AMC
 http://186.101.216.211:8000/play/camc
-#EXTINF:-1 group-title="TELEGRAM 16072021",ATRES SERIES
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",ATRES SERIES
 http://186.101.216.211:8000/play/a0dv
-#EXTINF:-1 group-title="TELEGRAM 16072021",ATV co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",ATV co
 http://186.101.216.211:8000/play/a073
-#EXTINF:-1 group-title="TELEGRAM 16072021",AXN
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",AXN
 http://186.101.216.211:8000/play/a0cm
-#EXTINF:-1 group-title="TELEGRAM 16072021",America TV AR Conax
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",America TV AR Conax
 http://186.101.216.211:8000/play/a079
-#EXTINF:-1 group-title="TELEGRAM 16072021",AmericaTV P
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",AmericaTV P
 http://186.101.216.211:8000/play/a071
-#EXTINF:-1 group-title="TELEGRAM 16072021",Animal Planet Co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Animal Planet Co
 http://186.101.216.211:8000/play/a02g
-#EXTINF:-1 group-title="TELEGRAM 16072021",BBC World
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",BBC World
 http://186.101.216.211:8000/play/a0dj
-#EXTINF:-1 group-title="TELEGRAM 16072021",Baby TV
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Baby TV
 http://186.101.216.211:8000/play/a0dc
-#EXTINF:-1 group-title="TELEGRAM 16072021",C9N
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",C9N
 http://186.101.216.211:8000/play/a097
-#EXTINF:-1 group-title="TELEGRAM 16072021",CANAL 13
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",CANAL 13
 http://186.101.216.211:8000/play/ca13
-#EXTINF:-1 group-title="TELEGRAM 16072021",CANAL UNO
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",CANAL UNO
 http://186.101.216.211:8000/play/cuno
-#EXTINF:-1 group-title="TELEGRAM 16072021",CDO BASICO
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",CDO BASICO
 http://186.101.216.211:8000/play/cdba
-#EXTINF:-1 group-title="TELEGRAM 16072021",CDO PREM
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",CDO PREM
 http://186.101.216.211:8000/play/cdpr
-#EXTINF:-1 group-title="TELEGRAM 16072021",CHV
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",CHV
 http://186.101.216.211:8000/play/a0eb
-#EXTINF:-1 group-title="TELEGRAM 16072021",CMD Na
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",CMD Na
 http://186.101.216.211:8000/play/a0am
-#EXTINF:-1 group-title="TELEGRAM 16072021",CNN Chile
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",CNN Chile
 http://186.101.216.211:8000/play/a0ec
-#EXTINF:-1 group-title="TELEGRAM 16072021",CNN Espanol co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",CNN Espanol co
 http://186.101.216.211:8000/play/a01u
-#EXTINF:-1 group-title="TELEGRAM 16072021",CNN International
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",CNN International
 http://186.101.216.211:8000/play/a0dk
-#EXTINF:-1 group-title="TELEGRAM 16072021",Canal Caracol
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Canal Caracol
 http://186.101.216.211:8000/play/a08z
-#EXTINF:-1 group-title="TELEGRAM 16072021",Canal Claro co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Canal Claro co
 http://186.101.216.211:8000/play/a08e
-#EXTINF:-1 group-title="TELEGRAM 16072021",Canal Institucional
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Canal Institucional
 http://186.101.216.211:8000/play/a093
-#EXTINF:-1 group-title="TELEGRAM 16072021",Canal N Na
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Canal N Na
 http://186.101.216.211:8000/play/a05i
-#EXTINF:-1 group-title="TELEGRAM 16072021",Canal RCN
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Canal RCN
 http://186.101.216.211:8000/play/a09k
-#EXTINF:-1 group-title="TELEGRAM 16072021",Canal Uno TV Ecu Co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Canal Uno TV Ecu Co
 http://186.101.216.211:8000/play/a033
-#EXTINF:-1 group-title="TELEGRAM 16072021",Canal de Las estrellas Co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Canal de Las estrellas Co
 http://186.101.216.211:8000/play/a02y
-#EXTINF:-1 group-title="TELEGRAM 16072021",Canal del Congreso
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Canal del Congreso
 http://186.101.216.211:8000/play/a03b
-#EXTINF:-1 group-title="TELEGRAM 16072021",Capital
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Capital
 http://186.101.216.211:8000/play/a03m
-#EXTINF:-1 group-title="TELEGRAM 16072021",Cartoon Network Co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Cartoon Network Co
 http://186.101.216.211:8000/play/a06o
-#EXTINF:-1 group-title="TELEGRAM 16072021",Cinecanal Co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Cinecanal Co
 http://186.101.216.211:8000/play/a06e
-#EXTINF:-1 group-title="TELEGRAM 16072021",Cinemax
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Cinemax
 http://186.101.216.211:8000/play/a0ck
-#EXTINF:-1 group-title="TELEGRAM 16072021",City TV
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",City TV
 http://186.101.216.211:8000/play/a09e
-#EXTINF:-1 group-title="TELEGRAM 16072021",Claro Cinema
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Claro Cinema
 http://186.101.216.211:8000/play/a0cv
-#EXTINF:-1 group-title="TELEGRAM 16072021",Claro Sports
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Claro Sports
 http://186.101.216.211:8000/play/a06q
-#EXTINF:-1 group-title="TELEGRAM 16072021",Classic Rock
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Classic Rock
 http://186.101.216.211:8000/play/a02u
-#EXTINF:-1 group-title="TELEGRAM 16072021",Classic RockRoll
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Classic RockRoll
 http://186.101.216.211:8000/play/a03q
-#EXTINF:-1 group-title="TELEGRAM 16072021",DIrecTv
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",DIrecTv
 http://186.101.216.211:8000/play/dtsp
-#EXTINF:-1 group-title="TELEGRAM 16072021",DW (Deutsch +)
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",DW (Deutsch +)
 http://186.101.216.211:8000/play/a0dn
-#EXTINF:-1 group-title="TELEGRAM 16072021",Discovery Channel Co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Discovery Channel Co
 http://186.101.216.211:8000/play/a02f
-#EXTINF:-1 group-title="TELEGRAM 16072021",Discovery ID3
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Discovery ID3
 http://186.101.216.211:8000/play/a07s
-#EXTINF:-1 group-title="TELEGRAM 16072021",Discovery Kids Co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Discovery Kids Co
 http://186.101.216.211:8000/play/a01t
-#EXTINF:-1 group-title="TELEGRAM 16072021",Discovery Turbo
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Discovery Turbo
 http://186.101.216.211:8000/play/a0cx
-#EXTINF:-1 group-title="TELEGRAM 16072021",Disney Channel Conax
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Disney Channel Conax
 http://186.101.216.211:8000/play/a02e
-#EXTINF:-1 group-title="TELEGRAM 16072021",Disney Jr
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Disney Jr
 http://186.101.216.211:8000/play/a02a
-#EXTINF:-1 group-title="TELEGRAM 16072021",Disney XD
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Disney XD
 http://186.101.216.211:8000/play/a06b
-#EXTINF:-1 group-title="TELEGRAM 16072021",E Entertainment
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",E Entertainment
 http://186.101.216.211:8000/play/a02i
-#EXTINF:-1 group-title="TELEGRAM 16072021",EL CANAL DEL FUTBOL
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",EL CANAL DEL FUTBOL
 http://186.101.216.211:8000/play/ecdf
-#EXTINF:-1 group-title="TELEGRAM 16072021",ESPN 2 Latin Co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",ESPN 2 Latin Co
 http://186.101.216.211:8000/play/a02k
-#EXTINF:-1 group-title="TELEGRAM 16072021",ESPN 3 na
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",ESPN 3 na
 http://186.101.216.211:8000/play/a0cz
-#EXTINF:-1 group-title="TELEGRAM 16072021",ESPN Co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",ESPN Co
 http://186.101.216.211:8000/play/a02l
-#EXTINF:-1 group-title="TELEGRAM 16072021",ESPNe
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",ESPNe
 http://186.101.216.211:8000/play/a0e4
-#EXTINF:-1 group-title="TELEGRAM 16072021",ESPn
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",ESPn
 http://186.101.216.211:8000/play/a0e3
-#EXTINF:-1 group-title="TELEGRAM 16072021",ETC TV
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",ETC TV
 http://186.101.216.211:8000/play/ettv
-#EXTINF:-1 group-title="TELEGRAM 16072021",Ecuador TV Co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Ecuador TV Co
 http://186.101.216.211:8000/play/a04c
 #EXTINF:-1 tvg-id="a038",Ecuavisa Co
 http://186.101.216.211:8000/play/a038
-#EXTINF:-1 group-title="TELEGRAM 16072021",El Trece na
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",El Trece na
 http://186.101.216.211:8000/play/a0aj
-#EXTINF:-1 group-title="TELEGRAM 16072021",Enlace
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Enlace
 http://186.101.216.211:8000/play/a0ed
-#EXTINF:-1 group-title="TELEGRAM 16072021",Epoca
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Epoca
 http://186.101.216.211:8000/play/a0db
-#EXTINF:-1 group-title="TELEGRAM 16072021",Esne TV
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Esne TV
 http://186.101.216.211:8000/play/a0cy
-#EXTINF:-1 group-title="TELEGRAM 16072021",Eurochannel
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Eurochannel
 http://186.101.216.211:8000/play/a0dl
-#EXTINF:-1 group-title="TELEGRAM 16072021",FOX SPORT VE
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",FOX SPORT VE
 http://186.101.216.211:8000/play/fsve
-#EXTINF:-1 group-title="TELEGRAM 16072021",FX
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",FX
 http://186.101.216.211:8000/play/a0co
-#EXTINF:-1 group-title="TELEGRAM 16072021",FX Movies
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",FX Movies
 http://186.101.216.211:8000/play/a0ea
-#EXTINF:-1 group-title="TELEGRAM 16072021",Fox Sports 1 Co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Fox Sports 1 Co
 http://186.101.216.211:8000/play/a08m
-#EXTINF:-1 group-title="TELEGRAM 16072021",Fox Sports 2 Co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Fox Sports 2 Co
 http://186.101.216.211:8000/play/a02z
-#EXTINF:-1 group-title="TELEGRAM 16072021",Fox Sports 3
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Fox Sports 3
 http://186.101.216.211:8000/play/a0dq
-#EXTINF:-1 group-title="TELEGRAM 16072021",Fox Sports 3 Co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Fox Sports 3 Co
 http://186.101.216.211:8000/play/a030
-#EXTINF:-1 group-title="TELEGRAM 16072021",Fox Sports Co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Fox Sports Co
 http://186.101.216.211:8000/play/a02j
-#EXTINF:-1 group-title="TELEGRAM 16072021",France 24
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",France 24
 http://186.101.216.211:8000/play/a08d
-#EXTINF:-1 group-title="TELEGRAM 16072021",GLITZ*
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",GLITZ*
 http://186.101.216.211:8000/play/glit
-#EXTINF:-1 group-title="TELEGRAM 16072021",GLOBAL Na
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",GLOBAL Na
 http://186.101.216.211:8000/play/a0a1
-#EXTINF:-1 group-title="TELEGRAM 16072021",GOL TV Co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",GOL TV Co
 http://186.101.216.211:8000/play/a02m
-#EXTINF:-1 group-title="TELEGRAM 16072021",GOLDEN EDGE
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",GOLDEN EDGE
 http://186.101.216.211:8000/play/goed
-#EXTINF:-1 group-title="TELEGRAM 16072021",GOLPERU
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",GOLPERU
 http://186.101.216.211:8000/play/a0d6
-#EXTINF:-1 group-title="TELEGRAM 16072021",GOLTVEC Co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",GOLTVEC Co
 http://186.101.216.211:8000/play/a032
-#EXTINF:-1 group-title="TELEGRAM 16072021",Gamavisiðn Na
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Gamavisiðn Na
 http://186.101.216.211:8000/play/a067
-#EXTINF:-1 group-title="TELEGRAM 16072021",Gol TV
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Gol TV
 http://186.101.216.211:8000/play/a0dp
-#EXTINF:-1 group-title="TELEGRAM 16072021",HBO Family
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",HBO Family
 http://186.101.216.211:8000/play/a0dw
-#EXTINF:-1 group-title="TELEGRAM 16072021",HBO Na
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",HBO Na
 http://186.101.216.211:8000/play/a0ad
-#EXTINF:-1 group-title="TELEGRAM 16072021",HBO POP
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",HBO POP
 http://186.101.216.211:8000/play/a0e2
-#EXTINF:-1 group-title="TELEGRAM 16072021",HBO Plus
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",HBO Plus
 http://186.101.216.211:8000/play/a0dy
-#EXTINF:-1 group-title="TELEGRAM 16072021",HBO Plus Oeste
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",HBO Plus Oeste
 http://186.101.216.211:8000/play/a0e0
-#EXTINF:-1 group-title="TELEGRAM 16072021",HBO Signature
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",HBO Signature
 http://186.101.216.211:8000/play/a0dz
-#EXTINF:-1 group-title="TELEGRAM 16072021",HBO XTREME
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",HBO XTREME
 http://186.101.216.211:8000/play/a0dx
-#EXTINF:-1 group-title="TELEGRAM 16072021",HBO2 Na
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",HBO2 Na
 http://186.101.216.211:8000/play/a0ae
-#EXTINF:-1 group-title="TELEGRAM 16072021",HISTORY 2
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",HISTORY 2
 http://186.101.216.211:8000/play/his2
-#EXTINF:-1 group-title="TELEGRAM 16072021",History Channel Co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",History Channel Co
 http://186.101.216.211:8000/play/a06d
-#EXTINF:-1 group-title="TELEGRAM 16072021",Home and Health
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Home and Health
 http://186.101.216.211:8000/play/a08g
-#EXTINF:-1 group-title="TELEGRAM 16072021",I-Sat
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",I-Sat
 http://186.101.216.211:8000/play/a06g
-#EXTINF:-1 group-title="TELEGRAM 16072021",La Red
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",La Red
 http://186.101.216.211:8000/play/a01v
-#EXTINF:-1 group-title="TELEGRAM 16072021",La Tele Co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",La Tele Co
 http://186.101.216.211:8000/play/a074
-#EXTINF:-1 group-title="TELEGRAM 16072021",Latina
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Latina
 http://186.101.216.211:8000/play/a0ef
-#EXTINF:-1 group-title="TELEGRAM 16072021",Love Music
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Love Music
 http://186.101.216.211:8000/play/a02t
-#EXTINF:-1 group-title="TELEGRAM 16072021",MASCHOC
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",MASCHOC
 http://186.101.216.211:8000/play/masc
-#EXTINF:-1 group-title="TELEGRAM 16072021",MTV
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",MTV
 http://186.101.216.211:8000/play/a0dh
-#EXTINF:-1 group-title="TELEGRAM 16072021",Mega
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Mega
 http://186.101.216.211:8000/play/a01x
-#EXTINF:-1 group-title="TELEGRAM 16072021",Mis Peliculas
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Mis Peliculas
 http://186.101.216.211:8000/play/a069
-#EXTINF:-1 group-title="TELEGRAM 16072021",Mis Peliculas Na
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Mis Peliculas Na
 http://186.101.216.211:8000/play/a0aq
-#EXTINF:-1 group-title="TELEGRAM 16072021",Movistar Plus Na
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Movistar Plus Na
 http://186.101.216.211:8000/play/a09x
-#EXTINF:-1 group-title="TELEGRAM 16072021",NPY
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",NPY
 http://186.101.216.211:8000/play/a099
-#EXTINF:-1 group-title="TELEGRAM 16072021",Nat Geo Co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Nat Geo Co
 http://186.101.216.211:8000/play/a06c
-#EXTINF:-1 group-title="TELEGRAM 16072021",NatGeo Kids
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",NatGeo Kids
 http://186.101.216.211:8000/play/a0e6
-#EXTINF:-1 group-title="TELEGRAM 16072021",National Geografic
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",National Geografic
 http://186.101.216.211:8000/play/ngeo
-#EXTINF:-1 group-title="TELEGRAM 16072021",Nick Jr Na
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Nick Jr Na
 http://186.101.216.211:8000/play/a0ai
-#EXTINF:-1 group-title="TELEGRAM 16072021",Nickelodeon Co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Nickelodeon Co
 http://186.101.216.211:8000/play/a06a
-#EXTINF:-1 group-title="TELEGRAM 16072021",OROMAR
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",OROMAR
 http://186.101.216.211:8000/play/a06r
-#EXTINF:-1 group-title="TELEGRAM 16072021",Oglobo
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Oglobo
 http://186.101.216.211:8000/play/a08u
-#EXTINF:-1 group-title="TELEGRAM 16072021",Panamericana TV Conax
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Panamericana TV Conax
 http://186.101.216.211:8000/play/a072
-#EXTINF:-1 group-title="TELEGRAM 16072021",Paraguay TV
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Paraguay TV
 http://186.101.216.211:8000/play/a08t
-#EXTINF:-1 group-title="TELEGRAM 16072021",Paravision
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Paravision
 http://186.101.216.211:8000/play/a03d
-#EXTINF:-1 group-title="TELEGRAM 16072021",Perœ MÆgico Na
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Perœ MÆgico Na
 http://186.101.216.211:8000/play/a0a8
-#EXTINF:-1 group-title="TELEGRAM 16072021",RAI
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",RAI
 http://186.101.216.211:8000/play/a0dm
-#EXTINF:-1 group-title="TELEGRAM 16072021",RCN Novelas Co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",RCN Novelas Co
 http://186.101.216.211:8000/play/a08b
-#EXTINF:-1 group-title="TELEGRAM 16072021",RPP
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",RPP
 http://186.101.216.211:8000/play/crpp
-#EXTINF:-1 group-title="TELEGRAM 16072021",RTS
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",RTS
 http://186.101.216.211:8000/play/a0ee
-#EXTINF:-1 group-title="TELEGRAM 16072021",STAR ACTION Na
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",STAR ACTION Na
 http://186.101.216.211:8000/play/a0af
-#EXTINF:-1 group-title="TELEGRAM 16072021",STAR CHANNEL Co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",STAR CHANNEL Co
 http://186.101.216.211:8000/play/a06l
-#EXTINF:-1 group-title="TELEGRAM 16072021",STAR CINEMA Na
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",STAR CINEMA Na
 http://186.101.216.211:8000/play/a0ag
-#EXTINF:-1 group-title="TELEGRAM 16072021",STAR COMEDY Na
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",STAR COMEDY Na
 http://186.101.216.211:8000/play/a0ah
-#EXTINF:-1 group-title="TELEGRAM 16072021",STAR HITS
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",STAR HITS
 http://186.101.216.211:8000/play/a0e7
-#EXTINF:-1 group-title="TELEGRAM 16072021",STAR LIFE Co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",STAR LIFE Co
 http://186.101.216.211:8000/play/a06j
-#EXTINF:-1 group-title="TELEGRAM 16072021",Senal Colombia
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Senal Colombia
 http://186.101.216.211:8000/play/a095
-#EXTINF:-1 group-title="TELEGRAM 16072021",Sin Limites Co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Sin Limites Co
 http://186.101.216.211:8000/play/a08p
-#EXTINF:-1 group-title="TELEGRAM 16072021",Sony
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Sony
 http://186.101.216.211:8000/play/a0cl
-#EXTINF:-1 group-title="TELEGRAM 16072021",Space
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Space
 http://186.101.216.211:8000/play/a0d5
-#EXTINF:-1 group-title="TELEGRAM 16072021",Sun Channel
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Sun Channel
 http://186.101.216.211:8000/play/a0dg
-#EXTINF:-1 group-title="TELEGRAM 16072021",Sur  TV
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Sur  TV
 http://186.101.216.211:8000/play/a03h
-#EXTINF:-1 group-title="TELEGRAM 16072021",Symphonic
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Symphonic
 http://186.101.216.211:8000/play/a02r
-#EXTINF:-1 group-title="TELEGRAM 16072021",TBS Co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",TBS Co
 http://186.101.216.211:8000/play/a08f
-#EXTINF:-1 group-title="TELEGRAM 16072021",TC TV
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",TC TV
 http://186.101.216.211:8000/play/a06n
-#EXTINF:-1 group-title="TELEGRAM 16072021",TC Television Co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",TC Television Co
 http://186.101.216.211:8000/play/a035
-#EXTINF:-1 group-title="TELEGRAM 16072021",TCM
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",TCM
 http://186.101.216.211:8000/play/a0e9
-#EXTINF:-1 group-title="TELEGRAM 16072021",TELENOVELAS
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",TELENOVELAS
 http://186.101.216.211:8000/play/tlno
-#EXTINF:-1 group-title="TELEGRAM 16072021",TLC Co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",TLC Co
 http://186.101.216.211:8000/play/a02x
-#EXTINF:-1 group-title="TELEGRAM 16072021",TNT
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",TNT
 http://186.101.216.211:8000/play/a0dt
-#EXTINF:-1 group-title="TELEGRAM 16072021",TNT Co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",TNT Co
 http://186.101.216.211:8000/play/a06p
-#EXTINF:-1 group-title="TELEGRAM 16072021",TNT SPORTS 2
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",TNT SPORTS 2
 http://186.101.216.211:8000/play/a021
-#EXTINF:-1 group-title="TELEGRAM 16072021",TNT SPORTS 3
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",TNT SPORTS 3
 http://186.101.216.211:8000/play/a02o
-#EXTINF:-1 group-title="TELEGRAM 16072021",TNT Series
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",TNT Series
 http://186.101.216.211:8000/play/a0du
-#EXTINF:-1 group-title="TELEGRAM 16072021",TRO
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",TRO
 http://186.101.216.211:8000/play/a09c
-#EXTINF:-1 group-title="TELEGRAM 16072021",TV CAMARA
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",TV CAMARA
 http://186.101.216.211:8000/play/a0d4
-#EXTINF:-1 group-title="TELEGRAM 16072021",TV PERU
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",TV PERU
 http://186.101.216.211:8000/play/a09y
-#EXTINF:-1 group-title="TELEGRAM 16072021",TVEDUCA
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",TVEDUCA
 http://186.101.216.211:8000/play/a02d
-#EXTINF:-1 group-title="TELEGRAM 16072021",Teleamazonas Co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Teleamazonas Co
 http://186.101.216.211:8000/play/a039
-#EXTINF:-1 group-title="TELEGRAM 16072021",Teleantioquia
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Teleantioquia
 http://186.101.216.211:8000/play/a0cp
-#EXTINF:-1 group-title="TELEGRAM 16072021",Telecafe
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Telecafe
 http://186.101.216.211:8000/play/a0d2
-#EXTINF:-1 group-title="TELEGRAM 16072021",Telecaribe
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Telecaribe
 http://186.101.216.211:8000/play/a0d0
-#EXTINF:-1 group-title="TELEGRAM 16072021",Telefe
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Telefe
 http://186.101.216.211:8000/play/a0ct
-#EXTINF:-1 group-title="TELEGRAM 16072021",Telefuturo
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Telefuturo
 http://186.101.216.211:8000/play/a06s
-#EXTINF:-1 group-title="TELEGRAM 16072021",Teleislas
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Teleislas
 http://186.101.216.211:8000/play/a03k
-#EXTINF:-1 group-title="TELEGRAM 16072021",Telemundo1
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Telemundo1
 http://186.101.216.211:8000/play/a0a4
-#EXTINF:-1 group-title="TELEGRAM 16072021",Telepacifico
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Telepacifico
 http://186.101.216.211:8000/play/a0cr
-#EXTINF:-1 group-title="TELEGRAM 16072021",Telesur
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Telesur
 http://186.101.216.211:8000/play/a0do
-#EXTINF:-1 group-title="TELEGRAM 16072021",Tooncast
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Tooncast
 http://186.101.216.211:8000/play/a0dd
-#EXTINF:-1 group-title="TELEGRAM 16072021",Travel and Living Channel
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Travel and Living Channel
 http://186.101.216.211:8000/play/a0df
-#EXTINF:-1 group-title="TELEGRAM 16072021",Trece
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Trece
 http://186.101.216.211:8000/play/a0d3
-#EXTINF:-1 group-title="TELEGRAM 16072021",Tru TV
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Tru TV
 http://186.101.216.211:8000/play/a0ds
-#EXTINF:-1 group-title="TELEGRAM 16072021",TyC Sports Na
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",TyC Sports Na
 http://186.101.216.211:8000/play/a0al
-#EXTINF:-1 group-title="TELEGRAM 16072021",Unicanal
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Unicanal
 http://186.101.216.211:8000/play/a0cu
-#EXTINF:-1 group-title="TELEGRAM 16072021",Universal Co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Universal Co
 http://186.101.216.211:8000/play/a06f
-#EXTINF:-1 group-title="TELEGRAM 16072021",Venevision Plus na
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Venevision Plus na
 http://186.101.216.211:8000/play/a0a3
-#EXTINF:-1 group-title="TELEGRAM 16072021",WOBI Na
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",WOBI Na
 http://186.101.216.211:8000/play/a0ak
 #EXTINF:-1 tvg-id="Canal Warner TV (México)",Warner Co
 http://186.101.216.211:8000/play/a02h
-#EXTINF:-1 group-title="TELEGRAM 16072021",Win
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Win
 http://186.101.216.211:8000/play/a0cq
-#EXTINF:-1 group-title="TELEGRAM 16072021",Win Sport+
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Win Sport+
 http://186.101.216.211:8000/play/g07j
-#EXTINF:-1 group-title="TELEGRAM 16072021",Zona Latina co
+#EXTINF:-1 group-title="TELEGRAM COLOMBIA 16072021",Zona Latina co
 http://186.101.216.211:8000/play/a06i
 #EXTINF:-1 tvg-id="Canal ZOOM (Colombia)",Zoom
 http://186.101.216.211:8000/play/a09b
