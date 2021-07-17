@@ -1595,5 +1595,252 @@ http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=2402&p=3&k=srregio&f=.m3u8
 
 ****************************************** SRREGIO TV *************************************************************************
 
+#EXTINF:-1 group-title="Lista TV",TNT SPORTS
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=tnt-sports&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",FOX SPORTS PREMIUM
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=fox-sports-premium&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",TUDN
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=tudn&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",GOLTV Latino en vivo Online
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=goltvlatino&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",Bein Sports Latino en vivo Online
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=beinlatino&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",VTV URUGUAY
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=vtv&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",CARACOL TV
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=caracoltv&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",GOL PERU
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=golperu&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",CDF
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=cdfpremium&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",FOX SPORTS ARGENTINA
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=fox-sports1ar&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",FOX SPORTS 2 ARGENTINA
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=fox-sports2ar&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",FOX SPORTS 3 ARGENTINA
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=fox-sports3ar&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",ESPN ARGENTINA
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=espn1ar&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",ESPN 2 ARGENTINA
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=espn2ar&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",ESPN 3 ARGENTINA
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=espn3ar&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",FOX SPORTS MEXICO
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=fox-sports1mx&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",FOX SPORTS 2 MEXICO
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=fox-sports2mx&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",FOX SPORTS 3 MEXICO
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=fox-sports3mx&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",ESPN MEXICO
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=espn1mx&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",ESPN 2 MEXICO
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=espn2mx&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",ESPN 3 MEXICO
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=espn3mx&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",ESPN + ARGENTINA
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=espn+ar&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",DIRECTV SPORTS
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=directv-sports&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",DIRECTV SPORTS 2
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=directv-sports2&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",DIRECTV SPORTS PLUS
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=directv-sports-plus&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",TYC SPORTS
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=tyc&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",GOLF CHANNEL
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=golflatino&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",FOX PREMIUM ACTION
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=foxaction&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",ADRENALINA SPORTS
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=adrenalinatv&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",AYM SPORTS
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=aymsports&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",UNIVISION DEPORTES
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=univisiondeportes&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",WIN SPORTS
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=winsports&f=.m3u8
 
+#EXTINF:-1 group-title="Lista TV",TELEFE 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=telefe&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",EL TRECE 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=eltrece&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",AMERICA TV 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=america2&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",TV PUBLICA 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=tvpublica&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",TN ARGENTINA 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=tn&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",C5N ARGENTINA 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=c5n&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",EL NUEVE 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=canal9ar&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",CANAL 26 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=canal26ar&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",CRONICA TV 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=cronicatv&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",CIUDAD MAGAZINE 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=ciudadmagazine&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",A 24 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=a24&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",TELEVISA DEL BAJIO 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=canalbajio&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",CANAL 5 TELEVISA 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=canal5televisa&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",AZTECA 1 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=azteca&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",AZTECA SIETE 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=azteca7&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",AZTECA MAS 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=aztecamas&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",AZTECA CINEMA 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=aztecacinema&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",AZTECA MUNDO 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=aztecamundo&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",AZTECA CORAZON 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=aztecacorazon&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",CANAL LAS ESTRELLAS 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=canalestrellas&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",TLNOVELAS 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=telenovelas&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",MTV LATINO 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=mtv&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",FOX LATINO 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=fox&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",FOX PREMIUM ACTION 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=foxaction&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",FOX PREMIUM SERIES 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=foxseries&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",FOX PREMIUM FAMILY 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=foxfamily&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",FOX PREMIUM CINEMA 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=foxcinema&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",FOX PREMIUM COMEDY 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=foxcomedy&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",FOX PREMIUM CLASICS 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=foxclassics&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",FOX PREMIUM MOVIES 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=foxmovies&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",FOX LIFE LATINO 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=foxlife&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",HBO LATINO 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=hbo&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",HBO 2 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=hbo2&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",HBO PLUS 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=hboplus&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",HBO FAMILY 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=hbofamily&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",HBO SIGNATURE 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=hbosignature&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",HBO XTREME 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=maxprime&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",HBO MUNDI 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=maxlatino&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",HBO POP 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=maxup&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",GOLDEN 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=golden&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",GOLDEN PLUS 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=goldenplus&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",GOLDEN EDGE 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=goldenedge&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",CINEMAX 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=cinemax&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",CINECANAL 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=cinecanal&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",TNT LATINO 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=tnt&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",TNT SERIES 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=tntseries&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",AXN LATINO 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=axn&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",AMC LATINO 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=amc&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",TCM LATINO 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=tcm&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",SYFY LATINO 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=syfy&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",FXM 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=fxm&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",FX 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=fx&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",SPACE 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=space&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",COMEDY CENTRAL LATINO 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=comedycentral&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",PARAMOUNT CHANNEL LATINO 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=paramountchannel&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",SONY 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=sony&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",TBS 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=tbs&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",STUDIO UNIVERSAL 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=studiouniversal&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",UNIVERSAL CHANNEL 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=universalchannel&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",WARNER 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=warner&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",DE PELICULA 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=depelicula&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",DISTRITO COMEDIA 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=distritocomedia&f=.m3u8
+
+#EXTINF:-1 group-title="Lista TV",cartoon network en vivo
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=infantiles&ch=cartoonnetwork&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",discovery kids en vivo
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=infantiles&ch=discoverykids&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",disney junior en vivo
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=infantiles&ch=disneyjunior&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",disney xd en vivo
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=infantiles&ch=disneyxd&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",disney channel en vivo
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=infantiles&ch=disneychannel&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",nick en vivo
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=infantiles&ch=nick&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",nicktoons en vivo
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=infantiles&ch=nicktoons&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",babyfirst en vivo
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=infantiles&ch=babyfirst&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",tooncast en vivo
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=infantiles&ch=tooncast&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",boomerang en vivo
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=infantiles&ch=boomerang&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",boing en vivo
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=infantiles&ch=boing&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",clantv en vivo
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=infantiles&ch=clantv&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",paka paka en vivo
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=infantiles&ch=pakapaka&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",kidstv en vivo
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=infantiles&ch=kidstv&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",HISTORY
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=history&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",HISTORY 2 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=history2&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",DISCOVERY CHANNEL 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=discoverychannel&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",DISCOVERY TLC 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=tlc&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",DISCOVERY CIVILIZATION 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=discoverycivilization&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",DISCOVERY TURBO 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=discoveryturbo&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",DISCOVERY THEATER 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=discoverytheater&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",DISCOVERY SCIENCIE 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=discoverysciencie&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",INVESTIGACION DISCOVERY 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=discoveryinvestigacion&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",DISCOVERY H&H 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=discoveryhh&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",DISCOVERY WORL 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=discoveryworl&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",NATIONAL GEOGRAPHIC 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=nationalgeo&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",NAT GEO WILL 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=nationalwill&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",A&E 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=ae&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",ANIMAL PLANET 
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=animalplanet&f=.m3u8
 
