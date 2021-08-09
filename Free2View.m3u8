@@ -1018,26 +1018,6 @@ https://videos3.earthcam.com/fecnetwork/AbbeyRoadHD1.flv/chunklist_w1096421812.m
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDM5MTNf/Generic-Webcam.png" group-title="WebCams",Rio Copacabana Beach WebCam
 https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/6593/2017/10/01/1300.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Kaloopy_340x340.png?raw=true" group-title="Adult Lifestyle & Interests",Kaloopy (18+)
-https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/A3Network_A3Bikini.png?raw=true" group-title="Adult Lifestyle & Interests",A3 Bikini (18+)
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DarcizzleOffshore_312x312.png?raw=true" group-title="Adult Lifestyle & Interests",Darcizzle Offshore
-http://30a-tv.com/darcizzle.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYwNDgzMzdf/JasminTV_880x880.png" group-title="Adult Lifestyle & Interests",Jasmin TV (18+)
-https://bozztv.com/36bay2/giniko_jasmintv/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/MiamiTV_640x640.png?raw=true" group-title="Adult Lifestyle & Interests",Miami TV (18+)
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/MiamiTV_640x640.png?raw=true" group-title="Adult Lifestyle & Interests",Miami TV (18+) Latino
-https://59ec5453559f0.streamlock.net/canal18/smil:canal18/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/MiamiTV_640x640.png?raw=true" group-title="Adult Lifestyle & Interests",Miami TV (18+) Jenny Live
-https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/MiamiTV_640x640.png?raw=true" group-title="Adult Lifestyle & Interests",Miami TV (18+) Jenny 2
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYwOTU2NjBf/SupercarBlondie_300x300.png" group-title="Adult Lifestyle & Interests",Supercar Blondie
-https://bozztv.com/36bay2/gin/giniko_supercarblondie_1000kb_36bay2/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FTVMidnightSecret_466x466.png" group-title="Adult Lifestyle & Interests",FTV Midnight Secrets (18+)
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FashionTV_600x600.png?raw=true" group-title="Adult Lifestyle & Interests",Fashion TV Global (13+)
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FashionTV_600x600.png?raw=true" group-title="Adult Lifestyle & Interests",Fashion TV UK (16+)
@@ -3734,8 +3714,6 @@ http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dubai Sports 3" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true" group-title="International TV",Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzA5MTEyMTFf/EighteenPlus_500x500.png" group-title="International TV",ШЁПК ("SILK" | Russia) (18+)
-http://live-1.otcnet.ru/shelksd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AU-NZ_ABC-News-24.png?raw=true" group-title="Australian TV",ABC News Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
@@ -3764,14 +3742,6 @@ https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/master.m3u8
 http://v3fbs247hls-i.akamaihd.net/hls/live/219079/v3fbs247hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV5Monde_855x855.png?raw=true" group-title="Francophone TV",France | TV5 Monde Info
 https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYwNDgzMzhf/RougeTV_225x225.png" group-title="Francophone TV",Rouge TV (18+ overnight) [Sc.1]
-https://livevideo.infomaniak.com/streaming/livecast/rougetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYwNDgzMzhf/RougeTV_225x225.png" group-title="Francophone TV",Rouge TV (18+ overnight) [Sc.2]
-https://rougetv.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYwNDgzMzhf/RougeTV_225x225.png" group-title="Francophone TV",Rouge TV (18+ overnight) [Sc.3]
-https://edge7.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYwNDgzMzhf/RougeTV_225x225.png" group-title="Francophone TV",Rouge TV (18+ overnight) [Sc.4]
-https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="Francophone TV",Canada | ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Francophone TV",Canada GEO | ICI Tele Montreal
@@ -4123,5 +4093,3 @@ https://od.lk/s/MF8yMjk4MTkzOTJf/F2VTV_BuyMeACoffee_v4.mp4
 https://od.lk/s/MF8yMTU5MTYzMTVf/Roku_City-Stroll_Skyline_720p_16m43s.mp4
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjk4MjA0MzRf/AboutUS_392x392.png" group-title="About Us + Extras",Roku Movie Magic Screensaver
 https://od.lk/s/MF8yMTU5MTU4NzZf/Roku_City-Stroll_Movie-Magic_720p_16m43s.mp4
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjk4MjA0MzRf/AboutUS_392x392.png" group-title="About Us + Extras",Fireplace & Chill (18+)
-https://od.lk/s/MF8yMTU5MTU3MjRf/Fireplace-and-Chill_21m.mp4
