@@ -114,41 +114,6 @@
 # Update: !!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 6/29/2021 ** !! See chronology of changes below...
 # Update: 06/29/2021 - CATEGORY UPDATED: "EPG | Plex Live TV" updated with the latest new additions, courtesy of @Smacca / Discord.
 # Update: 06/29/2021 - CATEGORY UPDATED: "Sports & Recreation", fixed/removed dead streams, added add'l Harley Davidson TV streams.
-# Update: 06/29/2021 - NEW CHANNELS ADDED: Wimbledon Channel, broadcast TV and Radio streams added to "Sports & Recreation".
-# Update: 06/29/2021 - NEW CHANNEL ADDED: Olympic Channel's International webstream has been added to "Sports & Recreation".
-# Update: !!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 7/01/2021 ** !! See chronology of changes below...
-# Update: 07/01/2021 - NEW CATEGORY + CHANNELS: All New!! Samsung TV Plus (USA/CANADA), adapted from work courtesty of Matt Huisman.
-# Update: 07/01/2021 - Samsung TV Plus EPG sources: https://i.mjh.nz/SamsungTVPlus/us.xml (and) https://i.mjh.nz/SamsungTVPlus/ca.xml 
-# Update: 07/01/2021 - MINOR UPDATE: Added EPG url info in "EPG | Plex Live TV" for easier reference: https://rb.gy/uoqt9v
-# Update: 07/02/2021 - CATEGORY UPDATED: Updated channel names in "Samsung TV Plus" to avoid conflicts with EPG data.
-# Update: !!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 7/07/2021 ** !! See chronology of changes below...
-# Update: !!!!!!!!!! - !! "Info | Free2View TV" updated info on all EPG sources, URL's shown for direct info to links.
-# Update: 07/04/2021 - CATEGORY MAINTENANCE: Cleaned up "Binge TV | AMC Networks", matched up some EPG sources to correct feeds.
-# Update: 07/04/2021 - NEW CHANNELS + EPG: Added channels from Pluto TV to "Binge TV | AMC Networks", including new EPG source.
-# Update: 07/04/2021 - CATEGORY MAINTENANCE: Updated stream URL's and added additional info to the "EPG | Plex Live TV" category.
-# Update: !!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 7/18/2021 ** !! See chronology of changes below...
-# Update: !!!!!!!!!! - MEMBERSHIP EXCLUSIVES and perks are COMING SOON with a monthly membership via Buy Me A Coffee. Stay tuned!
-# Update: 07/12/2021 - CATEGORY UPDATED: Completely updated "Local Now", Version 2.9 updated from a playlist by @lrm5000 on Discord. 
-# Update: 07/12/2021 - CATEGORY DELETED: Deleted "Distro TV" category (too many dead streams). Updated category will come back soon.
-# Update: 07/17/2021 - CATEGORY MAINTENANCE: Slight update to EPG info in "Binge TV | AMC Networks" to work better with xml sources.
-# Update: 07/17/2021 - NOTE: "Binge TV | AMC Networks" uses the new EPG source: https://i.mjh.nz/Plex/all.xml
-# Update: 07/17/2021 - NOTE: The new EPG source for PLEX is in effect now for select categories, full UPDATE to PLEX in next update.
-# Update: !!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 8/01/2021 ** !! See chronology of changes below...
-# Update: !!!!!!!!!! - MEMBERSHIP EXCLUSIVES and perks are COMING SOON with a monthly membership via Buy Me A Coffee. Stay tuned!
-# Update: !!!!!!!!!! - !! "Info | Free2View TV" - Plex group removed until further notice. Streamlining category, locating new sources.
-# Update: 08/01/2021 - EPG CHANGES: PBS EPG has changed: [2] https://i.mjh.nz/PBS/all.xml << change the 'epg.xml' to 'all.xml'
-# Update: 08/01/2021 - EPG CHANGES: [5] https://i.mjh.nz/Plex/all.xml (AS OF 8/01/21) << change the end part to 'all.xml'
-# Update: 08/01/2021 - EPG CHANGES: [6] https://i.mjh.nz/Stirr/all.xml (CHANGED 8/01/21) << change the end part to 'all.xml'
-# Update: 08/01/2021 - EPG CHANGES: [8] https://i.mjh.nz/SamsungTVPlus/all.xml (CHANGED 8/01/21) << change the end part to 'all.xml'
-# Update: 08/01/2021 - EPG CHANGES: [9] https://i.mjh.nz/PlutoTV/all.xml (CHANGED 8/01/21) << change the end part to 'all.xml'
-# Update: 08/01/2021 - CATEGORY DELETED: Until further notice, removed Plex with EPG; streamlining category and locating new sources.
-# Update: 08/01/2021 - CHANNELS DELETED: Removed Jack Hanna Channel, Xplore due to risk of DMCA takedown orders. 
-# Update: 08/01/2021 - NEW CHANNELS ADDED: "Nostalgia Flix" category streams updated. Added Classic Reels TV, Pub-D-Hub Channel.
-# Update: 08/01/2021 - NEW CHANNEL: Added the free movies channel Red1 TV in "Nostalgia Flix", courtesy of our friends at BluLink TV.
-# Update: 08/01/2021 - MINOR CATEGORY MAINTENANCE: Updated EPG tags in "Binge TV | AMC Networks" category.
-#
-# ************************************************************************************************************************************* 
-
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjU5MzA4OTBf/F2V-TV_Logo.png" group-title="Info | Free2View TV",** Info | Free2View TV **
