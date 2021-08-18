@@ -289,7 +289,7 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200" group-title="America",Canal 6 Multimedios Mexico
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/FOROtv/picture?width=200&height=200" group-title="America",FORO TV Televisa News Mexico
-https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
+https://live-streams-notusa.televisa.com/channel02-b/index.m3u8
 #EXTINF:-1 tvg-id="ADN40.TV" tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200" group-title="America",ADN40 Mexico
 https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200" group-title="America",Canal Once Mexico
