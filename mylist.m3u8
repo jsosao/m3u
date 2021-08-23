@@ -684,6 +684,10 @@ https://live2.canaloncelive.tv/livepkgr2/internacional.smil/.m3u8
 https://quierotvlive.tk/httplive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/turistikmedia/picture?width=200&height=200" group-title="America",Turistik TV Mexico
 https://5fa5de1a545ae.streamlock.net/turistik/turistik/playlist.m3u8
+
+#EXTINF:-1 group-title="America",TV Marti Cuba
+http%3a//ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/NoticiasCaracol/picture?width=200&height=200" group-title="America",Noticias Caracol Colombia
 https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalCapitalOficial/picture?width=200&height=200" group-title="America",Canal Capital Colombia
