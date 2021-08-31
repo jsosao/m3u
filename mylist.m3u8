@@ -384,6 +384,11 @@ http://ipeteve.com/php/SR_REGIO_250821/tp.php?c=2091&p=3&k=srregio&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_250821/tp.php?c=2402&p=3&k=srregio&f=.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/raycom/HJ3SAXRMNFAHXOFIRVYCQBIOGM.jpg" group-title="raw.githubusercontent.com/iptv-org/iptv/master/channels",ABC 7 Sarasota FL
+https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
+
+
 ******************************************** TELEGRAM EXTM3U GROUP ***************************************************
 
 #EXTINF:-1 group-title="USA",A&E
