@@ -7,6 +7,16 @@
 *************************** REGIO TV MX******************************************
 
 *************************** REGIO TV MX******************************************
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA 7.2
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", ADN40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 group-title="LISTA MX", ONCE NINOS (CLASES)
 http://regioplay.xyz  /php/SR_REGIO_130921_/tp.php?c=3315&p=3&k=srregio&f=.m3u8
