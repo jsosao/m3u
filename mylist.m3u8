@@ -3,6 +3,172 @@
 
 ******************************************* ZUTV *************************************************************
 
+******************************************* TELEGRAM *************************************************************
+
+#EXTINF:-1,group-title="TELEGRAM EXT" AZTECA UNO
+http://201.168.205.12:8000/play/a0cc/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" C
+http://201.168.205.12:8000/play/a0cq/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" CLARO SPORT
+http://201.168.205.12:8000/play/a0cm/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" DINSEY XD
+http://201.168.205.12:8000/play/a0cj/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" DISCOVERY ID
+http://201.168.205.12:8000/play/a0ch/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" ESTRELLAS
+http://201.168.205.12:8000/play/a0d4/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" FXM
+http://201.168.205.12:8000/play/a0cr/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" HBO +
+http://201.168.205.12:8000/play/a0cv/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" HBO 2
+http://201.168.205.12:8000/play/a0ct/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" HBO FAMILY
+http://201.168.205.12:8000/play/a0cu/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" IMAGEN
+http://201.168.205.12:8000/play/a0d5/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" LIFE TIME
+http://201.168.205.12:8000/play/a0ci/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" MC
+http://201.168.205.12:8000/play/a0co/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" MULTI PREMIER
+http://201.168.205.12:8000/play/a0cp/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" NATGEO LA
+http://201.168.205.12:8000/play/a0cl/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" NICK JR
+http://201.168.205.12:8000/play/a0ck/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" PARAMOUNT
+http://201.168.205.12:8000/play/a0cs/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" RT
+http://201.168.205.12:8000/play/a0cn/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" SPACE
+http://201.168.205.12:8000/play/a0cg/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" WARNER
+http://201.168.205.12:8000/play/a0cf/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" AZTECA 7
+http://201.168.205.12:8000/play/a0fm/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" CANAL 22
+http://201.168.205.12:8000/play/a0d7/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" TNT SERIES
+http://201.168.205.12:8000/play/a0da/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" cnn
+http://201.168.205.12:8000/play/a0dl/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" fox clasiccs
+http://201.168.205.12:8000/play/a0do/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" fox family
+http://201.168.205.12:8000/play/a0dn/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" fox sport 3
+http://201.168.205.12:8000/play/a0dk/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" history 2
+http://201.168.205.12:8000/play/a0dj/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" hola tv
+http://201.168.205.12:8000/play/a0db/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" milenio
+http://201.168.205.12:8000/play/a0dm/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" natgeo kids
+http://201.168.205.12:8000/play/a0dh/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" tbs
+http://201.168.205.12:8000/play/a0dc/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" A&E
+http://201.168.205.12:8000/play/a0bv/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" BOOMERAN
+http://201.168.205.12:8000/play/a0c1/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" CARTOON NETWORK
+http://201.168.205.12:8000/play/a0c0/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" DISCOVERY TURBO
+http://201.168.205.12:8000/play/a0c4/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" DISNEY JR
+http://201.168.205.12:8000/play/a0bz/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" ESPN 3
+http://201.168.205.12:8000/play/a0c3/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" E¡
+http://201.168.205.12:8000/play/a0by/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" FOX PREMIUM SERIES
+http://201.168.205.12:8000/play/a0c6/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" H&H
+http://201.168.205.12:8000/play/a0bw/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" HBO
+http://201.168.205.12:8000/play/a0c5/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" NATGEO WILD
+http://201.168.205.12:8000/play/a0c2/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" TLC
+http://201.168.205.12:8000/play/a0bx/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" canal 5
+http://201.168.205.12:8000/play/a0fl/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" letra a
+http://201.168.205.12:8000/play/a0bu/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" once
+http://201.168.205.12:8000/play/a0bq/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" universal
+http://201.168.205.12:8000/play/a0bt/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT"  AXN
+http://201.168.205.12:8000/play/a08w/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT"  FX
+http://201.168.205.12:8000/play/a08x/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" CINEMAX
+http://201.168.205.12:8000/play/a093/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" ESPN
+http://201.168.205.12:8000/play/a091/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" ESPN 2
+http://201.168.205.12:8000/play/a092/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" FOX ACTION
+http://201.168.205.12:8000/play/a098/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" FOX CINEMA
+http://201.168.205.12:8000/play/a099/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" FOX LIFE
+http://201.168.205.12:8000/play/a08y/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" FOX MOVIES
+http://201.168.205.12:8000/play/a097/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" FOX SPORT
+http://201.168.205.12:8000/play/a08z/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" FOX SPORT 2
+http://201.168.205.12:8000/play/a090/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" HBO XTREME
+http://201.168.205.12:8000/play/a096/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" cine latino
+http://201.168.205.12:8000/play/a08u/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" fox channel
+http://201.168.205.12:8000/play/a08v/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" ANIMAL PLANET
+http://201.168.205.12:8000/play/a0ao/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" D KIDS
+http://201.168.205.12:8000/play/a0an/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" DISNEY CHANNEL
+http://201.168.205.12:8000/play/a0al/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" HISTORY CHANNEL
+http://201.168.205.12:8000/play/a0ap/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" MTV
+http://201.168.205.12:8000/play/a0ak/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" NICK
+http://201.168.205.12:8000/play/a0am/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" SONY
+http://201.168.205.12:8000/play/a0aj/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" TNT
+http://201.168.205.12:8000/play/a0aq/index.m3u8
+#EXTINF:-1,12486 DISCOVERY CHANNEL
+http://201.168.205.12:8000/play/a0ep/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" A3 SERIES
+http://201.168.205.12:8000/play/a0b0/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" ARTS
+http://201.168.205.12:8000/play/a0bc/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" BABY TV
+http://201.168.205.12:8000/play/a0b9/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" COMEDY CENTRAL
+http://201.168.205.12:8000/play/a0b3/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" FORMULA NOTICIAS
+http://201.168.205.12:8000/play/a0be/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" ISAT
+http://201.168.205.12:8000/play/a0b2/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" MTV HITS
+http://201.168.205.12:8000/play/a0b4/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" STUDIO UNIVERSAL
+http://201.168.205.12:8000/play/a0bh/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" SYFY
+http://201.168.205.12:8000/play/a0b1/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" VH1
+http://201.168.205.12:8000/play/a0b6/index.m3u8
+#EXTINF:-1,group-title="TELEGRAM EXT" VIDEO ROLA
+http://201.168.205.12:8000/play/a0b5/index.m3u8
 
 *************************** REGIO TV MX******************************************
 
