@@ -145,7 +145,7 @@ http://201.168.205.12:8000/play/a0am/index.m3u8
 http://201.168.205.12:8000/play/a0aj/index.m3u8
 #EXTINF:-1 group-title="TELEGRAM EXT", TNT
 http://201.168.205.12:8000/play/a0aq/index.m3u8
-#EXTINF:-1,12486 DISCOVERY CHANNEL
+#EXTINF:-1 group-title="TELEGRAM EXT", DISCOVERY CHANNEL
 http://201.168.205.12:8000/play/a0ep/index.m3u8
 #EXTINF:-1 group-title="TELEGRAM EXT", A3 SERIES
 http://201.168.205.12:8000/play/a0b0/index.m3u8
