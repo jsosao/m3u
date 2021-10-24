@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:1 ,Abu Dhabi Sports 1 (1080p)  (Arabic)
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+
 *************************** REGIO TV MX******************************************
 
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", ESTRELLA TV
