@@ -1,37 +1,6 @@
 #EXTM3U
 
 
-ENTERTAINMENT
-#EXTINF:-1 tvg-name="ABC" tvg-logo="" group-title="ENTERTAINMENT",ABC
-http://31.220.41.88:8081/live/us-abc.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="A&E" tvg-logo="" group-title="ENTERTAINMENT",A&E
-http://31.220.41.88:8081/live/us-ae.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="AMC" tvg-logo="" group-title="ENTERTAINMENT",AMC
-http://31.220.41.88:8081/live/us-amc.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="CBS" tvg-logo="" group-title="ENTERTAINMENT",CBS
-http://31.220.41.88:8081/live/us-cbs.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",COMEDY CENTRAL
-http://31.220.41.88:8081/live/us-comedy.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="DAVE" tvg-logo="" group-title="ENTERTAINMENT",DAVE
-http://31.220.41.88:8081/live/dave.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="FOX" tvg-logo="" group-title="ENTERTAINMENT",FOX
-http://31.220.41.88:8081/live/us-fox.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="FX" tvg-logo="" group-title="ENTERTAINMENT",FX
-http://31.220.41.88:8081/live/us-fx.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="FXX" tvg-logo="" group-title="ENTERTAINMENT",FXX
-http://31.220.41.88:8081/live/us-fxx.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="FREEFORM" tvg-logo="" group-title="ENTERTAINMENT",FREEFORM
-http://31.220.41.88:8081/live/us-freeform.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="SYFY" tvg-logo="" group-title="ENTERTAINMENT",SYFY
-http://31.220.41.88:8081/live/us-syfy.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="TBS" tvg-logo="" group-title="ENTERTAINMENT",TBS
-http://31.220.41.88:8081/live/us-tbs.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="TNT" tvg-logo="" group-title="ENTERTAINMENT",TNT
-http://31.220.41.88:8081/live/us-tnt.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="USA NETWORK" tvg-logo="" group-title="ENTERTAINMENT",USA NETWORK
-http://31.220.41.88:8081/live/us-usanet.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="VH1" tvg-logo="" group-title="ENTERTAINMENT",VH1
-http://31.220.41.88:8081/live/us-vh1.stream/token=null
 
 
 *************************** REGIO TV MX******************************************
