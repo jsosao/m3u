@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-name="NFL Network 2" channel-id="001" tvg-id="180" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/7681418d-65e6-47aa-b798-5237d006b332_48.png"
+http://thenew.tv:8000/963125478/357951456/5720
 
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="RECOMENDADOS",Azteca Uno (HD)
 https://blackghost.live/play/totalp1-149.php?c=7&p=3&k=black&f=.m3u8
