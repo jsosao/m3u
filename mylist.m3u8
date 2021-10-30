@@ -828,5 +828,59 @@ https://blackghost.live/play/totalp1-126.php?c=2091&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="France24Espanol(English).mx" tvg-name="France 24 (Español)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/f24.png" group-title="INFORMACIÓN",France 24 (Español)
 https://blackghost.live/play/totalp1-126.php?c=2402&p=3&k=black&f=.m3u8
 
-******************************************************************************************************
+****************************************github wicho **************************************************************
 
+#EXTINF:0 ,MOVISTAR DEPORTES
+http://31.220.41.88:8081/live/es-movistar-deportes.stream/playlist.m3u8
+#EXTINF:0 ,MOVISTAR DEPORTES 2
+http://31.220.41.88:8081/live/es-movistar-deportes2.stream/playlist.m3u8
+#EXTINF:0 ,MOVISTAR LA LIGA
+http://31.220.41.88:8081/live/es-movistarlaliga.stream/playlist.m3u8
+#EXTINF:0 ,MOVISTAR LA LIGA 2
+http://31.220.41.88:8081/live/bein-laliga.stream/playlist.m3u8
+#EXTINF:0 ,SKY SPORT
+http://31.220.41.88:8081/live/de-skysport1.stream/playlist.m3u8
+#EXTINF:-1 ,FOOTBALL NETWORK
+https://59d39900ebfb8.streamlock.net:443/8312/8312/playlist.m3u8
+#EXTINF:-1 ,ESPN 2 OP2 
+http://158.69.62.208:8081/live/ESPN_HD/chunks.m3u8
+#EXTINF:-1 ,TUDN OP2
+http://scrapehost.com:8080/Cedrick/Cedrick/132853
+#EXTINF:-1 ,MOVISTAR LA LIGA
+http://31.220.41.88:8081/live/es-laligatvbar.stream/playlist.m3u8
+#EXTINF:-1 ,AFIZZIONADOS
+http://51.222.105.5:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
+#EXTINF:-1 ,AFIZZIONADOZ OP2
+http://scrapehost.com:8080/Cedrick/Cedrick/132780
+#EXTINF:-1 ,UNIVISION TUDN
+http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/15883
+#EXTINF:-1 ,UNIVISION TUDN OP2
+http://flowfhd.xyz:25461/Annabelle/12345/180135
+#EXTINF:-1 ,SKY SPORT OP4
+http://budtvlight.com:25461/brenda/1234/11884
+#EXTINF:0 tvg-id="ext" group-title="nodotv",TUDN (15207013)
+http://38.18.237.42:4153/encoder84/evento17/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nodotv",FOX SPORTS MX (15207318)
+http://208.88.246.11:4153/evento3/bodega/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nodotv",FOX SPORTS 2 MX  (15207321)
+http://38.18.237.42:4153/andromeda/FOXSP2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nodotv",FOX SPORTS 3 MX  (15207323)
+http://38.18.238.35:4153/508FoxSports3/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nodotv",AFIZZIONADOS (15208083)
+http://23.237.132.90:8081/live/afizionados_ekhgetew/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nodotv",DIRECTV SPORTS (15207992)
+http://23.237.132.90:8081/live/dt_sp_1_wirehtiwa/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nodotv",DIRECTV SPORTS 2 (15207993)
+http://23.237.132.90:8081/live/DIRETV2_rejnaite/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nodotv",DIRECTV SPORTS + (15207995)
+http://23.237.132.90:8081/live/dt_sp_plus_ehwkth/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nodotv",TNT SPORTS (15208042)
+http://23.237.132.90:8081/DEP/tn_sp_argen/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nodotv",Win Sports + (15208002)
+http://23.237.132.90:8081/live/win_sp_plus_eowhnre/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nodotv",WIN SPORTS (15208039)
+http://23.237.132.90:8081/live/win_sports_utoiwe/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nodotv",VTV+ (15208043)
+http://23.237.132.90:8081/live/vtv_plus/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="nodotv",TNT SPORTS CHI (15208045)
+http://23.237.132.90:8081/live/tnt_sports_rbgjkw/chunks.m3u8
