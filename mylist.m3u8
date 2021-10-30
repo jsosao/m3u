@@ -2,10 +2,12 @@
 
 *************************** REGIO TV MX******************************************
 
-#EXTINF:-1, :: REGIO CHANNEL :: (EVENTOS)
+#EXTINF:-1 group-title="Lista TV", :: REGIO CHANNEL :: (EVENTOS)
 http://regioplay.xyz/php/SR_REGIO_720112_/th.php?channel=srregio&f.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1   group-title="Lista TV" tvg-id="Lista TV", WOW TV
+https://regioplay.xyz/php/SR_REGIO_720112_/wowtv.php
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA 7
@@ -403,11 +405,15 @@ http://regioplay.xyz/php/SR_REGIO_720112_/tp.php?c=2091&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_720112_/tp.php?c=2402&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", TELEMUNDO
-http://regioplay.xyz/php/SR_REGIO_720112_/th.php?channel=tl_xg22n&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_720112_/regio22d.php?c=telemundo&k=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", UNIVISION
-http://regioplay.xyz/php/SR_REGIO_720112_/th.php?channel=unv_91xll&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_720112_/regio22d.php?c=univ-1&k=SrRegio&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",UNIMAS
+http://regioplay.xyz/php/SR_REGIO_720112_/regio22d.php?c=unimas&k=SrRegio&f=.m3u8
+#EXTINF:-1 group-title="Lista TV",GALAVISION
+http://regioplay.xyz/php/SR_REGIO_720112_/regio22d.php?c=galavision&k=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", MEGA (CHILE)
-http://regioplay.xyz/php/SR_REGIO_720112_/th.php?channel=mgv5cll&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_720112_/th.php?channel=mgv9cll&f=.m3u8
 
 ************************************ https://raw.githubusercontent.com/ivantapia882804/rasta12/main/ssiptv.txt ********************************************
 
