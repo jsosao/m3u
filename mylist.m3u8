@@ -6,7 +6,7 @@
 http://regioplay.xyz/php/SR_REGIO_720112_/th.php?channel=srregio&f.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Lista TV", WOW TV
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", WOW TV
 https://regioplay.xyz/php/SR_REGIO_720112_/wowtv.php
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
