@@ -281,6 +281,8 @@ http://regioplay.xyz/php/SR_REGIO_720112_/tp.php?c=172&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_720112_/tp.php?c=174&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="LISTA MX", FOX SPORTS 3 
 http://regioplay.xyz/php/SR_REGIO_720112_/tp.php?c=178&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="LISTA MX", NU9VE
+http://regioplay.xyz/php/SR_REGIO_720112_/tp.php?c=24&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="LISTA MX", GOLF
 http://regioplay.xyz/php/SR_REGIO_720112_/tp.php?c=179&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="LISTA MX", AYM SPORTS
