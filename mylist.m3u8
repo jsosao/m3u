@@ -25,15 +25,16 @@ https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/in
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", PAKA PAKA
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", TELEMUNDO
-http://regioplay.xyz/php/SR_REGIO_101112_/regio22d.php?c=telemundo&k=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_101112_/th.php?channel=tl_25llkk&f=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", UNIVISION
-http://regioplay.xyz/php/SR_REGIO_101112_/regio22d.php?c=univ-1&k=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_101112_/th.php?channel=unv_99tt&f=.m3u8
 #EXTINF:-1 group-title="Lista TV",UNIMAS
 http://regioplay.xyz/php/SR_REGIO_101112_/regio22d.php?c=unimas&k=SrRegio&f=.m3u8
 #EXTINF:-1 group-title="Lista TV",GALAVISION
 http://regioplay.xyz/php/SR_REGIO_101112_/regio22d.php?c=galavision&k=SrRegio&f=.m3u8
 #EXTINF:-1 group-title="Lista TV",MEGA (CHILE)
 http://regioplay.xyz/php/SR_REGIO_101112_/th.php?channel=mgv9cll&f=.m3u8
+
 
 
 #EXTINF:-1 group-title="LISTA MX", ONCE NINOS (CLASES)
