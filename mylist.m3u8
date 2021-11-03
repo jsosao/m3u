@@ -472,13 +472,13 @@ http://208.88.246.11:4153/9602GLVSN/transco16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5
 http://208.88.246.11:4153/9556UTDN/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="CBSSportsNetwork.us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="RECOMENDADOS",CBS Sports Network
 http://23.237.29.98:3782/transco9/9495CBSSN/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1, group-title="RECOMENDADOS",DE | TUDN XTRA 1
+#EXTINF:-1, group-title="RECOMENDADOS" ,DE | TUDN XTRA 1
 http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244577
-#EXTINF:-1, group-title="RECOMENDADOS",DE | TUDN XTRA 2
+#EXTINF:-1, group-title="RECOMENDADOS" ,DE | TUDN XTRA 2
 http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262185
-#EXTINF:-1, group-title="RECOMENDADOS",DE | TUDN XTRA 3
+#EXTINF:-1, group-title="RECOMENDADOS" ,DE | TUDN XTRA 3
 http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244586
-#EXTINF:-1, group-title="RECOMENDADOS",DE | TUDN XTRA 4
+#EXTINF:-1, group-title="RECOMENDADOS" ,DE | TUDN XTRA 4
 http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244585
 #EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnsp.png" group-title="RECOMENDADOS",ESPN Deportes USA
 http://208.88.246.11:4153/encoder82/evento16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
@@ -486,6 +486,8 @@ http://208.88.246.11:4153/encoder82/evento16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E
 http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262312
 #EXTINF:-1 tvg-id="ESPN2.co" tvg-name="ESPN2 (COL)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn2.png" group-title="RECOMENDADOS",ESPN2 (COL)
 http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/271287
+#EXTINF:-1, group-title="RECOMENDADOS",Canal 4 TCS
+http://ns561850.ip-54-39-158.net:8080/opoku/opoku/148605
 
 
 #EXTINF:-1 tvg-id="XHDFAztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="LOCALES",Azteca Uno (HD)
@@ -837,6 +839,4 @@ https://blackghost.live/play/totalp1-111.php?c=2091&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="France24Espanol(English).mx" tvg-name="France 24 (Español)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/f24.png" group-title="INFORMACIÓN",France 24 (Español)
 https://blackghost.live/play/totalp1-111.php?c=2402&p=3&k=black&f=.m3u8
 
-****************************************github wicho **************************************************************
-
-
+*********************************************************************************************************
