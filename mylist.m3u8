@@ -4,26 +4,26 @@
 
 #EXTINF:-1 group-title="Lista TV", :: REGIO CHANNEL :: (EVENTOS)
 http://regioplay.xyz/php/SR_REGIO_101022_/th.php?channel=srregio&f.m3u8
-#EXTINF:-1  group-title="Lista TV", MAGIC KIDS
+#EXTINF:-1 group-title="Lista TV", MAGIC KIDS
 https://live.admefy.com/live/default/rival_maroon_4fb1e.m3u8
-#EXTINF:-1  group-title="Lista TV", ENERGEEK
+#EXTINF:-1 group-title="Lista TV", ENERGEEK
 https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w959585101.m3u8
-#EXTINF:-1  group-title="Lista TV", EL CHAVO TV
+#EXTINF:-1 group-title="Lista TV", EL CHAVO TV
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
-#EXTINF:-1  group-title="Lista TV", DREIKO TV
+#EXTINF:-1 group-title="Lista TV", DREIKO TV
 http://regioplay.xyz/php/SR_REGIO_101022_/dreiko.php?f=.m3u8
-#EXTINF:-1  group-title="Lista TV", KANADE TV
+#EXTINF:-1 group-title="Lista TV", KANADE TV
 https://kanadetvlatino-usct.streaming.media.azure.net/66afd58d-114f-48d5-bc00-aa6cd5203912/80e7baff-9e17-4bad-8058-93e7160fe85a.ism/manifest(format=m3u8-aapl)
-#EXTINF:-1  group-title="Lista TV", LOCOMOTION
+#EXTINF:-1 group-title="Lista TV", LOCOMOTION
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-#EXTINF:-1  group-title="Lista TV", MULTIMEDIOS MTY
+#EXTINF:-1 group-title="Lista TV", MULTIMEDIOS MTY
 http://regioplay.xyz/php/SR_REGIO_101022_/multimedios.php?f=.m3u8
-#EXTINF:-1   group-title="Lista TV", WOW TV
+#EXTINF:-1 group-title="Lista TV", WOW TV
 https://regioplay.xyz/php/SR_REGIO_101022_/wowtv.php
-#EXTINF:-1  group-title="Lista TV", NET TV
+#EXTINF:-1 group-title="Lista TV", NET TV
 http://regioplay.xyz/php/SR_REGIO_101022_/nettv.php?f=.m3u8
 
-#EXTINF:-1  tvg-id="Lista TV", Star Channel
+#EXTINF:-1 group-title="Lista TV", Star Channel
 https://edge1.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/index.m3u8
 #EXTINF:-1 group-title="Lista TV", LA 2
 https://rtvelivestreamv3.akamaized.net/la2_main_dvr.m3u8
