@@ -1246,4 +1246,1392 @@ https://rt-esp.gcdn.co/live/rtesp/playlist_2500Kb.m3u8
 #EXTINF:-1 tvg-id="TeleSur.co" tvg-name="Telesur" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sur.png" group-title="INFORMACIÓN",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
+
+#EXTINF:-1 group-title="MUSICA" tvg-id="1" tvg-name="Rewind TV" tvg-logo="https://lh3.googleusercontent.com/-DNyXu-b4s7U/Xw5ewsB00fI/AAAAAAAA21g/BxwNdcI3djYxvx4JKkpiGWruGj2DwFNkgCK8BGAsYHg/s0/2020-07-14.png", Rewind TV
+https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV Señal 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="13" tvg-name="Ruidos TV" tvg-logo="https://lh3.googleusercontent.com/-OYgpvMljozw/Xxy-3V91rJI/AAAAAAAA3WI/1Tr5TT2vvDw63C_2ZoSu5mmvTvZV4UDFACK8BGAsYHg/s0/2020-07-25.png", Ruidos TV
+https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="12" tvg-name="Awka" tvg-logo="https://lh3.googleusercontent.com/-axPzeNdcvq4/X4JBO2dt35I/AAAAAAAA6UM/X-3kz1phNyUa8lUEEnt_0-Nv3OZdOWACwCK8BGAsYHg/s0/2020-10-10.png", Awka
+https://stmv1.questreaming.com/awkasonido/awkasonido/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="14" tvg-name="Urban TV" tvg-logo="https://lh3.googleusercontent.com/-Xx4DcggZ0tw/X48XMFPv4jI/AAAAAAAA6lY/eTAQj1-UnWUbuTMAHTCiwz9SCJoAlGkTACK8BGAsYHg/s0/2020-10-20.png", Urban TV
+https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="3" tvg-name="XTV Music" tvg-logo="https://lh3.googleusercontent.com/-AQn8CYeOAK8/X38KO1HXohI/AAAAAAAA6P8/aEkNrz3M0qwWAeklOdf2svEf0HV7bBjyACK8BGAsYHg/s0/2020-10-08.png", XTV Music
+https://tls.cdnz.cl:443/xtvmusic/xtvmusic/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="2" tvg-name="Zapping Music" tvg-logo="https://lh3.googleusercontent.com/-jDz1h1TVXnI/X5ct0JQUgpI/AAAAAAAA6xE/yNj4027GRJg_bgCUrLv2_3fDiH4mR9VgACK8BGAsYHg/s0/2020-10-26.png", Zapping Music
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="31" tvg-name="Portal FoxMix" tvg-logo="https://lh3.googleusercontent.com/-k9n3tedhqBs/XbC_-FblJSI/AAAAAAAArm4/pMPtuBhhdtoL_yFWs5dt23dHFTHHCv8hgCK8BGAsYHg/s0/2019-10-23.png", Portal FoxMix
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="21" tvg-name="Retro Music Television" tvg-logo="https://lh3.googleusercontent.com/-z4SQcFR0bIs/Xs_MlInCKMI/AAAAAAAA1QM/T2RR2owl_CYpymBiQ8lOi1ykYZVAwI6NACK8BGAsYHg/s0/2020-05-28.png", Retro Music Television
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="27" tvg-name="Carolina TV" tvg-logo="https://lh3.googleusercontent.com/-3hmTnW9e-Y4/XbDAlKKxKtI/AAAAAAAArnA/OkLJM2f1T0ktieMaceuBzVPOADwGIf1jACK8BGAsYHg/s0/2019-10-23.png", Carolina TV
+http://unlimited1-cl.dps.live/carolinatv/carolinatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="32" tvg-name="Alegria TV" tvg-logo="https://lh3.googleusercontent.com/-IDCwMaJRdnM/Xb11MVTbE-I/AAAAAAAAr4s/PbNF6ie1AIothtCRKeVvdVC6S5hO6a3xACK8BGAsYHg/s0/2019-11-02.png", Alegria TV
+https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="37" tvg-name="Canal 38" tvg-logo="https://lh3.googleusercontent.com/-JsoqJma_UaI/Xz5177aFy8I/AAAAAAAA4r8/2mN9M0HRshQfHf1Y1bH_ul9q22z36M41gCK8BGAsYHg/s0/2020-08-20.png", Canal 38
+https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="63" tvg-name="Bajo Cero TV" tvg-logo="https://lh3.googleusercontent.com/-bNr32YilkwI/X7gHapMZxAI/AAAAAAAA7hc/tUFlaalIohMz1NqYEMuP77GfeYrh7HBNgCK8BGAsYHg/s0/2020-11-20.png", Bajo Cero TV
+https://stmv.panel.mivideo.pro/bajocerotv/bajocerotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="16" tvg-name="Conecta TV" tvg-logo="https://lh3.googleusercontent.com/-1OS8OxMcn0I/XzmCbfsP71I/AAAAAAAA4hQ/FAENkONIqpU9vS0mReGgunUTSJ-he5hPQCK8BGAsYHg/s0/2020-08-16.png", Conecta TV
+http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="18" tvg-name="Corazon Llanero" tvg-logo="https://lh3.googleusercontent.com/-XR46wyY1FZc/XjomdF00q2I/AAAAAAAAvlY/RR7N6BVs2fQVrkRxUvldT5NN7KN5QGDDACK8BGAsYHg/s0/2020-02-04.png", Corazon Llanero
+https://5fa4275407563.streamlock.net:455/corazonllanerotv/corazonllanerotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="15" tvg-name="Eurolatina TV" tvg-logo="https://lh3.googleusercontent.com/-TM44QoGsUd4/X8bhuroUcNI/AAAAAAAA73Y/o84W1d_xBXA1yInTgmrlcjwFIGrFPTv9ACK8BGAsYHg/s0/2020-12-01.jpg", Eurolatina TV
+https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="30" tvg-name="Ibiza Global TV" tvg-logo="https://lh3.googleusercontent.com/-7rDHdedeWvo/Xmr-CC8Pa2I/AAAAAAAAwyI/X8CvdyCJtdQZutdQi2clULPfWJH0c8S3QCK8BGAsYHg/s0/2020-03-12.png", Ibiza Global TV
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="23" tvg-name="m2o TV" tvg-logo="https://lh3.googleusercontent.com/-8k2_MMN4_Bc/X0Khp3P6tWI/AAAAAAAA46E/RE_IEG7uAo4WhxuJy71et8N5L1BRugBLgCK8BGAsYHg/s0/2020-08-23.png", m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="33" tvg-name="Maxima FM" tvg-logo="https://lh3.googleusercontent.com/-RF13xAQ97o0/XxzMzRqfnBI/AAAAAAAA3Zc/xet9CCbU7H8WEPRQGCXEPpiBxM5RUK6EwCK8BGAsYHg/s0/2020-07-25.png", Maxima FM
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="24" tvg-name="Music Top" tvg-logo="https://lh3.googleusercontent.com/-6Em4fzTLMuU/XjtHLf96jvI/AAAAAAAAvqU/q3DfxbUdSiMDRDB1VBh_3hu3WDK_Nr-egCK8BGAsYHg/s0/2020-02-05.png", Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="20" tvg-name="On Radio Ksun" tvg-logo="https://lh3.googleusercontent.com/-MfYGt6f-FNQ/XmWIp_jDYpI/AAAAAAAAwsg/7Yn3jbMYdRIJWMFC3S1YbS2hQT3XBMiOgCK8BGAsYHg/s0/2020-03-08.png", On Radio Ksun
+https://tls.cdnz.cl/onradio4/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="26" tvg-name="RCKStudio" tvg-logo="https://lh3.googleusercontent.com/-k220wrO7Pks/X2tCElFr0xI/AAAAAAAA50E/JjO-VenWP_cETYy8Se1-2pxO3-vMYU5nACK8BGAsYHg/s0/2020-09-23.png", RCKStudio
+https://rckstudio.duckdns.org/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="17" tvg-name="The Retro Channel" tvg-logo="https://lh3.googleusercontent.com/-t2WD0yOsfvg/XzxnxYhCPPI/AAAAAAAA4oY/qwvkZXM7rAUzOACe0-fSRAQ7_8n6xb5wgCK8BGAsYHg/s0/2020-08-18.png", The Retro Channel
+https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="25" tvg-name="TuTv Quillota" tvg-logo="https://lh3.googleusercontent.com/-WD49JzHZ9cM/Xrsv-mIjUjI/AAAAAAAA0rs/g_Pgm6hQvNIbp8aHuvQ3H7kEkiu3-M4zQCK8BGAsYHg/s0/2020-05-12.png", TuTv Quillota
+https://tvstreaming.cl:1936/tutv/tutv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="34" tvg-name="TV vconline.cl" tvg-logo="https://lh3.googleusercontent.com/-F0CYLyk3J_M/XxzNduxMoVI/AAAAAAAA3Zk/3S772u4F4jER7F0bULY-hlG7Nn9bbGa7gCK8BGAsYHg/s0/2020-07-25.png", TV vconline.cl
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="29" tvg-name="DJ Loncho TV" tvg-logo="https://lh3.googleusercontent.com/-VPBp6Vk47T4/XnzDahiuJCI/AAAAAAAAxMI/BkejtQRObwcVvsIvYbdi3Yf5UOizKSRoQCK8BGAsYHg/s0/2020-03-26.png", DJ Loncho TV
+https://srv2.zcast.com.br/djlonchotv/djlonchotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="28" tvg-name="Natural TV" tvg-logo="https://lh3.googleusercontent.com/-mHhSrfB607c/Xofchq4pWAI/AAAAAAAAxd8/1PbG6O1b6ZU6d_G1AImfuPfCMgxVk9eeACK8BGAsYHg/s0/2020-04-03.png", Natural TV
+http://srv1.zcast.com.br/miguel/miguel/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="42" tvg-name="RadioTV.pro" tvg-logo="https://lh3.googleusercontent.com/-wwOQH4WvSZI/X5jEE-BBCmI/AAAAAAAA6y4/RgkfOZHscEIH9ceLQR6UPtuXQQUw0FXCACK8BGAsYHg/s0/2020-10-27.png", RadioTV.pro
+https://paneltv.online:1936/radiotv/radiotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="19" tvg-name="TV Exitos" tvg-logo="https://lh3.googleusercontent.com/-BET4REPGZKQ/X96Yzr-NKCI/AAAAAAAA8Wo/jNg4hNxYQP0gmIeRnv8mBt4_GfNyGkGnQCK8BGAsYHg/s0/2020-12-19.png", TV Exitos
+http://siglo21.dnsalias.com:8080/mylive/tvexitos/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="22" tvg-name="Video Tour Channel" tvg-logo="https://lh3.googleusercontent.com/-QUz4UviUPiE/X3YnewzIm7I/AAAAAAAA6Ho/xpUvyAvSX6Qj0Lvl8qhuZnDdz9VPZWy4QCK8BGAsYHg/s0/2020-10-01.png", Video Tour Channel
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="36" tvg-name="Telemusica" tvg-logo="https://lh3.googleusercontent.com/-i9WwagfKEd0/Xkyj43nNFOI/AAAAAAAAwIM/KdtEMa1z7fIoleKmbrXFEU3N9ASWoq5IwCK8BGAsYHg/s0/2020-02-18.png", Telemusica
+https://5f2eaf2aa4061.streamlock.net/live/smil:telemusica_web.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="35" tvg-name="TOP Latino TV" tvg-logo="https://lh3.googleusercontent.com/-2Pr5sAUtsTA/XkCTD7gYTyI/AAAAAAAAv8M/B9-Cs05PoO4uTYRUW4INkQhkH1NkuQQWACK8BGAsYHg/s0/2020-02-09.png", TOP Latino TV
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="39" tvg-name="Karibeña TV" tvg-logo="https://lh3.googleusercontent.com/-3WtV-Ee6f4g/XzxuRNf0V2I/AAAAAAAA4p4/0FT0EgwqeLEXbJe0vEdCcTO5mhzkmq5qwCK8BGAsYHg/s0/2020-08-18.jpg", Karibeña TV
+https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="38" tvg-name="Best Cable Music" tvg-logo="https://lh3.googleusercontent.com/-5_iLG_7dCR4/XzxsvrIsFsI/AAAAAAAA4po/GH4DSrK2H5YVOskucpzMxMZeU417wwVvQCK8BGAsYHg/s0/2020-08-18.jpg", Best Cable Music
+https://live.siete.us:1991/bestcablemusic/bestcablemusic/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="41" tvg-name="Hatun TV" tvg-logo="https://lh3.googleusercontent.com/-U_hD9IeM-Yg/Xzxsc022kjI/AAAAAAAA4pg/RUNXBNPIglE-sOapeC2XUMQAc6LE9_hOQCK8BGAsYHg/s0/2020-08-18.jpg", Hatun TV
+https://live.siete.us:1991/bestcablehatuntv/bestcablehatuntv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="40" tvg-name="Mas Cumbia" tvg-logo="https://lh3.googleusercontent.com/-ZJanuKXyOcE/XzxsUNGtJ_I/AAAAAAAA4pc/5GU3Dq6vXiEbaMuBLpf_vt_xGy7TSysMQCK8BGAsYHg/s0/2020-08-18.png", Mas Cumbia
+https://live.siete.us:1991/mascumbiatvonline/mascumbiatvonline/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="43" tvg-name="Turbo Mix TV" tvg-logo="https://lh3.googleusercontent.com/-G5Yc3uX2FuI/X96fIN48GAI/AAAAAAAA8W0/OiYowGFVndAfjVe7nyNsjtL1OavXrBEkwCK8BGAsYHg/s0/2020-12-19.png", Turbo Mix TV
+http://167.114.116.212:1935/tvmb/turbomix/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 group-title="Lista 03", A3 Series
+http://blackaddon.com/play/zufree-121.php?c=3018
+#EXTINF:-1 group-title="Lista 03", A&E
+http://blackaddon.com/play/zufree-121.php?c=3019
+#EXTINF:-1 group-title="Lista 03", ADN 40
+http://blackaddon.com/play/zufree-121.php?c=3020
+#EXTINF:-1 group-title="Lista 03", AMC
+http://blackaddon.com/play/zufree-121.php?c=3021
+#EXTINF:-1 group-title="Lista 03", Animal Planet
+http://blackaddon.com/play/zufree-121.php?c=3022
+#EXTINF:-1 group-title="Lista 03", Antena 3
+http://blackaddon.com/play/zufree-121.php?c=3023
+#EXTINF:-1 group-title="Lista 03", A+
+http://blackaddon.com/play/zufree-121.php?c=3024
+#EXTINF:-1 group-title="Lista 03", AXN
+http://blackaddon.com/play/zufree-121.php?c=3025
+#EXTINF:-1 group-title="Lista 03", AyM Sports
+http://blackaddon.com/play/zufree-121.php?c=3026
+#EXTINF:-1 group-title="Lista 03", Az Cinema
+http://blackaddon.com/play/zufree-121.php?c=3027
+#EXTINF:-1 group-title="Lista 03", Az Corazon
+http://blackaddon.com/play/zufree-121.php?c=3028
+#EXTINF:-1 group-title="Lista 03", Az Mundo
+http://blackaddon.com/play/zufree-121.php?c=3029
+#EXTINF:-1 group-title="Lista 03", Azteca 7
+http://blackaddon.com/play/zufree-121.php?c=3030
+#EXTINF:-1 group-title="Lista 03", Azteca UNO
+http://blackaddon.com/play/zufree-121.php?c=3031
+#EXTINF:-1 group-title="Lista 03", Baby First
+http://blackaddon.com/play/zufree-121.php?c=3032
+#EXTINF:-1 group-title="Lista 03", Baby TV
+http://blackaddon.com/play/zufree-121.php?c=3033
+#EXTINF:-1 group-title="Lista 03", Bandamax
+http://blackaddon.com/play/zufree-121.php?c=3034
+#EXTINF:-1 group-title="Lista 03", BitMe
+http://blackaddon.com/play/zufree-121.php?c=3035
+#EXTINF:-1 group-title="Lista 03", Boomerang
+http://blackaddon.com/play/zufree-121.php?c=3036
+#EXTINF:-1 group-title="Lista 03", Canal 11
+http://blackaddon.com/play/zufree-121.php?c=3037
+#EXTINF:-1 group-title="Lista 03", Canal 5
+http://blackaddon.com/play/zufree-121.php?c=3038
+#EXTINF:-1 group-title="Lista 03", Cartoon Network
+http://blackaddon.com/play/zufree-121.php?c=3039
+#EXTINF:-1 group-title="Lista 03", Cinecanal
+http://blackaddon.com/play/zufree-121.php?c=3040
+#EXTINF:-1 group-title="Lista 03", Cinemax
+http://blackaddon.com/play/zufree-121.php?c=3041
+#EXTINF:-1 group-title="Lista 03", CNN en Espanol
+http://blackaddon.com/play/zufree-121.php?c=3042
+#EXTINF:-1 group-title="Lista 03", CNN USA
+http://blackaddon.com/play/zufree-121.php?c=3043
+#EXTINF:-1 group-title="Lista 03", Comedy Central
+http://blackaddon.com/play/zufree-121.php?c=3044
+#EXTINF:-1 group-title="Lista 03", De Pelicula
+http://blackaddon.com/play/zufree-121.php?c=3045
+#EXTINF:-1 group-title="Lista 03", De Pelicula Clasico
+http://blackaddon.com/play/zufree-121.php?c=3046
+#EXTINF:-1 group-title="Lista 03", De Pelicula Plus
+http://blackaddon.com/play/zufree-121.php?c=3047
+#EXTINF:-1 group-title="Lista 03", Discovery Channel
+http://blackaddon.com/play/zufree-121.php?c=3048
+#EXTINF:-1 group-title="Lista 03", Discovery Civilization
+http://blackaddon.com/play/zufree-121.php?c=3049
+#EXTINF:-1 group-title="Lista 03", Discovery H&H
+http://blackaddon.com/play/zufree-121.php?c=3050
+#EXTINF:-1 group-title="Lista 03", Investigation Discovery
+http://blackaddon.com/play/zufree-121.php?c=3051
+#EXTINF:-1 group-title="Lista 03", Discovery KIDS
+http://blackaddon.com/play/zufree-121.php?c=3052
+#EXTINF:-1 group-title="Lista 03", Discovery Science
+http://blackaddon.com/play/zufree-121.php?c=3053
+#EXTINF:-1 group-title="Lista 03", Discovery Theater
+http://blackaddon.com/play/zufree-121.php?c=3054
+#EXTINF:-1 group-title="Lista 03", Discovery TLC
+http://blackaddon.com/play/zufree-121.php?c=3055
+#EXTINF:-1 group-title="Lista 03", Discovery Turbo
+http://blackaddon.com/play/zufree-121.php?c=3056
+#EXTINF:-1 group-title="Lista 03", Discovery World
+http://blackaddon.com/play/zufree-121.php?c=3057
+#EXTINF:-1 group-title="Lista 03", Disney Channel
+http://blackaddon.com/play/zufree-121.php?c=3058
+#EXTINF:-1 group-title="Lista 03", Disney Junior
+http://blackaddon.com/play/zufree-121.php?c=3059
+#EXTINF:-1 group-title="Lista 03", Disney XD
+http://blackaddon.com/play/zufree-121.php?c=3060
+#EXTINF:-1 group-title="Lista 03", Distrito Comedia
+http://blackaddon.com/play/zufree-121.php?c=3061
+#EXTINF:-1 group-title="Lista 03", E!
+http://blackaddon.com/play/zufree-121.php?c=3062
+#EXTINF:-1 group-title="Lista 03", El Financiero Bloomberg
+http://blackaddon.com/play/zufree-121.php?c=3063
+#EXTINF:-1 group-title="Lista 03", El Gourmet
+http://blackaddon.com/play/zufree-121.php?c=3064
+#EXTINF:-1 group-title="Lista 03", ESPN +
+http://blackaddon.com/play/zufree-121.php?c=3065
+#EXTINF:-1 group-title="Lista 03", ESPN 1
+http://blackaddon.com/play/zufree-121.php?c=3066
+#EXTINF:-1 group-title="Lista 03", ESPN 2
+http://blackaddon.com/play/zufree-121.php?c=3067
+#EXTINF:-1 group-title="Lista 03", ESPN 3
+http://blackaddon.com/play/zufree-121.php?c=3068
+#EXTINF:-1 group-title="Lista 03", ESPN U
+http://blackaddon.com/play/zufree-121.php?c=3069
+#EXTINF:-1 group-title="Lista 03", Food Network
+http://blackaddon.com/play/zufree-121.php?c=3070
+#EXTINF:-1 group-title="Lista 03", Foro TV
+http://blackaddon.com/play/zufree-121.php?c=3071
+#EXTINF:-1 group-title="Lista 03", FOX (Star Channel)
+http://blackaddon.com/play/zufree-121.php?c=3072
+#EXTINF:-1 group-title="Lista 03", FOX Premium Action (Star Action)
+http://blackaddon.com/play/zufree-121.php?c=3073
+#EXTINF:-1 group-title="Lista 03", FOX Cinema (Star Cinema)
+http://blackaddon.com/play/zufree-121.php?c=3074
+#EXTINF:-1 group-title="Lista 03", Star Classics (Fox Premium Classics)
+http://blackaddon.com/play/zufree-121.php?c=3075
+#EXTINF:-1 group-title="Lista 03", FOX Comedy (Star Comedy)
+http://blackaddon.com/play/zufree-121.php?c=3076
+#EXTINF:-1 group-title="Lista 03", FOX Family (Star Fun)
+http://blackaddon.com/play/zufree-121.php?c=3077
+#EXTINF:-1 group-title="Lista 03", FOX Life (Star Life)
+http://blackaddon.com/play/zufree-121.php?c=3078
+#EXTINF:-1 group-title="Lista 03", FOX Premium Movies (Star Hits)
+http://blackaddon.com/play/zufree-121.php?c=3079
+#EXTINF:-1 group-title="Lista 03", FOX Premium Series (Star Series)
+http://blackaddon.com/play/zufree-121.php?c=3080
+#EXTINF:-1 group-title="Lista 03", FOX Sports 1
+http://blackaddon.com/play/zufree-121.php?c=3081
+#EXTINF:-1 group-title="Lista 03", FOX Sports 2
+http://blackaddon.com/play/zufree-121.php?c=3082
+#EXTINF:-1 group-title="Lista 03", FOX Sports 3
+http://blackaddon.com/play/zufree-121.php?c=3083
+#EXTINF:-1 group-title="Lista 03", FX
+http://blackaddon.com/play/zufree-121.php?c=3084
+#EXTINF:-1 group-title="Lista 03", FXM
+http://blackaddon.com/play/zufree-121.php?c=3085
+#EXTINF:-1 group-title="Lista 03", Canal 9 (Gala TV)
+http://blackaddon.com/play/zufree-121.php?c=3086
+#EXTINF:-1 group-title="Lista 03", Garage TV
+http://blackaddon.com/play/zufree-121.php?c=3087
+#EXTINF:-1 group-title="Lista 03", Glitz
+http://blackaddon.com/play/zufree-121.php?c=3088
+#EXTINF:-1 group-title="Lista 03", Golden
+http://blackaddon.com/play/zufree-121.php?c=3089
+#EXTINF:-1 group-title="Lista 03", Golden EDGE
+http://blackaddon.com/play/zufree-121.php?c=3090
+#EXTINF:-1 group-title="Lista 03", Golden Plus
+http://blackaddon.com/play/zufree-121.php?c=3091
+#EXTINF:-1 group-title="Lista 03", Golden Premier
+http://blackaddon.com/play/zufree-121.php?c=3092
+#EXTINF:-1 group-title="Lista 03", Golf Channel Latinoamerica
+http://blackaddon.com/play/zufree-121.php?c=3093
+#EXTINF:-1 group-title="Lista 03", HGTV
+http://blackaddon.com/play/zufree-121.php?c=3094
+#EXTINF:-1 group-title="Lista 03", History
+http://blackaddon.com/play/zufree-121.php?c=3095
+#EXTINF:-1 group-title="Lista 03", Hola TV
+http://blackaddon.com/play/zufree-121.php?c=3096
+#EXTINF:-1 group-title="Lista 03", Imagen Television
+http://blackaddon.com/play/zufree-121.php?c=3097
+#EXTINF:-1 group-title="Lista 03", Ingenio TV
+http://blackaddon.com/play/zufree-121.php?c=3098
+#EXTINF:-1 group-title="Lista 03", I.Sat
+http://blackaddon.com/play/zufree-121.php?c=3099
+#EXTINF:-1 group-title="Lista 03", Las Estrellas
+http://blackaddon.com/play/zufree-121.php?c=3100
+#EXTINF:-1 group-title="Lista 03", Lifetime
+http://blackaddon.com/play/zufree-121.php?c=3101
+#EXTINF:-1 group-title="Lista 03", Mas chic
+http://blackaddon.com/play/zufree-121.php?c=3102
+#EXTINF:-1 group-title="Lista 03", Milenio
+http://blackaddon.com/play/zufree-121.php?c=3103
+#EXTINF:-1 group-title="Lista 03", MTV
+http://blackaddon.com/play/zufree-121.php?c=3104
+#EXTINF:-1 group-title="Lista 03", MTV Hits
+http://blackaddon.com/play/zufree-121.php?c=3105
+#EXTINF:-1 group-title="Lista 03", MTV Live
+http://blackaddon.com/play/zufree-121.php?c=3106
+#EXTINF:-1 group-title="Lista 03", Multimedios Plus
+http://blackaddon.com/play/zufree-121.php?c=3107
+#EXTINF:-1 group-title="Lista 03", NatGeo
+http://blackaddon.com/play/zufree-121.php?c=3108
+#EXTINF:-1 group-title="Lista 03", NatGeo KIDS
+http://blackaddon.com/play/zufree-121.php?c=3109
+#EXTINF:-1 group-title="Lista 03", NatGeo Wild
+http://blackaddon.com/play/zufree-121.php?c=3110
+#EXTINF:-1 group-title="Lista 03", Nickelodeon
+http://blackaddon.com/play/zufree-121.php?c=3111
+#EXTINF:-1 group-title="Lista 03", Nick 2 (TeenNick)
+http://blackaddon.com/play/zufree-121.php?c=3112
+#EXTINF:-1 group-title="Lista 03", Nick JR
+http://blackaddon.com/play/zufree-121.php?c=3113
+#EXTINF:-1 group-title="Lista 03", Nicktoons
+http://blackaddon.com/play/zufree-121.php?c=3114
+#EXTINF:-1 group-title="Lista 03", Outdoor Channel
+http://blackaddon.com/play/zufree-121.php?c=3115
+#EXTINF:-1 group-title="Lista 03", Paramount Channel
+http://blackaddon.com/play/zufree-121.php?c=3116
+#EXTINF:-1 group-title="Lista 03", Telehit Urbano (Telehit Musica)
+http://blackaddon.com/play/zufree-121.php?c=3117
+#EXTINF:-1 group-title="Lista 03", Sony
+http://blackaddon.com/play/zufree-121.php?c=3118
+#EXTINF:-1 group-title="Lista 03", Space
+http://blackaddon.com/play/zufree-121.php?c=3119
+#EXTINF:-1 group-title="Lista 03", Studio Universal
+http://blackaddon.com/play/zufree-121.php?c=3120
+#EXTINF:-1 group-title="Lista 03", Sundance Channel
+http://blackaddon.com/play/zufree-121.php?c=3121
+#EXTINF:-1 group-title="Lista 03", SyFy
+http://blackaddon.com/play/zufree-121.php?c=3122
+#EXTINF:-1 group-title="Lista 03", TBS
+http://blackaddon.com/play/zufree-121.php?c=3123
+#EXTINF:-1 group-title="Lista 03", TCM
+http://blackaddon.com/play/zufree-121.php?c=3124
+#EXTINF:-1 group-title="Lista 03", Teleformula
+http://blackaddon.com/play/zufree-121.php?c=3125
+#EXTINF:-1 group-title="Lista 03", Telehit
+http://blackaddon.com/play/zufree-121.php?c=3126
+#EXTINF:-1 group-title="Lista 03", Telemundo Internacional
+http://blackaddon.com/play/zufree-121.php?c=3127
+#EXTINF:-1 group-title="Lista 03", Televisa Monterrey
+http://blackaddon.com/play/zufree-121.php?c=3128
+#EXTINF:-1 group-title="Lista 03", Tlnovelas
+http://blackaddon.com/play/zufree-121.php?c=3129
+#EXTINF:-1 group-title="Lista 03", TNT
+http://blackaddon.com/play/zufree-121.php?c=3130
+#EXTINF:-1 group-title="Lista 03", TNT Series
+http://blackaddon.com/play/zufree-121.php?c=3131
+#EXTINF:-1 group-title="Lista 03", Tooncast
+http://blackaddon.com/play/zufree-121.php?c=3132
+#EXTINF:-1 group-title="Lista 03", TruTV
+http://blackaddon.com/play/zufree-121.php?c=3133
+#EXTINF:-1 group-title="Lista 03", TVC Deportes
+http://blackaddon.com/play/zufree-121.php?c=3134
+#EXTINF:-1 group-title="Lista 03", TVE
+http://blackaddon.com/play/zufree-121.php?c=3135
+#EXTINF:-1 group-title="Lista 03", Unicable
+http://blackaddon.com/play/zufree-121.php?c=3136
+#EXTINF:-1 group-title="Lista 03", Universal Channel
+http://blackaddon.com/play/zufree-121.php?c=3137
+#EXTINF:-1 group-title="Lista 03", VH1
+http://blackaddon.com/play/zufree-121.php?c=3138
+#EXTINF:-1 group-title="Lista 03", VH1 Classics
+http://blackaddon.com/play/zufree-121.php?c=3139
+#EXTINF:-1 group-title="Lista 03", Warner
+http://blackaddon.com/play/zufree-121.php?c=3140
+#EXTINF:-1 group-title="Lista 03", A+
+http://blackaddon.com/play/zufree-121.php?c=3141
+#EXTINF:-1 group-title="Lista 03", Azteca 7
+http://blackaddon.com/play/zufree-121.php?c=3142
+#EXTINF:-1 group-title="Lista 03", Azteca UNO
+http://blackaddon.com/play/zufree-121.php?c=3143
+#EXTINF:-1 group-title="Lista 03", Azteca Uno -2 Horas
+http://blackaddon.com/play/zufree-121.php?c=3144
+#EXTINF:-1 group-title="Lista 03", Canal 11
+http://blackaddon.com/play/zufree-121.php?c=3145
+#EXTINF:-1 group-title="Lista 03", Canal 5
+http://blackaddon.com/play/zufree-121.php?c=3146
+#EXTINF:-1 group-title="Lista 03", Canal 9 (Gala TV)
+http://blackaddon.com/play/zufree-121.php?c=3147
+#EXTINF:-1 group-title="Lista 03", Imagen Television
+http://blackaddon.com/play/zufree-121.php?c=3148
+#EXTINF:-1 group-title="Lista 03", Ingenio TV
+http://blackaddon.com/play/zufree-121.php?c=3149
+#EXTINF:-1 group-title="Lista 03", Las Estrellas
+http://blackaddon.com/play/zufree-121.php?c=3150
+#EXTINF:-1 group-title="Lista 03", Multimedios Plus
+http://blackaddon.com/play/zufree-121.php?c=3151
+#EXTINF:-1 group-title="Lista 03", Multimedios MTY
+http://blackaddon.com/play/zufree-121.php?c=3152
+#EXTINF:-1 group-title="Lista 03", Teleformula
+http://blackaddon.com/play/zufree-121.php?c=3153
+#EXTINF:-1 group-title="Lista 03", Televisa Monterrey
+http://blackaddon.com/play/zufree-121.php?c=3154
+#EXTINF:-1 group-title="Lista 03", TVC
+http://blackaddon.com/play/zufree-121.php?c=3155
+#EXTINF:-1 group-title="Lista 03", RCN Nuestra Tele Internacional
+http://blackaddon.com/play/zufree-121.php?c=3156
+#EXTINF:-1 group-title="Lista 03", A3 Series
+http://blackaddon.com/play/zufree-121.php?c=3157
+#EXTINF:-1 group-title="Lista 03", A&E
+http://blackaddon.com/play/zufree-121.php?c=3158
+#EXTINF:-1 group-title="Lista 03", AMC
+http://blackaddon.com/play/zufree-121.php?c=3159
+#EXTINF:-1 group-title="Lista 03", Antena 3
+http://blackaddon.com/play/zufree-121.php?c=3160
+#EXTINF:-1 group-title="Lista 03", AXN
+http://blackaddon.com/play/zufree-121.php?c=3161
+#EXTINF:-1 group-title="Lista 03", Az Corazon
+http://blackaddon.com/play/zufree-121.php?c=3162
+#EXTINF:-1 group-title="Lista 03", Az Mundo
+http://blackaddon.com/play/zufree-121.php?c=3163
+#EXTINF:-1 group-title="Lista 03", BitMe
+http://blackaddon.com/play/zufree-121.php?c=3164
+#EXTINF:-1 group-title="Lista 03", Caracol
+http://blackaddon.com/play/zufree-121.php?c=3165
+#EXTINF:-1 group-title="Lista 03", Comedy Central
+http://blackaddon.com/play/zufree-121.php?c=3166
+#EXTINF:-1 group-title="Lista 03", Distrito Comedia
+http://blackaddon.com/play/zufree-121.php?c=3167
+#EXTINF:-1 group-title="Lista 03", E!
+http://blackaddon.com/play/zufree-121.php?c=3168
+#EXTINF:-1 group-title="Lista 03", El Gourmet
+http://blackaddon.com/play/zufree-121.php?c=3169
+#EXTINF:-1 group-title="Lista 03", Estrella TV
+http://blackaddon.com/play/zufree-121.php?c=3170
+#EXTINF:-1 group-title="Lista 03", Food Network
+http://blackaddon.com/play/zufree-121.php?c=3171
+#EXTINF:-1 group-title="Lista 03", FOX (Star Channel)
+http://blackaddon.com/play/zufree-121.php?c=3172
+#EXTINF:-1 group-title="Lista 03", FOX Life (Star Life)
+http://blackaddon.com/play/zufree-121.php?c=3173
+#EXTINF:-1 group-title="Lista 03", FOX Premium Series (Star Series)
+http://blackaddon.com/play/zufree-121.php?c=3174
+#EXTINF:-1 group-title="Lista 03", FX
+http://blackaddon.com/play/zufree-121.php?c=3175
+#EXTINF:-1 group-title="Lista 03", Garage TV
+http://blackaddon.com/play/zufree-121.php?c=3176
+#EXTINF:-1 group-title="Lista 03", Glitz
+http://blackaddon.com/play/zufree-121.php?c=3177
+#EXTINF:-1 group-title="Lista 03", Hola TV
+http://blackaddon.com/play/zufree-121.php?c=3178
+#EXTINF:-1 group-title="Lista 03", Lifetime
+http://blackaddon.com/play/zufree-121.php?c=3179
+#EXTINF:-1 group-title="Lista 03", Mas Chic
+http://blackaddon.com/play/zufree-121.php?c=3180
+#EXTINF:-1 group-title="Lista 03", Pasiones
+http://blackaddon.com/play/zufree-121.php?c=3181
+#EXTINF:-1 group-title="Lista 03", RCN
+http://blackaddon.com/play/zufree-121.php?c=3182
+#EXTINF:-1 group-title="Lista 03", Sony
+http://blackaddon.com/play/zufree-121.php?c=3183
+#EXTINF:-1 group-title="Lista 03", TBS
+http://blackaddon.com/play/zufree-121.php?c=3184
+#EXTINF:-1 group-title="Lista 03", Telemundo Internacional
+http://blackaddon.com/play/zufree-121.php?c=3185
+#EXTINF:-1 group-title="Lista 03", Tlnovelas
+http://blackaddon.com/play/zufree-121.php?c=3186
+#EXTINF:-1 group-title="Lista 03", TNT Series
+http://blackaddon.com/play/zufree-121.php?c=3187
+#EXTINF:-1 group-title="Lista 03", TruTV
+http://blackaddon.com/play/zufree-121.php?c=3188
+#EXTINF:-1 group-title="Lista 03", Unicable
+http://blackaddon.com/play/zufree-121.php?c=3189
+#EXTINF:-1 group-title="Lista 03", Univision 41
+http://blackaddon.com/play/zufree-121.php?c=3190
+#EXTINF:-1 group-title="Lista 03", Warner
+http://blackaddon.com/play/zufree-121.php?c=3191
+#EXTINF:-1 group-title="Lista 03", Adrenalina Sports Network
+http://blackaddon.com/play/zufree-121.php?c=3192
+#EXTINF:-1 group-title="Lista 03", Afizzionados
+http://blackaddon.com/play/zufree-121.php?c=3193
+#EXTINF:-1 group-title="Lista 03", AyM Sports
+http://blackaddon.com/play/zufree-121.php?c=3194
+#EXTINF:-1 group-title="Lista 03", BeinSports ñ
+http://blackaddon.com/play/zufree-121.php?c=3195
+#EXTINF:-1 group-title="Lista 03", BeinSports USA
+http://blackaddon.com/play/zufree-121.php?c=3196
+#EXTINF:-1 group-title="Lista 03", Canal Toros
+http://blackaddon.com/play/zufree-121.php?c=3197
+#EXTINF:-1 group-title="Lista 03", Claro Sports
+http://blackaddon.com/play/zufree-121.php?c=3198
+#EXTINF:-1 group-title="Lista 03", ESPN 1
+http://blackaddon.com/play/zufree-121.php?c=3199
+#EXTINF:-1 group-title="Lista 03", ESPN 2
+http://blackaddon.com/play/zufree-121.php?c=3200
+#EXTINF:-1 group-title="Lista 03", ESPN 3
+http://blackaddon.com/play/zufree-121.php?c=3201
+#EXTINF:-1 group-title="Lista 03", ESPN +
+http://blackaddon.com/play/zufree-121.php?c=3202
+#EXTINF:-1 group-title="Lista 03", ESPN Deportes
+http://blackaddon.com/play/zufree-121.php?c=3203
+#EXTINF:-1 group-title="Lista 03", FOX Deportes
+http://blackaddon.com/play/zufree-121.php?c=3204
+#EXTINF:-1 group-title="Lista 03", FOX Sports 1
+http://blackaddon.com/play/zufree-121.php?c=3205
+#EXTINF:-1 group-title="Lista 03", FOX Sports 2
+http://blackaddon.com/play/zufree-121.php?c=3206
+#EXTINF:-1 group-title="Lista 03", FOX Sports 3
+http://blackaddon.com/play/zufree-121.php?c=3207
+#EXTINF:-1 group-title="Lista 03", Golf Channel Latinoamerica
+http://blackaddon.com/play/zufree-121.php?c=3208
+#EXTINF:-1 group-title="Lista 03", Movistar F1 TV
+http://blackaddon.com/play/zufree-121.php?c=3209
+#EXTINF:-1 group-title="Lista 03", Movistar Golf
+http://blackaddon.com/play/zufree-121.php?c=3210
+#EXTINF:-1 group-title="Lista 03", NFL Network
+http://blackaddon.com/play/zufree-121.php?c=3211
+#EXTINF:-1 group-title="Lista 03", Outdoor Channel
+http://blackaddon.com/play/zufree-121.php?c=3212
+#EXTINF:-1 group-title="Lista 03", SEC ESPN Network
+http://blackaddon.com/play/zufree-121.php?c=3213
+#EXTINF:-1 group-title="Lista 03", TUDN MX
+http://blackaddon.com/play/zufree-121.php?c=3214
+#EXTINF:-1 group-title="Lista 03", TUDN USA
+http://blackaddon.com/play/zufree-121.php?c=3215
+#EXTINF:-1 group-title="Lista 03", TVC Deportes
+http://blackaddon.com/play/zufree-121.php?c=3216
+#EXTINF:-1 group-title="Lista 03", TyC Sports
+http://blackaddon.com/play/zufree-121.php?c=3217
+#EXTINF:-1 group-title="Lista 03", UFC Fight Pass
+http://blackaddon.com/play/zufree-121.php?c=3218
+#EXTINF:-1 group-title="Lista 03", WinSports
+http://blackaddon.com/play/zufree-121.php?c=3219
+#EXTINF:-1 group-title="Lista 03", Barca TV
+http://blackaddon.com/play/zufree-121.php?c=3220
+#EXTINF:-1 group-title="Lista 03", Eurosport 1
+http://blackaddon.com/play/zufree-121.php?c=3221
+#EXTINF:-1 group-title="Lista 03", Eurosport 2
+http://blackaddon.com/play/zufree-121.php?c=3222
+#EXTINF:-1 group-title="Lista 03", Movistar Deportes
+http://blackaddon.com/play/zufree-121.php?c=3223
+#EXTINF:-1 group-title="Lista 03", Movistar Deportes 2
+http://blackaddon.com/play/zufree-121.php?c=3224
+#EXTINF:-1 group-title="Lista 03", Movistar F1
+http://blackaddon.com/play/zufree-121.php?c=3225
+#EXTINF:-1 group-title="Lista 03", Movistar Golf
+http://blackaddon.com/play/zufree-121.php?c=3226
+#EXTINF:-1 group-title="Lista 03", Movistar Liga de Campeones
+http://blackaddon.com/play/zufree-121.php?c=3227
+#EXTINF:-1 group-title="Lista 03", Real Madrid TV
+http://blackaddon.com/play/zufree-121.php?c=3228
+#EXTINF:-1 group-title="Lista 03", Toros TV
+http://blackaddon.com/play/zufree-121.php?c=3229
+#EXTINF:-1 group-title="Lista 03", Argentina - ESPN
+http://blackaddon.com/play/zufree-121.php?c=3230
+#EXTINF:-1 group-title="Lista 03", Argentina - ESPN 2
+http://blackaddon.com/play/zufree-121.php?c=3231
+#EXTINF:-1 group-title="Lista 03", Argentina - ESPN 3
+http://blackaddon.com/play/zufree-121.php?c=3232
+#EXTINF:-1 group-title="Lista 03", Argentina - FOX Sports
+http://blackaddon.com/play/zufree-121.php?c=3233
+#EXTINF:-1 group-title="Lista 03", Argentina - FOX Sports 2
+http://blackaddon.com/play/zufree-121.php?c=3234
+#EXTINF:-1 group-title="Lista 03", Argentina - FOX Sports 3
+http://blackaddon.com/play/zufree-121.php?c=3235
+#EXTINF:-1 group-title="Lista 03", Argentina - FOX Sports Premium
+http://blackaddon.com/play/zufree-121.php?c=3236
+#EXTINF:-1 group-title="Lista 03", Argentina - TNT Sports
+http://blackaddon.com/play/zufree-121.php?c=3237
+#EXTINF:-1 group-title="Lista 03", Argentina - TYC Sports
+http://blackaddon.com/play/zufree-121.php?c=3238
+#EXTINF:-1 group-title="Lista 03", Brasil - Sport TV 1
+http://blackaddon.com/play/zufree-121.php?c=3239
+#EXTINF:-1 group-title="Lista 03", Chile - CFD
+http://blackaddon.com/play/zufree-121.php?c=3240
+#EXTINF:-1 group-title="Lista 03", Chile - CDF Estadio
+http://blackaddon.com/play/zufree-121.php?c=3241
+#EXTINF:-1 group-title="Lista 03", Chile - CDF Premium
+http://blackaddon.com/play/zufree-121.php?c=3242
+#EXTINF:-1 group-title="Lista 03", Chile - CDO Premium
+http://blackaddon.com/play/zufree-121.php?c=3243
+#EXTINF:-1 group-title="Lista 03", Colombia - Win Sports
+http://blackaddon.com/play/zufree-121.php?c=3244
+#EXTINF:-1 group-title="Lista 03", Colombia - Win Sports +
+http://blackaddon.com/play/zufree-121.php?c=3245
+#EXTINF:-1 group-title="Lista 03", Sudamerica - DirecTV Sports
+http://blackaddon.com/play/zufree-121.php?c=3246
+#EXTINF:-1 group-title="Lista 03", Sudamerica - DirecTV Sports 2
+http://blackaddon.com/play/zufree-121.php?c=3247
+#EXTINF:-1 group-title="Lista 03", Sudamerica - DirecTV Sports +
+http://blackaddon.com/play/zufree-121.php?c=3248
+#EXTINF:-1 group-title="Lista 03", Animal Planet
+http://blackaddon.com/play/zufree-121.php?c=3249
+#EXTINF:-1 group-title="Lista 03", Discovery Channel
+http://blackaddon.com/play/zufree-121.php?c=3250
+#EXTINF:-1 group-title="Lista 03", Discovery Civilization
+http://blackaddon.com/play/zufree-121.php?c=3251
+#EXTINF:-1 group-title="Lista 03", Discovery H&H
+http://blackaddon.com/play/zufree-121.php?c=3252
+#EXTINF:-1 group-title="Lista 03", Discovery Science
+http://blackaddon.com/play/zufree-121.php?c=3253
+#EXTINF:-1 group-title="Lista 03", Discovery Theater
+http://blackaddon.com/play/zufree-121.php?c=3254
+#EXTINF:-1 group-title="Lista 03", Discovery TLC
+http://blackaddon.com/play/zufree-121.php?c=3255
+#EXTINF:-1 group-title="Lista 03", Discovery Turbo
+http://blackaddon.com/play/zufree-121.php?c=3256
+#EXTINF:-1 group-title="Lista 03", Discovery World
+http://blackaddon.com/play/zufree-121.php?c=3257
+#EXTINF:-1 group-title="Lista 03", H2
+http://blackaddon.com/play/zufree-121.php?c=3258
+#EXTINF:-1 group-title="Lista 03", HGTV
+http://blackaddon.com/play/zufree-121.php?c=3259
+#EXTINF:-1 group-title="Lista 03", History
+http://blackaddon.com/play/zufree-121.php?c=3260
+#EXTINF:-1 group-title="Lista 03", Investigation Discovery
+http://blackaddon.com/play/zufree-121.php?c=3261
+#EXTINF:-1 group-title="Lista 03", NatGeo
+http://blackaddon.com/play/zufree-121.php?c=3262
+#EXTINF:-1 group-title="Lista 03", NatGeo Wild
+http://blackaddon.com/play/zufree-121.php?c=3263
+#EXTINF:-1 group-title="Lista 03", Baby TV
+http://blackaddon.com/play/zufree-121.php?c=3264
+#EXTINF:-1 group-title="Lista 03", Baby First
+http://blackaddon.com/play/zufree-121.php?c=3265
+#EXTINF:-1 group-title="Lista 03", Boomerang
+http://blackaddon.com/play/zufree-121.php?c=3266
+#EXTINF:-1 group-title="Lista 03", Cartoon Network
+http://blackaddon.com/play/zufree-121.php?c=3267
+#EXTINF:-1 group-title="Lista 03", Discovery KIDS
+http://blackaddon.com/play/zufree-121.php?c=3268
+#EXTINF:-1 group-title="Lista 03", Disney Channel
+http://blackaddon.com/play/zufree-121.php?c=3269
+#EXTINF:-1 group-title="Lista 03", Disney Junior
+http://blackaddon.com/play/zufree-121.php?c=3270
+#EXTINF:-1 group-title="Lista 03", Disney XD
+http://blackaddon.com/play/zufree-121.php?c=3271
+#EXTINF:-1 group-title="Lista 03", NatGeo KIDS
+http://blackaddon.com/play/zufree-121.php?c=3272
+#EXTINF:-1 group-title="Lista 03", Nickelodeon
+http://blackaddon.com/play/zufree-121.php?c=3273
+#EXTINF:-1 group-title="Lista 03", Nick 2 (TeenNick)
+http://blackaddon.com/play/zufree-121.php?c=3274
+#EXTINF:-1 group-title="Lista 03", Nick JR
+http://blackaddon.com/play/zufree-121.php?c=3275
+#EXTINF:-1 group-title="Lista 03", Nicktoons
+http://blackaddon.com/play/zufree-121.php?c=3276
+#EXTINF:-1 group-title="Lista 03", Tooncast
+http://blackaddon.com/play/zufree-121.php?c=3277
+#EXTINF:-1 group-title="Lista 03", Az Cinema
+http://blackaddon.com/play/zufree-121.php?c=3278
+#EXTINF:-1 group-title="Lista 03", Cinelatino
+http://blackaddon.com/play/zufree-121.php?c=3279
+#EXTINF:-1 group-title="Lista 03", Cinecanal
+http://blackaddon.com/play/zufree-121.php?c=3280
+#EXTINF:-1 group-title="Lista 03", Cinemax
+http://blackaddon.com/play/zufree-121.php?c=3281
+#EXTINF:-1 group-title="Lista 03", De Pelicula
+http://blackaddon.com/play/zufree-121.php?c=3282
+#EXTINF:-1 group-title="Lista 03", De Pelicula Clasico
+http://blackaddon.com/play/zufree-121.php?c=3283
+#EXTINF:-1 group-title="Lista 03", De Pelicula Plus
+http://blackaddon.com/play/zufree-121.php?c=3284
+#EXTINF:-1 group-title="Lista 03", FOX Premium Action (Star Action)
+http://blackaddon.com/play/zufree-121.php?c=3285
+#EXTINF:-1 group-title="Lista 03", FOX Cinema (Star Cinema)
+http://blackaddon.com/play/zufree-121.php?c=3286
+#EXTINF:-1 group-title="Lista 03", Star Classics (Fox Premium Classics)
+http://blackaddon.com/play/zufree-121.php?c=3287
+#EXTINF:-1 group-title="Lista 03", FOX Comedy (Star Comedy)
+http://blackaddon.com/play/zufree-121.php?c=3288
+#EXTINF:-1 group-title="Lista 03", FOX Family (Star Fun)
+http://blackaddon.com/play/zufree-121.php?c=3289
+#EXTINF:-1 group-title="Lista 03", FOX Premium Movies (Star Hits)
+http://blackaddon.com/play/zufree-121.php?c=3290
+#EXTINF:-1 group-title="Lista 03", FXM
+http://blackaddon.com/play/zufree-121.php?c=3291
+#EXTINF:-1 group-title="Lista 03", Golden
+http://blackaddon.com/play/zufree-121.php?c=3292
+#EXTINF:-1 group-title="Lista 03", Golden EDGE
+http://blackaddon.com/play/zufree-121.php?c=3293
+#EXTINF:-1 group-title="Lista 03", Golden Plus
+http://blackaddon.com/play/zufree-121.php?c=3294
+#EXTINF:-1 group-title="Lista 03", Golden Premier
+http://blackaddon.com/play/zufree-121.php?c=3295
+#EXTINF:-1 group-title="Lista 03", HBO
+http://blackaddon.com/play/zufree-121.php?c=3296
+#EXTINF:-1 group-title="Lista 03", HBO 2
+http://blackaddon.com/play/zufree-121.php?c=3297
+#EXTINF:-1 group-title="Lista 03", HBO Family
+http://blackaddon.com/play/zufree-121.php?c=3298
+#EXTINF:-1 group-title="Lista 03", HBO Mundi
+http://blackaddon.com/play/zufree-121.php?c=3299
+#EXTINF:-1 group-title="Lista 03", HBO Plus
+http://blackaddon.com/play/zufree-121.php?c=3300
+#EXTINF:-1 group-title="Lista 03", HBO Signature
+http://blackaddon.com/play/zufree-121.php?c=3301
+#EXTINF:-1 group-title="Lista 03", HBO Xtreme
+http://blackaddon.com/play/zufree-121.php?c=3302
+#EXTINF:-1 group-title="Lista 03", I.Sat
+http://blackaddon.com/play/zufree-121.php?c=3303
+#EXTINF:-1 group-title="Lista 03", HBO POP
+http://blackaddon.com/play/zufree-121.php?c=3304
+#EXTINF:-1 group-title="Lista 03", Paramount Channel
+http://blackaddon.com/play/zufree-121.php?c=3305
+#EXTINF:-1 group-title="Lista 03", Space
+http://blackaddon.com/play/zufree-121.php?c=3306
+#EXTINF:-1 group-title="Lista 03", Studio Universal
+http://blackaddon.com/play/zufree-121.php?c=3307
+#EXTINF:-1 group-title="Lista 03", Sundance Channel
+http://blackaddon.com/play/zufree-121.php?c=3308
+#EXTINF:-1 group-title="Lista 03", SyFy
+http://blackaddon.com/play/zufree-121.php?c=3309
+#EXTINF:-1 group-title="Lista 03", TCM
+http://blackaddon.com/play/zufree-121.php?c=3310
+#EXTINF:-1 group-title="Lista 03", TNT
+http://blackaddon.com/play/zufree-121.php?c=3311
+#EXTINF:-1 group-title="Lista 03", Universal Channel
+http://blackaddon.com/play/zufree-121.php?c=3312
+#EXTINF:-1 group-title="Lista 03", Bandamax
+http://blackaddon.com/play/zufree-121.php?c=3313
+#EXTINF:-1 group-title="Lista 03", MTV
+http://blackaddon.com/play/zufree-121.php?c=3314
+#EXTINF:-1 group-title="Lista 03", MTV Hits
+http://blackaddon.com/play/zufree-121.php?c=3315
+#EXTINF:-1 group-title="Lista 03", MTV Live
+http://blackaddon.com/play/zufree-121.php?c=3316
+#EXTINF:-1 group-title="Lista 03", Telehit Urbano (Telehit Musica)
+http://blackaddon.com/play/zufree-121.php?c=3317
+#EXTINF:-1 group-title="Lista 03", Telehit
+http://blackaddon.com/play/zufree-121.php?c=3318
+#EXTINF:-1 group-title="Lista 03", Telehit Plus
+http://blackaddon.com/play/zufree-121.php?c=3319
+#EXTINF:-1 group-title="Lista 03", VH1
+http://blackaddon.com/play/zufree-121.php?c=3320
+#EXTINF:-1 group-title="Lista 03", VH1 Classics
+http://blackaddon.com/play/zufree-121.php?c=3321
+#EXTINF:-1 group-title="Lista 03", Maria Vision
+http://blackaddon.com/play/zufree-121.php?c=3322
+#EXTINF:-1 group-title="Lista 03", ADN 40
+http://blackaddon.com/play/zufree-121.php?c=3323
+#EXTINF:-1 group-title="Lista 03", El Financiero Bloomberg
+http://blackaddon.com/play/zufree-121.php?c=3324
+#EXTINF:-1 group-title="Lista 03", CNN en Espanol
+http://blackaddon.com/play/zufree-121.php?c=3325
+#EXTINF:-1 group-title="Lista 03", CNN USA
+http://blackaddon.com/play/zufree-121.php?c=3326
+#EXTINF:-1 group-title="Lista 03", Foro TV
+http://blackaddon.com/play/zufree-121.php?c=3327
+#EXTINF:-1 group-title="Lista 03", Milenio
+http://blackaddon.com/play/zufree-121.php?c=3328
+#EXTINF:-1 group-title="Lista 03", Antena 3
+http://blackaddon.com/play/zufree-121.php?c=3329
+#EXTINF:-1 group-title="Lista 03", Shark Tank México Temporada 2
+http://blackaddon.com/play/zufree-121.php?c=3330
+#EXTINF:-1 group-title="Lista 03", Los Simpsons
+http://blackaddon.com/play/zufree-121.php?c=3331
+#EXTINF:-1 group-title="Lista 03", Malcolm el de enmedio
+http://blackaddon.com/play/zufree-121.php?c=3332
+#EXTINF:-1 group-title="Lista 03", Mazinger Z
+http://blackaddon.com/play/zufree-121.php?c=3333
+#EXTINF:-1 group-title="Lista 03", Mr. Bean
+http://blackaddon.com/play/zufree-121.php?c=3334
+#EXTINF:-1 group-title="Lista 03", Naruto
+http://blackaddon.com/play/zufree-121.php?c=3335
+#EXTINF:-1 group-title="Lista 03", Pablo Escobar group-title="Lista 03",  el Patrón del Mal
+http://blackaddon.com/play/zufree-121.php?c=3336
+#EXTINF:-1 group-title="Lista 03", Pinky y Cerebro
+http://blackaddon.com/play/zufree-121.php?c=3337
+#EXTINF:-1 group-title="Lista 03", Pokémon
+http://blackaddon.com/play/zufree-121.php?c=3338
+#EXTINF:-1 group-title="Lista 03", Sailor Moon
+http://blackaddon.com/play/zufree-121.php?c=3339
+#EXTINF:-1 group-title="Lista 03", Scooby Doo
+http://blackaddon.com/play/zufree-121.php?c=3340
+#EXTINF:-1 group-title="Lista 03", Shark Tank México Temporada 1
+http://blackaddon.com/play/zufree-121.php?c=3341
+#EXTINF:-1 group-title="Lista 03", Los Pitufos
+http://blackaddon.com/play/zufree-121.php?c=3342
+#EXTINF:-1 group-title="Lista 03", Smallville
+http://blackaddon.com/play/zufree-121.php?c=3343
+#EXTINF:-1 group-title="Lista 03", South Park
+http://blackaddon.com/play/zufree-121.php?c=3344
+#EXTINF:-1 group-title="Lista 03", Spiderman
+http://blackaddon.com/play/zufree-121.php?c=3345
+#EXTINF:-1 group-title="Lista 03", Stranger Things
+http://blackaddon.com/play/zufree-121.php?c=3346
+#EXTINF:-1 group-title="Lista 03", The Walking Dead
+http://blackaddon.com/play/zufree-121.php?c=3347
+#EXTINF:-1 group-title="Lista 03", Thundercats
+http://blackaddon.com/play/zufree-121.php?c=3348
+#EXTINF:-1 group-title="Lista 03", Tom y Jerry
+http://blackaddon.com/play/zufree-121.php?c=3349
+#EXTINF:-1 group-title="Lista 03", Una Familia de 10
+http://blackaddon.com/play/zufree-121.php?c=3350
+#EXTINF:-1 group-title="Lista 03", X-Men
+http://blackaddon.com/play/zufree-121.php?c=3351
+#EXTINF:-1 group-title="Lista 03", fh
+http://blackaddon.com/play/zufree-121.php?c=3352
+#EXTINF:-1 group-title="Lista 03", Figueirense vs Ponte Preta / 1:00pm
+http://blackaddon.com/play/zufree-121.php?c=3353
+#EXTINF:-1 group-title="Lista 03", El Chavo del 8 Animado
+http://blackaddon.com/play/zufree-121.php?c=3354
+#EXTINF:-1 group-title="Lista 03", Bob Esponja
+http://blackaddon.com/play/zufree-121.php?c=3355
+#EXTINF:-1 group-title="Lista 03", Breaking Bad
+http://blackaddon.com/play/zufree-121.php?c=3356
+#EXTINF:-1 group-title="Lista 03", Coraje el Perro Cobarde
+http://blackaddon.com/play/zufree-121.php?c=3357
+#EXTINF:-1 group-title="Lista 03", Desafío sobre Fuego
+http://blackaddon.com/play/zufree-121.php?c=3358
+#EXTINF:-1 group-title="Lista 03", Don Gato y su Pandilla
+http://blackaddon.com/play/zufree-121.php?c=3359
+#EXTINF:-1 group-title="Lista 03", Dragon Ball
+http://blackaddon.com/play/zufree-121.php?c=3360
+#EXTINF:-1 group-title="Lista 03", Dragon Ball GT
+http://blackaddon.com/play/zufree-121.php?c=3361
+#EXTINF:-1 group-title="Lista 03", Dragon Ball Super
+http://blackaddon.com/play/zufree-121.php?c=3362
+#EXTINF:-1 group-title="Lista 03", Dragon Ball Z
+http://blackaddon.com/play/zufree-121.php?c=3363
+#EXTINF:-1 group-title="Lista 03", El Chapulín Colorado
+http://blackaddon.com/play/zufree-121.php?c=3364
+#EXTINF:-1 group-title="Lista 03", El Chavo del 8
+http://blackaddon.com/play/zufree-121.php?c=3365
+#EXTINF:-1 group-title="Lista 03", Barney y sus amigos
+http://blackaddon.com/play/zufree-121.php?c=3366
+#EXTINF:-1 group-title="Lista 03", El Chema
+http://blackaddon.com/play/zufree-121.php?c=3367
+#EXTINF:-1 group-title="Lista 03", El Correcaminos
+http://blackaddon.com/play/zufree-121.php?c=3368
+#EXTINF:-1 group-title="Lista 03", El Señor de los Cielos
+http://blackaddon.com/play/zufree-121.php?c=3369
+#EXTINF:-1 group-title="Lista 03", Familia P. Luche
+http://blackaddon.com/play/zufree-121.php?c=3370
+#EXTINF:-1 group-title="Lista 03", Futurama
+http://blackaddon.com/play/zufree-121.php?c=3371
+#EXTINF:-1 group-title="Lista 03", Game of Thrones
+http://blackaddon.com/play/zufree-121.php?c=3372
+#EXTINF:-1 group-title="Lista 03", Héroes en Pijamas
+http://blackaddon.com/play/zufree-121.php?c=3373
+#EXTINF:-1 group-title="Lista 03", La Casa de Papel
+http://blackaddon.com/play/zufree-121.php?c=3374
+#EXTINF:-1 group-title="Lista 03", La Pantera Rosa
+http://blackaddon.com/play/zufree-121.php?c=3375
+#EXTINF:-1 group-title="Lista 03", La Rosa de Guadalupe
+http://blackaddon.com/play/zufree-121.php?c=3376
+#EXTINF:-1 group-title="Lista 03", Los Picapiedra
+http://blackaddon.com/play/zufree-121.php?c=3377
+
+
+#EXTINF:-1 group-title="Lista 03", [SD:] ENTRETE - UNIVISION
+http://blackaddon.com/play/zufree-121.php?c=3379
+#EXTINF:-1 group-title="Lista 03", [SD:] SERIE - CANAL FOX
+http://blackaddon.com/play/zufree-121.php?c=3380
+#EXTINF:-1 group-title="Lista 03", [SD:] SERIE - FX
+http://blackaddon.com/play/zufree-121.php?c=3381
+#EXTINF:-1 group-title="Lista 03", [SD:] SERIE - A&E LATINO
+http://blackaddon.com/play/zufree-121.php?c=3382
+#EXTINF:-1 group-title="Lista 03", [SD:] SERIE - FOX LIFE
+http://blackaddon.com/play/zufree-121.php?c=3383
+#EXTINF:-1 group-title="Lista 03", [SD:] SERIE - TBS
+http://blackaddon.com/play/zufree-121.php?c=3384
+#EXTINF:-1 group-title="Lista 03", [SD:] SERIE - SYFY
+http://blackaddon.com/play/zufree-121.php?c=3385
+#EXTINF:-1 group-title="Lista 03", [SD:] SERIE - AXN
+http://blackaddon.com/play/zufree-121.php?c=3386
+#EXTINF:-1 group-title="Lista 03", [SD:] SERIE - UNIVERSAL
+http://blackaddon.com/play/zufree-121.php?c=3387
+#EXTINF:-1 group-title="Lista 03", [SD:] SERIE - Warner
+http://blackaddon.com/play/zufree-121.php?c=3388
+#EXTINF:-1 group-title="Lista 03", [SD:] SERIE - SONY
+http://blackaddon.com/play/zufree-121.php?c=3389
+#EXTINF:-1 group-title="Lista 03", [SD:] SERIE - STUDIO UNIVERSAL
+http://blackaddon.com/play/zufree-121.php?c=3390
+#EXTINF:-1 group-title="Lista 03", [SD:] SERIE - TNT SERIES
+http://blackaddon.com/play/zufree-121.php?c=3391
+#EXTINF:-1 group-title="Lista 03", [SD:] ENTRETE - E!
+http://blackaddon.com/play/zufree-121.php?c=3392
+#EXTINF:-1 group-title="Lista 03", [SD:] ENTRETE - COMEDY CENTRAL
+http://blackaddon.com/play/zufree-121.php?c=3393
+#EXTINF:-1 group-title="Lista 03", [SD:] CULTURA - HISTORY CHANNEL
+http://blackaddon.com/play/zufree-121.php?c=3394
+#EXTINF:-1 group-title="Lista 03", [SD:] CULTURA - NATIONAL GEOGRAPHIC
+http://blackaddon.com/play/zufree-121.php?c=3395
+#EXTINF:-1 group-title="Lista 03", [SD:] CULTURA - DISCOVERY CHANNEL
+http://blackaddon.com/play/zufree-121.php?c=3396
+#EXTINF:-1 group-title="Lista 03", [SD:] CULTURA - ANIMAL PLANET
+http://blackaddon.com/play/zufree-121.php?c=3397
+#EXTINF:-1 group-title="Lista 03", [SD:] KIDS - NICK JR
+http://blackaddon.com/play/zufree-121.php?c=3398
+#EXTINF:-1 group-title="Lista 03", [SD:] KIDS - DISCOVERY KIDS
+http://blackaddon.com/play/zufree-121.php?c=3399
+#EXTINF:-1 group-title="Lista 03", [SD:] KIDS - DISNEY JUNIOR
+http://blackaddon.com/play/zufree-121.php?c=3400
+#EXTINF:-1 group-title="Lista 03", [SD:] KIDS - NICKELODEON
+http://blackaddon.com/play/zufree-121.php?c=3401
+#EXTINF:-1 group-title="Lista 03", [SD:] KIDS - DISNEY XD
+http://blackaddon.com/play/zufree-121.php?c=3402
+#EXTINF:-1 group-title="Lista 03", [SD:] KIDS - DISNEY CHANNEL
+http://blackaddon.com/play/zufree-121.php?c=3403
+#EXTINF:-1 group-title="Lista 03", [SD:] DEPORTES - ESPN 3
+http://blackaddon.com/play/zufree-121.php?c=3404
+#EXTINF:-1 group-title="Lista 03", [SD:] DEPORTES - ESPN 2
+http://blackaddon.com/play/zufree-121.php?c=3405
+#EXTINF:-1 group-title="Lista 03", [SD:] DEPORTES - ESPN
+http://blackaddon.com/play/zufree-121.php?c=3406
+#EXTINF:-1 group-title="Lista 03", [SD:] DEPORTES - CLARO SPORT
+http://blackaddon.com/play/zufree-121.php?c=3407
+#EXTINF:-1 group-title="Lista 03", [SD:] ENTRETE - HOLA TV
+http://blackaddon.com/play/zufree-121.php?c=3408
+#EXTINF:-1 group-title="Lista 03", [SD:] CINE - TNT
+http://blackaddon.com/play/zufree-121.php?c=3409
+#EXTINF:-1 group-title="Lista 03", [SD:] CINE - HBO 2
+http://blackaddon.com/play/zufree-121.php?c=3410
+#EXTINF:-1 group-title="Lista 03", [SD:] CINE - HBO FAMILY
+http://blackaddon.com/play/zufree-121.php?c=3411
+#EXTINF:-1 group-title="Lista 03", [SD:] CINE - FOX FAMILY
+http://blackaddon.com/play/zufree-121.php?c=3412
+#EXTINF:-1 group-title="Lista 03", [SD:] CINE - HBO XTREME
+http://blackaddon.com/play/zufree-121.php?c=3413
+#EXTINF:-1 group-title="Lista 03", [SD:] KIDS - BABY TV
+http://blackaddon.com/play/zufree-121.php?c=3414
+#EXTINF:-1 group-title="Lista 03", [SD:] KIDS - BOORMERANG MX
+http://blackaddon.com/play/zufree-121.php?c=3415
+#EXTINF:-1 group-title="Lista 03", [SD:] KIDS - NET GEO KIDS
+http://blackaddon.com/play/zufree-121.php?c=3416
+#EXTINF:-1 group-title="Lista 03", [SD:] DEPORTES - ESPN DEPORTES
+http://blackaddon.com/play/zufree-121.php?c=3417
+#EXTINF:-1 group-title="Lista 03", [SD:] CULTURA - NET GEO
+http://blackaddon.com/play/zufree-121.php?c=3418
+#EXTINF:-1 group-title="Lista 03", [SD:] CINE -SPACE MX
+http://blackaddon.com/play/zufree-121.php?c=3419
+#EXTINF:-1 group-title="Lista 03", [SD:] MUSICA -MTV HITLIST
+http://blackaddon.com/play/zufree-121.php?c=3420
+#EXTINF:-1 group-title="Lista 03", [SD:] MUSICA - MTV
+http://blackaddon.com/play/zufree-121.php?c=3421
+#EXTINF:-1 group-title="Lista 03", [SD:] MUSICA - VH1
+http://blackaddon.com/play/zufree-121.php?c=3422
+#EXTINF:-1 group-title="Lista 03", [SD:] MUSICA -VIDEO ROLA
+http://blackaddon.com/play/zufree-121.php?c=3423
+#EXTINF:-1 group-title="Lista 03", [SD:] USA -FOODN
+http://blackaddon.com/play/zufree-121.php?c=3424
+#EXTINF:-1 group-title="Lista 03", [SD:] USA -DISCOVERY FAMILY
+http://blackaddon.com/play/zufree-121.php?c=3425
+#EXTINF:-1 group-title="Lista 03", [SD:] USA - BRAVO TV
+http://blackaddon.com/play/zufree-121.php?c=3426
+#EXTINF:-1 group-title="Lista 03", [SD:] NOTICIA - CNN
+http://blackaddon.com/play/zufree-121.php?c=3427
+#EXTINF:-1 group-title="Lista 03", [SD:] ENTRETE - ATRES
+http://blackaddon.com/play/zufree-121.php?c=3428
+#EXTINF:-1 group-title="Lista 03", [SD:] MEXICO - AZTECA 7
+http://blackaddon.com/play/zufree-121.php?c=3429
+#EXTINF:-1 group-title="Lista 03", [SD:] MEXICO - IMAGEN
+http://blackaddon.com/play/zufree-121.php?c=3430
+#EXTINF:-1 group-title="Lista 03", [SD:] MEXICO - CANAL 22
+http://blackaddon.com/play/zufree-121.php?c=3431
+#EXTINF:-1 group-title="Lista 03", [SD:] MEXICO - ONCE TV MX
+http://blackaddon.com/play/zufree-121.php?c=3432
+#EXTINF:-1 group-title="Lista 03", [SD:] DEPORTES - MLB
+http://blackaddon.com/play/zufree-121.php?c=3433
+#EXTINF:-1 group-title="Lista 03", [SD:] DEPORTES - NBA
+http://blackaddon.com/play/zufree-121.php?c=3434
+#EXTINF:-1 group-title="Lista 03", [SD:] DEPORTES - REALMADRID
+http://blackaddon.com/play/zufree-121.php?c=3435
+#EXTINF:-1 group-title="Lista 03", [SD:] DEPORTES - FOX SPORT 3
+http://blackaddon.com/play/zufree-121.php?c=3436
+#EXTINF:-1 group-title="Lista 03", [HD:] DEPORTES -  ESPN 1
+http://blackaddon.com/play/zufree-121.php?c=3437
+#EXTINF:-1 group-title="Lista 03", [HD:] DEPORTES - ESPN EXTRA
+http://blackaddon.com/play/zufree-121.php?c=3438
+#EXTINF:-1 group-title="Lista 03", [HD:] DEPORTES - ESPN 2
+http://blackaddon.com/play/zufree-121.php?c=3439
+#EXTINF:-1 group-title="Lista 03", [HD:] MEXICO - MULTIMEDIOS MTY
+http://blackaddon.com/play/zufree-121.php?c=3440
+#EXTINF:-1 group-title="Lista 03", [SD:] NOTICIA - EL FINANCIERO
+http://blackaddon.com/play/zufree-121.php?c=3441
+#EXTINF:-1 group-title="Lista 03", [SD:] NOTICIA - DW
+http://blackaddon.com/play/zufree-121.php?c=3442
+#EXTINF:-1 group-title="Lista 03", [SD:] CINE - AMC
+http://blackaddon.com/play/zufree-121.php?c=3443
+#EXTINF:-1 group-title="Lista 03", [SD:] CINE - CINEMAX
+http://blackaddon.com/play/zufree-121.php?c=3444
+#EXTINF:-1 group-title="Lista 03", [SD:] CINE - CINECANAL
+http://blackaddon.com/play/zufree-121.php?c=3445
+#EXTINF:-1 group-title="Lista 03", [SD:] SERIE -FXM
+http://blackaddon.com/play/zufree-121.php?c=3446
+#EXTINF:-1 group-title="Lista 03", [SD:] CINE - CINE LATINO
+http://blackaddon.com/play/zufree-121.php?c=3447
+#EXTINF:-1 group-title="Lista 03", [SD:] ENTRETE - ISAT
+http://blackaddon.com/play/zufree-121.php?c=3448
+#EXTINF:-1 group-title="Lista 03", [SD:] CINE - PARAMOOUNT
+http://blackaddon.com/play/zufree-121.php?c=3449
+#EXTINF:-1 group-title="Lista 03", [SD:] ENTRETE - START LIFE
+http://blackaddon.com/play/zufree-121.php?c=3450
+#EXTINF:-1 group-title="Lista 03", [SD:] ENTRETE -PASIONES
+http://blackaddon.com/play/zufree-121.php?c=3451
+#EXTINF:-1 group-title="Lista 03", [SD:] CINE - GOLDEN PREMIER
+http://blackaddon.com/play/zufree-121.php?c=3452
+#EXTINF:-1 group-title="Lista 03", [SD:] CINE - FOX ACCION
+http://blackaddon.com/play/zufree-121.php?c=3453
+#EXTINF:-1 group-title="Lista 03", [SD:] CINE - FOX CINEMA
+http://blackaddon.com/play/zufree-121.php?c=3454
+#EXTINF:-1 group-title="Lista 03", [SD:] CINE -FOX CLASSICS
+http://blackaddon.com/play/zufree-121.php?c=3455
+#EXTINF:-1 group-title="Lista 03", [SD:] CINE - FOX FAMYLY
+http://blackaddon.com/play/zufree-121.php?c=3456
+#EXTINF:-1 group-title="Lista 03", [SD:] CINE - FOX MOVIES
+http://blackaddon.com/play/zufree-121.php?c=3457
+#EXTINF:-1 group-title="Lista 03", [SD:] CINE - FOX SERIES
+http://blackaddon.com/play/zufree-121.php?c=3458
+#EXTINF:-1 group-title="Lista 03", [SD:] CINE - HBO 1
+http://blackaddon.com/play/zufree-121.php?c=3459
+#EXTINF:-1 group-title="Lista 03", [SD:] CINE - HBO Plus
+http://blackaddon.com/play/zufree-121.php?c=3460
+#EXTINF:-1 group-title="Lista 03", [SD:] MEXICO - AZTECA UNO
+http://blackaddon.com/play/zufree-121.php?c=3461
+#EXTINF:-1 group-title="Lista 03", [SD:] ENTRE - AZ MUNDO
+http://blackaddon.com/play/zufree-121.php?c=3462
+#EXTINF:-1 group-title="Lista 03", [SD:] ENTRE - LIFETIME
+http://blackaddon.com/play/zufree-121.php?c=3463
+#EXTINF:-1 group-title="Lista 03", [HD:] ENTRE - UNICABLE
+http://blackaddon.com/play/zufree-121.php?c=3464
+#EXTINF:-1 group-title="Lista 03", [SD:] ENTRE - UNIMAS
+http://blackaddon.com/play/zufree-121.php?c=3465
+#EXTINF:-1 group-title="Lista 03", [SD:] ENTRE - GALAVISION
+http://blackaddon.com/play/zufree-121.php?c=3466
+#EXTINF:-1 group-title="Lista 03", [SD:] CINE - MC
+http://blackaddon.com/play/zufree-121.php?c=3467
+#EXTINF:-1 group-title="Lista 03", [SD:] CINE - MULTIPREMIER
+http://blackaddon.com/play/zufree-121.php?c=3468
+#EXTINF:-1 group-title="Lista 03", [SD:] ENTRE - TELENOVELA PR
+http://blackaddon.com/play/zufree-121.php?c=3469
+#EXTINF:-1 group-title="Lista 03", [SD:] CULTURA - DISCOVERY TURBO
+http://blackaddon.com/play/zufree-121.php?c=3470
+#EXTINF:-1 group-title="Lista 03", [SD:] CULTURA - DISCOVERY H&H
+http://blackaddon.com/play/zufree-121.php?c=3471
+#EXTINF:-1 group-title="Lista 03", [SD:] CULTURA - DISCOVERY ID
+http://blackaddon.com/play/zufree-121.php?c=3472
+#EXTINF:-1 group-title="Lista 03", [SD:] CULTURA - DISCOVERY TLC
+http://blackaddon.com/play/zufree-121.php?c=3473
+#EXTINF:-1 group-title="Lista 03", [HD:] CULTURA - DISCOVERY THEATER
+http://blackaddon.com/play/zufree-121.php?c=3474
+#EXTINF:-1 group-title="Lista 03", [SD:] CULTURA - H2
+http://blackaddon.com/play/zufree-121.php?c=3475
+#EXTINF:-1 group-title="Lista 03", [SD:] MEXICO - CANAL 5
+http://blackaddon.com/play/zufree-121.php?c=3476
+#EXTINF:-1 group-title="Lista 03", [SD:] MEXICO - LAS ESTRELLAS
+http://blackaddon.com/play/zufree-121.php?c=3477
+#EXTINF:-1 group-title="Lista 03", [HD:] ENTRETE - ANTENA 3
+http://blackaddon.com/play/zufree-121.php?c=3478
+#EXTINF:-1 group-title="Lista 03", [SD:] USA - UNIVERSO
+http://blackaddon.com/play/zufree-121.php?c=3479
+#EXTINF:-1 group-title="Lista 03", [SD:] DEPORTES - BEIN SPORT
+http://blackaddon.com/play/zufree-121.php?c=3480
+#EXTINF:-1 group-title="Lista 03", [SD:] USA - NBCSN
+http://blackaddon.com/play/zufree-121.php?c=3481
+#EXTINF:-1 group-title="Lista 03", [SD:] DEPORTES - FOX SPORT 1
+http://blackaddon.com/play/zufree-121.php?c=3482
+#EXTINF:-1 group-title="Lista 03", [SD:] DEPORTES - FOX SPORT 2
+http://blackaddon.com/play/zufree-121.php?c=3483
+
+
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",Paramount Channel
+http://blackaddon.com/play/megapro-121.php?c=120
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",Multipremier
+http://blackaddon.com/play/megapro-121.php?c=129
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",AMC
+http://blackaddon.com/play/megapro-121.php?c=6
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",A&E
+http://blackaddon.com/play/megapro-121.php?c=1
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",AXN
+http://blackaddon.com/play/megapro-121.php?c=2
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",Cinecanal
+http://blackaddon.com/play/megapro-121.php?c=19
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",Cine Latino
+http://blackaddon.com/play/megapro-121.php?c=20
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",Cinema Dinamita
+http://blackaddon.com/play/megapro-121.php?c=21
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",Cinema Plus
+http://blackaddon.com/play/megapro-121.php?c=22
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",City TV
+http://blackaddon.com/play/megapro-121.php?c=23
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",Claro Cinema
+http://blackaddon.com/play/megapro-121.php?c=24
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",De Pelicula Plus
+http://blackaddon.com/play/megapro-121.php?c=34
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",Golden
+http://blackaddon.com/play/megapro-121.php?c=67
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",Fx Movie Mex
+http://blackaddon.com/play/megapro-121.php?c=69
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",Star Channel
+http://blackaddon.com/play/megapro-121.php?c=91
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",FX
+http://blackaddon.com/play/megapro-121.php?c=92
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",Euro Channel
+http://blackaddon.com/play/megapro-121.php?c=93
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",Warner Channel
+http://blackaddon.com/play/megapro-121.php?c=99
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",Universal Channel
+http://blackaddon.com/play/megapro-121.php?c=103
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",TNT Series
+http://blackaddon.com/play/megapro-121.php?c=109
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",TNT
+http://blackaddon.com/play/megapro-121.php?c=110
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",TLC
+http://blackaddon.com/play/megapro-121.php?c=111
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",TCM
+http://blackaddon.com/play/megapro-121.php?c=112
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",TBS
+http://blackaddon.com/play/megapro-121.php?c=113
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",Sundance Channel
+http://blackaddon.com/play/megapro-121.php?c=114
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",Studio Universal
+http://blackaddon.com/play/megapro-121.php?c=115
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",Space
+http://blackaddon.com/play/megapro-121.php?c=116
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",Sony
+http://blackaddon.com/play/megapro-121.php?c=117
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",ISAT
+http://blackaddon.com/play/megapro-121.php?c=369
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",Film&Arts
+http://blackaddon.com/play/megapro-121.php?c=370
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",Syfy
+http://blackaddon.com/play/megapro-121.php?c=371
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",De Pelicula
+http://blackaddon.com/play/megapro-121.php?c=324
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",HBO plus
+http://blackaddon.com/play/megapro-121.php?c=59
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",HBO Subtitulado
+http://blackaddon.com/play/megapro-121.php?c=60
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",HBO Signature
+http://blackaddon.com/play/megapro-121.php?c=61
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",HBO Family
+http://blackaddon.com/play/megapro-121.php?c=62
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",HBO 2
+http://blackaddon.com/play/megapro-121.php?c=63
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",HBO
+http://blackaddon.com/play/megapro-121.php?c=64
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",Star Series Subtitulado
+http://blackaddon.com/play/megapro-121.php?c=78
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",Star Hits
+http://blackaddon.com/play/megapro-121.php?c=81
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",Star Series
+http://blackaddon.com/play/megapro-121.php?c=79
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",Star Fun
+http://blackaddon.com/play/megapro-121.php?c=84
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",Star Comedy
+http://blackaddon.com/play/megapro-121.php?c=85
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",Star Classics
+http://blackaddon.com/play/megapro-121.php?c=86
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",Star Cinema Subtitulado
+http://blackaddon.com/play/megapro-121.php?c=87
+#EXTINF:-1 user-agent="espro" tvg-id="" group-title="CINE Y SERIES",Star Cinema
+http://blackaddon.com/play/megapro-121.php?c=88
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",Star Action MX
+http://blackaddon.com/play/megapro-121.php?c=89
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",Star Action
+http://blackaddon.com/play/megapro-121.php?c=90
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",HBO Pop
+http://blackaddon.com/play/megapro-121.php?c=131
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",HBO Xtreme
+http://blackaddon.com/play/megapro-121.php?c=132
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",HBO Mundi
+http://blackaddon.com/play/megapro-121.php?c=133
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",Golden Plus
+http://blackaddon.com/play/megapro-121.php?c=327
+#EXTINF:-1 user-agent="espro" group-title="CINE Y SERIES",Golden Premier
+http://blackaddon.com/play/megapro-121.php?c=66
+
+
+#EXTINF:-1 user-agent="espro" group-title="ENTRETENIMIENTO",Telemundo
+http://blackaddon.com/play/megapro-121.php?c=108
+#EXTINF:-1 user-agent="espro" group-title="ENTRETENIMIENTO",RCN NVLS
+http://blackaddon.com/play/megapro-121.php?c=118
+#EXTINF:-1 user-agent="espro" group-title="ENTRETENIMIENTO",Pasiones
+http://blackaddon.com/play/megapro-121.php?c=119
+#EXTINF:-1 user-agent="espro" group-title="ENTRETENIMIENTO",Univision
+http://blackaddon.com/play/megapro-121.php?c=102
+#EXTINF:-1 user-agent="espro" group-title="ENTRETENIMIENTO",Unicable
+http://blackaddon.com/play/megapro-121.php?c=104
+#EXTINF:-1 user-agent="espro" group-title="ENTRETENIMIENTO",Tru TV
+http://blackaddon.com/play/megapro-121.php?c=105
+#EXTINF:-1 user-agent="espro" group-title="ENTRETENIMIENTO",Tve
+http://blackaddon.com/play/megapro-121.php?c=106
+#EXTINF:-1 user-agent="espro" group-title="ENTRETENIMIENTO",Star Life Mex
+http://blackaddon.com/play/megapro-121.php?c=82
+#EXTINF:-1 user-agent="espro" group-title="ENTRETENIMIENTO",Fox Life
+http://blackaddon.com/play/megapro-121.php?c=83
+#EXTINF:-1 user-agent="espro" group-title="ENTRETENIMIENTO",Az Corazon
+http://blackaddon.com/play/megapro-121.php?c=4
+#EXTINF:-1 user-agent="espro" group-title="ENTRETENIMIENTO",Az Mundo
+http://blackaddon.com/play/megapro-121.php?c=5
+#EXTINF:-1 user-agent="espro" group-title="ENTRETENIMIENTO",France 24
+http://blackaddon.com/play/megapro-121.php?c=71
+#EXTINF:-1 user-agent="espro" group-title="ENTRETENIMIENTO",Glitz
+http://blackaddon.com/play/megapro-121.php?c=68
+#EXTINF:-1 user-agent="espro" group-title="ENTRETENIMIENTO",HTV
+http://blackaddon.com/play/megapro-121.php?c=57
+#EXTINF:-1 user-agent="espro" group-title="ENTRETENIMIENTO",HLN
+http://blackaddon.com/play/megapro-121.php?c=58
+#EXTINF:-1 user-agent="espro" group-title="ENTRETENIMIENTO",I.Sat
+http://blackaddon.com/play/megapro-121.php?c=53
+#EXTINF:-1 user-agent="espro" group-title="ENTRETENIMIENTO",Hola TV
+http://blackaddon.com/play/megapro-121.php?c=54
+#EXTINF:-1 user-agent="espro" group-title="ENTRETENIMIENTO",E !
+http://blackaddon.com/play/megapro-121.php?c=46
+#EXTINF:-1 user-agent="espro" group-title="ENTRETENIMIENTO",El Gourmet
+http://blackaddon.com/play/megapro-121.php?c=47
+#EXTINF:-1 user-agent="espro" group-title="ENTRETENIMIENTO",Mas Chic
+http://blackaddon.com/play/megapro-121.php?c=48
+#EXTINF:-1 user-agent="espro" group-title="ENTRETENIMIENTO",Comedy Central
+http://blackaddon.com/play/megapro-121.php?c=29
+#EXTINF:-1 user-agent="espro" group-title="ENTRETENIMIENTO",DHE
+http://blackaddon.com/play/megapro-121.php?c=31
+#EXTINF:-1 user-agent="espro" group-title="ENTRETENIMIENTO",DW
+http://blackaddon.com/play/megapro-121.php?c=32
+#EXTINF:-1 user-agent="espro" group-title="ENTRETENIMIENTO",Concert Channel
+http://blackaddon.com/play/megapro-121.php?c=30
+#EXTINF:-1 user-agent="espro" group-title="ENTRETENIMIENTO",DW America
+http://blackaddon.com/play/megapro-121.php?c=33
+#EXTINF:-1 user-agent="espro" group-title="ENTRETENIMIENTO",Antena 3 Internacional
+http://blackaddon.com/play/megapro-121.php?c=7
+#EXTINF:-1 user-agent="espro" group-title="ENTRETENIMIENTO",BBC World
+http://blackaddon.com/play/megapro-121.php?c=8
+#EXTINF:-1 user-agent="espro" group-title="ENTRETENIMIENTO",Baby TV
+http://blackaddon.com/play/megapro-121.php?c=9
+#EXTINF:-1 user-agent="espro" group-title="ENTRETENIMIENTO",Bloomberg
+http://blackaddon.com/play/megapro-121.php?c=10
+#EXTINF:-1 user-agent="espro" group-title="ENTRETENIMIENTO",CNN Espanol
+http://blackaddon.com/play/megapro-121.php?c=11
+#EXTINF:-1 user-agent="espro" group-title="ENTRETENIMIENTO",CNN Internacional
+http://blackaddon.com/play/megapro-121.php?c=12
+#EXTINF:-1 user-agent="espro" group-title="ENTRETENIMIENTO",Cable Noticias
+http://blackaddon.com/play/megapro-121.php?c=13
+#EXTINF:-1 user-agent="espro" group-title="ENTRETENIMIENTO",Canal Claro
+http://blackaddon.com/play/megapro-121.php?c=14
+#EXTINF:-1 user-agent="espro" group-title="ENTRETENIMIENTO",Caracol
+http://blackaddon.com/play/megapro-121.php?c=16
+
+
+#EXTINF:-1 user-agent="espro" group-title="DEPORTES",Fox Sports 3 Sur
+http://blackaddon.com/play/megapro-121.php?c=72
+#EXTINF:-1 user-agent="espro" group-title="DEPORTES",Fox Sports 2 MX
+http://blackaddon.com/play/megapro-121.php?c=74
+#EXTINF:-1 user-agent="espro" group-title="DEPORTES",Fox Sports 2 Sur
+http://blackaddon.com/play/megapro-121.php?c=75
+#EXTINF:-1 user-agent="espro" group-title="DEPORTES",ESPN 4 Sur
+http://blackaddon.com/play/megapro-121.php?c=76
+#EXTINF:-1 user-agent="espro" group-title="DEPORTES",Fox Sports 1 MX
+http://blackaddon.com/play/megapro-121.php?c=77
+#EXTINF:-1 user-agent="espro" group-title="DEPORTES",Claro Sports
+http://blackaddon.com/play/megapro-121.php?c=27
+#EXTINF:-1 user-agent="espro" group-title="DEPORTES",Claro Sports Latinoamerica
+http://blackaddon.com/play/megapro-121.php?c=28
+#EXTINF:-1 user-agent="espro" group-title="DEPORTES",Golf Channel
+http://blackaddon.com/play/megapro-121.php?c=65
+#EXTINF:-1 user-agent="espro" group-title="DEPORTES",Espn Extra Sur
+http://blackaddon.com/play/megapro-121.php?c=94
+#EXTINF:-1 user-agent="espro" group-title="DEPORTES",Espn 3 Sur
+http://blackaddon.com/play/megapro-121.php?c=95
+#EXTINF:-1 user-agent="espro" group-title="DEPORTES",Espn 2 Sur
+http://blackaddon.com/play/megapro-121.php?c=96
+#EXTINF:-1 user-agent="espro" group-title="DEPORTES",Espn 1 Sur
+http://blackaddon.com/play/megapro-121.php?c=97
+#EXTINF:-1 user-agent="espro" group-title="DEPORTES",Win Sports
+http://blackaddon.com/play/megapro-121.php?c=98
+#EXTINF:-1 user-agent="espro" group-title="DEPORTES",Gol TV Internacional
+http://blackaddon.com/play/megapro-121.php?c=338
+#EXTINF:-1 user-agent="espro" group-title="DEPORTES",Tigo Sports 1
+http://blackaddon.com/play/megapro-121.php?c=339
+#EXTINF:-1 user-agent="espro" group-title="DEPORTES",Tigo Sports 2
+http://blackaddon.com/play/megapro-121.php?c=340
+#EXTINF:-1 user-agent="espro" group-title="DEPORTES",Tigo Sports 3
+http://blackaddon.com/play/megapro-121.php?c=341
+#EXTINF:-1 user-agent="espro" group-title="DEPORTES",Estrella tv
+http://blackaddon.com/play/megapro-121.php?c=342
+#EXTINF:-1 user-agent="espro" group-title="DEPORTES",Bein sports ñ T
+http://blackaddon.com/play/megapro-121.php?c=343
+#EXTINF:-1 user-agent="espro" group-title="DEPORTES",Euro Sports 1
+http://blackaddon.com/play/megapro-121.php?c=344
+#EXTINF:-1 user-agent="espro" group-title="DEPORTES",Euro Sports 2
+http://blackaddon.com/play/megapro-121.php?c=345
+#EXTINF:-1 user-agent="espro" group-title="DEPORTES",Fightbox
+http://blackaddon.com/play/megapro-121.php?c=346|User-Agent=megapro
+#EXTINF:-1 user-agent="espro" group-title="DEPORTES",Fight Time
+http://blackaddon.com/play/megapro-121.php?c=347
+#EXTINF:-1 user-agent="espro" group-title="DEPORTES",MLB Network
+http://blackaddon.com/play/megapro-121.php?c=349
+#EXTINF:-1 user-agent="espro" group-title="DEPORTES",Motorsports TV
+http://blackaddon.com/play/megapro-121.php?c=350
+#EXTINF:-1 user-agent="espro" group-title="DEPORTES",RedBull
+http://blackaddon.com/play/megapro-121.php?c=351
+#EXTINF:-1 user-agent="espro" group-title="DEPORTES",Real Madrid tv
+http://blackaddon.com/play/megapro-121.php?c=352
+#EXTINF:-1 user-agent="espro" group-title="DEPORTES",UFC TV
+http://blackaddon.com/play/megapro-121.php?c=353
+#EXTINF:-1 user-agent="espro" group-title="DEPORTES",movistar liga de Campeones
+http://blackaddon.com/play/megapro-121.php?c=357
+#EXTINF:-1 user-agent="espro" group-title="DEPORTES",Win Sports+
+http://blackaddon.com/play/megapro-121.php?c=374
+
+
+#EXTINF:-1 user-agent="espro" group-title="MUSICA",MTV Hits
+http://blackaddon.com/play/megapro-121.php?c=49
+#EXTINF:-1 user-agent="espro" group-title="MUSICA",MTV
+http://blackaddon.com/play/megapro-121.php?c=50
+#EXTINF:-1 user-agent="espro" group-title="MUSICA",Claro Music 1
+http://blackaddon.com/play/megapro-121.php?c=25
+#EXTINF:-1 user-agent="espro" group-title="MUSICA",Claro Music 2
+http://blackaddon.com/play/megapro-121.php?c=26
+#EXTINF:-1 user-agent="espro" group-title="MUSICA",MTV 80s
+http://blackaddon.com/play/megapro-121.php?c=100
+#EXTINF:-1 user-agent="espro" group-title="MUSICA",MTV 00s
+http://blackaddon.com/play/megapro-121.php?c=101
+#EXTINF:-1 user-agent="espro" group-title="MUSICA",Mtv Live
+http://blackaddon.com/play/megapro-121.php?c=130
+
+
+#EXTINF:-1 user-agent="espro" group-title="24/7",Lazy Town
+http://blackaddon.com/play/megapro-121.php?c=235
+#EXTINF:-1 user-agent="espro" group-title="24/7",Barnie y sus amigos
+http://blackaddon.com/play/megapro-121.php?c=236
+#EXTINF:-1 user-agent="espro" group-title="24/7",Dora la exploradora
+http://blackaddon.com/play/megapro-121.php?c=237
+#EXTINF:-1 user-agent="espro" group-title="24/7",PJ Masks
+http://blackaddon.com/play/megapro-121.php?c=238
+#EXTINF:-1 user-agent="espro" group-title="24/7",caillou
+http://blackaddon.com/play/megapro-121.php?c=239
+#EXTINF:-1 user-agent="espro" group-title="24/7",Jorge el Curioso
+http://blackaddon.com/play/megapro-121.php?c=240
+#EXTINF:-1 user-agent="espro" group-title="24/7",peppa pig
+http://blackaddon.com/play/megapro-121.php?c=241
+#EXTINF:-1 user-agent="espro" group-title="24/7",happy tree friends
+http://blackaddon.com/play/megapro-121.php?c=242
+#EXTINF:-1 user-agent="espro" group-title="24/7",Los picapiedras
+http://blackaddon.com/play/megapro-121.php?c=243
+#EXTINF:-1 user-agent="espro" group-title="24/7",Le temes a la oscuridad
+http://blackaddon.com/play/megapro-121.php?c=244
+#EXTINF:-1 user-agent="espro" group-title="24/7",Pantera Rosa 80s
+http://blackaddon.com/play/megapro-121.php?c=245
+#EXTINF:-1 user-agent="espro" group-title="24/7",Correcaminos
+http://blackaddon.com/play/megapro-121.php?c=246
+#EXTINF:-1 user-agent="espro" group-title="24/7",Power Rangers
+http://blackaddon.com/play/megapro-121.php?c=247
+#EXTINF:-1 user-agent="espro" group-title="24/7",Cuentos Hermanos Grimm
+http://blackaddon.com/play/megapro-121.php?c=248
+#EXTINF:-1 user-agent="espro" group-title="24/7",Robotech
+http://blackaddon.com/play/megapro-121.php?c=249
+#EXTINF:-1 user-agent="espro" group-title="24/7",Estrenos 2018
+http://blackaddon.com/play/megapro-121.php?c=250
+#EXTINF:-1 user-agent="espro" group-title="24/7",El Chapulin Colorado
+http://blackaddon.com/play/megapro-121.php?c=251
+#EXTINF:-1 user-agent="espro" group-title="24/7",Death Note
+http://blackaddon.com/play/megapro-121.php?c=252
+#EXTINF:-1 user-agent="espro" group-title="24/7",CSI Miami
+http://blackaddon.com/play/megapro-121.php?c=253
+#EXTINF:-1 user-agent="espro" group-title="24/7",Alf
+http://blackaddon.com/play/megapro-121.php?c=254
+#EXTINF:-1 user-agent="espro" group-title="24/7",X-men 90s
+http://blackaddon.com/play/megapro-121.php?c=255
+#EXTINF:-1 user-agent="espro" group-title="24/7",Vete a la Versh
+http://blackaddon.com/play/megapro-121.php?c=256
+#EXTINF:-1 user-agent="espro" group-title="24/7",The Walking Dead
+http://blackaddon.com/play/megapro-121.php?c=257
+#EXTINF:-1 user-agent="espro" group-title="24/7",Super campeones
+http://blackaddon.com/play/megapro-121.php?c=258
+#EXTINF:-1 user-agent="espro" group-title="24/7",strangerthings
+http://blackaddon.com/play/megapro-121.php?c=259
+#EXTINF:-1 user-agent="espro" group-title="24/7",Spiderman 80s
+http://blackaddon.com/play/megapro-121.php?c=260
+#EXTINF:-1 user-agent="espro" group-title="24/7",Sounth Park
+http://blackaddon.com/play/megapro-121.php?c=261
+#EXTINF:-1 user-agent="espro" group-title="24/7",Smallville
+http://blackaddon.com/play/megapro-121.php?c=262
+#EXTINF:-1 user-agent="espro" group-title="24/7",Shera
+http://blackaddon.com/play/megapro-121.php?c=263
+#EXTINF:-1 user-agent="espro" group-title="24/7",Señor de los cielos
+http://blackaddon.com/play/megapro-121.php?c=264
+#EXTINF:-1 user-agent="espro" group-title="24/7",Sailormoon
+http://blackaddon.com/play/megapro-121.php?c=265
+#EXTINF:-1 user-agent="espro" group-title="24/7",Pokemon
+http://blackaddon.com/play/megapro-121.php?c=266
+#EXTINF:-1 user-agent="espro" group-title="24/7",Pinky y Cerebro
+http://blackaddon.com/play/megapro-121.php?c=267
+#EXTINF:-1 user-agent="espro" group-title="24/7",Peliculas Terror
+http://blackaddon.com/play/megapro-121.php?c=268
+#EXTINF:-1 user-agent="espro" group-title="24/7",Pablo Escobar
+http://blackaddon.com/play/megapro-121.php?c=269
+#EXTINF:-1 user-agent="espro" group-title="24/7",Naruto
+http://blackaddon.com/play/megapro-121.php?c=270
+#EXTINF:-1 user-agent="espro" group-title="24/7",Mazinger Z
+http://blackaddon.com/play/megapro-121.php?c=271
+#EXTINF:-1 user-agent="espro" group-title="24/7",Malcolm el de enmedio
+http://blackaddon.com/play/megapro-121.php?c=272
+#EXTINF:-1 user-agent="espro" group-title="24/7",Luis Miguel
+http://blackaddon.com/play/megapro-121.php?c=273
+#EXTINF:-1 user-agent="espro" group-title="24/7",Lucha Libre AAA
+http://blackaddon.com/play/megapro-121.php?c=274
+#EXTINF:-1 user-agent="espro" group-title="24/7",Los Thundercats
+http://blackaddon.com/play/megapro-121.php?c=275
+#EXTINF:-1 user-agent="espro" group-title="24/7",Los Simpsons
+http://blackaddon.com/play/megapro-121.php?c=276
+#EXTINF:-1 user-agent="espro" group-title="24/7",La Rosa de Guadalupe
+http://blackaddon.com/play/megapro-121.php?c=277
+#EXTINF:-1 user-agent="espro" group-title="24/7",Heman
+http://blackaddon.com/play/megapro-121.php?c=278
+#EXTINF:-1 user-agent="espro" group-title="24/7",Game Of Throne
+http://blackaddon.com/play/megapro-121.php?c=279
+#EXTINF:-1 user-agent="espro" group-title="24/7",Futurama
+http://blackaddon.com/play/megapro-121.php?c=280
+#EXTINF:-1 user-agent="espro" group-title="24/7",Dragon Ball Z
+http://blackaddon.com/play/megapro-121.php?c=281
+#EXTINF:-1 user-agent="espro" group-title="24/7",Dragon Ball Super
+http://blackaddon.com/play/megapro-121.php?c=282
+#EXTINF:-1 user-agent="espro" group-title="24/7",Dragon Ball GT
+http://blackaddon.com/play/megapro-121.php?c=283
+#EXTINF:-1 user-agent="espro" group-title="24/7",Dragon ball
+http://blackaddon.com/play/megapro-121.php?c=284
+#EXTINF:-1 user-agent="espro" group-title="24/7",Dinosaurios
+http://blackaddon.com/play/megapro-121.php?c=285
+#EXTINF:-1 user-agent="espro" group-title="24/7",Coraje el perro cobarde
+http://blackaddon.com/play/megapro-121.php?c=286
+#EXTINF:-1 user-agent="espro" group-title="24/7",Años Maravillosos
+http://blackaddon.com/play/megapro-121.php?c=287
+#EXTINF:-1 user-agent="espro" group-title="24/7",La casa de papel
+http://blackaddon.com/play/megapro-121.php?c=288
+#EXTINF:-1 user-agent="espro" group-title="24/7",El chema
+http://blackaddon.com/play/megapro-121.php?c=289
+#EXTINF:-1 user-agent="espro" group-title="24/7",El chavo
+http://blackaddon.com/play/megapro-121.php?c=290
+#EXTINF:-1 user-agent="espro" group-title="24/7",caballerosdel zodiaco
+http://blackaddon.com/play/megapro-121.php?c=291
+#EXTINF:-1 user-agent="espro" group-title="24/7",Breaking bad
+http://blackaddon.com/play/megapro-121.php?c=292
+#EXTINF:-1 user-agent="espro" group-title="24/7",Bob Esponja 24/7
+http://blackaddon.com/play/megapro-121.php?c=293
+
 *********************************************************************************************************
