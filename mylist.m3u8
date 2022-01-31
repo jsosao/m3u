@@ -469,22 +469,6 @@ http://blackaddon.com/play/totalp1-156.php?c=2564&p=3&k=black&f=.m3u8
 http://blackaddon.com/play/totalp1-156.php?c=126&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cmax.png" group-title="RECOMENDADOS",Cinemax
 http://blackaddon.com/play/totalp1-156.php?c=158&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="UNIVERSO(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nbcuni.png" group-title="RECOMENDADOS",Universo
-http://208.88.246.11:6188/transco10/9509UNVSO/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="TelemundoTelevisionNetwork(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telemnet.png" group-title="RECOMENDADOS",Telemundo
-http://208.88.246.11:6188/encoder75/evento9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telemnet.png" group-title="RECOMENDADOS",Telemundo Pac
-http://208.88.246.11:6188/andrew/telehit/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="RECOMENDADOS",Univisión
-http://208.88.246.11:6188/9604UNVSN/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="RECOMENDADOS",Univisión Pac
-http://208.88.246.11:6188/eventox2/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="UniMas(East)(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title="RECOMENDADOS",UniMas
-http://208.88.246.11:6188/9603UNIMW/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="GalavisionCableNetwork(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gala.png" group-title="RECOMENDADOS",Galavisión
-http://208.88.246.11:6188/9602GLVSN/transco16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="TUDN(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="RECOMENDADOS",TUDN USA
-http://208.88.246.11:6188/9556UTDN/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="XHDFAztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="LOCALES",Azteca Uno (HD)
@@ -529,8 +513,6 @@ http://blackaddon.com/play/totalp1-156.php?c=1253&p=3&k=black&f=.m3u8
 http://blackaddon.com/play/totalp1-156.php?c=2305&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="IngenioTV.mx" tvg-name="Ingenio TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/INGENIO.jpg" group-title="LOCALES",Ingenio TV
 http://blackaddon.com/play/totalp1-156.php?c=401&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="Teleritmo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.jpg" group-title="MÚSICA",Teleritmo
-http://blackaddon.com/play/totalp1-156.php?c=1943&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="NU9VE" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group-title="LOCALES",NU9VE
 http://blackaddon.com/play/totalp1-156.php?c=1783&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="LOCALES",Las Estrellas (HD)
@@ -569,8 +551,6 @@ http://blackaddon.com/play/totalp1-156.php?c=2882&p=3&k=black&f=.m3u8
 http://blackaddon.com/play/totalp1-156.php?c=108&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="Discovery Kids" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dk.png" group-title="KIDS",Discovery Kids
 http://blackaddon.com/play/totalp1-156.php?c=109&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="Nick.mx" tvg-name="Nick (CAÍDO)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nick.png" group-title="KIDS",Nick (CAÍDO)
-http://blackaddon.com/play/totalp1-156.php?c=110&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="Disney XD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dxd.png" group-title="KIDS",Disney XD
 http://blackaddon.com/play/totalp1-156.php?c=111&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cn.png" group-title="KIDS",Cartoon Network
@@ -623,13 +603,11 @@ http://blackaddon.com/play/totalp1-156.php?c=136&p=3&k=black&f=.m3u8
 http://blackaddon.com/play/totalp1-156.php?c=137&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="FXMovies.mx" tvg-name="FXMovies" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fxm.png" group-title="CINE",FXMovies
 http://blackaddon.com/play/totalp1-156.php?c=138&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="FXMovies.mx" tvg-name="FXMovies" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fxm.png" group-title="CINE",FXMovies
-http://blackaddon.com/play/totalp1-156.php?c=332&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="StarSeries.mx" tvg-name="Star Series" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starseries.png" group-title="CINE PREMIUM",Star Series
+#EXTINF:-1 tvg-id="" tvg-name="GRACIAS POR VERNOS" tvg-logo="" group-title="CINE PREMIUM",GRACIAS POR VERNOS
 http://blackaddon.com/play/totalp1-156.php?c=139&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="MorbidoTV.mx" tvg-name="Morbido TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/morbido.png" group-title="CINE",Morbido TV
 http://blackaddon.com/play/totalp1-156.php?c=140&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="StarHits.mx" tvg-name="Star Hits" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starmovies.png" group-title="CINE PREMIUM",Star Hits
+#EXTINF:-1 tvg-id="" tvg-name="GRACIAS POR VERNOS" tvg-logo="" group-title="CINE PREMIUM",GRACIAS POR VERNOS
 http://blackaddon.com/play/totalp1-156.php?c=146&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cc.png" group-title="CINE",Cinecanal
 http://blackaddon.com/play/totalp1-156.php?c=149&p=3&k=black&f=.m3u8
@@ -639,13 +617,13 @@ http://blackaddon.com/play/totalp1-156.php?c=158&p=3&k=black&f=.m3u8
 http://blackaddon.com/play/totalp1-156.php?c=328&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="De Película" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cortelatino.png" group-title="CINE",De Película
 http://blackaddon.com/play/totalp1-156.php?c=335&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="StarAction.mx" tvg-name="Star Action" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/staraction.png" group-title="CINE PREMIUM",Star Action
+#EXTINF:-1 tvg-id="" tvg-name="GRACIAS POR VERNOS" tvg-logo="" group-title="CINE PREMIUM",GRACIAS POR VERNOS
 http://blackaddon.com/play/totalp1-156.php?c=336&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/param.png" group-title="CINE",Paramount Network
 http://blackaddon.com/play/totalp1-156.php?c=1726&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="STARCINEMA.mx" tvg-name="Star Cinema" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starcinema.png" group-title="CINE PREMIUM",Star Cinema
+#EXTINF:-1 tvg-id="" tvg-name="GRACIAS POR VERNOS" tvg-logo="" group-title="CINE PREMIUM",GRACIAS POR VERNOS
 http://blackaddon.com/play/totalp1-156.php?c=1729&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="StarClassics.mx" tvg-name="Star Classics" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starclassics.png" group-title="CINE PREMIUM",Star Classics
+#EXTINF:-1 tvg-id="" tvg-name="GRACIAS POR VERNOS" tvg-logo="" group-title="CINE PREMIUM",GRACIAS POR VERNOS
 http://blackaddon.com/play/totalp1-156.php?c=1732&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="Cinema.mx" tvg-name="Cinema" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cinema.png" group-title="CINE",Cinema
 http://blackaddon.com/play/totalp1-156.php?c=1787&p=3&k=black&f=.m3u8
@@ -667,8 +645,6 @@ http://blackaddon.com/play/totalp1-156.php?c=59&p=3&k=black&f=.m3u8
 http://blackaddon.com/play/totalp1-156.php?c=60&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png" group-title="ENTRETENCIÓN",A&E
 http://blackaddon.com/play/totalp1-156.php?c=62&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/axn.png" group-title="ENTRETENCIÓN",AXN
-http://blackaddon.com/play/totalp1-156.php?c=64&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnts.png" group-title="ENTRETENCIÓN",TNT Series
 http://blackaddon.com/play/totalp1-156.php?c=71&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="Glitz.mx" tvg-name="Glitz" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/glitz.png" group-title="ENTRETENCIÓN",Glitz
@@ -741,14 +717,10 @@ http://blackaddon.com/play/totalp1-156.php?c=2157&p=3&k=black&f=.m3u8
 http://blackaddon.com/play/totalp1-156.php?c=2564&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="FuelTV(English).de" tvg-name="Fuel TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fuel.png" group-title="DEPORTES",Fuel TV
 http://blackaddon.com/play/totalp1-156.php?c=2587&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="ID.mx" tvg-name="ID (CAÍDO)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/peoplearts.png" group-title="ENTRETENCIÓN",ID (CAÍDO)
-http://blackaddon.com/play/totalp1-156.php?c=68&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="ElGarage.ar" tvg-name="Garage TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/garage.png" group-title="DEPORTES",Garage TV
 http://blackaddon.com/play/totalp1-156.php?c=75&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/disc.png" group-title="CONOCIMIENTO",Discovery
 http://blackaddon.com/play/totalp1-156.php?c=86&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet (CAÍDO)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/animal.png" group-title="CONOCIMIENTO",Animal Planet (CAÍDO)
-http://blackaddon.com/play/totalp1-156.php?c=88&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/history.png" group-title="CONOCIMIENTO",History
 http://blackaddon.com/play/totalp1-156.php?c=89&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngc.png" group-title="CONOCIMIENTO",National Geographic
@@ -759,8 +731,6 @@ http://blackaddon.com/play/totalp1-156.php?c=92&p=3&k=black&f=.m3u8
 http://blackaddon.com/play/totalp1-156.php?c=95&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hyh.png" group-title="CONOCIMIENTO",Discovery Home & Health
 http://blackaddon.com/play/totalp1-156.php?c=96&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="TLC.mx" tvg-name="TLC (CAÍDO)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlc.jpg" group-title="CONOCIMIENTO",TLC (CAÍDO)
-http://blackaddon.com/play/totalp1-156.php?c=97&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="Discovery Science" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sci.png" group-title="CONOCIMIENTO",Discovery Science
 http://blackaddon.com/play/totalp1-156.php?c=98&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="Discovery World HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/world.png" group-title="CONOCIMIENTO",Discovery World HD
@@ -777,6 +747,8 @@ http://blackaddon.com/play/totalp1-156.php?c=2379&p=3&k=black&f=.m3u8
 http://blackaddon.com/play/totalp1-156.php?c=3105&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="CuriosityStream(English).mx" tvg-name="Curiosity Stream" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/curio.png" group-title="CONOCIMIENTO",Curiosity Stream
 http://blackaddon.com/play/totalp1-156.php?c=2594&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="Teleritmo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.jpg" group-title="MÚSICA",Teleritmo
+http://blackaddon.com/play/totalp1-156.php?c=1943&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="MTVLive(English).mx" tvg-name="MTV Live HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtvl.png" group-title="MÚSICA",MTV Live HD
 http://blackaddon.com/play/totalp1-156.php?c=211&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtv.png" group-title="ENTRETENCIÓN",MTV
@@ -837,312 +809,594 @@ http://blackaddon.com/play/totalp1-156.php?c=2091&p=3&k=black&f=.m3u8
 http://blackaddon.com/play/totalp1-156.php?c=2402&p=3&k=black&f=.m3u8
 
 
-#EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="LOCALES",Azteca Uno
-http://208.88.246.11:6188/andromeda/FOXSERIES/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="LOCALES",Azteca Uno SD
-http://208.88.246.11:6188/113azteca13/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="LOCALES",Las Estrellas
-http://208.88.246.11:6188/andromeda/FOXACTION/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="LOCALES",Las Estrellas SD
-http://208.88.246.11:6188/102estrellas/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="ImagenTV.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="LOCALES",Imagen Television
-http://208.88.246.11:6188/103Imagen/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="ForoTV.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtv.png" group-title="LOCALES",Foro TV
-http://208.88.246.11:6188/push/forotv/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="LOCALES",Canal 5
-http://208.88.246.11:6188/105canal5/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="MultimediosPlus.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="LOCALES",Canal 6 CDMX
-http://208.88.246.11:6188/MultimediosPlus/transco15/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="XHAWDT.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES",Canal 6 MTY
-http://23.237.29.98:6188/Multimediosmty/transco15/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="MVSTV.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtdmx4.png" group-title="ENTRETENCIÓN",MVS TV
-http://208.88.246.11:6188/152mx52/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" group-title="LOCALES",Azteca 7
-http://208.88.246.11:6188/107azteca7/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="Nu9ve.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group-title="LOCALES",NU9VE
-http://23.237.29.98:6188/andrew/galatv/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="XEIPNTDT.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" group-title="LOCALES",Canal Once
-http://208.88.246.11:6188/andromeda/FOXMOVIES/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="XEIPNTDT.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" group-title="LOCALES",Canal Once SD
-http://23.237.29.98:6188/111OnceTvMexico/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="XEIPNTDT2TVCanal11.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/onyn.png" group-title="LOCALES",Once Niñas y Niños
-http://208.88.246.11:6188/133once2/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal14.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/opma.png" group-title="LOCALES",Canal Catorce
-http://23.237.29.98:6188/130unavoz/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="IngenioTV.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/INGENIO.jpg" group-title="LOCALES",Ingenio TV
-http://208.88.246.11:6188/131ingenioTV/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="TVUNAM.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unam.png" group-title="LOCALES",TV UNAM
-http://23.237.29.98:6188/120tvunam/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="XEIMTTVMetropolitan(Canal22).mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can22.jpg" group-title="LOCALES",Canal 22
-http://23.237.29.98:6188/122canal22/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="XEIMTDT2.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/can222.png" group-title="LOCALES",Canal 22.2 (Señal 22.2)
-http://23.237.29.98:6188/304Canal222/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="CongresoNacionalTV.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="INFORMACIÓN",Canal Del Congreso
-http://23.237.29.98:6188/145congreso/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="StarChannel.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/star.png" group-title="ENTRETENCIÓN",Star Channel
-http://208.88.246.11:6188/andromeda/FOX/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="StarChannel.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/star.png" group-title="ENTRETENCIÓN",Star Channel SD
-http://208.88.246.11:6188/202CanalFOXMexico/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalSony.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sony.png" group-title="ENTRETENCIÓN",Sony Channel
-http://208.88.246.11:6188/andromeda/SONY/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalSony.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sony.png" group-title="ENTRETENCIÓN",Sony Channel SD
-http://23.237.29.98:6188/211sony/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="Unicable.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unicable.png" group-title="ENTRETENCIÓN",Unicable
-http://208.88.246.11:6188/andromeda/UNICABLE/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="PasionesTV(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/pasin.png" group-title="ENTRETENCIÓN",Pasiones
-http://208.88.246.11:6188/andromeda/PASIONES/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="WarnerChannel.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png" group-title="ENTRETENCIÓN",Warner
-http://208.88.246.11:6188/andromeda/WARNER/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="WarnerChannel.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png" group-title="ENTRETENCIÓN",Warner SD
-http://208.88.246.11:6188/210WarnerChannel/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="EEntertainmentTV.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/eent.png" group-title="ENTRETENCIÓN",E!
-http://23.237.29.98:6188/212E!Latino/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="FX.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png" group-title="ENTRETENCIÓN",FX
-http://208.88.246.11:6188/andromeda/FX/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="FX.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png" group-title="ENTRETENCIÓN",FX SD
-http://208.88.246.11:6188/207FXLatin/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="UniversalTV.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png" group-title="ENTRETENCIÓN",Universal
-http://208.88.246.11:6188/andromeda/UNIVERSAL/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="UniversalTV.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png" group-title="ENTRETENCIÓN",Universal SD
-http://208.88.246.11:6188/203Universal/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="TNTSeries.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnts.png" group-title="ENTRETENCIÓN",TNT Series
-http://208.88.246.11:6188/205TNTSE/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="SYFY.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/syfy.png" group-title="ENTRETENCIÓN",SYFY
-http://23.237.29.98:6188/204SyFyLatin/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="TBS.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbs.png" group-title="ENTRETENCIÓN",TBS
-http://23.237.29.98:6188/223TBS/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="ID.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/peoplearts.png" group-title="ENTRETENCIÓN",ID
-http://208.88.246.11:6188/andromeda/ID/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="ID.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/peoplearts.png" group-title="ENTRETENCIÓN",ID SD
-http://208.88.246.11:6188/216I.D/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="AandE.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png" group-title="ENTRETENCIÓN",A&E
-http://208.88.246.11:6188/andromeda/AE/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="AandE.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png" group-title="ENTRETENCIÓN",A&E SD
-http://23.237.29.98:6188/214AELatino/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="Lifetime.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bio.png" group-title="ENTRETENCIÓN",Lifetime
-http://23.237.29.98:6188/414LIFET/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="AXN.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/axn.png" group-title="ENTRETENCIÓN",AXN
-http://208.88.246.11:6188/andromeda/AXN/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="AXN.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/axn.png" group-title="ENTRETENCIÓN",AXN SD
-http://208.88.246.11:6188/213AXNLatinoAmerica/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="ISAT.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/isatarg.png" group-title="ENTRETENCIÓN",I-Sat
-http://23.237.29.98:6188/222ISAT/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="UNIVERSO(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nbcuni.png" group-title="ENTRETENCIÓN",Universo
-http://208.88.246.11:6188/transco10/9509UNVSO/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/estrella.png" group-title="ENTRETENCIÓN",Estrella TV
-http://208.88.246.11:6188/eventox3/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="TelemundoTelevisionNetwork(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telemnet.png" group-title="ENTRETENCIÓN",Telemundo
-http://208.88.246.11:6188/encoder75/evento9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telemnet.png" group-title="ENTRETENCIÓN",Telemundo Pac
-http://208.88.246.11:6188/andrew/telehit/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="ENTRETENCIÓN",Univisión
-http://208.88.246.11:6188/9604UNVSN/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="UnivisionNetwork(Pacific)(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/uninet.png" group-title="ENTRETENCIÓN",Univisión Pac
-http://208.88.246.11:6188/eventox2/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="UniMas(East)(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/umas.png" group-title="ENTRETENCIÓN",UniMas
-http://208.88.246.11:6188/9603UNIMW/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="GalavisionCableNetwork(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gala.png" group-title="ENTRETENCIÓN",Galavisión
-http://208.88.246.11:6188/9602GLVSN/transco16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="WKAQDT.pr" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/wkaq.png" group-title="ENTRETENCIÓN",Telemundo PR
-http://208.88.246.11:6188/0000/CH=%C2%A0PR-WKAQ/playlist.m3u8
-#EXTINF:-1 tvg-id="WAPADT.pr" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/wapa.png" group-title="ENTRETENCIÓN",WAPA
-http://208.88.246.11:6188/0000/CH=%C2%A0PR-%C2%A0WAPA/playlist.m3u8
-#EXTINF:-1 tvg-id="WAPADT2(English).pr" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/wapa2.png" group-title="ENTRETENCIÓN",WAPA Deportes
-http://208.88.246.11:6188/0000/CH=%C2%A0PR-%C2%A0WAPA2/playlist.m3u8
-#EXTINF:-1 tvg-id="WIPRDT.pr" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/wipr.png" group-title="ENTRETENCIÓN",WIPR
-http://23.237.29.98:6188/wipr/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="WLIIDT.pr" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/t11.jpg" group-title="ENTRETENCIÓN",Tele11
-http://208.88.246.11:6188/0000/CH=%C2%A0PR-WLII/playlist.m3u8
-#EXTINF:-1 tvg-id="MegaTV.pr" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/megapr.jfif" group-title="ENTRETENCIÓN",MegaTV PR
-http://208.88.246.11:6188/megatvpr/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="WKAQDT2.pr" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/p2.jpg" group-title="ENTRETENCIÓN",Punto 2
-http://23.237.29.98:6188/live/punto2pr/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="Atreseries.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3s.png" group-title="ENTRETENCIÓN",A3 Series
-http://23.237.29.98:6188/230Atres/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="HOLATV.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hola.jpg" group-title="ENTRETENCIÓN",¡Hola! TV
-http://23.237.29.98:6188/218Hola/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="MTV.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtv.png" group-title="ENTRETENCIÓN",MTV
-http://208.88.246.11:6188/live/ID/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="MTV.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtv.png" group-title="ENTRETENCIÓN",MTV SD
-http://23.237.29.98:6188/250mtvla/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="MTVHits.es" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtvh.png" group-title="MÚSICA",MTV Hits
-http://23.237.29.98:6188/mtvhitsts/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/comedyc.png" group-title="ENTRETENCIÓN",Comedy Central
-http://208.88.246.11:6188/225CMEDY/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="MTV00s.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vh1e.png" group-title="MÚSICA",MTV 00s
-http://23.237.29.98:6188/254VH1/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="EXATV.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/exa.png" group-title="MÚSICA",Exa TV
-http://23.237.29.98:6188/252NU/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="LaMejorTV.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mejor977.png" group-title="MÚSICA",La Mejor TV
-http://23.237.29.98:6188/255exatv/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="TelehitMusicaPlus.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/thp.png" group-title="MÚSICA",Telehit Música Plus
-http://208.88.246.11:6188/live/DTURBO/chunk_Auth=ix08xÂ%C2%A0Z6Q7r567Z5%5E@9WxFÂ%C2%A0g7xÂ¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="HTV.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/htv.png" group-title="MÚSICA",HTV
-http://23.237.29.98:6188/260htv/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="Bandamax.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bmax.png" group-title="MÚSICA",Bandamax
-http://208.88.246.11:6188/encoder70/goltv/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="VideoRola.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vrola.png" group-title="MÚSICA",VideoRola
-http://23.237.29.98:6188/258VROLA/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="Teleritmo.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.jpg" group-title="MÚSICA",Teleritmo
-http://23.237.29.98:6188/276teleritmo/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="NatGeoKids.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngk.png" group-title="KIDS",Nat Geo Kids
-http://23.237.29.98:6188/294NatGeoKids/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="DiscoveryKids.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dk.png" group-title="KIDS",Discovery Kids
-http://208.88.246.11:6188/310discoverykids/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="Nick.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nick.png" group-title="KIDS",Nick
-http://208.88.246.11:6188/305nickelodeon/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dc.png" group-title="KIDS",Disney Channel
-http://208.88.246.11:6188/andromeda/DISNEY/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dc.png" group-title="KIDS",Disney Channel SD
-http://208.88.246.11:6188/302Disneychannel/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyXD.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dxd.png" group-title="KIDS",Disney XD
-http://208.88.246.11:6188/304DisneyXDNorte/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/djr.png" group-title="KIDS",Disney Junior
-http://23.237.29.98:6188/303DisneyJunior/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cn.png" group-title="KIDS",Cartoon Network
-http://208.88.246.11:6188/307CartoonNetwork/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="BabyTv.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/baby.png" group-title="KIDS",Baby TV
-http://23.237.29.98:6188/315BabyTVLatinAmerica/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="NickJr.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/njr.png" group-title="KIDS",Nick Jr.
-http://23.237.29.98:6188/306NickJrLatinAmerica/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/disc.png" group-title="CONOCIMIENTO",Discovery
-http://208.88.246.11:6188/402discoverychannel/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/animal.png" group-title="CONOCIMIENTO",Animal Planet
-http://208.88.246.11:6188/evento4/bodega/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/animal.png" group-title="CONOCIMIENTO",Animal Planet SD
-http://23.237.29.98:6188/408animalplanet/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="TLC.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlc.jpg" group-title="CONOCIMIENTO",TLC
-http://208.88.246.11:6188/217TLC/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hyh.png" group-title="CONOCIMIENTO",Discovery Home & Health
-http://208.88.246.11:6188/andromeda/DISCOVERYHH/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hyh.png" group-title="CONOCIMIENTO",Discovery Home & Health SD
-http://208.88.246.11:6188/215DiscoveryHHLatinoAmerica/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="DiscoveryTheater.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dthd.png" group-title="CONOCIMIENTO",Discovery Theater HD
-http://208.88.246.11:6188/andromeda/DISCOVERYTH/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="DiscoveryWorld.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/world.png" group-title="CONOCIMIENTO",Discovery World HD
-http://208.88.246.11:6188/live/DWORLD/chunk_Auth=ix08xÂ%C2%A0Z6Q7r567Z5%5E@9WxFÂ%C2%A0g7xÂ¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="DiscoveryTurbo.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/turbo.png" group-title="CONOCIMIENTO",Discovery Turbo
-http://208.88.246.11:6188/345turbo/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngc.png" group-title="CONOCIMIENTO",National Geographic
-http://208.88.246.11:6188/encoder18/unicable/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngc.png" group-title="CONOCIMIENTO",National Geographic SD
-http://208.88.246.11:6188/405Natgeo/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngw.png" group-title="CONOCIMIENTO",Nat Geo Wild SD
-http://208.88.246.11:6188/encoder64/f1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngw.png" group-title="CONOCIMIENTO",Nat Geo Wild SD
-http://208.88.246.11:6188/406NatGeoWild/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="History.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/history.png" group-title="CONOCIMIENTO",History
-http://208.88.246.11:6188/andromeda/HISTORY/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="History.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/history.png" group-title="CONOCIMIENTO",History SD
-http://208.88.246.11:6188/409history/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="History2.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/h2.png" group-title="CONOCIMIENTO",History 2
-http://208.88.246.11:6188/413H2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="ElGourmet.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gourmet.png" group-title="CONOCIMIENTO",ElGourmet
-http://208.88.246.11:6188/evento5/bodega/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="DiscoveryEnEspanol(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/disc.png" group-title="CONOCIMIENTO",Discovery En Español
-http://23.237.29.98:6188/transco9/9535DISCOVERYESP/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox1.png" group-title="DEPORTES",Fox Sports
-http://208.88.246.11:6188/evento3/bodega/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox1.png" group-title="DEPORTES",Fox Sports
-http://208.88.246.11:6188/502FoxSport1/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox2.png" group-title="DEPORTES",Fox Sports 2
-http://208.88.246.11:6188/andromeda/FOXSP2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox2.png" group-title="DEPORTES",Fox Sports 2 SD
-http://208.88.246.11:6188/503FoxSport2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxSports3.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox3.png" group-title="DEPORTES",Fox Sports 3
-http://208.88.246.11:6188/508FoxSports3/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="ESPN.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn.png" group-title="DEPORTES",ESPN
-http://208.88.246.11:6188/evento/bodega/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="ESPN.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn.png" group-title="DEPORTES",ESPN SD
-http://208.88.246.11:6188/506ESPN2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="ESPN2.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn2.png" group-title="DEPORTES",ESPN 2
-http://208.88.246.11:6188/evento2/bodega/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="ESPN2.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn2.png" group-title="DEPORTES",ESPN 2 SD
-http://208.88.246.11:6188/505ESPN/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="ESPNTres(North).mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn3.png" group-title="DEPORTES",ESPN 3
-http://208.88.246.11:6188/507ESPN3/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="ESPNEXTRA.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnextra.png" group-title="DEPORTES",ESPN Extra
-http://208.88.246.11:6188/andromeda/ESPN+/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="TUDN.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="DEPORTES",TUDN
-http://208.88.246.11:6188/encoder84/evento17/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="TUDN(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="DEPORTES",TUDN USA
-http://208.88.246.11:6188/9556UTDN/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="ClaroSports.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="DEPORTES",Claro Sports
-http://208.88.246.11:6188/504clarosport/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="AdrenalinaSportsNetwork.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/asn.png" group-title="DEPORTES",Adrenalina Sports Network
-http://208.88.246.11:6188/UFCNET/transco2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/beinn.png" group-title="DEPORTES",Bein Ñ
-http://208.88.246.11:6188/andromeda/BEINES/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/beinn.png" group-title="DEPORTES",Bein Ñ SD
-http://208.88.246.11:6188/9592BEINE/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="NBCSN.us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nbcsp.png" group-title="DEPORTES",NBCSN
-http://208.88.246.11:6188/9466NBCSP/transco15/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnsp.png" group-title="DEPORTES",ESPN Deportes USA
-http://208.88.246.11:6188/encoder82/evento16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="MilenioTV.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/milen.png" group-title="INFORMACIÓN",Milenio Televisión (XHTDMX-TDT2)
-http://23.237.29.98:6188/710MilenioTV/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="MeganoticiasMX.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvc.png" group-title="INFORMACIÓN",Meganoticias MX
-http://23.237.29.98:6188/220TVC/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNEnEspanol.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cnne.png" group-title="INFORMACIÓN",CNN En Español
-http://23.237.29.98:6188/702CNN/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="Teleformula.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/teleformula.png" group-title="INFORMACIÓN",Teleformula
-http://23.237.29.98:6188/354Elfinanciero/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="DWEspanol.mx" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dw.png" group-title="INFORMACIÓN",DW (Español)
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="XHAWDT.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="REGIONALES",Canal 6 MTY
-http://23.237.29.98:6188/Multimediosmty/transco15/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="TNT.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="CINE",TNT
-http://208.88.246.11:6188/andromeda/TNT/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="TNT.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="CINE",TNT SD
-http://208.88.246.11:6188/602TNT/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="Space.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/space.PNG" group-title="CINE",Space
-http://208.88.246.11:6188/andromeda/SPACE/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="Space.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/space.PNG" group-title="CINE",Space SD
-http://208.88.246.11:6188/221SpaceMexico/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="Cinemax.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cmax.png" group-title="CINE",Cinemax
-http://208.88.246.11:6188/603Cinemax/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="MC.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mcinema.png" group-title="CINE",MC
-http://208.88.246.11:6188/607MC/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="Multipremier.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mpremier.png" group-title="CINE",Multipremier
-http://23.237.29.98:6188/606MultiPremiere/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="DePeliculaPlus.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cortelatinohd.png" group-title="CINE",De Película Plus
-http://208.88.246.11:6188/live/DTHEATER/chunk_Auth=ix08xÂ%C2%A0Z6Q7r567Z5%5E@9WxFÂ%C2%A0g7xÂ¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="CineLatino.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/latinopl.png" group-title="CINE",Cine Latino
-http://23.237.29.98:6188/608CineLatino/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="CineLatinoUS(Spanish).us" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/latinopl.png" group-title="CINE",Cine Latino US
-http://208.88.246.11:6188/andromeda/CINELATINO/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="Cinecanal.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cc.png" group-title="CINE",Cinecanal (SUB)
-http://23.237.29.98:6188/664Cinecanal/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="FXMovies.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fxm.png" group-title="CINE",FXMovies (SUB)
-http://23.237.29.98:6188/605CineCanalPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="ParamountNetwork.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/param.png" group-title="CINE",Paramount Network
-http://23.237.29.98:6188/615PARAM/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="Cinema.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cinema.png" group-title="CINE",Cinema
-http://208.88.246.11:6188/andromeda/AZCINEMA/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="StarSeries.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starseries.png" group-title="CINE PREMIUM",Star Series SD (SUB)
-http://23.237.29.98:6188/660fox1/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="StarAction.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/staraction.png" group-title="CINE PREMIUM",Star Action SD (SUB)
-http://208.88.246.11:6188/662foxAction/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="StarHits.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starmovies.png" group-title="CINE PREMIUM",Star Hits SD (SUB)
-http://208.88.246.11:6188/667Fmovies/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="STARFUN.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starfamily.png" group-title="CINE PREMIUM",Star Fun
-http://23.237.29.98:6188/665foxFamily/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="StarClassics.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starclassics.png" group-title="CINE PREMIUM",Star Classics (SUB)
-http://23.237.29.98:6188/669foxClassics/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="GoldenPremier.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgcpre.png" group-title="CINE PREMIUM",Golden Premier
-http://208.88.246.11:6188/andromeda/GOLDENPRE/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole.png" group-title="CINE PREMIUM",HBO
-http://208.88.246.11:6188/eventox6/lista/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole.png" group-title="CINE PREMIUM",HBO (Alt.)
-http://208.88.246.11:6188/650HBO/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO2.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole2.png" group-title="CINE PREMIUM",HBO 2
-http://208.88.246.11:6188/651HBO2/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="HBOPlus.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hplus.png" group-title="CINE PREMIUM",HBO Plus
-http://208.88.246.11:6188/654HBOPlus/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="HBOFamily.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hfam.png" group-title="CINE PREMIUM",HBO Family
-http://23.237.29.98:6188/652HBOFamily/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
-#EXTINF:-1 tvg-id="HBOXtreme.mx" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mprime.png" group-title="CINE PREMIUM",HBO Xtreme
-http://208.88.246.11:6188/658MaxPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
+#EXTINF:-1 group-title="ENTRETENCIÓN", A3 Series
+http://blackaddon.com/play/zufree-156.php?c=3018
+#EXTINF:-1 group-title="ENTRETENCIÓN", A&E
+http://blackaddon.com/play/zufree-156.php?c=3019
+#EXTINF:-1 group-title="LOCALES", ADN 40
+http://blackaddon.com/play/zufree-156.php?c=3020
+#EXTINF:-1 group-title="CINE", AMC
+http://blackaddon.com/play/zufree-156.php?c=3021
+#EXTINF:-1 group-title="CONOCIMIENTO", Animal Planet
+http://blackaddon.com/play/zufree-156.php?c=3022
+#EXTINF:-1 group-title="ENTRETENCIÓN", Antena 3
+http://blackaddon.com/play/zufree-156.php?c=3023
+#EXTINF:-1 group-title="LOCALES", A+
+http://blackaddon.com/play/zufree-156.php?c=3024
+#EXTINF:-1 group-title="ENTRETENCIÓN", AXN
+http://blackaddon.com/play/zufree-156.php?c=3025
+#EXTINF:-1 group-title="DEPORTES", AyM Sports
+http://blackaddon.com/play/zufree-156.php?c=3026
+#EXTINF:-1 group-title="CINE", Az Cinema
+http://blackaddon.com/play/zufree-156.php?c=3027
+#EXTINF:-1 group-title="ENTRETENCIÓN", Az Corazon
+http://blackaddon.com/play/zufree-156.php?c=3028
+#EXTINF:-1 group-title="ENTRETENCIÓN", Az Mundo
+http://blackaddon.com/play/zufree-156.php?c=3029
+#EXTINF:-1 group-title="LOCALES", Azteca 7
+http://blackaddon.com/play/zufree-156.php?c=3030
+#EXTINF:-1 group-title="LOCALES", Azteca UNO
+http://blackaddon.com/play/zufree-156.php?c=3031
+#EXTINF:-1 group-title="KIDS", Baby First
+http://blackaddon.com/play/zufree-156.php?c=3032
+#EXTINF:-1 group-title="KIDS", Baby TV
+http://blackaddon.com/play/zufree-156.php?c=3033
+#EXTINF:-1 group-title="MÚSICA", Bandamax
+http://blackaddon.com/play/zufree-156.php?c=3034
+#EXTINF:-1 group-title="KIDS", BitMe
+http://blackaddon.com/play/zufree-156.php?c=3035
+#EXTINF:-1 group-title="LOCALES", Canal 11
+http://blackaddon.com/play/zufree-156.php?c=3037
+#EXTINF:-1 group-title="LOCALES", Canal 5
+http://blackaddon.com/play/zufree-156.php?c=3038
+#EXTINF:-1 group-title="KIDS", Cartoonito
+http://blackaddon.com/play/zufree-156.php?c=3036
+#EXTINF:-1 group-title="KIDS", Cartoon Network
+http://blackaddon.com/play/zufree-156.php?c=3039
+#EXTINF:-1 group-title="CINE", Cinecanal
+http://blackaddon.com/play/zufree-156.php?c=3040
+#EXTINF:-1 group-title="CINE", Cinemax
+http://blackaddon.com/play/zufree-156.php?c=3041
+#EXTINF:-1 group-title="INFORMACIÓN", CNN en Espanol
+http://blackaddon.com/play/zufree-156.php?c=3042
+#EXTINF:-1 group-title="INFORMACIÓN", CNN USA
+http://blackaddon.com/play/zufree-156.php?c=3043
+#EXTINF:-1 group-title="ENTRETENCIÓN", Comedy Central
+http://blackaddon.com/play/zufree-156.php?c=3044
+#EXTINF:-1 group-title="CINE", De Pelicula
+http://blackaddon.com/play/zufree-156.php?c=3045
+#EXTINF:-1 group-title="CINE", De Pelicula Plus
+http://blackaddon.com/play/zufree-156.php?c=3047
+#EXTINF:-1 group-title="CONOCIMIENTO", Discovery Channel
+http://blackaddon.com/play/zufree-156.php?c=3048
+#EXTINF:-1 group-title="CONOCIMIENTO", Discovery Civilization
+http://blackaddon.com/play/zufree-156.php?c=3049
+#EXTINF:-1 group-title="CONOCIMIENTO", Discovery H&H
+http://blackaddon.com/play/zufree-156.php?c=3050
+#EXTINF:-1 group-title="ENTRETENCIÓN", ID
+http://blackaddon.com/play/zufree-156.php?c=3051
+#EXTINF:-1 group-title="KIDS", Discovery KIDS
+http://blackaddon.com/play/zufree-156.php?c=3052
+#EXTINF:-1 group-title="CONOCIMIENTO", Discovery Science
+http://blackaddon.com/play/zufree-156.php?c=3053
+#EXTINF:-1 group-title="CONOCIMIENTO", Discovery Theater
+http://blackaddon.com/play/zufree-156.php?c=3054
+#EXTINF:-1 group-title="CONOCIMIENTO", TLC
+http://blackaddon.com/play/zufree-156.php?c=3055
+#EXTINF:-1 group-title="CONOCIMIENTO", Discovery Turbo
+http://blackaddon.com/play/zufree-156.php?c=3056
+#EXTINF:-1 group-title="CONOCIMIENTO", Discovery World
+http://blackaddon.com/play/zufree-156.php?c=3057
+#EXTINF:-1 group-title="KIDS", Disney Channel
+http://blackaddon.com/play/zufree-156.php?c=3058
+#EXTINF:-1 group-title="KIDS", Disney Junior
+http://blackaddon.com/play/zufree-156.php?c=3059
+#EXTINF:-1 group-title="KIDS", Disney XD
+http://blackaddon.com/play/zufree-156.php?c=3060
+#EXTINF:-1 group-title="ENTRETENCIÓN", Distrito Comedia
+http://blackaddon.com/play/zufree-156.php?c=3061
+#EXTINF:-1 group-title="ENTRETENCIÓN", E!
+http://blackaddon.com/play/zufree-156.php?c=3062
+#EXTINF:-1 group-title="INFORMACIÓN", El Financiero Bloomberg
+http://blackaddon.com/play/zufree-156.php?c=3063
+#EXTINF:-1 group-title="COMOCIMIENTO", El Gourmet
+http://blackaddon.com/play/zufree-156.php?c=3064
+#EXTINF:-1 group-title="DEPORTES", ESPN EXTRA
+http://blackaddon.com/play/zufree-156.php?c=3065
+#EXTINF:-1 group-title="DEPORTES", ESPN
+http://blackaddon.com/play/zufree-156.php?c=3066
+#EXTINF:-1 group-title="DEPORTES", ESPN 2
+http://blackaddon.com/play/zufree-156.php?c=3067
+#EXTINF:-1 group-title="DEPORTES", ESPN 3
+http://blackaddon.com/play/zufree-156.php?c=3068
+#EXTINF:-1 group-title="DEPORTES", ESPN U
+http://blackaddon.com/play/zufree-156.php?c=3069
+#EXTINF:-1 group-title="CONOCIMIENTO", Food Network
+http://blackaddon.com/play/zufree-156.php?c=3070
+#EXTINF:-1 group-title="LOCALES", Foro TV
+http://blackaddon.com/play/zufree-156.php?c=3071
+#EXTINF:-1 group-title="ENTRETENCIÓN", Star Channel
+http://blackaddon.com/play/zufree-156.php?c=3072
+#EXTINF:-1 group-title="DEPORTES", FOX Sports 1
+http://blackaddon.com/play/zufree-156.php?c=3081
+#EXTINF:-1 group-title="DEPORTES", FOX Sports 2
+http://blackaddon.com/play/zufree-156.php?c=3082
+#EXTINF:-1 group-title="DEPORTES", FOX Sports 3
+http://blackaddon.com/play/zufree-156.php?c=3083
+#EXTINF:-1 group-title="ENTRETENCIÓN", FX
+http://blackaddon.com/play/zufree-156.php?c=3084
+#EXTINF:-1 group-title="CINE", FXMOVIES
+http://blackaddon.com/play/zufree-156.php?c=3085
+#EXTINF:-1 group-title="LOCALES", NU9VE
+http://blackaddon.com/play/zufree-156.php?c=3086
+#EXTINF:-1 group-title="DEPORTES", Garage TV
+http://blackaddon.com/play/zufree-156.php?c=3087
+#EXTINF:-1 group-title="ENTRETENCIÓN", Glitz
+http://blackaddon.com/play/zufree-156.php?c=3088
+#EXTINF:-1 group-title="CINE", Golden
+http://blackaddon.com/play/zufree-156.php?c=3089
+#EXTINF:-1 group-title="CINE", Golden EDGE
+http://blackaddon.com/play/zufree-156.php?c=3090
+#EXTINF:-1 group-title="CINE", Golden Plus
+http://blackaddon.com/play/zufree-156.php?c=3091
+#EXTINF:-1 group-title="CINE PREMIUM", Golden Premier
+http://blackaddon.com/play/zufree-156.php?c=3092
+#EXTINF:-1 group-title="DEPORTES", Golf Channel Latinoamerica
+http://blackaddon.com/play/zufree-156.php?c=3093
+#EXTINF:-1 group-title="CONOCIMIENTO", HGTV
+http://blackaddon.com/play/zufree-156.php?c=3094
+#EXTINF:-1 group-title="CONOCIMIENTO", History
+http://blackaddon.com/play/zufree-156.php?c=3095
+#EXTINF:-1 group-title="ENTRETENCIÓN", Hola TV
+http://blackaddon.com/play/zufree-156.php?c=3096
+#EXTINF:-1 group-title="LOCALES", Imagen Television
+http://blackaddon.com/play/zufree-156.php?c=3097
+#EXTINF:-1 group-title="LOCALES", Ingenio TV
+http://blackaddon.com/play/zufree-156.php?c=3098
+#EXTINF:-1 group-title="ENTRETENCIÓN", I.Sat
+http://blackaddon.com/play/zufree-156.php?c=3099
+#EXTINF:-1 group-title="LOCALES", Las Estrellas
+http://blackaddon.com/play/zufree-156.php?c=3100
+#EXTINF:-1 group-title="ENTRETENCIÓN", Lifetime
+http://blackaddon.com/play/zufree-156.php?c=3101
+#EXTINF:-1 group-title="ENTRETENCIÓN", Mas chic
+http://blackaddon.com/play/zufree-156.php?c=3102
+#EXTINF:-1 group-title="INFORMACIÓN", Milenio
+http://blackaddon.com/play/zufree-156.php?c=3103
+#EXTINF:-1 group-title="ENTRETENCIÓN", MTV
+http://blackaddon.com/play/zufree-156.php?c=3104
+#EXTINF:-1 group-title="MÚSICA", MTV Hits
+http://blackaddon.com/play/zufree-156.php?c=3105
+#EXTINF:-1 group-title="MÚSICA", MTV Live
+http://blackaddon.com/play/zufree-156.php?c=3106
+#EXTINF:-1 group-title="ENTRETENCIÓN", Multimedios Plus
+http://blackaddon.com/play/zufree-156.php?c=3107
+#EXTINF:-1 group-title="CONOCIMIENTO", NatGeo
+http://blackaddon.com/play/zufree-156.php?c=3108
+#EXTINF:-1 group-title="KIDS", NatGeo KIDS
+http://blackaddon.com/play/zufree-156.php?c=3109
+#EXTINF:-1 group-title="CONOCIMIENTO", NatGeo Wild
+http://blackaddon.com/play/zufree-156.php?c=3110
+#EXTINF:-1 group-title="KIDS", Nickelodeon
+http://blackaddon.com/play/zufree-156.php?c=3111
+#EXTINF:-1 group-title="KIDS", TeenNick
+http://blackaddon.com/play/zufree-156.php?c=3112
+#EXTINF:-1 group-title="KIDS", Nick JR
+http://blackaddon.com/play/zufree-156.php?c=3113
+#EXTINF:-1 group-title="MÚSICA", Nickmusic
+http://blackaddon.com/play/zufree-156.php?c=3114
+#EXTINF:-1 group-title="CONOCIMIENTO", Outdoor Channel
+http://blackaddon.com/play/zufree-156.php?c=3115
+#EXTINF:-1 group-title="CINE", Paramount Network
+http://blackaddon.com/play/zufree-156.php?c=3116
+#EXTINF:-1 group-title="MÚSICA", Telehit Musica
+http://blackaddon.com/play/zufree-156.php?c=3117
+#EXTINF:-1 group-title="ENTRETENCIÓN", Sony
+http://blackaddon.com/play/zufree-156.php?c=3118
+#EXTINF:-1 group-title="CINE", Space
+http://blackaddon.com/play/zufree-156.php?c=3119
+#EXTINF:-1 group-title="CINE", Studio Universal
+http://blackaddon.com/play/zufree-156.php?c=3120
+#EXTINF:-1 group-title="ENTRETENCIÓN", SyFy
+http://blackaddon.com/play/zufree-156.php?c=3122
+#EXTINF:-1 group-title="ENTRETENCIÓN", TBS
+http://blackaddon.com/play/zufree-156.php?c=3123
+#EXTINF:-1 group-title="ENTRETENCIÓN", TCM
+http://blackaddon.com/play/zufree-156.php?c=3124
+#EXTINF:-1 group-title="INFORMACIÓN", Teleformula
+http://blackaddon.com/play/zufree-156.php?c=3125
+#EXTINF:-1 group-title="MÚSICA", Telehit
+http://blackaddon.com/play/zufree-156.php?c=3126
+#EXTINF:-1 group-title="ENTRETENCIÓN", Telemundo Internacional
+http://blackaddon.com/play/zufree-156.php?c=3127
+#EXTINF:-1 group-title="REGIONALES", Televisa Monterrey
+http://blackaddon.com/play/zufree-156.php?c=3128
+#EXTINF:-1 group-title="ENTRETENCIÓN", Tlnovelas
+http://blackaddon.com/play/zufree-156.php?c=3129
+#EXTINF:-1 group-title="CINE", TNT
+http://blackaddon.com/play/zufree-156.php?c=3130
+#EXTINF:-1 group-title="ENTRETENCIÓN", TNT Series
+http://blackaddon.com/play/zufree-156.php?c=3131
+#EXTINF:-1 group-title="KIDS", Tooncast
+http://blackaddon.com/play/zufree-156.php?c=3132
+#EXTINF:-1 group-title="ENTRETENCIÓN", TruTV
+http://blackaddon.com/play/zufree-156.php?c=3133
+#EXTINF:-1 group-title="DEPORTES", TVC Deportes
+http://blackaddon.com/play/zufree-156.php?c=3134
+#EXTINF:-1 group-title="ENTRETENCIÓN", TVE
+http://blackaddon.com/play/zufree-156.php?c=3135
+#EXTINF:-1 group-title="ENTRETENCIÓN", Unicable
+http://blackaddon.com/play/zufree-156.php?c=3136
+#EXTINF:-1 group-title="ENTRETENCIÓN", Universal TV
+http://blackaddon.com/play/zufree-156.php?c=3137
+#EXTINF:-1 group-title="MÚSICA", MTV 00S
+http://blackaddon.com/play/zufree-156.php?c=3138
+#EXTINF:-1 group-title="MÚSICA", MTV 80S
+http://blackaddon.com/play/zufree-156.php?c=3139
+#EXTINF:-1 group-title="ENTRETENCIÓN", Warner
+http://blackaddon.com/play/zufree-156.php?c=3140
+#EXTINF:-1 group-title="LOCALES", A+
+http://blackaddon.com/play/zufree-156.php?c=3141
+#EXTINF:-1 group-title="LOCALES", Azteca 7
+http://blackaddon.com/play/zufree-156.php?c=3142
+#EXTINF:-1 group-title="LOCALES", Azteca UNO
+http://blackaddon.com/play/zufree-156.php?c=3143
+#EXTINF:-1 group-title="LOCALES", Azteca Uno -2 Horas
+http://blackaddon.com/play/zufree-156.php?c=3144
+#EXTINF:-1 group-title="LOCALES", Canal 11
+http://blackaddon.com/play/zufree-156.php?c=3145
+#EXTINF:-1 group-title="LOCALES", Canal 5
+http://blackaddon.com/play/zufree-156.php?c=3146
+#EXTINF:-1 group-title="LOCALES", NU9VE
+http://blackaddon.com/play/zufree-156.php?c=3147
+#EXTINF:-1 group-title="LOCALES", Imagen Television
+http://blackaddon.com/play/zufree-156.php?c=3148
+#EXTINF:-1 group-title="LOCALES", Ingenio TV
+http://blackaddon.com/play/zufree-156.php?c=3149
+#EXTINF:-1 group-title="LOCALES", Las Estrellas
+http://blackaddon.com/play/zufree-156.php?c=3150
+#EXTINF:-1 group-title="LOCALES", Multimedios Plus
+http://blackaddon.com/play/zufree-156.php?c=3151
+#EXTINF:-1 group-title="REGIONALES", Multimedios MTY
+http://blackaddon.com/play/zufree-156.php?c=3152
+#EXTINF:-1 group-title="INFORMACIÓN", Teleformula
+http://blackaddon.com/play/zufree-156.php?c=3153
+#EXTINF:-1 group-title="REGIONALES", Televisa Monterrey
+http://blackaddon.com/play/zufree-156.php?c=3154
+#EXTINF:-1 group-title="INFORMACIÓN", Meganoticias MX
+http://blackaddon.com/play/zufree-156.php?c=3155
+#EXTINF:-1 group-title="ENTRETENCIÓN", RCN Nuestra Tele Internacional
+http://blackaddon.com/play/zufree-156.php?c=3156
+#EXTINF:-1 group-title="ENTRETENCIÓN", A3 Series
+http://blackaddon.com/play/zufree-156.php?c=3157
+#EXTINF:-1 group-title="ENTRETENCIÓN", A&E
+http://blackaddon.com/play/zufree-156.php?c=3158
+#EXTINF:-1 group-title="CINE", AMC
+http://blackaddon.com/play/zufree-156.php?c=3159
+#EXTINF:-1 group-title="ENTRETENCIÓN", Antena 3
+http://blackaddon.com/play/zufree-156.php?c=3160
+#EXTINF:-1 group-title="ENTRETENCIÓN", AXN
+http://blackaddon.com/play/zufree-156.php?c=3161
+#EXTINF:-1 group-title="ENTRETENCIÓN", Az Corazon
+http://blackaddon.com/play/zufree-156.php?c=3162
+#EXTINF:-1 group-title="ENTRETENCIÓN", Az Mundo
+http://blackaddon.com/play/zufree-156.php?c=3163
+#EXTINF:-1 group-title="KIDS", BitMe
+http://blackaddon.com/play/zufree-156.php?c=3164
+#EXTINF:-1 group-title="ENTRETENCIÓN", Caracol
+http://blackaddon.com/play/zufree-156.php?c=3165
+#EXTINF:-1 group-title="ENTRETENCIÓN", Comedy Central
+http://blackaddon.com/play/zufree-156.php?c=3166
+#EXTINF:-1 group-title="ENTRETENCIÓN", Distrito Comedia
+http://blackaddon.com/play/zufree-156.php?c=3167
+#EXTINF:-1 group-title="ENTRETENCIÓN", E!
+http://blackaddon.com/play/zufree-156.php?c=3168
+#EXTINF:-1 group-title="CONOCIMIENTO", El Gourmet
+http://blackaddon.com/play/zufree-156.php?c=3169
+#EXTINF:-1 group-title="ENTRETENCIÓN", Estrella TV
+http://blackaddon.com/play/zufree-156.php?c=3170
+#EXTINF:-1 group-title="CONOCIMIENTO", Food Network
+http://blackaddon.com/play/zufree-156.php?c=3171
+#EXTINF:-1 group-title="ENTRETENCIÓN", Star Channel
+http://blackaddon.com/play/zufree-156.php?c=3172
+#EXTINF:-1 group-title="ENTRETENCIÓN", Star Life
+http://blackaddon.com/play/zufree-156.php?c=3173
+#EXTINF:-1 group-title="ENTRETENCIÓN", FX
+http://blackaddon.com/play/zufree-156.php?c=3175
+#EXTINF:-1 group-title="DEPORTES", Garage TV
+http://blackaddon.com/play/zufree-156.php?c=3176
+#EXTINF:-1 group-title="ENTRETENCIÓN", Glitz
+http://blackaddon.com/play/zufree-156.php?c=3177
+#EXTINF:-1 group-title="ENTRETENCIÓN", Hola TV
+http://blackaddon.com/play/zufree-156.php?c=3178
+#EXTINF:-1 group-title="ENTRETENCIÓN", Lifetime
+http://blackaddon.com/play/zufree-156.php?c=3179
+#EXTINF:-1 group-title="ENTRETENCIÓN", Mas Chic
+http://blackaddon.com/play/zufree-156.php?c=3180
+#EXTINF:-1 group-title="ENTRETENCIÓN", Pasiones
+http://blackaddon.com/play/zufree-156.php?c=3181
+#EXTINF:-1 group-title="ENTRETENCIÓN", RCN
+http://blackaddon.com/play/zufree-156.php?c=3182
+#EXTINF:-1 group-title="ENTRETENCIÓN", Sony
+http://blackaddon.com/play/zufree-156.php?c=3183
+#EXTINF:-1 group-title="ENTRETENCIÓN", TBS
+http://blackaddon.com/play/zufree-156.php?c=3184
+#EXTINF:-1 group-title="ENTRETENCIÓN", Telemundo Internacional
+http://blackaddon.com/play/zufree-156.php?c=3185
+#EXTINF:-1 group-title="ENTRETENCIÓN", Tlnovelas
+http://blackaddon.com/play/zufree-156.php?c=3186
+#EXTINF:-1 group-title="ENTRETENCIÓN", TNT Series
+http://blackaddon.com/play/zufree-156.php?c=3187
+#EXTINF:-1 group-title="ENTRETENCIÓN", TruTV
+http://blackaddon.com/play/zufree-156.php?c=3188
+#EXTINF:-1 group-title="ENTRETENCIÓN", Unicable
+http://blackaddon.com/play/zufree-156.php?c=3189
+#EXTINF:-1 group-title="ENTRETENCIÓN", Univision 41
+http://blackaddon.com/play/zufree-156.php?c=3190
+#EXTINF:-1 group-title="ENTRETENCIÓN", Warner
+http://blackaddon.com/play/zufree-156.php?c=3191
+#EXTINF:-1 group-title="DEPORTES", Adrenalina Sports Network
+http://blackaddon.com/play/zufree-156.php?c=3192
+#EXTINF:-1 group-title="DEPORTES", Afizzionados
+http://blackaddon.com/play/zufree-156.php?c=3193
+#EXTINF:-1 group-title="DEPORTES", AyM Sports
+http://blackaddon.com/play/zufree-156.php?c=3194
+#EXTINF:-1 group-title="DEPORTES", BeinSports ñ
+http://blackaddon.com/play/zufree-156.php?c=3195
+#EXTINF:-1 group-title="DEPORTES", BeinSports USA
+http://blackaddon.com/play/zufree-156.php?c=3196
+#EXTINF:-1 group-title="DEPORTES", Canal Toros
+http://blackaddon.com/play/zufree-156.php?c=3197
+#EXTINF:-1 group-title="DEPORTES", Claro Sports
+http://blackaddon.com/play/zufree-156.php?c=3198
+#EXTINF:-1 group-title="DEPORTES", ESPN 1
+http://blackaddon.com/play/zufree-156.php?c=3199
+#EXTINF:-1 group-title="DEPORTES", ESPN 2
+http://blackaddon.com/play/zufree-156.php?c=3200
+#EXTINF:-1 group-title="DEPORTES", ESPN 3
+http://blackaddon.com/play/zufree-156.php?c=3201
+#EXTINF:-1 group-title="DEPORTES", ESPN +
+http://blackaddon.com/play/zufree-156.php?c=3202
+#EXTINF:-1 group-title="DEPORTES", ESPN Deportes
+http://blackaddon.com/play/zufree-156.php?c=3203
+#EXTINF:-1 group-title="DEPORTES", FOX Deportes
+http://blackaddon.com/play/zufree-156.php?c=3204
+#EXTINF:-1 group-title="DEPORTES", FOX Sports 1
+http://blackaddon.com/play/zufree-156.php?c=3205
+#EXTINF:-1 group-title="DEPORTES", FOX Sports 2
+http://blackaddon.com/play/zufree-156.php?c=3206
+#EXTINF:-1 group-title="DEPORTES", FOX Sports 3
+http://blackaddon.com/play/zufree-156.php?c=3207
+#EXTINF:-1 group-title="DEPORTES", Golf Channel Latinoamerica
+http://blackaddon.com/play/zufree-156.php?c=3208
+#EXTINF:-1 group-title="DEPORTES", Movistar F1 TV
+http://blackaddon.com/play/zufree-156.php?c=3209
+#EXTINF:-1 group-title="DEPORTES", Movistar Golf
+http://blackaddon.com/play/zufree-156.php?c=3210
+#EXTINF:-1 group-title="DEPORTES", NFL Network
+http://blackaddon.com/play/zufree-156.php?c=3211
+#EXTINF:-1 group-title="DEPORTES", Outdoor Channel
+http://blackaddon.com/play/zufree-156.php?c=3212
+#EXTINF:-1 group-title="DEPORTES", SEC ESPN Network
+http://blackaddon.com/play/zufree-156.php?c=3213
+#EXTINF:-1 group-title="DEPORTES", TUDN MX
+http://blackaddon.com/play/zufree-156.php?c=3214
+#EXTINF:-1 group-title="DEPORTES", TUDN USA
+http://blackaddon.com/play/zufree-156.php?c=3215
+#EXTINF:-1 group-title="DEPORTES", TVC Deportes
+http://blackaddon.com/play/zufree-156.php?c=3216
+#EXTINF:-1 group-title="DEPORTES", TyC Sports
+http://blackaddon.com/play/zufree-156.php?c=3217
+#EXTINF:-1 group-title="DEPORTES", UFC Fight Pass
+http://blackaddon.com/play/zufree-156.php?c=3218
+#EXTINF:-1 group-title="DEPORTES", WinSports
+http://blackaddon.com/play/zufree-156.php?c=3219
+#EXTINF:-1 group-title="DEPORTES", Barca TV
+http://blackaddon.com/play/zufree-156.php?c=3220
+#EXTINF:-1 group-title="DEPORTES", Eurosport 1
+http://blackaddon.com/play/zufree-156.php?c=3221
+#EXTINF:-1 group-title="DEPORTES", Eurosport 2
+http://blackaddon.com/play/zufree-156.php?c=3222
+#EXTINF:-1 group-title="DEPORTES", Movistar Deportes
+http://blackaddon.com/play/zufree-156.php?c=3223
+#EXTINF:-1 group-title="DEPORTES", Movistar Deportes 2
+http://blackaddon.com/play/zufree-156.php?c=3224
+#EXTINF:-1 group-title="DEPORTES", Movistar F1
+http://blackaddon.com/play/zufree-156.php?c=3225
+#EXTINF:-1 group-title="DEPORTES", Movistar Golf
+http://blackaddon.com/play/zufree-156.php?c=3226
+#EXTINF:-1 group-title="DEPORTES", Movistar Liga de Campeones
+http://blackaddon.com/play/zufree-156.php?c=3227
+#EXTINF:-1 group-title="DEPORTES", Real Madrid TV
+http://blackaddon.com/play/zufree-156.php?c=3228
+#EXTINF:-1 group-title="DEPORTES", Toros TV
+http://blackaddon.com/play/zufree-156.php?c=3229
+#EXTINF:-1 group-title="DEPORTES", Argentina - ESPN
+http://blackaddon.com/play/zufree-156.php?c=3230
+#EXTINF:-1 group-title="DEPORTES", Argentina - ESPN 2
+http://blackaddon.com/play/zufree-156.php?c=3231
+#EXTINF:-1 group-title="DEPORTES", Argentina - ESPN 3
+http://blackaddon.com/play/zufree-156.php?c=3232
+#EXTINF:-1 group-title="DEPORTES", Argentina - FOX Sports
+http://blackaddon.com/play/zufree-156.php?c=3233
+#EXTINF:-1 group-title="DEPORTES", Argentina - FOX Sports 2
+http://blackaddon.com/play/zufree-156.php?c=3234
+#EXTINF:-1 group-title="DEPORTES", Argentina - FOX Sports 3
+http://blackaddon.com/play/zufree-156.php?c=3235
+#EXTINF:-1 group-title="DEPORTES", Argentina - FOX Sports Premium
+http://blackaddon.com/play/zufree-156.php?c=3236
+#EXTINF:-1 group-title="DEPORTES", Argentina - TNT Sports
+http://blackaddon.com/play/zufree-156.php?c=3237
+#EXTINF:-1 group-title="DEPORTES", Argentina - TYC Sports
+http://blackaddon.com/play/zufree-156.php?c=3238
+#EXTINF:-1 group-title="DEPORTES", Brasil - Sport TV 1
+http://blackaddon.com/play/zufree-156.php?c=3239
+#EXTINF:-1 group-title="DEPORTES", Chile - CFD
+http://blackaddon.com/play/zufree-156.php?c=3240
+#EXTINF:-1 group-title="DEPORTES", Chile - CDF Estadio
+http://blackaddon.com/play/zufree-156.php?c=3241
+#EXTINF:-1 group-title="DEPORTES", Chile - CDF Premium
+http://blackaddon.com/play/zufree-156.php?c=3242
+#EXTINF:-1 group-title="DEPORTES", Chile - CDO Premium
+http://blackaddon.com/play/zufree-156.php?c=3243
+#EXTINF:-1 group-title="DEPORTES", Colombia - Win Sports
+http://blackaddon.com/play/zufree-156.php?c=3244
+#EXTINF:-1 group-title="DEPORTES", Colombia - Win Sports +
+http://blackaddon.com/play/zufree-156.php?c=3245
+#EXTINF:-1 group-title="DEPORTES", Sudamerica - DirecTV Sports
+http://blackaddon.com/play/zufree-156.php?c=3246
+#EXTINF:-1 group-title="DEPORTES", Sudamerica - DirecTV Sports 2
+http://blackaddon.com/play/zufree-156.php?c=3247
+#EXTINF:-1 group-title="DEPORTES", Sudamerica - DirecTV Sports +
+http://blackaddon.com/play/zufree-156.php?c=3248
+#EXTINF:-1 group-title="CONOCIMIENTO", Animal Planet
+http://blackaddon.com/play/zufree-156.php?c=3249
+#EXTINF:-1 group-title="CONOCIMIENTO", Discovery Channel
+http://blackaddon.com/play/zufree-156.php?c=3250
+#EXTINF:-1 group-title="CONOCIMIENTO", Discovery Civilization
+http://blackaddon.com/play/zufree-156.php?c=3251
+#EXTINF:-1 group-title="CONOCIMIENTO", Discovery H&H
+http://blackaddon.com/play/zufree-156.php?c=3252
+#EXTINF:-1 group-title="CONOCIMIENTO", Discovery Science
+http://blackaddon.com/play/zufree-156.php?c=3253
+#EXTINF:-1 group-title="CONOCIMIENTO", Discovery Theater
+http://blackaddon.com/play/zufree-156.php?c=3254
+#EXTINF:-1 group-title="CONOCIMIENTO", Discovery TLC
+http://blackaddon.com/play/zufree-156.php?c=3255
+#EXTINF:-1 group-title="CONOCIMIENTO", Discovery Turbo
+http://blackaddon.com/play/zufree-156.php?c=3256
+#EXTINF:-1 group-title="CONOCIMIENTO", Discovery World
+http://blackaddon.com/play/zufree-156.php?c=3257
+#EXTINF:-1 group-title="CONOCIMIENTO", HISTORY 2
+http://blackaddon.com/play/zufree-156.php?c=3258
+#EXTINF:-1 group-title="CONOCIMIENTO", HGTV
+http://blackaddon.com/play/zufree-156.php?c=3259
+#EXTINF:-1 group-title="CONOCIMIENTO", History
+http://blackaddon.com/play/zufree-156.php?c=3260
+#EXTINF:-1 group-title="ENTRETENCIÓN", ID
+http://blackaddon.com/play/zufree-156.php?c=3261
+#EXTINF:-1 group-title="CONOCIMIENTO", NatGeo
+http://blackaddon.com/play/zufree-156.php?c=3262
+#EXTINF:-1 group-title="CONOCIMIENTO", NatGeo Wild
+http://blackaddon.com/play/zufree-156.php?c=3263
+#EXTINF:-1 group-title="KIDS", Baby TV
+http://blackaddon.com/play/zufree-156.php?c=3264
+#EXTINF:-1 group-title="KIDS", Baby First
+http://blackaddon.com/play/zufree-156.php?c=3265
+#EXTINF:-1 group-title="KIDS", Boomerang
+http://blackaddon.com/play/zufree-156.php?c=3266
+#EXTINF:-1 group-title="KIDS", Cartoon Network
+http://blackaddon.com/play/zufree-156.php?c=3267
+#EXTINF:-1 group-title="KIDS", Discovery KIDS
+http://blackaddon.com/play/zufree-156.php?c=3268
+#EXTINF:-1 group-title="KIDS", Disney Channel
+http://blackaddon.com/play/zufree-156.php?c=3269
+#EXTINF:-1 group-title="KIDS", Disney Junior
+http://blackaddon.com/play/zufree-156.php?c=3270
+#EXTINF:-1 group-title="KIDS", Disney XD
+http://blackaddon.com/play/zufree-156.php?c=3271
+#EXTINF:-1 group-title="KIDS", NatGeo KIDS
+http://blackaddon.com/play/zufree-156.php?c=3272
+#EXTINF:-1 group-title="KIDS", Nickelodeon
+http://blackaddon.com/play/zufree-156.php?c=3273
+#EXTINF:-1 group-title="KIDS", TeenNick
+http://blackaddon.com/play/zufree-156.php?c=3274
+#EXTINF:-1 group-title="KIDS", Nick JR
+http://blackaddon.com/play/zufree-156.php?c=3275
+#EXTINF:-1 group-title="MÚSICA", Nickmusic
+http://blackaddon.com/play/zufree-156.php?c=3276
+#EXTINF:-1 group-title="KIDS", Tooncast
+http://blackaddon.com/play/zufree-156.php?c=3277
+#EXTINF:-1 group-title="CINE", Az Cinema
+http://blackaddon.com/play/zufree-156.php?c=3278
+#EXTINF:-1 group-title="CINE", Cinelatino
+http://blackaddon.com/play/zufree-156.php?c=3279
+#EXTINF:-1 group-title="CINE", Cinecanal
+http://blackaddon.com/play/zufree-156.php?c=3280
+#EXTINF:-1 group-title="CINE", Cinemax
+http://blackaddon.com/play/zufree-156.php?c=3281
+#EXTINF:-1 group-title="CINE", De Pelicula
+http://blackaddon.com/play/zufree-156.php?c=3282
+#EXTINF:-1 group-title="CINE", De Pelicula Clasico
+http://blackaddon.com/play/zufree-156.php?c=3283
+#EXTINF:-1 group-title="CINE", De Pelicula Plus
+http://blackaddon.com/play/zufree-156.php?c=3284
+#EXTINF:-1 group-title="CINE", FXM
+http://blackaddon.com/play/zufree-156.php?c=3291
+#EXTINF:-1 group-title="CINE", Golden
+http://blackaddon.com/play/zufree-156.php?c=3292
+#EXTINF:-1 group-title="CINE", Golden EDGE
+http://blackaddon.com/play/zufree-156.php?c=3293
+#EXTINF:-1 group-title="CINE", Golden Plus
+http://blackaddon.com/play/zufree-156.php?c=3294
+#EXTINF:-1 group-title="CINE PREMIUM", Golden Premier
+http://blackaddon.com/play/zufree-156.php?c=3295
+#EXTINF:-1 group-title="CINE PREMIUM", HBO
+http://blackaddon.com/play/zufree-156.php?c=3296
+#EXTINF:-1 group-title="CINE PREMIUM", HBO 2
+http://blackaddon.com/play/zufree-156.php?c=3297
+#EXTINF:-1 group-title="CINE PREMIUM", HBO Family
+http://blackaddon.com/play/zufree-156.php?c=3298
+#EXTINF:-1 group-title="CINE PREMIUM", HBO Mundi
+http://blackaddon.com/play/zufree-156.php?c=3299
+#EXTINF:-1 group-title="CINE PREMIUM", HBO Plus
+http://blackaddon.com/play/zufree-156.php?c=3300
+#EXTINF:-1 group-title="CINE PREMIUM", HBO Signature
+http://blackaddon.com/play/zufree-156.php?c=3301
+#EXTINF:-1 group-title="CINE PREMIUM", HBO Xtreme
+http://blackaddon.com/play/zufree-156.php?c=3302
+#EXTINF:-1 group-title="ENTRETENCIÓN", I.Sat
+http://blackaddon.com/play/zufree-156.php?c=3303
+#EXTINF:-1 group-title="CINE PREMIUM", HBO POP
+http://blackaddon.com/play/zufree-156.php?c=3304
+#EXTINF:-1 group-title="CINE", Paramount Network
+http://blackaddon.com/play/zufree-156.php?c=3305
+#EXTINF:-1 group-title="CINE", Space
+http://blackaddon.com/play/zufree-156.php?c=3306
+#EXTINF:-1 group-title="CINE", Studio Universal
+http://blackaddon.com/play/zufree-156.php?c=3307
+#EXTINF:-1 group-title="CINE", SyFy
+http://blackaddon.com/play/zufree-156.php?c=3309
+#EXTINF:-1 group-title="ENTRETENCIÓN", TCM
+http://blackaddon.com/play/zufree-156.php?c=3310
+#EXTINF:-1 group-title="CINE", TNT
+http://blackaddon.com/play/zufree-156.php?c=3311
+#EXTINF:-1 group-title="ENTRETENCIÓN", Universal TV
+http://blackaddon.com/play/zufree-156.php?c=3312
+#EXTINF:-1 group-title="MÚSICA", Bandamax
+http://blackaddon.com/play/zufree-156.php?c=3313
+#EXTINF:-1 group-title="MÚSICA", MTV
+http://blackaddon.com/play/zufree-156.php?c=3314
+#EXTINF:-1 group-title="MÚSICA", MTV Hits
+http://blackaddon.com/play/zufree-156.php?c=3315
+#EXTINF:-1 group-title="MÚSICA", MTV Live
+http://blackaddon.com/play/zufree-156.php?c=3316
+#EXTINF:-1 group-title="MÚSICA", Telehit Musica
+http://blackaddon.com/play/zufree-156.php?c=3317
+#EXTINF:-1 group-title="MÚSICA", Telehit
+http://blackaddon.com/play/zufree-156.php?c=3318
+#EXTINF:-1 group-title="MÚSICA", Telehit Plus
+http://blackaddon.com/play/zufree-156.php?c=3319
+#EXTINF:-1 group-title="MÚSICA", MTV 00S
+http://blackaddon.com/play/zufree-156.php?c=3320
+#EXTINF:-1 group-title="MÚSICA", MTV 80S
+http://blackaddon.com/play/zufree-156.php?c=3321
+#EXTINF:-1 group-title="RELIGIÓN", Maria Vision
+http://blackaddon.com/play/zufree-156.php?c=3322
+#EXTINF:-1 group-title="LOCALES", ADN 40
+http://blackaddon.com/play/zufree-156.php?c=3323
+#EXTINF:-1 group-title="INFORMACIÓN", El Financiero Bloomberg
+http://blackaddon.com/play/zufree-156.php?c=3324
+#EXTINF:-1 group-title="INFORMACIÓN", CNN en Espanol
+http://blackaddon.com/play/zufree-156.php?c=3325
+#EXTINF:-1 group-title="INFORMACIÓN", CNN USA
+http://blackaddon.com/play/zufree-156.php?c=3326
+#EXTINF:-1 group-title="INFORMACIÓN", Foro TV
+http://blackaddon.com/play/zufree-156.php?c=3327
+#EXTINF:-1 group-title="INFORMACIÓN", Milenio
+http://blackaddon.com/play/zufree-156.php?c=3328
+#EXTINF:-1 group-title="ENTRETENCIÓN", Antena 3
+http://blackaddon.com/play/zufree-156.php?c=3329
 
 
 #EXTINF:-1 tvg-id="ENLACETV.co" tvg-name="Enlace" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbn.jfif" group-title="RELIGIÓN",Enlace
@@ -1157,10 +1411,6 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Locomotion" tvg-logo="https://i.ibb.co/5K8QbNp/image.png" group-title="ENTRETENCIÓN",Locomotion
-http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kanade TV" tvg-logo="https://i.ibb.co/X8gmqHg/logo-white.png" group-title="ENTRETENCIÓN",Kanade TV
-http://96.30.193.226:81/hls/kanadetv.m3u8
 #EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-name="Canal 6 CDMX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="LOCALES",Canal 6 CDMX
 http://mdstrm.com/live-stream-playlist_2500/5f2d9d6ff17144074bd8a284.m3u8?
 #EXTINF:-1 tvg-id="XHIMTTDT2.mx" tvg-name="A+ CDMX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhimt2.png" group-title="LOCALES",A+ CDMX
@@ -1245,6 +1495,8 @@ https://stream-01.sv4.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2lwM3H1JrdTL2npYS_
 https://rt-esp.gcdn.co/live/rtesp/playlist_2500Kb.m3u8
 #EXTINF:-1 tvg-id="TeleSur.co" tvg-name="Telesur" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sur.png" group-title="INFORMACIÓN",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="DWEspanol.mx" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dw.png" group-title="INFORMACIÓN",DW (Español)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 
 ******************************* https://raw.githubusercontent.com/cesarivan2310/Lista/main/tv ********************************************************************************
