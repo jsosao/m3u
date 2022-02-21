@@ -2,7 +2,6 @@
 
 *************************** REGIO TV MX******************************************
 
-
 #EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Top Cine Latam
 https://regioplay.xyz/php/SR_REGIO_312022_/distroregio.php?c=top-cine-latam&f=.m3u8
 #EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Saber mas
