@@ -2,41 +2,74 @@
 
 *************************** REGIO TV MX******************************************
 
-#EXTINF:-1 group-title="Lista TV", ENERGEEK
+
+#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Top Cine Latam
+https://regioplay.xyz/php/SR_REGIO_312022_/distroregio.php?c=top-cine-latam&f=.m3u8
+#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Saber mas
+https://regioplay.xyz/php/SR_REGIO_312022_/distroregio.php?c=saber-mas&f=.m3u8
+#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Tu Cine Latam
+https://regioplay.xyz/php/SR_REGIO_312022_/distroregio.php?c=tu-cine-latam&f=.m3u8
+#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Flash
+https://regioplay.xyz/php/SR_REGIO_312022_/distroregio.php?c=flash-1&f=.m3u8
+#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", El conflicto TV
+https://regioplay.xyz/php/SR_REGIO_312022_/distroregio.php?c=el-conflicto-tv&f=.m3u8
+#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Chiquilines
+https://regioplay.xyz/php/SR_REGIO_312022_/distroregio.php?c=chiquilines&f=.m3u8
+#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Juntos
+https://regioplay.xyz/php/SR_REGIO_312022_/distroregio.php?c=juntos&f=.m3u8
+#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Cine Sureno
+https://regioplay.xyz/php/SR_REGIO_312022_/distroregio.php?c=cine-sureno&f=.m3u8
+#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Cine Real
+https://regioplay.xyz/php/SR_REGIO_312022_/distroregio.php?c=cine-real-latam&f=.m3u8
+#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Casa Comedy
+https://regioplay.xyz/php/SR_REGIO_312022_/distroregio.php?c=casa-comedy&f=.m3u8
+#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Spanglish
+https://regioplay.xyz/php/SR_REGIO_312022_/distroregio.php?c=spanglish&f=.m3u8
+#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Euronews N
+https://regioplay.xyz/php/SR_REGIO_312022_/distroregio.php?c=euronews-spa&f=.m3u8
+#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Horrorfy
+https://regioplay.xyz/php/SR_REGIO_312022_/distroregio.php?c=horrorfy&f=.m3u8
+#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", WappTV
+https://regioplay.xyz/php/SR_REGIO_312022_/distroregio.php?c=wapptv&f=.m3u8
+#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", MMC
+https://regioplay.xyz/php/SR_REGIO_312022_/distroregio.php?c=mmc&f=.m3u8
+#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Glewed TV 
+https://regioplay.xyz/php/SR_REGIO_312022_/distroregio.php?c=glewedtv-spanish&f=.m3u8
+#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", ENERGEEK
 https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w959585101.m3u8
-#EXTINF:-1 group-title="Lista TV", EL CHAVO TV
+#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", EL CHAVO TV
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
-#EXTINF:-1 group-title="Lista TV", DREIKO TV
+#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", DREIKO TV
 http://regioplay.xyz/php/SR_REGIO_312022_/dreiko.php?f=.m3u8
-#EXTINF:-1 group-title="Lista TV", MULTIMEDIOS MTY
+#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", MULTIMEDIOS MTY
 http://regioplay.xyz/php/SR_REGIO_312022_/multimedios.php?f=.m3u8
-#EXTINF:-1 group-title="Lista TV", WOW TV
+#EXTINF:-1   group-title="Lista TV" tvg-id="Lista TV", WOW TV
 https://regioplay.xyz/php/SR_REGIO_312022_/wowtv.php
-#EXTINF:-1 group-title="Lista TV", NET TV
+#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", NET TV
 http://regioplay.xyz/php/SR_REGIO_312022_/nettv.php?f=.m3u8
-#EXTINF:-1 group-title="Lista TV", RT ESPANOL
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", RT ESPANOL
 https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
-#EXTINF:-1 group-title="Lista TV", ESTRELLA TV
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Lista TV", AZTECA UNO
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 group-title="Lista TV", AZTECA 7
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 group-title="Lista TV", AZTECA 7.2
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA 7.2
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 group-title="Lista TV", ADN40
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 group-title="Lista TV", CANAL 26 AGUASCALIENTES
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", CANAL 26 AGUASCALIENTES
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-#EXTINF:-1 group-title="Lista TV", VIDEOROLA
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", VIDEOROLA
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
-#EXTINF:-1 group-title="Lista TV", PAKA PAKA
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", PAKA PAKA
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
-#EXTINF:-1 group-title="Lista TV", REWIND TV
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", REWIND TV
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
-#EXTINF:-1 group-title="Lista TV", La 2
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", La 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
-#EXTINF:-1 group-title="Lista TV", RCN
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", RCN
 https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZeHEjkhqSlilvFe29WZZXjY)/dm/3/x7vyv0z/s/live-3.m3u8
 
 *** NACIONALES ***
