@@ -2,49 +2,49 @@
 
 *************************** REGIO TV MX******************************************
 
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Top Cine Latam
+#EXTINF:-1 group-title="Lista TV", Top Cine Latam
 https://regioplay.xyz/php/SR_REGIO_312022_/distroregio.php?c=top-cine-latam&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Saber mas
+#EXTINF:-1 group-title="Lista TV", Saber mas
 https://regioplay.xyz/php/SR_REGIO_312022_/distroregio.php?c=saber-mas&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Tu Cine Latam
+#EXTINF:-1 group-title="Lista TV", Tu Cine Latam
 https://regioplay.xyz/php/SR_REGIO_312022_/distroregio.php?c=tu-cine-latam&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Flash
+#EXTINF:-1 group-title="Lista TV", Flash
 https://regioplay.xyz/php/SR_REGIO_312022_/distroregio.php?c=flash-1&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", El conflicto TV
+#EXTINF:-1 group-title="Lista TV", El conflicto TV
 https://regioplay.xyz/php/SR_REGIO_312022_/distroregio.php?c=el-conflicto-tv&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Chiquilines
+#EXTINF:-1 group-title="Lista TV", Chiquilines
 https://regioplay.xyz/php/SR_REGIO_312022_/distroregio.php?c=chiquilines&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Juntos
+#EXTINF:-1 group-title="Lista TV", Juntos
 https://regioplay.xyz/php/SR_REGIO_312022_/distroregio.php?c=juntos&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Cine Sureno
+#EXTINF:-1 group-title="Lista TV", Cine Sureno
 https://regioplay.xyz/php/SR_REGIO_312022_/distroregio.php?c=cine-sureno&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Cine Real
+#EXTINF:-1 group-title="Lista TV", Cine Real
 https://regioplay.xyz/php/SR_REGIO_312022_/distroregio.php?c=cine-real-latam&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Casa Comedy
+#EXTINF:-1 group-title="Lista TV", Casa Comedy
 https://regioplay.xyz/php/SR_REGIO_312022_/distroregio.php?c=casa-comedy&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Spanglish
+#EXTINF:-1 group-title="Lista TV", Spanglish
 https://regioplay.xyz/php/SR_REGIO_312022_/distroregio.php?c=spanglish&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Euronews N
+#EXTINF:-1 group-title="Lista TV", Euronews N
 https://regioplay.xyz/php/SR_REGIO_312022_/distroregio.php?c=euronews-spa&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Horrorfy
+#EXTINF:-1 group-title="Lista TV", Horrorfy
 https://regioplay.xyz/php/SR_REGIO_312022_/distroregio.php?c=horrorfy&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", WappTV
+#EXTINF:-1 group-title="Lista TV", WappTV
 https://regioplay.xyz/php/SR_REGIO_312022_/distroregio.php?c=wapptv&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", MMC
+#EXTINF:-1 group-title="Lista TV", MMC
 https://regioplay.xyz/php/SR_REGIO_312022_/distroregio.php?c=mmc&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Glewed TV 
+#EXTINF:-1 group-title="Lista TV", Glewed TV 
 https://regioplay.xyz/php/SR_REGIO_312022_/distroregio.php?c=glewedtv-spanish&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", ENERGEEK
+#EXTINF:-1 group-title="Lista TV", ENERGEEK
 https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w959585101.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", EL CHAVO TV
+#EXTINF:-1 group-title="Lista TV", EL CHAVO TV
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", DREIKO TV
+#EXTINF:-1 group-title="Lista TV", DREIKO TV
 http://regioplay.xyz/php/SR_REGIO_312022_/dreiko.php?f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", MULTIMEDIOS MTY
+#EXTINF:-1 group-title="Lista TV", MULTIMEDIOS MTY
 http://regioplay.xyz/php/SR_REGIO_312022_/multimedios.php?f=.m3u8
-#EXTINF:-1   group-title="Lista TV" tvg-id="Lista TV", WOW TV
+#EXTINF:-1 group-title="Lista TV", WOW TV
 https://regioplay.xyz/php/SR_REGIO_312022_/wowtv.php
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", NET TV
+#EXTINF:-1 group-title="Lista TV", NET TV
 http://regioplay.xyz/php/SR_REGIO_312022_/nettv.php?f=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", RT ESPANOL
 https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
