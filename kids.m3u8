@@ -3,34 +3,34 @@
 *************************** REGIO TV MX******************************************
 
 *** INFANTILES ***
-#EXTINF:1 group-title="LISTA MX", TOONCAST
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=108&p=3&k=srregio&f=.m3u8  
-#EXTINF:1 group-title="LISTA MX", DISCOVERY KIDS
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=109&p=3&k=srregio&f=.m3u8  
-#EXTINF:1 group-title="LISTA MX", NICK
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=331&p=3&k=srregio&f=.m3u8  
-#EXTINF:1 group-title="LISTA MX", DISNEY XD
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=111&p=3&k=srregio&f=.m3u8  
-#EXTINF:1 group-title="LISTA MX", CARTOON NETWORK
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=112&p=3&k=srregio&f=.m3u8  
-#EXTINF:1 group-title="LISTA MX", DISNEY CHANNEL
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=113&p=3&k=srregio&f=.m3u8  
-#EXTINF:1 group-title="LISTA MX", BOOMERANG
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=115&p=3&k=srregio&f=.m3u8 
-#EXTINF:1 group-title="LISTA MX", BABY TV 
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=116&p=3&k=srregio&f=.m3u8  
-#EXTINF:1 group-title="LISTA MX", NICK JR
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=117&p=3&k=srregio&f=.m3u8  
-#EXTINF:1 group-title="LISTA MX", DISNEY JR
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=118&p=3&k=srregio&f=.m3u8 
-#EXTINF:1 group-title="LISTA MX", NICKTOONS SD 
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=1708&p=3&k=srregio&f=.m3u8  
-#EXTINF:1 group-title="LISTA MX", BABY FIRST
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=1984&p=3&k=srregio&f=.m3u8  
-#EXTINF:1 group-title="LISTA MX", NICK 2  
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2147&p=3&k=srregio&f=.m3u8
-#EXTINF:1 group-title="LISTA MX", NAT GEO KIDS  
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2373&p=3&k=srregio&f=.m3u8 
-#EXTINF:1 group-title="LISTA MX", BIT ME  
-http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=2591&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="LISTA MX", TOONCAST
+https://regioplay.xyz/php/SR_REGIO_223022_/ttpp.php?c=108&=f.m3u8  
+#EXTINF:-1 group-title="LISTA MX", DISCOVERY KIDS
+https://regioplay.xyz/php/SR_REGIO_223022_/ttpp.php?c=109&=f.m3u8  
+#EXTINF:-1 group-title="LISTA MX", NICK
+https://regioplay.xyz/php/SR_REGIO_223022_/ttpp.php?c=110&=f.m3u8  
+#EXTINF:-1 group-title="LISTA MX", DISNEY XD
+https://regioplay.xyz/php/SR_REGIO_223022_/ttpp.php?c=111&=f.m3u8  
+#EXTINF:-1 group-title="LISTA MX", CARTOON NETWORK
+https://regioplay.xyz/php/SR_REGIO_223022_/ttpp.php?c=112&=f.m3u8  
+#EXTINF:-1 group-title="LISTA MX", DISNEY CHANNEL
+https://regioplay.xyz/php/SR_REGIO_223022_/ttpp.php?c=113&=f.m3u8  
+#EXTINF:-1 group-title="LISTA MX", BOOMERANG
+https://regioplay.xyz/php/SR_REGIO_223022_/ttpp.php?c=115&=f.m3u8 
+#EXTINF:-1 group-title="LISTA MX", BABY TV 
+https://regioplay.xyz/php/SR_REGIO_223022_/ttpp.php?c=116&=f.m3u8  
+#EXTINF:-1 group-title="LISTA MX", NICK JR
+https://regioplay.xyz/php/SR_REGIO_223022_/ttpp.php?c=117&=f.m3u8  
+#EXTINF:-1 group-title="LISTA MX", DISNEY JR
+https://regioplay.xyz/php/SR_REGIO_223022_/ttpp.php?c=118&=f.m3u8 
+#EXTINF:-1 group-title="LISTA MX", NICKTOONS SD 
+https://regioplay.xyz/php/SR_REGIO_223022_/ttpp.php?c=1708&=f.m3u8  
+#EXTINF:-1 group-title="LISTA MX", BABY FIRST
+https://regioplay.xyz/php/SR_REGIO_223022_/ttpp.php?c=1984&=f.m3u8  
+#EXTINF:-1 group-title="LISTA MX", NICK 2  
+https://regioplay.xyz/php/SR_REGIO_223022_/ttpp.php?c=2147&=f.m3u8
+#EXTINF:-1 group-title="LISTA MX", NAT GEO KIDS  
+https://regioplay.xyz/php/SR_REGIO_223022_/ttpp.php?c=2373&=f.m3u8 
+#EXTINF:-1 group-title="LISTA MX", BIT ME  
+https://regioplay.xyz/php/SR_REGIO_223022_/ttpp.php?c=2591&=f.m3u8
 
