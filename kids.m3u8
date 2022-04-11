@@ -1,36 +1,30 @@
-#EXTM3U
-
-*************************** REGIO TV MX******************************************
-
-*** INFANTILES ***
 #EXTINF:-1 group-title="LISTA MX", TOONCAST
-https://regioplay.xyz/php/SR_REGIO_223022_/ttpp.php?c=108&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=108&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", DISCOVERY KIDS
-https://regioplay.xyz/php/SR_REGIO_223022_/ttpp.php?c=109&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=109&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", NICK
-https://regioplay.xyz/php/SR_REGIO_223022_/ttpp.php?c=110&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=110&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", DISNEY XD
-https://regioplay.xyz/php/SR_REGIO_223022_/ttpp.php?c=111&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=111&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", CARTOON NETWORK
-https://regioplay.xyz/php/SR_REGIO_223022_/ttpp.php?c=112&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=112&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", DISNEY CHANNEL
-https://regioplay.xyz/php/SR_REGIO_223022_/ttpp.php?c=113&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=113&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", BOOMERANG
-https://regioplay.xyz/php/SR_REGIO_223022_/ttpp.php?c=115&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=115&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", BABY TV 
-https://regioplay.xyz/php/SR_REGIO_223022_/ttpp.php?c=116&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=116&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", NICK JR
-https://regioplay.xyz/php/SR_REGIO_223022_/ttpp.php?c=117&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=117&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", DISNEY JR
-https://regioplay.xyz/php/SR_REGIO_223022_/ttpp.php?c=118&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=118&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", NICKTOONS SD 
-https://regioplay.xyz/php/SR_REGIO_223022_/ttpp.php?c=1708&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=1708&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", BABY FIRST
-https://regioplay.xyz/php/SR_REGIO_223022_/ttpp.php?c=1984&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=1984&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", NICK 2  
-https://regioplay.xyz/php/SR_REGIO_223022_/ttpp.php?c=2147&=f.m3u8
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2147&=f.m3u8
 #EXTINF:-1 group-title="LISTA MX", NAT GEO KIDS  
-https://regioplay.xyz/php/SR_REGIO_223022_/ttpp.php?c=2373&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2373&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", BIT ME  
-https://regioplay.xyz/php/SR_REGIO_223022_/ttpp.php?c=2591&=f.m3u8
-
+http://regioplay.xyz/php/SR_REGIO_223022_/nuevotp.php?c=2591&=f.m3u8
