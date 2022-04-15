@@ -1072,25 +1072,19 @@ http://clubtv.link/11ab/abril1/geomex.php?c=178
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="RECOMENDADOS",TUDN (HD)
 http://clubtv.link/11ab/abril1/geomex.php?c=174
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/afizzi.png" group-title="RECOMENDADOS",Afizzionados
-http://bgapp.live/play/14-412.php?c=878&token=blccck-gh08st&f=.m3u8
+http://bgapp.live/play/tvghd-414.php?id=izzi-afizzionados-en-vivo&k=blckghooooooooooooossst&file=.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="RECOMENDADOS",Claro Sports (HD)
 http://clubtv.link/11ab/abril1/geomex.php?c=2564
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png" group-title="RECOMENDADOS",TNT
 http://clubtv.link/11ab/abril1/geomex.php?c=126
-#EXTINF:-1 group-title="RECOMENDADOS", *TNT SPORT 2 MX HBO MAX HD
-http://bgapp.live/play/zufree-412.php?blck=dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dg&c=3549.m3u8
-#EXTINF:-1 group-title="RECOMENDADOS", *TNT SPORT MX HBO MAX HD
-http://bgapp.live/play/zufree-412.php?blck=dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dg&c=3550.m3u8
-#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" group-title="RECOMENDADOS" ,Univisión 23 FL
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/345.m3u8
+#EXTINF:-1 tvg-id="TelemundoNetwork(Spanish).us" group-title="RECOMENDADOS" ,Telemundo 51 Miami
+http://bgapp.live/play/tvghd-414.php?id=telemundo-en-vivo&k=blckghooooooooooooossst&file=.m3u8
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" group-title="RECOMENDADOS" ,TUDN (USA)
-http://bgapp.live/play/14-412.php?c=100&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1 tvg-id="UnimasNetworkEast(Spanish).us" group-title="RECOMENDADOS" ,UniMás
-http://bgapp.live/play/trasco-412.php?c=9603UNIMW/transco7&token=blccck-gh08st&f=.m3u8
+http://bgapp.live/play/trasco-414.php?c=9556UTDN/transcob9&token=blcccck-gh0st&f=.m3u8
+#EXTINF:-1 tvg-id="UnimasNetwork(Spanish).us" group-title="RECOMENDADOS" ,UniMás
+http://bgapp.live/play/trasco-414.php?c=9603UNIMW/transco7&token=blcccck-gh0st&f=.m3u8
 #EXTINF:-1 tvg-id="GalavisionNetwork(Spanish).us" group-title="RECOMENDADOS" ,GALAVISIÓN (USA)
-http://bgapp.live/play/trasco-412.php?c=9602GLVSN/transco16&token=blccck-gh08st&f=.m3u8
-#EXTINF:-1 tvg-id="FoxSports2(ConoSur).co" tvg-name="Fox Sports 2 (COL)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox2.png" group-title="RECOMENDADOS",Fox Sports 2 (COL)
-http://190.92.95.37:8000/play/a0hn/index.m3u8
+http://bgapp.live/play/trasco-414.php?c=9602GLVSN/transco16&token=blcccck-gh0st&f=.m3u8
 
 
 #EXTINF:-1 tvg-id="XHDFAztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="LOCALES",Azteca Uno (HD)
