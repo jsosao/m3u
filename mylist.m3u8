@@ -20,12 +20,8 @@ http://51.161.118.146:8080/ISG03_CBS_CHARLOTTE_NC_WBTV/tracks-v4a1/mono.m3u8
 http://51.161.118.146:8080/ISG03_CBS_BOSTON_MA_WBZ/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG.us",NBC Charlotte NC (WCNC-DT1) (720p)
 http://51.161.118.146:8080/ISG03_NBC_CHARLOTTE_NC_WCNC/video.m3u8
-#EXTINF:-1 group-title="IPTV ORG.us",MeTV (WCTV-DT2) Tallahassee FL (480p)
-https://5e6cea03e25b6.streamlock.net/live/WCTVDT2.stream/playlist.m3u8
 #EXTINF:-1 group-title="IPTV ORG.us",ABC Boston MA (WCVB-DT1) (720p)
 http://51.161.118.146:8080/ISG03_ABC_BOSTON_MA_WCVB/video.m3u8
-#EXTINF:-1 group-title="IPTV ORG.us",The CW (WCWN-DT1) Albamy NY (1080p)
-https://16live00.akamaized.net/CW/index.m3u8
 #EXTINF:-1 group-title="IPTV ORG.us",NBC Detroit MI (WDIV-DT1) (720p)
 http://51.161.118.146:8080/ISG03_NBC_DETROIT_MI_WDIV/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG.us",CBS Milwaukee WI (WDJT-DT1) (1080p)
@@ -38,8 +34,6 @@ http://51.161.118.146:8080/ISG03_NBC_ORLANDO_FL_WESH/video.m3u8
 http://51.161.118.146:8080/ISG03_ABC_CLEVELAND_OH_WEWS/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG.us",ABC Dallas TX (WFAA-DT1) (720p)
 http://51.161.118.146:8080/ISG03_ABC_DALLAS_TX_WFAA/video.m3u8
-#EXTINF:-1 group-title="IPTV ORG.us",CTN 61 Riviera Beach FL (WFGC) (720p) [Not 24/7]
-http://hls1.livestreamingcdn.com:1935/livecdn631/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="IPTV ORG.us",FOX Chicago IL (WFLD-DT1) (720p)
 http://51.161.118.146:8080/ISG03_FOX_CHICAGO_IL_WFLD/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG.us",CBS (WFOR-DT1) Miami FL (1080p)
@@ -64,7 +58,7 @@ http://51.161.118.146:8080/ISG03_ABC_MILWAUKEE_WI_WISN/video.m3u8
 http://51.161.118.146:8080/ISG03_FOX_MILWAUKEE_WI_WITI/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG.us",NBC Altoona PA (WJAC1) (720p)
 http://trn03.tulix.tv/teleup-nbc-wgal-new1/playlist.m3u8
-#EXTINF:-1 group-title="IPTV ORG1.us",CBS Jacksonville FL (WJAX-DT1) (720p)
+#EXTINF:-1 group-title="IPTV ORG.us",CBS Jacksonville FL (WJAX-DT1) (720p)
 http://51.161.118.146:8080/ISG03_CBS_JACKSONVILLE_FL_WJAX/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG.us",ABC Washington DC (WJLA-DT1) (720p)
 http://51.161.118.146:8080/ISG03_ABC_WASHINGTON_DC_WJLA/video.m3u8
@@ -92,8 +86,6 @@ http://51.161.118.146:8080/ISG03_ABC_MIAMI_FL_WPLG/video.m3u8
 https://16live00.akamaized.net/ABC_EAST/index.m3u8
 #EXTINF:-1 group-title="IPTV ORG.us",abc (WPLG-DT1) Miami FL (720p)
 http://38.127.211.18/live/c2eds/ABC/HLS/index.m3u8
-#EXTINF:-1 group-title="IPTV ORG.us",PBS (WPSU-DT1) Altoona PA (720p)
-http://trn03.tulix.tv/lnABbIUBrO/playlist.m3u8
 #EXTINF:-1 group-title="IPTV ORG.us",NBC Pittsburgh PA (WPXI-DT1) (720p)
 http://51.161.118.146:8080/ISG03_NBC_PITTSBURGH_PA_WPXI/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG.us",ABC Indianapolis IN (WRTV-DT1) (720p)
