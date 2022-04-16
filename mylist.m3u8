@@ -1,17 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ABCEast.us",ABC2 Atlanta WSB (720p) [Not 24/7]
-http://51.161.118.146:8080/ISG03_ABC_ATLANTA_GA_WSB/video.m3u8
-#EXTINF:-1 group-title="ABCEast.us",ABC5 Boston WCVB (720p)
-http://51.161.118.146:8080/ISG03_ABC_BOSTON_MA_WCVB/video.m3u8
-#EXTINF:-1 group-title="ABCEast.us",ABC9 Charlotte WSOC (720p)
-http://51.161.118.146:8080/ISG03_ABC_CHARLOTTE_NC_WSOC/video.m3u8
-#EXTINF:-1 group-title="ABCEast.us",ABC7 Chicago WLS (720p)
-http://51.161.118.146:8080/ISG03_ABC_CHICAGO_IL_WLS/video.m3u8
-
-
-#EXTINF:-1 group-title="IPTV ORG.us",NBC Baltimore MD (WBAL-DT1) (720p) [Not 24/7]
-http://51.161.118.146:8080/ISG03_NBC_BALTIMORE_MD_WBAL/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG.us",CBS Chicago IL (WBBM-DT1) (1080p)
 http://51.161.118.146:8080/ISG03_CBS_CHICAGO_IL_WBBM/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="IPTV ORG.us",CBS Charlotte NC (WBTV-DT1) (720p)
@@ -26,8 +14,6 @@ http://51.161.118.146:8080/ISG03_ABC_BOSTON_MA_WCVB/video.m3u8
 http://51.161.118.146:8080/ISG03_NBC_DETROIT_MI_WDIV/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG.us",CBS Milwaukee WI (WDJT-DT1) (1080p)
 http://51.161.118.146:8080/ISG03_CBS_MILWAUKEE_WI_WDJT/video.m3u8
-#EXTINF:-1 group-title="IPTV ORG.us",NBC New Orleans LA (WDSU-DT1) (720p) [Not 24/7]
-http://51.161.118.146:8080/ISG03_NBC_NEW_ORLEANS_LA_WDSU/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG.us",NBC Orlando FL (WESH-DT1) (720p)
 http://51.161.118.146:8080/ISG03_NBC_ORLANDO_FL_WESH/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG.us",ABC Cleveland OH (WEWS-DT1) (720p)
@@ -68,8 +54,6 @@ http://51.161.118.146:8080/ISG03_FOX_CLEVELAND_OH_WJW/video.m3u8
 http://51.161.118.146:8080/ISG03_CBS_BALTIMORE_MD_WJZ/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG.us",CBS Orlando FL (WKMG-DT1) (1080p)
 http://51.161.118.146:8080/ISG03_CBS_ORLANDO_FL_WKMG/video.m3u8
-#EXTINF:-1 group-title="IPTV ORG.us",ABC Nashville TN (WKRN-DT1) (720p) [Not 24/7]
-http://51.161.118.146:8080/ISG03_ABC_NASHVILLE_TN_WKRN/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG.us",NBC Cleveland OH (WKYC-DT1) (540p)
 http://51.161.118.146:8080/ISG03_NBC_CLEVELAND_OH_WKYC/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG.us",ABC Chicago IL (WLS-DT1) (720p)
@@ -90,8 +74,6 @@ http://38.127.211.18/live/c2eds/ABC/HLS/index.m3u8
 http://51.161.118.146:8080/ISG03_NBC_PITTSBURGH_PA_WPXI/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG.us",ABC Indianapolis IN (WRTV-DT1) (720p)
 http://51.161.118.146:8080/ISG03_ABC_INDIANAPOLIS_IN_WRTV/video.m3u8
-#EXTINF:-1 group-title="IPTV ORG.us",ABC Atlanta GA (WSB-DT1) (720p) [Not 24/7]
-http://51.161.118.146:8080/ISG03_ABC_ATLANTA_GA_WSB/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG.us",NBC Nashville TN (WSMV-DT1) (576p)
 http://51.161.118.146:8080/ISG03_NBC_NASHVILLE_TN_WSMV/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG.us",ABC Charlotte NC (WSOC-DT1) (720p)
@@ -102,8 +84,6 @@ http://51.161.118.146:8080/ISG03_FOX_MIAMI_FL_WSVN/video.m3u8
 http://38.127.211.18/live/c2eds/FOX/HLS/index.m3u8
 #EXTINF:-1 group-title="IPTV ORG.us",ABC Columbus OH (WSYX-DT1) (720p)
 http://51.161.118.146:8080/ISG03_ABC_COLUMBUS_OH_WSYX/video.m3u8
-#EXTINF:-1 group-title="IPTV ORG.us",ABC Pittsburgh PA (WTAE-DT1) (720p) [Not 24/7]
-http://51.161.118.146:8080/ISG03_ABC_PITTSBURGH_PA_WTAE/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG.us",CBS Altoona PA (WTAJ1) (720p)
 http://trn03.tulix.tv/teleup-cbs-whp-new1/playlist.m3u8
 #EXTINF:-1 group-title="IPTV ORG.us",NBC Indianapolis IN (WTHR-DT1) (720p)
@@ -118,8 +98,6 @@ http://51.161.118.146:8080/ISG03_FOX_WASHINGTON_DC_WTTG/video.m3u8
 http://51.161.118.146:8080/ISG03_ABC_RALEIGH_NC_WTVD/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG.us",CBS Nashville TN (WTVF-DT1) (1080p)
 http://51.161.118.146:8080/ISG03_CBS_NASHVILLE_TN_WTVF/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="IPTV ORG.us",NBC Miami FL (WTVJ-DT1) (720p) [Not 24/7]
-http://51.161.118.146:8080/ISG03_NBC_MIAMI_FL_WTVJ/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG.us",NBC (WTVJ-DT1) Miami FL (1080p)
 http://38.127.211.18/live/c2eds/NBC/HLS/index.m3u8
 #EXTINF:-1 group-title="IPTV ORG.us",CBS Washington DC (WUSA-DT1) (1080p)
@@ -136,21 +114,11 @@ http://51.161.118.146:8080/ISG03_CBS_DETROIT_MI_WWJ/video.m3u8
 https://16live00.akamaized.net/CBS_EAST/index.m3u8
 #EXTINF:-1 group-title="IPTV ORG.us",CBS New Orleans LA (WWL-DT1) (1080p)
 http://51.161.118.146:8080/ISG03_CBS_NEW_ORLEANS_LA_WWL/video.m3u8
-#EXTINF:-1 group-title="IPTV ORG.us",NBC Atlanta GA (WXIA-DT1) (720p) [Not 24/7]
-http://51.161.118.146:8080/ISG03_NBC_ATLANTA_GA_WXIA/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG.us",FOX Indianapolis IN (WXIN-DT1) (720p)
 http://51.161.118.146:8080/ISG03_FOX_INDIANAPOLIS_IN_WXIN/video.m3u8
 
-
 #EXTINF:-1 group-title="IPTV ORG_2.us",Charge! (720p)
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
-
-#EXTINF:-1 group-title="IPTV ORG_2.us",Cinemax [Geo-blocked]
-http://23.237.202.43:7283/CINEMAX-FHD/index.m3u8?sn=Ux0Oojow5FkqHQCpMmUNQKUr4Wb&tm=1626349319&un=rommel07
-
-#EXTINF:-1 group-title="IPTV ORG_2.us",Cinemax East (360p) [Geo-blocked]
-http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="IPTV ORG_2.us",CNN USA (720p)
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",CNN USA (480p)
@@ -161,22 +129,12 @@ https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",CNN USA (360p)
 http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
-#EXTINF:-1 group-title="IPTV ORG_2.us",CNN Brasil (1080p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live
-#EXTINF:-1 group-title="IPTV ORG_2.us",CNN Chile (720p)
-https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",CNN en Español
 http://209.91.213.10:8088/play/a014
 #EXTINF:-1 group-title="IPTV ORG_2.us",HBO Asia
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="IPTV ORG_2.us",History (540p) [Not 24/7]
-http://s1.mysportz.tv:2082/history/playlist.m3u8
-#EXTINF:-1 group-title="IPTV ORG_2.us",History East (720p) [Not 24/7]
-https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",CBS Los Angeles CA (KCBS-DT1) (1080p)
 http://51.161.118.146:8080/ISG03_CBS_LOS_ANGELES_CA_KCBS/video.m3u8
-#EXTINF:-1 group-title="IPTV ORG_2.us",Jewelry TV (KCKS-LD12) (480p)
-https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",CBS Denver CO (KCNC-DT1) (1080p)
 http://51.161.118.146:8080/ISG03_CBS_DENVER_CO_KCNC/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",FOX Seattle WA (KCPQ-DT1) (720p)
@@ -187,8 +145,6 @@ http://51.161.118.146:8080/ISG03_NBC_SACRAMENTO_CA_KCRA/video.m3u8
 http://51.161.118.146:8080/ISG03_FOX_DALLAS_TX_KDFW/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",CBS Pittsburgh PA (KDKA-DT1) (1080p)
 http://51.161.118.146:8080/ISG03_CBS_PITTSBURGH_PA_KDKA/video.m3u8
-#EXTINF:-1 group-title="IPTV ORG_2.us",Univision San Francisco CA (KDTVDT1) [Geo-blocked] (720p)
-https://dai.google.com/linear/hls/event/lTSACKfkQNSrCSBM_hE-mg/master.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",FOX Denver CO (KDVR-DT1) (720p)
 http://51.161.118.146:8080/ISG03_FOX_DENVER_CO_KDVR/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",CBS San Diego CA (KFMB-DT1) (720p)
@@ -207,10 +163,6 @@ http://51.161.118.146:8080/ISG03_CBS_SEATTLE_WA_KIRO/video.m3u8
 http://51.161.118.146:8080/ISG03_ABC_DENVER_CO_KMGH/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",NBC Los Angeles CA (KNBC-DT1) (720p)
 http://51.161.118.146:8080/ISG03_NBC_LOS_ANGELES_CA_KNBC/video.m3u8
-#EXTINF:-1 group-title="IPTV ORG_2.us",Panarmenian TV (KNET-CD 25.2) (360p) [Not 24/7]
-http://granicusliveus6-a.akamaihd.net/torrance/G0057_005/playlist.m3u8
-#EXTINF:-1 group-title="IPTV ORG_2.us",NBC San Francisco CA (KNTV-DT1) (720p) [Not 24/7]
-http://51.161.118.146:8080/ISG03_NBC_SAN_FRANCISCO_CA_KNTV/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",ABC Phoenix AZ (KNXV-DT1) (720p)
 http://51.161.118.146:8080/ISG03_ABC_PHOENIX_AZ_KNXV/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",ABC Seattle WA (KOMO-DT1) (720p)
@@ -221,8 +173,6 @@ http://51.161.118.146:8080/ISG03_CBS_SACRAMENTO_CA_KOVR/tracks-v5a1/mono.m3u8
 http://51.161.118.146:8080/ISG03_CBS_PHOENIX_AZ_KPHO/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",CBS San Francisco CA (KPIX-DT1) (1080p)
 http://51.161.118.146:8080/ISG03_CBS_SAN_FRANCISCO_CA_KPIX/video.m3u8
-#EXTINF:-1 group-title="IPTV ORG_2.us",NBC Phoenix AZ (KPNX-DT1) (720p) [Not 24/7]
-http://51.161.118.146:8080/ISG03_NBC_PHOENIX_AZ_KPNX/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",NBC Houston TX (KPRC-DT1) (720p)
 http://51.161.118.146:8080/ISG03_NBC_HOUSTON_TX_KPRC/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",FOX Houston TX (KRIV-DT1) (720p)
@@ -231,10 +181,6 @@ http://51.161.118.146:8080/ISG03_FOX_HOUSTON_TX_KRIV/video.m3u8
 http://51.161.118.146:8080/ISG03_FOX_PHOENIX_AZ_KSAZ/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",FOX San Diego CA (KSWB-DT1) (720p)
 http://51.161.118.146:8080/ISG03_FOX_SAN_DIEGO_CA_KSWB/video.m3u8
-#EXTINF:-1 group-title="IPTV ORG_2.us",The CW Los Angeles CA (KTLA-DT1) (720p) [Not 24/7]
-http://trn03.tulix.tv/teleup-N8qwnqgUq2/playlist.m3u8
-#EXTINF:-1 group-title="IPTV ORG_2.us",ABC Houston TX (KTRK-DT1) (720p) [Not 24/7]
-http://51.161.118.146:8080/ISG03_ABC_HOUSTON_TX_KTRK/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",FOX Los Angeles CA (KTTV-DT1) (720p)
 http://51.161.118.146:8080/ISG03_FOX_LOS_ANGELES_CA_KTTV/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",CBS Dallas TX (KTVT-DT1) (1080p)
@@ -247,11 +193,8 @@ http://51.161.118.146:8080/ISG03_FOX_SACRAMENTO_CA_KTXL/video.m3u8
 http://51.161.118.146:8080/ISG03_ABC_SACRAMENTO_CA_KXTV/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",NBA TV (720p)
 https://d17f1mg1q6g54e.cloudfront.net/hls/nbatv/chunks.m3u8
-#EXTINF:-1 group-title="IPTV ORG_2.us" status="error" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",NBA TV (720p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+#EXTINF:-1 group-title="IPTV ORG_2.us",NBA TV (720p) [Not 24/7]
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1 group-title="IPTV ORG_2.us",TNT East (720p) [Geo-blocked]
-https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",TNT Sports 2 Brasil (720p) [Not 24/7]
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",TNT Sports 3 Brasil (720p)
@@ -260,8 +203,6 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",TNT Sports 5 Brasil (720p) [Not 24/7]
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
-#EXTINF:-1 group-title="TIPTV ORG_2.us",TNT West (720p) [Geo-blocked]
-https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
 
 *************************** REGIO TV MX******************************************
 
