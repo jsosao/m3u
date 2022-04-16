@@ -9,6 +9,74 @@ http://51.161.118.146:8080/ISG03_ABC_CHARLOTTE_NC_WSOC/video.m3u8
 #EXTINF:-1 group-title="ABCEast.us",ABC7 Chicago WLS (720p)
 http://51.161.118.146:8080/ISG03_ABC_CHICAGO_IL_WLS/video.m3u8
 
+
+
+
+#EXTINF:0 group-title="IPTVCAT",CBS 10 TAMPA SD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SG8gPK_RYjCg3dR7ab1iUjE/ts?checkedby:iptvcat.com
+#EXTINF:0 group-title="IPTVCAT",CBS 11 DALLAS SD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJgKhEVRflS_GRyP6Dxr64U/ts?checkedby:iptvcat.com
+#EXTINF:0 group-title="IPTVCAT",CBS 11 HOUSTON
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SIXNXPSto0mi49bCrZFjzck/ts?checkedby:iptvcat.com
+#EXTINF:0 group-title="IPTVCAT",CBS 2 (KCBS) Los Angeles
+http://new-pro.tv:8080/Fernando/123321/91173?checkedby:iptvcat.com
+#EXTINF:0 group-title="IPTVCAT",CBS 2 (WBBM) Chicago
+http://new-pro.tv:8080/Fernando/123321/287494?checkedby:iptvcat.com
+#EXTINF:0 group-title="IPTVCAT",NBC  (Boston )
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SCxMmwcI9TrVZgYAApAOKxw/ts?checkedby:iptvcat.com
+#EXTINF:0 group-title="IPTVCAT",NBC (EAST)
+http://new-pro.tv:8080/Fernando/123321/313477?checkedby:iptvcat.com
+#EXTINF:0 group-title="IPTVCAT",NBC (New York) HD
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/62708.ts?checkedby:iptvcat.com
+#EXTINF:0 group-title="IPTVCAT",NBC 11 (Pittsburgh)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SN1L6GnZ9wDwJCO1gTyEp8Y/ts?checkedby:iptvcat.com
+#EXTINF:0 group-title="IPTVCAT",NBC 36 Austin HD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/199680?checkedby:iptvcat.com
+#EXTINF:0 group-title="IPTVCAT",ABC (West) HD
+http://new-pro.tv:8080/Fernando/123321/313406?checkedby:iptvcat.com
+#EXTINF:0 group-title="IPTVCAT",ABC 13 HOUSTON SD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBqV9KOQvd0tr5HRla25rP4/ts?checkedby:iptvcat.com
+#EXTINF:0 group-title="IPTVCAT",ABC 28 (WFTS) Tampa
+http://new-pro.tv:8080/Fernando/123321/154020?checkedby:iptvcat.com
+#EXTINF:0 group-title="IPTVCAT",ABC 5 BOSTON
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMFOMwMh1myfnEcsvdFcxNk/ts?checkedby:iptvcat.com
+#EXTINF:0 group-title="IPTVCAT",ABC 7 NEW YORK
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SEU6wINyy8np4WETn8mYYYY/ts?checkedby:iptvcat.com
+#EXTINF:0 group-title="IPTVCAT",FOX 11 (KTTV) Los Angeles
+http://new-pro.tv:8080/Fernando/123321/91184?checkedby:iptvcat.com
+#EXTINF:0 group-title="IPTVCAT",FOX 13 (WTVT) Tampa
+http://new-pro.tv:8080/Fernando/123321/154017?checkedby:iptvcat.com
+#EXTINF:0 group-title="IPTVCAT",FOX 25 BOSTON
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPPWXifWm-oA7tQ6pM_xaxY/ts?checkedby:iptvcat.com
+#EXTINF:0 group-title="IPTVCAT",FOX 28 COLUMBUS OH
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SP46QkTUnHLE6uNdDpZqPlo/ts?checkedby:iptvcat.com
+#EXTINF:0 group-title="IPTVCAT",FOX 35 ORLANDO
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHXcUyKhzKlx91zsYETTJg4/ts?checkedby:iptvcat.com
+#EXTINF:0 group-title="IPTVCAT",FOX Miami
+http://new-pro.tv:8080/Fernando/123321/313586?checkedby:iptvcat.com
+#EXTINF:0 group-title="IPTVCAT",UNIVISION
+http://fortv.cc:8080/alphonso/alphonso/15336?checkedby:iptvcat.com
+#EXTINF:0 group-title="IPTVCAT",US Univision 23 (WLTV) Miami (Y)
+http://fortv.cc:8080/alphonso/alphonso/46692?checkedby:iptvcat.com
+#EXTINF:0 group-title="IPTVCAT",Univision New York
+http://new-pro.tv:8080/Fernando/123321/179637?checkedby:iptvcat.com
+#EXTINF:0 group-title="IPTVCAT",NBC Telemundo
+http://new-pro.tv:8080/Fernando/123321/313518?checkedby:iptvcat.com
+#EXTINF:0 group-title="IPTVCAT",Telemundo Boston
+http://new-pro.tv:8080/Fernando/123321/313450?checkedby:iptvcat.com
+#EXTINF:0 group-title="IPTVCAT",Telemundo Dallas
+http://new-pro.tv:8080/Fernando/123321/313469?checkedby:iptvcat.com
+#EXTINF:0 group-title="IPTVCAT",Telemundo New York
+http://new-pro.tv:8080/Fernando/123321/179624?checkedby:iptvcat.com
+#EXTINF:0 group-title="IPTVCAT",US Latin TUDN (A)
+http://fortv.cc:8080/alphonso/alphonso/21644?checkedby:iptvcat.com
+#EXTINF:0 group-title="IPTVCAT",US Latin TUDN (A)
+http://fortv.cc:8080/alphonso/alphonso/11885?checkedby:iptvcat.com
+#EXTINF:0 group-title="IPTVCAT",US Latin TUDN (X)
+http://fortv.cc:8080/alphonso/alphonso/82241?checkedby:iptvcat.com
+
+
+
 *************************** REGIO TV MX******************************************
 
 #EXTINF:-1 group-title="Lista TV", Wowly 360p
