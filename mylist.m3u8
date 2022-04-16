@@ -2306,9 +2306,12 @@ http://ytv.plus:25461/live/Maria/1234/17323.m3u8
 http://ytv.plus:25461/live/Maria/1234/1601.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Unimas Op2
 http://ytv.plus:25461/live/Maria/1234/1839.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Unimas Op3
+http://tvencasa.fun:2052/live/4236/4236/4429.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", NBC Universo 
 http://ytv.plus:25461/live/Maria/1234/217.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Galavision
+http://tvencasa.fun:2052/live/4236/4236/4332.m3u
 
 
 
@@ -2610,11 +2613,13 @@ http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/963.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", SKY Sports
 http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/60373.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", SKY Sports Op2
-http://ytv.plus:25461/live/Maria/1234/17327.m3u8
+http://tvencasa.fun:2052/live/4236/4236/210279.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", SKY Sports Op3
 http://ytv.plus:25461/live/Maria/1234/17328.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", SKY Sports Op4
 http://plus-tv.net:25461/live/genoveva/genoveva/7158.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", SKY Sports Op5
+http://tvencasa.fun:2052/live/4236/4236/210278.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", SKY Sports Premier
 http://plus-tv.net:25461/live/genoveva/genoveva/7164.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", SKY Sports Premier 2
@@ -2648,6 +2653,10 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczc
 https://chromecast.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", TUDN MX 
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj6j8kebx621181j6ak1c8ezcex66cbxvaack2a8t18zpcajhxpa22bbzx8jzxbjhjpzxezhvkahx88kcz62axh2p6vjzacbhze111cvh21ceevxhvzkexjatex6v6tbehepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=174&f=HLS&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", TUDN USA 
+http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/1548.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", TUDN USA Op2
+http://tvencasa.fun:2052/live/4236/4236/50969.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", TVC Deportes
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj6j8kebx621181j6ak1c8ezcex66cbxvaack2a8t18zpcajhxpa22bbzx8jzxbjhjpzxezhvkahx88kcz62axh2p6vjzacbhze111cvh21ceevxhvzkexjatex6v6tbehepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2157&f=HLS&f=.m3u8
 
@@ -2790,6 +2799,12 @@ http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", USA | ESPN 2
 http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", USA | WWE
+http://tvencasa.fun:2052/live/4236/4236/187212.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", USA | Combate UFC
+http://tvencasa.fun:2052/live/4236/4236/239078.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", MOTOAMERICA TV
 https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_PREV_v0.m3u8
 
@@ -2834,6 +2849,15 @@ http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/977.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", DeporTV (ARG)
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", DirecTV Sports (ARG)
+http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/59797.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", DirecTV Sports (ECU)
+http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/989.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", DirecTV Sports (URU)
+http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/125192.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", TNT Sports (ARG)
 http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/3180.m3u8
@@ -3510,4 +3534,330 @@ https://chromecast.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Uni
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium 2", Warner
 https://chromecast.cvattv.com.ar/live/live/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", La 1
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", La 2 - Offline
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", La 2
+http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_1500_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", rtve
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Megavision (BO)
+https://livefocamundo.com:8081/megavisiontv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Gigavision
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/GIGAVISION/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Nick
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NICKELODEONHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Nick Jr
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NICKJRHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Telefe
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TELEFEHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Enlace
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ENLACETBN/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", TV Chile
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVNCHILE/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Enlace Juvenil
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EJTV/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", CNN Español
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CNNESPANOL/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", CNN (US)
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TELESUR/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", MTV
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/MTVHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Nick Music
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/VH1MEGAHITS/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", MTV DANCE
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/MTVDANCE/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", El Trece
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ELTRECE/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", América Sports
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/AMERICASPORTS/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Disney Jr
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISNEYJR/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Disney XD
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISNEYXD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Discovery Kids
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYKIDSHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", TV France 3
+http://www.filmon.com/vr-streams/3893.high/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", itv 1 (UK)
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/268.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", itv 1-1 (UK)
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/74182.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", itv 2 (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/267
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", itv 2-1 (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74183
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", itv 3 (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/252
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", itv 3-1 (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74184
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", itv 4 (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/251
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", itv 4-1 (UK)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74185
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", X
+http://xdgo.live:8080/live/fontanezenittmia/AXaWZNUG6J/1740.m3u8?sd=10&dw=0&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", X Latinos
+http://xdgo.live:8080/live/fontanezenittmia/AXaWZNUG6J/948.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Telemundo Miami 
+https://wscvlive-lh.akamaihd.net/i/MIAMI_STREAM6@183618/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Telemundo Chicago
+https://wmaqlive-f.akamaihd.net/i/CHICAGO_STREAM4@24420/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Telemundo Int
+http://190.92.95.37:8000/play/a0fp/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Telemundo Int HD
+http://190.92.95.37:8000/play/a0gj/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Estrella News
+https://csm-e-eb.csm.tubi.video/csm/live/247083838.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Estrella TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellatv-samsungus/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", ID HD
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/IDHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Studio Universal
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/STUDIOUNIVERSALHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", MTV HD
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/MTVHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", MTV Hits
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/MTVHITS/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Tru TV
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TRUTVHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Glitz
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/GLITZ/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Discovery Channel
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYCHANNELHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Discovery Kids
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYKIDSHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Discovery Science
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYSCIENCE/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Discovery World
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYWORLDHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Paramount
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PARAMOUNT/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Nat Geo
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NATGEOHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", TNT Series
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TNTSERIESHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Nick
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NICKELODEONHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Disney JR
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISNEYJR/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Disney XD
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISNEYXD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Animal Planet
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ANIMALPLANETHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", TCM
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TCM/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", CNN Español
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CNNESPANOL/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Zoo Moo
+https://marine2.miplay.cl/zoomoo/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales", Las Estrellas
+http://45.6.4.50:50601/CANALDELASESTRELLAS/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", a&e
+https://delivery.cdn.rcs.net.ar/mnp/ae_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", amc
+https://delivery.cdn.rcs.net.ar/mnp/amc_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", axn
+https://delivery.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", cartonito
+https://delivery.cdn.rcs.net.ar/mnp/boomerang_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", cinecanal
+https://delivery.cdn.rcs.net.ar/mnp/cinecanal_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", cinemax
+https://delivery.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", comedy central
+https://delivery.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", discovery channel
+https://delivery.cdn.rcs.net.ar/mnp/discovery_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", disney channel
+https://delivery.cdn.rcs.net.ar/mnp/disney_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", disney jr
+https://delivery.cdn.rcs.net.ar/mnp/disneyjr_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", disney xd
+https://delivery.cdn.rcs.net.ar/mnp/disneyxd_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", espn 1
+https://delivery.cdn.rcs.net.ar/mnp/espn_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", espn 2
+https://delivery.cdn.rcs.net.ar/mnp/espn2_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", espn 3
+https://delivery.cdn.rcs.net.ar/mnp/espn3_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", espn extra
+https://delivery.cdn.rcs.net.ar/mnp/espn_extra/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", fox sports 1
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", fox sports 2
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", fox sports 3
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", fox sports premium
+https://delivery.cdn.rcs.net.ar/mnp/foxpremium_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", fx
+https://delivery.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", fxm
+https://delivery.cdn.rcs.net.ar/mnp/fxm_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", hbo
+https://delivery.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", hbo2
+https://delivery.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", hbo+
+https://delivery.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", hbo family
+https://delivery.cdn.rcs.net.ar/mnp/hbofam_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", mas chic
+https://delivery.cdn.rcs.net.ar/mnp/maschic_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", mtv
+https://delivery.cdn.rcs.net.ar/mnp/mtv_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", nick
+https://delivery.cdn.rcs.net.ar/mnp/nickelodeon_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", nick jr
+https://delivery.cdn.rcs.net.ar/mnp/nickjr_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", paramount
+https://delivery.cdn.rcs.net.ar/mnp/paramount_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", space
+https://delivery.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", sony
+https://delivery.cdn.rcs.net.ar/mnp/sony_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", star channel
+https://delivery.cdn.rcs.net.ar/mnp/foxhd_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", star life
+https://delivery.cdn.rcs.net.ar/mnp/foxlife_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", syfy
+https://delivery.cdn.rcs.net.ar/mnp/syfy_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", tbs
+https://delivery.cdn.rcs.net.ar/mnp/tbs_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", tcm
+https://delivery.cdn.rcs.net.ar/mnp/tcm_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", telefe
+https://delivery.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", telemundo
+https://delivery.cdn.rcs.net.ar/mnp/telemundo_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", tnt
+https://delivery.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", tnt series
+https://delivery.cdn.rcs.net.ar/mnp/tntseries_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", tnt sports
+https://delivery.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", Tooncast
+https://delivery.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", tru tv
+https://delivery.cdn.rcs.net.ar/mnp/trutv_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", universal
+https://delivery.cdn.rcs.net.ar/mnp/universal_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", warner
+https://delivery.cdn.rcs.net.ar/mnp/warner_hls/playlist.m3u8
 
