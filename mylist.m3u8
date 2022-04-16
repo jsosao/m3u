@@ -10,72 +10,174 @@ http://51.161.118.146:8080/ISG03_ABC_CHARLOTTE_NC_WSOC/video.m3u8
 http://51.161.118.146:8080/ISG03_ABC_CHICAGO_IL_WLS/video.m3u8
 
 
+#EXTINF:-1 group-title="IPTV ORG" ,CNN
+http://38.127.211.18/live/c2eds/CNN/HLS/index.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,Noticias Univision 24/7
+http://dai.google.com/linear/hls/event/JnnLYlsCSwKi-0-eoUEFdA/master.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,CBS 5 Ft Smith AR (KFSM-TV) (1080p)
+https://livevideo01.5newsonline.com/hls/live/2011653/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,NBC 9 Denver CO (KUSA) (1080p)
+https://livevideo01.9news.com/hls/live/2014548/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,CBS 10 Columbus OH (WBNS-TV) (1080p)
+https://livevideo01.10tv.com/hls/live/2013836/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,NBC 11 Alive Atlanta GA (WXIA-TV) (1080p)
+https://livevideo01.11alive.com/hls/live/2015499/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,NBC 12 Phoenix AZ (KPNX) (1080p)
+https://livevideo01.12news.com/hls/live/2015501/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,ABC 13 Norfolk VA (WVEC) (1080p)
+https://livevideo01.13newsnow.com/hls/live/2014545/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,CBS 13 Macon GA (WMAZ-TV) (1080p)
+https://livevideo01.13wmaz.com/hls/live/2017376/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,ABC 10 Sacramento CA (KXTV) (1080p)
+https://livevideo01.abc10.com/hls/live/2014547/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,CBS 8 San Diego CA (KFMB-TV) (1080p)
+https://livevideo01.cbs8.com/hls/live/2014967/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,CBS 19 Tyler TX (KYTX) (1080p)
+https://livevideo01.cbs19.tv/hls/live/2017377/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,NBC / ABC Jacksonville FL (WTLV) (1080p)
+https://livevideo01.firstcoastnews.com/hls/live/2014550/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,Fox 43 Harrisburg PA (WPMT) (1080p)
+https://livevideo01.fox43.com/hls/live/2011656/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,Fox 61 Hartford CT (WTIC-TV) (1080p)
+https://livevideo01.fox61.com/hls/live/2011658/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,NBC 11 Minneapolis MN (KARE) (1080p)
+https://livevideo01.kare11.com/hls/live/2014544/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,NBC 6 Waco TX (KCEN) (1080p)
+https://livevideo01.kcentv.com/hls/live/2017155/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,CBS 5 San Antonio TX (KENS) (1080p)
+https://livevideo01.kens5.com/hls/live/2016281/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,NBC 8 Portland OR (KGW) (1080p)
+https://livevideo01.kgw.com/hls/live/2015506/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,CBS 11 Houston TX (KHOU) (1080p)
+https://livevideo01.khou.com/hls/live/2014966/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,ABC 3 Corpus Christi TX (KIII) (1080p)
+https://livevideo01.kiiitv.com/hls/live/2017378/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,NBC 5 Seattle WA (KING) (1080p)
+https://livevideo01.king5.com/hls/live/2006665/live/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,CBS 2 Spokane WA (KREM) (1080p)
+https://livevideo01.krem.com/hls/live/2017156/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,NBC 5 St. Louis MO (KSDK) (1080p)
+https://livevideo01.ksdk.com/hls/live/2014965/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,NBC 7 Boise ID (KTVB) (1080p)
+https://livevideo01.ktvb.com/hls/live/2014542/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,ABC 24 Austin TX (KVUE) (1080p)
+https://livevideo01.kvue.com/hls/live/2016282/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,ABC 24 Memphis TN (WATN-TV) (1080p)
+https://livevideo01.localmemphis.com/hls/live/2011654/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,Fox 15 West Texas Abilene TX (KXVA) (1080p)
+https://livevideo01.myfoxzone.com/hls/live/2017381/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,NBC 207 Bangor Portland ME (WLBZ) (1080p)
+https://livevideo01.newscentermaine.com/hls/live/2014540/newscasts/live/wcsh.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,NBC NewsWest 9 Midland-Odessa TX (KWES) (1080p)
+https://livevideo01.newswest9.com/hls/live/2017380/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,Fox 54.1 Huntsville AL (WZDX) (1080p)
+https://livevideo01.rocketcitynow.com/hls/live/2011659/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,NBC 10 Knoxville TN (WBIR-TV) (1080p)
+https://livevideo01.wbir.com/hls/live/2016515/newscasts/live-2000.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,NBC 36 Charlotte NC (WCNC-TV) (1080p)
+https://livevideo01.wcnc.com/hls/live/2015505/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,ABC 5 Des Moines IA (WOI) (1080p)
+https://livevideo01.weareiowa.com/hls/live/2011593/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,ABC 8 Dallas TX (WFAA) (1080p)
+https://livevideo01.wfaa.com/hls/live/2014541/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,CBS 2 Greensboro NC (WFMY) (1080p)
+https://livevideo01.wfmynews2.com/hls/live/2016285/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,NBC 2 Buffalo NY (WGRZ) (1080p)
+https://livevideo01.wgrz.com/hls/live/2016286/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,ABC 11 Louisville KY (WHAS) (1080p)
+https://livevideo01.whas11.com/hls/live/2016284/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,3 Studios Cleveland OH (WKYC) (1080p)
+https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,CBS 19 Columbia SC (WLTX) (1080p)
+https://livevideo01.wltx.com/hls/live/2017152/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,ABC 16 Wilkes Barre PA (WNEP) (1080p)
+https://livevideo01.wnep.com/hls/live/2011655/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,ABC 8 Davenport IA (WQAD) (1080p)
+https://livevideo01.wqad.com/hls/live/2011657/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,NBC 13 Indianapolis IN (WTHR) (1080p)
+https://livevideo01.wthr.com/hls/live/2013835/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,CBS 11 Toledo OH (WTOL) (1080p)
+https://livevideo01.wtol.com/hls/live/2017153/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,CBS 10 Tampa FL (WTSP) (1080p)
+https://livevideo01.wtsp.com/hls/live/2015503/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,CBS 9 Washington DC (WUSA) (1080p)
+https://livevideo01.wusa9.com/hls/live/2015498/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,CBS 4 New Orleans LA (WWL-TV) (1080p)
+https://livevideo01.wwltv.com/hls/live/2016516/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,ABC 13 Grand Rapids MI (WZZM) (1080p)
+https://livevideo01.wzzm13.com/hls/live/2016280/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,ABC 5 Cleveland OH (WEWS-TV) (1080p)
+https://wews-syndication.ewscloud.com/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,FOX Detroit MI (WJBK-DT1) (720p)
+http://51.161.118.146:8080/ISG03_FOX_DETROIT_MI_WJBK/video.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,NBC Boston MA (WBTS-DT1) (720p)
+http://51.161.118.146:8080/ISG03_NBC_BOSTON_MA_WBTS/video.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,ABC 2 Baton Rouge LA (WBRZ) (720p) [Not 24/7]
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,CBS News Chicago (720p)
+https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,CBS News Colorado (720p)
+https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,CBS News Pittsburgh (720p)
+https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,CBS News Sacramento (720p)
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnsac_2/master.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,CBSN (720p) [Not 24/7]
+https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,ABC 4 Seattle WA (KOMO-TV) (720p)
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,CBS 3 Omaha NE (KMTV-TV) (720p)
+https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,ABC 7 Washington DC (WJLA) (720p)
+https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,NBC 26 Green Bay WI (WGBA) (720p)
+https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,ABC 15 Phoenix AZ (KNXV-TV) (720p)
+https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,ABC 7 Denver CO (KMGH) (720p)
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,CBS 12 West Palm Beach FL (WPEC) (720p)
+https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,CBS 3 Omaha NE (KMTV-TV) (720p)
+https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,ABC 13 Las Vegas NV (KTNV) (720p)
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,CBS 6 Albany NY (WRGB) (720p)
+https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,Fox 28 Savannah GA (WTGS) (720p)
+https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,ABC 7 Los Angeles CA (KABC-TV) (720p)
+https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,ABC News New York NY (WABC-TV) (720p)
+https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,23 ABC Bakersfield CA (KERO) (720p)
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,ABC 2 Atlanta GA (WSB-TV) (720p)
+https://d2rwx6gwduugne.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10010_183ec1c7-4183-4661-803b-3ed282ffb625_LE/in/cmg-wsbtvnow-hls-v3/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,Fox 23 Tulsa OK (KOKI-TV) (720p)
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kokitv-hls-v3/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,NBC 11 Pittsburgh PA (WPXI) (720p)
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wpxitv-hls-v3/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,ABC 9 Orlando FL (WFTV) (720p)
+https://d3qm7vzp07vxse.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10070_fe1f5f6c-cd0b-4993-a4a4-6db66be4f313_LE/in/cmg-wftvtv-hls-v3/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,NBC 6 College Station TX (KAGS) (1080p)
+https://livevideo01.kagstv.com/hls/live/2016283/newscasts/live.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,CBS THV11 Little Rock AR (KTHV) (1080p)
+https://livevideo01.thv11.com/hls/live/2017154/newscasts/live.m3u8
 
+#EXTINF:-1 group-title="IPTV ORG" ,Retro TV (KCKS-LD9) (480p)
+https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,KTLA 5 Los Angeles CA (144p)
+https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,NBC Tallahassee FL (WTWC-TV1) (720p)
+https://5e6cea03e25b6.streamlock.net/live/WTWC-NB.stream/playlist.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,ABC Tallahassee FL (WTXL-TV1) (720p) [Not 24/7]
+https://5e6cea03e25b6.streamlock.net/live/WTXLHD.stream/playlist.m3u8
+#EXTINF:-1 group-title="IPTV ORG" ,CNN
+https://16live00.akamaized.net/CNN/index.m3u8
 
-#EXTINF:0 group-title="IPTVCAT",CBS 10 TAMPA SD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SG8gPK_RYjCg3dR7ab1iUjE/ts?checkedby:iptvcat.com
-#EXTINF:0 group-title="IPTVCAT",CBS 11 DALLAS SD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJgKhEVRflS_GRyP6Dxr64U/ts?checkedby:iptvcat.com
-#EXTINF:0 group-title="IPTVCAT",CBS 11 HOUSTON
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SIXNXPSto0mi49bCrZFjzck/ts?checkedby:iptvcat.com
-#EXTINF:0 group-title="IPTVCAT",CBS 2 (KCBS) Los Angeles
-http://new-pro.tv:8080/Fernando/123321/91173?checkedby:iptvcat.com
-#EXTINF:0 group-title="IPTVCAT",CBS 2 (WBBM) Chicago
-http://new-pro.tv:8080/Fernando/123321/287494?checkedby:iptvcat.com
-#EXTINF:0 group-title="IPTVCAT",NBC  (Boston )
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SCxMmwcI9TrVZgYAApAOKxw/ts?checkedby:iptvcat.com
-#EXTINF:0 group-title="IPTVCAT",NBC (EAST)
-http://new-pro.tv:8080/Fernando/123321/313477?checkedby:iptvcat.com
-#EXTINF:0 group-title="IPTVCAT",NBC (New York) HD
-http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/62708.ts?checkedby:iptvcat.com
-#EXTINF:0 group-title="IPTVCAT",NBC 11 (Pittsburgh)
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SN1L6GnZ9wDwJCO1gTyEp8Y/ts?checkedby:iptvcat.com
-#EXTINF:0 group-title="IPTVCAT",NBC 36 Austin HD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/199680?checkedby:iptvcat.com
-#EXTINF:0 group-title="IPTVCAT",ABC (West) HD
-http://new-pro.tv:8080/Fernando/123321/313406?checkedby:iptvcat.com
-#EXTINF:0 group-title="IPTVCAT",ABC 13 HOUSTON SD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBqV9KOQvd0tr5HRla25rP4/ts?checkedby:iptvcat.com
-#EXTINF:0 group-title="IPTVCAT",ABC 28 (WFTS) Tampa
-http://new-pro.tv:8080/Fernando/123321/154020?checkedby:iptvcat.com
-#EXTINF:0 group-title="IPTVCAT",ABC 5 BOSTON
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMFOMwMh1myfnEcsvdFcxNk/ts?checkedby:iptvcat.com
-#EXTINF:0 group-title="IPTVCAT",ABC 7 NEW YORK
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SEU6wINyy8np4WETn8mYYYY/ts?checkedby:iptvcat.com
-#EXTINF:0 group-title="IPTVCAT",FOX 11 (KTTV) Los Angeles
-http://new-pro.tv:8080/Fernando/123321/91184?checkedby:iptvcat.com
-#EXTINF:0 group-title="IPTVCAT",FOX 13 (WTVT) Tampa
-http://new-pro.tv:8080/Fernando/123321/154017?checkedby:iptvcat.com
-#EXTINF:0 group-title="IPTVCAT",FOX 25 BOSTON
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPPWXifWm-oA7tQ6pM_xaxY/ts?checkedby:iptvcat.com
-#EXTINF:0 group-title="IPTVCAT",FOX 28 COLUMBUS OH
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SP46QkTUnHLE6uNdDpZqPlo/ts?checkedby:iptvcat.com
-#EXTINF:0 group-title="IPTVCAT",FOX 35 ORLANDO
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHXcUyKhzKlx91zsYETTJg4/ts?checkedby:iptvcat.com
-#EXTINF:0 group-title="IPTVCAT",FOX Miami
-http://new-pro.tv:8080/Fernando/123321/313586?checkedby:iptvcat.com
-#EXTINF:0 group-title="IPTVCAT",UNIVISION
-http://fortv.cc:8080/alphonso/alphonso/15336?checkedby:iptvcat.com
-#EXTINF:0 group-title="IPTVCAT",US Univision 23 (WLTV) Miami (Y)
-http://fortv.cc:8080/alphonso/alphonso/46692?checkedby:iptvcat.com
-#EXTINF:0 group-title="IPTVCAT",Univision New York
-http://new-pro.tv:8080/Fernando/123321/179637?checkedby:iptvcat.com
-#EXTINF:0 group-title="IPTVCAT",NBC Telemundo
-http://new-pro.tv:8080/Fernando/123321/313518?checkedby:iptvcat.com
-#EXTINF:0 group-title="IPTVCAT",Telemundo Boston
-http://new-pro.tv:8080/Fernando/123321/313450?checkedby:iptvcat.com
-#EXTINF:0 group-title="IPTVCAT",Telemundo Dallas
-http://new-pro.tv:8080/Fernando/123321/313469?checkedby:iptvcat.com
-#EXTINF:0 group-title="IPTVCAT",Telemundo New York
-http://new-pro.tv:8080/Fernando/123321/179624?checkedby:iptvcat.com
-#EXTINF:0 group-title="IPTVCAT",US Latin TUDN (A)
-http://fortv.cc:8080/alphonso/alphonso/21644?checkedby:iptvcat.com
-#EXTINF:0 group-title="IPTVCAT",US Latin TUDN (A)
-http://fortv.cc:8080/alphonso/alphonso/11885?checkedby:iptvcat.com
-#EXTINF:0 group-title="IPTVCAT",US Latin TUDN (X)
-http://fortv.cc:8080/alphonso/alphonso/82241?checkedby:iptvcat.com
-
-
+#EXTINF:-1 group-title="IPTV ORG" ,TNT
+https://16live00.akamaized.net/TNT/index.m3u8
 
 *************************** REGIO TV MX******************************************
 
