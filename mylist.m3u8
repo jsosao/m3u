@@ -1,9 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Lista ZZ", Starz Encore Westerns
-http://jt.twiptv.tk/jieting.php?id=1122
-#EXTINF:-1 group-title="Lista ZZ", Cinemax
-http://jt.twiptv.tk/jieting.php?id=1123
+#EXTINF:-1 group-title="ABCEast.us",ABC2 Atlanta WSB (720p) [Not 24/7]
+http://51.161.118.146:8080/ISG03_ABC_ATLANTA_GA_WSB/video.m3u8
+#EXTINF:-1 group-title="ABCEast.us",ABC5 Boston WCVB (720p)
+http://51.161.118.146:8080/ISG03_ABC_BOSTON_MA_WCVB/video.m3u8
+#EXTINF:-1 group-title="ABCEast.us",ABC9 Charlotte WSOC (720p)
+http://51.161.118.146:8080/ISG03_ABC_CHARLOTTE_NC_WSOC/video.m3u8
+#EXTINF:-1 group-title="ABCEast.us",ABC7 Chicago WLS (720p)
+http://51.161.118.146:8080/ISG03_ABC_CHICAGO_IL_WLS/video.m3u8
 
 *************************** REGIO TV MX******************************************
 
