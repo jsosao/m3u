@@ -1,7 +1,9 @@
 #EXTM3U
 
-94.Starz Encore Westerns,http://jt.twiptv.tk/jieting.php?id=1122
-95.Cinemax,http://jt.twiptv.tk/jieting.php?id=1123
+#EXTINF:-1 group-title="Lista ZZ", Starz Encore Westerns
+http://jt.twiptv.tk/jieting.php?id=1122
+#EXTINF:-1 group-title="Lista ZZ", Cinemax
+http://jt.twiptv.tk/jieting.php?id=1123
 
 *************************** REGIO TV MX******************************************
 
