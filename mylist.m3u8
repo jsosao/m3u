@@ -141,6 +141,128 @@ http://51.161.118.146:8080/ISG03_NBC_ATLANTA_GA_WXIA/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG.us",FOX Indianapolis IN (WXIN-DT1) (720p)
 http://51.161.118.146:8080/ISG03_FOX_INDIANAPOLIS_IN_WXIN/video.m3u8
 
+
+#EXTINF:-1 group-title="IPTV ORG_2.us",Charge! (720p)
+http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+
+#EXTINF:-1 group-title="IPTV ORG_2.us",Cinemax [Geo-blocked]
+http://23.237.202.43:7283/CINEMAX-FHD/index.m3u8?sn=Ux0Oojow5FkqHQCpMmUNQKUr4Wb&tm=1626349319&un=rommel07
+
+#EXTINF:-1 group-title="IPTV ORG_2.us",Cinemax East (360p) [Geo-blocked]
+http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV ORG_2.us",CNN USA (720p)
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",CNN USA (480p)
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",CNN USA (360p)
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",CNN USA (360p)
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",CNN USA (360p)
+http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",CNN Brasil (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live
+#EXTINF:-1 group-title="IPTV ORG_2.us",CNN Chile (720p)
+https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",CNN en Español
+http://209.91.213.10:8088/play/a014
+#EXTINF:-1 group-title="IPTV ORG_2.us",HBO Asia
+https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",History (540p) [Not 24/7]
+http://s1.mysportz.tv:2082/history/playlist.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",History East (720p) [Not 24/7]
+https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",CBS Los Angeles CA (KCBS-DT1) (1080p)
+http://51.161.118.146:8080/ISG03_CBS_LOS_ANGELES_CA_KCBS/video.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",Jewelry TV (KCKS-LD12) (480p)
+https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",CBS Denver CO (KCNC-DT1) (1080p)
+http://51.161.118.146:8080/ISG03_CBS_DENVER_CO_KCNC/video.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",FOX Seattle WA (KCPQ-DT1) (720p)
+http://51.161.118.146:8080/ISG03_FOX_SEATTLE_WA_KCPQ/video.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",NBC Sacramento CA (KCRA-DT1) (720p)
+http://51.161.118.146:8080/ISG03_NBC_SACRAMENTO_CA_KCRA/video.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",FOX Dallas TX (KDFW-DT1) (720p)
+http://51.161.118.146:8080/ISG03_FOX_DALLAS_TX_KDFW/video.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",CBS Pittsburgh PA (KDKA-DT1) (1080p)
+http://51.161.118.146:8080/ISG03_CBS_PITTSBURGH_PA_KDKA/video.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",Univision San Francisco CA (KDTVDT1) [Geo-blocked] (720p)
+https://dai.google.com/linear/hls/event/lTSACKfkQNSrCSBM_hE-mg/master.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",FOX Denver CO (KDVR-DT1) (720p)
+http://51.161.118.146:8080/ISG03_FOX_DENVER_CO_KDVR/video.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",CBS San Diego CA (KFMB-DT1) (720p)
+http://51.161.118.146:8080/ISG03_CBS_SAN_DIEGO_CA_KFMB/video.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",ABC San Francisco CA (KGO-DT1) (720p)
+http://51.161.118.146:8080/ISG03_ABC_SAN_FRANCISCO_CA_KGO/video.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",ABC San Diego CA (KGTV-DT1) (720p)
+http://51.161.118.146:8080/ISG03_ABC_SAN_DIEGO_CA_KGTV/video.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",CBS Houston TX (KHOU-DT1) (1080p)
+http://51.161.118.146:8080/ISG03_CBS_HOUSTON_TX_KHOU/video.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",NBC Seattle WA (KING-DT1) (720p)
+http://51.161.118.146:8080/ISG03_NBC_SEATTLE_WA_KING/video.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",CBS Seattle WA (KIRO-DT1) (1080p)
+http://51.161.118.146:8080/ISG03_CBS_SEATTLE_WA_KIRO/video.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",ABC Denver CO (KMGH-DT1) (720p)
+http://51.161.118.146:8080/ISG03_ABC_DENVER_CO_KMGH/video.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",NBC Los Angeles CA (KNBC-DT1) (720p)
+http://51.161.118.146:8080/ISG03_NBC_LOS_ANGELES_CA_KNBC/video.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",Panarmenian TV (KNET-CD 25.2) (360p) [Not 24/7]
+http://granicusliveus6-a.akamaihd.net/torrance/G0057_005/playlist.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",NBC San Francisco CA (KNTV-DT1) (720p) [Not 24/7]
+http://51.161.118.146:8080/ISG03_NBC_SAN_FRANCISCO_CA_KNTV/video.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",ABC Phoenix AZ (KNXV-DT1) (720p)
+http://51.161.118.146:8080/ISG03_ABC_PHOENIX_AZ_KNXV/video.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",ABC Seattle WA (KOMO-DT1) (720p)
+http://51.161.118.146:8080/ISG03_ABC_SEATTLE_WA_KOMO/video.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",CBS Sacramento CA (KOVR-DT1) (1080p)
+http://51.161.118.146:8080/ISG03_CBS_SACRAMENTO_CA_KOVR/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",CBS Phoenix AZ (KPHO-DT1) (1080p)
+http://51.161.118.146:8080/ISG03_CBS_PHOENIX_AZ_KPHO/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",CBS San Francisco CA (KPIX-DT1) (1080p)
+http://51.161.118.146:8080/ISG03_CBS_SAN_FRANCISCO_CA_KPIX/video.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",NBC Phoenix AZ (KPNX-DT1) (720p) [Not 24/7]
+http://51.161.118.146:8080/ISG03_NBC_PHOENIX_AZ_KPNX/video.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",NBC Houston TX (KPRC-DT1) (720p)
+http://51.161.118.146:8080/ISG03_NBC_HOUSTON_TX_KPRC/video.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",FOX Houston TX (KRIV-DT1) (720p)
+http://51.161.118.146:8080/ISG03_FOX_HOUSTON_TX_KRIV/video.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",FOX Phoenix AZ (KSAZ-DT1) (720p)
+http://51.161.118.146:8080/ISG03_FOX_PHOENIX_AZ_KSAZ/video.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",FOX San Diego CA (KSWB-DT1) (720p)
+http://51.161.118.146:8080/ISG03_FOX_SAN_DIEGO_CA_KSWB/video.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",The CW Los Angeles CA (KTLA-DT1) (720p) [Not 24/7]
+http://trn03.tulix.tv/teleup-N8qwnqgUq2/playlist.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",ABC Houston TX (KTRK-DT1) (720p) [Not 24/7]
+http://51.161.118.146:8080/ISG03_ABC_HOUSTON_TX_KTRK/video.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",FOX Los Angeles CA (KTTV-DT1) (720p)
+http://51.161.118.146:8080/ISG03_FOX_LOS_ANGELES_CA_KTTV/video.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",CBS Dallas TX (KTVT-DT1) (1080p)
+http://51.161.118.146:8080/ISG03_CBS_DALLAS_TX_KTVT/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",FOX San Francisco CA (KTVU-DT1) (720p)
+http://51.161.118.146:8080/ISG03_FOX_SAN_FRANCISCO_CA_KTVU/video.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",FOX Sacramento CA (KTXL-DT1) (720p)
+http://51.161.118.146:8080/ISG03_FOX_SACRAMENTO_CA_KTXL/video.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",ABC Sacramento CA (KXTV-DT1) (720p)
+http://51.161.118.146:8080/ISG03_ABC_SACRAMENTO_CA_KXTV/video.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",NBA TV (720p)
+https://d17f1mg1q6g54e.cloudfront.net/hls/nbatv/chunks.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us" status="error" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",NBA TV (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",TNT East (720p) [Geo-blocked]
+https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",TNT Sports 2 Brasil (720p) [Not 24/7]
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",TNT Sports 3 Brasil (720p)
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",TNT Sports 4 Brasil (720p) [Not 24/7]
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+#EXTINF:-1 group-title="IPTV ORG_2.us",TNT Sports 5 Brasil (720p) [Not 24/7]
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
+#EXTINF:-1 group-title="TIPTV ORG_2.us",TNT West (720p) [Geo-blocked]
+https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+
 *************************** REGIO TV MX******************************************
 
 #EXTINF:-1 group-title="Lista TV", Wowly 360p
