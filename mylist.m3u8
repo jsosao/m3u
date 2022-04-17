@@ -1,25 +1,5 @@
 #EXTM3U
 
-
-#EXTINF:-1 group-title="USA",HBO
-http://stariptv.org:8080/wael2021/123456/148468?checkedby:zaltv.co
-#EXTINF:-1 group-title="USA",HBO Comedy
-http://stariptv.org:8080/wael2021/123456/148471?checkedby:zaltv.co
-#EXTINF:-1 group-title="USA",HBO Comedy
-http://stariptv.org:8080/hakim2021/123456/148471?checkedby:zaltv.co
-#EXTINF:-1 group-title="USA",HBO Signature
-http://stariptv.org:8080/wael2021/123456/148470?checkedby:zaltv.co
-#EXTINF:-1 group-title="USA",HBO Signature
-http://stariptv.org:8080/hakim2021/123456/148470?checkedby:zaltv.co
-#EXTINF:-1 group-title="USA",HBO Zone
-http://stariptv.org:8080/wael2021/123456/148469?checkedby:zaltv.co
-#EXTINF:-1 group-title="USA",HBO Zone
-http://stariptv.org:8080/hakim2021/123456/148469?checkedby:zaltv.co
-
-
-
-
-
 #EXTINF:-1 group-title="IPTV ORG.us",CBS Chicago IL (WBBM-DT1) (1080p)
 http://51.161.118.146:8080/ISG03_CBS_CHICAGO_IL_WBBM/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="IPTV ORG.us",CBS Charlotte NC (WBTV-DT1) (720p)
