@@ -2,8 +2,6 @@
 
 #EXTINF:-1 group-title="IPTV ORG.us",CBS Chicago IL (WBBM-DT1) (1080p)
 http://51.161.118.146:8080/ISG03_CBS_CHICAGO_IL_WBBM/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="IPTV ORG.us",CBS Charlotte NC (WBTV-DT1) (720p)
-http://51.161.118.146:8080/ISG03_CBS_CHARLOTTE_NC_WBTV/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="IPTV ORG.us",CBS Boston MA (WBZ-DT1) (1080p)
 http://51.161.118.146:8080/ISG03_CBS_BOSTON_MA_WBZ/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG.us",NBC Charlotte NC (WCNC-DT1) (720p)
@@ -289,378 +287,378 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
 *** NACIONALES ***
 #EXTINF:-1 group-title="LISTA MX", ONCE NINOS (CLASE)
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=3315&=f.m3u8
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=3315&=f.m3u8
 #EXTINF:-1 group-title="LISTA MX", AZTECA 7.3
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=316&=f.m3u8
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=316&=f.m3u8
 #EXTINF:-1 group-title="LISTA MX", AZTECA UNO HD
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=7&=f.m3u8
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=7&=f.m3u8
 #EXTINF:-1 group-title="LISTA MX", AZ CLIC HD
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=11&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=11&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", LAS ESTRELLAS
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=17&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=17&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", CANAL 5
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=20&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=20&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", AZTECA 7
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=21&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=21&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", NU9VE
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=24&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=24&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", ONCE
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=25&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=25&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", AZTECA UNO
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=27&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=27&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", TELEFORMULA SD
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=32&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=32&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", MEXIQUENSE TV
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=44&=f.m3u8
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=44&=f.m3u8
 #EXTINF:-1 group-title="LISTA MX", AZ CORAZON 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=70&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=70&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", AZ MUNDO
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=84&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=84&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", AZTECA 7 HD 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=317&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=317&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", AZTECA 7 HD (2)
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=322&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=322&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", IMAGEN TV  
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=2298&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2298&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", MULTIMEDIOS MTY
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=2305&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2305&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", APREDNE TV
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=401&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=401&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", MULTIMEDIOS CDMX
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=1253&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=1253&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", NU9VE HD
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=1783&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=1783&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", LAS ESTRELLAS HD
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=1784&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=1784&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", CANAL 5 HD (2)
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=1785&=f.m3u8
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=1785&=f.m3u8
 #EXTINF:-1 group-title="LISTA MX", ONCE HD 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=1942&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=1942&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", MVS TV
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=2149&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2149&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", TVC
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=2156&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2156&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", CANAL 4 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=2274&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2274&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", CANAL 8
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=2307&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2307&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", TELEVISA PUEBLA
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=2312&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2312&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", A+ 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=2316&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2316&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", TVMAS
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=2324&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2324&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", CANAL DEL CONGRESO
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=2331&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2331&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", MULTIMEDIOS CDMX
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=2352&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2352&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", IMAGEN TV HD  
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=2606&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2606&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", ACADEMIA
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=2703&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2703&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", MULTIMEDIOS HD
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=2882&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2882&=f.m3u8  
 
 *** INFANTILES ***
 #EXTINF:-1 group-title="LISTA MX", TOONCAST
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=108&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=108&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", DISCOVERY KIDS
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=109&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=109&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", NICK
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=110&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=110&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", DISNEY XD
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=111&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=111&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", CARTOON NETWORK
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=112&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=112&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", DISNEY CHANNEL
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=113&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=113&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", BOOMERANG
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=115&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=115&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", BABY TV 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=116&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=116&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", NICK JR
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=117&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=117&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", DISNEY JR
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=118&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=118&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", NICKTOONS SD 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=1708&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=1708&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", BABY FIRST
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=1984&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=1984&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", NICK 2  
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=2147&=f.m3u8
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2147&=f.m3u8
 #EXTINF:-1 group-title="LISTA MX", NAT GEO KIDS  
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=2373&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2373&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", BIT ME  
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=2591&=f.m3u8
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2591&=f.m3u8
 
 *** CINE ***
 #EXTINF:-1 group-title="LISTA MX", TBS SD  
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=81&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=81&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", DE PELICULA + 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=121&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=121&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", GOLDEN +
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=122&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=122&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", GOLDEN
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=123&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=123&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", GOLDEN EDGE
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=124&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=124&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", TNT 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=126&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=126&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", TCM
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=128&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=128&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", SPACE
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=129&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=129&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", AMC 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=131&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=131&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", STUDIO UNIVERSAL
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=132&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=132&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", I SAT  
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=135&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=135&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", EUROPA CHANNEL 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=136&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=136&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", FILMS & ARTS
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=137&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=137&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", FXM
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=138&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=138&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", FXM SD 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=332&=f.m3u8
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=332&=f.m3u8
 #EXTINF:-1 group-title="LISTA MX", FOX SERIES
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=139&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=139&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", MORBIDO
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=140&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=140&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", FOX MOVIES 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=146&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=146&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", CINECANAL
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=149&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=149&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", CINEMAX 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=158&=f.m3u8
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=158&=f.m3u8
 #EXTINF:-1 group-title="LISTA MX", AMC  
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=328&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=328&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", DE PELICULA SD
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=335&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=335&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", FOX ACTION
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=336&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=336&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", PARAMOUNT CHANNEL 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=1726&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=1726&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", FOX CINEMA SD
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=1729&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=1729&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", FOX CLASSICS SD
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=1732&=f.m3u8
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=1732&=f.m3u8
 #EXTINF:-1 group-title="LISTA MX", AZ CINEMA 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=1787&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=1787&=f.m3u8 
 
 *** ENTRETENIMIENTO ***
 #EXTINF:-1 group-title="LISTA MX", TELEMUNDO INTERNACIONAL HD
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=85&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=85&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", FOX  
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=46&=f.m3u8
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=46&=f.m3u8
 #EXTINF:-1 group-title="LISTA MX", SONY  
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=48&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=48&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", WARNER  
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=52&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=52&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", E!
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=55&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=55&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", UNIVERSAL
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=57&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=57&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", SYFY
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=59&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=59&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", FX
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=60&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=60&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", A&E
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=62&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=62&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", AXN
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=64&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=64&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", UNICABLE SD
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=66&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=66&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", SUNDANCE TV
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=69&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=69&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", TNT SERIES
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=71&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=71&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", GLITZ
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=76&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=76&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", GOURMET 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=74&=f.m3u8
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=74&=f.m3u8
 #EXTINF:-1 group-title="LISTA MX", FOX LIFE
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=77&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=77&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", DISTRITO COMEDIA SD
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=78&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=78&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", TRUTV
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=79&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=79&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", TL NOVELAS SD
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=83&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=83&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", LIFETIME 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=94&=f.m3u8
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=94&=f.m3u8
 #EXTINF:-1 group-title="LISTA MX", ANTENA 3
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=199&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=199&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", FOX HD 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=201&=f.m3u8
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=201&=f.m3u8
 #EXTINF:-1 group-title="LISTA MX", WARNER HD 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=205&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=205&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", UNIVERSAL HD
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=207&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=207&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", FX HD
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=209&=f.m3u8
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=209&=f.m3u8
 #EXTINF:-1 group-title="LISTA MX", TRUTV HD
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=215&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=215&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", HOLA TV HD
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=219&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=219&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", COMEDY CENTRAL
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=340&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=340&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", COMEDY CENTRAL SD
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=341&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=341&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", UNICABLE
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=1499&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=1499&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", MAS CHIC
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=1842&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=1842&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", A3SERIES
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=2113&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2113&=f.m3u8 
 
 *** DEPORTES ***
 #EXTINF:-1 group-title="LISTA MX", ESPN + 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=167&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=167&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", ESPN 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=168&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=168&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", ESPN 2
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=169&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=169&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", FOX SPORTS
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=170&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=170&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", FOX SPORTS 2
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=172&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=172&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", TUDN
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=174&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=174&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", FOX SPORTS 3 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=178&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=178&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", GOLF
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=179&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=179&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", AYM SPORTS
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=180&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=180&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", ESPN 3 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=345&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=345&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", TUDN HD (2)
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=1049&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=1049&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", ADRENALINA SPORTS HD
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=1799&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=1799&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", LAS
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=2089&=f.m3u8
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2089&=f.m3u8
 #EXTINF:-1 group-title="LISTA MX", HAVOC
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=2148&=f.m3u8
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2148&=f.m3u8
 #EXTINF:-1 group-title="LISTA MX", TVC DEPORTES
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=2157&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2157&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", CLARO SPORTS HD  
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=2564&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2564&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", FUEL TV HD 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=2587&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2587&=f.m3u8 
 
 *** CULTURALES ***
 #EXTINF:-1 group-title="LISTA MX", DISCOVERY ID
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=2376&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2376&=f.m3u8  
  #EXTINF:-1 group-title="LISTA MX", GARAGE TV 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=75&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=75&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", DISCOVERY CHANNEL
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=86&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=86&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", ANIMAL PLANET
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=2378&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2378&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", HISTORY
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=89&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=89&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", NAT GEO  
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=91&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=91&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", NAT GEO WILD
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=92&=f.m3u8
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=92&=f.m3u8
 #EXTINF:-1 group-title="LISTA MX", DISCOVERY THEATER
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=95&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=95&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", H&H
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=96&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=96&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", TLC
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=97&=f.m3u8
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=97&=f.m3u8
 #EXTINF:-1 group-title="LISTA MX", DISCOVERY SCIENCE  
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=98&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=98&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", DISCOVERY CIVILIZATION
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=99&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=99&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", DISCOVERY WORLD
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=101&=f.m3u8
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=101&=f.m3u8
 #EXTINF:-1 group-title="LISTA MX", TVE
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=198&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=198&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", SHOPPING
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=1943&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=1943&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", FOOD NETWORK 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=2145&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2145&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", STAR TVE 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=2375&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2375&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", DISCOVERY TURBO
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=2379&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2379&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", CURIOSITY STREAM
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=2594&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2594&=f.m3u8  
 
 *** MUSICA ***
 #EXTINF:-1 group-title="LISTA MX", MTV LIVE
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=211&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=211&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", MTV
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=212&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=212&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", MTV HITS SD
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=213&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=213&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", VH1 CLASSIC SD
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=214&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=214&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", VH1 SD 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=217&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=217&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", TELEHIT URBANO SD
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=218&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=218&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", TELEHIT +
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=220&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=220&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", BANDAMAX SD
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=221&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=221&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", AZ CLIC
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=223&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=223&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", VH1 HD
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=334&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=334&=f.m3u8  
 
 
 *** NOTICIAS ***
 #EXTINF:-1 group-title="LISTA MX", FOROTV HD
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=4&=f.m3u8
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=4&=f.m3u8
 #EXTINF:-1 group-title="LISTA MX", FOROTV SD
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=19&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=19&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", ADN40
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=40&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=40&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", ADN 40 HD
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=184&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=184&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", CNN
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=185&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=185&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", CNN SD
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=186&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=186&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", CNN Ñ SD
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=187&=f.m3u8
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=187&=f.m3u8
 #EXTINF:-1 group-title="LISTA MX", WOBI 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=102&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=102&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", FOXN EWS
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=188&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=188&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", BLOOMBERG 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=190&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=190&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", BBC SD
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=191&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=191&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", AL JAAZERA 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=192&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=192&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", NTN 24
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=194&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=194&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", JUSTICIA TV 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=196&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=196&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", HLN
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=197&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=197&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", DW 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=203&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=203&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", RT
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=999&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=999&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", MILENIO HD
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=1250&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=1250&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", MILENIO SD 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=1252&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=1252&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", EXCELSIOR TV
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=1449&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=1449&=f.m3u8  
 #EXTINF:-1 group-title="LISTA MX", EL FINANCIERO HD 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=1649&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=1649&=f.m3u8  
  #EXTINF:-1 group-title="LISTA MX", RT ESPAÑOL
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=2091&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2091&=f.m3u8 
 #EXTINF:-1 group-title="LISTA MX", FRANCE 24
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=2402&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2402&=f.m3u8  
  
 ******************************* https://raw.githubusercontent.com/cesarivan2310/Lista/main/Canales ********************************************************************************
 
