@@ -2464,12 +2464,18 @@ https://bamus-spa-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Unitel - Bolivia
 https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZVSZ1-SJ8BujhCBAXhmErho)/dm/3/x7vsezg/d/live-2.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Vivo Play
+https://linear-260.frequency.stream/dist/localnow/260/hls/master/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Mi Tele
 https://5e50264bd6766.streamlock.net/gks/videogks/chunklist_w42483601.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Telemundo Noticias
 https://tlmdhd-lh.akamaihd.net/i/tlmd1_1@79627/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Univision Noticias 24/7
+https://linear-254.frequency.stream/dist/localnow/254/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Uforia Debut (1)
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/5892
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Uforia Debut (2)
@@ -2584,7 +2590,6 @@ https://rakuten-cine-espanol-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Noticias", adn40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
@@ -2652,6 +2657,9 @@ https://runtime-espana-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Run Time 2
 https://ammo-espanol-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", My Time Movie
+https://linear-261.frequency.stream/dist/localnow/261/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", My Time Movie 1
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
@@ -2786,6 +2794,9 @@ https://chromecast.cvattv.com.ar/live/c6live/HTV/SA_SAGEMCOM/HTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", Spectrum Channel
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", Latido Music
+https://linear-257.frequency.stream/dist/localnow/257/hls/master/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", Adrenalina Sports
@@ -2857,6 +2868,13 @@ http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/1548.m3u8
 http://tvencasa.fun:2052/live/4236/4236/50969.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", TVC Deportes
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj6j8kebx621181j6ak1c8ezcex66cbxvaack2a8t18zpcajhxpa22bbzx8jzxbjhjpzxezhvkahx88kcz62axh2p6vjzacbhze111cvh21ceevxhvzkexjatex6v6tbehepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2157&f=HLS&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", Afizzionados ViX
+https://linear-348.frequency.stream/dist/localnow/348/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", Zona TUDN
+https://linear-356.frequency.stream/dist/localnow/356/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", TUDN ViX
+https://linear-357.frequency.stream/dist/localnow/357/hls/master/playlist.m3u8
+
 
 
 
@@ -2887,6 +2905,9 @@ http://satelliteiptv.xyz:8080/live/Rada/steklic1/8745.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", beIN Sports Extra
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", beIN Sports Extra Op2
+https://linear-256.frequency.stream/dist/localnow/256/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", beIN La Liga
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8?mvk
@@ -2923,6 +2944,9 @@ https://dai2.xumo.com/xumocdn/deviceid/amagi_hls_data_xumo1212A-redboxnitrocircu
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Glory KickBoxing
 https://dai2.xumo.com/xumocdn/deviceid/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Adrenaline Rush
+https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", ROH - Ring of Honor
 https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
@@ -3732,5 +3756,3 @@ https://chromecast.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Uni
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium 2", Warner
 https://chromecast.cvattv.com.ar/live/live/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
-
-
