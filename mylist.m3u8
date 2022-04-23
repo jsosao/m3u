@@ -18,6 +18,21 @@ http://latvonlive.com:33612/live/Doris/Doris123/226.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/10zTFPs/Estrella-TV.png" group-title="USA",Estrella TV HD
 http://latvonlive.com:33612/live/Doris/Doris123/904.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/stJ0HFz/Universal-Premiere.png" group-title="Premium",Universal Premiere
+https://shortgod.com/vip/pallatino3.php?id=901&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jryxLTw/Universal-Cinema.png" group-title="Premium",Universal Cinema
+https://shortgod.com/vip/pallatino3.php?id=902&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/N3mTBz4/Universal-Crime.png" group-title="Premium",Universal Crime
+https://shortgod.com/vip/pallatino3.php?id=904&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RhLBd8C/Universal-Comedy.png" group-title="Premium",Universal Comedy
+https://shortgod.com/vip/pallatino3.php?id=903&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PgGkv8r/Universal-Reality.png" group-title="Premium",Universal Reality
+https://shortgod.com/vip/pallatino3.php?id=905&f=.m3u8
+
 
 #EXTINF:-1 group-title="IPTV ORG_2.us",HBO Asia
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
