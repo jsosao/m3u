@@ -1,5 +1,24 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/5vyNsq3/Univision.png" group-title="USA",Univision HD
+http://latvonlive.com:33612/live/Doris/Doris123/224.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/D1djT72/UniMas.png" group-title="USA",Unimas HD
+http://latvonlive.com:33612/live/Doris/Doris123/225.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3z7h8cj/Galavision.png" group-title="USA",Galavision HD
+https://shortgod.com/vip/pallatino3.php?id=56&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/f1GbRDx/Telemundo.png" group-title="USA",Telemundo
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/NRNQEXT9DGXD0O6/FV5S80OWKTUY36T/qts/51_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Nps4BB1/Universo.png" group-title="USA",Universo FHD
+http://latvonlive.com:33612/live/Doris/Doris123/226.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/10zTFPs/Estrella-TV.png" group-title="USA",Estrella TV HD
+http://latvonlive.com:33612/live/Doris/Doris123/904.m3u8
+
+
 #EXTINF:-1 group-title="IPTV ORG_2.us",HBO Asia
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",CBS Los Angeles CA (KCBS-DT1) (1080p)
