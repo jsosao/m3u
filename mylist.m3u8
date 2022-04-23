@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/5vyNsq3/Univision.png" group-title="USA",Univision HD
-http://latvonlive.com:33612/live/Doris/Doris123/224.m3u
+http://latvonlive.com:33612/live/Doris/Doris123/224.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/D1djT72/UniMas.png" group-title="USA",Unimas HD
 http://latvonlive.com:33612/live/Doris/Doris123/225.m3u8
