@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0 tvg-id="ABC" group-title="ustvgo", ABC
+https://h3.ustvgo.la/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIyIDU6NTg6MjUgUE0maGFzaF92YWx1ZT1TQTBUZGVPN04wcTRDdkptWFUrYkl3PT0mdmFsaWRtaW51dGVzPTI0MA==
+
 #EXTINF:-1 group-title="IPTV ORG_2.us",HBO Asia
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",CBS Los Angeles CA (KCBS-DT1) (1080p)
