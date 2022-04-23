@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-id="ABC" group-title="ustvgo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ABC_%282013%29_Dark_Grey.svg", ABC
 https://h2.ustvgo.la/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIyIDY6NTU6MDQgUE0maGFzaF92YWx1ZT00bTJmd0YrbnBiQjdMQ0Y4UGdBNGRBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="ACCN" group-title="ustvgo" tvg-logo="https://news.syr.edu/wp-content/uploads/2019/08/New-ACCNX-logo-690x489.jpg", ACC Network
+https://h2.ustvgo.la/ACCN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIyIDY6NTU6MDQgUE0maGFzaF92YWx1ZT00bTJmd0YrbnBiQjdMQ0Y4UGdBNGRBPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1 group-title="IPTV ORG_2.us",HBO Asia
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
