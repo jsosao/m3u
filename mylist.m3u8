@@ -1,39 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/5vyNsq3/Univision.png" group-title="USA",Univision HD
-http://latvonlive.com:33612/live/Doris/Doris123/224.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/D1djT72/UniMas.png" group-title="USA",Unimas HD
-http://latvonlive.com:33612/live/Doris/Doris123/225.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3z7h8cj/Galavision.png" group-title="USA",Galavision HD
-https://shortgod.com/vip/pallatino3.php?id=56&f=.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/f1GbRDx/Telemundo.png" group-title="USA",Telemundo
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/NRNQEXT9DGXD0O6/FV5S80OWKTUY36T/qts/51_.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Nps4BB1/Universo.png" group-title="USA",Universo FHD
-http://latvonlive.com:33612/live/Doris/Doris123/226.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/10zTFPs/Estrella-TV.png" group-title="USA",Estrella TV HD
-http://latvonlive.com:33612/live/Doris/Doris123/904.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/stJ0HFz/Universal-Premiere.png" group-title="Premium",Universal Premiere
-https://shortgod.com/vip/pallatino3.php?id=901&f=.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jryxLTw/Universal-Cinema.png" group-title="Premium",Universal Cinema
-https://shortgod.com/vip/pallatino3.php?id=902&f=.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/N3mTBz4/Universal-Crime.png" group-title="Premium",Universal Crime
-https://shortgod.com/vip/pallatino3.php?id=904&f=.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RhLBd8C/Universal-Comedy.png" group-title="Premium",Universal Comedy
-https://shortgod.com/vip/pallatino3.php?id=903&f=.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PgGkv8r/Universal-Reality.png" group-title="Premium",Universal Reality
-https://shortgod.com/vip/pallatino3.php?id=905&f=.m3u8
-
-
 #EXTINF:-1 group-title="IPTV ORG_2.us",HBO Asia
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",CBS Los Angeles CA (KCBS-DT1) (1080p)
@@ -2878,3 +2844,71 @@ https://linear-357.frequency.stream/dist/localnow/357/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", CNN Colombia
 https://linear-358.frequency.stream/dist/localnow/358/hls/master/playlist.m3u8
+
+*************************************  https://raw.githubusercontent.com/dann1110/GreatTV/master/TVBOX%202  ***************************************************
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Fs8z780/HBO2.png" group-title="Premium",HBO 2
+https://shortgod.com/vip/pallatino3.php?id=300&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Fs8z780/HBO2.png" group-title="Premium",HBO 2 HD
+https://shortgod.com/vip/pallatino3.php?id=732&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Fs8z780/HBO2.png" group-title="Premium",HBO 2 HD
+http://144.126.128.123:25461/sabbabbabababasabbabbabababa/sabbabbabababasabbabbabababa/12260
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/FHT9VJJ/HBO.png" group-title="Premium",HBO
+https://shortgod.com/vip/pallatino3.php?id=62&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/FHT9VJJ/HBO.png" group-title="Premium",HBO HD
+http://144.126.128.123:25461/sabbabbabababasabbabbabababa/sabbabbabababasabbabbabababa/12259
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/FHT9VJJ/HBO.png" group-title="Premium",HBO FHD
+https://shortgod.com/vip/pallatino3.php?id=654&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/C9jCC1V/HBO-Plus.png" group-title="Premium",HBO Plus
+https://shortgod.com/vip/pallatino3.php?id=655&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/C9jCC1V/HBO-Plus.png" group-title="Premium",HBO Plus HD
+https://shortgod.com/vip/pallatino3.php?id=64&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/C9jCC1V/HBO-Plus.png" group-title="Premium",HBO Plus FHD
+http://144.126.128.123:25461/sabbabbabababasabbabbabababa/sabbabbabababasabbabbabababa/12263
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/27c4nFR/HBO-Family.png" group-title="Premium",HBO Family
+http://144.126.128.123:25461/sabbabbabababasabbabbabababa/sabbabbabababasabbabbabababa/12261
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/27c4nFR/HBO-Family.png" group-title="Premium",HBO Family HD
+https://shortgod.com/vip/pallatino3.php?id=63&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/FmzczTT/HBO-Signature.png" group-title="Premium",HBO Signature FHD
+http://144.126.128.123:25461/sabbabbabababasabbabbabababa/sabbabbabababasabbabbabababa/12264
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RyS2jKS/HBO-MUNDI.png" group-title="Premium",HBO Mundi HD
+http://144.126.128.123:25461/sabbabbabababasabbabbabababa/sabbabbabababasabbabbabababa/12262
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/TWRxCHT/HBO-POP.png" group-title="Premium",HBO Pop HD
+http://144.126.128.123:25461/sabbabbabababasabbabbabababa/sabbabbabababasabbabbabababa/12267
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qswp4FN/HBO-XTREME.png" group-title="Premium",HBO Xtreme
+https://shortgod.com/vip/pallatino3.php?id=814&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qswp4FN/HBO-XTREME.png" group-title="Premium",HBO Xtreme
+https://shortgod.com/vip/pallatino3.php?id=841&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qswp4FN/HBO-XTREME.png" group-title="Premium",HBO Xtreme FHD
+http://144.126.128.123:25461/sabbabbabababasabbabbabababa/sabbabbabababasabbabbabababa/12265
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/stJ0HFz/Universal-Premiere.png" group-title="Premium",Universal Premiere
+https://shortgod.com/vip/pallatino3.php?id=901&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jryxLTw/Universal-Cinema.png" group-title="Premium",Universal Cinema
+https://shortgod.com/vip/pallatino3.php?id=902&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/N3mTBz4/Universal-Crime.png" group-title="Premium",Universal Crime
+https://shortgod.com/vip/pallatino3.php?id=904&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RhLBd8C/Universal-Comedy.png" group-title="Premium",Universal Comedy
+https://shortgod.com/vip/pallatino3.php?id=903&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PgGkv8r/Universal-Reality.png" group-title="Premium",Universal Reality
+https://shortgod.com/vip/pallatino3.php?id=905&f=.m3u8
