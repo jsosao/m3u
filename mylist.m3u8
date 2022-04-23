@@ -1,7 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Estrenos Accion (e)(720)" tvg-logo="https://lh3.googleusercontent.com/-nO6LGIGXiKU/Ydd5jqDaLoI/AAAAAAAACeE/OIJntOj0X38xOVhhkwAYsmDC1rOTJJeHQCNcBGAsYHQ/w200-h200/1641511305901712-5.png" group-title="24/7 CINEMA ",24/7 Estrenos Accion (e)(720)
-http://tv.plusk.xyz:28000/jpapeleto/tz5Xjj59W2/144548
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Univision NOW", Unimas
+http://iptvcanales.xyz/canales/hls/fQCAqHLkSPeYW0FmDm7aOQ/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Univision NOW", Univision
+http://iptvcanales.xyz/canales/hls/OB8_g3B_Th2LAr1AVmM4Mw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Univision NOW", Galavision
+http://iptvcanales.xyz/canales/hls/SIvlK2VmTsqL_hgyKeFIPg/playlist.m3u8
 
 #EXTINF:-1 group-title="IPTV ORG_2.us",HBO Asia
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
