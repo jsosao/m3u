@@ -1,14 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Univision NOW", Unimas
-http://iptvcanales.xyz/canales/hls/fQCAqHLkSPeYW0FmDm7aOQ/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Univision NOW", Univision
-http://iptvcanales.xyz/canales/hls/OB8_g3B_Th2LAr1AVmM4Mw/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Univision NOW", Galavision
-http://iptvcanales.xyz/canales/hls/SIvlK2VmTsqL_hgyKeFIPg/playlist.m3u8
-
 #EXTINF:-1 group-title="IPTV ORG_2.us",HBO Asia
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",CBS Los Angeles CA (KCBS-DT1) (1080p)
@@ -2126,6 +2117,11 @@ http://satelliteiptv.xyz:8080/Rada/steklic1/694263
 http://satelliteiptv.xyz:8080/Rada/steklic1/694264
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Movistar", Movistar #0
 http://satelliteiptv.xyz:8080/Rada/steklic1/16283
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Movistar", Movistar Champions 1
+https://shortgod.com/vip/pllatino3.php?id=761&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Movistar", Movistar Champions 2
+https://shortgod.com/vip/pllatino3.php?id=376&f=.m3u8
+
 
 
 
