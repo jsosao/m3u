@@ -1101,7 +1101,7 @@ https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.
 https://Stmv1.zcastbr.com/americatvchile/americatvchile/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Antena 3
-http://mytv.fun:8080/live/clxhnpkhug/3btqf5tg8/8779.m3u8
+http://38.123.205.70:8000/play/a0bu/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Antena 3 Op2
 http://satelliteiptv.xyz:8080/live/Rada/steklic1/7253.m3u8
