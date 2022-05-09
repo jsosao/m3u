@@ -1086,6 +1086,9 @@ https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", America TV - Chile
 https://Stmv1.zcastbr.com/americatvchile/americatvchile/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", A3
+https://livestartover-i.akamaized.net/antena3/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Antena 3
 http://38.123.205.70:8000/play/a0bu/index.m3u8
 
@@ -1152,6 +1155,9 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", La Red
 https://marine2.miplay.cl/lared/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", La Red HD
+https://marine2.miplay.cl/lared/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", La Red Op2
 https://d2tr4gdfol9ja.cloudfront.net/lared/lared.smil/.m3u8
 
@@ -1179,8 +1185,14 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Chilevision
 http://xdgo.live:8080/live/fontanezenittmia/AXaWZNUG6J/1744.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Chilevision HD
+https://marine2.miplay.cl/chilevision/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Chilevision 2
 https://marine2.miplay.cl/chilevision/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Mega - Chile HD
+https://marine2.miplay.cl/mega/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Mega - Chile
 https://marine2.miplay.cl/mega/mono.m3u8
@@ -1543,6 +1555,9 @@ https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", A1 Peliculas 24/7
+https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", A3Cine
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 
@@ -1709,6 +1724,9 @@ https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", Latido Music
 https://linear-257.frequency.stream/dist/localnow/257/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", MTV India
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", Adrenalina Sports
@@ -1788,6 +1806,12 @@ https://linear-356.frequency.stream/dist/localnow/356/hls/master/playlist.m3u8
 https://linear-357.frequency.stream/dist/localnow/357/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", TNT Sports (Eventos)
 https://d3junmnzdfp8ej.cloudfront.net/hls/tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", TUDN MX Op2
+http://ac.ntvlatino.com:8080/live/pope/2022/4117.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", TUDN USA Op3
+http://ac.ntvlatino.com:8080/live/pope/2022/3962.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", TUDN USA FHD
+http://ac.ntvlatino.com:8080/live/pope/2022/3963.m3u8
 
 
 
@@ -1797,8 +1821,6 @@ https://d3junmnzdfp8ej.cloudfront.net/hls/tv.m3u8
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj6j8kebx621181j6ak1c8ezcex66cbxvaack2a8t18zpcajhxpa22bbzx8jzxbjhjpzxezhvkahx88kcz62axh2p6vjzacbhze111cvh21ceevxhvzkexjatex6v6tbehepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=179&f=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", LAS Deportes
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj6j8kebx621181j6ak1c8ezcex66cbxvaack2a8t18zpcajhxpa22bbzx8jzxbjhjpzxezhvkahx88kcz62axh2p6vjzacbhze111cvh21ceevxhvzkexjatex6v6tbehepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2089&f=HLS&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", TELEMUNDO
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/340.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", TVC Deportes
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj6j8kebx621181j6ak1c8ezcex66cbxvaack2a8t18zpcajhxpa22bbzx8jzxbjhjpzxezhvkahx88kcz62axh2p6vjzacbhze111cvh21ceevxhvzkexjatex6v6tbehepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2157&f=HLS&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", TyC SPORTS
@@ -1951,9 +1973,11 @@ http://tvencasa.fun:2052/live/4236/4236/187212.m3u8
 http://tvencasa.fun:2052/live/4236/4236/239078.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", USA | Billiard TV
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", TNA Wrestling
 
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", USA | TNT
+https://d1k4ybyeycgihx.cloudfront.net/hls/TNT/playlist.m3u8?mvk
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", MOTOAMERICA TV
 https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_PREV_v0.m3u8
@@ -1996,6 +2020,13 @@ https://edge3.prepro.cvattv.com.ar/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", ESPN 4 (ARG)
 http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/977.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", ESPN Colombia
+http://ac.ntvlatino.com:8080/live/pope/2022/1090736.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", ESPN Argentina
+http://ac.ntvlatino.com:8080/live/pope/2022/1090736.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", DeporTV (ARG)
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
@@ -2055,10 +2086,7 @@ http://xdgo.live:8080/live/fontanezenittmia/AXaWZNUG6J/1829.m3u8
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Movistar La Liga Op2
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1108.ts.M3U8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Movistar Liga de Campeones
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1107.m3u8
+http://loga.ultratotal.ml/xls/ligota/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", RUSH
 http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
@@ -2126,47 +2154,28 @@ http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Dubai Racing
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", CBS Sports
-https://uload.ru.com/cdn/premium308/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Box Nation
 http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/36.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Box Nation Op2
-http://37.48.118.32/live/boxnation.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", SPO TV
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Sky Sports UK
+https://d4e6999e0485.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.529707182583.channel.KQmujSgYE0Rv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Sky Sports UK Op2
+https://da646a2c2532.us-east-1.playback.live-video.net/api/video/v1/us-east-1.089217380626.channel.jGgGqbErOOzb.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Toros HD
+https://livestream.brasilplay.net/TorosHD_DVR/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Billar TV
+https://a1a69a13b68f44f4aff604dd4cdee5cd.mediatailor.us-west-2.amazonaws.com/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/1a5905c0-ddbf-49a4-bcd8-28babf6a7c56/3.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Movistar", Movistar La Liga
-http://satelliteiptv.xyz:8080/Rada/steklic1/669971
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Movistar", Movistar Liga de Campeones
-http://satelliteiptv.xyz:8080/Rada/steklic1/620685
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Movistar", Movistar Deportes
-http://45.225.95.170:8000/play/a0jg/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Movistar", Movistar Vamos
-http://satelliteiptv.xyz:8080/Rada/steklic1/682872
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Movistar", Movistar Series
-http://satelliteiptv.xyz:8080/Rada/steklic1/7191
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Movistar", Movistar Series 2
-http://satelliteiptv.xyz:8080/Rada/steklic1/7190
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Movistar", Movistar Accion
-http://satelliteiptv.xyz:8080/Rada/steklic1/16280
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Movistar", Movistar Drama
-http://satelliteiptv.xyz:8080/Rada/steklic1/685776
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Movistar", Movistar Comedia
-http://satelliteiptv.xyz:8080/Rada/steklic1/7194
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Movistar", Movistar Estrenos 
-http://satelliteiptv.xyz:8080/Rada/steklic1/7222
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Movistar", Movistar Estrenos 2
-http://satelliteiptv.xyz:8080/Rada/steklic1/694263
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Movistar", Movistar Fest
-http://satelliteiptv.xyz:8080/Rada/steklic1/694264
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Movistar", Movistar #0
-http://satelliteiptv.xyz:8080/Rada/steklic1/16283
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Movistar", Movistar Champions 1
-https://shortgod.com/vip/pllatino3.php?id=761&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Movistar", Movistar Champions 2
-https://shortgod.com/vip/pllatino3.php?id=376&f=.m3u8
+
+
 
 
 
