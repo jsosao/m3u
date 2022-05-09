@@ -1,18 +1,5 @@
 #EXTM3U
 
-
-#EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="PREMIUM",Playboy
-http://190.92.95.37:8000/play/a0f6/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
-#EXTINF:-1 tvg-id="playboy.co" tvg-name="PLAYBOY" group-title="DISH MX",PLAY BOY
-http://38.123.205.70:8000/play/a09a/index.m3u8
-#EXTINF:-1 tvg-id="sextreme.co" tvg-name="SEXTREME" group-title="DISH MX",SEX XTREME
-http://38.123.205.70:8000/play/a09c/index.m3u8
-#EXTINF:-1 tvg-id="venus.co" tvg-name="VENUS" group-title="DISH MX",VENUS
-http://38.123.205.70:8000/play/a09b/index.m3u8
-
-
-
-
 #EXTINF:-1 group-title="IPTV ORG_2.us",HBO Asia
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",CBS Los Angeles CA (KCBS-DT1) (1080p)
