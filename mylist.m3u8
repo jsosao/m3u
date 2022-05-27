@@ -1334,27 +1334,30 @@ https://5e50264bd6766.streamlock.net/gks/videogks/chunklist_w42483601.m3u8
 https://tlmdhd-lh.akamaihd.net/i/tlmd1_1@79627/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Univision Noticias 24/7
 https://linear-254.frequency.stream/dist/localnow/254/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Univision
-http://ytv.plus:25461/live/Maria/1234/752.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Univision Op2
-http://ytv.plus:25461/live/Maria/1234/2332.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Univision Op3
-http://ytv.plus:25461/live/Maria/1234/1836.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Univision Op4
-http://ytv.plus:25461/live/Maria/1234/17320.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Univision Op5
-http://ytv.plus:25461/live/Maria/1234/20998.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Galavision
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/524.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Telemundo 
-http://ytv.plus:25461/live/Maria/1234/17619.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Telemundo Op1
-http://ytv.plus:25461/live/Maria/1234/12671.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Telemundo Op2
-http://ytv.plus:25461/live/Maria/1234/12835.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Telemundo Op3
-http://ytv.plus:25461/live/Maria/1234/14255.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Telemundo Op4
-http://ytv.plus:25461/live/Maria/1234/17248.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Univision New York
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/341.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Univision Los Angeles
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/342.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Univision Chicago
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/343.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Univision Houston
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/344.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Univision Miami
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/345.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Telemundo New York
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/336.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Telemundo Los Angeles
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/337.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Telemundo Chicago
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/338.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Telemundo Houston
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/339.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Telemundo Miami
+http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/340.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Telemundo Op5
 http://ytv.plus:25461/live/Maria/1234/17322.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Telemundo Op6
@@ -1936,6 +1939,9 @@ https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", NBATV
 http://51.161.84.67/LB2022_NBA_TV/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", NFL (Tubi)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NFL.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Uno Contra Uno
 https://stmvideo4.livecastv.com/ucuweb/ucuweb/playlist.m3u8
 
@@ -2037,6 +2043,11 @@ https://livestream.brasilplay.net/TorosHD_DVR/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Billar TV
 https://a1a69a13b68f44f4aff604dd4cdee5cd.mediatailor.us-west-2.amazonaws.com/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/1a5905c0-ddbf-49a4-bcd8-28babf6a7c56/3.m3u8
+
+
+
+
+
 
 
 
@@ -2591,6 +2602,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Uni
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium 2", Warner
 https://chromecast.cvattv.com.ar/live/live/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Noticias Univision 24/7
