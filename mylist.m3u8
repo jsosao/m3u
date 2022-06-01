@@ -1074,7 +1074,7 @@ https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Antena 3
-http://satelliteiptv.xyz:8080/live/Rada/steklic1/16260.m3u8
+http://jp@2690.ovh:25461/live/34baxmo5/56bwf44u/12603.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Antena 3 Op2 
 http://38.123.205.70:8000/play/a0bu/index.m3u8
@@ -1105,6 +1105,9 @@ http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/53535.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Cuatro
 http://satelliteiptv.xyz:8080/live/Rada/steklic1/7228.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Cuatro Op2
+http://jp@2690.ovh:25461/live/34baxmo5/56bwf44u/5545.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Mega Esp
 http://154.62.74.29:1935/live/mega/chunklist_w1555082919.m3u8
@@ -1145,8 +1148,14 @@ https://d2tr4gdfol9ja.cloudfront.net/lared/lared.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", La Sexta 
 http://satelliteiptv.xyz:8080/live/Rada/steklic1/16260.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", La Sexta Op2
+http://e33@2690.ovh:25461/live/34baxmo5/56bwf44u/5561.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Neox
 http://mytv.fun:8080/live/clxhnpkhug/3btqf5tg8/16264.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Neox Op2
+http://jp@2690.ovh:25461/live/34baxmo5/56bwf44u/5581.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Latina Peru
 http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/22165.m3u8
@@ -1203,16 +1212,22 @@ https://ecfe6e3fc3a34d60ac625cda77722824.mediatailor.us-east-1.amazonaws.com/v1/
 https://dai2.xumo.com/xumocdn/deviceid/amagi_hls_data_xumo1212A-rokunovelaclub/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Telecinco
-http://94.127.187.118:8080/hls/t5.m3u8
+http://e33@2690.ovh:25461/live/34baxmo5/56bwf44u/5587.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Energy
 http://154.62.74.28:1935/live/energy-Stream/chunklist_w1028201034.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Energy Op2
+http://e33@2690.ovh:25461/live/34baxmo5/56bwf44u/14132.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Divinity
 http://mytv.fun:8080/live/clxhnpkhug/3btqf5tg8/13534.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Divinity Op2
+http://e33@2690.ovh:25461/live/34baxmo5/56bwf44u/5549.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", FDF
-https://live.mitele.es/hls/live/2005336/fdf/master.m3u8?hdnts=st=1651095776~exp=1651095866~acl=/*~hmac=22f19f40c2988fefa640e264f09c4c7af670bf94757b4a5e2dc88b356f81afd5
+http://e33@2690.ovh:25461/live/34baxmo5/56bwf44u/5553.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Venevision
 http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8
@@ -1372,8 +1387,6 @@ http://ytv.plus:25461/live/Maria/1234/217.m3u8
 
 
 
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Niños", Baby Shark TV
 https://newidco-babysharktv-2-mx.samsung.wurl.tv/3000.m3u8
 
@@ -1415,8 +1428,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=547
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Niños", Lego Toons
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Rakuten Spotlight
@@ -1840,7 +1851,7 @@ http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8
 http://satelliteiptv.xyz:8080/live/Rada/steklic1/677142.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", USA | WWE
-http://tvencasa.fun:2052/live/4236/4236/187212.m3u8
+http://e33@2690.ovh:25461/live/34baxmo5/56bwf44u/109738.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", USA | Combate UFC
 http://tvencasa.fun:2052/live/4236/4236/239078.m3u8
@@ -2043,12 +2054,6 @@ https://livestream.brasilplay.net/TorosHD_DVR/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Billar TV
 https://a1a69a13b68f44f4aff604dd4cdee5cd.mediatailor.us-west-2.amazonaws.com/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/1a5905c0-ddbf-49a4-bcd8-28babf6a7c56/3.m3u8
-
-
-
-
-
-
 
 
 
@@ -2602,7 +2607,6 @@ https://chromecast.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Uni
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium 2", Warner
 https://chromecast.cvattv.com.ar/live/live/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Noticias Univision 24/7
