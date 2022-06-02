@@ -1074,7 +1074,7 @@ https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Antena 3
-http://jp@2690.ovh:25461/live/34baxmo5/56bwf44u/12603.m3u8
+http://jp@2690.ovh:25461/live/34baxmo5/56bwf44u/14132.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Antena 3 Op2 
 http://38.123.205.70:8000/play/a0bu/index.m3u8
@@ -1340,6 +1340,22 @@ https://bamus-spa-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Vivo Play
 https://linear-260.frequency.stream/dist/localnow/260/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", ITV (UK)
+http://e33@2690.ovh:25461/live/34baxmo5/56bwf44u/6032.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", ITV 2 (UK)
+http://e33@2690.ovh:25461/live/34baxmo5/56bwf44u/6033.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", ITV 3(UK)
+http://e33@2690.ovh:25461/live/34baxmo5/56bwf44u/3780.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", ITV 4 (UK)
+http://e33@2690.ovh:25461/live/34baxmo5/56bwf44u/3779.m3u8
+
+
 
 
 
@@ -1387,6 +1403,8 @@ http://ytv.plus:25461/live/Maria/1234/217.m3u8
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Niños", Baby Shark TV
 https://newidco-babysharktv-2-mx.samsung.wurl.tv/3000.m3u8
 
@@ -1428,6 +1446,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=547
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Niños", Lego Toons
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Rakuten Spotlight
@@ -1815,7 +1835,7 @@ https://dip0m6wuccbi7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", USA | NBA TV
-http://xdgo.live:8080/live/fontanezenittmia/AXaWZNUG6J/5629.m3u8
+http://2690.ovh:25461/live/34baxmo5/56bwf44u/103975.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", USA | NBA TV HD
 http://84.22.33.214:80/nbatv/index.m3u8
@@ -1837,6 +1857,9 @@ https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", USA | Sky 2
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", USA | CBS Sports Network
+http://2690.ovh:25461/live/34baxmo5/56bwf44u/103975.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", USA | Total Sports
 http://cdn1.bmstudiopk.com:1935/totalsports/live/playlist.m3u8
@@ -2037,23 +2060,63 @@ http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Dubai Racing
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Box Nation
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/36.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", SPO TV
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Sky Sports UK
-https://d4e6999e0485.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.529707182583.channel.KQmujSgYE0Rv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Sky Sports 1 (UK)
+http://2690.ovh:25461/live/34baxmo5/56bwf44u/103725.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Sky Sports UK Op2
-https://da646a2c2532.us-east-1.playback.live-video.net/api/video/v1/us-east-1.089217380626.channel.jGgGqbErOOzb.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Sky Sports 2 (UK)
+http://2690.ovh:25461/live/34baxmo5/56bwf44u/103726.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Sky Sports 3 (UK)
+http://2690.ovh:25461/live/34baxmo5/56bwf44u/103727.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Sky Sports 4 (UK)
+http://2690.ovh:25461/live/34baxmo5/56bwf44u/103728.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Sky Sports 5 (UK)
+http://2690.ovh:25461/live/34baxmo5/56bwf44u/103729.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Sky Sports Football (UK)
+http://2690.ovh:25461/live/34baxmo5/56bwf44u/4768.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Sky Sports F1 (UK)
+http://2690.ovh:25461/live/34baxmo5/56bwf44u/4778.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", EuroSports 1 (UK)
+http://2690.ovh:25461/live/34baxmo5/56bwf44u/4771.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", EuroSports 2 (UK)
+http://2690.ovh:25461/live/34baxmo5/56bwf44u/4770.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Toros HD
 https://livestream.brasilplay.net/TorosHD_DVR/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Billar TV
 https://a1a69a13b68f44f4aff604dd4cdee5cd.mediatailor.us-west-2.amazonaws.com/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/1a5905c0-ddbf-49a4-bcd8-28babf6a7c56/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Box Nation (UK)
+http://2690.ovh:25461/live/34baxmo5/56bwf44u/4772.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", BT Sports 1
+http://2690.ovh:25461/live/34baxmo5/56bwf44u/4777.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", BT Sports 2
+http://2690.ovh:25461/live/34baxmo5/56bwf44u/4776.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", BT Sports 3
+http://2690.ovh:25461/live/34baxmo5/56bwf44u/4775.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", BT Sports ESPN
+http://2690.ovh:25461/live/34baxmo5/56bwf44u/4742.m3u8
+
+
+
 
 
 
@@ -2441,6 +2504,43 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=126&f=HLSAD&s=hkc
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium MX", TNT SERIES
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=71&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Movistar Plus", 0
+http://e33@2690.ovh:25461/live/34baxmo5/56bwf44u/5523.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Movistar Plus", M Accion
+http://e33@2690.ovh:25461/live/34baxmo5/56bwf44u/5564.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Movistar Plus", M Comedia
+http://e33@2690.ovh:25461/live/34baxmo5/56bwf44u/5566.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Movistar Plus", M Estrenos
+http://e33@2690.ovh:25461/live/34baxmo5/56bwf44u/5571.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Movistar Plus", M Series
+http://e33@2690.ovh:25461/live/34baxmo5/56bwf44u/5565.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Movistar Plus", M Cine Ñ
+http://e33@2690.ovh:25461/live/34baxmo5/56bwf44u/5567.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Movistar Plus", M Drama
+http://e33@2690.ovh:25461/live/34baxmo5/56bwf44u/5577.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Movistar Plus", M La Liga
+http://e33@2690.ovh:25461/live/34baxmo5/56bwf44u/14163.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Movistar Plus", M Deportes
+http://e33@2690.ovh:25461/live/34baxmo5/56bwf44u/5568.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Movistar Plus", M Liga de Campeones
+http://e33@2690.ovh:25461/live/34baxmo5/56bwf44u/12603.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Movistar Plus", M Vamos
+http://e33@2690.ovh:25461/live/34baxmo5/56bwf44u/14157.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Movistar Plus", M Futbol
+http://e33@2690.ovh:25461/live/34baxmo5/56bwf44u/14160.m3u8
+
+
+
+
+
+
+
+
+
 
 
 
