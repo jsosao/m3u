@@ -3,6 +3,39 @@
 *********************    ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... ****************************
 *********************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ****************************************
 
+*****  https://github.com/chuo21/m3u-cine/blob/9e5ea2cc60679465fbc9969f0fb419fd5760aaf1/cine.m3u ******
+
+#EXTINF:-1,LA_SD:TELEVISA LAGUNA TV
+https://youtu.be/nYGFW1PhMDw
+
+*************  https://github.com/bitsbb01/iptvorg/blob/6dccb2a8b54a823199c822d5441ea3af6b683973/streams/mx.m3u  ********************
+
+#EXTINF:-1 tvg-id="TelevisaChihuahua.mx" status="online",Televisa Chihuahua (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCjfxDe7In59Jbfw2HmIh_Vg/live
+#EXTINF:-1 tvg-id="TelevisaCiudadJuarez.mx" status="online",Televisa Ciudad Juarez (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCot4t8PVKz8TT5xVM8Eb00w/live
+#EXTINF:-1 tvg-id="TelevisaEstado.mx" status="online",Televisa Estado (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC9DH82HVSf4katwMeUpY80w
+#EXTINF:-1 tvg-id="TelevisaGuadalajara.mx" status="online",Televisa Guadalajara (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCRujF_YxVVFmTRWURQH-Cww/live
+#EXTINF:-1 tvg-id="TelevisaLaguna.mx" status="online",Televisa Laguna (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC_mwCcsKDJLSWjply5s0h8w/live
+#EXTINF:-1 tvg-id="TelevisaMexicali.mx" status="online",Televisa Mexicali (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcmuFsMIIIHO3LBqeBVfm8Q/live
+#EXTINF:-1 tvg-id="TelevisaMonterrey.mx" status="online",Televisa Monterrey (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg/live
+#EXTINF:-1 tvg-id="TelevisaNewsMexico.mx" status="online",Televisa News Mexico (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCUsm-fannqOY02PNN67C0KA/live
+#EXTINF:-1 tvg-id="TelevisaNoreste.mx" status="online",Televisa Noreste (480p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC752DYv5vPlTSMrvEjfZXcw/live
+#EXTINF:-1 tvg-id="TelevisaSonora.mx" status="online",Televisa Sonora (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCyzWMHGS7bs0sot6KZk5EZg/live
+#EXTINF:-1 tvg-id="TelevisaVeracruz.mx" status="online",Televisa Veracruz (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg/live
+#EXTINF:-1 tvg-id="TelevisaZacatecas.mx" status="online",Televisa Zacatecas (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCQb3i7gu9J8A4zzQU7j6C1Q/live
+
+
 ******************* https://raw.githubusercontent.com/jsosao/ncirisaif.github.io/main/streams/us.m3u ****************************
 
 #EXTINF:-1 group-title="IPTV ORG_2.us",HBO Asia
