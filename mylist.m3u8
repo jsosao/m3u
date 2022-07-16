@@ -5,6 +5,8 @@
 
 **********************   https://raw.githubusercontent.com/4benteveos/Personal/main/Prueba1.m3u ****************************************
 
+
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/200?cb=20201126030141" group-title="CINE", HBO
 https://edge3.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/200?cb=20201126030141" group-title="CINE", HBO |Opc.2
@@ -39,10 +41,227 @@ http://l3d.us:25461/daleplayD/PN2WghCVNvMk/157156
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Universal_Cinema.svg/revision/latest/scale-to-width-down/250?cb=20220311031932" group-title="CINE", UNIVERSAL CINEMA
 http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2081448
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Universal_Comedy.svg/revision/latest/scale-to-width-down/250?cb=20220311032038" group-title="CINE", UNIVERSAL COMEDY
 http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2081444
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Universal_Premiere.svg/revision/latest/scale-to-width-down/250?cb=20220311031855" group-title="CINE", UNIVERSAL PREMIER
 http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2081446
+
+#EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/153232/isolated/preview/c3bcb676107e330558ccc68f8e1cf7d5-icono-plano-del-reproductor-de-peliculas.png" group-title="CINE", MOVIES CLUB
+http://181.176.148.142:8000/play/a02s
+
+#EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png" group-title="CINE", CINE PREMIUM
+http://181.176.148.142:8000/play/a025
+
+#EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinehispano.png" group-title="CINE", CINE HISPANO
+http://181.176.148.142:8000/play/a024
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="CINE", Cine Acción
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png" group-title="CINE", Cine COMEDIA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="CINE", Cine Estelar
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png" group-title="CINE", Cine Familia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png" group-title="CINE", Cine Romance
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png" group-title="CINE", Cine Suspenso
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVt7KVBh/imageonline-co-transparentimage-1-modified.png" group-title="CINE", MY TIME MOVIES 1
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVt7KVBh/imageonline-co-transparentimage-1-modified.png" group-title="CINE", MY TIME MOVIES 2
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/200?cb=20210715160314" group-title="DEPORTES", NBA TV
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/10654
+
+#EXTINF:-1 tvg-logo="https://www.mydish.com/filestream.ashx?ID=25593" group-title="DEPORTES", NBA Pass
+http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/198974
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/ClaroSports.png/revision/latest/scale-to-width-down/300?cb=20140409052254" group-title="DEPORTES", CLARO SPORTS
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_03/large.large.logo_DTVSports2018.png.e81f8dc38ed8ebadbbb6518e40f4ac4e.png.578b14e21d8782bf7b5f915b778bcb1b.png" group-title="DEPORTES", DTV Sports -RESPALDO-
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2022/05/beIN-Sports-en-Espanol.png" group-title="DEPORTES", BEIN SPORTS Ñ 
+http://190.83.119.67:8000/play/a0v6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/BeinSportsLaLiga.png/revision/latest/scale-to-width-down/220?cb=20161025122032" group-title="DEPORTES", BEIN SPORTS La Liga
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/2560px-LaLiga.svg.png" group-title="DEPORTES", La Liga
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/197233
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Movistar_Deportes.svg/revision/latest/scale-to-width-down/250?cb=20180910204157" group-title="DEPORTES", Movistar Deportes
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/223873
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/250?cb=20210102195101&path-prefix=es" group-title="DEPORTES", ESPN
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/202064
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/ESPN2_2006.svg/revision/latest/scale-to-width-down/300?cb=20200105155601&path-prefix=es" group-title="DEPORTES", ESPN 2
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/181332
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png/revision/latest/scale-to-width-down/300?cb=20151012185318&path-prefix=es" group-title="DEPORTES", ESPN 3
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/181349
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest/scale-to-width-down/350?cb=20211129170304&path-prefix=es" group-title="DEPORTES", ESPN 4
+http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/295304
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png" group-title="DEPORTES", ESPN EXTRA
+http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/285105
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/387px-DAZN_1_Logo.svg.png?20210827134204" group-title="DEPORTES", DAZN 1
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/223949
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png" group-title="DEPORTES", F1
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/223952
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/VTV_Plus_2021.png/revision/latest/scale-to-width-down/275?cb=20210605021216&path-prefix=es" group-title="DEPORTES", VTV Plus
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2055406
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/VTV_Plus_2021.png/revision/latest/scale-to-width-down/275?cb=20210605021216&path-prefix=es" group-title="DEPORTES", VTV Plus |Opc.SG
+http://shortgod.com/19/tv5.php?c=409
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/VTV_Logo_2021.png/revision/latest/scale-to-width-down/275?cb=20210429025515&path-prefix=es" group-title="DEPORTES", VTV
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2055385
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest/scale-to-width-down/350?cb=20210117160858&path-prefix=es" group-title="DEPORTES", TNT Sports 
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/17316
+
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2021/10/red-bull-tv.png" group-title="DEPORTES", REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/DirecTV_Sports_2018.svg/revision/latest/scale-to-width-down/250?cb=20200706223451&path-prefix=es" group-title="DEPORTES", DIRECTV Sports
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/202157
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/revision/latest/scale-to-width-down/288?cb=20191025185617" group-title="DEPORTES", DIRECTV Sports 2
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2123474
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/revision/latest/scale-to-width-down/240?cb=20191025185801" group-title="DEPORTES", DIRECTV Sports+
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/203186
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" group-title="DEPORTES", EUROSPORT 1
+http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/1160
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" group-title="DEPORTES", EUROSPORT 2
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/158482
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES", WIN Sports
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/176587
+
+#EXTINF:-1 tvg-logo="https://www.cualeselprecio.com/wp-content/uploads/2020/12/1200px-Win_Sports_logo.svg.png" group-title="DEPORTES", WIN Sports+
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/155248
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="DEPORTES", UFC Fight Pass
+
+
+#EXTINF:-1 tvg-logo="https://images.vectorhq.com/images/previews/74b/nfl-logo-psd-467086.png" group-title="DEPORTES", NFL TV 
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NFL.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB TV
+http://tv.nlt.wtf:24561/live/Ashley689/673175/728.ts
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png" group-title="DEPORTES", PGA TOUR
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="DEPORTES", TENNIS CHANNEL
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png" group-title="DEPORTES", DEPORT TV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTES", BEIN SPORTS EXTRA Ñ
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/198032/isolated/preview/b2814d420ae111921cceea3c11766403-jugador-de-ftbol-plano.png" group-title="DEPORTES", EVENTOS DTV
+https://z7nqm6s4adt32ga.p21.rt3.io/rtp/239.1.1.11:40120/canal12
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/606/606441.png" group-title="DEPORTES", EVENTOS Copa América Femenina
+
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png" group-title="INFANTIL", Retro Cartoons
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG.png" group-title="INFANTIL", Toons Clásico
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Cartoon-designstyle-cartoon-m.png" group-title="INFANTIL", CARTOONS
+http://181.176.148.142:8000/play/a021
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/kanadetv.net/wp-content/uploads/2021/09/cropped-cropped-Branded-Logo-Icon-Plus-Text-And-Outline-0-00-00-00.png" group-title="INFANTIL", KANADE
+https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://planetatv.online/intro/wp-content/uploads/2022/04/planetatvlogo.png" group-title="INFANTIL", PLANETA TV KIDS
+https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/6/6c/LocomotionGrande.png/revision/latest/scale-to-width-down/1200?cb=20150722124646&path-prefix=es" group-title="INFANTIL", LOCOMOTION 
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Pakapaka-en-vivo-Online-1.png" group-title="INFANTIL", PAKA PAKA
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTIL", CARTOON NETWORK
+http://51.222.25.50:25461/n3wbull/bulln3w/63
+
+#EXTINF:-1 tvg-logo="http://static1.squarespace.com/static/56d8b7d62b8dde62573b9dd3/t/5ec0bac242d7f07cca6e9131/1589689123088/WeWillRoam_LogoDark_Masked+Layers+4.png?format=1500w" group-title="INFANTIL", DIBUJOS ANIMADOS
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="INFANTIL", Nick Clásico
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/1200px-El_Chavo_%28simple_logo%29.svg.png" group-title="INFANTIL", EL CHAVO
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png" group-title="INFANTIL", ALF
+https://srv5.zcast.com.br/alf/alf/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/44/4e/16/444e1655713dbf5b7dcafb088b14c6ab.png" group-title="INFANTIL", LA VACA Y EL POLLITO
+http://shortgod.com/19/tv1.php?c=809&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9db64aa0-7df1-4621-8938-ba1680253877/dee3x7g-87869b37-f91c-479e-9e46-6743e74cec30.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzlkYjY0YWEwLTdkZjEtNDYyMS04OTM4LWJhMTY4MDI1Mzg3N1wvZGVlM3g3Zy04Nzg2OWIzNy1mOTFjLTQ3OWUtOWU0Ni02NzQzZTc0Y2VjMzAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.aoG-Aj-DLHcCN9c07cJAHRlHisUC-YJkQuMQ17iM9qM" group-title="INFANTIL", Garfield
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/25127
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/1200px-Bob_esponja_logotipo.svg.png" group-title="INFANTIL", BOB ESPONJA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/65/a1/7b/65a17b3dec822869b016a6c2d6205fb6.png" group-title="INFANTIL", PEPPA PIG
+https://pstrem.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=hl_nACnH42w
+
+#EXTINF:-1 tvg-logo="https://marcosdavidh.files.wordpress.com/2013/04/tom-y-jerry-logo.png" group-title="INFANTIL", TOM & JERRY
+https://pstrem.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=PX2wegQtnBQ
+
+#EXTINF:-1 tvg-logo="https://www.pngmart.com/files/17/Futurama-Logo-PNG-Image.png" group-title="INFANTIL", FUTURAMA
+http://shortgod.com/19/tv1.php?c=793&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-93L7M5ltSDA/TjtYizV9bvI/AAAAAAAAARM/618e9_Rykqo/s1600/Coraje2.png" group-title="INFANTIL", CORAJE EL PERRO COBARDE (SG5)
+http://shortgod.com/19/tv5.php?c=286
+
+#EXTINF:-1 tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/09/Looney-Tunes-Logo-1985.png" group-title="INFANTIL", LOONEY TOONES (L5)
+http://magmas5.com:8000/live/malotv/gratis/129338.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/78/f0/de/78f0dee5cbae782f77bca53aef75d08d.png" group-title="INFANTIL", LA PANTERA ROSA (L5)
+http://magmas5.com:8000/live/malotv/gratis/129347.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/ETGMWihWoAMua9b.png" group-title="INFANTIL", ED, EDD y EDDY (L5)
+http://magmas5.com:8000/live/malotv/gratis/145793.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/Scooby_Doo-logo-40A703ABCA-seeklogo.com.png" group-title="INFANTIL", SCOOBY-DOO (L5)
+http://magmas5.com:8000/live/malotv/gratis/3385.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/313-3139189_coyote-y-correcaminos-dibujos-del-correcaminos-y-el.png" group-title="INFANTIL", EL COYOTE Y EL CORRECAMINOS
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2090952
+
 
 ******************* https://raw.githubusercontent.com/jsosao/ncirisaif.github.io/main/streams/us.m3u ****************************
 
