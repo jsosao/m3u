@@ -5,6 +5,38 @@
 
 **********************   https://raw.githubusercontent.com/4benteveos/Personal/main/Prueba1.m3u ****************************************
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/200?cb=20201126030141" group-title="CINE", HBO
+https://edge3.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/200?cb=20201126030141" group-title="CINE", HBO |Opc.2
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/154113
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/HBO_2_2014.svg/revision/latest/scale-to-width-down/300?cb=20210113014820" group-title="CINE", HBO 2
+https://edge3.prepro.cvattv.com.ar/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/HBO_2_2014.svg/revision/latest/scale-to-width-down/300?cb=20210113014820" group-title="CINE", HBO 2 |Opc.HD
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/155165
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Logohboplus2019.svg/revision/latest/scale-to-width-down/300?cb=20190408002018" group-title="CINE", HBO PLUS
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/154115
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/HBO_Family.svg/revision/latest/scale-to-width-down/250?cb=20100321192403" group-title="CINE", HBO FAMILY
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/155166
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/HBO_Pop_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220707" group-title="CINE", HBO POP
+https://edge1.prepro.cvattv.com.ar/live/live/Max_UP_HD/SA_Live_WebVTT_FTA/Max_UP_HD.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/HBO_Pop_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220707" group-title="CINE", HBO POP |Opc.HD
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/155168
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/HBO_Mundi_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220536" group-title="CINE", HBO MUNDI
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/155167
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="CINE", HBO SIGNATURE
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/155170
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/HBO_Xtreme_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220352" group-title="CINE", HBO Extreme
+https://edge3.prepro.cvattv.com.ar/live/vod/HBO_Extreme/SA_Live_WebVTT_FTA/HBO_Extreme.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/HBO_Xtreme_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220352" group-title="CINE", HBO Extreme |Opc.HD
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/157156
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Universal_Cinema.svg/revision/latest/scale-to-width-down/250?cb=20220311031932" group-title="CINE", UNIVERSAL CINEMA
 http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2081448
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Universal_Comedy.svg/revision/latest/scale-to-width-down/250?cb=20220311032038" group-title="CINE", UNIVERSAL COMEDY
