@@ -1856,49 +1856,93 @@ https://linear-286.frequency.stream/dist/localnow/286/hls/master/playlist.m3u8
 
 **********************   https://raw.githubusercontent.com/4benteveos/Personal/main/Prueba1.m3u ****************************************
 
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/200?cb=20201126030141" group-title="CINE", HBO
 https://edge3.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/200?cb=20201126030141" group-title="CINE", HBO | OPC2
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/154113
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/200?cb=20201126030141" group-title="CINE", HBO |OPC2
+http://viperos.net:8080/BorisAriel/Restream1234/9753
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/HBO_2_2014.svg/revision/latest/scale-to-width-down/300?cb=20210113014820" group-title="CINE", HBO 2
 https://edge3.prepro.cvattv.com.ar/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/HBO_2_2014.svg/revision/latest/scale-to-width-down/300?cb=20210113014820" group-title="CINE", HBO 2 | OPC2
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/155165
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/HBO_2_2014.svg/revision/latest/scale-to-width-down/300?cb=20210113014820" group-title="CINE", HBO 2 |OPC2
+http://viperos.net:8080/BorisAriel/Restream1234/1858
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Logohboplus2019.svg/revision/latest/scale-to-width-down/300?cb=20190408002018" group-title="CINE", HBO PLUS
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/154115
+http://viperos.net:8080/BorisAriel/Restream1234/26400
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/HBO_Family.svg/revision/latest/scale-to-width-down/250?cb=20100321192403" group-title="CINE", HBO FAMILY
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/155166
+http://viperos.net:8080/BorisAriel/Restream1234/1857
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/HBO_Pop_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220707" group-title="CINE", HBO POP
 https://edge1.prepro.cvattv.com.ar/live/live/Max_UP_HD/SA_Live_WebVTT_FTA/Max_UP_HD.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/HBO_Pop_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220707" group-title="CINE", HBO POP | OPC2
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/155168
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/HBO_Pop_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220707" group-title="CINE", HBO POP |OPC3
+http://iptvtree.net:8080/faucontv/3455cdc6fc/3069
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/HBO_Mundi_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220536" group-title="CINE", HBO MUNDI
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/155167
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/HBO_Mundi_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220536" group-title="CINE", HBO MUNDI (IPTVT)
+http://iptvtree.net:8080/faucontv/3455cdc6fc/226015
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/HBO_Mundi_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220536" group-title="CINE", HBO MUNDI (VSP)
+http://viperos.net:8080/BorisAriel/Restream1234/1807
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="CINE", HBO SIGNATURE
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/155170
+http://viperos.net:8080/BorisAriel/Restream1234/9755
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/HBO_Xtreme_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220352" group-title="CINE", HBO Extreme
 https://edge3.prepro.cvattv.com.ar/live/vod/HBO_Extreme/SA_Live_WebVTT_FTA/HBO_Extreme.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/HBO_Xtreme_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220352" group-title="CINE", HBO Extreme | OPC2
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/157156
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Paramount_Network_%28Gradient%29.svg/revision/latest/scale-to-width-down/200?cb=20191226173409" group-title="CINE", PARAMOUNT
+https://edge1.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramount.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Paramount_Network_%28Gradient%29.svg/revision/latest/scale-to-width-down/200?cb=20191226173409" group-title="CINE", PARAMOUNT |HD
+http://viperos.net:8080/BorisAriel/Restream1234/1852
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Film_%26_Arts.svg/revision/latest/scale-to-width-down/300?cb=20191030181426" group-title="CINE", FILM & ARTS |OPC2
+http://viperos.net:8080/BorisAriel/Restream1234/26935
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Film_%26_Arts.svg/revision/latest/scale-to-width-down/300?cb=20191030181426" group-title="CINE", FILM & ARTS
+http://iptvtree.net:8080/faucontv/3455cdc6fc/38678
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Golden_LA_%282020%29.png/1200px-Golden_LA_%282020%29.png" group-title="CINE", GOLDEN
+http://viperos.net:8080/BorisAriel/Restream1234/1867
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/640px-Golden_Edge_Logo_2020.png" group-title="CINE", GOLDEN EDGE
+http://viperos.net:8080/BorisAriel/Restream1234/24126
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest?cb=20201202010915&path-prefix=es" group-title="CINE", GOLDEN PREMIER
+http://iptvtree.net:8080/faucontv/3455cdc6fc/3052
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es" group-title="CINE", GOLDEN PLUS
+http://viperos.net:8080/BorisAriel/Restream1234/24127
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T0jMb06/warner.png" group-title="CINE", WARNER
+http://viperos.net:8080/BorisAriel/Restream1234/26385
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" group-title="CINE", RAKUTEN COMEDIA    
+https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel%3D428%26ads.wurl_name%3DRakutenComedyMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Atrescine.svg/revision/latest/scale-to-width-down/300?cb=20200629153338&path-prefix=es" group-title="CINE", A3CINE
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Universal_Cinema.svg/revision/latest/scale-to-width-down/250?cb=20220311031932" group-title="CINE", UNIVERSAL CINEMA
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2081448
+http://viperos.net:8080/BorisAriel/Restream1234/313693
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Universal_Comedy.svg/revision/latest/scale-to-width-down/250?cb=20220311032038" group-title="CINE", UNIVERSAL COMEDY
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2081444
+http://tvfunny.club:25461/Pelisplus/Seriesplus/12944
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Universal_Premiere.svg/revision/latest/scale-to-width-down/250?cb=20220311031855" group-title="CINE", UNIVERSAL PREMIER
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2081446
+http://viperos.net:8080/BorisAriel/Restream1234/313685
 
 #EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/153232/isolated/preview/c3bcb676107e330558ccc68f8e1cf7d5-icono-plano-del-reproductor-de-peliculas.png" group-title="CINE", MOVIES CLUB
 http://181.176.148.142:8000/play/a02s
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvRTj8KY/121-RTRO-webp-modified.png" group-title="CINE", RETRO 
+http://181.176.148.142:8000/play/a02x
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CINE", SONY
+http://viperos.net:8080/BorisAriel/Restream1234/26404
+
+#EXTINF:-1 tvg-logo="https://planetatv.online/intro/wp-content/uploads/2022/04/cropped-planetatvlogo.png" group-title="CINE", PLANETA TV MOVIES
+https://tls-cl.cdnz.cl/planetatv2/ngrp:live_all//playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png" group-title="CINE", CINE PREMIUM
 http://181.176.148.142:8000/play/a025
@@ -1906,33 +1950,14 @@ http://181.176.148.142:8000/play/a025
 #EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinehispano.png" group-title="CINE", CINE HISPANO
 http://181.176.148.142:8000/play/a024
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="CINE", Cine Acción
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6587750_preview.png" group-title="CINE", CINE CLUB
+https://servilive.com:3176/live/cineclublive.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png" group-title="CINE", Cine COMEDIA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="CINE", Cine Estelar
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png" group-title="CINE", Cine Familia
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png" group-title="CINE", Cine Romance
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png" group-title="CINE", Cine Suspenso
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVt7KVBh/imageonline-co-transparentimage-1-modified.png" group-title="CINE", MY TIME MOVIES 1
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVt7KVBh/imageonline-co-transparentimage-1-modified.png" group-title="CINE", MY TIME MOVIES 2
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png" group-title="CINE", SONY Movies
+http://190.83.119.67:8000/play/a0qc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/200?cb=20210715160314" group-title="DEPORTES", NBA TV
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/10654
+http://iptvtree.net:8080/faucontv/3455cdc6fc/762
 
 #EXTINF:-1 tvg-logo="https://www.mydish.com/filestream.ashx?ID=25593" group-title="DEPORTES", NBA Pass
 http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/198974
@@ -1946,70 +1971,76 @@ http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2022/05/beIN-Sports-en-Espanol.png" group-title="DEPORTES", BEIN SPORTS Ñ 
 http://190.83.119.67:8000/play/a0v6/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/BeinSportsLaLiga.png/revision/latest/scale-to-width-down/220?cb=20161025122032" group-title="DEPORTES", BEIN SPORTS La Liga
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/2560px-LaLiga.svg.png" group-title="DEPORTES", La Liga
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/197233
+http://51.222.25.50:25461/44pn3w/bull4pp/3321
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/2560px-LaLiga.svg.png" group-title="DEPORTES", La Liga |OPC2
+http://iptvtree.net:8080/faucontv/3455cdc6fc/1141
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/1280px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="DEPORTES", Liga de Campeones
+http://iptvtree.net:8080/faucontv/3455cdc6fc/2800
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Movistar_Deportes.svg/revision/latest/scale-to-width-down/250?cb=20180910204157" group-title="DEPORTES", Movistar Deportes
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/223873
+http://iptvtree.net:8080/faucontv/3455cdc6fc/227121
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/250?cb=20210102195101&path-prefix=es" group-title="DEPORTES", ESPN
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/202064
+http://51.222.25.50:25461/44pn3w/bull4pp/3034
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/ESPN2_2006.svg/revision/latest/scale-to-width-down/300?cb=20200105155601&path-prefix=es" group-title="DEPORTES", ESPN 2
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/181332
+http://51.222.25.50:25461/44pn3w/bull4pp/3035
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png/revision/latest/scale-to-width-down/300?cb=20151012185318&path-prefix=es" group-title="DEPORTES", ESPN 3
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/181349
+http://51.222.25.50:25461/44pn3w/bull4pp/3036
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest/scale-to-width-down/350?cb=20211129170304&path-prefix=es" group-title="DEPORTES", ESPN 4
-http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/295304
+http://51.222.25.50:25461/44pn3w/bull4pp/3037
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png" group-title="DEPORTES", ESPN EXTRA
-http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/285105
+http://iptvtree.net:8080/faucontv/3455cdc6fc/66298
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/387px-DAZN_1_Logo.svg.png?20210827134204" group-title="DEPORTES", DAZN 1
 http://l3d.us:25461/daleplayD/PN2WghCVNvMk/223949
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png" group-title="DEPORTES", F1
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/223952
+http://51.222.25.50:25461/44pn3w/bull4pp/3326
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png" group-title="DEPORTES", F1 |OPC2
+http://iptvtree.net:8080/faucontv/3455cdc6fc/1672
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/VTV_Plus_2021.png/revision/latest/scale-to-width-down/275?cb=20210605021216&path-prefix=es" group-title="DEPORTES", VTV Plus | 2
-http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/8659
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/VTV_Plus_2021.png/revision/latest/scale-to-width-down/275?cb=20210605021216&path-prefix=es" group-title="DEPORTES", VTV Plus
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/VTV_Plus_2021.png/revision/latest/scale-to-width-down/275?cb=20210605021216&path-prefix=es" group-title="DEPORTES", VTV Plus |2
+http://viperos.net:8080/BorisAriel/Restream1234/24023
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/VTV_Plus_2021.png/revision/latest/scale-to-width-down/275?cb=20210605021216&path-prefix=es" group-title="DEPORTES", VTV Plus 
 http://iptvtree.net:8080/faucontv/3455cdc6fc/8659
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/VTV_Logo_2021.png/revision/latest/scale-to-width-down/275?cb=20210429025515&path-prefix=es" group-title="DEPORTES", VTV
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2055385
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/VTV_Logo_2021.png/revision/latest/scale-to-width-down/275?cb=20210429025515&path-prefix=es" group-title="DEPORTES", VTV 
+http://viperos.net:8080/BorisAriel/Restream1234/74130
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest/scale-to-width-down/350?cb=20210117160858&path-prefix=es" group-title="DEPORTES", TNT Sports 
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/17316
+http://viperos.net:8080/BorisAriel/Restream1234/26530
 
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2021/10/red-bull-tv.png" group-title="DEPORTES", REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/DirecTV_Sports_2018.svg/revision/latest/scale-to-width-down/250?cb=20200706223451&path-prefix=es" group-title="DEPORTES", DIRECTV Sports
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/202157
+http://viperos.net:8080/BorisAriel/Restream1234/132133
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/DirecTV_Sports_2018.svg/revision/latest/scale-to-width-down/250?cb=20200706223451&path-prefix=es" group-title="DEPORTES", DIRECTV Sports |CO
+http://iptvtree.net:8080/faucontv/3455cdc6fc/67721
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/revision/latest/scale-to-width-down/288?cb=20191025185617" group-title="DEPORTES", DIRECTV Sports 2
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2123474
+http://iptvtree.net:8080/faucontv/3455cdc6fc/31645
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/revision/latest/scale-to-width-down/240?cb=20191025185801" group-title="DEPORTES", DIRECTV Sports+
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/203186
+http://iptvtree.net:8080/faucontv/3455cdc6fc/295550
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" group-title="DEPORTES", EUROSPORT 1
-http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/1160
+http://iptvtree.net:8080/faucontv/3455cdc6fc/1160
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" group-title="DEPORTES", EUROSPORT 2
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/158482
+http://iptvtree.net:8080/faucontv/3455cdc6fc/16454
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES", WIN Sports
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/176587
+http://viperos.net:8080/BorisAriel/Restream1234/11130
 
 #EXTINF:-1 tvg-logo="https://www.cualeselprecio.com/wp-content/uploads/2020/12/1200px-Win_Sports_logo.svg.png" group-title="DEPORTES", WIN Sports+
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/155248
+http://viperos.net:8080/BorisAriel/Restream1234/371105
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="DEPORTES", UFC Fight Pass
 
@@ -2037,6 +2068,77 @@ https://z7nqm6s4adt32ga.p21.rt3.io/rtp/239.1.1.11:40120/canal12
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/606/606441.png" group-title="DEPORTES", EVENTOS Copa América Femenina
 
+#EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/211416/isolated/preview/d7d59103077b4c1079482312e13da41e-mujer-deporte-pictograma-ciclismo-plano.png" group-title="DEPORTES", EVENTOS Ciclismo
+http://viperos.net:8080/BorisAriel/Restream1234/24639
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/2560px-MTV-Logo.svg.png" group-title="MUSICA", MTV
+http://51.222.25.50:25461/n3wbull/bulln3w/752
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_quiero_m.png" group-title="MUSICA", QUIERO
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2098843
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RQH8BtH/logo.png" group-title="MUSICA", MUCH MUSIC
+http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2090356
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png" group-title="MUSICA", HTV
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Radio_Italia_logo_%282020%29.svg/512px-Radio_Italia_logo_%282020%29.svg.png" group-title="MUSICA", Radio Italia TV
+https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cadenaelite.es/img/logoMenu.png" group-title="MUSICA", CADENA ELITE
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1478000168016433152/2oEULfiP_400x400.png" group-title="MUSICA", COOPE TV
+https://ingest-wza.bustream.com/coopetv/smil:rates73.smil/chunklist_w1427470965_b106000_slen.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/05/mmc-1.png" group-title="MUSICA", MMC
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmc-distro/07e60396-2050-4e25-aa22-67ccf0791c45/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/flash-1/logo_20211119_205104_68.png" group-title="MUSICA", FLASH
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/9cf52827-4ad4-41e3-a857-024b7536661f/4.m3u8
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/Retro-Music-Television-Live-TV-Online.png" group-title="MUSICA", Retro
+https://stream.mediawork.cz/retrotv/retrotv2.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.fmvd2-1.fna.fbcdn.net/v/t1.6435-1/44546814_2186136808087809_3302430152377499648_n.png?stp=dst-png_p200x200&_nc_cat=103&ccb=1-6&_nc_sid=0c64ff&_nc_ohc=GHq2XZavbPgAX-PalJg&_nc_ht=scontent.fmvd2-1.fna&edm=AKsJ254EAAAA&oh=00_AT8NIOU1cyL5mE5AzDT_Yn4zDpqCTvEq_XAYl1jC_6s9IQ&oe=62AABB58" group-title="MUSICA", ACTIVA TV
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Concert2015.png/revision/latest/scale-to-width-down/142?cb=20210423194157&path-prefix=es" group-title="MUSICA", CONCERT CHANNEL 
+http://190.83.119.67:8000/play/a0oq/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Vevo2016.svg/revision/latest/scale-to-width-down/300?cb=20160715061126" group-title="MUSICA", VEVO POP
+https://sv.spliktv.xyz/live/caster/VEVO/POP.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Vevo2016.svg/revision/latest/scale-to-width-down/300?cb=20160715061126" group-title="MUSICA", VEVO LATINO
+https://sv.spliktv.xyz/live/caster/VEVO/LATINO.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Vevo2016.svg/revision/latest/scale-to-width-down/300?cb=20160715061126" group-title="MUSICA", VEVO R&B
+https://sv.spliktv.xyz/live/caster/VEVO/RB.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Vevo2016.svg/revision/latest/scale-to-width-down/300?cb=20160715061126" group-title="MUSICA", VEVO COUNTRY
+https://sv.spliktv.xyz/live/caster/VEVO/COUNTRY.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Rock_FM_%282010%29.svg/revision/latest/scale-to-width-down/300?cb=20210507190729" group-title="MUSICA", ROCK Fm (ROMANIA)
+https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8?publisher=83
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-61aaa0cc784a2161d3caf7ff" tvg-id="5e20b730f2f8d5003d739db7-61aaa0cc784a2161d3caf7ff" tvg-logo="https://provider-static.plex.tv/epg/cms/staging/0079d02e-afb6-4d85-a986-441817927418/stingray-classic-rock_logo_dark.png" group-title="MUSICA", Classic Rock
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1389&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=yBjzr_yRsN3hWwc9B6Di&custom_7=61aaa0cc784a2161d3caf7ff&is_lat=0
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615" tvg-id="5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dc08f4b8-91c3-4b3a-9007-4330f03a0103/ClassicRock_logo_light.png" group-title="MUSICA", Classic Rock Network
+https://cdn17.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/ClassicRock-Channel-Plex/index.m3u8?ads.X-PLEX-TOKEN=yBjzr_yRsN3hWwc9B6Di&ads.CHANNEL=6196c8c01d310bf925e02615&ads.DEVICE_ID=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.DNT=0
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-61bb9a63e0b39cfe304c9a8a" tvg-id="5e20b730f2f8d5003d739db7-61bb9a63e0b39cfe304c9a8a" tvg-logo="https://provider-static.plex.tv/epg/cms/production/74efde69-4b42-43c4-a8f0-a4068fdd4862/vivaldi_logo.png" group-title="MUSICA", Vivaldi
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=yBjzr_yRsN3hWwc9B6Di&channelId=61bb9a63e0b39cfe304c9a8a
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fUQEubL.png" group-title="MUSICA", RETRO PLUS
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fUQEubL.png" group-title="MUSICA", RETROPLUS 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png" group-title="INFANTIL", Retro Cartoons
@@ -2054,7 +2156,7 @@ https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://planetatv.online/intro/wp-content/uploads/2022/04/planetatvlogo.png" group-title="INFANTIL", PLANETA TV KIDS
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/6/6c/LocomotionGrande.png/revision/latest/scale-to-width-down/1200?cb=20150722124646&path-prefix=es" group-title="INFANTIL", LOCOMOTION 
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/locomotion-logo-png-transparent.png" group-title="INFANTIL", LOCOMOTION 
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Pakapaka-en-vivo-Online-1.png" group-title="INFANTIL", PAKA PAKA
@@ -2109,4 +2211,6 @@ http://magmas5.com:8000/live/malotv/gratis/145793.m3u8
 http://magmas5.com:8000/live/malotv/gratis/3385.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/313-3139189_coyote-y-correcaminos-dibujos-del-correcaminos-y-el.png" group-title="INFANTIL", EL COYOTE Y EL CORRECAMINOS
-http://l3d.us:25461/daleplayD/PN2WghCVNvMk/2090952
+
+#EXTINF:-1 tvg-logo="https://cn.i.cdn.ti-platform.com/cnemea/content/375/showpage/dexter%27s-laboratory/uk/dextersquare.png?imwidth=420" group-title="INFANTIL", EL LABORATORIO DE DEXTER
+https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/405
