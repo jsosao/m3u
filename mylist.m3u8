@@ -2202,3 +2202,6 @@ https://linear-256.frequency.stream/256/hls/master/playlist_1920x1080.m3u8
 
 #EXTINF:-1 group-title="VIX PLUS", Afizzionados
 https://linear-348.frequency.stream:443/348/hls/master/playlist_640x360.m3u8
+
+#EXTINF:-1 group-title="VIX PLUS", Zona Fut Bol
+https://linear-373.frequency.stream:443/373/hls/master/playlist_1024x576.m3u8
