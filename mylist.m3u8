@@ -438,7 +438,6 @@ https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Televisa Variedades
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Antena 3
 http://globalentertainmentec.xyz:8000/live/Elias2022/Elias2022/7568.m3u8
 
@@ -733,8 +732,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-cane
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", ITV (UK)
 http://e33@2690.ovh:25461/live/34baxmo5/56bwf44u/6032.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", ITV 2 (UK)
 http://e33@2690.ovh:25461/live/34baxmo5/56bwf44u/6033.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", ITV 3(UK)
 http://e33@2690.ovh:25461/live/34baxmo5/56bwf44u/3780.m3u8
@@ -747,6 +748,7 @@ https://america-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", TVG Europa
 https://europa-crtvg.flumotion.com/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Mi Tele
 https://5e50264bd6766.streamlock.net/gks/videogks/chunklist_w42483601.m3u8
@@ -772,6 +774,7 @@ https://v-ny.mybtv.net/live/660.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIl
 https://v-ny.mybtv.net/live/663.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Unimas
 https://v-ny.mybtv.net/live/713.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Latin Unimas
 https://v-la.mybtv.net/live/168.m3u8?
@@ -1005,6 +1008,7 @@ https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_4.m3u8
 https://mdstrm.com/live-stream-playlist/61e1e088d04d7744686afc42.m3u8
 
 
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", A1 Peliculas 24/7
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
 
@@ -1111,6 +1115,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 
 
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", Activa TV
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 
@@ -1203,8 +1208,11 @@ http://globalentertainmentec.xyz:8000/live/Elias2022/Elias2022/47767.m3u8
 http://globalentertainmentec.xyz:8000/live/Elias2022/Elias2022/60836.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", SKY Sports
 http://globalentertainmentec.xyz:8000/live/Elias2022/Elias2022/204746.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", SKY Sports Op2
+http://xdgo.live:8080/live/gustavguez/pS3pMV7Mdu/30423.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", ESPN Extra
-http://go.iptvhn.net:25461/live/Smart/Smart123/6547.m3u8
+http://xdgo.live:8080/live/gustavguez/pS3pMV7Mdu/1798.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", Claro Sports
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2564&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
@@ -1247,6 +1255,9 @@ https://linear-357.frequency.stream/dist/localnow/357/hls/master/playlist.m3u8
 https://d3junmnzdfp8ej.cloudfront.net/hls/tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes MX", TUDN MX Op2
 http://xdgo.live:8080/live/jacosta0468/CLuWZVmP9b/22258.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", GOLF Channel
@@ -1360,15 +1371,6 @@ https://dip0m6wuccbi7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", USA | NBA TV 1
 http://51.161.84.67/LB2022_NBA_TV/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", USA | NBA TV HD
-http://84.22.33.214:80/nbatv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", USA | NBA TV 2
-http://84.22.33.215/nbatv/tracks-v1a1/mono.m3u8?token=SBN
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", USA | NBA TV 3
-http://84.22.33.215/nbatv/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", USA | UFC
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
@@ -1934,6 +1936,7 @@ http://globalentertainmentec.xyz:8000/live/Elias2022/Elias2022/7562.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Movistar Plus", M Futbol
 http://globalentertainmentec.xyz:8000/live/Elias2022/Elias2022/7577.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium 2", A3 Series
 https://chromecast.cvattv.com.ar/live/live/A3_Series/SA_SAGEMCOM/A3_Series.m3u8
 
@@ -2305,6 +2308,8 @@ http://190.83.119.67:8000/play/a0ol/index.m3u8
 http://190.83.119.67:8000/play/a0t9/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium 1", Pasiones HD
 http://190.83.119.67:8000/play/a0td/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium 1", Playboy
+http://190.83.119.67:8000/play/a0ow/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium 1", RCN 
 http://190.83.119.67:8000/play/a0nq/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium 1", RCN Novelas
@@ -2387,6 +2392,8 @@ http://190.83.119.67:8000/play/a0tk/index.m3u8
 http://190.83.119.67:8000/play/a0s6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium 1", ZooMoo
 http://190.83.119.67:8000/play/a0nt/index.m3u8
+
+
 
 *************************************  https://raw.githubusercontent.com/ednar33/newton/main/v1x.m3u  ***************************************************
 
@@ -3026,41 +3033,41 @@ https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/405
 
 ******************************************************  https://github.com/waldmtr3s/waldmtr3s.github.io   **********************************************
 
-#EXTINF:-1 group-title="VIX+",Las Estrellas (VIX)
+#EXTINF:-1 group-title="ViX+",Las Estrellas (VIX)
 https://linear-413.frequency.stream/413/hls/master/playlist_1920x1080.m3u8
 
-#EXTINF:-1 group-title="VIX+",Las Estrellas -1 (VIX)
+#EXTINF:-1 group-title="ViX+",Las Estrellas -1 (VIX)
 https://linear-414.frequency.stream/414/hls/master/playlist_1920x1080.m3u8
 
-#EXTINF:-1 group-title="VIX+",Las Estrellas -2 (VIX)
+#EXTINF:-1 group-title="ViX+",Las Estrellas -2 (VIX)
 https://linear-415.frequency.stream/415/hls/master/playlist_1920x1080.m3u8
 
-#EXTINF:-1 group-title="VIX+",Foro TV (VIX)
+#EXTINF:-1 group-title="ViX+",Foro TV (VIX)
 https://linear-300.frequency.stream/300/hls/master/playlist_1920x1080.m3u8
 
-#EXTINF:-1 group-title="VIX+",N+ (VIX)
+#EXTINF:-1 group-title="ViX+",N+ (VIX)
 https://linear-301.frequency.stream/301/hls/master/playlist_1920x1080.m3u8
 
-#EXTINF:-1 group-title="VIX+",Canal 5 (VIX)
+#EXTINF:-1 group-title="ViX+",Canal 5 (VIX)
 https://linear-351.frequency.stream/351/hls/master/playlist_1920x1080.m3u8
 
-#EXTINF:-1 group-title="VIX+",Televis Mty (VIX)
+#EXTINF:-1 group-title="ViX+",Televis Mty (VIX)
 https://linear-403.frequency.stream/403/hls/master/playlist_1920x1080.m3u8
 
-#EXTINF:-1 group-title="VIX+",Televis Gdl (VIX)
+#EXTINF:-1 group-title="ViX+",Televis Gdl (VIX)
 https://linear-402.frequency.stream/402/hls/master/playlist_1920x1080.m3u8
 
-#EXTINF:-1 group-title="VIX+",Distrito Comedia (VIX)
+#EXTINF:-1 group-title="ViX+",Distrito Comedia (VIX)
 https://linear-405.frequency.stream/405/hls/master/playlist_1920x1080.m3u8
 
-#EXTINF:-1 group-title="VIX+",beIN Sports Xtra ñ (VIX)
+#EXTINF:-1 group-title="ViX+",beIN Sports Xtra ñ (VIX)
 https://linear-256.frequency.stream/256/hls/master/playlist_1920x1080.m3u8
 
-#EXTINF:-1 group-title="VIX+", Afizzionados
+#EXTINF:-1 group-title="ViX+", Afizzionados
 https://linear-348.frequency.stream:443/348/hls/master/playlist_640x360.m3u8
 
-#EXTINF:-1 group-title="VIX+", Zona Fut Bol
+#EXTINF:-1 group-title="ViX+", Zona Fut Bol
 https://linear-373.frequency.stream:443/373/hls/master/playlist_1024x576.m3u8
 
-#EXTINF:-1 group-title="VIX+", Univision
+#EXTINF:-1 group-title="ViX+", Univision
 https://linear-193.frequency.stream/193/hls/master/playlist_1280x720.m3u8
