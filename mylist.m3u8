@@ -438,6 +438,7 @@ https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Nacionales", Televisa Variedades
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Antena 3
 http://globalentertainmentec.xyz:8000/live/Elias2022/Elias2022/7568.m3u8
 
@@ -518,6 +519,9 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", La Red
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", La Red Op2
+https://d2ab26kihxq8p0.cloudfront.net:443/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", La Red HD
 https://marine2.miplay.cl/lared/tracks-v1a1/mono.m3u8
@@ -749,7 +753,6 @@ https://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", TVG Europa
 https://europa-crtvg.flumotion.com/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Mi Tele
 https://5e50264bd6766.streamlock.net/gks/videogks/chunklist_w42483601.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Telemundo Noticias
@@ -858,7 +861,6 @@ https://v-ny.theus6tv.tk/hls/48.3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", NY Univision 41
 https://v-ny.theus6tv.tk/hls/41.1/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", LA NBC Phoenix
 https://v-px.mybtv.net/live/55.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", LA NBC San Diego
@@ -963,6 +965,8 @@ https://rakuten-cine-espanol-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Rakuten TV Shows
 https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Noticias", adn40
@@ -1114,6 +1118,23 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Canela Accion Mexicana
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", HBO Family HD
+http://f4.tvxweb.net:8082/18096/video.m3u8?token=MxPReBvRE1
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Canal Film 03 (Dual Audio)
+http://f4.tvxweb.net:8082/35974/video.m3u8?token=MxPReBvRE1
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Cinemax HD
+http://f4.tvxweb.net:8082/24316/video.m3u8?token=MxPReBvRE1
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", MovieMax HD 
+http://f4.tvxweb.net:8082/35975/video.m3u8?token=MxPReBvRE1
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Canal RCN
+http://f4.tvxweb.net:8082/42145/video.m3u8?token=MxPReBvRE18
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", OuterMax HD
+http://f4.tvxweb.net:8082/35976/video.m3u8?token=MxPReBvRE1
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", Activa TV
@@ -1276,17 +1297,11 @@ https://claro-jw.cdn.vustreams.com/live/channel05/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Claro Sports 2
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", BEIN Sports HD
-http://go.iptvhn.net:25461/live/Smart/Smart123/6682.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", beIN Sports Extra
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", beIN Sports Extra Op2
 https://linear-256.frequency.stream/dist/localnow/256/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", beIN La Liga
-http://93.152.174.144:4000/play/beinlaliga/index.m3u8?mvk
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", TyC Sports
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
@@ -1318,11 +1333,8 @@ https://dai2.xumo.com/xumocdn/deviceid/amagi_hls_data_xumo1212A-redboxnitrocircu
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Glory KickBoxing
 https://dai2.xumo.com/xumocdn/deviceid/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Adrenaline Rush
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Rush Movies
 https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", ROH - Ring of Honor
-https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Stadium
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
@@ -1330,16 +1342,10 @@ https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Spo TV
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Eurosports 1
-http://46.34.209.243/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Eurosports 1 Op2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Eurosports 1 
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Eurosports 2
-http://46.34.209.243/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Eurosports 2 Op2
 http://212.102.60.80/Eurosport2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Pluto MLB
@@ -1394,49 +1400,23 @@ http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8
 https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_PREV_v0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Fox Sports 1 (ARG)
-http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/59808.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Fox Sports 1 (ARG) Op2
-https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Fox Sports Premium (ARG)
-http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/22113.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Fox Sports Premium (ARG) Op2
-http://arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(ESPN_EXTRA)/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", EI - Esporte Interactivo  (BR)
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", ESPN Extra
-http://go.iptvhn.net:25461/live/Smart/Smart123/6547.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", TyC SPORT 
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", ESPN 1 (ARG)
-http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/69718.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", ESPN 1 (ARG) Op2
-https://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", ESPN 2 (ARG)
-http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/969.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", ESPN 2 (ARG) Op2
-https://delivery.cdn.rcs.net.ar/mnp/espn2_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", ESPN 3 (ARG)
-http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/1542.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", ESPN 3 (ARG) Op2
-https://edge3.prepro.cvattv.com.ar/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", ESPN 4 (ARG)
-http://tv.plusme1.xyz:28000/live/israelmantilla/pkooSNPDWH/977.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", DeporTV (ARG)
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Estadio TNT Sports (ARG)
 https://d3junmnzdfp8ej.cloudfront.net/hls/tv.m3u8
@@ -1459,20 +1439,11 @@ https://stmvideo4.livecastv.com/ucuweb/ucuweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Gol TV - ESP
 http://154.62.74.29:1935/live/gol/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Gol TV Op2 - ESP
-http://xdgo.live:8080/live/fontanezenittmia/AXaWZNUG6J/1829.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Movistar La Liga
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Movistar La Liga
-http://213.183.47.50:2085/play/a04s/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Movistar La Liga Op2
 http://loga.ultratotal.ml/xls/ligota/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Movistar La Liga Op 3
-http://line.thesmartiptv.com:900/live/4297836676/9573024070/165971.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", RUSH
 http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
@@ -1488,25 +1459,18 @@ http://cdn.kira.cf:2021/live/A328D/9765446543332/88803.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", DAZN 1
 http://cdn.kira.cf:2021/live/A328D/9765446543332/87599.m3u8
-https://ppv.gcdn.co:443/DZ5/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", DAZN 2
 http://cdn.kira.cf:2021/live/A328D/9765446543332/87598.m3u8
-https://ppv.gcdn.co:443/DZ4/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", DAZN 3
 http://cdn.kira.cf:2021/live/A328D/9765446543332/87731.m3u8
-https://ppv.gcdn.co:443/DZ3/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", DAZN 4
 http://cdn.kira.cf:2021/live/A328D/9765446543332/87732.m3u8
-https://ppv.gcdn.co:443/DZ2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", BT Sports 1
-https://403b336bee55.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.956228346243.channel.W8aydU3dB1S4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", NHL/TNT
-https://193af00cb024.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.956228346243.channel.eNeEDW3FrQzr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", La Liga TV
 http://cdn.kira.cf:2021/live/A328D/9765446543332/86206.m3u8
@@ -1541,36 +1505,6 @@ http://cdn.kira.cf:2021/live/A328D/9765446543332/66244.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Best Cable Sports 
 https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Qatar | beIN Sports 1 Premium 🇶🇦
-https://dl.dropboxusercontent.com/s/y8g3nx0owqlpc5w/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Qatar | beIN Sports 2 Premium 🇶🇦
-https://dl.dropboxusercontent.com/s/owjl5qk2pjhfxf4/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Qatar | beIN Sports 3 Premium 🇶🇦
-https://dl.dropboxusercontent.com/s/qqitpaxi7q8jt4c/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Qatar | beIN Sports 1 🇶🇦
-https://dl.dropboxusercontent.com/s/t6465xx7k160e2w/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Qatar | beIN Sports 2 🇶🇦
-https://dl.dropboxusercontent.com/s/pksonyoqzb9o3mu/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Qatar | Bein Sports 3 🇶🇦
-https://dl.dropboxusercontent.com/s/zualuomxznpf26s/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Qatar | Bein Sports 4 🇶🇦
-https://dl.dropboxusercontent.com/s/nyx35bwo11lrbm0/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Qatar | Bein Sports 5 🇶🇦
-https://dl.dropboxusercontent.com/s/35ktguvwb5a55yi/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Qatar | Bein Sports 6 🇶🇦
-https://dl.dropboxusercontent.com/s/4odmumlmo7rzids/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Qatar | Bein Sports 7 🇶🇦
-https://dl.dropboxusercontent.com/s/4odmumlmo7rzids/.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Bein Sports 1
 http://cdn.kira.cf:2021/live/A328D/9765446543332/87388.m3u8
 
@@ -1580,12 +1514,11 @@ http://cdn.kira.cf:2021/live/A328D/9765446543332/87389.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Bein Sports 1
 http://cdn.kira.cf:2021/live/A328D/9765446543332/87390.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Toros HD
-https://livestream.brasilplay.net/TorosHD_DVR/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Billar TV
-https://a1a69a13b68f44f4aff604dd4cdee5cd.mediatailor.us-west-2.amazonaws.com/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/1a5905c0-ddbf-49a4-bcd8-28babf6a7c56/3.m3u8
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", Billar TV Op2
+https://newidco-billiardstv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes Xtra", TNT Sports 1 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
@@ -1604,128 +1537,9 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", Cartelera Premiere HD
-http://f4.tvxweb.net:8082/9040/mpegts?token=MxPReBvRE1
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", HBO East HD
-http://f4.tvxweb.net:8082/1777/video.m3u8?token=MxPReBvRE1
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", HBO SIGNATURE HD
-http://f4.tvxweb.net:8082/18085/video.m3u8?token=MxPReBvRE1
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", SHOWTIME HD
-http://f4.tvxweb.net:8082/18087/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", HBO West HD
-http://f4.tvxweb.net:8082/18094/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", HBO Plus HD
-http://f4.tvxweb.net:8082/18095/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", HBO Family HD
-http://f4.tvxweb.net:8082/18096/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", Starz East HD
-http://f4.tvxweb.net:8082/24167/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", Starz West HD
-http://f4.tvxweb.net:8082/24193/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", Canal Film 0 (Dual Audio)
-http://f4.tvxweb.net:8082/24309/video.m3u8?token=MxPReBvRE10
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", Canal Film 00 (Dual Audio)
-http://f4.tvxweb.net:8082/35939/video.m3u8?token=MxPReBvRE40
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", Canal Film 01 (Dual Audio)
-http://f4.tvxweb.net:8082/24317/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", Canal Film 02 (Dual Audio)
-http://f4.tvxweb.net:8082/35971/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", Canal Film 03 (Dual Audio)
-http://f4.tvxweb.net:8082/35974/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", Starz Encore HD
-http://f4.tvxweb.net:8082/24310/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", Starz Comedy HD
-http://f4.tvxweb.net:8082/24311/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", Showtime West HD
-http://f4.tvxweb.net:8082/24312/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", Showtime HD
-http://f4.tvxweb.net:8082/24313/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", Showtime East HD
-http://f4.tvxweb.net:8082/24314/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", Showtime Beyond HD 
-http://f4.tvxweb.net:8082/24315/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", Cinemax HD
-http://f4.tvxweb.net:8082/24316/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", Starz HD
-http://f4.tvxweb.net:8082/35940/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", Starz Edge HD 
-http://f4.tvxweb.net:8082/35941/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", Starz Comedy HD 
-http://f4.tvxweb.net:8082/35942/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", Starz Cinema HD 
-http://f4.tvxweb.net:8082/35943/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", Starz Kids & Family HD 
-http://f4.tvxweb.net:8082/35944/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", Starz Encore HD 
-http://f4.tvxweb.net:8082/35945/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", Starz Encore Action 
-http://f4.tvxweb.net:8082/35946/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", Starz Encore Classic HD 
-http://f4.tvxweb.net:8082/35947/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", Starz Encore Black HD 
-http://f4.tvxweb.net:8082/35948/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", Starz Encore Family HD 
-http://f4.tvxweb.net:8082/35949/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", Starz Encore Suspense HD 
-http://f4.tvxweb.net:8082/35950/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", MoviePlex HD 
-http://f4.tvxweb.net:8082/35951/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", Starz Encore Western HD
-http://f4.tvxweb.net:8082/35952/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", IndiePlex HD 
-http://f4.tvxweb.net:8082/35967/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", RetroPlex HD 
-http://f4.tvxweb.net:8082/35969/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", MoreMax HD 
-http://f4.tvxweb.net:8082/35972/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", Crackle Original Movie (Dual audio)
-http://f4.tvxweb.net:8082/35973/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", MovieMax HD 
-http://f4.tvxweb.net:8082/35975/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", OuterMax HD
-http://f4.tvxweb.net:8082/35976/video.m3u8?token=MxPReBvRE1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium HD1", Canal RCN
-http://f4.tvxweb.net:8082/42145/video.m3u8?token=MxPReBvRE18
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium MX", AZ CINEMA
@@ -1907,7 +1721,6 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=126&f=HLS&s=hkc26
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Premium MX", TNT SERIES
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=71&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Movistar Plus", 0
 http://globalentertainmentec.xyz:8000/live/Elias2022/Elias2022/97829.m3u8
@@ -2394,8 +2207,297 @@ http://190.83.119.67:8000/play/a0s6/index.m3u8
 http://190.83.119.67:8000/play/a0nt/index.m3u8
 
 
+*************************************  https://raw.githubusercontent.com/ednar33/newton/main/AMLO.m3u  ***************************************************
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", UNIVERSAL REALITY UHD
+http://magmas5.com:8000/malotv/gratis/150071
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", UNIVERSAL PREMIERE (MX) UHD
+http://magmas5.com:8000/malotv/gratis/150072
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", UNIVERSAL PREMIERE (LA) UHD
+http://magmas5.com:8000/malotv/gratis/150073
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", UNIVERSAL CINEMA UHD
+http://magmas5.com:8000/malotv/gratis/150074
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", UNIVERSAL CRIME UHD
+http://magmas5.com:8000/malotv/gratis/150075
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", UNIVERSAL COMEDY UHD
+http://magmas5.com:8000/malotv/gratis/150076
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", HBO UHD
+http://magmas5.com:8000/malotv/gratis/150077
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", HBO 2 UHD
+http://magmas5.com:8000/malotv/gratis/150078
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", HBO FAMILY UHD
+http://magmas5.com:8000/malotv/gratis/150079
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", HBO PLUS UHD
+http://magmas5.com:8000/malotv/gratis/150080
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", HBO SIGNATURE UHD
+http://magmas5.com:8000/malotv/gratis/150081
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", HOLA TV MX UHD®
+http://magmas5.com:8000/malotv/gratis/140819
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", E! ENTERTAIMENTS SD
+http://magmas5.com:8000/malotv/gratis/4936
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", MOVISTAR SERIES
+http://magmas5.com:8000/malotv/gratis/126350
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", MOVISTAR SERIES HD
+http://magmas5.com:8000/malotv/gratis/126351
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", MOVISTAR SERIES FULLHD
+http://magmas5.com:8000/malotv/gratis/126352
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", XTREM HD
+http://magmas5.com:8000/malotv/gratis/126353
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", TNT HD
+http://magmas5.com:8000/malotv/gratis/126354
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", MOVISTAR SERIESMANIA
+http://magmas5.com:8000/malotv/gratis/126355
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", CALLE 13 FULLHD
+http://magmas5.com:8000/malotv/gratis/126358
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", FOX FULLHD
+http://magmas5.com:8000/malotv/gratis/126360
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", FOX LIFE FHD
+http://magmas5.com:8000/malotv/gratis/126362
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", AXN HD
+http://magmas5.com:8000/malotv/gratis/126364
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", AXN FULL HD
+http://magmas5.com:8000/malotv/gratis/126365
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", AXN  WHITE FHD
+http://magmas5.com:8000/malotv/gratis/126367
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", TNT FHD
+http://magmas5.com:8000/malotv/gratis/126373
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", SYFY FHD
+http://magmas5.com:8000/malotv/gratis/126376
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", CALLE 13 HD
+http://magmas5.com:8000/malotv/gratis/126377
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", COMEDY  CENTRAL
+http://magmas5.com:8000/malotv/gratis/126381
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", AXN WHITE HD
+http://magmas5.com:8000/malotv/gratis/126382
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", A3SERIES
+http://magmas5.com:8000/malotv/gratis/126387
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", FOX
+http://magmas5.com:8000/malotv/gratis/126359
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", HBO FAMILY
+http://magmas5.com:8000/malotv/gratis/4798
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", HBO PLUS
+http://magmas5.com:8000/malotv/gratis/4799
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", HBO MUNDI
+http://magmas5.com:8000/malotv/gratis/4800
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", SONY
+http://magmas5.com:8000/malotv/gratis/4801
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", SPACE
+http://magmas5.com:8000/malotv/gratis/4802
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", TBS
+http://magmas5.com:8000/malotv/gratis/4803
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", TCM
+http://magmas5.com:8000/malotv/gratis/4804
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", CINECANAL
+http://magmas5.com:8000/malotv/gratis/4805
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", CINEMA DINAMITA
+http://magmas5.com:8000/malotv/gratis/4806
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", CINEMAX
+http://magmas5.com:8000/malotv/gratis/4807
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", DISCOVERY HOME AND HEALTH
+http://magmas5.com:8000/malotv/gratis/4809
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", RCN NUESTRA TELE
+http://magmas5.com:8000/malotv/gratis/4811
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", CARACOL NACIONAL
+http://magmas5.com:8000/malotv/gratis/4810
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", MAX
+http://magmas5.com:8000/malotv/gratis/4829
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", PANAMERICANA
+http://magmas5.com:8000/malotv/gratis/4838
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", ECUAVISA 
+http://magmas5.com:8000/malotv/gratis/28
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", WIN SPORTS FHD
+http://magmas5.com:8000/malotv/gratis/131985
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", AZTECA CINEMA UHD® MX
+http://magmas5.com:8000/malotv/gratis/145509
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", AZTECA CORAZÓN UHD® MX
+http://magmas5.com:8000/malotv/gratis/145508
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", RTS HD
+http://magmas5.com:8000/malotv/gratis/31
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", TC TELEVISION HD
+http://magmas5.com:8000/malotv/gratis/2571
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", CANAL UNO HD
+http://magmas5.com:8000/malotv/gratis/3592
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO",  OROMAR TV
+http://magmas5.com:8000/malotv/gratis/3593
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", TELEMEDELLIN HD
+http://magmas5.com:8000/malotv/gratis/3585
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", CABLE NOTICIAS HD
+http://magmas5.com:8000/malotv/gratis/3588
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", CHILEVISION HD
+http://magmas5.com:8000/malotv/gratis/135058
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", DISCOVERY CIVILITATION
+http://magmas5.com:8000/malotv/gratis/135661
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", DISCOVERY H&H
+http://magmas5.com:8000/malotv/gratis/135671
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", HBO MUNDI SD
+http://magmas5.com:8000/malotv/gratis/135674
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", HBO XTREME SD
+http://magmas5.com:8000/malotv/gratis/135677
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", DISCOVERY THEATER SD
+http://magmas5.com:8000/malotv/gratis/135678
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", DISNEY JR.
+http://magmas5.com:8000/malotv/gratis/135709
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", Discovery Home & Health
+http://magmas5.com:8000/malotv/gratis/135793
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", Discovery World
+http://magmas5.com:8000/malotv/gratis/135794
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", DE PELICULA
+http://magmas5.com:8000/malotv/gratis/138187
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", FILM & ARTS
+http://magmas5.com:8000/malotv/gratis/138260
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", STUDIO UNIVERSAL
+http://magmas5.com:8000/malotv/gratis/38
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", UNIVERSAL CHANNEL MX SD
+http://magmas5.com:8000/malotv/gratis/39
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", AMC
+http://magmas5.com:8000/malotv/gratis/37
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", WARNER SD
+http://magmas5.com:8000/malotv/gratis/40
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", SPACE MX
+http://magmas5.com:8000/malotv/gratis/41
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", PARAMOUNT NETWORK
+http://magmas5.com:8000/malotv/gratis/48
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", HBO 2 SD
+http://magmas5.com:8000/malotv/gratis/50
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", CINECANAL SD
+http://magmas5.com:8000/malotv/gratis/138127
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", HBO FAMILY SD
+http://magmas5.com:8000/malotv/gratis/51
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", AXN SD
+http://magmas5.com:8000/malotv/gratis/138126
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", A&E
+http://magmas5.com:8000/malotv/gratis/138125
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", CINE DINAMITA
+http://magmas5.com:8000/malotv/gratis/7995
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", SYFY SD
+http://magmas5.com:8000/malotv/gratis/4293
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", TNT SERIES SD
+http://magmas5.com:8000/malotv/gratis/4291
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", GOLDEN SD
+http://magmas5.com:8000/malotv/gratis/4288
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", FILM & ARTS 
+http://magmas5.com:8000/malotv/gratis/4287
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", SONY CHANNEL SD
+http://magmas5.com:8000/malotv/gratis/4285
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", CINE PREMIER
+http://magmas5.com:8000/malotv/gratis/7996
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", CINE LATINO
+http://magmas5.com:8000/malotv/gratis/7974
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", CLARO CINEMA SD
+http://magmas5.com:8000/malotv/gratis/4294
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", TCM SD
+http://magmas5.com:8000/malotv/gratis/3795
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", WARNER CHANNEL SD
+http://magmas5.com:8000/malotv/gratis/3694
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", STUDIO UNIVERSAL SD
+http://magmas5.com:8000/malotv/gratis/3674
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", PARAMOUNT CHANNEL SD
+http://magmas5.com:8000/malotv/gratis/3667
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", GOLDEN PLUS SD
+http://magmas5.com:8000/malotv/gratis/3648
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", FXM SD
+http://magmas5.com:8000/malotv/gratis/3646
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", FX SD
+http://magmas5.com:8000/malotv/gratis/3645
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", STAR CHANNEL SD
+http://magmas5.com:8000/malotv/gratis/3642
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", CINE PREMIER 
+http://magmas5.com:8000/malotv/gratis/70
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", TNT SERIES SD
+http://magmas5.com:8000/malotv/gratis/3644
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", CINE DINAMITA SD
+http://magmas5.com:8000/malotv/gratis/69
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", STAR LIFE MX
+http://magmas5.com:8000/malotv/gratis/68
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", STAR FAMILY SD
+http://magmas5.com:8000/malotv/gratis/67
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", STAR COMEDY SD
+http://magmas5.com:8000/malotv/gratis/66
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", STAR CLASSIC
+http://magmas5.com:8000/malotv/gratis/65
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", STAR CINEMA
+http://magmas5.com:8000/malotv/gratis/64
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", UNIVERSAL REALITY
+http://magmas5.com:8000/malotv/gratis/63
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", CINELATINO SD
+http://magmas5.com:8000/malotv/gratis/62
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", STAR SD
+http://magmas5.com:8000/malotv/gratis/61
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", CINEMAX SD
+http://magmas5.com:8000/malotv/gratis/60
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", EUROPA EUROPA SD
+http://magmas5.com:8000/malotv/gratis/58
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", HBO XTREME SD
+http://magmas5.com:8000/malotv/gratis/56
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", HBO SIGNATURE SD
+http://magmas5.com:8000/malotv/gratis/55
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", HBO POP SD
+http://magmas5.com:8000/malotv/gratis/54
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", HBO PLUS SD
+http://magmas5.com:8000/malotv/gratis/53
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", HBO SD
+http://magmas5.com:8000/malotv/gratis/49
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", HBO MUNDI SD
+http://magmas5.com:8000/malotv/gratis/52
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", CINECANAL SD
+http://magmas5.com:8000/malotv/gratis/59
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", FOX MOVIES SD
+http://magmas5.com:8000/malotv/gratis/57
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", I-SAT
+http://magmas5.com:8000/malotv/gratis/3769
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", CITY TV
+http://magmas5.com:8000/malotv/gratis/140410
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", A3 CINE SD
+http://magmas5.com:8000/malotv/gratis/140821
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", STAR FUN SD
+http://magmas5.com:8000/malotv/gratis/141554
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", CINE LATINO SD
+http://magmas5.com:8000/malotv/gratis/144827
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", AZTECA CLICK UHD
+http://magmas5.com:8000/malotv/gratis/145506
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", AZTECA MUNDO UHD
+http://magmas5.com:8000/malotv/gratis/145512
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", TV AZTECA GUATEMALA
+http://magmas5.com:8000/malotv/gratis/145748
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", MULTICANAL CATAMAYO
+http://magmas5.com:8000/malotv/gratis/145909
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", STARZ KIDS AND FAMILY (Esp)
+http://magmas5.com:8000/malotv/gratis/148541
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", DISNEY XD HD
+http://magmas5.com:8000/malotv/gratis/149679
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", Galáctica TV (Peru) FHD *
+http://magmas5.com:8000/malotv/gratis/151495
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", Latina
+http://magmas5.com:8000/malotv/gratis/151521
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", CINEMA HD 
+http://magmas5.com:8000/malotv/gratis/151651
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", UNIVISION NOTICIAS HD®
+http://magmas5.com:8000/malotv/gratis/153437
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", AZTECA GUATEMALA
+http://magmas5.com:8000/malotv/gratis/153441
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", TEN TV - CANAL 10
+http://magmas5.com:8000/malotv/gratis/153442
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", AMC
+http://magmas5.com:8000/malotv/gratis/135656
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", TELEFUTURO SUR
+http://magmas5.com:8000/malotv/gratis/4894
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", TELEMUNDO INTERNACIONAL
+http://magmas5.com:8000/malotv/gratis/2053
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", E! Entertainment
+http://magmas5.com:8000/malotv/gratis/138190
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", AZTECA CORAZÓN UHD
+http://magmas5.com:8000/malotv/gratis/145510
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", AZTECA CINEMA UHD
+http://magmas5.com:8000/malotv/gratis/145511
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", Estrella TV Miami UHD
+http://magmas5.com:8000/malotv/gratis/145746
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", LATINA
+http://magmas5.com:8000/malotv/gratis/3326
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="AMLO", PANAMERICANA HD
+http://magmas5.com:8000/malotv/gratis/3350
 
 *************************************  https://raw.githubusercontent.com/ednar33/newton/main/v1x.m3u  ***************************************************
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Noticias Univision 24/7
 https://linear-254.frequency.stream/dist/localnow/254/hls/master/playlist.m3u8
