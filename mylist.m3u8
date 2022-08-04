@@ -150,7 +150,7 @@ http://51.161.118.146:8080/ISG03_NBC_NASHVILLE_TN_WSMV/video.m3u8
 http://51.161.118.146:8080/ISG03_ABC_CHARLOTTE_NC_WSOC/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",FOX Miami FL (WSVN-DT1) (720p)
 http://51.161.118.146:8080/ISG03_FOX_MIAMI_FL_WSVN/video.m3u8
-#EXTINF:-1 group-title="IPTV ORG_2.uss" ,ABC Columbus OH (WSYX-DT1) (720p)
+#EXTINF:-1 group-title="IPTV ORG_2.us" ,ABC Columbus OH (WSYX-DT1) (720p)
 http://51.161.118.146:8080/ISG03_ABC_COLUMBUS_OH_WSYX/video.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",NBC Indianapolis IN (WTHR-DT1) (720p)
 http://51.161.118.146:8080/ISG03_NBC_INDIANAPOLIS_IN_WTHR/video.m3u8
@@ -1162,7 +1162,6 @@ https://linear-386.frequency.stream/386/hls/master/playlist.m3u8
 *************************************  https://raw.githubusercontent.com/dann1110/GreatTV/master/TVBOX%202  ***************************************************
 
 **********************   https://raw.githubusercontent.com/4benteveos/Personal/main/Prueba1.m3u ****************************************
-
 
 ******************************************************  https://github.com/waldmtr3s/waldmtr3s.github.io   **********************************************
 
