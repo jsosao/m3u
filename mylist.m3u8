@@ -5,6 +5,9 @@
 
 ******************* https://raw.githubusercontent.com/jsosao/iptv/blob/master/streams/us.m3u ****************************
 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nfl.png" group-title="IPTV ORG_2.us",NFL Network
+http://user.tvcluboficial.com/stream/free_JUSTINARTEAGA_JUSTINARTEA/qTx/204.m3u8
+
 #EXTINF:-1 group-title="IPTV ORG_2.us",HBO Asia
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",Cinemax Asia (720p)
