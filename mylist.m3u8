@@ -5,6 +5,10 @@
 
 ******************* https://raw.githubusercontent.com/jsosao/iptv/blob/master/streams/us.m3u ****************************
 
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/3788424155ebbf80479a9b9d9d5bdd20.png" group-title="DEPORTES", FOX SPORTS PREMIUM
+http://vplay.club:8888/2204/2204/70564
+
+
 
 #EXTINF:-1 group-title="IPTV ORG_2.us",HBO Asia
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
