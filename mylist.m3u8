@@ -5,8 +5,8 @@
 
 ******************* https://raw.githubusercontent.com/jsosao/iptv/blob/master/streams/us.m3u ****************************
 
-#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/3788424155ebbf80479a9b9d9d5bdd20.png" group-title="DEPORTES", FOX SPORTS PREMIUM
-http://vplay.club:8888/2204/2204/70564
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", FOX SPORTS PREMIUM
+http://edge2-cvapp.anevia.com/live/vod/Fox_Sports_Premium/SA_Live_WebVTT_FTA/Fox_Sports_Premium.m3u8
 
 
 
