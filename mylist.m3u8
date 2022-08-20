@@ -12,6 +12,8 @@ http://fembed.rest:8081/DEP/TUDN_USA3556565/playlist.m3u8?wmsAuthSign=c2VydmVyX3
 http://fembed.rest:8081/DEP/AFIZIONADOS521365156/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMi8yMDIyIDY6MDI6MzggQU0maGFzaF92YWx1ZT1oaXg2WDFEbEZXMTM1U2srR1ExWjF3PT0mdmFsaWRtaW51dGVzPTIyMA==
 #EXTINF:0 tvg-id="Fox.mx" group-title="DEPORTES",FOX PREMIUM MX
 http://209.126.124.36/25c2cda80a63b/foxP.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TUDN USA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png" group-title="DEPORTES",TUDN | Estados Unidos
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/19847.m3u8
 
 
 
