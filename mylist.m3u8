@@ -13,14 +13,11 @@ https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="IPTV ORG_2.us",ABC News (720p)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 group-title="IPTV ORG_2.us",AMC East (720p)
-https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 group-title="IPTV ORG_2.us" group-title="IPTV ORG_2.us",AMC+ (720p)
-https://bcovlive-a.akamaihd.net/bdbdca51c15243fbaca92fd54c42d45a/us-east-1/6245817279001/playlist.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",CBS News (720p)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",ABC 7 Los Angeles CA (KABC-TV) (720p)
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+
 #EXTINF:-1 group-title="IPTV ORG_2.us",NBC 6 College Station TX (KAGS) (1080p)
 https://livevideo01.kagstv.com/hls/live/2016283/newscasts/live.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",NBC 11 Minneapolis MN (KARE) (1080p)
@@ -43,6 +40,7 @@ https://livevideo01.khou.com/hls/live/2014966/newscasts/live.m3u8
 https://livevideo01.kiiitv.com/hls/live/2017378/newscasts/live.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",NBC 5 Seattle WA (KING) (1080p)
 https://livevideo01.king5.com/hls/live/2006665/live/live.m3u8
+
 #EXTINF:-1 group-title="IPTV ORG_2.us",ABC 7 Denver CO (KMGH) (720p)
 https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",CBS 3 Omaha NE (KMTV-TV) (720p)
@@ -147,8 +145,9 @@ https://livevideo01.wwltv.com/hls/live/2016516/newscasts/live.m3u8
 https://livevideo01.rocketcitynow.com/hls/live/2011659/newscasts/live.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",ABC 13 Grand Rapids MI (WZZM) (1080p)
 https://livevideo01.wzzm13.com/hls/live/2016280/newscasts/live.m3u8
-#EXTINF:-1 group-title="IPTV ORG_2.us",Univision
-http://190.61.41.182:8000/play/a37m/index.m3u8
+
+#EXTINF:-1 tvg-id="WKAQDT1.us" status="online",WKAQ-DT1 (Telemundo Puerto Rico)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 group-title="IPTV ORG_2.us",TNT Sports 2 Brasil (720p) [Not 24/7]
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
