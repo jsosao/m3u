@@ -6,11 +6,6 @@
 ******************* https://raw.githubusercontent.com/jsosao/iptv/blob/master/streams/us.m3u ****************************
 
 
-#EXTINF:-1 group-title="IPTV ORG_2.us",HBO Asia
-https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="IPTV ORG_2.us",Cinemax Asia (720p)
-https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="IPTV ORG_2.us",CBS 5 San Antonio TX (KENS) (1080p)
 https://livevideo01.kens5.com/hls/live/2016281/newscasts/live.m3u8
 
@@ -54,6 +49,31 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 #EXTINF:-1 group-title="IPTV ORG_2.us",TNT Sports 5 Brasil (720p) [Not 24/7]
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
+
+**********************************  https://raw.githubusercontent.com/jsosao/iptv/master/streams/us_localbtv.m3u ******************************
+
+#EXTINF:-1 group-title="IPTV ORG_3.us",KYW-DT1 (CBS 3) (1080p)
+http://v-pi.theus6tv.duckdns.org/hls/3.1/playlist.m3u8
+#EXTINF:-1 group-title="IPTV ORG_3.us",WABC-DT1 (ABC 7) (720p)
+http://v-ny.theus6tv.duckdns.org/hls/7.1/playlist.m3u8
+#EXTINF:-1 group-title="IPTV ORG_3.us",WCAU-DT1 (NBC 10) (1080p)
+http://v-pi.theus6tv.duckdns.org/hls/10.1/playlist.m3u8
+#EXTINF:-1 group-title="IPTV ORG_3.us",WCBS-DT1 (CBS 2) (1080p)
+http://v-ny.theus6tv.duckdns.org/hls/2.1/playlist.m3u8
+#EXTINF:-1 group-title="IPTV ORG_3.us",WDPN-DT5 (Retro TV) (432p)
+http://v-pi.theus6tv.duckdns.org/hls/2.5/playlist.m3u8
+#EXTINF:-1 group-title="IPTV ORG_3.us",WNJU-DT1 (Telemundo 47)
+http://v-ny.theus6tv.duckdns.org/hls/47.1/playlist.m3u8
+#EXTINF:-1 group-title="IPTV ORG_3.us",WNYW-DT1 (FOX 5) (720p)
+http://v-ny.theus6tv.duckdns.org/hls/5.1/playlist.m3u8
+#EXTINF:-1 group-title="IPTV ORG_3.us",WPIX-DT4 (Rewind TV) (480p)
+http://v-ny.theus6tv.duckdns.org/hls/11.4/playlist.m3u8
+#EXTINF:-1 group-title="IPTV ORG_3.us",WPVI-DT1 (ABC 6) (720p)
+http://v-pi.theus6tv.duckdns.org/hls/6.1/playlist.m3u8
+#EXTINF:-1 ,WTXF-DT1 (FOX 29) (720p)
+http://v-pi.theus6tv.duckdns.org/hls/29.1/playlist.m3u8
+
+
 
 **********************************  https://github.com/angel200881/chann/blob/main/TP.m3u8 ******************************
  
@@ -1093,6 +1113,153 @@ https://linear-385.frequency.stream/385/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX+", TUDN 17
 https://linear-386.frequency.stream/386/hls/master/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", x
+https://linear-142.frequency.stream/142/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Cine Club 
+https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Lo Mejor de la Liga MX 
+https://linear-193.frequency.stream/dist/localnow/193/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Novelas de Romance 
+https://linear-194.frequency.stream/dist/localnow/194/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Novelas en Familia 
+https://linear-195.frequency.stream/dist/localnow/195/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Novelas de Oro 
+https://linear-196.frequency.stream/dist/localnow/196/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", N+
+https://linear-301.frequency.stream/dist/vix/301/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Cine Asiatico 
+https://linear-304.frequency.stream/304/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Amores Verdaderos
+https://linear-305.frequency.stream/dist/localnow/305/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Aqui y Ahora
+https://linear-306.frequency.stream/dist/localnow/306/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Cine 1
+https://linear-307.frequency.stream/dist/localnow/307/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Cine 2
+https://linear-308.frequency.stream/dist/localnow/308/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Cine 3
+https://linear-309.frequency.stream/dist/localnow/309/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", JaJaJa (XH Derbez)
+https://linear-311.frequency.stream/dist/localnow/311/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Familia P. Luche
+https://linear-311.frequency.stream/dist/localnow/311/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Durmiendo con mi Jefe
+https://linear-312.frequency.stream/dist/localnow/312/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", El Privilegio de Mandar
+https://linear-313.frequency.stream/dist/localnow/313/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Vecinos
+https://linear-314.frequency.stream/dist/localnow/314/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Crónicas
+https://linear-315.frequency.stream/dist/localnow/315/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Cuidado con el Angel
+https://linear-316.frequency.stream/dist/localnow/316/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Del Mercado al Plato
+https://linear-317.frequency.stream/dist/localnow/317/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Alegrijes y Rebujos
+https://linear-319.frequency.stream/dist/localnow/319/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Amigas y Rivales
+https://linear-320.frequency.stream/dist/localnow/320/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Tres Veces Ana
+https://linear-321.frequency.stream/dist/localnow/321/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Clase 406
+https://linear-322.frequency.stream/dist/localnow/322/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Héroes del Norte
+https://linear-323.frequency.stream/dist/localnow/323/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Teresa
+https://linear-324.frequency.stream/dist/localnow/324/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Corazón Salvaje
+https://linear-325.frequency.stream/dist/localnow/325/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Juana la Virgen
+https://linear-327.frequency.stream/dist/localnow/327/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", María Mercedes
+https://linear-328.frequency.stream/dist/localnow/328/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Que Bonito Amor 
+https://linear-329.frequency.stream/dist/localnow/329/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", ViX 
+https://linear-330.frequency.stream/dist/localnow/330/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Muchachitas
+https://linear-331.frequency.stream/dist/localnow/331/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Muchachitas como Tu 
+https://linear-332.frequency.stream/dist/localnow/332/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Mi Gorda Bella 
+https://linear-334.frequency.stream/dist/localnow/334/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Rebelde
+https://linear-335.frequency.stream/dist/localnow/335/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Papa a toda Madre 
+https://linear-336.frequency.stream/dist/localnow/336/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Sortilegio
+https://linear-337.frequency.stream/dist/localnow/337/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Triunfo del Amor
+https://linear-338.frequency.stream/dist/localnow/338/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", 40 y 20
+https://linear-340.frequency.stream/dist/localnow/340/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Como dice El Dicho
+https://linear-341.frequency.stream/dist/localnow/341/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Teresa
+https://linear-342.frequency.stream/dist/localnow/342/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", La Promesa
+https://linear-343.frequency.stream/dist/localnow/343/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", La Selecc10n
+https://linear-345.frequency.stream/dist/localnow/345/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Lo que Diga el Corazon, Niche
+https://linear-346.frequency.stream/dist/localnow/346/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Baby Shark
+https://linear-355.frequency.stream/dist/localnow/355/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Diana Salazar
+https://linear-445.frequency.stream/445/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", Hasta que el Dinero nos Separe
+https://linear-447.frequency.stream/447/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", La Usurpadora
+https://linear-448.frequency.stream/448/hls/master/playlist.m3u8
 
 *************************************  https://raw.githubusercontent.com/dann1110/GreatTV/master/TVBOX%202  ***************************************************
 
