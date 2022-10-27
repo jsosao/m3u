@@ -5,61 +5,20 @@
 
 ******************* https://raw.githubusercontent.com/jsosao/iptv/blob/master/streams/us.m3u ****************************
 
-
-#EXTINF:-1 group-title="IPTV ORG_2.us",CBS 5 San Antonio TX (KENS) (1080p)
-https://livevideo01.kens5.com/hls/live/2016281/newscasts/live.m3u8
-
-#EXTINF:-1 group-title="IPTV ORG_2.us",WKAQ-DT1 (Telemundo Puerto Rico)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 group-title="IPTV ORG_2.us",CBS 8 San Diego CA (KFMB-TV) (1080p)
-https://livevideo01.cbs8.com/hls/live/2014967/newscasts/live.m3u8
-#EXTINF:-1 group-title="IPTV ORG_2.us",CBS 11 Houston TX (KHOU) (1080p)
-https://livevideo01.khou.com/hls/live/2014966/newscasts/live.m3u8
-#EXTINF:-1 group-title="IPTV ORG_2.us",CBS 10 Columbus OH (WBNS-TV) (1080p)
-https://livevideo01.10tv.com/hls/live/2013836/newscasts/live.m3u8
-
-#EXTINF:-1 group-title="IPTV ORG_2.us",23 ABC Bakersfield CA (KERO) (720p)
-https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
-#EXTINF:-1 group-title="IPTV ORG_2.us",ABC 7 Denver CO (KMGH) (720p)
-https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
-#EXTINF:-1 group-title="IPTV ORG_2.us",ABC 15 Phoenix AZ (KNXV-TV) (720p)
-https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
-#EXTINF:-1 group-title="IPTV ORG_2.us",ABC 4 Seattle WA (KOMO-TV) (720p)
-https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
-#EXTINF:-1 group-title="IPTV ORG_2.us",ABC 24 Austin TX (KVUE) (1080p)
-https://livevideo01.kvue.com/hls/live/2016282/newscasts/live.m3u8
-
-#EXTINF:-1 group-title="IPTV ORG_2.us",NBC 36 Charlotte NC (WCNC-TV) (1080p)
-https://livevideo01.wcnc.com/hls/live/2015505/newscasts/live.m3u8
-#EXTINF:-1 group-title="IPTV ORG_2.us",NBC 26 Green Bay WI (WGBA) (720p)
-https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
-#EXTINF:-1 group-title="IPTV ORG_2.us",NBC 2 Buffalo NY (WGRZ) (1080p)
-https://livevideo01.wgrz.com/hls/live/2016286/newscasts/live.m3u8
-
-#EXTINF:-1 group-title="IPTV ORG_2.us",Fox 15 West Texas Abilene TX (KXVA) (1080p)
-https://livevideo01.myfoxzone.com/hls/live/2017381/newscasts/live.m3u8
-#EXTINF:-1  group-title="IPTV ORG_2.us",Fox 43 Harrisburg PA (WPMT) (1080p)
-https://livevideo01.fox43.com/hls/live/2011656/newscasts/live.m3u8
-
-#EXTINF:-1 group-title="IPTV ORG_2.us",TNT Sports 2 Brasil (720p) [Not 24/7]
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
-#EXTINF:-1 group-title="IPTV ORG_2.us",TNT Sports 3 Brasil (720p)
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
-#EXTINF:-1 group-title="IPTV ORG_2.us",TNT Sports 4 Brasil (720p) [Not 24/7]
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
-#EXTINF:-1 group-title="IPTV ORG_2.us",TNT Sports 5 Brasil (720p) [Not 24/7]
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
-
 **********************************  https://raw.githubusercontent.com/jsosao/iptv/master/streams/us_localbtv.m3u ******************************
 
 #EXTINF:-1 group-title="IPTV ORG_3.us",KYW-DT1 (CBS 3) (1080p)
 http://v-pi.theus6tv.duckdns.org/hls/3.1/playlist.m3u8
 #EXTINF:-1 group-title="IPTV ORG_3.us",WABC-DT1 (ABC 7) (720p)
 http://v-ny.theus6tv.duckdns.org/hls/7.1/playlist.m3u8
+#EXTINF:-1 group-title="IPTV ORG_3.us",WABC-DT2 (Localish)
+http://v-ny.theus6tv.duckdns.org/hls/7.2/playlist.m3u8
 #EXTINF:-1 group-title="IPTV ORG_3.us",WCAU-DT1 (NBC 10) (1080p)
 http://v-pi.theus6tv.duckdns.org/hls/10.1/playlist.m3u8
 #EXTINF:-1 group-title="IPTV ORG_3.us",WCBS-DT1 (CBS 2) (1080p)
 http://v-ny.theus6tv.duckdns.org/hls/2.1/playlist.m3u8
+#EXTINF:-1 group-title="IPTV ORG_3.us",WFUT-DT1 (Unimas Nueva York)
+http://v-ny.theus6tv.duckdns.org/hls/68.1/playlist.m3u8
 #EXTINF:-1 group-title="IPTV ORG_3.us",WDPN-DT5 (Retro TV) (432p)
 http://v-pi.theus6tv.duckdns.org/hls/2.5/playlist.m3u8
 #EXTINF:-1 group-title="IPTV ORG_3.us",WNJU-DT1 (Telemundo 47)
@@ -70,10 +29,8 @@ http://v-ny.theus6tv.duckdns.org/hls/5.1/playlist.m3u8
 http://v-ny.theus6tv.duckdns.org/hls/11.4/playlist.m3u8
 #EXTINF:-1 group-title="IPTV ORG_3.us",WPVI-DT1 (ABC 6) (720p)
 http://v-pi.theus6tv.duckdns.org/hls/6.1/playlist.m3u8
-#EXTINF:-1 ,WTXF-DT1 (FOX 29) (720p)
+#EXTINF:-1 group-title="IPTV ORG_3.us",WTXF-DT1 (FOX 29) (720p)
 http://v-pi.theus6tv.duckdns.org/hls/29.1/playlist.m3u8
-
-
 
 **********************************  https://github.com/angel200881/chann/blob/main/TP.m3u8 ******************************
  
