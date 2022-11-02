@@ -34,9 +34,6 @@ http://v-pi.theus6tv.duckdns.org/hls/29.1/playlist.m3u8
 
 **********************************  https://github.com/angel200881/chann/blob/main/TP.m3u8 ******************************
  
-
-
-
 ******************************* https://raw.githubusercontent.com/cesarivan2310/Lista/main/Canales ********************************************************************************
 
 ********************************************************************  https://raw.githubusercontent.com/cicr23/MX/main/MX  *****************************************************
@@ -578,89 +575,4 @@ https://linear-351.frequency.stream/351/hls/master/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-name="" group-title="ViX+",Canal 5 TJ
 https://v-sd.mybtv.net/live/486/1920x1080.m3u8
 
-#EXTINF:-1 tvg-name="" group-title="ViX+",Multimedios Laguna
-http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Multimedios TJ
-https://cdn87.theus6tv.tk/locals/SanDiego/xhbj-tdt.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Multimedios TJ
-https://v-sd.mybtv.net/live/515/1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",XHIMT Azteca 7 DF (AZT-7)
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Televis Mty (VIX)
-#EXTGRP:Locales
-https://linear-403.frequency.stream/403/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Televis Gdl (VIX)
-https://linear-402.frequency.stream/402/hls/master/playlist_1920x1080.m3u8
-
-#EXTINF:-1 tvg-name="Golden Premier" group-title="ViX+",Golden Premier (VIX)
-https://linear-411.frequency.stream/411/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="Golden Multiplex" group-title="ViX+",Golden Multiplex (VIX)
-https://linear-408.frequency.stream/408/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",DPelicula (VIX)
-https://linear-354.frequency.stream/354/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",DPelicula + (VIX)
-https://linear-404.frequency.stream/404/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="Golden Edge" group-title="ViX+",Golden Edge (VIX)
-https://linear-407.frequency.stream/407/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="Golden Plus" group-title="ViX+",Golden Plus (VIX)
-https://linear-410.frequency.stream/410/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="Golden Premier" group-title="ViX+",Golden Premier (VIX)
-https://linear-411.frequency.stream/411/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="Golden Multiplex" group-title="ViX+",Golden Multiplex (VIX)
-https://linear-408.frequency.stream/408/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="Golden" group-title="ViX+",Golden (VIX)
-https://linear-409.frequency.stream/409/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",RetroPelis (VIX)
-https://linear-304.frequency.stream/304/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",My Time Movies (VIX)
-https://linear-261.frequency.stream/261/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Cine (VIX)
-https://linear-449.frequency.stream/449/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Cine 1 (VIX)
-https://linear-307.frequency.stream/307/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Cine 2 (VIX)
-https://linear-308.frequency.stream/308/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Cine 3 (VIX)
-https://linear-309.frequency.stream/309/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Cine Club - Prendetv (VIX)
-https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Cine del Ayer (VIX)
-https://linear-429.frequency.stream/429/hls/master/playlist_1920x1080.m3u8
-
-#EXTINF:-1 tvg-name="" group-title="ViX+",Local Now Movies of the 70's
-https://linear-172.frequency.stream/dist/localnow/172/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Local Now Movies of the 80's
-https://linear-171.frequency.stream/dist/localnow/171/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Local Now Movies of the 90's
-https://linear-170.frequency.stream/dist/localnow/170/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Local Now Movies of the 2000's
-https://linear-167.frequency.stream/dist/localnow/167/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Local Now Movies of the 2010's
-https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Local Now Movies of the 2020's
-https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Local Now Mr Box Office
-https://linear-201.frequency.stream/dist/localnow/201/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Zona TUDN (VIX) op2
-https://linear-357.frequency.stream/dist/localnow/357/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Zona TUDN (VIX) op3
-https://linear-356.frequency.stream/dist/localnow/356/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Zona Futbol TUDN (VIX)
-https://linear-374.frequency.stream/dist/localnow/374/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Afizzionados (VIX)
-https://linear-348.frequency.stream/348/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Afizzionados (VIX) op2
-https://linear-348.frequency.stream/dist/localnow/348/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",LevelUp Games (VIX)
-https://linear-263.frequency.stream/263/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",LevelUp Games (VIX) op2
-https://linear-263.frequency.stream/dist/localnow/263/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Telehit Musica (VIX)
-https://linear-418.frequency.stream/418/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Telehit (VIX)
-https://linear-417.frequency.stream/417/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Telehit Musica Plus (VIX)
-https://linear-419.frequency.stream/419/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Bandamax (VIX)
-https://linear-400.frequency.stream/400/hls/master/playlist_1920x1080.m3u8
 
