@@ -1,6 +1,6 @@
 #EXTM3U
 
-*********************    ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... ****************************
+*********************  10/nov/2022  ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... *************************
 *********************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ****************************************
 
 ******************* https://raw.githubusercontent.com/jsosao/iptv/blob/master/streams/us.m3u ****************************
@@ -735,10 +735,8 @@ https://v-ny.mybtv.net/live/643/1280x720.m3u8
 #EXTINF:-1 tvg-name="" group-title="ViX+",Univision MI (op2)
 https://linear-424.frequency.stream/424/hls/master/playlist_1920x1080.m3u8
 
-
 #EXTINF:-1 tvg-name="" group-title="ViX+",UNIVISION
 http://71.187.29.54:8000/play/a07t/index.m3u8
-
 
 #EXTINF:-1 tvg-name="" group-title="ViX+",Las Estrellas TJ
 https://v-sd.mybtv.net/live/497/1920x1080.m3u8
