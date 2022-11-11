@@ -7,30 +7,30 @@
 
 **********************************  https://raw.githubusercontent.com/jsosao/iptv/master/streams/us_localbtv.m3u ******************************
 
-#EXTINF:-1 group-title="IPTV ORG_3.us",KYW-DT1 (CBS 3) (1080p)
-http://v-pi.theus6tv.duckdns.org/hls/3.1/playlist.m3u8
-#EXTINF:-1 group-title="IPTV ORG_3.us",WABC-DT1 (ABC 7) (720p)
-http://v-ny.theus6tv.duckdns.org/hls/7.1/playlist.m3u8
-#EXTINF:-1 group-title="IPTV ORG_3.us",WABC-DT2 (Localish)
-http://v-ny.theus6tv.duckdns.org/hls/7.2/playlist.m3u8
-#EXTINF:-1 group-title="IPTV ORG_3.us",WCAU-DT1 (NBC 10) (1080p)
-http://v-pi.theus6tv.duckdns.org/hls/10.1/playlist.m3u8
-#EXTINF:-1 group-title="IPTV ORG_3.us",WCBS-DT1 (CBS 2) (1080p)
-http://v-ny.theus6tv.duckdns.org/hls/2.1/playlist.m3u8
-#EXTINF:-1 group-title="IPTV ORG_3.us",WFUT-DT1 (Unimas Nueva York)
-http://v-ny.theus6tv.duckdns.org/hls/68.1/playlist.m3u8
-#EXTINF:-1 group-title="IPTV ORG_3.us",WDPN-DT5 (Retro TV) (432p)
-http://v-pi.theus6tv.duckdns.org/hls/2.5/playlist.m3u8
-#EXTINF:-1 group-title="IPTV ORG_3.us",WNJU-DT1 (Telemundo 47)
-http://v-ny.theus6tv.duckdns.org/hls/47.1/playlist.m3u8
-#EXTINF:-1 group-title="IPTV ORG_3.us",WNYW-DT1 (FOX 5) (720p)
-http://v-ny.theus6tv.duckdns.org/hls/5.1/playlist.m3u8
-#EXTINF:-1 group-title="IPTV ORG_3.us",WPIX-DT4 (Rewind TV) (480p)
-http://v-ny.theus6tv.duckdns.org/hls/11.4/playlist.m3u8
-#EXTINF:-1 group-title="IPTV ORG_3.us",WPVI-DT1 (ABC 6) (720p)
-http://v-pi.theus6tv.duckdns.org/hls/6.1/playlist.m3u8
-#EXTINF:-1 group-title="IPTV ORG_3.us",WTXF-DT1 (FOX 29) (720p)
-http://v-pi.theus6tv.duckdns.org/hls/29.1/playlist.m3u8
+********************************** #EXTINF:-1 group-title="IPTV ORG_3.us",KYW-DT1 (CBS 3) (1080p)
+********************************** http://v-pi.theus6tv.duckdns.org/hls/3.1/playlist.m3u8
+********************************** #EXTINF:-1 group-title="IPTV ORG_3.us",WABC-DT1 (ABC 7) (720p)
+********************************** http://v-ny.theus6tv.duckdns.org/hls/7.1/playlist.m3u8
+********************************** #EXTINF:-1 group-title="IPTV ORG_3.us",WABC-DT2 (Localish)
+********************************** http://v-ny.theus6tv.duckdns.org/hls/7.2/playlist.m3u8
+********************************** #EXTINF:-1 group-title="IPTV ORG_3.us",WCAU-DT1 (NBC 10) (1080p)
+********************************** http://v-pi.theus6tv.duckdns.org/hls/10.1/playlist.m3u8
+********************************** #EXTINF:-1 group-title="IPTV ORG_3.us",WCBS-DT1 (CBS 2) (1080p)
+********************************** http://v-ny.theus6tv.duckdns.org/hls/2.1/playlist.m3u8
+********************************** #EXTINF:-1 group-title="IPTV ORG_3.us",WFUT-DT1 (Unimas Nueva York)
+********************************** http://v-ny.theus6tv.duckdns.org/hls/68.1/playlist.m3u8
+********************************** #EXTINF:-1 group-title="IPTV ORG_3.us",WDPN-DT5 (Retro TV) (432p)
+********************************** http://v-pi.theus6tv.duckdns.org/hls/2.5/playlist.m3u8
+********************************** #EXTINF:-1 group-title="IPTV ORG_3.us",WNJU-DT1 (Telemundo 47)
+********************************** http://v-ny.theus6tv.duckdns.org/hls/47.1/playlist.m3u8
+********************************** #EXTINF:-1 group-title="IPTV ORG_3.us",WNYW-DT1 (FOX 5) (720p)
+********************************** http://v-ny.theus6tv.duckdns.org/hls/5.1/playlist.m3u8
+********************************** #EXTINF:-1 group-title="IPTV ORG_3.us",WPIX-DT4 (Rewind TV) (480p)
+********************************** http://v-ny.theus6tv.duckdns.org/hls/11.4/playlist.m3u8
+********************************** #EXTINF:-1 group-title="IPTV ORG_3.us",WPVI-DT1 (ABC 6) (720p)
+********************************** http://v-pi.theus6tv.duckdns.org/hls/6.1/playlist.m3u8
+********************************** #EXTINF:-1 group-title="IPTV ORG_3.us",WTXF-DT1 (FOX 29) (720p)
+********************************** http://v-pi.theus6tv.duckdns.org/hls/29.1/playlist.m3u8
 
 ******************************  https://raw.githubusercontent.com/MrGmaw/enlaces/23314219af19afea9b0fea8339edfd5a47c47ad2/playlist.m3u *************************
 
@@ -202,21 +202,21 @@ https://mrgmaw.github.io/enlaces/fn/kmph.m3u8
 
 ******************************* https://github.com/PhoenixDreamsCompany/TV_PREMIUM_TOLUCA/blob/main/LAGUERA.m3u  *************************************************
 
-#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/15sky-logo-Azteca13-2-150x150-6640650.jpg" group-title="newton181",Azteca Uno
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/azteca-7-175x175-109133825.png" group-title="newton181",Azteca 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="newton181",Imagen TV
-https://stream-04.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLr2FGXigla6Hbs1cLlFPF2RgsUgWUG04qZxQzjByV5HF)/dm/3/x82z4if/d/live-0.m3u8
+********************************** #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/15sky-logo-Azteca13-2-150x150-6640650.jpg" group-title="newton181",Azteca Uno
+********************************** https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+********************************** #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/azteca-7-175x175-109133825.png" group-title="newton181",Azteca 7
+********************************** https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+********************************** #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="newton181",Imagen TV
+********************************** https://stream-04.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLr2FGXigla6Hbs1cLlFPF2RgsUgWUG04qZxQzjByV5HF)/dm/3/x82z4if/d/live-0.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista TV" group-title="PhoenixDreamsCompany", AZTECA UNO
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista TV" group-title="PhoenixDreamsCompany", AZTECA 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista TV" group-title="PhoenixDreamsCompany", AZTECA 7.2
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista TV" group-title="PhoenixDreamsCompany", ADN40
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+********************************** #EXTINF:-1 tvg-logo="" group-title="Lista TV" group-title="PhoenixDreamsCompany", AZTECA UNO
+********************************** https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+********************************** #EXTINF:-1 tvg-logo="" group-title="Lista TV" group-title="PhoenixDreamsCompany", AZTECA 7
+********************************** https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+********************************** #EXTINF:-1 tvg-logo="" group-title="Lista TV" group-title="PhoenixDreamsCompany", AZTECA 7.2
+********************************** https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+********************************** #EXTINF:-1 tvg-logo="" group-title="Lista TV" group-title="PhoenixDreamsCompany", ADN40
+********************************** https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 ********************************************************************  https://raw.githubusercontent.com/cicr23/MX/main/MX  *****************************************************
 
