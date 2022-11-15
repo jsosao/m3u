@@ -140,8 +140,7 @@ https://mrgmaw.github.io/enlaces/pi/piyw.m3u8
 https://mrgmaw.github.io/enlaces/pi/pitxf.m3u8
 #EXTINF:-1 tvg-chno="17.1" tvg-id="WPHLDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/320px-MyNetworkTV_2D_Logo.svg.png" group-title="MrGmaw_PI",WPHL MyNetwork
 https://mrgmaw.github.io/enlaces/pi/piphl.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://tv-english.club/wp-content/uploads/2014/11/logo-ECTV_%D1%88%D0%B8%D1%80%D0%BE%D0%BA%D0%BE%D0%B5-205x205.jpg" group-title="MrGmaw_PI",EC
-https://mrgmaw.github.io/enlaces/pi/pieng.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://media-usla.mybtv.net/logos/57.1.png" group-title="MrGmaw_SD",XHJK Azt1 FHD
 https://mrgmaw.github.io/enlaces/sd/sdazt1fhd.m3u8
@@ -193,6 +192,11 @@ https://mrgmaw.github.io/enlaces/lv/lvbeinsp.m3u8
 https://mrgmaw.github.io/enlaces/fn/kmph.m3u8
 #EXTINF:-1 tvg-chno"27.1" tvg-id="KYMBLD.us" tvg-logo="https://media.localbtv.com/images/fresnobtv/logos/metv.png" group-title="MrGmaw_FN",KYMB MeTv
 
+
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",EC
+https://mrgmaw.github.io/enlaces/xy/engclb.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",RT
+https://mrgmaw.github.io/enlaces/xy/rtes.m3u8
 
 **********************************  https://github.com/angel200881/chann/blob/main/TP.m3u8 ******************************
  
