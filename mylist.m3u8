@@ -193,11 +193,11 @@ https://mrgmaw.github.io/enlaces/fn/kmph.m3u8
 #EXTINF:-1 tvg-chno"27.1" tvg-id="KYMBLD.us" tvg-logo="https://media.localbtv.com/images/fresnobtv/logos/metv.png" group-title="MrGmaw_FN",KYMB MeTv
 
 
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="XY",DW es
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",DW es
 https://mrgmaw.github.io/enlaces/xy/dwes.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="XY",RT es
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",RT es
 https://mrgmaw.github.io/enlaces/xy/rtes.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="XY",English Club
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",English Club
 https://mrgmaw.github.io/enlaces/xy/engclb.m3u8
 
 **********************************  https://github.com/angel200881/chann/blob/main/TP.m3u8 ******************************
