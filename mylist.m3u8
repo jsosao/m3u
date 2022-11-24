@@ -41,15 +41,15 @@ https://mrgmaw.github.io/enlaces/in/intelem.m3u8
 #EXTINF:-1 tvg-chno"" tvg-id="" tvg-logo="" group-title="MrGmaw_IN", WBNX 55
 https://mrgmaw.github.io/enlaces/in/inwbnx.m3u8
 
-#EXTINF:-1 tvg-chno="7.1" tvg-id="KGO.us" tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png" group-title="MrGmaw_SF",KGO TV ABC
+#EXTINF:-1 tvg-chno="7.1" tvg-id="KGO.us" tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png" group-title="MrGmaw_SF",KGO TV abc
 https://mrgmaw.github.io/enlaces/ca/caabc.m3u8
-#EXTINF:-1 tvg-chno="5.1" tvg-id="KPIX-TV" tvg-logo="https://www.nicepng.com/png/full/443-4431727_cbs-logo-png.png" group-title="MrGmaw_SF",KPIX CBS
+#EXTINF:-1 tvg-chno="5.1" tvg-id="KPIX-TV" tvg-logo="https://www.nicepng.com/png/full/443-4431727_cbs-logo-png.png" group-title="MrGmaw_SF",KPIX cbs
 https://mrgmaw.github.io/enlaces/ca/cacbs.m3u8
-#EXTINF:-1 tvg-chno="11.1" tvg-id="KNTV.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="MrGmaw_SF",KNTV NBC
+#EXTINF:-1 tvg-chno="11.1" tvg-id="KNTV.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="MrGmaw_SF",KNTV nbc
 https://mrgmaw.github.io/enlaces/ca/canbc.m3u8
-#EXTINF:-1 tvg-chno="2.1" tvg-id="KTVU.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/320px-FOX_wordmark.svg.png" group-title="MrGmaw_SF",KTVU FOX
+#EXTINF:-1 tvg-chno="2.1" tvg-id="KTVU.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/320px-FOX_wordmark.svg.png" group-title="MrGmaw_SF",KTVU fox
 https://mrgmaw.github.io/enlaces/ca/catvu.m3u8
-#EXTINF:-1 tvg-chno="60.6" tvg-id="KPJK.us" tvg-logo="https://media-usba.mybtv.net/logos/jazztv.png" group-title="MrGmaw_SF",KPJK JAZZ
+#EXTINF:-1 tvg-chno="60.6" tvg-id="KPJK.us" tvg-logo="https://media-usba.mybtv.net/logos/jazztv.png" group-title="MrGmaw_SF",KPJK jazz
 https://mrgmaw.github.io/enlaces/ca/cacsm.m3u8
 #EXTINF:-1 tvg-chno="50.2" tvg-id="KCNS.us" tvg-logo="https://media-usla.mybtv.net/logos/57.1.png" group-title="MrGmaw_SF",KCNS Azteca América
 https://mrgmaw.github.io/enlaces/ca/cacsn.m3u8
@@ -67,28 +67,28 @@ https://mrgmaw.github.io/enlaces/ca/cafsf.m3u8
 https://mrgmaw.github.io/enlaces/ca/cadtv.m3u8
 
 
-#EXTINF:-1 tvg-chno="15.1" tvg-id="KNXV.us" tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png" group-title="MrGmaw_PX",KNXV ABX
+#EXTINF:-1 tvg-chno="15.1" tvg-id="KNXV.us" tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png" group-title="MrGmaw_PX",KNXV abc
 https://mrgmaw.github.io/enlaces/px/pxabc.m3u8
-#EXTINF:-1 tvg-chno="5.1" tvg-id="KPHO-TV" tvg-logo="https://www.nicepng.com/png/full/443-4431727_cbs-logo-png.png" group-title="MrGmaw_PX",KPHO CBS
+#EXTINF:-1 tvg-chno="5.1" tvg-id="KPHO-TV" tvg-logo="https://www.nicepng.com/png/full/443-4431727_cbs-logo-png.png" group-title="MrGmaw_PX",KPHO cbs
 https://mrgmaw.github.io/enlaces/px/pxcbs.m3u8
-#EXTINF:-1 tvg-chno="12.1" tvg-id="KPNX.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="MrGmaw_PX",KPNX NBC
+#EXTINF:-1 tvg-chno="12.1" tvg-id="KPNX.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="MrGmaw_PX",KPNX nbc
 https://mrgmaw.github.io/enlaces/px/pxnbc.m3u8
 #EXTINF:-1 tvg-chno="67.1" tvg-id="KDJTDT1.us" tvg-logo="https://www.androidfreeware.net/img2/com-univision-android.jpg" group-title="MrGmaw_PX",KDJT Univision
 https://mrgmaw.github.io/enlaces/px/pxdjt.m3u8
 #EXTINF:-1 tvg-chno="67.1" tvg-id="KDJTDT1.us" tvg-logo="https://pbs.twimg.com/profile_images/630065202315292672/3DWYcjyQ_400x400.jpg" group-title="MrGmaw_PX",KDJT Unimas
 https://mrgmaw.github.io/enlaces/px/pxdjt1.m3u8
-#EXTINF:-1 tvg-chno="67.1" tvg-id="KSAZDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/320px-FOX_wordmark.svg.png" group-title="MrGmaw_PX",KSAZ FOX
+#EXTINF:-1 tvg-chno="67.1" tvg-id="KSAZDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/320px-FOX_wordmark.svg.png" group-title="MrGmaw_PX",KSAZ fox
 https://mrgmaw.github.io/enlaces/px/pxfox.m3u8
 #EXTINF:-1 tvg-chno="39.1" tvg-id="KTAZDT1.us" tvg-logo="https://static.epg.best/mx/Telemundo.mx.png" group-title="MrGmaw_PX",KTAZ Telemundo
 https://mrgmaw.github.io/enlaces/px/pxtaz.m3u8
 
-#EXTINF:-1 tvg-chno="7.1" tvg-id="KABCDT1.us" tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png" group-title="MrGmaw_LA",KABC ABC7
+#EXTINF:-1 tvg-chno="7.1" tvg-id="KABCDT1.us" tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png" group-title="MrGmaw_LA",KABC abc7
 https://mrgmaw.github.io/enlaces/la/laabc.m3u8
-#EXTINF:-1 tvg-chno="9.1" tvg-id="KCALTV1.us" tvg-logo="https://www.nicepng.com/png/full/443-4431727_cbs-logo-png.png" group-title="MrGmaw_LA",KCAL CBS9
+#EXTINF:-1 tvg-chno="9.1" tvg-id="KCALTV1.us" tvg-logo="https://www.nicepng.com/png/full/443-4431727_cbs-logo-png.png" group-title="MrGmaw_LA",KCAL cbs9
 https://mrgmaw.github.io/enlaces/la/lacal.m3u8
-#EXTINF:-1 tvg-chno="4.1" tvg-id="KNBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="MrGmaw_LA",KNBC NBC4
+#EXTINF:-1 tvg-chno="4.1" tvg-id="KNBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="MrGmaw_LA",KNBC nbc4
 https://mrgmaw.github.io/enlaces/la/lanbc.m3u8
-#EXTINF:-1 tvg-chno="11.1" tvg-id="KTTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/320px-FOX_wordmark.svg.png" group-title="MrGmaw_LA",KTTV FOX11
+#EXTINF:-1 tvg-chno="11.1" tvg-id="KTTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/320px-FOX_wordmark.svg.png" group-title="MrGmaw_LA",KTTV fox11
 https://mrgmaw.github.io/enlaces/la/lattv.m3u8
 #EXTINF:-1 tvg-chno="34.1" tvg-id="KMEXDT1.us" tvg-logo="https://www.androidfreeware.net/img2/com-univision-android.jpg" group-title="MrGmaw_LA",KMEX Univision
 https://mrgmaw.github.io/enlaces/la/lamex.m3u8
@@ -103,13 +103,13 @@ https://mrgmaw.github.io/enlaces/la/lacomet.m3u8
 #EXTINF:-1 tvg-chno="5.1" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/320px-The_CW.svg.png" group-title="MrGmaw_LA",KTLA5 The CW
 https://mrgmaw.github.io/enlaces/la/latla5.m3u8
 
-#EXTINF:-1 tvg-chno="7.1" tvg-id="WABCDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="MrGmaw_NY",WABC ABC7
+#EXTINF:-1 tvg-chno="7.1" tvg-id="WABCDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="MrGmaw_NY",WABC abc7
 https://mrgmaw.github.io/enlaces/ny/nyabc.m3u8
-#EXTINF:-1 tvg-chno="2.1" tvg-id="WCBSDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="MrGmaw_NY",WCBS CBS2
+#EXTINF:-1 tvg-chno="2.1" tvg-id="WCBSDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="MrGmaw_NY",WCBS cbs2
 https://mrgmaw.github.io/enlaces/ny/nycbs.m3u8
-#EXTINF:-1 tvg-chno="4.1" tvg-id="WNBCDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="MrGmaw_NY",WNBC NBC4
+#EXTINF:-1 tvg-chno="4.1" tvg-id="WNBCDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="MrGmaw_NY",WNBC nbc4
 https://mrgmaw.github.io/enlaces/ny/nynbc.m3u8
-#EXTINF:-1 tvg-chno="5.1" tvg-id="WNYWDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="MrGmaw_NY",WNYW 5FOX
+#EXTINF:-1 tvg-chno="5.1" tvg-id="WNYWDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="MrGmaw_NY",WNYW 5fox
 https://mrgmaw.github.io/enlaces/ny/nynyw.m3u8
 #EXTINF:-1 tvg-chno="9.1" tvg-id="WWORDT1.us" tvg-logo="" group-title="MrGmaw_NY",MyNetwork
 https://mrgmaw.github.io/enlaces/ny/nywor.m3u8
@@ -130,13 +130,13 @@ https://mrgmaw.github.io/enlaces/ny/nytelem.m3u8
 #EXTINF:-1 tvg-chno="5.1" tvg-id="WNYWDT1.us" tvg-logo="https://pbs.twimg.com/profile_images/630065202315292672/3DWYcjyQ_400x400.jpg" group-title="MrGmaw_NY",Unimas
 https://mrgmaw.github.io/enlaces/ny/nyunim.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="MrGmaw_PI",WCAU NBC10
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="MrGmaw_PI",WCAU nbc10
 https://mrgmaw.github.io/enlaces/pi/picau.m3u8
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png" group-title="MrGmaw_PI",WPVI 6ABC
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png" group-title="MrGmaw_PI",WPVI 6abc
 https://mrgmaw.github.io/enlaces/pi/piabc.m3u8
-#EXTINF:-1 tvg-chno="3.1" tvg-id="KYWDT1.us" tvg-logo="https://www.nicepng.com/png/full/443-4431727_cbs-logo-png.png" group-title="MrGmaw_PI",KYW CBS3
+#EXTINF:-1 tvg-chno="3.1" tvg-id="KYWDT1.us" tvg-logo="https://www.nicepng.com/png/full/443-4431727_cbs-logo-png.png" group-title="MrGmaw_PI",KYW cbs3
 https://mrgmaw.github.io/enlaces/pi/piyw.m3u8
-#EXTINF:-1 tvg-chno="29.1" tvg-id="WTXFDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/320px-FOX_wordmark.svg.png" group-title="MrGmaw_PI",WTXF FOX
+#EXTINF:-1 tvg-chno="29.1" tvg-id="WTXFDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/320px-FOX_wordmark.svg.png" group-title="MrGmaw_PI",WTXF fox
 https://mrgmaw.github.io/enlaces/pi/pitxf.m3u8
 #EXTINF:-1 tvg-chno="17.1" tvg-id="WPHLDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/320px-MyNetworkTV_2D_Logo.svg.png" group-title="MrGmaw_PI",WPHL MyNetwork
 https://mrgmaw.github.io/enlaces/pi/piphl.m3u8
@@ -159,6 +159,12 @@ https://mrgmaw.github.io/enlaces/sd/sdazt7hd.m3u8
 https://mrgmaw.github.io/enlaces/sd/sdazt7sd.m3u8
 #EXTINF:-1 tvg-chno="16.1" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/21134978072561.Y3JvcCwxMzgwLDEwODAsMjcwLDA.jpg" group-title="MrGmaw_SD",KETV El Nu9ve SD
 https://mrgmaw.github.io/enlaces/sd/sdetv.m3u8
+#EXTINF:-1 tvg-chno="16.1" tvg-logo="" group-title="MrGmaw_SD", Estrella tv
+https://mrgmaw.github.io/enlaces/sd/esttv.m3u8
+#EXTINF:-1 tvg-chno="16.1" tvg-logo="" group-title="MrGmaw_SD",Aztk América 
+https://mrgmaw.github.io/enlaces/sd/aztam.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-48380.png" group-title="MrGmaw_SD",XETV Canal 5 HD
 https://mrgmaw.github.io/enlaces/sd/sdcnl5hd.m3u8
@@ -169,6 +175,7 @@ https://mrgmaw.github.io/enlaces/sd/sdcnl5sd.m3u8
 https://mrgmaw.github.io/enlaces/sd/sdcnl5sb.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MrGmaw_SD",XETV *TUDN
 https://mrgmaw.github.io/enlaces/sd/sdtudnsb.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="MrGmaw_SD",XEWT Televisa HD
 https://mrgmaw.github.io/enlaces/sd/sdtvsahd.m3u8
@@ -181,6 +188,8 @@ https://mrgmaw.github.io/enlaces/sd/sdnbc.m3u8
 
 #EXTINF:-1 tvg-chno="3.1" tvg-id="KSNV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="MrGmaw_LV",KSNV NBC 3
 https://mrgmaw.github.io/enlaces/lv/lvnbc3.m3u8
+#EXTINF:-1 tvg-chno="3.1" tvg-id="" tvg-logo="" group-title="MrGmaw_LV",NewsNetSports
+https://mrgmaw.github.io/enlaces/lv/lvnets.m3u8
 #EXTINF:-1 tvg-chno"" tvg-id="" tvg-logo="" group-title="MrGmaw_LV",BeIn extra
 https://mrgmaw.github.io/enlaces/lv/lvbeinx.m3u8
 #EXTINF:-1 tvg-chno"" tvg-id="" tvg-logo="" group-title="MrGmaw_LV",BeIn extra 1
@@ -191,26 +200,28 @@ https://mrgmaw.github.io/enlaces/lv/lvbeinsp.m3u8
 #EXTINF:-1 tvg-chno"26.1" tvg-id="" tvg-logo="" group-title="MrGmaw_FN",KMPH Fox 26
 https://mrgmaw.github.io/enlaces/fn/kmph.m3u8
 #EXTINF:-1 tvg-chno"27.1" tvg-id="KYMBLD.us" tvg-logo="https://media.localbtv.com/images/fresnobtv/logos/metv.png" group-title="MrGmaw_FN",KYMB MeTv
+https://mrgmaw.github.io/enlaces/fn/kymb.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",NBC
+
+#EXTINF:-1 group-title="MrGmaw_XY" tvg-chno="" tvg-id="" tvg-logo="",NBC
 https://mrgmaw.github.io/enlaces/xy/nbcny.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",ABC
+#EXTINF:-1 group-title="MrGmaw_XY" tvg-chno="" tvg-id="" tvg-logo="",ABC
 https://mrgmaw.github.io/enlaces/xy/abcny.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",CBSNewYork
+#EXTINF:-1 group-title="MrGmaw_XY" tvg-chno="" tvg-id="" tvg-logo="",CBSNewYork
 https://mrgmaw.github.io/enlaces/xy/cbsny.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",Fox5NY
+#EXTINF:-1 group-title="MrGmaw_XY" tvg-chno="" tvg-id="" tvg-logo="",Fox5NY
 https://mrgmaw.github.io/enlaces/xy/foxny.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",Deutsche Welle
+#EXTINF:-1 group-title="MrGmaw_XY" tvg-chno="" tvg-id="" tvg-logo="",Deutsche Welle
 https://mrgmaw.github.io/enlaces/xy/dwes.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",RT
+#EXTINF:-1 group-title="MrGmaw_XY" tvg-chno="" tvg-id="" tvg-logo="",RT
 https://mrgmaw.github.io/enlaces/xy/rtes.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",English Club
+#EXTINF:-1 group-title="MrGmaw_XY" tvg-chno="" tvg-id="" tvg-logo="",English Club
 https://mrgmaw.github.io/enlaces/xy/engclb.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",Univision 
+#EXTINF:-1 group-title="MrGmaw_XY" tvg-chno="" tvg-id="" tvg-logo="",Univision 
 https://mrgmaw.github.io/enlaces/xy/univny.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",Telemundo 
+#EXTINF:-1 group-title="MrGmaw_XY" tvg-chno="" tvg-id="" tvg-logo="",Telemundo 
 https://mrgmaw.github.io/enlaces/xy/teleny.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",TF1 
+#EXTINF:-1 group-title="MrGmaw_XY" tvg-chno="" tvg-id="" tvg-logo="",TF1 
 https://mrgmaw.github.io/enlaces/xy/tf1.m3u8
 
 
