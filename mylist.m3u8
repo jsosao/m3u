@@ -203,25 +203,25 @@ https://mrgmaw.github.io/enlaces/fn/kmph.m3u8
 https://mrgmaw.github.io/enlaces/fn/kymb.m3u8
 
 
-#EXTINF:-1 group-title="MrGmaw_XY" tvg-chno="" tvg-id="" tvg-logo="",NBC
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",NBC
 https://mrgmaw.github.io/enlaces/xy/nbcny.m3u8
-#EXTINF:-1 group-title="MrGmaw_XY" tvg-chno="" tvg-id="" tvg-logo="",ABC
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",ABC
 https://mrgmaw.github.io/enlaces/xy/abcny.m3u8
-#EXTINF:-1 group-title="MrGmaw_XY" tvg-chno="" tvg-id="" tvg-logo="",CBSNewYork
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",CBSNewYork
 https://mrgmaw.github.io/enlaces/xy/cbsny.m3u8
-#EXTINF:-1 group-title="MrGmaw_XY" tvg-chno="" tvg-id="" tvg-logo="",Fox5NY
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",Fox5NY
 https://mrgmaw.github.io/enlaces/xy/foxny.m3u8
-#EXTINF:-1 group-title="MrGmaw_XY" tvg-chno="" tvg-id="" tvg-logo="",Deutsche Welle
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",Deutsche Welle
 https://mrgmaw.github.io/enlaces/xy/dwes.m3u8
-#EXTINF:-1 group-title="MrGmaw_XY" tvg-chno="" tvg-id="" tvg-logo="",RT
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",RT
 https://mrgmaw.github.io/enlaces/xy/rtes.m3u8
-#EXTINF:-1 group-title="MrGmaw_XY" tvg-chno="" tvg-id="" tvg-logo="",English Club
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",English Club
 https://mrgmaw.github.io/enlaces/xy/engclb.m3u8
-#EXTINF:-1 group-title="MrGmaw_XY" tvg-chno="" tvg-id="" tvg-logo="",Univision 
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",Univision 
 https://mrgmaw.github.io/enlaces/xy/univny.m3u8
-#EXTINF:-1 group-title="MrGmaw_XY" tvg-chno="" tvg-id="" tvg-logo="",Telemundo 
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",Telemundo 
 https://mrgmaw.github.io/enlaces/xy/teleny.m3u8
-#EXTINF:-1 group-title="MrGmaw_XY" tvg-chno="" tvg-id="" tvg-logo="",TF1 
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",TF1 
 https://mrgmaw.github.io/enlaces/xy/tf1.m3u8
 
 
