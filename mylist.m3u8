@@ -215,33 +215,12 @@ https://mrgmaw.github.io/enlaces/xy/bbcw.m3u8
 
 
 **********************************  https://github.com/angel200881/chann/blob/main/TP.m3u8 ******************************
- 
 ******************************* https://raw.githubusercontent.com/cesarivan2310/Lista/main/Canales ********************************************************************************
-
 ******************************* https://raw.githubusercontent.com/newton181/dATA/main/_mx.m3u8 **********************************************************************
-
 ******************************* https://github.com/PhoenixDreamsCompany/TV_PREMIUM_TOLUCA/blob/main/LAGUERA.m3u  *************************************************
 
-********************************** #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/15sky-logo-Azteca13-2-150x150-6640650.jpg" group-title="newton181",Azteca Uno
-********************************** https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-********************************** #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/azteca-7-175x175-109133825.png" group-title="newton181",Azteca 7
-********************************** https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-********************************** #EXTINF:-1 tvg-logo="https://cdn.imagentv.com/resources/icn2.png" group-title="newton181",Imagen TV
-********************************** https://stream-04.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLr2FGXigla6Hbs1cLlFPF2RgsUgWUG04qZxQzjByV5HF)/dm/3/x82z4if/d/live-0.m3u8
-
-********************************** #EXTINF:-1 tvg-logo="" group-title="Lista TV" group-title="PhoenixDreamsCompany", AZTECA UNO
-********************************** https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-********************************** #EXTINF:-1 tvg-logo="" group-title="Lista TV" group-title="PhoenixDreamsCompany", AZTECA 7
-********************************** https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-********************************** #EXTINF:-1 tvg-logo="" group-title="Lista TV" group-title="PhoenixDreamsCompany", AZTECA 7.2
-********************************** https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-********************************** #EXTINF:-1 tvg-logo="" group-title="Lista TV" group-title="PhoenixDreamsCompany", ADN40
-********************************** https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 ********************************************************************  https://github.com/ccr2310/MX/blob/main/Prueba  *****************************************************
-
-**#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/9966f7cd88549ec590609184270e0501.png" group-title="Cicr23",AZTECA UNO 
-**https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjkz66hj2chpzvab8cp8xtatvh2kkt2hzhack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=7&f=HLS&f=.m3u8
 
 #EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/9966f7cd88549ec590609184270e0501.png" group-title="Ccr2310",AZTECA UNO 
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE05.m3u8
@@ -553,11 +532,10 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
 https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/playlist.m3u8
 
 *********************************************** https://raw.githubusercontent.com/ednar33/newton/main/androtv.m3u *****************************************************
-
 *************************************  https://raw.githubusercontent.com/ednar33/newton/main/AMLO.m3u  ***************************************************
 
-*************************************  https://raw.githubusercontent.com/ednar33/newton/main/v1x.m3u  ***************************************************
 
+*************************************  https://raw.githubusercontent.com/ednar33/newton/main/v1x.m3u  ***************************************************
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="ViX", x
 https://linear-142.frequency.stream/142/hls/master/playlist.m3u8
@@ -707,73 +685,200 @@ https://linear-447.frequency.stream/447/hls/master/playlist.m3u8
 https://linear-448.frequency.stream/448/hls/master/playlist.m3u8
 
 *************************************  https://raw.githubusercontent.com/dann1110/GreatTV/master/TVBOX%202  ***************************************************
-
 **********************   https://raw.githubusercontent.com/4benteveos/Personal/main/Prueba1.m3u ****************************************
 
 ******************************************************  https://github.com/waldmtr3s/waldmtr3s.github.io   **********************************************
 
-#EXTINF:-1 tvg-name="ABC Spark CA" group-title="ViX+",ABC (West)
+#EXTINF:-1 tvg-name="" group-title="ViX+", ABC
+http://v-ny.theus6tv.duckdns.org/hls/7.1/playlist.m3u8
+#EXTINF:-1 tvg-name="ABC Spark CA" group-title="ViX+", ABC (West)
 https://v-ca.mybtv.net/live/119/1280x720.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",ABC HD
+#EXTINF:-1 tvg-name="ABC Spark CA" group-title="ViX+", ABC (West)
+https://v-px.mybtv.net/live/27/1280x720.m3u8
+#EXTINF:-1 tvg-name="" group-title="ViX+", ABC HD
 https://v-ny.mybtv.net/live/554/1280x720.m3u8
-#EXTINF:-1 tvg-name="NBC Buffalo HD CA" group-title="ViX+",NBC (West)
+#EXTINF:-1 tvg-name="NBC Buffalo HD CA" group-title="ViX+", NBC (West)
 https://v-ca.mybtv.net/live/121/1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",NBC
+#EXTINF:-1 tvg-name="NBC Buffalo HD CA" group-title="ViX+", NBC (West)
+https://v-la.mybtv.net/live/82/1920x1080.m3u8
+#EXTINF:-1 tvg-name="NBC Buffalo HD CA" group-title="ViX+", NBC (West)
+https://v-lv.mybtv.net/live/1059/768x432.m3u8
+#EXTINF:-1 tvg-name="NBC Buffalo HD CA" group-title="ViX+", NBC (West)
+https://v-px.mybtv.net/live/55/1920x1080.m3u8
+#EXTINF:-1 tvg-name="" group-title="ViX+", NBC
 https://v-ny.mybtv.net/live/548/1920x1080.m3u8
-
-#EXTINF:-1 tvg-name="CBS Buffalo HD CA" group-title="ViX+",CBS (West)
+#EXTINF:-1 tvg-name="CBS Buffalo HD CA" group-title="ViX+", CBS (West)
 https://v-ca.mybtv.net/live/162/1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",CBS New York HD
+#EXTINF:-1 tvg-name="CBS Buffalo HD CA" group-title="ViX+", CBS
+https://v-px.mybtv.net/live/48/1920x1080.m3u8
+#EXTINF:-1 tvg-name="" group-title="ViX+", CBS New York HD
 https://v-ny.mybtv.net/live/545/1920x1080.m3u8
-#EXTINF:-1 tvg-name="FOX Buffalo HD CA" group-title="ViX+",FOX 5 (West)
+#EXTINF:-1 tvg-name="FOX Buffalo HD CA" group-title="ViX+", FOX 5 (West)
 https://v-px.mybtv.net/live/14/1280x720.m3u8
-#EXTINF:-1 tvg-name="FOX 5 WNYW" group-title="ViX+",FOX 5 WNYW
+#EXTINF:-1 tvg-name="FOX Buffalo HD CA" group-title="ViX+", FOX 5
+https://v-ca.mybtv.net/live/170/1280x720.m3u8
+#EXTINF:-1 tvg-name="FOX 5 WNYW" group-title="ViX+", FOX 5 WNYW
 https://v-ny.mybtv.net/live/550/1280x720.m3u8
 
-#EXTINF:-1 tvg-name="Telemundo Network (West) (TELMUN)" group-title="ViX+",Telemundo LA (op2)
+#EXTINF:-1 tvg-name="Telemundo Network (West) (TELMUN)" group-title="ViX+", Telemundo LA (op2)
 https://v-la.mybtv.net/live/267/1920x1080.m3u8
-#EXTINF:-1 tvg-name="TELEMUNDO" group-title="ViX+",Telemundo NY (op2)
+#EXTINF:-1 tvg-name="Telemundo Network (West) (TELMUN)" group-title="ViX+", Telemundo
+https://v-ca.mybtv.net/live/140/1920x1080.m3u8
+#EXTINF:-1 tvg-name="" group-title="ViX+", Telemundo
+https://v-px.mybtv.net/live/39/1920x1080.m3u8
+#EXTINF:-1 tvg-name="TELEMUNDO" group-title="ViX+", Telemundo NY (op2)
 https://v-ny.mybtv.net/live/659/1920x1080.m3u8
-#EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)" group-title="ViX+",EstrellaTv LA (op2)
+#EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)" group-title="ViX+", EstrellaTv LA (op2)
 https://v-la.mybtv.net/live/112/1280x720.m3u8
-#EXTINF:-1 tvg-name="Estrella TV (East) (ESTRELLA)" group-title="ViX+",EstrellaTv NY (op2)
+#EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)" group-title="ViX+", EstrellaTv
+https://v-ca.mybtv.net/live/137/768x432.m3u8
+#EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)" group-title="ViX+", EstrellaTv
+https://v-sd.mybtv.net/live/490/1280x720.m3u8
+#EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)" group-title="ViX+", EstrellaTv
+https://v-fn.mybtv.net/live/887/1280x720.m3u8
+#EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)" group-title="ViX+", EstrellaTv
+https://v-lv.mybtv.net/live/1015/1280x720.m3u8
+#EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)" group-title="ViX+", EstrellaTv
+https://v-px.mybtv.net/live/45/1280x720.m3u8
+#EXTINF:-1 tvg-name="Estrella TV (East) (ESTRELLA)" group-title="ViX+", EstrellaTv NY (op2)
 https://v-ny.mybtv.net/live/650/640x480.m3u8
-#EXTINF:-1 tvg-name="Estrella TV (East) (ESTRELLA)" group-title="ViX+",EstrellaTv IN (op2)
+#EXTINF:-1 tvg-name="Estrella TV (East) (ESTRELLA)" group-title="ViX+", EstrellaTv IN (op2)
 https://v-in.mybtv.net/live/845/1280x720.m3u8
-#EXTINF:-1 tvg-name="Azteca America Network (East) (AZTECA)" group-title="ViX+",Azteca America NY (op2)
+#EXTINF:-1 tvg-name="Azteca America Network (East) (AZTECA)" group-title="ViX+", Azteca America NY (op2)
 https://v-ny.mybtv.net/live/645/1280x720.m3u8
-#EXTINF:-1 tvg-name="Azteca America Network (West) (AZTECA)" group-title="ViX+",Azteca America SD (op2)
+#EXTINF:-1 tvg-name="Azteca America Network (West) (AZTECA)" group-title="ViX+", Azteca America
+https://v-ca.mybtv.net/live/731/1280x720.m3u8
+#EXTINF:-1 tvg-name="Azteca America Network (West) (AZTECA)" group-title="ViX+", Azteca America
+https://v-la.mybtv.net/live/107/1280x720.m3u8
+#EXTINF:-1 tvg-name="Azteca America Network (West) (AZTECA)" group-title="ViX+", Azteca America
+https://v-lv.mybtv.net/live/1028/1280x720.m3u8
+#EXTINF:-1 tvg-name="Azteca America Network (West) (AZTECA)" group-title="ViX+", Azteca America
+https://v-px.mybtv.net/live/41/1280x720.m3u8
+#EXTINF:-1 tvg-name="Azteca America Network (West) (AZTECA)" group-title="ViX+", Azteca America SD (op2)
 https://v-sd.mybtv.net/live/508/1920x1080.m3u8
-#EXTINF:-1 tvg-name="UNIMÁS" group-title="ViX+",Unimas NY (op2)
+#EXTINF:-1 tvg-name="UNIMÁS" group-title="ViX+", Unimas NY (op2)
 https://v-ny.mybtv.net/live/713/1280x720.m3u8
-#EXTINF:-1 tvg-name="UniMás HDTV (Pacific) (UMAS)" group-title="ViX+",Unimas LA (op2)
+#EXTINF:-1 tvg-name="UniMás HDTV (Pacific) (UMAS)" group-title="ViX+", Unimas LA (op2)
 https://v-la.mybtv.net/live/299/1280x720.m3u8
-#EXTINF:-1 tvg-name="UNIVISION" group-title="ViX+",Univision LA (op2)
+#EXTINF:-1 tvg-name="UniMás HDTV (Pacific) (UMAS)" group-title="ViX+", Unimas
+https://v-la.mybtv.net/live/168/768x432.m3u8
+#EXTINF:-1 tvg-name="UniMás HDTV (Pacific) (UMAS)" group-title="ViX+", Unimas
+https://v-ca.mybtv.net/live/147/1280x720.m3u8
+#EXTINF:-1 tvg-name="UniMás HDTV (Pacific) (UMAS)" group-title="ViX+", Unimas
+https://v-px.mybtv.net/live/201/1280x720.m3u8
+#EXTINF:-1 tvg-name="UNIVISION" group-title="ViX+", Univision LA (op2)
 https://v-la.mybtv.net/live/178/1920x1080.m3u8
-#EXTINF:-1 tvg-name="Univision Network HDTV (UNIHD)" group-title="ViX+",Univision NY (op2)
+#EXTINF:-1 tvg-name="UNIVISION" group-title="ViX+", Univision
+https://v-ca.mybtv.net/live/148/1280x720.m3u8
+#EXTINF:-1 tvg-name="UNIVISION" group-title="ViX+", Univision
+https://v-ca.mybtv.net/live/163/1280x720.m3u8
+#EXTINF:-1 tvg-name="UNIVISION" group-title="ViX+", Univision
+https://v-px.mybtv.net/live/28/1920x1080.m3u8
+#EXTINF:-1 tvg-name="Univision Network HDTV (UNIHD)" group-title="ViX+", Univision NY (op2)
 https://v-ny.mybtv.net/live/643/1280x720.m3u8
-
-#EXTINF:-1 tvg-name="" group-title="ViX+",Univision MI (op2)
+#EXTINF:-1 tvg-name="" group-title="ViX+", Univision MI (op2)
 https://linear-424.frequency.stream/424/hls/master/playlist_1920x1080.m3u8
-
-#EXTINF:-1 tvg-name="" group-title="ViX+",UNIVISION
+#EXTINF:-1 tvg-name="Televisa" group-title="ViX+", Televisa (SamsungTv) (Italia)
+https://televisa-televisa-1-it.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-name="" group-title="ViX+", TELEMUNDO
+http://71.187.29.54:8000/play/a07a/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="ViX+", Telemundo Network (East) (TELMUN)
+https://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/index_2_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-name="" group-title="ViX+", Estrella TV (East) (ESTRELLA)
+https://estrellatv-roku.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-name="" group-title="ViX+", Azteca America Network (East) (AZTECA)
+http://71.187.29.54:8000/play/a08g/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="ViX+", UNIMÁS
+http://71.187.29.54:8000/play/a08b/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="ViX+", UNIVISION
 http://71.187.29.54:8000/play/a07t/index.m3u8
-
-#EXTINF:-1 tvg-name="" group-title="ViX+",Las Estrellas TJ
-https://v-sd.mybtv.net/live/497/1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Las Estrellas (VIX)
+#EXTINF:-1 tvg-name="XEW Las Estrellas DF (LASESTRE)" group-title="ViX+", Las Estrellas
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=17&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
+#EXTINF:-1 tvg-name="" group-title="ViX+", Las Estrellas (VIX)
 https://linear-413.frequency.stream/413/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Las Estrellas -1 (VIX)
+#EXTINF:-1 tvg-name="" group-title="ViX+", Las Estrellas TJ
+https://v-sd.mybtv.net/live/497/1920x1080.m3u8
+#EXTINF:-1 tvg-name="" group-title="ViX+", Las Estrellas -1 (VIX)
 https://linear-414.frequency.stream/414/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Las Estrellas -2 (VIX)
+#EXTINF:-1 tvg-name="" group-title="ViX+", Las Estrellas -2 (VIX)
 https://linear-415.frequency.stream/415/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Foro TV (VIX)
+#EXTINF:-1 tvg-name="" group-title="ViX+", Foro TV (FOROTV)
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=19&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
+#EXTINF:-1 tvg-name="" group-title="ViX+", Foro TV (VIX)
 https://linear-300.frequency.stream/300/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",N+ (VIX)
+#EXTINF:-1 tvg-name="" group-title="ViX+", N+ (VIX)
 https://linear-301.frequency.stream/301/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Canal 5 (VIX)
-https://linear-351.frequency.stream/351/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+",Canal 5 TJ
-https://v-sd.mybtv.net/live/486/1920x1080.m3u8
+#EXTINF:-1 tvg-name="" group-title="ViX+", Imagen Tv
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2353&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
+#EXTINF:-1 tvg-name="" group-title="ViX+", Imagen Tv (YT)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCl5JKSQsl-_WSU1rz7_BCJA/live
+#EXTINF:-1 tvg-name="Multimedios Plus" group-title="ViX+", Canal 6 Mty
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2305&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
+#EXTINF:-1 tvg-name="" group-title="ViX+", Multimedios Mty
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-name="" group-title="ViX+", Multimedios Mty (YT)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCo1nfa1JKNqtcUyLjLwTiIw/live
+#EXTINF:-1 tvg-name="" group-title="ViX+", Multimedios Cdmx
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1253&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
+#EXTINF:-1 tvg-name="" group-title="ViX+", Multimedios Gdl
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 tvg-name="" group-title="ViX+", Multimedios Laguna
+http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 tvg-name="" group-title="ViX+", Multimedios TJ
+https://cdn87.theus6tv.tk/locals/SanDiego/xhbj-tdt.m3u8
+#EXTINF:-1 tvg-name="" group-title="ViX+", Multimedios TJ
+https://v-sd.mybtv.net/live/515/1920x1080.m3u8
+#EXTINF:-1 tvg-name="" group-title="ViX+", Multimedios Costa Rica
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1 tvg-name="" group-title="ViX+", RCN
+http://190.61.43.119:45000/play/a039
+#EXTINF:-1 tvg-name="" group-title="ViX+", RCN
+http://190.61.43.117:45000/play/a039
+#EXTINF:-1 tvg-name="" group-title="ViX+", RCN
+http://181.78.12.166:9000/play/a047
+#EXTINF:-1 tvg-name="" group-title="ViX+", RCN
+http://45.233.169.25:8000/play/a021
+#EXTINF:-1 tvg-name="" group-title="ViX+", RCN
+http://201.244.106.58:8990/play/a01b/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="ViX+", RCN
+http://190.61.43.119:45000/play/a039
+#EXTINF:-1 tvg-name="" group-title="ViX+", RCN
+http://190.61.43.117:45000/play/a039
+#EXTINF:-1 tvg-name="" group-title="ViX+", RCN
+http://190.61.43.117:45000/play/a039
+#EXTINF:-1 tvg-name="" group-title="ViX+", RCN
+http://45.232.211.196:1080/play/a059
+#EXTINF:-1 tvg-name="" group-title="ViX+", RCN
+http://186.5.31.251:8000/play/a0df/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="ViX+", CaracolTV
+http://190.61.40.190:45000/play/a038
+#EXTINF:-1 tvg-name="" group-title="ViX+", CaracolTV
+http://181.78.12.166:9000/play/a05v
+#EXTINF:-1 tvg-name="" group-title="ViX+", CaracolTV
+http://45.233.169.25:8000/play/a00b
+#EXTINF:-1 tvg-name="" group-title="ViX+", CaracolTV
+http://190.61.43.119:45000/play/a038
+#EXTINF:-1 tvg-name="" group-title="ViX+", CaracolTV
+http://190.61.43.117:45000/play/a038
+#EXTINF:-1 tvg-name="" group-title="ViX+", CaracolTV
+http://190.61.43.117:45000/play/a038
+#EXTINF:-1 tvg-name="" group-title="ViX+", CaracolTV
+http://186.5.31.251:8000/play/a0de/index.m3u8
+
+#EXTINF:-1 tvg-name="TUDN México" tvg-ID="TUDNMexico.mx" group-title="ViX+", TUDN
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=174&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
+#EXTINF:-1 tvg-name="" group-title="ViX+", Zona TUDN (VIX) op2
+https://linear-357.frequency.stream/dist/localnow/357/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-name="" group-title="ViX+", Zona TUDN (VIX) op3
+https://linear-356.frequency.stream/dist/localnow/356/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-name="" group-title="ViX+", Zona Futbol TUDN (VIX)
+https://linear-374.frequency.stream/dist/localnow/374/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" group-title="ViX+", Afizzionados (VIX)
+https://linear-348.frequency.stream/348/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-name="" group-title="ViX+", Afizzionados (VIX) op2
+https://linear-348.frequency.stream/dist/localnow/348/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-name="" group-title="ViX+", La Liga Premier | Paramount+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
