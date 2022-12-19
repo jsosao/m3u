@@ -1,36 +1,11 @@
 #EXTM3U
 
-*********************  12/DIC/2022  ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... *************************
+*********************  19/DIC/2022  ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... *************************
 *********************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ****************************************
 
 ******************* https://raw.githubusercontent.com/jsosao/iptv/blob/master/streams/us.m3u ****************************
-
 **********************************  https://raw.githubusercontent.com/jsosao/iptv/master/streams/us_localbtv.m3u ******************************
 
-********************************** #EXTINF:-1 group-title="IPTV ORG_3.us",KYW-DT1 (CBS 3) (1080p)
-********************************** http://v-pi.theus6tv.duckdns.org/hls/3.1/playlist.m3u8
-********************************** #EXTINF:-1 group-title="IPTV ORG_3.us",WABC-DT1 (ABC 7) (720p)
-********************************** http://v-ny.theus6tv.duckdns.org/hls/7.1/playlist.m3u8
-********************************** #EXTINF:-1 group-title="IPTV ORG_3.us",WABC-DT2 (Localish)
-********************************** http://v-ny.theus6tv.duckdns.org/hls/7.2/playlist.m3u8
-********************************** #EXTINF:-1 group-title="IPTV ORG_3.us",WCAU-DT1 (NBC 10) (1080p)
-********************************** http://v-pi.theus6tv.duckdns.org/hls/10.1/playlist.m3u8
-********************************** #EXTINF:-1 group-title="IPTV ORG_3.us",WCBS-DT1 (CBS 2) (1080p)
-********************************** http://v-ny.theus6tv.duckdns.org/hls/2.1/playlist.m3u8
-********************************** #EXTINF:-1 group-title="IPTV ORG_3.us",WFUT-DT1 (Unimas Nueva York)
-********************************** http://v-ny.theus6tv.duckdns.org/hls/68.1/playlist.m3u8
-********************************** #EXTINF:-1 group-title="IPTV ORG_3.us",WDPN-DT5 (Retro TV) (432p)
-********************************** http://v-pi.theus6tv.duckdns.org/hls/2.5/playlist.m3u8
-********************************** #EXTINF:-1 group-title="IPTV ORG_3.us",WNJU-DT1 (Telemundo 47)
-********************************** http://v-ny.theus6tv.duckdns.org/hls/47.1/playlist.m3u8
-********************************** #EXTINF:-1 group-title="IPTV ORG_3.us",WNYW-DT1 (FOX 5) (720p)
-********************************** http://v-ny.theus6tv.duckdns.org/hls/5.1/playlist.m3u8
-********************************** #EXTINF:-1 group-title="IPTV ORG_3.us",WPIX-DT4 (Rewind TV) (480p)
-********************************** http://v-ny.theus6tv.duckdns.org/hls/11.4/playlist.m3u8
-********************************** #EXTINF:-1 group-title="IPTV ORG_3.us",WPVI-DT1 (ABC 6) (720p)
-********************************** http://v-pi.theus6tv.duckdns.org/hls/6.1/playlist.m3u8
-********************************** #EXTINF:-1 group-title="IPTV ORG_3.us",WTXF-DT1 (FOX 29) (720p)
-********************************** http://v-pi.theus6tv.duckdns.org/hls/29.1/playlist.m3u8
 
 ******************************  https://raw.githubusercontent.com/MrGmaw/enlaces/23314219af19afea9b0fea8339edfd5a47c47ad2/playlist.m3u *************************
 
@@ -77,10 +52,21 @@ https://mrgmaw.github.io/enlaces/px/pxnbc.m3u8
 https://mrgmaw.github.io/enlaces/px/pxdjt.m3u8
 #EXTINF:-1 tvg-chno="67.1" tvg-id="KDJTDT1.us" tvg-logo="https://pbs.twimg.com/profile_images/630065202315292672/3DWYcjyQ_400x400.jpg" group-title="MrGmaw_PX",KDJT Unimas
 https://mrgmaw.github.io/enlaces/px/pxdjt1.m3u8
-#EXTINF:-1 tvg-chno="67.1" tvg-id="KSAZDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/320px-FOX_wordmark.svg.png" group-title="MrGmaw_PX",KSAZ fox
+#EXTINF:-1 tvg-chno="67.1" tvg-id="KSAZDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/320px-FOX_wordmark.svg.png" group-title="MrGmaw_PX",KSAZ fox10
 https://mrgmaw.github.io/enlaces/px/pxfox.m3u8
+#EXTINF:-1 tvg-chno="67.1" tvg-id="KSAZDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/320px-FOX_wordmark.svg.png" group-title="MrGmaw_PX",KSAZ fox10
+https://mrgmaw.github.io/enlaces/px/pxfox1.m3u8
+#EXTINF:-1 tvg-chno="40.1" tvg-id="KEJRLD.us" tvg-logo="https://media-usla.mybtv.net/logos/57.1.png" group-title="MrGmaw_PX",Azteca América
+https://mrgmaw.github.io/enlaces/px/pxazam.m3u8
 #EXTINF:-1 tvg-chno="39.1" tvg-id="KTAZDT1.us" tvg-logo="https://static.epg.best/mx/Telemundo.mx.png" group-title="MrGmaw_PX",KTAZ Telemundo
 https://mrgmaw.github.io/enlaces/px/pxtaz.m3u8
+
+#EXTINF:-1 tvg-chno="51.1" tvg-id="KPPXDT1.us" tvg-logo="https://cdn.blog.tdstelecom.com/wp-content/uploads/2017/08/Ion-tv.jpg" group-title="MrGmaw_PX",ION
+https://mrgmaw.github.io/enlaces/px/pxion.m3u8
+#EXTINF:-1 tvg-chno="8.1" tvg-id="KAETDT1.us" tvg-logo="https://image.pbs.org/bento3-prod/kwcm-bento-live-pbs/Logos/PBS%20National/PBS%20logo/aaac26c5b7_PBS_P-Head-01.png" group-title="MrGmaw_PX",PBS
+https://mrgmaw.github.io/enlaces/px/pxpbs.m3u8
+
+
 
 #EXTINF:-1 tvg-chno="7.1" tvg-id="KABCDT1.us" tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png" group-title="MrGmaw_LA",KABC abc7
 https://mrgmaw.github.io/enlaces/la/laabc.m3u8
@@ -223,6 +209,9 @@ https://mrgmaw.github.io/enlaces/xy/univny.m3u8
 https://mrgmaw.github.io/enlaces/xy/teleny.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",TF1 
 https://mrgmaw.github.io/enlaces/xy/tf1.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",BBC World
+https://mrgmaw.github.io/enlaces/xy/bbcw.m3u8
 
 
 **********************************  https://github.com/angel200881/chann/blob/main/TP.m3u8 ******************************
