@@ -3,33 +3,53 @@
 *********************  19/DIC/2022  ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... *************************
 *********************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ****************************************
 
-******************* https://raw.githubusercontent.com/jsosao/iptv/blob/master/streams/us.m3u ****************************
-**********************************  https://raw.githubusercontent.com/jsosao/iptv/master/streams/us_localbtv.m3u ******************************
-
 
 *****************************************  https://github.com/pcouillard/iptv/blob/main/iptv.m3u ***************************************
+#EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="Pcouillard_USA",AMC Presents
+https://amc-amcpresents-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="Pcouillard_USA",AMC Rush
+https://amc-rushbyamc-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="Pcouillard_USA",AMC TWD1
+https://amc-twdtv14-1-us.samsung.wurl.tv/3000.m3u8
+#EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="Pcouillard_USA",AMC TWD2
+https://amc-twdfanexperience-1-us.plex.wurl.tv/4300.m3u8
 
-#EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://rndserv.xyz/img/usa.png" group-title="Pcouillard_USA",USA Network
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/usa.network.east.us.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-id="ionMystery" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="Pcouillard_USA",iON Mystery
+https://linear-436.frequency.stream/436/hls/master/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://rndserv.xyz/img/ion.png" group-title="Pcouillard_USA",iON Plus
 https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="TNTEast.us" tvg-name="TNT (East)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xvL9KPI.png" group-title="Pcouillard_USA",TNT (East)
-https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="TNTWest.us" tvg-name="TNT (West)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xvL9KPI.png" group-title="Pcouillard_USA",TNT (West)
-https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="TBSEast.us" tvg-name="TBS (East)" tvg-country="US" tvg-language="English" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tbs_east.png" group-title="Pcouillard_USA",TBS (East)
-https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TBS-West" tvg-country="" tvg-language="English" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tbs_east.png" group-title="Pcouillard_USA",TBS (West)
-https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-chno="166" tvg-id="USANetworkEast.us" tvg-name="USA Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="Pcouillard_USA",USA Network
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/usa.network.east.us.m3u8
 #EXTINF:-1 tvg-chno="212" tvg-id="ParamountNetworkEast.us" tvg-name="Paramount Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11163_dark_360w_270h.png" group-title="Pcouillard_USA",Paramount Network
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/paramount.network.usa.eastern.us.m3u8
 
-*************************************** https://github.com/bitsbb01/ustvgotom3u/blob/12087f460411b78b8068d881e01322017d876dc3/ustvgo.m3u *******************************
 
-#EXTINF:-1 tvg-id="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ABC_%282013%29_Dark_Grey.svg" group-title="Bitsbb01_ustvgo", ABC
-https://h5.ustvgo.la/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTkvMjAyMiAyOjA4OjMyIFBNJmhhc2hfdmFsdWU9Y09HNXhPU0ZSMDRqVW5mQVlDWEJxUT09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF:-1 tvg-chno="260" tvg-id="HBOEast.us" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="Pcouillard_USA",HBO
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.eastern.us.m3u8
+#EXTINF:-1 tvg-chno="261" tvg-id="HBO2East.us" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10241_dark_360w_270h.png" group-title="Pcouillard_USA",HBO 2
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.2.eastern.us.m3u8
+#EXTINF:-1 tvg-chno="262" tvg-id="HBOSignatureEast.us" tvg-name="HBO Signature" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10243_dark_360w_270h.png" group-title="Pcouillard_USA",HBO Signature
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.signature.hbo.3.eastern.us.m3u8
+#EXTINF:-1 tvg-chno="263" tvg-id="HBOFamilyEast.us" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="Pcouillard_USA",HBO Family
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.family.eastern.us.m3u8
+#EXTINF:-1 tvg-chno="264" tvg-id="HBOComedyEast.us" tvg-name="HBO Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="Pcouillard_USA",HBO Comedy
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.comedy.east.us.m3u8
+#EXTINF:-1 tvg-chno="265" tvg-id="HBOZoneEast.us" tvg-name="HBO Zone" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="Pcouillard_USA",HBO Zone
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.zone.east.us.m3u8
+#EXTINF:-1 tvg-chno="266" tvg-id="CinemaxEast.us" tvg-name="CINEMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10120_dark_360w_270h.png" group-title="Pcouillard_USA",CINEMAX
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/cinemax.eastern.us.m3u8
+#EXTINF:-1 tvg-chno="267" tvg-id="ActionMaxEast.us" tvg-name="ActionMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59948_dark_360w_270h.png" group-title="Pcouillard_USA",ActionMAX
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/actionmax.eastern.us.m3u8
+#EXTINF:-1 tvg-chno="268" tvg-id="5StarMaxEast.us" tvg-name="5 Star MAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25620_dark_360w_270h.png" group-title="Pcouillard_USA",5 Star MAX
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/5.star.max.eastern.us.m3u8
+#EXTINF:-1 tvg-chno="269" tvg-id="ThrillerMaxEast.us" tvg-name="ThrillerMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59954_dark_360w_270h.png" group-title="Pcouillard_USA",ThrillerMAX
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/thrillermax.east.us.m3u8
+#EXTINF:-1 tvg-chno="270" tvg-id="MoreMaxEast.us" tvg-name="MoreMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10121_dark_360w_270h.png" group-title="Pcouillard_USA",MoreMAX
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/moremax.eastern.us.m3u8
+#EXTINF:-1 tvg-chno="271" tvg-id="MovieMaxEast.us" tvg-name="MovieMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59963_dark_360w_270h.png" group-title="Pcouillard_USA",MovieMAX
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/moviemax.us.m3u8
+#EXTINF:-1 tvg-chno="272" tvg-id="OuterMaxEast.us" tvg-name="OuterMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25622_dark_360w_270h.png" group-title="Pcouillard_USA",OuterMAX
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/outermax.eastern.us.m3u8
 
 
 ******************************  https://raw.githubusercontent.com/MrGmaw/enlaces/23314219af19afea9b0fea8339edfd5a47c47ad2/playlist.m3u *************************
