@@ -869,6 +869,10 @@ http://190.61.43.117:45000/play/a039
 http://45.232.211.196:1080/play/a059
 #EXTINF:-1 tvg-name="" group-title="ViX+", RCN
 http://186.5.31.251:8000/play/a0df/index.m3u8
+
+#EXTINF:-1 tvg-id="CO | RCN Xtra" tvg-name="CO | RCN Xtra" tvg-logo="https://pbs.twimg.com/media/Fj6XrAoXwAAOLKg?format=png&name=120x120" group-title="ViX+", 427.3 | RCN Xtra || COLOMBIA
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-name="" group-title="ViX+", CaracolTV
 http://190.61.40.190:45000/play/a038
 #EXTINF:-1 tvg-name="" group-title="ViX+", CaracolTV
@@ -883,3 +887,23 @@ http://190.61.43.117:45000/play/a038
 http://190.61.43.117:45000/play/a038
 #EXTINF:-1 tvg-name="" group-title="ViX+", CaracolTV
 http://186.5.31.251:8000/play/a0de/index.m3u8
+
+**********************************   https://github.com/bodegaacuenta/Cableastral/blob/cb25f7909263c690a7ff71a5ba30e9ec8bb1a21f/TVporcableiptv  ***********************
+
+#EXTINF:-1 tvg-id="USA | Fox Sports 2" tvg-name="USA | Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png" group-title="TVporcableiptv_DEPORTES", 204 | Fox Sports 2
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=497416035&_cdn_timestamp=1671741046&_cdn_token=4fe5c30585e9182cd5c9ee6b1fb212ffdb9448fa
+#EXTINF:-1 tvg-id="USA | Fox Sports 3" tvg-name="USA | Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/180px-Fox_sports_3_logo.svg.png" group-title="TVporcableiptv_DEPORTES", 205 | Fox Sports 3
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=497416275&_cdn_timestamp=1671741059&_cdn_token=e282233d0df43345edbababe1caa6ee1677a76cf
+#EXTINF:-1 tvg-id="USA | ESPN" tvg-name="USA | ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="TVporcableiptv_DEPORTES", 206 | ESPN
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=497416531&_cdn_timestamp=1671741074&_cdn_token=122f361e8a7fc0024664d26abf2c54d3e850a431
+#EXTINF:-1 tvg-id="USA | ESPN 2" tvg-name="USA | ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="TVporcableiptv_DEPORTES", 207 | ESPN 2
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=497416731&_cdn_timestamp=1671741088&_cdn_token=36598da28046dc8e86d3a069a495863df7d891fe
+#EXTINF:-1 tvg-id="USA | ESPN 3" tvg-name="USA | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="TVporcableiptv_DEPORTES", 208 | ESPN 3
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=497416939&_cdn_timestamp=1671741105&_cdn_token=fc949e46de6876723e9f0505e9bc52fba2a41855
+#EXTINF:-1 tvg-id="USA | ESPN 4" tvg-name="USA | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png" group-title="TVporcableiptv_DEPORTES", 209 | ESPN 4
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=497417203&_cdn_timestamp=1671741122&_cdn_token=42ab876397a58554aae7b5ab06af3cdfee2ecf10
+#EXTINF:-1 tvg-id="USA | ESPN Extra" tvg-name="USA | ESPN Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/190px-ESPN_Extra_Logo_2022.webp.png" group-title="TVporcableiptv_DEPORTES", 210 | ESPN Extra
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPNMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPNMAS2_stream_l4&_cdn_session=497417411&_cdn_timestamp=1671741140&_cdn_token=5f8265b835823d1d8d2f7d1829b3a09465f4f484
+#EXTINF:-1 tvg-id="GT | Tigo Sports" tvg-name="GT | Tigo Sports" tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="TVporcableiptv_DEPORTES", 216 | Tigo Sports
+https://w3ertgfdsawerty8765432qwsdfghjsaw4.tunelive.net:3368/stream/play.m3u8
+
