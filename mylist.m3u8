@@ -265,7 +265,7 @@ https://mrgmaw.github.io/enlaces/xy/bbcw.m3u8
 ******************************* https://github.com/PhoenixDreamsCompany/TV_PREMIUM_TOLUCA/blob/main/LAGUERA.m3u  *************************************************
 
 
-********************************************************************  https://github.com/ccr2310/MX/blob/main/Prueba  *****************************************************
+******************************************************  https://github.com/ccr2310/MX/blob/main/Prueba  *****************************************************
 
 #EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/9966f7cd88549ec590609184270e0501.png" group-title="Ccr2310",AZTECA UNO 
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE05.m3u8
@@ -889,6 +889,36 @@ http://190.61.43.117:45000/play/a038
 http://186.5.31.251:8000/play/a0de/index.m3u8
 
 **********************************   https://github.com/bodegaacuenta/Cableastral/blob/cb25f7909263c690a7ff71a5ba30e9ec8bb1a21f/TVporcableiptv  ***********************
+#EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="TVporcableiptv_PERU", 5 | Panamericana Televisión
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=502677595&_cdn_timestamp=1671974911&_cdn_token=5f2c5f88d7008e26ef348d1003ceb88e7b90a666
+#EXTINF:-1 tvg-id="CO | RCN Novelas" tvg-name="CO | RCN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/205px-RCN_Novelas_logo_2019.png" group-title="TVporcableiptv_COLOMBIA", 57 | RCN Novelas
+http://45.179.164.9:8000/play/a041/index.m3u8
+#EXTINF:-1 tvg-id="CO | RCN" tvg-name="CO | RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/140px-Canal_RCN_logo_%282%29.svg.png" group-title="TVporcableiptv_COLOMBIA", 427 | RCN || COLOMBIA
+http://181.119.67.75:8000/play/CH60
+#EXTINF:-1 tvg-id="CO | RCN+" tvg-name="CO | RCN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/RCN_HD2_2019.png/200px-RCN_HD2_2019.png" group-title="TVporcableiptv_COLOMBIA", 427.2 | RCN+ || COLOMBIA
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CO | RCN Xtra" tvg-name="CO | RCN Xtra" tvg-logo="https://pbs.twimg.com/media/Fj6XrAoXwAAOLKg?format=png&name=120x120" group-title="TVporcableiptv_COLOMBIA", 427.3 | RCN Xtra || COLOMBIA
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CO | Canal Caracol" tvg-name="CO | Canal Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="TVporcableiptv_COLOMBIA", 428 | Canal Caracol || COLOMBIA
+http://181.119.67.75:8000/play/CH59
+#EXTINF:-1 tvg-id="CO | Noticias Caracol" tvg-name="CO | Noticias Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/150px-Noticias_Caracol_imagotype.svg.png" group-title="TVporcableiptv_COLOMBIA", 428.2 | Noticias Caracol || COLOMBIA
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/NOTICIASCARACOL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNOTICIASCARACOL_stream_93&_cdn_session=498488075&_cdn_timestamp=1671800732&_cdn_token=18ae7a86cdf370896c0888a209ab26d024a0091f
+
+#EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-name="EC | Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/200px-Ecuavisa_Logo_2019.png" group-title="TVporcableiptv_ECUADOR", 403 | Ecuavisa || ECUADOR
+http://200.24.132.99:8000/play/a012
+
+#EXTINF:-1 tvg-id="UY | Canal 4" tvg-name="UY | Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Canal4_uy.png/150px-Canal4_uy.png" group-title="TVporcableiptv_URUGUAY", 582 | Canal 4 || URUGUAY
+http://nv1connect.com:80/live/3546366/773773/91916.m3u8
+
+#EXTINF:-1 tvg-id="PY | Trece" tvg-name="PY | Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/100px-Logotrececanal.png" group-title="TVporcableiptv_PARAGUAY", 599 | Trece || PARAGUAY
+https://streaming.trece.com.py/live/trece.m3u8
+
+#EXTINF:-1 tvg-id="PA | TVMax" tvg-name="PA | TVMax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png" group-title="TVporcableiptv_PANAMÁ", 608 | TVMax || PANAMÁ
+http://45.236.28.72:8000/play/a0fz/index.m3u8
+
+#EXTINF:-1 tvg-id="USA | FOX 10 Phoenix" tvg-name="USA | FOX 10 Phoenix" tvg-logo="https://azopera.org/sites/default/files/media_outlets/placeholder-16x9.jpg" group-title="TVporcableiptv_USA", En prueba | FOX 10 Phoenix || ESTADOS UNIDOS DE AMÉRICA
+https://v-px.mybtv.net/live/14.m3u8
+
 
 #EXTINF:-1 tvg-id="USA | Fox Sports 2" tvg-name="USA | Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png" group-title="TVporcableiptv_DEPORTES", 204 | Fox Sports 2
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=497416035&_cdn_timestamp=1671741046&_cdn_token=4fe5c30585e9182cd5c9ee6b1fb212ffdb9448fa
@@ -906,4 +936,5 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPNMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPNMAS2_stream_l4&_cdn_session=497417411&_cdn_timestamp=1671741140&_cdn_token=5f8265b835823d1d8d2f7d1829b3a09465f4f484
 #EXTINF:-1 tvg-id="GT | Tigo Sports" tvg-name="GT | Tigo Sports" tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="TVporcableiptv_DEPORTES", 216 | Tigo Sports
 https://w3ertgfdsawerty8765432qwsdfghjsaw4.tunelive.net:3368/stream/play.m3u8
+
 
