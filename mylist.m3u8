@@ -570,36 +570,15 @@ https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/playlist
 *************************************  https://raw.githubusercontent.com/ednar33/newton/main/v1x.m3u  ***************************************************
 
 *************************************  PROPIOS  ***************************************************
-#EXTINF:-1 group-title="ViX", Lo Mejor de la Liga MX 
-https://linear-193.frequency.stream/dist/localnow/193/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", N+
-https://linear-301.frequency.stream/dist/vix/301/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", Weather Channel Español
-https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", VEVO Latino
-https://linear-494.frequency.stream/494/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", VEVO Ingles
-https://linear-495.frequency.stream/495/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", VEVO Reggeton
-https://linear-388.frequency.stream/388/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", VEVO Ingles 2
-https://linear-389.frequency.stream/389/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="ViX", Zona TUDN
-https://linear-357.frequency.stream/dist/vix/357/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", TUDN 1
-https://linear-360.frequency.stream/dist/vix/360/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", TUDN 2
-https://linear-361.frequency.stream/dist/vix/361/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", TUDN 3
-https://linear-362.frequency.stream/dist/vix/362/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", Bandamax
-https://linear-400.frequency.stream/dist/vix/400/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", BitMe
-https://linear-401.frequency.stream/dist/vix/401/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", Canal 4
+#EXTINF:-1 group-title="ViX", LAS ESTRELLAS
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", LAS ESTRELLAS -1H
+https://linear-414.frequency.stream/dist/vix/414/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", LAS ESTRELLAS -2H
+https://linear-415.frequency.stream/dist/vix/415/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", Canal 4 GDL
 https://linear-402.frequency.stream/dist/vix/402/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", Canal 8
+#EXTINF:-1 group-title="ViX", Canal 8 MTY
 https://linear-403.frequency.stream/dist/vix/403/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", DPelicula Plus
 https://linear-404.frequency.stream/dist/vix/404/hls/master/playlist.m3u8
@@ -617,12 +596,6 @@ https://linear-409.frequency.stream/dist/vix/409/hls/master/playlist.m3u8
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", GOLDEN PREMIER
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", LAS ESTRELLAS -1H
-https://linear-414.frequency.stream/dist/vix/414/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", LAS ESTRELLAS -2H
-https://linear-415.frequency.stream/dist/vix/415/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", LAS ESTRELLAS
-https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", TELEHIT
 https://linear-417.frequency.stream/dist/vix/417/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", TELEHIT PLUS
@@ -631,17 +604,44 @@ https://linear-418.frequency.stream/dist/vix/418/hls/master/playlist.m3u8
 https://linear-419.frequency.stream/dist/vix/419/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", TLNOVELAS
 https://linear-421.frequency.stream/dist/vix/421/hls/master/playlist.m3u8
-
+#EXTINF:-1 group-title="ViX", Bandamax
+https://linear-400.frequency.stream/dist/vix/400/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", BitMe
+https://linear-401.frequency.stream/dist/vix/401/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", TELEHIT
+https://linear-479.frequency.stream/dist/vix/479/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", LO MAS VIXTO
+https://linear-446.frequency.stream/dist/vix/446/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", Zona TUDN USA
+https://linear-357.frequency.stream/dist/vix/357/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", NOTICIERO UNIVISION
+https://linear-306.frequency.stream/dist/localnow/306/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", Lo Mejor de la Liga MX 
+https://linear-193.frequency.stream/dist/localnow/193/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", N+
+https://linear-301.frequency.stream/dist/vix/301/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", Weather Channel Español
+https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", VEVO Latino
+https://linear-494.frequency.stream/494/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", VEVO Ingles
+https://linear-495.frequency.stream/495/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", VEVO Reggeton
+https://linear-388.frequency.stream/388/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", VEVO Ingles 2
+https://linear-389.frequency.stream/389/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", TUDN 1
+https://linear-360.frequency.stream/dist/vix/360/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", TUDN 2
+https://linear-361.frequency.stream/dist/vix/361/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", TUDN 3
+https://linear-362.frequency.stream/dist/vix/362/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", TUDN 4
 https://linear-439.frequency.stream/dist/vix/439/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", TUDN 5
 https://linear-441.frequency.stream/dist/vix/441/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", TUDN 6
 https://linear-442.frequency.stream/dist/vix/442/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", ZONA TUDN
-https://linear-446.frequency.stream/dist/vix/446/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", TELEHIT
-https://linear-479.frequency.stream/dist/vix/479/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", FUTBOL ESPAÑA 1
 https://linear-489.frequency.stream/dist/vix/489/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", FUTBOL ESPAÑA 2
@@ -652,9 +652,6 @@ https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 https://linear-506.frequency.stream/dist/vix/506/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", FUTBOL ESPAÑA 4
 https://linear-507.frequency.stream/dist/vix/507/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", NOTICIERO UNIVISION
-https://linear-306.frequency.stream/dist/localnow/306/hls/master/playlist.m3u8
-
 
 *************************************  https://raw.githubusercontent.com/dann1110/GreatTV/master/TVBOX%202  ***************************************************
 **********************   https://raw.githubusercontent.com/4benteveos/Personal/main/Prueba1.m3u ****************************************
