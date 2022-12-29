@@ -847,8 +847,6 @@ http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQ
 
 #EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="TVporcable_USA", 69 | Space
 http://45.160.15.130:2909/play/119
-#EXTINF:-1 tvg-id="USA | Paramount Network" tvg-name="USA | Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/150px-Paramount_Network.svg.png" group-title="TVporcable_USA", 75 | Paramount Network
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PARAMOUNT/40-hls/live-media.m3u8?
 #EXTINF:-1 tvg-id="USA | FX" tvg-name="USA | FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="TVporcable_USA", 99 | FX
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFX_stream_gv&_cdn_session=514972435&_cdn_timestamp=1672551670&_cdn_token=a71056094e22c43749d55d1a612f7fcc0fba3410
 #EXTINF:-1 tvg-id="USA | Universal Premiere" tvg-name="USA | Universal Premiere" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_premiere-mediano.png" group-title="TVporcable_USA", 105 | Universal Premiere
@@ -869,11 +867,24 @@ http://190.83.119.67:8000/play/a0ov/index.m3u8
 http://45.179.164.9:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="USA | TNT Series" tvg-name="USA | TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/94px-TNT_Series_Logo_2016.png" group-title="TVporcable_USA", 113 | TNT Series
 http://45.160.12.253:8000/play/108
-EXTINF:-1 tvg-id="USA | Nickelodeon" tvg-name="USA | Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/245px-Nickelodeon_2009_logo.svg.png" group-title="TVporcable_USA", 144 | Nickelodeon
+#EXTINF:-1 tvg-id="USA | Nickelodeon" tvg-name="USA | Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/245px-Nickelodeon_2009_logo.svg.png" group-title="TVporcable_USA", 144 | Nickelodeon
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NICKELODEON/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKELODEON_stream_g4&_cdn_session=514980379&_cdn_timestamp=1672551958&_cdn_token=c705d64a1b15b019baa40d8b58f58305f084b64c
-
-
-
+#EXTINF:-1 tvg-id="USA | Estrella TV" tvg-name="USA | Estrella TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="TVporcable_USA", 839 | Estrella TV || ESTADOS UNIDOS DE AMÉRICA
+https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1 tvg-id="USA | Azteca América" tvg-name="USA | Azteca América" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Azteca_Am%C3%A9rica_logo_2015.png/170px-Azteca_Am%C3%A9rica_logo_2015.png" group-title="TVporcable_USA", 840 | Azteca América || ESTADOS UNIDOS DE AMÉRICA
+https://v-px.mybtv.net/live/41.m3u8
+#EXTINF:-1 tvg-id="USA | Telemundo" tvg-name="USA | Telemundo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png" group-title="TVporcable_USA", 841 | Telemundo || ESTADOS UNIDOS DE AMÉRICA
+https://w3ertgfdsawerty8765432qwsdfghjsaw4.tunelive.net:3252/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="USA | TeleXitos" tvg-name="USA | TeleXitos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Telexitos_logo.png/220px-Telexitos_logo.png" group-title="TVporcable_USA", En prueba | TeleXitos || ESTADOS UNIDOS DE AMÉRICA
+https://v-px.mybtv.net/live/47.m3u8
+#EXTINF:-1 tvg-id="USA | Univision" tvg-name="USA | Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/150px-Logo_Univision_2019.svg.png" group-title="TVporcable_USA", En prueba | Univision || ESTADOS UNIDOS DE AMÉRICA
+https://v-px.mybtv.net/live/28.m3u8
+#EXTINF:-1 tvg-id="USA | Ion Televisión" tvg-name="USA | Ion Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/220px-Ion_logo.svg.png" group-title="TVporcable_USA", En prueba | Ion Televisión || ESTADOS UNIDOS DE AMÉRICA
+https://v-px.mybtv.net/live/17.m3u8
+#EXTINF:-1 tvg-id="USA | Ion Mystery" tvg-name="USA | Ion Mystery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/220px-ION_Mystery_logo.svg.png" group-title="TVporcable_USA", En prueba | Ion Mystery || ESTADOS UNIDOS DE AMÉRICA
+https://v-px.mybtv.net/live/5.m3u8
+#EXTINF:-1 tvg-id="USA | American Broadcasting Company (ABC)" tvg-name="USA | American Broadcasting Company (ABC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/120px-ABC-2021-LOGO.svg.png" group-title="TVporcable_USA", En prueba | American Broadcasting Company (ABC) || ESTADOS UNIDOS DE AMÉRICA
+https://v-px.mybtv.net/live/27.m3u8
 
 #EXTINF:-1 tvg-id="USA | Fox Sports 2" tvg-name="USA | Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png" group-title="TVporcable_DEPORTES", 204 | Fox Sports 2
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=514987291&_cdn_timestamp=1672552619&_cdn_token=3e1f00b1bd16c54d16b208fbe4b4fe3598300af5
