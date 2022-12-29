@@ -852,7 +852,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PARAMOUNT/40-hls/live-media.m
 #EXTINF:-1 tvg-id="USA | FX" tvg-name="USA | FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="TVporcable_USA", 99 | FX
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFX_stream_gv&_cdn_session=514972435&_cdn_timestamp=1672551670&_cdn_token=a71056094e22c43749d55d1a612f7fcc0fba3410
 #EXTINF:-1 tvg-id="USA | Universal Premiere" tvg-name="USA | Universal Premiere" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_premiere-mediano.png" group-title="TVporcable_USA", 105 | Universal Premiere
-http://181.175.41.170:8000/play/a0ge
+http://181.175.41.170:8000/play/a0gE
 #EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="TVporcable_USA", 106 | Cinemax
 http://45.228.234.77:4430/play/cinemax
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="TVporcable_USA", 107 | HBO
