@@ -845,6 +845,8 @@ https://v-px.mybtv.net/live/14.m3u8
 #EXTINF:-1 tvg-id="USA | GolTV" tvg-name="USA | GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/245px-GolTV_logo.svg.png" group-title="TVporcable_DEPORTES", 202 | GolTV
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559.m3u8
 
+#EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="TVporcable_USA", 69 | Space
+http://45.160.15.130:2909/play/119
 
 #EXTINF:-1 tvg-id="USA | Fox Sports 2" tvg-name="USA | Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png" group-title="TVporcable_DEPORTES", 204 | Fox Sports 2
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=514987291&_cdn_timestamp=1672552619&_cdn_token=3e1f00b1bd16c54d16b208fbe4b4fe3598300af5
