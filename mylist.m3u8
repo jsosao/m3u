@@ -569,9 +569,13 @@ https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/playlist
 *************************************  https://raw.githubusercontent.com/ednar33/newton/main/AMLO.m3u  ***************************************************
 *************************************  https://raw.githubusercontent.com/ednar33/newton/main/v1x.m3u  ***************************************************
 
-*************************************  PROPIOS  ***************************************************
-#EXTINF:-1 group-title="ViX", LAS ESTRELLAS
+************************************************************************************************************************************************************
+#EXTINF:-1 group-title="ViX", LAS ESTRELLAS INT
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", LAS ESTRELLAS MX
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 group-title="ViX", LAS ESTRELLAS MX (B)
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 #EXTINF:-1 group-title="ViX", LAS ESTRELLAS (B)
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", LAS ESTRELLAS -1H
@@ -671,256 +675,255 @@ https://linear-507.frequency.stream/dist/vix/507/hls/master/playlist.m3u8
 
 *************************************  https://raw.githubusercontent.com/dann1110/GreatTV/master/TVBOX%202  ***************************************************
 **********************   https://raw.githubusercontent.com/4benteveos/Personal/main/Prueba1.m3u ****************************************
-
 ******************************************************  https://github.com/waldmtr3s/waldmtr3s.github.io   **********************************************
 
-#EXTINF:-1 tvg-name="" group-title="ViX+", ABC
+#EXTINF:-1 tvg-name="" group-title="Waldmtr3s", ABC
 http://v-ny.theus6tv.duckdns.org/hls/7.1/playlist.m3u8
-#EXTINF:-1 tvg-name="ABC Spark CA" group-title="ViX+", ABC (West)
+#EXTINF:-1 tvg-name="ABC Spark CA" group-title="Waldmtr3s", ABC (West)
 https://v-ca.mybtv.net/live/119/1280x720.m3u8
-#EXTINF:-1 tvg-name="ABC Spark CA" group-title="ViX+", ABC (West)
+#EXTINF:-1 tvg-name="ABC Spark CA" group-title="Waldmtr3s", ABC (West)
 https://v-px.mybtv.net/live/27/1280x720.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+", ABC HD
+#EXTINF:-1 tvg-name="" group-title="Waldmtr3s", ABC HD
 https://v-ny.mybtv.net/live/554/1280x720.m3u8
-#EXTINF:-1 tvg-name="NBC Buffalo HD CA" group-title="ViX+", NBC (West)
+#EXTINF:-1 tvg-name="NBC Buffalo HD CA" group-title="Waldmtr3s", NBC (West)
 https://v-ca.mybtv.net/live/121/1920x1080.m3u8
-#EXTINF:-1 tvg-name="NBC Buffalo HD CA" group-title="ViX+", NBC (West)
+#EXTINF:-1 tvg-name="NBC Buffalo HD CA" group-title="Waldmtr3s", NBC (West)
 https://v-la.mybtv.net/live/82/1920x1080.m3u8
-#EXTINF:-1 tvg-name="NBC Buffalo HD CA" group-title="ViX+", NBC (West)
+#EXTINF:-1 tvg-name="NBC Buffalo HD CA" group-title="Waldmtr3s", NBC (West)
 https://v-lv.mybtv.net/live/1059/768x432.m3u8
-#EXTINF:-1 tvg-name="NBC Buffalo HD CA" group-title="ViX+", NBC (West)
+#EXTINF:-1 tvg-name="NBC Buffalo HD CA" group-title="Waldmtr3s", NBC (West)
 https://v-px.mybtv.net/live/55/1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+", NBC
+#EXTINF:-1 tvg-name="" group-title="Waldmtr3s", NBC
 https://v-ny.mybtv.net/live/548/1920x1080.m3u8
-#EXTINF:-1 tvg-name="CBS Buffalo HD CA" group-title="ViX+", CBS (West)
+#EXTINF:-1 tvg-name="CBS Buffalo HD CA" group-title="Waldmtr3s", CBS (West)
 https://v-ca.mybtv.net/live/162/1920x1080.m3u8
-#EXTINF:-1 tvg-name="CBS Buffalo HD CA" group-title="ViX+", CBS
+#EXTINF:-1 tvg-name="CBS Buffalo HD CA" group-title="Waldmtr3s", CBS
 https://v-px.mybtv.net/live/48/1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+", CBS New York HD
+#EXTINF:-1 tvg-name="" group-title="Waldmtr3s", CBS New York HD
 https://v-ny.mybtv.net/live/545/1920x1080.m3u8
-#EXTINF:-1 tvg-name="FOX Buffalo HD CA" group-title="ViX+", FOX 5 (West)
+#EXTINF:-1 tvg-name="FOX Buffalo HD CA" group-title="Waldmtr3s", FOX 5 (West)
 https://v-px.mybtv.net/live/14/1280x720.m3u8
-#EXTINF:-1 tvg-name="FOX Buffalo HD CA" group-title="ViX+", FOX 5
+#EXTINF:-1 tvg-name="FOX Buffalo HD CA" group-title="Waldmtr3s", FOX 5
 https://v-ca.mybtv.net/live/170/1280x720.m3u8
-#EXTINF:-1 tvg-name="FOX 5 WNYW" group-title="ViX+", FOX 5 WNYW
+#EXTINF:-1 tvg-name="FOX 5 WNYW" group-title="Waldmtr3s", FOX 5 WNYW
 https://v-ny.mybtv.net/live/550/1280x720.m3u8
 
-#EXTINF:-1 tvg-name="Telemundo Network (West) (TELMUN)" group-title="ViX+", Telemundo LA (op2)
+#EXTINF:-1 tvg-name="Telemundo Network (West) (TELMUN)" group-title="Waldmtr3s", Telemundo LA (op2)
 https://v-la.mybtv.net/live/267/1920x1080.m3u8
-#EXTINF:-1 tvg-name="Telemundo Network (West) (TELMUN)" group-title="ViX+", Telemundo
+#EXTINF:-1 tvg-name="Telemundo Network (West) (TELMUN)" group-title="Waldmtr3s", Telemundo
 https://v-ca.mybtv.net/live/140/1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+", Telemundo
+#EXTINF:-1 tvg-name="" group-title="Waldmtr3s", Telemundo
 https://v-px.mybtv.net/live/39/1920x1080.m3u8
-#EXTINF:-1 tvg-name="TELEMUNDO" group-title="ViX+", Telemundo NY (op2)
+#EXTINF:-1 tvg-name="TELEMUNDO" group-title="Waldmtr3s", Telemundo NY (op2)
 https://v-ny.mybtv.net/live/659/1920x1080.m3u8
-#EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)" group-title="ViX+", EstrellaTv LA (op2)
+#EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)" group-title="Waldmtr3s", EstrellaTv LA (op2)
 https://v-la.mybtv.net/live/112/1280x720.m3u8
-#EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)" group-title="ViX+", EstrellaTv
+#EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)" group-title="Waldmtr3s", EstrellaTv
 https://v-ca.mybtv.net/live/137/768x432.m3u8
-#EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)" group-title="ViX+", EstrellaTv
+#EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)" group-title="Waldmtr3s", EstrellaTv
 https://v-sd.mybtv.net/live/490/1280x720.m3u8
-#EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)" group-title="ViX+", EstrellaTv
+#EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)" group-title="Waldmtr3s", EstrellaTv
 https://v-fn.mybtv.net/live/887/1280x720.m3u8
-#EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)" group-title="ViX+", EstrellaTv
+#EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)" group-title="Waldmtr3s", EstrellaTv
 https://v-lv.mybtv.net/live/1015/1280x720.m3u8
-#EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)" group-title="ViX+", EstrellaTv
+#EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)" group-title="Waldmtr3s", EstrellaTv
 https://v-px.mybtv.net/live/45/1280x720.m3u8
-#EXTINF:-1 tvg-name="Estrella TV (East) (ESTRELLA)" group-title="ViX+", EstrellaTv NY (op2)
+#EXTINF:-1 tvg-name="Estrella TV (East) (ESTRELLA)" group-title="Waldmtr3s", EstrellaTv NY (op2)
 https://v-ny.mybtv.net/live/650/640x480.m3u8
-#EXTINF:-1 tvg-name="Estrella TV (East) (ESTRELLA)" group-title="ViX+", EstrellaTv IN (op2)
+#EXTINF:-1 tvg-name="Estrella TV (East) (ESTRELLA)" group-title="Waldmtr3s", EstrellaTv IN (op2)
 https://v-in.mybtv.net/live/845/1280x720.m3u8
-#EXTINF:-1 tvg-name="Azteca America Network (East) (AZTECA)" group-title="ViX+", Azteca America NY (op2)
+#EXTINF:-1 tvg-name="Azteca America Network (East) (AZTECA)" group-title="Waldmtr3s", Azteca America NY (op2)
 https://v-ny.mybtv.net/live/645/1280x720.m3u8
-#EXTINF:-1 tvg-name="Azteca America Network (West) (AZTECA)" group-title="ViX+", Azteca America
+#EXTINF:-1 tvg-name="Azteca America Network (West) (AZTECA)" group-title="Waldmtr3s", Azteca America
 https://v-ca.mybtv.net/live/731/1280x720.m3u8
-#EXTINF:-1 tvg-name="Azteca America Network (West) (AZTECA)" group-title="ViX+", Azteca America
+#EXTINF:-1 tvg-name="Azteca America Network (West) (AZTECA)" group-title="Waldmtr3s", Azteca America
 https://v-la.mybtv.net/live/107/1280x720.m3u8
-#EXTINF:-1 tvg-name="Azteca America Network (West) (AZTECA)" group-title="ViX+", Azteca America
+#EXTINF:-1 tvg-name="Azteca America Network (West) (AZTECA)" group-title="Waldmtr3s", Azteca America
 https://v-lv.mybtv.net/live/1028/1280x720.m3u8
-#EXTINF:-1 tvg-name="Azteca America Network (West) (AZTECA)" group-title="ViX+", Azteca America
+#EXTINF:-1 tvg-name="Azteca America Network (West) (AZTECA)" group-title="Waldmtr3s", Azteca America
 https://v-px.mybtv.net/live/41/1280x720.m3u8
-#EXTINF:-1 tvg-name="Azteca America Network (West) (AZTECA)" group-title="ViX+", Azteca America SD (op2)
+#EXTINF:-1 tvg-name="Azteca America Network (West) (AZTECA)" group-title="Waldmtr3s", Azteca America SD (op2)
 https://v-sd.mybtv.net/live/508/1920x1080.m3u8
-#EXTINF:-1 tvg-name="UNIMÁS" group-title="ViX+", Unimas NY (op2)
+#EXTINF:-1 tvg-name="UNIMÁS" group-title="Waldmtr3s", Unimas NY (op2)
 https://v-ny.mybtv.net/live/713/1280x720.m3u8
-#EXTINF:-1 tvg-name="UniMás HDTV (Pacific) (UMAS)" group-title="ViX+", Unimas LA (op2)
+#EXTINF:-1 tvg-name="UniMás HDTV (Pacific) (UMAS)" group-title="Waldmtr3s", Unimas LA (op2)
 https://v-la.mybtv.net/live/299/1280x720.m3u8
-#EXTINF:-1 tvg-name="UniMás HDTV (Pacific) (UMAS)" group-title="ViX+", Unimas
+#EXTINF:-1 tvg-name="UniMás HDTV (Pacific) (UMAS)" group-title="Waldmtr3s", Unimas
 https://v-la.mybtv.net/live/168/768x432.m3u8
-#EXTINF:-1 tvg-name="UniMás HDTV (Pacific) (UMAS)" group-title="ViX+", Unimas
+#EXTINF:-1 tvg-name="UniMás HDTV (Pacific) (UMAS)" group-title="Waldmtr3s", Unimas
 https://v-ca.mybtv.net/live/147/1280x720.m3u8
-#EXTINF:-1 tvg-name="UniMás HDTV (Pacific) (UMAS)" group-title="ViX+", Unimas
+#EXTINF:-1 tvg-name="UniMás HDTV (Pacific) (UMAS)" group-title="Waldmtr3s", Unimas
 https://v-px.mybtv.net/live/201/1280x720.m3u8
-#EXTINF:-1 tvg-name="UNIVISION" group-title="ViX+", Univision LA (op2)
+#EXTINF:-1 tvg-name="UNIVISION" group-title="Waldmtr3s", Univision LA (op2)
 https://v-la.mybtv.net/live/178/1920x1080.m3u8
-#EXTINF:-1 tvg-name="UNIVISION" group-title="ViX+", Univision
+#EXTINF:-1 tvg-name="UNIVISION" group-title="Waldmtr3s", Univision
 https://v-ca.mybtv.net/live/148/1280x720.m3u8
-#EXTINF:-1 tvg-name="UNIVISION" group-title="ViX+", Univision
+#EXTINF:-1 tvg-name="UNIVISION" group-title="Waldmtr3s", Univision
 https://v-ca.mybtv.net/live/163/1280x720.m3u8
-#EXTINF:-1 tvg-name="UNIVISION" group-title="ViX+", Univision
+#EXTINF:-1 tvg-name="UNIVISION" group-title="Waldmtr3s", Univision
 https://v-px.mybtv.net/live/28/1920x1080.m3u8
-#EXTINF:-1 tvg-name="Univision Network HDTV (UNIHD)" group-title="ViX+", Univision NY (op2)
+#EXTINF:-1 tvg-name="Univision Network HDTV (UNIHD)" group-title="Waldmtr3s", Univision NY (op2)
 https://v-ny.mybtv.net/live/643/1280x720.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+", Univision MI (op2)
+#EXTINF:-1 tvg-name="" group-title="Waldmtr3s", Univision MI (op2)
 https://linear-424.frequency.stream/424/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="Televisa" group-title="ViX+", Televisa (SamsungTv) (Italia)
+#EXTINF:-1 tvg-name="Televisa" group-title="Waldmtr3s", Televisa (SamsungTv) (Italia)
 https://televisa-televisa-1-it.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+", TELEMUNDO
+#EXTINF:-1 tvg-name="" group-title="Waldmtr3s", TELEMUNDO
 http://71.187.29.54:8000/play/a07a/index.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+", Telemundo Network (East) (TELMUN)
+#EXTINF:-1 tvg-name="" group-title="Waldmtr3s", Telemundo Network (East) (TELMUN)
 https://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/index_2_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-name="" group-title="ViX+", Estrella TV (East) (ESTRELLA)
+#EXTINF:-1 tvg-name="" group-title="Waldmtr3s", Estrella TV (East) (ESTRELLA)
 https://estrellatv-roku.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+", Azteca America Network (East) (AZTECA)
+#EXTINF:-1 tvg-name="" group-title="Waldmtr3s", Azteca America Network (East) (AZTECA)
 http://71.187.29.54:8000/play/a08g/index.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+", UNIMÁS
+#EXTINF:-1 tvg-name="" group-title="Waldmtr3s", UNIMÁS
 http://71.187.29.54:8000/play/a08b/index.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+", UNIVISION
+#EXTINF:-1 tvg-name="" group-title="Waldmtr3s", UNIVISION
 http://71.187.29.54:8000/play/a07t/index.m3u8
-#EXTINF:-1 tvg-name="XEW Las Estrellas DF (LASESTRE)" group-title="ViX+", Las Estrellas
+#EXTINF:-1 tvg-name="XEW Las Estrellas DF (LASESTRE)" group-title="Waldmtr3s", Las Estrellas
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=17&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+", Las Estrellas (VIX)
+#EXTINF:-1 tvg-name="" group-title="Waldmtr3s", Las Estrellas (VIX)
 https://linear-413.frequency.stream/413/hls/master/playlist_1920x1080.m3u8
 
-#EXTINF:-1 tvg-name="" group-title="ViX+", Foro TV (FOROTV)
+#EXTINF:-1 tvg-name="" group-title="Waldmtr3s", Foro TV (FOROTV)
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=19&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+", Foro TV (VIX)
+#EXTINF:-1 tvg-name="" group-title="Waldmtr3s", Foro TV (VIX)
 https://linear-300.frequency.stream/300/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="ViX+", N+ (VIX)
+#EXTINF:-1 tvg-name="" group-title="Waldmtr3s", N+ (VIX)
 https://linear-301.frequency.stream/301/hls/master/playlist_1920x1080.m3u8
 
-***** #EXTINF:-1 tvg-name="" group-title="ViX+", RCN
+***** #EXTINF:-1 tvg-name="" group-title="Waldmtr3s", RCN
 ***** http://190.61.43.119:45000/play/a039
-***** #EXTINF:-1 tvg-name="" group-title="ViX+", RCN
+***** #EXTINF:-1 tvg-name="" group-title="Waldmtr3s", RCN
 ***** http://190.61.43.117:45000/play/a039
-#EXTINF:-1 tvg-name="" group-title="ViX+", RCN
+#EXTINF:-1 tvg-name="" group-title="Waldmtr3s", RCN
 http://181.78.12.166:9000/play/a047
-***** #EXTINF:-1 tvg-name="" group-title="ViX+", RCN
+***** #EXTINF:-1 tvg-name="" group-title="Waldmtr3s", RCN
 ***** http://45.233.169.25:8000/play/a021
-#EXTINF:-1 tvg-name="" group-title="ViX+", RCN
+#EXTINF:-1 tvg-name="" group-title="Waldmtr3s", RCN
 http://201.244.106.58:8990/play/a01b/index.m3u8
-***** #EXTINF:-1 tvg-name="" group-title="ViX+", RCN
+***** #EXTINF:-1 tvg-name="" group-title="Waldmtr3s", RCN
 ***** http://190.61.43.119:45000/play/a039
-***** #EXTINF:-1 tvg-name="" group-title="ViX+", RCN
+***** #EXTINF:-1 tvg-name="" group-title="Waldmtr3s", RCN
 ***** http://190.61.43.117:45000/play/a039
-***** #EXTINF:-1 tvg-name="" group-title="ViX+", RCN
+***** #EXTINF:-1 tvg-name="" group-title="Waldmtr3s", RCN
 ***** http://190.61.43.117:45000/play/a039
-***** #EXTINF:-1 tvg-name="" group-title="ViX+", RCN
+***** #EXTINF:-1 tvg-name="" group-title="Waldmtr3s", RCN
 ***** http://45.232.211.196:1080/play/a059
-#EXTINF:-1 tvg-name="" group-title="ViX+", RCN
+#EXTINF:-1 tvg-name="" group-title="Waldmtr3s", RCN
 http://186.5.31.251:8000/play/a0df/index.m3u8
 
-#EXTINF:-1 tvg-id="CO | RCN Xtra" tvg-name="CO | RCN Xtra" tvg-logo="https://pbs.twimg.com/media/Fj6XrAoXwAAOLKg?format=png&name=120x120" group-title="ViX+", 427.3 | RCN Xtra || COLOMBIA
+#EXTINF:-1 tvg-id="CO | RCN Xtra" tvg-name="CO | RCN Xtra" tvg-logo="https://pbs.twimg.com/media/Fj6XrAoXwAAOLKg?format=png&name=120x120" group-title="Waldmtr3s", 427.3 | RCN Xtra || COLOMBIA
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 
-***** #EXTINF:-1 tvg-name="" group-title="ViX+", CaracolTV
+***** #EXTINF:-1 tvg-name="" group-title="Waldmtr3s", CaracolTV
 ***** http://190.61.40.190:45000/play/a038
-#EXTINF:-1 tvg-name="" group-title="ViX+", CaracolTV
+#EXTINF:-1 tvg-name="" group-title="Waldmtr3s", CaracolTV
 http://181.78.12.166:9000/play/a05v
-***** #EXTINF:-1 tvg-name="" group-title="ViX+", CaracolTV
+***** #EXTINF:-1 tvg-name="" group-title="Waldmtr3s", CaracolTV
 ***** http://45.233.169.25:8000/play/a00b
-***** #EXTINF:-1 tvg-name="" group-title="ViX+", CaracolTV
+***** #EXTINF:-1 tvg-name="" group-title="Waldmtr3s", CaracolTV
 ***** http://190.61.43.119:45000/play/a038
-***** #EXTINF:-1 tvg-name="" group-title="ViX+", CaracolTV
+***** #EXTINF:-1 tvg-name="" group-title="Waldmtr3s", CaracolTV
 ***** http://190.61.43.117:45000/play/a038
-***** #EXTINF:-1 tvg-name="" group-title="ViX+", CaracolTV
+***** #EXTINF:-1 tvg-name="" group-title="Waldmtr3s", CaracolTV
 ***** http://190.61.43.117:45000/play/a038
-#EXTINF:-1 tvg-name="" group-title="ViX+", CaracolTV
+#EXTINF:-1 tvg-name="" group-title="Waldmtr3s", CaracolTV
 http://186.5.31.251:8000/play/a0de/index.m3u8
 
 **********************************   https://raw.githubusercontent.com/bodegaacuenta/Moyobambaastral/main/TVCable  ***********************
 
-#EXTINF:-1 tvg-id="CO | RCN+" tvg-name="CO | RCN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/RCN_HD2_2019.png/200px-RCN_HD2_2019.png" group-title="TVporcable_COLOMBIA", 427.2 | RCN+ || COLOMBIA
+#EXTINF:-1 tvg-id="CO | RCN+" tvg-name="CO | RCN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/RCN_HD2_2019.png/200px-RCN_HD2_2019.png" group-title="TVporcable", 427.2 | RCN+ || COLOMBIA
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CO | RCN Xtra" tvg-name="CO | RCN Xtra" tvg-logo="https://pbs.twimg.com/media/Fj6XrAoXwAAOLKg?format=png&name=120x120" group-title="TVporcable_COLOMBIA", 427.3 | RCN Xtra || COLOMBIA
+#EXTINF:-1 tvg-id="CO | RCN Xtra" tvg-name="CO | RCN Xtra" tvg-logo="https://pbs.twimg.com/media/Fj6XrAoXwAAOLKg?format=png&name=120x120" group-title="TVporcable", 427.3 | RCN Xtra || COLOMBIA
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CO | Canal Caracol" tvg-name="CO | Canal Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="TVporcable_COLOMBIA", 428 | Canal Caracol || COLOMBIA
+#EXTINF:-1 tvg-id="CO | Canal Caracol" tvg-name="CO | Canal Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="TVporcable", 428 | Canal Caracol || COLOMBIA
 http://181.119.67.75:8000/play/CH59
-#EXTINF:-1 tvg-id="CO | Noticias Caracol" tvg-name="CO | Noticias Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/150px-Noticias_Caracol_imagotype.svg.png" group-title="TVporcable_COLOMBIA", 428.2 | Noticias Caracol || COLOMBIA
+#EXTINF:-1 tvg-id="CO | Noticias Caracol" tvg-name="CO | Noticias Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/150px-Noticias_Caracol_imagotype.svg.png" group-title="TVporcable", 428.2 | Noticias Caracol || COLOMBIA
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NOTICIASCARACOL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNOTICIASCARACOL_stream_93&_cdn_session=514981115&_cdn_timestamp=1672552027&_cdn_token=e4b53586f253d7a61c8e3b76e87100d23ece9d86
 
-#EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="TVporcableiptv_PERU", 5 | Panamericana Televisión
+#EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="TVporcable", 5 | Panamericana Televisión
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=514949603&_cdn_timestamp=1672550485&_cdn_token=126f3d1c471c86f6f67af15665e00df0f7c8fe80
 
-#EXTINF:-1 tvg-id="CL | Canal 24 Horas" tvg-name="CL | Canal 24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png" group-title="TVporcableiptv_CHILE", 179 | Canal 24 Horas
+#EXTINF:-1 tvg-id="CL | Canal 24 Horas" tvg-name="CL | Canal 24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png" group-title="TVporcableiptv", 179 | Canal 24 Horas
 http://45.160.12.253:8000/play/052
-#EXTINF:-1 tvg-id="CL | TNT Sports" tvg-name="CL | TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/245px-TNT_Sports_2021_logo.svg.png" group-title="TVporcableiptv_CHILE", 213 | TNT Sports
+#EXTINF:-1 tvg-id="CL | TNT Sports" tvg-name="CL | TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/245px-TNT_Sports_2021_logo.svg.png" group-title="TVporcable", 213 | TNT Sports
 http://200.52.154.125:8000/play/a06g/index.m3u8
-#EXTINF:-1 tvg-id="CL | TVN" tvg-name="CL | TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg/150px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg.png" group-title="TVporcableiptv_CHILE", 529 | TVN || CHILE
+#EXTINF:-1 tvg-id="CL | TVN" tvg-name="CL | TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de.svg/150px-Logotipo_de_Televisi%C3%B2n_Nacional_de.svg.png" group-title="TVporcableiptv", 529 | TVN || CHILE
 https://panel.miplay.cl:8081/tvn/index.m3u8
 
-#EXTINF:-1 tvg-id="PA | TVMax" tvg-name="PA | TVMax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png" group-title="TVporcable_PANAMÁ", 608 | TVMax || PANAMÁ
+#EXTINF:-1 tvg-id="PA | TVMax" tvg-name="PA | TVMax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png" group-title="TVporcable", 608 | TVMax || PANAMÁ
 http://200.229.147.76:4000/play/a013/index.m3u8
 
-#EXTINF:-1 tvg-id="PY | Trece" tvg-name="PY | Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/100px-Logotrececanal.png" group-title="TVporcable_PARAGUAY", 599 | Trece || PARAGUAY
+#EXTINF:-1 tvg-id="PY | Trece" tvg-name="PY | Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/100px-Logotrececanal.png" group-title="TVporcable", 599 | Trece || PARAGUAY
 https://streaming.trece.com.py/live/trece.m3u8
 
-#EXTINF:-1 tvg-id="USA | FOX 10 Phoenix" tvg-name="USA | FOX 10 Phoenix" tvg-logo="https://azopera.org/sites/default/files/media_outlets/placeholder-16x9.jpg" group-title="TVporcable_USA", En prueba | FOX 10 Phoenix || ESTADOS UNIDOS DE AMÉRICA
+#EXTINF:-1 tvg-id="USA | FOX 10 Phoenix" tvg-name="USA | FOX 10 Phoenix" tvg-logo="https://azopera.org/sites/default/files/media_outlets/placeholder-16x9.jpg" group-title="TVporcable", En prueba | FOX 10 Phoenix || ESTADOS UNIDOS DE AMÉRICA
 https://v-px.mybtv.net/live/14.m3u8
 
-#EXTINF:-1 tvg-id="USA | GolTV" tvg-name="USA | GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/245px-GolTV_logo.svg.png" group-title="TVporcable_DEPORTES", 202 | GolTV
+#EXTINF:-1 tvg-id="USA | GolTV" tvg-name="USA | GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/245px-GolTV_logo.svg.png" group-title="TVporcable", 202 | GolTV
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559.m3u8
 
-#EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="TVporcable_USA", 69 | Space
+#EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="TVporcable", 69 | Space
 http://45.160.15.130:2909/play/119
-#EXTINF:-1 tvg-id="USA | FX" tvg-name="USA | FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="TVporcable_USA", 99 | FX
+#EXTINF:-1 tvg-id="USA | FX" tvg-name="USA | FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="TVporcable", 99 | FX
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFX_stream_gv&_cdn_session=514972435&_cdn_timestamp=1672551670&_cdn_token=a71056094e22c43749d55d1a612f7fcc0fba3410
-#EXTINF:-1 tvg-id="USA | Universal Premiere" tvg-name="USA | Universal Premiere" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_premiere-mediano.png" group-title="TVporcable_USA", 105 | Universal Premiere
+#EXTINF:-1 tvg-id="USA | Universal Premiere" tvg-name="USA | Universal Premiere" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_premiere-mediano.png" group-title="TVporcable", 105 | Universal Premiere
 http://181.175.41.170:8000/play/a0ge
-#EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="TVporcable_USA", 106 | Cinemax
+#EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="TVporcable", 106 | Cinemax
 http://45.228.234.77:4430/play/cinemax
-#EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="TVporcable_USA", 107 | HBO
+#EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="TVporcable", 107 | HBO
 http://190.83.119.67:8000/play/a0or/index.m3u8
-#EXTINF:-1 tvg-id="USA | HBO 2" tvg-name="USA | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="TVporcable_USA", 108 | HBO 2
+#EXTINF:-1 tvg-id="USA | HBO 2" tvg-name="USA | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="TVporcable", 108 | HBO 2
 http://190.83.119.67:8000/play/a0os/index.m3u8
-#EXTINF:-1 tvg-id="USA | HBO+" tvg-name="USA | HBO +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png" group-title="TVporcable_USA", 109 | HBO +
+#EXTINF:-1 tvg-id="USA | HBO+" tvg-name="USA | HBO +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png" group-title="TVporcable", 109 | HBO +
 http://190.83.119.67:8000/play/a0ot/index.m3u8
-#EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="TVporcable_USA", 110 | HBO Family
+#EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="TVporcable", 110 | HBO Family
 http://190.83.119.67:8000/play/a0ou/index.m3u8
-#EXTINF:-1 tvg-id="USA | HBO Xtreme" tvg-name="USA | HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="TVporcable_USA", 111 | HBO Xtreme
+#EXTINF:-1 tvg-id="USA | HBO Xtreme" tvg-name="USA | HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="TVporcable", 111 | HBO Xtreme
 http://190.83.119.67:8000/play/a0ov/index.m3u8
-#EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="TVporcable_USA", 112 | TNT
+#EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="TVporcable", 112 | TNT
 http://45.179.164.9:8000/play/a032/index.m3u8
-#EXTINF:-1 tvg-id="USA | TNT Series" tvg-name="USA | TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/94px-TNT_Series_Logo_2016.png" group-title="TVporcable_USA", 113 | TNT Series
+#EXTINF:-1 tvg-id="USA | TNT Series" tvg-name="USA | TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/94px-TNT_Series_Logo_2016.png" group-title="TVporcable", 113 | TNT Series
 http://45.160.12.253:8000/play/108
-#EXTINF:-1 tvg-id="USA | Nickelodeon" tvg-name="USA | Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/245px-Nickelodeon_2009_logo.svg.png" group-title="TVporcable_USA", 144 | Nickelodeon
+#EXTINF:-1 tvg-id="USA | Nickelodeon" tvg-name="USA | Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/245px-Nickelodeon_2009_logo.svg.png" group-title="TVporcable", 144 | Nickelodeon
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NICKELODEON/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKELODEON_stream_g4&_cdn_session=514980379&_cdn_timestamp=1672551958&_cdn_token=c705d64a1b15b019baa40d8b58f58305f084b64c
-#EXTINF:-1 tvg-id="USA | Estrella TV" tvg-name="USA | Estrella TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="TVporcable_USA", 839 | Estrella TV || ESTADOS UNIDOS DE AMÉRICA
+#EXTINF:-1 tvg-id="USA | Estrella TV" tvg-name="USA | Estrella TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="TVporcable", 839 | Estrella TV || ESTADOS UNIDOS DE AMÉRICA
 https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
-#EXTINF:-1 tvg-id="USA | Azteca América" tvg-name="USA | Azteca América" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Azteca_Am%C3%A9rica_logo_2015.png/170px-Azteca_Am%C3%A9rica_logo_2015.png" group-title="TVporcable_USA", 840 | Azteca América || ESTADOS UNIDOS DE AMÉRICA
+#EXTINF:-1 tvg-id="USA | Azteca América" tvg-name="USA | Azteca América" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Azteca_Am%C3%A9rica_logo_2015.png/170px-Azteca_Am%C3%A9rica_logo_2015.png" group-title="TVporcable", 840 | Azteca América || ESTADOS UNIDOS DE AMÉRICA
 https://v-px.mybtv.net/live/41.m3u8
-#EXTINF:-1 tvg-id="USA | Telemundo" tvg-name="USA | Telemundo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png" group-title="TVporcable_USA", 841 | Telemundo || ESTADOS UNIDOS DE AMÉRICA
+#EXTINF:-1 tvg-id="USA | Telemundo" tvg-name="USA | Telemundo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png" group-title="TVporcable", 841 | Telemundo || ESTADOS UNIDOS DE AMÉRICA
 https://w3ertgfdsawerty8765432qwsdfghjsaw4.tunelive.net:3252/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="USA | TeleXitos" tvg-name="USA | TeleXitos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Telexitos_logo.png/220px-Telexitos_logo.png" group-title="TVporcable_USA", En prueba | TeleXitos || ESTADOS UNIDOS DE AMÉRICA
+#EXTINF:-1 tvg-id="USA | TeleXitos" tvg-name="USA | TeleXitos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Telexitos_logo.png/220px-Telexitos_logo.png" group-title="TVporcable", En prueba | TeleXitos || ESTADOS UNIDOS DE AMÉRICA
 https://v-px.mybtv.net/live/47.m3u8
-#EXTINF:-1 tvg-id="USA | Univision" tvg-name="USA | Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/150px-Logo_Univision_2019.svg.png" group-title="TVporcable_USA", En prueba | Univision || ESTADOS UNIDOS DE AMÉRICA
+#EXTINF:-1 tvg-id="USA | Univision" tvg-name="USA | Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/150px-Logo_Univision_2019.svg.png" group-title="TVporcable", En prueba | Univision || ESTADOS UNIDOS DE AMÉRICA
 https://v-px.mybtv.net/live/28.m3u8
-#EXTINF:-1 tvg-id="USA | Ion Televisión" tvg-name="USA | Ion Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/220px-Ion_logo.svg.png" group-title="TVporcable_USA", En prueba | Ion Televisión || ESTADOS UNIDOS DE AMÉRICA
+#EXTINF:-1 tvg-id="USA | Ion Televisión" tvg-name="USA | Ion Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/220px-Ion_logo.svg.png" group-title="TVporcable", En prueba | Ion Televisión || ESTADOS UNIDOS DE AMÉRICA
 https://v-px.mybtv.net/live/17.m3u8
-#EXTINF:-1 tvg-id="USA | Ion Mystery" tvg-name="USA | Ion Mystery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/220px-ION_Mystery_logo.svg.png" group-title="TVporcable_USA", En prueba | Ion Mystery || ESTADOS UNIDOS DE AMÉRICA
+#EXTINF:-1 tvg-id="USA | Ion Mystery" tvg-name="USA | Ion Mystery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/220px-ION_Mystery_logo.svg.png" group-title="TVporcable", En prueba | Ion Mystery || ESTADOS UNIDOS DE AMÉRICA
 https://v-px.mybtv.net/live/5.m3u8
-#EXTINF:-1 tvg-id="USA | American Broadcasting Company (ABC)" tvg-name="USA | American Broadcasting Company (ABC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/120px-ABC-2021-LOGO.svg.png" group-title="TVporcable_USA", En prueba | American Broadcasting Company (ABC) || ESTADOS UNIDOS DE AMÉRICA
+#EXTINF:-1 tvg-id="USA | American Broadcasting Company (ABC)" tvg-name="USA | American Broadcasting Company (ABC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/120px-ABC-2021-LOGO.svg.png" group-title="TVporcable", En prueba | American Broadcasting Company (ABC) || ESTADOS UNIDOS DE AMÉRICA
 https://v-px.mybtv.net/live/27.m3u8
 
-#EXTINF:-1 tvg-id="USA | Fox Sports 2" tvg-name="USA | Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png" group-title="TVporcable_DEPORTES", 204 | Fox Sports 2
+#EXTINF:-1 tvg-id="USA | Fox Sports 2" tvg-name="USA | Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png" group-title="TVporcable", 204 | Fox Sports 2
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=514987291&_cdn_timestamp=1672552619&_cdn_token=3e1f00b1bd16c54d16b208fbe4b4fe3598300af5
-#EXTINF:-1 tvg-id="USA | Fox Sports 3" tvg-name="USA | Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/180px-Fox_sports_3_logo.svg.png" group-title="TVporcable_DEPORTES", 205 | Fox Sports 3
+#EXTINF:-1 tvg-id="USA | Fox Sports 3" tvg-name="USA | Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/180px-Fox_sports_3_logo.svg.png" group-title="TVporcable", 205 | Fox Sports 3
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=514987427&_cdn_timestamp=1672552629&_cdn_token=314096d21a2571dd5e4ac91c15312276836c6ca4
-#EXTINF:-1 tvg-id="USA | ESPN" tvg-name="USA | ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="TVporcable_DEPORTES", 206 | ESPN
+#EXTINF:-1 tvg-id="USA | ESPN" tvg-name="USA | ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="TVporcable", 206 | ESPN
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=514987763&_cdn_timestamp=1672552659&_cdn_token=73f491a0a2fa4fe5b774d21e227ff954d7bb8116
-#EXTINF:-1 tvg-id="USA | ESPN 2" tvg-name="USA | ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="TVporcable_DEPORTES", 207 | ESPN 2
+#EXTINF:-1 tvg-id="USA | ESPN 2" tvg-name="USA | ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="TVporcable", 207 | ESPN 2
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=514987851&_cdn_timestamp=1672552665&_cdn_token=3124d6301fd1783073ad55696db034f1b5a2839c
-#EXTINF:-1 tvg-id="USA | ESPN 3" tvg-name="USA | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="TVporcable_DEPORTES", 208 | ESPN 3
+#EXTINF:-1 tvg-id="USA | ESPN 3" tvg-name="USA | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="TVporcable", 208 | ESPN 3
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=514988075&_cdn_timestamp=1672552677&_cdn_token=4932c45eabeb085e44c7971731305b23e16dafd5
-#EXTINF:-1 tvg-id="USA | ESPN 4" tvg-name="USA | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png" group-title="TVporcable_DEPORTES", 209 | ESPN 4
+#EXTINF:-1 tvg-id="USA | ESPN 4" tvg-name="USA | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png" group-title="TVporcable", 209 | ESPN 4
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=514994059&_cdn_timestamp=1672553195&_cdn_token=8d05badd51b36a5992e77aea89ea5208ba0698a8
-#EXTINF:-1 tvg-id="USA | ESPN Extra" tvg-name="USA | ESPN Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/190px-ESPN_Extra_Logo_2022.webp.png" group-title="TVporcable_DEPORTES", 210 | ESPN Extra
+#EXTINF:-1 tvg-id="USA | ESPN Extra" tvg-name="USA | ESPN Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/190px-ESPN_Extra_Logo_2022.webp.png" group-title="TVporcable", 210 | ESPN Extra
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPNMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPNMAS2_stream_l4&_cdn_session=514994483&_cdn_timestamp=1672553223&_cdn_token=9b9557f7109a3fc5cb23f44663f4977e7d134d6a
-#EXTINF:-1 tvg-id="CL | TNT Sports" tvg-name="CL | TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/245px-TNT_Sports_2021_logo.svg.png" group-title="TVporcable_DEPORTES", 213 | TNT Sports
+#EXTINF:-1 tvg-id="CL | TNT Sports" tvg-name="CL | TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/245px-TNT_Sports_2021_logo.svg.png" group-title="TVporcable", 213 | TNT Sports
 http://200.52.154.125:8000/play/a06g/index.m3u8
-#EXTINF:-1 tvg-id="AR | TyC Sports" tvg-name="AR | TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/245px-TyC_Sports_logo.svg.png" group-title="TVporcable_DEPORTES", 214 | TyC Sports
+#EXTINF:-1 tvg-id="AR | TyC Sports" tvg-name="AR | TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/245px-TyC_Sports_logo.svg.png" group-title="TVporcable", 214 | TyC Sports
 http://186.148.184.163:8000/play/a04n
-#EXTINF:-1 tvg-id="PE | Gol Perú" tvg-name="PE | Gol Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/245px-Gol_Per%C3%BA_2019.svg.png" group-title="TVporcable_DEPORTES", 223 | Gol Perú
+#EXTINF:-1 tvg-id="PE | Gol Perú" tvg-name="PE | Gol Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/245px-Gol_Per%C3%BA_2019.svg.png" group-title="TVporcable", 223 | Gol Perú
 http://200.24.141.2:4000/play/a0zd/index.m3u8
-#EXTINF:-1 tvg-id="GT | Tigo Sports" tvg-name="GT | Tigo Sports" tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="TVporcable_DEPORTES", 216 | Tigo Sports
+#EXTINF:-1 tvg-id="GT | Tigo Sports" tvg-name="GT | Tigo Sports" tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="TVporcable", 216 | Tigo Sports
 https://w3ertgfdsawerty8765432qwsdfghjsaw4.tunelive.net:3368/stream/play.m3u8
