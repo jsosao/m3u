@@ -10,6 +10,22 @@ https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="TEST",C1
 https://linear-1.frequency.stream/dist/vix/1/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TEST",C2
+https://linear-2.frequency.strem/dist/vix/2/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TEST",C3
+https://linear-3.frequency.stream/dist/vix/3/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TEST",C4
+https://linear-4.frequency.stream/dist/vix/4/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TEST",C5
+https://linear-5.frequency.stream/dist/vix/5/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TEST",C6
+https://linear-6.frequency.stream/dist/vix/6/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TEST",C7
+https://linear-7.frequency.stream/dist/vix/7/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TEST",C8
+https://linear-8.frequency.stream/dist/vix/8/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TEST",C9
+https://linear-9.frequency.stream/dist/vix/9/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="TEST",C10
 https://linear-10.frequency.stream/dist/vix/10/hls/master/playlist.m3u8
 
