@@ -5,6 +5,16 @@
 
 *****************************************  https://github.com/pcouillard/iptv/blob/main/iptv.m3u ***************************************
 
+
+#EXTINF:-1 group-title="ViX", REAL MADRID TV
+https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="ViX", REAL MADRID TV
+https://linear-1.frequency.stream/dist/vix/1/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", REAL MADRID TV
+https://linear-10.frequency.stream/dist/vix/10/hls/master/playlist.m3u8
+
+
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="Pcouillard_USA",AMC Presents
 https://amc-amcpresents-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="Pcouillard_USA",AMC Rush
@@ -670,11 +680,6 @@ https://linear-506.frequency.stream/dist/vix/506/hls/master/playlist.m3u8
 https://linear-507.frequency.stream/dist/vix/507/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", REAL MADRID TV
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="ViX", C1
-https://linear-1.frequency.stream/dist/vix/1/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", C10
-https://linear-10.frequency.stream/dist/vix/10/hls/master/playlist.m3u8
 
 *************************************  https://raw.githubusercontent.com/dann1110/GreatTV/master/TVBOX%202  ***************************************************
 **********************   https://raw.githubusercontent.com/4benteveos/Personal/main/Prueba1.m3u ****************************************
