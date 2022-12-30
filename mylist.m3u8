@@ -29,7 +29,8 @@ https://linear-9.frequency.stream/dist/vix/9/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="TEST",C10
 https://linear-10.frequency.stream/dist/vix/10/hls/master/playlist.m3u8
 
-
+#EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="Pcouillard_USA",AMC Presents
+https://amc-amcpresents-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="Pcouillard_USA",AMC Presents
 https://amc-amcpresents-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="Pcouillard_USA",AMC Rush
