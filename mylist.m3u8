@@ -664,12 +664,15 @@ https://linear-442.frequency.stream/dist/vix/442/hls/master/playlist.m3u8
 https://linear-489.frequency.stream/dist/vix/489/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", FUTBOL ESPAÑA 2
 https://linear-490.frequency.stream/dist/vix/490/hls/master/playlist.m3u8
-EXTINF:-1 group-title="ViX", REAL MADRID TV
-https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", FUTBOL ESPAÑA 3
 https://linear-506.frequency.stream/dist/vix/506/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", FUTBOL ESPAÑA 4
 https://linear-507.frequency.stream/dist/vix/507/hls/master/playlist.m3u8
+EXTINF:-1 group-title="ViX", REAL MADRID TV
+https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
+
+https://linear-1.frequency.stream/dist/vix/1/hls/master/playlist.m3u8
+https://linear-10.frequency.stream/dist/vix/10/hls/master/playlist.m3u8
 
 *************************************  https://raw.githubusercontent.com/dann1110/GreatTV/master/TVBOX%202  ***************************************************
 **********************   https://raw.githubusercontent.com/4benteveos/Personal/main/Prueba1.m3u ****************************************
