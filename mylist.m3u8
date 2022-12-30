@@ -1,10 +1,10 @@
 #EXTM3U
 
-*********************  30/DIC/2022  ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... *************************
-*********************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ****************************************
-
+************************  30/DIC/2022  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 
 *****************************************  https://github.com/pcouillard/iptv/blob/main/iptv.m3u ***************************************
+
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="Pcouillard_USA",AMC Presents
 https://amc-amcpresents-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="Pcouillard_USA",AMC Rush
@@ -50,8 +50,7 @@ https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/moviemax.us.m
 #EXTINF:-1 tvg-chno="272" tvg-id="OuterMaxEast.us" tvg-name="OuterMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25622_dark_360w_270h.png" group-title="Pcouillard_USA",OuterMAX
 https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/outermax.eastern.us.m3u8
 
-
-******************************  https://raw.githubusercontent.com/MrGmaw/enlaces/23314219af19afea9b0fea8339edfd5a47c47ad2/playlist.m3u *************************
+****************************  https://raw.githubusercontent.com/MrGmaw/enlaces/23314219af19afea9b0fea8339edfd5a47c47ad2/playlist.m3u ************************
 
 #EXTINF:-1 tvg-chno"13.1" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="MrGmaw_IN",WTHR nbc13 
 https://mrgmaw.github.io/enlaces/in/innbc.m3u8
@@ -247,7 +246,6 @@ https://mrgmaw.github.io/enlaces/xy/teleny.m3u8
 https://mrgmaw.github.io/enlaces/xy/tf1.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",BBC World
 https://mrgmaw.github.io/enlaces/xy/bbcw.m3u8
-
 
 **********************************  https://github.com/angel200881/chann/blob/main/TP.m3u8 ******************************
 ******************************* https://raw.githubusercontent.com/cesarivan2310/Lista/main/Canales ********************************************************************************
