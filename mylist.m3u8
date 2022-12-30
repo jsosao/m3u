@@ -5,29 +5,6 @@
 
 *****************************************  https://github.com/pcouillard/iptv/blob/main/iptv.m3u ***************************************
 
-#EXTINF:-1 group-title="TEST",C11
-https://linear-11.frequency.stream/dist/vix/11/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TEST",C12
-https://linear-12.frequency.strem/dist/vix/12/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TEST",C13
-https://linear-13.frequency.stream/dist/vix/13/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TEST",C14
-https://linear-14.frequency.stream/dist/vix/14/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TEST",C15
-https://linear-15.frequency.stream/dist/vix/15/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TEST",C16
-https://linear-16.frequency.stream/dist/vix/16/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TEST",C17
-https://linear-17.frequency.stream/dist/vix/17/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TEST",C18
-https://linear-18.frequency.stream/dist/vix/18/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TEST",1C9
-https://linear-19.frequency.stream/dist/vix/19/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TEST",C20
-https://linear-20.frequency.stream/dist/vix/20/hls/master/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="Pcouillard_USA",AMC Presents
-https://amc-amcpresents-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="Pcouillard_USA",AMC Presents
 https://amc-amcpresents-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="Pcouillard_USA",AMC Rush
