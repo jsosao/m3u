@@ -599,7 +599,7 @@ https://linear-406.frequency.stream/dist/vix/406/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", GOLDEN EDGE
 https://linear-407.frequency.stream/dist/vix/407/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", GOLDEN
-https://linear-408.frequency.stream/d8Bist/vix/408/hls/master/playlist.m3u8
+https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", GOLDEN (B)
 https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", GOLDEN
@@ -843,11 +843,11 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NOTICIASCARACOL/40-hls/live-m
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="TVporcable", 5 | Panamericana Televisión
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=514949603&_cdn_timestamp=1672550485&_cdn_token=126f3d1c471c86f6f67af15665e00df0f7c8fe80
 
-#EXTINF:-1 tvg-id="CL | Canal 24 Horas" tvg-name="CL | Canal 24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png" group-title="TVporcableiptv", 179 | Canal 24 Horas
+#EXTINF:-1 tvg-id="CL | Canal 24 Horas" tvg-name="CL | Canal 24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png" group-title="TVporcable", 179 | Canal 24 Horas
 http://45.160.12.253:8000/play/052
 #EXTINF:-1 tvg-id="CL | TNT Sports" tvg-name="CL | TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/245px-TNT_Sports_2021_logo.svg.png" group-title="TVporcable", 213 | TNT Sports
 http://200.52.154.125:8000/play/a06g/index.m3u8
-#EXTINF:-1 tvg-id="CL | TVN" tvg-name="CL | TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de.svg/150px-Logotipo_de_Televisi%C3%B2n_Nacional_de.svg.png" group-title="TVporcableiptv", 529 | TVN || CHILE
+#EXTINF:-1 tvg-id="CL | TVN" tvg-name="CL | TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de.svg/150px-Logotipo_de_Televisi%C3%B2n_Nacional_de.svg.png" group-title="TVporcable", 529 | TVN || CHILE
 https://panel.miplay.cl:8081/tvn/index.m3u8
 
 #EXTINF:-1 tvg-id="PA | TVMax" tvg-name="PA | TVMax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png" group-title="TVporcable", 608 | TVMax || PANAMÁ
