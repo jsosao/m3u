@@ -1,6 +1,6 @@
 #EXTM3U
 
-*********************  29/DIC/2022  ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... *************************
+*********************  30/DIC/2022  ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... *************************
 *********************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ****************************************
 
 
@@ -572,14 +572,22 @@ https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/playlist
 *************************************  PROPIOS  ***************************************************
 #EXTINF:-1 group-title="ViX", LAS ESTRELLAS
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", LAS ESTRELLAS (B)
+https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", LAS ESTRELLAS -1H
 https://linear-414.frequency.stream/dist/vix/414/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", LAS ESTRELLAS -2H
 https://linear-415.frequency.stream/dist/vix/415/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", NU9VE
+https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", Canal 4 GDL
 https://linear-402.frequency.stream/dist/vix/402/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", Canal 4 GDL (B)
+https://linear-402.frequency.stream/402/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", Canal 8 MTY
 https://linear-403.frequency.stream/dist/vix/403/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", Canal 8 MTY (B)
+https://linear-403.frequency.stream/403/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", DPelicula Plus
 https://linear-404.frequency.stream/dist/vix/404/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", Distrito Comedia
@@ -589,7 +597,9 @@ https://linear-406.frequency.stream/dist/vix/406/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", GOLDEN EDGE
 https://linear-407.frequency.stream/dist/vix/407/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", GOLDEN
-https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
+https://linear-408.frequency.stream/d8Bist/vix/408/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", GOLDEN (B)
+https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", GOLDEN
 https://linear-409.frequency.stream/dist/vix/409/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", GOLDEN PLUS
@@ -598,10 +608,16 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", TELEHIT
 https://linear-417.frequency.stream/dist/vix/417/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", TELEHIT (B)
+https://linear-417.frequency.stream/417/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", TELEHIT PLUS
 https://linear-418.frequency.stream/dist/vix/418/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", TELEHIT PLUS (B)
+https://linear-418.frequency.stream/418/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", TELEHIT MUSICA PLUS
 https://linear-419.frequency.stream/dist/vix/419/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", TELEHIT MUSICA PLUS (B)
+https://linear-419.frequency.stream/419/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", TLNOVELAS
 https://linear-421.frequency.stream/dist/vix/421/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", Bandamax
