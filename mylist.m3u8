@@ -5,8 +5,8 @@
 
 *****************************************  https://github.com/pcouillard/iptv/blob/main/iptv.m3u ***************************************
 
-
-#EXTINF:-1 group-title="ViX", REAL MADRID TV
+#EXTINF:-1 tvg-chno="166" tvg-id="USANetworkEast.us" tvg-name="USA Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="Pcouillard_USA",USA Network
+***#EXTINF:-1 group-title="ViX", REAL MADRID TV
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="ViX", REAL MADRID TV
