@@ -5,29 +5,26 @@
 
 *****************************************  https://github.com/pcouillard/iptv/blob/main/iptv.m3u ***************************************
 
-#EXTINF:-1 group-title="TEST",RM
-https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="TEST",C1
-https://linear-1.frequency.stream/dist/vix/1/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TEST",C2
-https://linear-2.frequency.strem/dist/vix/2/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TEST",C3
-https://linear-3.frequency.stream/dist/vix/3/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TEST",C4
-https://linear-4.frequency.stream/dist/vix/4/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TEST",C5
-https://linear-5.frequency.stream/dist/vix/5/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TEST",C6
-https://linear-6.frequency.stream/dist/vix/6/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TEST",C7
-https://linear-7.frequency.stream/dist/vix/7/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TEST",C8
-https://linear-8.frequency.stream/dist/vix/8/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TEST",C9
-https://linear-9.frequency.stream/dist/vix/9/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TEST",C10
-https://linear-10.frequency.stream/dist/vix/10/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TEST",C11
+https://linear-11.frequency.stream/dist/vix/11/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TEST",C12
+https://linear-12.frequency.strem/dist/vix/12/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TEST",C13
+https://linear-13.frequency.stream/dist/vix/13/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TEST",C14
+https://linear-14.frequency.stream/dist/vix/14/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TEST",C15
+https://linear-15.frequency.stream/dist/vix/15/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TEST",C16
+https://linear-16.frequency.stream/dist/vix/16/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TEST",C17
+https://linear-17.frequency.stream/dist/vix/17/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TEST",C18
+https://linear-18.frequency.stream/dist/vix/18/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TEST",1C9
+https://linear-19.frequency.stream/dist/vix/19/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TEST",C20
+https://linear-20.frequency.stream/dist/vix/20/hls/master/playlist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="Pcouillard_USA",AMC Presents
 https://amc-amcpresents-1-us.plex.wurl.tv/playlist.m3u8
