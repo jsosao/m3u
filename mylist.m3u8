@@ -6,11 +6,16 @@
 #EXTINF:-1 group-title="SSC", SSC NEWS
 https://ssc-news-ak.akamaized.net/out/v1/4af66d04e77349079c01c9bab46d8b28/index.m3u8
 
-#EXTINF:-1 group-title="SSC", SSC 2
-https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc1
-
 #EXTINF:-1 group-title="SSC", AD Sport premium 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="SSC", AD Sport premium 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="SSC", Dubai 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#EXTINF:-1 group-title="SSC", Dubai 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 group-title="SSC", Dubai 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
 *****************************************  https://github.com/pcouillard/iptv/blob/main/iptv.m3u ***************************************
 
