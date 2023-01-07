@@ -225,12 +225,7 @@ https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL136/PROFILE05.m3u8
 https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL137/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", TELEMUNDO INTERNACIONAL
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL85/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", ADN 40 
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", TELEFORMULA 
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL161/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", MULTIMEDIOS CDMX 
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE05.m3u8
+
 
 
 #EXTINF:-1  group-title="TOTAL", FOX SPORTS 3 
@@ -241,6 +236,12 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL179/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", ???
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL185/PROFILE05.m3u8
 
+#EXTINF:-1  group-title="TOTAL", ADN 40 
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", TELEFORMULA 
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL161/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", MULTIMEDIOS CDMX 
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", CNN
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL186/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", CÑÑ
@@ -255,16 +256,17 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL191/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL192/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", CNN NEWS
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL197/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", DW
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL654/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", RT INGLES
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL999/PROFILE05.m3u8
 
 #EXTINF:-1  group-title="TOTAL", ANTENA 3
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL199/PROFILE05.m3u8
-
 #EXTINF:-1  group-title="TOTAL", STAR CHANNEL
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE05.m3u8
-
 #EXTINF:-1  group-title="TOTAL", SONY CHANNEL
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE05.m3u8
-
 #EXTINF:-1  group-title="TOTAL", WARNER CHANNEL
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", UNIVERSAL CHANNEL
@@ -273,48 +275,57 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", A&E
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE05.m3u8
-
-#EXTINF:-1  group-title="TOTAL", TRUE TV
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE05.m3u8
-
-#EXTINF:-1  group-title="TOTAL", COMEDY CENTRAL
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL217/PROFILE05.m3u8
-
-
-#EXTINF:-1  group-title="TOTAL", UNICABLE
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL218/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", HOLA TV
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL219/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", MAS CHIC
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL221/PROFILE05.m3u8
-
-
-#EXTINF:-1  group-title="TOTAL", CORAZON
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL250/PROFILE05.m3u8
-
 #EXTINF:-1  group-title="TOTAL", E
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL255/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", SYFY
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL257/PROFILE05.m3u8
-
 #EXTINF:-1  group-title="TOTAL", TNT SERIES
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE05.m3u8
-
 #EXTINF:-1  group-title="TOTAL", GOURMET
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL268/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", GLITZ
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL270/PROFILE05.m3u8
-
+#EXTINF:-1  group-title="TOTAL", COMEDY CENTRAL
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL217/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", DISTRITO COMEDIA
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL272/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", TBS
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE05.m3u8
-
-
-#EXTINF:-1  group-title="TOTAL", TLNOVELAS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", UNICABLE
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL218/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", HOLA TV
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL219/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", H&H
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", MAS CHIC
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL221/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", MUNDO
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL276/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", TRUE TV
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", CORAZON
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL250/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", GLITZ
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL270/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", TLNOVELAS
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", LIFE TIME
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", AMC
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", SPACE
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", STUDIO UNIVERAL
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", CI
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL495/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", TCM
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", AZTECA CINEMA
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL425/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", CLIC
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", TVE
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE05.m3u8
+
 
 #EXTINF:-1  group-title="TOTAL", DISCOVERY KIDS
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE05.m3u8
@@ -331,74 +342,84 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", TOONCAST
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE05.m3u8
 
-#EXTINF:-1  group-title="TOTAL", DPELICULA
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL335/PROFILE05.m3u8
+
+
 
 #EXTINF:-1  group-title="TOTAL", DISCOVERY THEATER
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE05.m3u8
-
-#EXTINF:-1  group-title="TOTAL", HISTORY
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE05.m3u8
-
 #EXTINF:-1  group-title="TOTAL", DISCOVERY
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", DISCOVERY SCIENCE
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE05.m3u8
 
-#EXTINF:-1  group-title="TOTAL", H&H
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE05.m3u8
 
 #EXTINF:-1  group-title="TOTAL", NAT GEO
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE05.m3u8
 
-#EXTINF:-1  group-title="TOTAL", LIFE TIME
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", HISTORY
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE05.m3u8
 
-#EXTINF:-1  group-title="TOTAL", DISCOVERY SCIENCE
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE05.m3u8
+
 
 #EXTINF:-1  group-title="TOTAL", ????
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE05.m3u8
 
-
-#EXTINF:-1  group-title="TOTAL", AZTECA CINEMA
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL425/PROFILE05.m3u8
-
-#EXTINF:-1  group-title="TOTAL", CINECANAL
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE05.m3u8
-
-#EXTINF:-1  group-title="TOTAL", TNT
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE05.m3u8
-
-#EXTINF:-1  group-title="TOTAL", GOLDEN PLUS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE05.m3u8
-
+#EXTINF:-1  group-title="TOTAL", DPELICULA
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL335/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", DPELICULA PLUS
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE05.m3u8
-
-#EXTINF:-1  group-title="TOTAL", AMC
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE05.m3u8
-
-#EXTINF:-1  group-title="TOTAL", SPACE
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE05.m3u8
-
 #EXTINF:-1  group-title="TOTAL", CINEMAX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE05.m3u8
 
+#EXTINF:-1  group-title="TOTAL", TNT
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", CINECANAL
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", GOLDEN PLUS
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", GOLDEN EDGE
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE05.m3u8
 
-#EXTINF:-1  group-title="TOTAL", STUDIO UNIVERAL
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", ESPN
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8
 
-#EXTINF:-1  group-title="TOTAL", CI
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL495/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", TCM
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", ESPN 3
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8
+
+#EXTINF:-1  group-title="TOTAL", FOX SPORTS
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", FOX SPORTS 2
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", PX SPORTS
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", AYM
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL576/PROFILE05.m3u8
 
 
+#EXTINF:-1  group-title="TOTAL", MTV LIVE
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", TELEHIT MUSICA PLUS
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", MTV 00s
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", MTV
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", MTV HITS
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", MTV 80s
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", TELEHIT MUSICA
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", BANDAMAX
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", MTV 00s
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL735/PROFILE05.m3u8
 
+#EXTINF:-1  group-title="TOTAL", GALICIA
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL802/PROFILE05.m3u8
 
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
-
+#EXTINF:-1  group-title="TOTAL", ALEATORIO
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL803/PROFILE05.m3u8
 
 
 
