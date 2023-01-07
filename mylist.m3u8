@@ -200,7 +200,8 @@ https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 
 #EXTINF:-1  group-title="TOTAL", !!!!!
 https://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
-
+#EXTINF:-1  group-title="TOTAL", XXXX
+https://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
 
 #EXTINF:-1  group-title="TOTAL", AZTECA UNO
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE05.m3u8
