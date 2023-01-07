@@ -231,10 +231,8 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2049/PROFILE05.m3u8
 https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1822/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", AZTECA BAJA CALIFORNIA
 https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1869/PROFILE05.m3u8
-
 #EXTINF:-1  group-title="TOTAL", EXCELSIOR TV
 https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1449/PROFILE05.m3u8
-
 #EXTINF:-1  group-title="TOTAL", NU9VE
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", NU9VE (B)
@@ -243,18 +241,14 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2050/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", CANAL 14
 https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2357/PROFILE05.m3u8
-
 #EXTINF:-1  group-title="TOTAL", EXCELSIOR TV
 https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1449/PROFILE05.m3u8
-
-
 #EXTINF:-1  group-title="TOTAL", MEXIQUENSE
 https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL44/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", ADN 40 
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", TELEFORMULA 
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL161/PROFILE05.m3u8
-
 #EXTINF:-1  group-title="TOTAL", TELEVISA PUEBLA
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2312/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", TELEVISA MONTERREY
@@ -263,36 +257,8 @@ https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2307/PROFILE05.m3u8
 https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1954/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", TELEVISA DEL BAJIO
 https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2355/PROFILE05.m3u8
-
 #EXTINF:-1  group-title="TOTAL", 4 GUANAJUATO
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2357/PROFILE05.m3u8
-
-#EXTINF:-1  group-title="TOTAL", CNN
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL186/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", CÑÑ
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL187/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", FOX NEWS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL188/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", BLOOMBERG
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL190/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", BBC NEWS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL191/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", ALJAZEERA
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL192/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", CNN NEWS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL197/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", DW
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL654/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", RT INGLES
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL999/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", RT ESPAÑOL
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2091/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", EL FINANCIERO
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2167/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", FRANCE 24
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2402/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL",IMAGEN MULTICAST
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1449/PROFILE05.m3u8
 
 #EXTINF:-1  group-title="TOTAL", EUROPA EUROPA
 https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL136/PROFILE05.m3u8
@@ -437,7 +403,6 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL335/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", CINEMAX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE05.m3u8
-
 #EXTINF:-1  group-title="TOTAL", CINECANAL
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", GOLDEN
@@ -446,7 +411,6 @@ https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL123/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", GOLDEN EDGE
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE05.m3u8
-
 #EXTINF:-1  group-title="TOTAL", NBC GOLF
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL179/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", TUDN
@@ -473,6 +437,33 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2157/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2404/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", CLARO SPORTS
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2564/PROFILE05.m3u8
+
+#EXTINF:-1  group-title="TOTAL", CNN
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL186/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", CÑÑ
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL187/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", FOX NEWS
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL188/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", BLOOMBERG
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL190/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", BBC NEWS
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL191/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", ALJAZEERA
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL192/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", CNN NEWS
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL197/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", DW
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL654/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", RT INGLES
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL999/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", RT ESPAÑOL
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2091/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", EL FINANCIERO
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2167/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", FRANCE 24
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2402/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL",IMAGEN MULTICAST
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1449/PROFILE05.m3u8
 
 #EXTINF:-1  group-title="TOTAL", MTV LIVE
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE05.m3u8
