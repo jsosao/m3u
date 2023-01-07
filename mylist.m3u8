@@ -11,42 +11,74 @@
 https://v-ny.MyBTv.net/live/554/1280x720.m3u8
 #EXTINF:-1 group-title="ViX", ABC SAN FRANCISCO
 https://v-ca.mybtv.net/live/119/1280x720.m3u8
-#EXTINF:-1 group-title="ViX", ABC INDIANALPOLIS
-https://v-in.MyBTv.net/live/119/1280x720.m3u8
+#EXTINF:-1 group-title="ViX", ABC LOS ANGELES
+https://v-la.mybtv.net/live/88/1280x720.m3u8
+#EXTINF:-1 group-title="ViX", ABC PHOENIX
+https://v-px.mybtv.net/live/27/1280x720.m3u8
 
 #EXTINF:-1 group-title="ViX", NBC NEW YORK
 https://v-ny.MyBTv.net/live/548/1920x1080.m3u8
 #EXTINF:-1 group-title="ViX", NBC SAN FRANCISCO
 https://v-ca.mybtv.net/live/162/1280x720.m3u8
-#EXTINF:-1 group-title="ViX", NBC INDIANALPOLIS
-https://v-in.MyBTv.net/live/121/1280x720.m3u8
+#EXTINF:-1 group-title="ViX", NBC LOS ANGELES
+https://v-la.mybtv.net/live/82/1280x720.m3u8
+#EXTINF:-1 group-title="ViX", NBC PHOENIX
+https://v-px.mybtv.net/live/55/1280x720.m3u8
+#EXTINF:-1 group-title="ViX", NBC LAS VEGAS
+https://v-lv.MyBTv.net/live/1059/768x432.m3u8
+
+
 
 #EXTINF:-1 group-title="ViX", CBS NEW YORK
 https://v-ny.MyBTv.net/live/545/1920x1080.m3u8
 #EXTINF:-1 group-title="ViX", CBS SAN FRANCISCO
-https://v-ca.mybtv.net/live/162/1280x720.m3u8
-#EXTINF:-1 group-title="ViX", CBS INDIANAPOLIS
-https://v-in.MyBTv.net/live/162/1280x720.m3u8
+ttps://v-ca.mybtv.net/live/162/1280x720.m3u8
+****#EXTINF:-1 group-title="ViX", CBS LOS ANGELES
+****https://v-la.mybtv.net/live/259/1280x720.m3u8
+#EXTINF:-1 group-title="ViX", CBS PHOENIX
+https://v-px.mybtv.net/live/48/1280x720.m3u8
 
 
 #EXTINF:-1 group-title="ViX", FOX NEW YORK
 https://v-ny.MyBTv.net/live/550/1280x720.m3u8
 #EXTINF:-1 group-title="ViX", FOX SAN FRANCISCO
 https://v-ca.mybtv.net/live/170/1280x720.m3u8
-
+#EXTINF:-1 group-title="ViX", FOX PHOENIX
+https://v-px.mybtv.net/live/14/1280x720.m3u8
 
 #EXTINF:-1 group-title="ViX", UNIVISION NEW YORK
 https://v-ny.MyBTv.net/live/643/1280x720.m3u8
 #EXTINF:-1 group-title="ViX", UNIVISION SAN FRANCISCO
 https://v-ca.mybtv.net/live/148/1280x720.m3u8
+****#EXTINF:-1 group-title="ViX", UNIVISION LOS ANGELES
+****https://v-la.mybtv.net/live/178/1280x720.m3u8
+#EXTINF:-1 group-title="ViX", UNIVISION PHOENIX
+https://v-px.mybtv.net/live/28/1280x720.m3u8
 
 #EXTINF:-1 group-title="ViX", TELEMUNDO SAN FRANCISCO
 https://v-ca.mybtv.net/live/140/1280x720.m3u8
 ****#EXTINF:-1 group-title="ViX", TELEMUNDO SAN FRANCISCO
 ****https://v-ca.mybtv.net/live/140/1280x720.m3u8
+****#EXTINF:-1 group-title="ViX", TELEMUNDO LOS ANGELES
+****https://v-la.mybtv.net/live/267/1280x720.m3u8
+
+#EXTINF:-1 group-title="ViX", AZTECA AMERICA PHOENIX
+https://v-px.mybtv.net/live/41/1280x720.m3u8
+#EXTINF:-1 group-title="ViX", AZTECA AMERICA LAS VEGAS
+https://v-lv.MyBTv.net/live/1028/768x432.m3u8
+
+****#EXTINF:-1 group-title="ViX", ESTRELLA NEW YORK
+****https://v-ny.MyBTv.net/live/650/1280x720.m3u8
+#EXTINF:-1 group-title="ViX", ESTRELLA TV PHOENIX
+https://v-px.mybtv.net/live/45/1280x720.m3u8
+
+#EXTINF:-1 group-title="ViX", KTLA LOS ANGELES
+https://v-la.mybtv.net/live/164/1280x720.m3u8
 
 #EXTINF:-1 group-title="ViX", ION NEW YORK
 https://v-ny.MyBTv.net/live/608/1280x720.m3u8
+****#EXTINF:-1 group-title="ViX", ION PHOENIX
+****https://v-px.mybtv.net/live/17/1280x720.m3u8
 #EXTINF:-1 group-title="ViX", ION MISTERY NEW YORK
 https://v-ny.mybtv.net/live/610/768x432.m3u8
 
@@ -244,202 +276,6 @@ https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/moviemax.us.m
 https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/outermax.eastern.us.m3u8
 
 ****************************  https://raw.githubusercontent.com/MrGmaw/enlaces/23314219af19afea9b0fea8339edfd5a47c47ad2/playlist.m3u ************************
-
-#EXTINF:-1 tvg-chno"13.1" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="MrGmaw_IN",WTHR nbc13 
-https://mrgmaw.github.io/enlaces/in/innbc.m3u8
-#EXTINF:-1 tvg-chno"13.1" tvg-id="" tvg-logo="https://static.epg.best/mx/Telemundo.mx.png" group-title="MrGmaw_IN", Telemundo
-https://mrgmaw.github.io/enlaces/in/intelem.m3u8
-#EXTINF:-1 tvg-chno"" tvg-id="" tvg-logo="" group-title="MrGmaw_IN", WBNX 55
-https://mrgmaw.github.io/enlaces/in/inwbnx.m3u8
-
-#EXTINF:-1 tvg-chno="7.1" tvg-id="KGO.us" tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png" group-title="MrGmaw_SF",KGO TV abc
-https://mrgmaw.github.io/enlaces/ca/caabc.m3u8
-#EXTINF:-1 tvg-chno="5.1" tvg-id="KPIX-TV" tvg-logo="https://www.nicepng.com/png/full/443-4431727_cbs-logo-png.png" group-title="MrGmaw_SF",KPIX cbs
-https://mrgmaw.github.io/enlaces/ca/cacbs.m3u8
-#EXTINF:-1 tvg-chno="11.1" tvg-id="KNTV.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="MrGmaw_SF",KNTV nbc
-https://mrgmaw.github.io/enlaces/ca/canbc.m3u8
-#EXTINF:-1 tvg-chno="2.1" tvg-id="KTVU.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/320px-FOX_wordmark.svg.png" group-title="MrGmaw_SF",KTVU fox
-https://mrgmaw.github.io/enlaces/ca/catvu.m3u8
-#EXTINF:-1 tvg-chno="60.6" tvg-id="KPJK.us" tvg-logo="https://media-usba.mybtv.net/logos/jazztv.png" group-title="MrGmaw_SF",KPJK jazz
-https://mrgmaw.github.io/enlaces/ca/cacsm.m3u8
-#EXTINF:-1 tvg-chno="50.2" tvg-id="KCNS.us" tvg-logo="https://media-usla.mybtv.net/logos/57.1.png" group-title="MrGmaw_SF",KCNS Azteca América
-https://mrgmaw.github.io/enlaces/ca/cacsn.m3u8
-#EXTINF:-1 tvg-chno="9.1" tvg-id="KQED.us" tvg-logo="https://image.pbs.org/bento3-prod/kwcm-bento-live-pbs/Logos/PBS%20National/PBS%20logo/aaac26c5b7_PBS_P-Head-01.png" group-title="MrGmaw_SF",KQED PBS
-https://mrgmaw.github.io/enlaces/ca/caqed.m3u8
-#EXTINF:-1 tvg-chno="28.1" tvg-id="KCNZ.us" tvg-logo="https://media.localbtv.com/images/atlantabtv/logos/latv.png" group-title="MrGmaw_SF",KCNZ LATV
-https://mrgmaw.github.io/enlaces/ca/cacnz.m3u8
-#EXTINF:-1 tvg-chno="48.1" tvg-id="KSTS.us" tvg-logo="https://static.epg.best/mx/Telemundo.mx.png" group-title="MrGmaw_SF",KDTS Telemundo
-https://mrgmaw.github.io/enlaces/ca/casts.m3u8
-#EXTINF:-1 tvg-chno="66.1" tvg-id="KFSFDT1.us" tvg-logo="https://pbs.twimg.com/profile_images/630065202315292672/3DWYcjyQ_400x400.jpg" group-title="MrGmaw_SF",KFSF Unimas
-https://mrgmaw.github.io/enlaces/ca/cafsf1.m3u8
-#EXTINF:-1 tvg-chno="66.2" tvg-id="KFSFDT2.us" tvg-logo="https://www.androidfreeware.net/img2/com-univision-android.jpg" group-title="MrGmaw_SF",KFSF Univision
-https://mrgmaw.github.io/enlaces/ca/cafsf.m3u8
-#EXTINF:-1 tvg-chno="14.1" tvg-id="KDTV.us" tvg-logo="https://www.androidfreeware.net/img2/com-univision-android.jpg" group-title="MrGmaw_SF",KDTV Univision
-https://mrgmaw.github.io/enlaces/ca/cadtv.m3u8
-
-#EXTINF:-1 tvg-chno="15.1" tvg-id="KNXV.us" tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png" group-title="MrGmaw_PX",KNXV abc
-https://mrgmaw.github.io/enlaces/px/pxabc.m3u8
-#EXTINF:-1 tvg-chno="5.1" tvg-id="KPHO-TV" tvg-logo="https://www.nicepng.com/png/full/443-4431727_cbs-logo-png.png" group-title="MrGmaw_PX",KPHO cbs
-https://mrgmaw.github.io/enlaces/px/pxcbs.m3u8
-#EXTINF:-1 tvg-chno="12.1" tvg-id="KPNX.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="MrGmaw_PX",KPNX nbc
-https://mrgmaw.github.io/enlaces/px/pxnbc.m3u8
-#EXTINF:-1 tvg-chno="67.1" tvg-id="KDJTDT1.us" tvg-logo="https://www.androidfreeware.net/img2/com-univision-android.jpg" group-title="MrGmaw_PX",KDJT Univision
-https://mrgmaw.github.io/enlaces/px/pxdjt.m3u8
-#EXTINF:-1 tvg-chno="67.1" tvg-id="KDJTDT1.us" tvg-logo="https://pbs.twimg.com/profile_images/630065202315292672/3DWYcjyQ_400x400.jpg" group-title="MrGmaw_PX",KDJT Unimas
-https://mrgmaw.github.io/enlaces/px/pxdjt1.m3u8
-#EXTINF:-1 tvg-chno="67.1" tvg-id="KSAZDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/320px-FOX_wordmark.svg.png" group-title="MrGmaw_PX",KSAZ fox10
-https://mrgmaw.github.io/enlaces/px/pxfox.m3u8
-#EXTINF:-1 tvg-chno="67.1" tvg-id="KSAZDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/320px-FOX_wordmark.svg.png" group-title="MrGmaw_PX",KSAZ fox10
-https://mrgmaw.github.io/enlaces/px/pxfox1.m3u8
-#EXTINF:-1 tvg-chno="40.1" tvg-id="KEJRLD.us" tvg-logo="https://media-usla.mybtv.net/logos/57.1.png" group-title="MrGmaw_PX",Azteca América
-https://mrgmaw.github.io/enlaces/px/pxazam.m3u8
-#EXTINF:-1 tvg-chno="39.1" tvg-id="KTAZDT1.us" tvg-logo="https://static.epg.best/mx/Telemundo.mx.png" group-title="MrGmaw_PX",KTAZ Telemundo
-https://mrgmaw.github.io/enlaces/px/pxtaz.m3u8
-
-#EXTINF:-1 tvg-chno="51.1" tvg-id="KPPXDT1.us" tvg-logo="https://cdn.blog.tdstelecom.com/wp-content/uploads/2017/08/Ion-tv.jpg" group-title="MrGmaw_PX",ION
-https://mrgmaw.github.io/enlaces/px/pxion.m3u8
-#EXTINF:-1 tvg-chno="8.1" tvg-id="KAETDT1.us" tvg-logo="https://image.pbs.org/bento3-prod/kwcm-bento-live-pbs/Logos/PBS%20National/PBS%20logo/aaac26c5b7_PBS_P-Head-01.png" group-title="MrGmaw_PX",PBS
-https://mrgmaw.github.io/enlaces/px/pxpbs.m3u8
-
-#EXTINF:-1 tvg-chno="7.1" tvg-id="KABCDT1.us" tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png" group-title="MrGmaw_LA",KABC abc7
-https://mrgmaw.github.io/enlaces/la/laabc.m3u8
-#EXTINF:-1 tvg-chno="9.1" tvg-id="KCALTV1.us" tvg-logo="https://www.nicepng.com/png/full/443-4431727_cbs-logo-png.png" group-title="MrGmaw_LA",KCAL cbs9
-https://mrgmaw.github.io/enlaces/la/lacal.m3u8
-#EXTINF:-1 tvg-chno="4.1" tvg-id="KNBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="MrGmaw_LA",KNBC nbc4
-https://mrgmaw.github.io/enlaces/la/lanbc.m3u8
-#EXTINF:-1 tvg-chno="11.1" tvg-id="KTTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/320px-FOX_wordmark.svg.png" group-title="MrGmaw_LA",KTTV fox11
-https://mrgmaw.github.io/enlaces/la/lattv.m3u8
-#EXTINF:-1 tvg-chno="34.1" tvg-id="KMEXDT1.us" tvg-logo="https://www.androidfreeware.net/img2/com-univision-android.jpg" group-title="MrGmaw_LA",KMEX Univision
-https://mrgmaw.github.io/enlaces/la/lamex.m3u8
-#EXTINF:-1 tvg-chno="52.1" tvg-id="KVEA.us" tvg-logo="https://static.epg.best/mx/Telemundo.mx.png" group-title="MrGmaw_LA",KVEA Telemundo
-https://mrgmaw.github.io/enlaces/la/lavea.m3u8
-#EXTINF:-1 tvg-chno="34.1" tvg-id="KMEXDT2.us" tvg-logo="https://pbs.twimg.com/profile_images/630065202315292672/3DWYcjyQ_400x400.jpg" group-title="MrGmaw_LA",KMEX-DT2 Unimas
-https://mrgmaw.github.io/enlaces/la/lamexdt2.m3u8
-#EXTINF:-1 tvg-chno="62.1" tvg-id="KRCA.us" tvg-logo="https://media.localbtv.com/images/atlantabtv/logos/estrella.png" group-title="MrGmaw_LA",KRCA Estrella
-https://mrgmaw.github.io/enlaces/la/larca.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_LA",Comet
-https://mrgmaw.github.io/enlaces/la/lacomet.m3u8
-#EXTINF:-1 tvg-chno="5.1" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/320px-The_CW.svg.png" group-title="MrGmaw_LA",KTLA5 The CW
-https://mrgmaw.github.io/enlaces/la/latla5.m3u8
-
-#EXTINF:-1 tvg-chno="7.1" tvg-id="WABCDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="MrGmaw_NY",WABC abc7
-https://mrgmaw.github.io/enlaces/ny/nyabc.m3u8
-#EXTINF:-1 tvg-chno="2.1" tvg-id="WCBSDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="MrGmaw_NY",WCBS cbs2
-https://mrgmaw.github.io/enlaces/ny/nycbs.m3u8
-#EXTINF:-1 tvg-chno="4.1" tvg-id="WNBCDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="MrGmaw_NY",WNBC nbc4
-https://mrgmaw.github.io/enlaces/ny/nynbc.m3u8
-#EXTINF:-1 tvg-chno="5.1" tvg-id="WNYWDT1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="MrGmaw_NY",WNYW 5fox
-https://mrgmaw.github.io/enlaces/ny/nynyw.m3u8
-#EXTINF:-1 tvg-chno="9.1" tvg-id="WWORDT1.us" tvg-logo="" group-title="MrGmaw_NY",MyNetwork
-https://mrgmaw.github.io/enlaces/ny/nywor.m3u8
-#EXTINF:-1 tvg-chno="25.1" tvg-id="WNYEDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/NYCTV_Life_logo.png" group-title="MrGmaw_NY",NYC Life
-https://mrgmaw.github.io/enlaces/ny/nynye.m3u8
-#EXTINF:-1 tvg-chno="2.3" tvg-id="WCBSDT3.us" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/112501/s112157_h3_aa.png" group-title="MrGmaw_NY",DABL
-https://mrgmaw.github.io/enlaces/ny/nycbs3.m3u8
-#EXTINF:-1 tvg-chno="24.2" tvg-id="WASALD1.us" tvg-logo="https://media.localbtv.com/images/atlantabtv/logos/estrella.png" group-title="MrGmaw_NY",WASA estrella news
-https://mrgmaw.github.io/enlaces/ny/nyasa.m3u8
-#EXTINF:-1 tvg-chno="22.6" tvg-id="WASALD6.us" tvg-logo="https://media.localbtv.com/images/atlantabtv/logos/estrella.png" group-title="MrGmaw_NY",WASA estrella 
-https://mrgmaw.github.io/enlaces/ny/nyasa1.m3u8
-#EXTINF:-1 tvg-chno="41.1" tvg-id="WFUTDT1.us" tvg-logo="https://www.androidfreeware.net/img2/com-univision-android.jpg" group-title="MrGmaw_NY",WFUT Univision 41 HD
-https://mrgmaw.github.io/enlaces/ny/nyunivhd.m3u8
-#EXTINF:-1 tvg-chno="41.1" tvg-id="WFUTDT1.us" tvg-logo="https://www.androidfreeware.net/img2/com-univision-android.jpg" group-title="MrGmaw_NY",WFUT Univision 41 SD
-https://mrgmaw.github.io/enlaces/ny/nyunivsd.m3u8
-#EXTINF:-1 tvg-chno="47.1" tvg-id="WNJUDT1.us" tvg-logo="https://static.epg.best/mx/Telemundo.mx.png" group-title="MrGmaw_NY",WNJU Telemundo 
-https://mrgmaw.github.io/enlaces/ny/nytelem.m3u8
-#EXTINF:-1 tvg-chno="5.1" tvg-id="WNYWDT1.us" tvg-logo="https://pbs.twimg.com/profile_images/630065202315292672/3DWYcjyQ_400x400.jpg" group-title="MrGmaw_NY",Unimas
-https://mrgmaw.github.io/enlaces/ny/nyunim.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="MrGmaw_PI",WCAU nbc10
-https://mrgmaw.github.io/enlaces/pi/picau.m3u8
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png" group-title="MrGmaw_PI",WPVI 6abc
-https://mrgmaw.github.io/enlaces/pi/piabc.m3u8
-#EXTINF:-1 tvg-chno="3.1" tvg-id="KYWDT1.us" tvg-logo="https://www.nicepng.com/png/full/443-4431727_cbs-logo-png.png" group-title="MrGmaw_PI",KYW cbs3
-https://mrgmaw.github.io/enlaces/pi/piyw.m3u8
-#EXTINF:-1 tvg-chno="29.1" tvg-id="WTXFDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/320px-FOX_wordmark.svg.png" group-title="MrGmaw_PI",WTXF fox
-https://mrgmaw.github.io/enlaces/pi/pitxf.m3u8
-#EXTINF:-1 tvg-chno="17.1" tvg-id="WPHLDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/320px-MyNetworkTV_2D_Logo.svg.png" group-title="MrGmaw_PI",WPHL MyNetwork
-https://mrgmaw.github.io/enlaces/pi/piphl.m3u8
-
-#EXTINF:-1 tvg-logo="https://media-usla.mybtv.net/logos/57.1.png" group-title="MrGmaw_SD",XHJK Azt1 FHD
-https://mrgmaw.github.io/enlaces/sd/sdazt1fhd.m3u8
-#EXTINF:-1 tvg-logo="https://media-usla.mybtv.net/logos/57.1.png" group-title="MrGmaw_SD",XHJK Azt1 HD
-https://mrgmaw.github.io/enlaces/sd/sdazt1hd.m3u8
-#EXTINF:-1 tvg-logo="https://media-usla.mybtv.net/logos/57.1.png" group-title="MrGmaw_SD",XHJK Azt1 SD
-https://mrgmaw.github.io/enlaces/sd/sdazt1sd.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/240px-Logo_a%2B_%28canal%29.svg.png" group-title="MrGmaw_SD",XHTIT2 Azt+ SD
-https://mrgmaw.github.io/enlaces/sd/sdaztmas.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo-ForoTV-2020.png/240px-Logo-ForoTV-2020.png" group-title="MrGmaw_SD",XHUAA Forotv SD
-https://mrgmaw.github.io/enlaces/sd/sdforotv.m3u8
-#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="MrGmaw_SD",XHTIT1 Azt7 HD
-https://mrgmaw.github.io/enlaces/sd/sdazt7hd.m3u8
-#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="MrGmaw_SD",XHTIT1 Azt7 SD
-https://mrgmaw.github.io/enlaces/sd/sdazt7sd.m3u8
-#EXTINF:-1 tvg-chno="16.1" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/21134978072561.Y3JvcCwxMzgwLDEwODAsMjcwLDA.jpg" group-title="MrGmaw_SD",KETV El Nu9ve SD
-https://mrgmaw.github.io/enlaces/sd/sdetv.m3u8
-#EXTINF:-1 tvg-chno="16.1" tvg-logo="" group-title="MrGmaw_SD", Estrella tv
-https://mrgmaw.github.io/enlaces/sd/esttv.m3u8
-#EXTINF:-1 tvg-chno="16.1" tvg-logo="" group-title="MrGmaw_SD",Aztk América 
-https://mrgmaw.github.io/enlaces/sd/aztam.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-48380.png" group-title="MrGmaw_SD",XETV Canal 5 HD
-https://mrgmaw.github.io/enlaces/sd/sdcnl5hd.m3u8
-#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-48380.png" group-title="MrGmaw_SD",XETV Canal 5 SD
-https://mrgmaw.github.io/enlaces/sd/sdcnl5sd.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-48380.png" group-title="MrGmaw_SD",XETV *Canal 5 SD
-https://mrgmaw.github.io/enlaces/sd/sdcnl5sb.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MrGmaw_SD",XETV *TUDN
-https://mrgmaw.github.io/enlaces/sd/sdtudnsb.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="MrGmaw_SD",XEWT Televisa HD
-https://mrgmaw.github.io/enlaces/sd/sdtvsahd.m3u8
-#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="MrGmaw_SD",XEWT Televisa SD
-https://mrgmaw.github.io/enlaces/sd/sdtvsasd.m3u8
-#EXTINF:-1 tvg-chno="10.1" tvg-id="KGTB.us" tvg-logo="https://imgx.fubo.tv/station_logos/ABC_c.png" group-title="MrGmaw_SD",KGTB ABC
-https://mrgmaw.github.io/enlaces/sd/sdabc.m3u8
-#EXTINF:-1 tvg-chno="39.1" tvg-id="KNSD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="MrGmaw_SD",KNSD NBC
-https://mrgmaw.github.io/enlaces/sd/sdnbc.m3u8
-
-#EXTINF:-1 tvg-chno="3.1" tvg-id="KSNV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="MrGmaw_LV",KSNV NBC 3
-https://mrgmaw.github.io/enlaces/lv/lvnbc3.m3u8
-#EXTINF:-1 tvg-chno="3.1" tvg-id="" tvg-logo="" group-title="MrGmaw_LV",NewsNetSports
-https://mrgmaw.github.io/enlaces/lv/lvnets.m3u8
-#EXTINF:-1 tvg-chno"" tvg-id="" tvg-logo="" group-title="MrGmaw_LV",BeIn extra
-https://mrgmaw.github.io/enlaces/lv/lvbeinx.m3u8
-#EXTINF:-1 tvg-chno"" tvg-id="" tvg-logo="" group-title="MrGmaw_LV",BeIn extra 1
-https://mrgmaw.github.io/enlaces/lv/lvbeinx1.m3u8
-#EXTINF:-1 tvg-chno"" tvg-id="" tvg-logo="" group-title="MrGmaw_LV",BeIn extra esp
-https://mrgmaw.github.io/enlaces/lv/lvbeinsp.m3u8
-
-#EXTINF:-1 tvg-chno"26.1" tvg-id="" tvg-logo="" group-title="MrGmaw_FN",KMPH Fox 26
-https://mrgmaw.github.io/enlaces/fn/kmph.m3u8
-#EXTINF:-1 tvg-chno"27.1" tvg-id="KYMBLD.us" tvg-logo="https://media.localbtv.com/images/fresnobtv/logos/metv.png" group-title="MrGmaw_FN",KYMB MeTv
-https://mrgmaw.github.io/enlaces/fn/kymb.m3u8
-
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",NBC
-https://mrgmaw.github.io/enlaces/xy/nbcny.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",ABC
-https://mrgmaw.github.io/enlaces/xy/abcny.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",CBSNewYork
-https://mrgmaw.github.io/enlaces/xy/cbsny.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",Fox5NY
-https://mrgmaw.github.io/enlaces/xy/foxny.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",Deutsche Welle
-https://mrgmaw.github.io/enlaces/xy/dwes.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",RT
-https://mrgmaw.github.io/enlaces/xy/rtes.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",English Club
-https://mrgmaw.github.io/enlaces/xy/engclb.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",Univision 
-https://mrgmaw.github.io/enlaces/xy/univny.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",Telemundo 
-https://mrgmaw.github.io/enlaces/xy/teleny.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",TF1 
-https://mrgmaw.github.io/enlaces/xy/tf1.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="" group-title="MrGmaw_XY",BBC World
-https://mrgmaw.github.io/enlaces/xy/bbcw.m3u8
-
 **********************************  https://github.com/angel200881/chann/blob/main/TP.m3u8 ******************************
 ******************************* https://raw.githubusercontent.com/cesarivan2310/Lista/main/Canales ********************************************************************************
 ******************************* https://raw.githubusercontent.com/newton181/dATA/main/_mx.m3u8 **********************************************************************
