@@ -584,6 +584,16 @@ https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/playlist
 *************************************  https://raw.githubusercontent.com/ednar33/newton/main/v1x.m3u  ***************************************************
 
 ************************************************************************************************************************************************************
+
+#EXTINF:-1 group-title="ViX", AZTECA UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 group-title="ViX", AZTECA SIETE
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 group-title="ViX", ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 group-title="ViX", AZTECA NORESTE
+https://live.info7.mx/info7/stream.m3u8
+
 #EXTINF:-1 group-title="ViX", LAS ESTRELLAS INT
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", LAS ESTRELLAS MX
