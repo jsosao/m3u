@@ -590,7 +590,7 @@ https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 group-title="ViX", LAS ESTRELLAS MX (B)
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
-#EXTINF:-1 group-title="ViX", LAS ESTRELLAS (B)
+#EXTINF:-1 group-title="ViX", LAS ESTRELLAS INT (B)
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", LAS ESTRELLAS -1H
 https://linear-414.frequency.stream/dist/vix/414/hls/master/playlist.m3u8
@@ -598,6 +598,8 @@ https://linear-414.frequency.stream/dist/vix/414/hls/master/playlist.m3u8
 https://linear-415.frequency.stream/dist/vix/415/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", NU9VE
 https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", NU9VE (B)
+https://linear-352.frequency.stream/dist/vix/352/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", Canal 4 GDL
 https://linear-402.frequency.stream/dist/vix/402/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", Canal 4 GDL (B)
@@ -606,6 +608,8 @@ https://linear-402.frequency.stream/402/hls/master/playlist.m3u8
 https://linear-403.frequency.stream/dist/vix/403/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", Canal 8 MTY (B)
 https://linear-403.frequency.stream/403/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", DPelicula
+https://linear-354.frequency.stream/dist/vix/354/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", DPelicula Plus
 https://linear-404.frequency.stream/dist/vix/404/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", Distrito Comedia
@@ -642,8 +646,17 @@ https://linear-421.frequency.stream/dist/vix/421/hls/master/playlist.m3u8
 https://linear-400.frequency.stream/dist/vix/400/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", BitMe
 https://linear-401.frequency.stream/dist/vix/401/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", TELEHIT
-https://linear-479.frequency.stream/dist/vix/479/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", Unicable
+ttps://linear-423.frequency.stream/dist/vix/423/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", Unicable INT
+https://linear-317.frequency.stream/317/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", UNIVISION
+https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", Adrenalina
+https://linear-393.frequency.stream/dist/vix/393/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", Adrenalina (B)
+https://linear-393.frequency.stream/393/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="ViX", LO MAS VIXTO
 https://linear-446.frequency.stream/dist/vix/446/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", Zona TUDN USA
@@ -674,6 +687,9 @@ https://linear-361.frequency.stream/dist/vix/361/hls/master/playlist.m3u8
 https://linear-362.frequency.stream/dist/vix/362/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", TUDN 4
 https://linear-439.frequency.stream/dist/vix/439/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", TUDN 4 (B)
+https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="ViX", TUDN 5
 https://linear-441.frequency.stream/dist/vix/441/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", TUDN 6
@@ -688,6 +704,30 @@ https://linear-506.frequency.stream/dist/vix/506/hls/master/playlist.m3u8
 https://linear-507.frequency.stream/dist/vix/507/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", REAL MADRID TV
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="ViX", ION
+https://linear-432.frequency.stream/432/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", ION PLUS
+https://linear-433.frequency.stream/433/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", ION MISTERY
+https://linear-436.frequency.stream/436/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="ViX", ABC WCVB BOSTON
+https://linear-102.frequency.stream/dist/vix/102/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", NBC WBAL BALTIMORE
+https://linear-105.frequency.stream/dist/vix/105/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="ViX", NBC WLWT CINCINATI
+https://linear-107.frequency.stream/dist/vix/107/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", NBC WYFF GREENVILLE SC
+https://linear-110.frequency.stream/dist/vix/110/hls/master/playlist.m3u8
+
+
+https://linear-150.frequency.stream/dist/vix/150/hls/master/playlist.m3u8
+
+
+
+
 
 *************************************  https://raw.githubusercontent.com/dann1110/GreatTV/master/TVBOX%202  ***************************************************
 **********************   https://raw.githubusercontent.com/4benteveos/Personal/main/Prueba1.m3u ****************************************
