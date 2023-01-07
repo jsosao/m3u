@@ -202,46 +202,56 @@ https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 
 #EXTINF:-1  group-title="TOTAL", LAS ESTRELLAS
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", LAS ESTRELLAS (B)
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2037/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", LAS ESTRELLAS (C)
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2047/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", LAS ESTRELLAS (D)
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2264/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", IMAGEN TV
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2298/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", FORO TV
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", CANAL 5
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", CANAL 5 (B)
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2048/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", AZTECA 7
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", AZTECA 7 (B)
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2049/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", NU9VE
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", NU9VE (B)
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2050/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", ONCE
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", AZTECA UNO
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", AZTECA UNO (B)
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2051/PROFILE05.m3u8
 
-
-#EXTINF:-1  group-title="TOTAL", GOLDEN
-https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL123/PROFILE05.m3u8
-
-#EXTINF:-1  group-title="TOTAL", EUROPA EUROPA
-https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL136/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", FILMS & ARTS
-https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL137/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", TELEMUNDO INTERNACIONAL
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL85/PROFILE05.m3u8
-
-
-
-#EXTINF:-1  group-title="TOTAL", FOX SPORTS 3 
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL178/PROFILE05.m3u8
 
 #EXTINF:-1  group-title="TOTAL", ???
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL179/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", ???
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL185/PROFILE05.m3u8
 
+#EXTINF:-1  group-title="TOTAL", MEXIQUENSE
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL44/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", ADN 40 
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", TELEFORMULA 
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL161/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", MULTIMEDIOS CDMX 
+#EXTINF:-1  group-title="TOTAL", MULTIMEDIOS CDMX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", MULTIMEDIOS MTY
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2305/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", TELEVISA PUEBLA
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2312/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", 4 GUANAJUATO
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2357/PROFILE05.m3u8
+
 #EXTINF:-1  group-title="TOTAL", CNN
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL186/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", CÑÑ
@@ -260,7 +270,19 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL197/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL654/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", RT INGLES
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL999/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", RT ESPAÑOL
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2091/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", EL FINANCIERO
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2167/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", FRANCE 24
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2402/PROFILE05.m3u8
 
+#EXTINF:-1  group-title="TOTAL", EUROPA EUROPA
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL136/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", FILMS & ARTS
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL137/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", TELEMUNDO INTERNACIONAL
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL85/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", ANTENA 3
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL199/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", STAR CHANNEL
@@ -283,6 +305,8 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL257/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", GOURMET
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL268/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", FOOD NETWORK
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2145/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", COMEDY CENTRAL
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL217/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", DISTRITO COMEDIA
@@ -293,15 +317,13 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL218/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", HOLA TV
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL219/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", H&H
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", MAS CHIC
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL221/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", MUNDO
+#EXTINF:-1  group-title="TOTAL", AZ MUNDO
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL276/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", TRUE TV
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", CORAZON
+#EXTINF:-1  group-title="TOTAL", AZ CORAZON
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL250/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", GLITZ
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL270/PROFILE05.m3u8
@@ -315,7 +337,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", STUDIO UNIVERAL
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", CI
+#EXTINF:-1  group-title="TOTAL", I-SAT
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL495/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", TCM
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE05.m3u8
@@ -325,6 +347,21 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL425/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", TVE
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", STAR TVE
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2375/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", A3 SERIES
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2113/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", NTN 24
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL194/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", A MAS
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2316/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", A MAS+
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2319/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", TLC
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2380/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", AXN
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2507/PROFILE05.m3u8
+
 
 
 #EXTINF:-1  group-title="TOTAL", DISCOVERY KIDS
@@ -339,19 +376,33 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL314/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", NICK
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", CARTOON NETWORK
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", TOONCAST
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", TEEN NICK
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2147/PROFILE05.m3u8
 
 
 
 
 #EXTINF:-1  group-title="TOTAL", DISCOVERY THEATER
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", DISCOVERY
+#EXTINF:-1  group-title="TOTAL", DISCOVERY WORLD
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", DISCOVERY CHANNEL
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", DISCOVERY H&H
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", DISCOVERY SCIENCE
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", DISCOVERY ID
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2376/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", DISCOVERY TURBO
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2379/PROFILE05.m3u8
 
+#EXTINF:-1  group-title="TOTAL", ANIMAL PLANET
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2378/PROFILE05.m3u8
 
 #EXTINF:-1  group-title="TOTAL", NAT GEO
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE05.m3u8
@@ -359,10 +410,6 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", HISTORY
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE05.m3u8
 
-
-
-#EXTINF:-1  group-title="TOTAL", ????
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE05.m3u8
 
 #EXTINF:-1  group-title="TOTAL", DPELICULA
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL335/PROFILE05.m3u8
@@ -375,10 +422,15 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", CINECANAL
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", GOLDEN
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL123/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", GOLDEN PLUS
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", GOLDEN EDGE
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE05.m3u8
+
+#EXTINF:-1  group-title="TOTAL", NBC GOLF
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL179/PROFILE05.m3u8
 
 #EXTINF:-1  group-title="TOTAL", ESPN
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8
@@ -390,11 +442,20 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", FOX SPORTS 2
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", FOX SPORTS 3 
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL178/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", PX SPORTS
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", AYM
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL576/PROFILE05.m3u8
-
+#EXTINF:-1  group-title="TOTAL", LAS
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2089/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", TVC
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2157/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", ADRENALINA
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2404/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", CLARO SPORTS
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2564/PROFILE05.m3u8
 
 #EXTINF:-1  group-title="TOTAL", MTV LIVE
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE05.m3u8
@@ -421,304 +482,89 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL802/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", ALEATORIO
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL803/PROFILE05.m3u8
 
-
-
+#EXTINF:-1  group-title="TOTAL", ?
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", ??
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2278/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", ???
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2307/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", AZTECA UNO ????
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2336/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", ????
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2355/PROFILE05.m3u8
 
 #EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/610e734aff40daf96440edc71c5ee75e.png" group-title="Ccr2310",LAS ESTRELLAS-1HORAS
 https://linear-414.frequency.stream/414/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/610e734aff40daf96440edc71c5ee75e.png" group-title="Ccr2310",LAS ESTRELLAS-2HORAS
 https://linear-415.frequency.stream/415/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/f8bc7bb05f3275b810bfe807df15e42c.png" group-title="Ccr2310",IMAGEN TV
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2298/PROFILE05.m3u8
 
 
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/a7a7f77d5db129e456db369ca6aebd70.png" group-title="Ccr2310",TELEFORMULA
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL161/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/cd6d82f162c37d106e0ffa396ca9bf80.png" group-title="Ccr2310",MEXIQUENSE TV
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL44/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="https://totalgo.totalplay.com.mx:444/TPCOREWeb/MasterImage?mimId=2867" group-title="Ccr2310",CLIC 
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/b67239f702e80e73304d06d074d64067.png" group-title="Ccr2310",AZ CORAZON
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL250/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/45fbcc169fb50e688aa9d95aa167f230.png" group-title="Ccr2310",AZ MUNDO
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL276/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhfn2.png" group-title="Ccr2310",A MÁS+
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2278/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/2712172e46070ead867362c4850c7b68.png" group-title="Ccr2310",TV AZTECA CINEMA
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL425/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/7cd1b96ae5ae87003ae5444ea8b273ff.png" group-title="Ccr2310",MULTIMEDIOS MTY
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/7cd1b96ae5ae87003ae5444ea8b273ff.png" group-title="Ccr2310",MULTIMEDIOS CDMX
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/7cd1b96ae5ae87003ae5444ea8b273ff.png" group-title="Ccr2310",MULTIMEDIOS BAJÍO 
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aec2.png" group-title="Ccr2310",INGENIO TV
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL401/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvmasver.jpg" group-title="Ccr2310",TV MAS
-https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png" group-title="Ccr2310",TV4.1 GUANAJUATO
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtdmx4.png" group-title="Ccr2310",MVS
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-#EXTINF:-1  tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26130_dark_360w_270h.png" group-title="Ccr2310",TELEVISA MONTERREY
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://xtream-coders.com/x0/latino/televisa_puebla.png" group-title="Ccr2310",TELEVISA PUEBLA
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2312/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26130_dark_360w_270h.png" group-title="Ccr2310",TELEVISA BAJÍO 
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26130_dark_360w_270h.png" group-title="Ccr2310",TELEVISA CHIHUAHUA
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26130_dark_360w_270h.png" group-title="Ccr2310",TELEVISA QUERÉTARO 
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="Ccr2310",AZTECA NORESTE
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" group-title="Ccr2310",ONCE NIÑOS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL3315/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/a2bdb2908ab1ac817ebe22713dddd737.png" group-title="Ccr2310",CARTOON NETWORK
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/17358e69c24554fdad40fe61a46f8dc5.png" group-title="Ccr2310",TOONCAST
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26089_dark_360w_270h.png" group-title="Ccr2310",CARTOONITO
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL324/PROFILE05.m3u8
+
 #EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/6025a754d1c6a62c14287710c7667dc1.png" group-title="Ccr2310",BITME
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2591/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/ce/d1/66/ced166962f1db9dc256759e96fa0a99c.png" group-title="Ccr2310",NICK
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/21a5c63b222501eaca9dd4e3db7cce04.png" group-title="Ccr2310",TEENNICK
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2147/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/e9368314945c99346f48d85346569438.png" group-title="Ccr2310",NICKMUSIC
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL314/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/3d077c2e3a59f8447fadbaacee0ccbbc.png" group-title="Ccr2310",NICK JR
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL310/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/4db99c9b9554362b3960f44523b6980c.png" group-title="Ccr2310",DISNEY CHANNEL
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/098d475f76e6a0860e4da430c897cd64.png" group-title="Ccr2310",DISNEY JR
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL308/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/e1abff7cfbdd9135b1fa98cc85ac8576.png" group-title="Ccr2310",DISCOVERY KIDS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE05.m3u8
+
+
 #EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/1e/54/75/1e5475e63e7183eb7391444402afd010.png" group-title="Ccr2310",BABY FIRST
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1984/PROFILE05.m3u
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/93f73ccbb1b6c3e0e8ae92c4552a5542.png" group-title="Ccr2310",BABY TV
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL116/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3.png" group-title="Ccr2310",ANTENA 3
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL199/PROFILE05.m3u
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/cdbc51673b283b91bbcc95656f740bf0.png" group-title="Ccr2310",A3SERIES
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2113/PROFILE05.m3u8
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3c.png" group-title="Ccr2310",A3CINE
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL3112/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://tv.naturalplus.live:25461/images/8f14bdb5de5a8097affa91bf0bf9c77d.png" group-title="Ccr2310",DE PELICULA
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL335/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/01134d9ccf0bb376e97b9b2b239ba632.png" group-title="Ccr2310",DE PELICULA +
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE05.m3u8
 
 
-#EXTINF:-1  tvg-logo="http://lonewolftvpr.com/logos/goldenplus.png" group-title="Ccr2310",GOLDEN +
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://xtream-coders.com/x0/latino/golden_edge.png" group-title="Ccr2310",GOLDEN EDGE
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://xtream-coders.com/x0/latino/golden_edge.png" group-title="Ccr2310",GOLDEN PREMIER
-https://linear-411.frequency.stream/411/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/3d9b6b4d3c0fe15c610dbc7bcfcd93d3.png" group-title="Ccr2310",TNT SERIES
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://fanboynation.com/wp-content/uploads/2015/04/TNT-Logo.jpg" group-title="Ccr2310",TNT
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/64a7b6b42fc5c3576ebf031cc07dd919.png" group-title="Ccr2310",TCM
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/69579d049ee01159a5126500e467c31b.png" group-title="Ccr2310",SPACE
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/e1a0a412d0aa953b2959df15c7a9920f.png" group-title="Ccr2310",AMC
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/studio.png" group-title="Ccr2310",STUDIO UNIVERSAL
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/49f1f5c584a7aaab04bf5d5cdb546a8b.png" group-title="Ccr2310",I-SAT
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL495/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/e021b02e9045e20c70fa2a07ef224473.png" group-title="Ccr2310",FILMS & ARTS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL137/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/b6822fa80001d4481c21581b46f9df9f.png" group-title="Ccr2310",EUROPA EUROPA
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL136/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://xtream-coders.com/x0/latino/distrito_comedia.png" group-title="Ccr2310",DISTRITO COMEDIA
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL272/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/comedy-central_m.png" group-title="Ccr2310",COMEDY CENTRAL
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL217/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/288f8ea8c591feedca96250ea870d6ea.png" group-title="Ccr2310",TRUTV
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/b2cdc35e0a088420655f7ea8cb172fda.png" group-title="Ccr2310",TBS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png" group-title="Ccr2310",STAR CHANNEL
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://xtream-coders.com/x0/latino/morbido_tv.png" group-title="Ccr2310",MORBIDO TV
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL470/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://xtream-coders.com/x0/movie/cinemax.png" group-title="Ccr2310",CINEMAX
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="Ccr2310",CINECANAL
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE05.m3u8
 #EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/2845a37bd0493a9167a7e068c2b76a00.png" group-title="Ccr2310",PARAMOUNT NETWORK
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1726/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://xtream-coders.com/x0/latino/sony_channel.png" group-title="Ccr2310",SONY CHANNEL
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png" group-title="Ccr2310",WARNER TV
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/f6e82a9344e449320812cf93cf5eaf17.png" group-title="Ccr2310",UNIVERSAL TV
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://xtream-coders.com/x0/latino/syfy.png" group-title="Ccr2310",SYFY
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL257/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/b6937ca8e0c6a83cc2038f76832891bb.jpg" group-title="Ccr2310",FX
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://xtream-coders.com/x0/latino/ae.png" group-title="Ccr2310",A&E
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://xtream-coders.com/x0/latino/axn.png" group-title="Ccr2310",AXN
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2507/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/9680ce04cec7695e40e89b74cd5d3c2a.png" group-title="Ccr2310",TELEMUNDO INTERNACIONAL 
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL85/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://xtream-coders.com/x0/latino/unicable.png" group-title="Ccr2310",UNICABLE
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL218/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/49a86313d806423db3bc9d3714d80e02.png" group-title="Ccr2310",TL NOVELAS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/c755e7c7d154a0ae1a30a2f3a8c31f64.png" group-title="Ccr2310",E!
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL255/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hola.jpg" group-title="Ccr2310",¡HOLA! TV
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL219/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/8701240f429abffa4519b77e2d5360ee.png" group-title="Ccr2310",LIFETIME
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/a9252dcb4eae3a97e0dd312d42125937.png" group-title="Ccr2310",GLITZ
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL270/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tve.png" group-title="Ccr2310",TVE
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/481dd172f2967d63bb42ae051dc95f73.png" group-title="Ccr2310",STAR TVE
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2375/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/f1f3d8f737ed0f285c636273d5b52f17.png" group-title="Ccr2310",FOOD NETWORK
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2145/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/873dcae064fdbb8be90c81f1b3f93073.png" group-title="Ccr2310",GOURMET
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL268/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://xtream-coders.com/x0/latino/mas_chic.png" group-title="Ccr2310",MAS CHIC
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL221/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://xtream-coders.com/x0/deportes/espn.png" group-title="Ccr2310",ESPN 1
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://xtream-coders.com/x0/deportes/espn2.png" group-title="Ccr2310",ESPN 2
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://xtream-coders.com/x0/deportes/espn3.png" group-title="Ccr2310",ESPN 3
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/5ffb03c8561859d0cbac95875f282c10.png" group-title="Ccr2310",ESPN +
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox1.png" group-title="Ccr2310",FOX SPORTS 1
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/f861606d811726f30067d1f1d4fafb06.png" group-title="Ccr2310",FOX SPORTS 2
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/d7ad96c14ffede8e1404d139e1f91e6e.png" group-title="Ccr2310",FOX SPORTS 3
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL178/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/9ed7bff992d63629a4fdace761679342.png" group-title="Ccr2310",TUDN
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
+
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="Ccr2310",CLARO SPORTS
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2564/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://xtream-coders.com/x0/deportes/afizzionados.png" group-title="Ccr2310",AFIZZIONADOS
-https://linear-348.frequency.stream/dist/localnow/348/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/U-Beat.svg" group-title="Ccr2310",U-BEAT
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/las.png" group-title="Ccr2310",LAS 
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://alltvpremiere.online/logo/pxsports.jpg" group-title="Ccr2310",PX SPORTS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/73e3025cc20ed6d58243d099ae362a2a.png" group-title="Ccr2310",TVC DEPORTES
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2157/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://xtream-coders.com/x0/deportes/aymsports.png" group-title="Ccr2310",AYM SPORTS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL576/PROFILE05.m3u8
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/asn.png" group-title="Ccr2310",ADRENALINA SPORTS
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1799/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Ccr2310",FIBA AMERICAS TV 
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://lonewolftvpr.com/logos/garage.png" group-title="Ccr2310",GARAGE TV
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL269/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://xtream-coders.com/x0/deportes/nbcgolf.png" group-title="Ccr2310",GOLF
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL179/PROFILE05.m3u8
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fuel.png" group-title="Ccr2310",FUEL TV
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2587/PROFILE05.m3u8
+
 #EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/2adecf47066d183750c323ff430d4704.png" group-title="Ccr2310",ANIMAL PLANET
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2378/PROFILE05.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.pinimg.com/280x280_RS/1b/f1/d4/1bf1d4bf0ed8c37e1c8efc5b17401467.jpg" group-title="Ccr2310",HGTV
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL3105/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/f756578ec005c2ab8da7a8334173509c.png" group-title="Ccr2310",DISCOVERY CHANNEL
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://xtream-coders.com/x0/latino/discovery_hh.png" group-title="Ccr2310",DISCOVERY H&H
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE05.m3u8
+
 #EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/5595a1bcd6cd02bc45caac86437e43d5.png" group-title="Ccr2310",DISCOVERY ID 
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2376/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/669f4cb377977e1089d3bdeeebe06010.jpg" group-title="Ccr2310",DISCOVERY SCIENCE
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/c5718d89e5b2be2c08708aa9cde7b7c7.png" group-title="Ccr2310",DISCOVERY THEATER
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE05.m3u8
+
 #EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/3a42e889d925964891ab42e3e43b1466.png" group-title="Ccr2310",DISCOVERY TURBO
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2379/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/f6335e56bc07c10d229167b09d171b28.png" group-title="Ccr2310",DISCOVERY WORLD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE05.m3u8
+
 #EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/147d3271a7894379d7379be0dc996f20.png" group-title="Ccr2310",TLC
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2380/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/ac59a138e8814102b3cd782adbc1c9b2.png" group-title="Ccr2310",NAT GEO
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/ded5e060d8dab8d4317c3568834c94cf.png" group-title="Ccr2310",HISTORY
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/510c690365435b71120db02a607408a0.png" group-title="Ccr2310",MTV
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/d73c45a6056261b86853e4743093a0ea.png" group-title="Ccr2310",MTV HITS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/0de2ec803fc3459380222fcd29bfbad8.png" group-title="Ccr2310",MTV LIVE
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/fb4fb903adc4b0f940b21c3fd7c9d316.png" group-title="Ccr2310",MTV 80'S
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/cfd8477086b88b5799361ee317e04660.png" group-title="Ccr2310",MTV 00S
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rms.png" group-title="Ccr2310",TELEHIT
-https://linear-417.frequency.stream/417/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/thp.png" group-title="Ccr2310",TELEHIT MÚSICA +
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rms.png" group-title="Ccr2310",TELEHIT MÚSICA 
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/2e45b33b0762944527972bbb1c12f899.png" group-title="Ccr2310",BANDAMAX
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE05.m3u8
+
+
 #EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/090207cb23a37cbcaccc245049d2182f.png" group-title="Ccr2310",TELERITMO
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1943/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/0944dff2981b872e609398050733518c.png" group-title="Ccr2310",MILENIO
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/467675b33c1fcae34c8fc4eb0f32d73e.png" group-title="Ccr2310",FORO TV
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/ae02f68e3252392c0422c02a477b0e49.png" group-title="Ccr2310",ADN 40
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2/PROFILE05.m3u8
+
 #EXTINF:-1  tvg-logo="https://www.izzi.mx/izzi/v4/img/dummy-img/channels/ExcelsiorTv.png" group-title="Ccr2310",IMAGEN MULTICAST
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1449/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/finan.png" group-title="Ccr2310",EL FINANCIERO
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ntn24.png" group-title="Ccr2310",NTN 24
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL194/PROFILE05.m3u8
+
 #EXTINF:-1  tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16292_dark_360w_270h.png" group-title="Ccr2310",MEGA NOTICIAS
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2156/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://xtream-coders.com/x0/latino/cnn.png" group-title="Ccr2310",CNN
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://xtream-coders.com/x0/latino/cnn.png" group-title="Ccr2310",CNN LIVE
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL185/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/2abdf53669ebe4c7ad45825c25fb8fc5.png" group-title="Ccr2310",CNN Ñ
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL187/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="Ccr2310",RT EN ESPAÑOL
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2091/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="Ccr2310",RT NOTICIAS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL999/PROFILE05.m3u8
 
-
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/e1ea37ac05814b4f234b53055f3d532f.png" group-title="Ccr2310",WOBI
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/f24.png" group-title="Ccr2310",FRANCE 24
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2402/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/e1ea37ac05814b4f234b53055f3d532f.png" group-title="Ccr2310",AL JAZEERA
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL192/PROFILE05.m3u8
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/curio.png" group-title="Ccr2310",CURIOSITY STREAM
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2594/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hln.png" group-title="Ccr2310",HLN
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/e1ea37ac05814b4f234b53055f3d532f.png" group-title="Ccr2310",DW
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL654/PROFILE05.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png" group-title="Ccr2310",CANAL DEL CONGRESO
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/judic.png" group-title="Ccr2310",JUSTICIA TV
 https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/playlist.m3u8
 
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvmasver.jpg" group-title="Ccr2310",TV MAS
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+
+*********************************************
 
 
 #EXTINF:-1 group-title="SSC", SSC NEWS
