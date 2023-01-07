@@ -377,13 +377,27 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", AMC
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE05.m3u8
 
+#EXTINF:-1  group-title="TOTAL", SPACE
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE05.m3u8
+
+#EXTINF:-1  group-title="TOTAL", CINEMAX
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE05.m3u8
+
+#EXTINF:-1  group-title="TOTAL", GOLDEN EDGE
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE05.m3u8
+
+#EXTINF:-1  group-title="TOTAL", STUDIO UNIVERAL
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE05.m3u8
+
+#EXTINF:-1  group-title="TOTAL", CI
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL495/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", TCM
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE05.m3u8
 
 
 
 
-
-
-
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
 
 
 
