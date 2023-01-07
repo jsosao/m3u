@@ -7,79 +7,77 @@
 
 ************************************************************************************************************************************************************
 
-#EXTINF:-1 group-title="ViX", ABC NEW YORK
+#EXTINF:-1 group-title="ViX USA", ABC NEW YORK
 https://v-ny.MyBTv.net/live/554/1280x720.m3u8
-#EXTINF:-1 group-title="ViX", ABC SAN FRANCISCO
+#EXTINF:-1 group-title="ViX USA", ABC SAN FRANCISCO
 https://v-ca.mybtv.net/live/119/1280x720.m3u8
-#EXTINF:-1 group-title="ViX", ABC LOS ANGELES
+#EXTINF:-1 group-title="ViX USA", ABC LOS ANGELES
 https://v-la.mybtv.net/live/88/1280x720.m3u8
-#EXTINF:-1 group-title="ViX", ABC PHOENIX
+#EXTINF:-1 group-title="ViX USA", ABC PHOENIX
 https://v-px.mybtv.net/live/27/1280x720.m3u8
 
-#EXTINF:-1 group-title="ViX", NBC NEW YORK
+#EXTINF:-1 group-title="ViX USA", NBC NEW YORK
 https://v-ny.MyBTv.net/live/548/1920x1080.m3u8
-#EXTINF:-1 group-title="ViX", NBC SAN FRANCISCO
+#EXTINF:-1 group-title="ViX USA", NBC SAN FRANCISCO
 https://v-ca.mybtv.net/live/162/1280x720.m3u8
-#EXTINF:-1 group-title="ViX", NBC LOS ANGELES
-https://v-la.mybtv.net/live/82/1280x720.m3u8
-#EXTINF:-1 group-title="ViX", NBC PHOENIX
+****#EXTINF:-1 group-title="ViX USA", NBC LOS ANGELES
+****https://v-la.mybtv.net/live/82/1280x720.m3u8
+#EXTINF:-1 group-title="ViX USA", NBC PHOENIX
 https://v-px.mybtv.net/live/55/1280x720.m3u8
-#EXTINF:-1 group-title="ViX", NBC LAS VEGAS
+#EXTINF:-1 group-title="ViX USA", NBC LAS VEGAS
 https://v-lv.MyBTv.net/live/1059/768x432.m3u8
 
-
-
-#EXTINF:-1 group-title="ViX", CBS NEW YORK
+#EXTINF:-1 group-title="ViX USA", CBS NEW YORK
 https://v-ny.MyBTv.net/live/545/1920x1080.m3u8
-#EXTINF:-1 group-title="ViX", CBS SAN FRANCISCO
-ttps://v-ca.mybtv.net/live/162/1280x720.m3u8
-****#EXTINF:-1 group-title="ViX", CBS LOS ANGELES
+#EXTINF:-1 group-title="ViX USA", CBS SAN FRANCISCO
+https://v-ca.mybtv.net/live/162/1280x720.m3u8
+****#EXTINF:-1 group-title="ViX USA", CBS LOS ANGELES
 ****https://v-la.mybtv.net/live/259/1280x720.m3u8
-#EXTINF:-1 group-title="ViX", CBS PHOENIX
+#EXTINF:-1 group-title="ViX USA", CBS PHOENIX
 https://v-px.mybtv.net/live/48/1280x720.m3u8
 
 
-#EXTINF:-1 group-title="ViX", FOX NEW YORK
+#EXTINF:-1 group-title="ViX USA", FOX NEW YORK
 https://v-ny.MyBTv.net/live/550/1280x720.m3u8
-#EXTINF:-1 group-title="ViX", FOX SAN FRANCISCO
+#EXTINF:-1 group-title="ViX USA", FOX SAN FRANCISCO
 https://v-ca.mybtv.net/live/170/1280x720.m3u8
-#EXTINF:-1 group-title="ViX", FOX PHOENIX
+#EXTINF:-1 group-title="ViX USA", FOX PHOENIX
 https://v-px.mybtv.net/live/14/1280x720.m3u8
 
-#EXTINF:-1 group-title="ViX", UNIVISION NEW YORK
+#EXTINF:-1 group-title="ViX USA", UNIVISION NEW YORK
 https://v-ny.MyBTv.net/live/643/1280x720.m3u8
-#EXTINF:-1 group-title="ViX", UNIVISION SAN FRANCISCO
+#EXTINF:-1 group-title="ViX USA", UNIVISION SAN FRANCISCO
 https://v-ca.mybtv.net/live/148/1280x720.m3u8
-****#EXTINF:-1 group-title="ViX", UNIVISION LOS ANGELES
+****#EXTINF:-1 group-title="ViX USA", UNIVISION LOS ANGELES
 ****https://v-la.mybtv.net/live/178/1280x720.m3u8
-#EXTINF:-1 group-title="ViX", UNIVISION PHOENIX
+#EXTINF:-1 group-title="ViX USA", UNIVISION PHOENIX
 https://v-px.mybtv.net/live/28/1280x720.m3u8
 
-#EXTINF:-1 group-title="ViX", TELEMUNDO SAN FRANCISCO
+#EXTINF:-1 group-title="ViX USA", TELEMUNDO SAN FRANCISCO
 https://v-ca.mybtv.net/live/140/1280x720.m3u8
-****#EXTINF:-1 group-title="ViX", TELEMUNDO SAN FRANCISCO
+****#EXTINF:-1 group-title="ViX USA", TELEMUNDO SAN FRANCISCO
 ****https://v-ca.mybtv.net/live/140/1280x720.m3u8
-****#EXTINF:-1 group-title="ViX", TELEMUNDO LOS ANGELES
+****#EXTINF:-1 group-title="ViX USA", TELEMUNDO LOS ANGELES
 ****https://v-la.mybtv.net/live/267/1280x720.m3u8
 
-#EXTINF:-1 group-title="ViX", AZTECA AMERICA PHOENIX
+#EXTINF:-1 group-title="ViX USA", AZTECA AMERICA PHOENIX
 https://v-px.mybtv.net/live/41/1280x720.m3u8
-#EXTINF:-1 group-title="ViX", AZTECA AMERICA LAS VEGAS
+#EXTINF:-1 group-title="ViX USA", AZTECA AMERICA LAS VEGAS
 https://v-lv.MyBTv.net/live/1028/768x432.m3u8
 
-****#EXTINF:-1 group-title="ViX", ESTRELLA NEW YORK
+****#EXTINF:-1 group-title="ViX USA", ESTRELLA NEW YORK
 ****https://v-ny.MyBTv.net/live/650/1280x720.m3u8
-#EXTINF:-1 group-title="ViX", ESTRELLA TV PHOENIX
+#EXTINF:-1 group-title="ViX USA", ESTRELLA TV PHOENIX
 https://v-px.mybtv.net/live/45/1280x720.m3u8
 
-#EXTINF:-1 group-title="ViX", KTLA LOS ANGELES
+#EXTINF:-1 group-title="ViX USA", KTLA LOS ANGELES
 https://v-la.mybtv.net/live/164/1280x720.m3u8
 
-#EXTINF:-1 group-title="ViX", ION NEW YORK
+#EXTINF:-1 group-title="ViX USA", ION NEW YORK
 https://v-ny.MyBTv.net/live/608/1280x720.m3u8
-****#EXTINF:-1 group-title="ViX", ION PHOENIX
+****#EXTINF:-1 group-title="ViX USA", ION PHOENIX
 ****https://v-px.mybtv.net/live/17/1280x720.m3u8
-#EXTINF:-1 group-title="ViX", ION MISTERY NEW YORK
+#EXTINF:-1 group-title="ViX USA", ION MISTERY NEW YORK
 https://v-ny.mybtv.net/live/610/768x432.m3u8
 
 
