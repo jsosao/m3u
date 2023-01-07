@@ -199,6 +199,12 @@ https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 
 *****************************************  TOTAL ***************************************
 
+
+
+#EXTINF:-1  group-title="TOTAL", AZTECA UNO
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", AZTECA UNO (B)
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2051/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", LAS ESTRELLAS
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", LAS ESTRELLAS (B)
@@ -215,6 +221,10 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", CANAL 5 (B)
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2048/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", MULTIMEDIOS CDMX
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", MULTIMEDIOS MTY
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2305/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", AZTECA 7
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", AZTECA 7 (B)
@@ -225,16 +235,6 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2050/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", ONCE
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", AZTECA UNO
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", AZTECA UNO (B)
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2051/PROFILE05.m3u8
-
-
-#EXTINF:-1  group-title="TOTAL", ???
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL179/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", ???
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL185/PROFILE05.m3u8
 
 #EXTINF:-1  group-title="TOTAL", MEXIQUENSE
 https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL44/PROFILE05.m3u8
@@ -242,10 +242,7 @@ https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL44/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", TELEFORMULA 
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL161/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", MULTIMEDIOS CDMX
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", MULTIMEDIOS MTY
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2305/PROFILE05.m3u8
+
 #EXTINF:-1  group-title="TOTAL", TELEVISA PUEBLA
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2312/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", 4 GUANAJUATO
@@ -275,6 +272,8 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2091/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2167/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", FRANCE 24
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2402/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL",IMAGEN MULTICAST
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1449/PROFILE05.m3u8
 
 #EXTINF:-1  group-title="TOTAL", EUROPA EUROPA
 https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL136/PROFILE05.m3u8
@@ -338,6 +337,8 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", STUDIO UNIVERAL
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", PARAMOUNT NETWORK
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1726/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", I-SAT
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL495/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", TCM
@@ -387,9 +388,6 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2147/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", BITME
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2591/PROFILE05.m3u8
-
-
-
 
 #EXTINF:-1  group-title="TOTAL", DISCOVERY THEATER
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE05.m3u8
@@ -499,40 +497,8 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2336/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", ????
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2355/PROFILE05.m3u8
 
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/610e734aff40daf96440edc71c5ee75e.png" group-title="Ccr2310",LAS ESTRELLAS-1HORAS
-https://linear-414.frequency.stream/414/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/610e734aff40daf96440edc71c5ee75e.png" group-title="Ccr2310",LAS ESTRELLAS-2HORAS
-https://linear-415.frequency.stream/415/hls/master/playlist.m3u8
-
-
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtdmx4.png" group-title="Ccr2310",MVS
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/1e/54/75/1e5475e63e7183eb7391444402afd010.png" group-title="Ccr2310",BABY FIRST
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1984/PROFILE05.m3u
-
-
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/2845a37bd0493a9167a7e068c2b76a00.png" group-title="Ccr2310",PARAMOUNT NETWORK
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1726/PROFILE05.m3u8
-
-
-
-
-#EXTINF:-1  tvg-logo="http://ky-iptv.com:25461/images/090207cb23a37cbcaccc245049d2182f.png" group-title="Ccr2310",TELERITMO
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1943/PROFILE05.m3u8
-
-#EXTINF:-1  tvg-logo="https://www.izzi.mx/izzi/v4/img/dummy-img/channels/ExcelsiorTv.png" group-title="Ccr2310",IMAGEN MULTICAST
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1449/PROFILE05.m3u8
-
-#EXTINF:-1  tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16292_dark_360w_270h.png" group-title="Ccr2310",MEGA NOTICIAS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2156/PROFILE05.m3u8
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/judic.png" group-title="Ccr2310",JUSTICIA TV
-https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvmasver.jpg" group-title="Ccr2310",TV MAS
-https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
 *********************************************
 
