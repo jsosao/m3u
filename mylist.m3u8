@@ -269,6 +269,15 @@ https://mrgmaw.github.io/enlaces/xy/bbcw.m3u8
 ******************************* https://github.com/PhoenixDreamsCompany/TV_PREMIUM_TOLUCA/blob/main/LAGUERA.m3u  *************************************************
 
 ************************************************************************************************************************************************************
+
+#EXTINF:-1 group-title="Vix", 1
+https://v-in.MyBTv.net/live/1079/768x432.m3u8
+#EXTINF:-1 group-title="Vix", 2
+https://v-in.MyBTv.net/live/1079/1280x720.m3u8
+#EXTINF:-1 group-title="Vix", 3
+https://v-in.MyBTv.net/live/1079/1920x1080.m3u8
+
+
 #EXTINF:-1 group-title="Vix", AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 group-title="Vix", AZTECA SIETE
