@@ -271,7 +271,7 @@ https://mrgmaw.github.io/enlaces/xy/bbcw.m3u8
 ************************************************************************************************************************************************************
 #EXTINF:-1 group-title="Vix", AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 group-title="ViX", AZTECA SIETE
+#EXTINF:-1 group-title="Vix", AZTECA SIETE
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 group-title="ViX", ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
@@ -399,23 +399,6 @@ https://linear-506.frequency.stream/dist/vix/506/hls/master/playlist.m3u8
 https://linear-507.frequency.stream/dist/vix/507/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", REAL MADRID TV
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="ViX", ION
-https://linear-432.frequency.stream/432/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", ION PLUS
-https://linear-433.frequency.stream/433/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", ION MISTERY
-https://linear-436.frequency.stream/436/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="ViX", ABC WCVB BOSTON
-https://linear-102.frequency.stream/dist/vix/102/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", NBC WBAL BALTIMORE
-https://linear-105.frequency.stream/dist/vix/105/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="ViX", NBC WLWT CINCINATI
-https://linear-107.frequency.stream/dist/vix/107/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", NBC WYFF GREENVILLE SC
-https://linear-110.frequency.stream/dist/vix/110/hls/master/playlist.m3u8
 
 ******************************************************  https://github.com/ccr2310/MX/blob/main/Prueba  *****************************************************
 
