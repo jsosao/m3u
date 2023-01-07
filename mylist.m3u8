@@ -9,38 +9,46 @@
 
 #EXTINF:-1 group-title="ViX", ABC NEW YORK
 https://v-ny.MyBTv.net/live/554/1280x720.m3u8
+#EXTINF:-1 group-title="ViX", ABC SAN FRANCISCO
+https://v-ca.mybtv.net/live/119/1280x720.m3u8
+#EXTINF:-1 group-title="ViX", ABC INDIANALPOLIS
+https://v-in.MyBTv.net/live/119/1280x720.m3u8
+
 #EXTINF:-1 group-title="ViX", NBC NEW YORK
 https://v-ny.MyBTv.net/live/548/1920x1080.m3u8
+#EXTINF:-1 group-title="ViX", NBC SAN FRANCISCO
+https://v-ca.mybtv.net/live/162/1280x720.m3u8
+#EXTINF:-1 group-title="ViX", NBC INDIANALPOLIS
+https://v-in.MyBTv.net/live/121/1280x720.m3u8
+
 #EXTINF:-1 group-title="ViX", CBS NEW YORK
 https://v-ny.MyBTv.net/live/545/1920x1080.m3u8
+#EXTINF:-1 group-title="ViX", CBS SAN FRANCISCO
+https://v-ca.mybtv.net/live/162/1280x720.m3u8
+#EXTINF:-1 group-title="ViX", CBS INDIANAPOLIS
+https://v-in.MyBTv.net/live/162/1280x720.m3u8
+
+
 #EXTINF:-1 group-title="ViX", FOX NEW YORK
 https://v-ny.MyBTv.net/live/550/1280x720.m3u8
+#EXTINF:-1 group-title="ViX", FOX SAN FRANCISCO
+https://v-ca.mybtv.net/live/170/1280x720.m3u8
+
+
+#EXTINF:-1 group-title="ViX", UNIVISION NEW YORK
+https://v-ny.MyBTv.net/live/643/1280x720.m3u8
+#EXTINF:-1 group-title="ViX", UNIVISION SAN FRANCISCO
+https://v-ca.mybtv.net/live/148/1280x720.m3u8
+
+#EXTINF:-1 group-title="ViX", TELEMUNDO SAN FRANCISCO
+https://v-ca.mybtv.net/live/140/1280x720.m3u8
+****#EXTINF:-1 group-title="ViX", TELEMUNDO SAN FRANCISCO
+****https://v-ca.mybtv.net/live/140/1280x720.m3u8
+
 #EXTINF:-1 group-title="ViX", ION NEW YORK
 https://v-ny.MyBTv.net/live/608/1280x720.m3u8
 #EXTINF:-1 group-title="ViX", ION MISTERY NEW YORK
 https://v-ny.mybtv.net/live/610/768x432.m3u8
-#EXTINF:-1 group-title="ViX", UNIVISION NEW YORK
-https://v-ny.MyBTv.net/live/643/1280x720.m3u8
-
-
-
-
-#EXTINF:-1 group-title="ViX", ABC SAN FRANCISCO
-https://v-in.MyBTv.net/live/119/1280x720.m3u8
-#EXTINF:-1 group-title="ViX", ABC SAN FRANCISCO
-https://v-in.MyBTv.net/live/119/768x432.m3u8
-#EXTINF:-1 group-title="ViX", NBC SAN FRANCISCO
-https://v-in.MyBTv.net/live/121/1280x720.m3u8
-#EXTINF:-1 group-title="ViX", CBS SAN FRANCISCO
-https://v-in.MyBTv.net/live/162/1280x720.m3u8
-
-
-#EXTINF:-1 group-title="ViX", 1
-https://v-in.MyBTv.net/live/1079/768x432.m3u8
-#EXTINF:-1 group-title="ViX", 2
-https://v-in.MyBTv.net/live/1079/1280x720.m3u8
-#EXTINF:-1 group-title="ViX", 3
-https://v-in.MyBTv.net/live/1079/1920x1080.m3u8
 
 
 #EXTINF:-1 group-title="ViX", AZTECA UNO
