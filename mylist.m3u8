@@ -3,8 +3,6 @@
 ************************  07/ENE/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 
-******************************************************************************************************************************************
-
 ************************************************************************************************************************************************************
 
 #EXTINF:-1 group-title="ViX USA", ABC NEW YORK
@@ -53,23 +51,6 @@ https://v-ca.mybtv.net/live/148/1280x720.m3u8
 #EXTINF:-1 group-title="ViX USA", UNIVISION PHOENIX
 https://v-px.mybtv.net/live/28/1280x720.m3u8
 
-#EXTINF:-1 group-title="ViX USA", TELEMUNDO SAN FRANCISCO
-****https://v-ca.mybtv.net/live/140/1280x720.m3u8
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/657.ts
-
-
-****#EXTINF:-1 group-title="ViX USA", TELEMUNDO SAN FRANCISCO
-****https://v-ca.mybtv.net/live/140/1280x720.m3u8
-****#EXTINF:-1 group-title="ViX USA", TELEMUNDO LOS ANGELES
-****https://v-la.mybtv.net/live/267/1280x720.m3u8
-
-#EXTINF:-1 group-title="ViX USA", AZTECA AMERICA PHOENIX
-https://v-px.mybtv.net/live/41/1280x720.m3u8
-#EXTINF:-1 group-title="ViX USA", AZTECA AMERICA LAS VEGAS
-https://v-lv.MyBTv.net/live/1028/768x432.m3u8
-
-****#EXTINF:-1 group-title="ViX USA", ESTRELLA NEW YORK
-****https://v-ny.MyBTv.net/live/650/1280x720.m3u8
 #EXTINF:-1 group-title="ViX USA", ESTRELLA TV PHOENIX
 https://v-px.mybtv.net/live/45/1280x720.m3u8
 
@@ -83,6 +64,7 @@ https://v-ny.MyBTv.net/live/608/1280x720.m3u8
 #EXTINF:-1 group-title="ViX USA", ION MISTERY NEW YORK
 https://v-ny.mybtv.net/live/610/768x432.m3u8
 
+************************************************************************************************************************************************************
 
 #EXTINF:-1 group-title="ViX", AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
@@ -155,10 +137,10 @@ https://linear-400.frequency.stream/dist/vix/400/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", BitMe
 https://linear-401.frequency.stream/dist/vix/401/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", Unicable
-ttps://linear-423.frequency.stream/dist/vix/423/hls/master/playlist.m3u8
+https://linear-423.frequency.stream/dist/vix/423/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", Unicable INT
 https://linear-317.frequency.stream/317/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", UNIVISION
+#EXTINF:-1 group-title="ViX", UNIVISION SUR
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", TELEMUNDO PUERTO RICO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
