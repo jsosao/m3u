@@ -230,14 +230,12 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2049/PROFILE05.m3u8
 https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1822/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", AZTECA BAJA CALIFORNIA
 https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1869/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", EXCELSIOR TV
-https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1449/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", NU9VE
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", NU9VE (B)
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2050/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", ONCE
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", CANAL 14
 https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2357/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", EXCELSIOR TV
@@ -415,11 +413,13 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL179/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", TUDN
 https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1975/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", ESPN
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", ESPN 2
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", ESPN EXTRA
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", ESPN 3
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", ESPN EXTRA
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", FOX SPORTS
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", FOX SPORTS 2
@@ -492,17 +492,6 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL802/PROFILE05.m3u8
 
 #EXTINF:-1  group-title="TOTAL", ALEATORIO
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL803/PROFILE05.m3u8
-
-#EXTINF:-1  group-title="TOTAL", ?
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", ??
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2278/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", ???
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2307/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", AZTECA UNO ????
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2336/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", ????
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2355/PROFILE05.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtdmx4.png" group-title="Ccr2310",MVS
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
