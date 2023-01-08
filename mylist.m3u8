@@ -180,7 +180,6 @@ https://linear-362.frequency.stream/dist/vix/362/hls/master/playlist.m3u8
 https://linear-439.frequency.stream/dist/vix/439/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", TUDN 4 (B)
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
-
 #EXTINF:-1 group-title="ViX", TUDN 5
 https://linear-441.frequency.stream/dist/vix/441/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", TUDN 6
@@ -219,8 +218,6 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", CANAL 5 (B)
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2048/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", MULTIMEDIOS CDMX
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2305/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", MULTIMEDIOS MTY
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2305/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", AZTECA 7
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8
@@ -311,6 +308,8 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL270/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", LIFE TIME
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", DISCOVERY H&H
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", AMC
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", SPACE
@@ -341,8 +340,6 @@ https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL3112/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL194/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", A MAS
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2316/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", A MAS+
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2319/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", TLC
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2380/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", AXN
@@ -380,8 +377,6 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", DISCOVERY CHANNEL
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", DISCOVERY H&H
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", DISCOVERY SCIENCE
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", DISCOVERY ID
@@ -469,10 +464,14 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2402/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL",IMAGEN MULTICAST
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1449/PROFILE05.m3u8
 
-#EXTINF:-1  group-title="TOTAL", MTV LIVE
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", TELEHIT MUSICA
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", TELEHIT MUSICA PLUS
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", BANDAMAX
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", MTV LIVE
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", MTV 00s
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", MTV
@@ -481,12 +480,6 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", MTV 80s
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", TELEHIT MUSICA
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", BANDAMAX
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", MTV 00s
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL735/PROFILE05.m3u8
 
 #EXTINF:-1  group-title="TOTAL", CANAL DEL CONGRESO
 https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2331/PROFILE05.m3u8
@@ -496,10 +489,11 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL802/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", ALEATORIO
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL803/PROFILE05.m3u8
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtdmx4.png" group-title="Ccr2310",MVS
+#EXTINF:-1  group-title="TOTAL", MVS
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 ************************  https://raw.githubusercontent.com/dann1110/GreatTV/0e14dcf7106f6eb89651fa9bbb03b2780a378b7c/RokuTV  ***************************
+
 #EXTINF:-1 group-title="RokuTV",TUDN USA
 http://flash.shortgod.com/shortgodfl/tv5.php?id=10256
 #EXTINF:-1 group-title="RokuTV",TUDN USA
@@ -508,10 +502,6 @@ http://flash.shortgod.com/shortgodfl/tv5.php?id=34280
 http://flash.shortgod.com/shortgodfl/tv5.php?id=53540
 #EXTINF:-1 group-title="RokuTV",Fox Sports Premium HD
 http://flash.shortgod.com/shortgodfl/tv5.php?id=53549
-#EXTINF:-1 group-title="RokuTV",ESPN SUR  HD
-http://flash.shortgod.com/escritor_21/tv5.php?id=37814
-#EXTINF:-1 group-title="RokuTV",ESPN Sur HD Arg
-http://flash.shortgod.com/escritor_21/tv5.php?id=37817
 
 *********************************************
 
