@@ -277,8 +277,6 @@ https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL136/PROFILE05.m3u8
 https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL137/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", TELEMUNDO INTERNACIONAL
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL85/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", ANTENA 3
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL199/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", STAR CHANNEL
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", SONY CHANNEL
@@ -347,9 +345,11 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", STAR TVE
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2375/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", A3 SERIES
+#EXTINF:-1  group-title="TOTAL", ANTENA 3
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL199/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", ANTENA 3 SERIES
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2113/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", A3 CINE
+#EXTINF:-1  group-title="TOTAL", ANTENA 3 CINE
 https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL3112/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", NTN 24
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL194/PROFILE05.m3u8
