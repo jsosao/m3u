@@ -5,6 +5,20 @@
 
 ************************************************************************************************************************************************************
 
+#EXTINF:-1 ,TUDN USA
+http://flash.shortgod.com/shortgodfl/tv5.php?id=10256
+
+#EXTINF:-1 ,TUDN USA
+http://flash.shortgod.com/shortgodfl/tv5.php?id=34280
+
+#EXTINF:-1 ,Fox Sports Premium HD
+http://flash.shortgod.com/shortgodfl/tv5.php?id=53540
+
+#EXTINF:-1 ,Fox Sports Premium HD
+http://flash.shortgod.com/shortgodfl/tv5.php?id=53549
+
+
+
 #EXTINF:-1 group-title="ViX USA", ABC NEW YORK
 https://v-ny.MyBTv.net/live/554/1280x720.m3u8
 #EXTINF:-1 group-title="ViX USA", ABC SAN FRANCISCO
@@ -277,7 +291,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", A&E
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", E
+#EXTINF:-1  group-title="TOTAL", E!
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL255/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", SYFY
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL257/PROFILE05.m3u8
@@ -370,6 +384,9 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2147/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", BITME
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2591/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", ONCE NIÑOS
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL3315/PROFILE03.m3u8
+
 
 #EXTINF:-1  group-title="TOTAL", DISCOVERY THEATER
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE05.m3u8
@@ -413,9 +430,9 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL179/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", TUDN
 https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1975/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", ESPN
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", ESPN 2
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", ESPN 2
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", ESPN 3
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", ESPN EXTRA
