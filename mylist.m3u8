@@ -54,6 +54,15 @@ https://v-ca.mybtv.net/live/163/1280x720.m3u8
 #EXTINF:-1 group-title="ViX USA", UNIVISION PHOENIX
 https://v-px.mybtv.net/live/28/1280x720.m3u8
 
+****#EXTINF:-1 group-title="ViX USA", TELEMUNDO LOS ANGELES
+****https://v-la.mybtv.net/live/267/1920x1080.m3u8
+****#EXTINF:-1 group-title="ViX USA", TELEMUNDO SAN FRANCISCO
+****https://v-ca.mybtv.net/live/140/1920x1080.m3u8
+****#EXTINF:-1 group-title="ViX USA", TELEMUNDO PHOENIX
+****https://v-px.mybtv.net/live/39/1920x1080.m3u8
+****#EXTINF:-1 group-title="ViX USA", TELEMUNDO NEW YORK
+****https://v-ny.mybtv.net/live/659/1920x1080.m3u8
+
 #EXTINF:-1 group-title="ViX USA", ESTRELLA TV PHOENIX
 https://v-px.mybtv.net/live/45/1280x720.m3u8
 #EXTINF:-1 group-title="ViX USA", ESTRELLA TV LOS ANGELES
@@ -66,11 +75,32 @@ https://v-sd.mybtv.net/live/490/1280x720.m3u8
 https://v-fn.mybtv.net/live/887/1280x720.m3u8
 #EXTINF:-1 group-title="ViX USA", ESTRELLA TV LAS VEGAS
 https://v-lv.mybtv.net/live/1015/1280x720.m3u8
-#EXTINF:-1 group-title="ViX USA", ESTRELLA TV NEW YORK
-https://v-ny.mybtv.net/live/650/640x480.m3u8
 #EXTINF:-1 group-title="ViX USA", ESTRELLA TV INDIANAPOLIS
 https://v-in.mybtv.net/live/845/1280x720.m3u8
 
+#EXTINF:-1 group-title="ViX USA", UNIMAS NEW YORK
+https://v-ny.mybtv.net/live/713/1280x720.m3u8
+#EXTINF:-1 group-title="ViX USA", UNIMAS LOS ANGELES
+https://v-la.mybtv.net/live/299/1280x720.m3u8
+#EXTINF:-1 group-title="ViX USA", UNIMAS LOS ANGELES (B)
+https://v-la.mybtv.net/live/168/768x432.m3u8
+#EXTINF:-1 group-title="ViX USA", UNIMAS SAN FRANCISCO
+https://v-ca.mybtv.net/live/147/1280x720.m3u8
+#EXTINF:-1 group-title="ViX USA", UNIMAS PHOENIX
+https://v-px.mybtv.net/live/201/1280x720.m3u8
+
+#EXTINF:-1 group-title="ViX USA", AZTECA AMERICA NEW YORK
+https://v-ny.mybtv.net/live/645/1280x720.m3u8
+#EXTINF:-1 group-title="ViX USA", AZTECA AMERICA SAN FRANCISCO
+https://v-ca.mybtv.net/live/731/1280x720.m3u8
+#EXTINF:-1 group-title="ViX USA", AZTECA AMERICA LOS ANGELES
+https://v-la.mybtv.net/live/107/1280x720.m3u8
+#EXTINF:-1 group-title="ViX USA", AZTECA AMERICA LAS VEGAS
+https://v-lv.mybtv.net/live/1028/1280x720.m3u8
+#EXTINF:-1 group-title="ViX USA", AZTECA AMERICA PHOENIX
+https://v-px.mybtv.net/live/41/1280x720.m3u8
+#EXTINF:-1 group-title="ViX USA", AZTECA AMERICA SAN DIEGO
+https://v-sd.mybtv.net/live/508/1920x1080.m3u8
 
 #EXTINF:-1 group-title="ViX USA", KTLA LOS ANGELES
 https://v-la.mybtv.net/live/164/1280x720.m3u8
@@ -644,70 +674,11 @@ https://v-ca.mybtv.net/live/170/1280x720.m3u8
 #EXTINF:-1 tvg-name="FOX 5 WNYW" group-title="Waldmtr3s", FOX 5 WNYW
 https://v-ny.mybtv.net/live/550/1280x720.m3u8
 
-#EXTINF:-1 tvg-name="Telemundo Network (West) (TELMUN)" group-title="Waldmtr3s", Telemundo LA (op2)
-https://v-la.mybtv.net/live/267/1920x1080.m3u8
-#EXTINF:-1 tvg-name="Telemundo Network (West) (TELMUN)" group-title="Waldmtr3s", Telemundo
-https://v-ca.mybtv.net/live/140/1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="Waldmtr3s", Telemundo
-https://v-px.mybtv.net/live/39/1920x1080.m3u8
-#EXTINF:-1 tvg-name="TELEMUNDO" group-title="Waldmtr3s", Telemundo NY (op2)
-https://v-ny.mybtv.net/live/659/1920x1080.m3u8
-#EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)" group-title="Waldmtr3s", EstrellaTv LA (op2)
-https://v-la.mybtv.net/live/112/1280x720.m3u8
-#EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)" group-title="Waldmtr3s", EstrellaTv
-https://v-ca.mybtv.net/live/137/768x432.m3u8
-#EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)" group-title="Waldmtr3s", EstrellaTv
-https://v-sd.mybtv.net/live/490/1280x720.m3u8
-#EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)" group-title="Waldmtr3s", EstrellaTv
-https://v-fn.mybtv.net/live/887/1280x720.m3u8
-#EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)" group-title="Waldmtr3s", EstrellaTv
-https://v-lv.mybtv.net/live/1015/1280x720.m3u8
-#EXTINF:-1 tvg-name="Estrella TV (West) (ESTRELLA)" group-title="Waldmtr3s", EstrellaTv
-https://v-px.mybtv.net/live/45/1280x720.m3u8
-#EXTINF:-1 tvg-name="Estrella TV (East) (ESTRELLA)" group-title="Waldmtr3s", EstrellaTv NY (op2)
-https://v-ny.mybtv.net/live/650/640x480.m3u8
-#EXTINF:-1 tvg-name="Estrella TV (East) (ESTRELLA)" group-title="Waldmtr3s", EstrellaTv IN (op2)
-https://v-in.mybtv.net/live/845/1280x720.m3u8
-#EXTINF:-1 tvg-name="Azteca America Network (East) (AZTECA)" group-title="Waldmtr3s", Azteca America NY (op2)
-https://v-ny.mybtv.net/live/645/1280x720.m3u8
-#EXTINF:-1 tvg-name="Azteca America Network (West) (AZTECA)" group-title="Waldmtr3s", Azteca America
-https://v-ca.mybtv.net/live/731/1280x720.m3u8
-#EXTINF:-1 tvg-name="Azteca America Network (West) (AZTECA)" group-title="Waldmtr3s", Azteca America
-https://v-la.mybtv.net/live/107/1280x720.m3u8
-#EXTINF:-1 tvg-name="Azteca America Network (West) (AZTECA)" group-title="Waldmtr3s", Azteca America
-https://v-lv.mybtv.net/live/1028/1280x720.m3u8
-#EXTINF:-1 tvg-name="Azteca America Network (West) (AZTECA)" group-title="Waldmtr3s", Azteca America
-https://v-px.mybtv.net/live/41/1280x720.m3u8
-#EXTINF:-1 tvg-name="Azteca America Network (West) (AZTECA)" group-title="Waldmtr3s", Azteca America SD (op2)
-https://v-sd.mybtv.net/live/508/1920x1080.m3u8
-#EXTINF:-1 tvg-name="UNIMÁS" group-title="Waldmtr3s", Unimas NY (op2)
-https://v-ny.mybtv.net/live/713/1280x720.m3u8
-#EXTINF:-1 tvg-name="UniMás HDTV (Pacific) (UMAS)" group-title="Waldmtr3s", Unimas LA (op2)
-https://v-la.mybtv.net/live/299/1280x720.m3u8
-#EXTINF:-1 tvg-name="UniMás HDTV (Pacific) (UMAS)" group-title="Waldmtr3s", Unimas
-https://v-la.mybtv.net/live/168/768x432.m3u8
-#EXTINF:-1 tvg-name="UniMás HDTV (Pacific) (UMAS)" group-title="Waldmtr3s", Unimas
-https://v-ca.mybtv.net/live/147/1280x720.m3u8
-#EXTINF:-1 tvg-name="UniMás HDTV (Pacific) (UMAS)" group-title="Waldmtr3s", Unimas
-https://v-px.mybtv.net/live/201/1280x720.m3u8
-#EXTINF:-1 tvg-name="UNIVISION" group-title="Waldmtr3s", Univision LA (op2)
-https://v-la.mybtv.net/live/178/1920x1080.m3u8
-#EXTINF:-1 tvg-name="UNIVISION" group-title="Waldmtr3s", Univision
-https://v-ca.mybtv.net/live/148/1280x720.m3u8
-#EXTINF:-1 tvg-name="UNIVISION" group-title="Waldmtr3s", Univision
-https://v-ca.mybtv.net/live/163/1280x720.m3u8
-#EXTINF:-1 tvg-name="UNIVISION" group-title="Waldmtr3s", Univision
-https://v-px.mybtv.net/live/28/1920x1080.m3u8
-#EXTINF:-1 tvg-name="Univision Network HDTV (UNIHD)" group-title="Waldmtr3s", Univision NY (op2)
-https://v-ny.mybtv.net/live/643/1280x720.m3u8
-#EXTINF:-1 tvg-name="" group-title="Waldmtr3s", Univision MI (op2)
-https://linear-424.frequency.stream/424/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="Televisa" group-title="Waldmtr3s", Televisa (SamsungTv) (Italia)
-https://televisa-televisa-1-it.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-name="" group-title="Waldmtr3s", TELEMUNDO
 http://71.187.29.54:8000/play/a07a/index.m3u8
 #EXTINF:-1 tvg-name="" group-title="Waldmtr3s", Telemundo Network (East) (TELMUN)
 https://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/index_2_av-p.m3u8?sd=10&rebase=on
+
 #EXTINF:-1 tvg-name="" group-title="Waldmtr3s", Estrella TV (East) (ESTRELLA)
 https://estrellatv-roku.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-name="" group-title="Waldmtr3s", Azteca America Network (East) (AZTECA)
@@ -716,10 +687,7 @@ http://71.187.29.54:8000/play/a08g/index.m3u8
 http://71.187.29.54:8000/play/a08b/index.m3u8
 #EXTINF:-1 tvg-name="" group-title="Waldmtr3s", UNIVISION
 http://71.187.29.54:8000/play/a07t/index.m3u8
-#EXTINF:-1 tvg-name="XEW Las Estrellas DF (LASESTRE)" group-title="Waldmtr3s", Las Estrellas
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=17&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
-#EXTINF:-1 tvg-name="" group-title="Waldmtr3s", Las Estrellas (VIX)
-https://linear-413.frequency.stream/413/hls/master/playlist_1920x1080.m3u8
+
 
 ***** #EXTINF:-1 tvg-name="" group-title="Waldmtr3s", RCN
 ***** http://190.61.43.119:45000/play/a039
