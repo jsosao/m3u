@@ -4,6 +4,9 @@
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 
 ************************************************************************************************************************************************************
+#EXTINF:-1 group-title="ViX USA", TEST
+ttps://live5-ott.izzigo.tv/out/u/dash/ANTENA3-HD/default.mpd
+
 
 #EXTINF:-1 group-title="ViX USA", ABC NEW YORK
 https://v-ny.MyBTv.net/live/554/1280x720.m3u8
@@ -97,6 +100,8 @@ https://linear-402.frequency.stream/402/hls/master/playlist.m3u8
 https://linear-403.frequency.stream/dist/vix/403/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", Canal 8 MTY (B)
 https://linear-403.frequency.stream/403/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", AFIZZIONADOS
+https://linear-348.frequency.stream/dist/vix/348/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", DPelicula
 https://linear-354.frequency.stream/dist/vix/354/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", DPelicula Plus
@@ -159,6 +164,8 @@ https://linear-193.frequency.stream/dist/localnow/193/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", N+
 https://linear-301.frequency.stream/dist/vix/301/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", FORO TV
+https://linear-300.frequency.stream/dist/vix/300/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ViX", FORO TV (B)
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 group-title="ViX", Weather Channel Español
 https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
