@@ -4,10 +4,9 @@
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 
 ************************************************************************************************************************************************************
-#EXTINF:-1 group-title="ViX USA", TESTT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/az1.json
-https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.mpd
+#EXTINF:-1 group-title="ViX USA", TEST
+https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.m3u8
+
 
 
 #EXTINF:-1 group-title="ViX USA", ABC NEW YORK
