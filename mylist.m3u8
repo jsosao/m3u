@@ -4,8 +4,8 @@
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 
 ************************************************************************************************************************************************************
-#EXTINF:-1 group-title="ViX USA", TEST
-https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.m3u8
+****#EXTINF:-1 group-title="IZZI", AZTECA UNO
+****https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.m3u8
 
 
 
@@ -73,8 +73,18 @@ https://v-ny.mybtv.net/live/610/768x432.m3u8
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 group-title="ViX", AZTECA SIETE
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 group-title="ViX", AZTECA SIETE (B)
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 group-title="ViX", ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 group-title="ViX", MILENIO
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1 group-title="ViX", MULTIMEDIOS MTY
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 group-title="ViX", MULTIMEDIOS LAGUNA
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 group-title="ViX", MULTIMEDIOS GDL
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 #EXTINF:-1 group-title="ViX", AZTECA NORESTE
 https://live.info7.mx/info7/stream.m3u8
 #EXTINF:-1 group-title="ViX", LAS ESTRELLAS INT
