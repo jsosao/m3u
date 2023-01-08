@@ -7,8 +7,6 @@
 ****#EXTINF:-1 group-title="IZZI", AZTECA UNO
 ****https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.m3u8
 
-
-
 #EXTINF:-1 group-title="ViX USA", ABC NEW YORK
 https://v-ny.MyBTv.net/live/554/1280x720.m3u8
 #EXTINF:-1 group-title="ViX USA", ABC SAN FRANCISCO
@@ -49,6 +47,8 @@ https://v-px.mybtv.net/live/14/1280x720.m3u8
 https://v-ny.MyBTv.net/live/643/1280x720.m3u8
 #EXTINF:-1 group-title="ViX USA", UNIVISION SAN FRANCISCO
 https://v-ca.mybtv.net/live/148/1280x720.m3u8
+#EXTINF:-1 group-title="ViX USA", UNIVISION SAN FRANCISCO (B)
+https://v-ca.mybtv.net/live/163/1280x720.m3u8
 ****#EXTINF:-1 group-title="ViX USA", UNIVISION LOS ANGELES
 ****https://v-la.mybtv.net/live/178/1280x720.m3u8
 #EXTINF:-1 group-title="ViX USA", UNIVISION PHOENIX
@@ -56,6 +56,21 @@ https://v-px.mybtv.net/live/28/1280x720.m3u8
 
 #EXTINF:-1 group-title="ViX USA", ESTRELLA TV PHOENIX
 https://v-px.mybtv.net/live/45/1280x720.m3u8
+#EXTINF:-1 group-title="ViX USA", ESTRELLA TV LOS ANGELES
+https://v-la.mybtv.net/live/112/1280x720.m3u8
+#EXTINF:-1 group-title="ViX USA", ESTRELLA TV SAN FRANCISCO
+https://v-ca.mybtv.net/live/137/768x432.m3u8
+#EXTINF:-1 group-title="ViX USA", ESTRELLA TV SAN DIEGO
+https://v-sd.mybtv.net/live/490/1280x720.m3u8
+#EXTINF:-1 group-title="ViX USA", ESTRELLA TV FRESNO
+https://v-fn.mybtv.net/live/887/1280x720.m3u8
+#EXTINF:-1 group-title="ViX USA", ESTRELLA TV LAS VEGAS
+https://v-lv.mybtv.net/live/1015/1280x720.m3u8
+#EXTINF:-1 group-title="ViX USA", ESTRELLA TV NEW YORK
+https://v-ny.mybtv.net/live/650/640x480.m3u8
+#EXTINF:-1 group-title="ViX USA", ESTRELLA TV INDIANAPOLIS
+https://v-in.mybtv.net/live/845/1280x720.m3u8
+
 
 #EXTINF:-1 group-title="ViX USA", KTLA LOS ANGELES
 https://v-la.mybtv.net/live/164/1280x720.m3u8
@@ -85,8 +100,6 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 #EXTINF:-1 group-title="ViX", MULTIMEDIOS GDL
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
-#EXTINF:-1 group-title="ViX", AZTECA NORESTE
-https://live.info7.mx/info7/stream.m3u8
 #EXTINF:-1 group-title="ViX", LAS ESTRELLAS INT
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", LAS ESTRELLAS MX
@@ -95,9 +108,9 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 #EXTINF:-1 group-title="ViX", LAS ESTRELLAS INT (B)
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", LAS ESTRELLAS -1H
+#EXTINF:-1 group-title="ViX", LAS ESTRELLAS -1HR
 https://linear-414.frequency.stream/dist/vix/414/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", LAS ESTRELLAS -2H
+#EXTINF:-1 group-title="ViX", LAS ESTRELLAS -2HR
 https://linear-415.frequency.stream/dist/vix/415/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX", NU9VE
 https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
@@ -223,7 +236,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2051/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", LAS ESTRELLAS (B)
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2047/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", LAS ESTRELLAS -1H
+#EXTINF:-1  group-title="TOTAL", LAS ESTRELLAS -1HR
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2037/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", LAS ESTRELLAS -2HR
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2264/PROFILE05.m3u8
@@ -707,13 +720,6 @@ http://71.187.29.54:8000/play/a07t/index.m3u8
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=17&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 #EXTINF:-1 tvg-name="" group-title="Waldmtr3s", Las Estrellas (VIX)
 https://linear-413.frequency.stream/413/hls/master/playlist_1920x1080.m3u8
-
-#EXTINF:-1 tvg-name="" group-title="Waldmtr3s", Foro TV (FOROTV)
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=19&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
-#EXTINF:-1 tvg-name="" group-title="Waldmtr3s", Foro TV (VIX)
-https://linear-300.frequency.stream/300/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="Waldmtr3s", N+ (VIX)
-https://linear-301.frequency.stream/301/hls/master/playlist_1920x1080.m3u8
 
 ***** #EXTINF:-1 tvg-name="" group-title="Waldmtr3s", RCN
 ***** http://190.61.43.119:45000/play/a039
