@@ -3,6 +3,11 @@
 ************************  08/ENE/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 
+#EXTINF:-1 tvg-id="ABC" group-title="ustvgo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ABC_%282013%29_Dark_Grey.svg", ABC
+https://h3.ustvgo.la/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS85LzIwMjMgNjoxMTozNiBQTSZoYXNoX3ZhbHVlPWt1YVdoNEFPL1JmeW5OUnQ5YWsxMGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1 tvg-id="ACCN" group-title="ustvgo" tvg-logo="https://news.syr.edu/wp-content/uploads/2019/08/New-ACCNX-logo-690x489.jpg", ACC Network
+https://h3.ustvgo.la/ACCN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS85LzIwMjMgNjoxMTozNiBQTSZoYXNoX3ZhbHVlPWt1YVdoNEFPL1JmeW5OUnQ5YWsxMGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
 
 *****************************************  TOTAL ***************************************
 
