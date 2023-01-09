@@ -7,11 +7,9 @@
 
 #EXTINF:-1  group-title="TOTAL", AZTECA UNO
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", AZTECA UNO (B)
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2051/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", LAS ESTRELLAS
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", LAS ESTRELLAS (B)
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2047/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", LAS ESTRELLAS -1HR
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2037/PROFILE05.m3u8
@@ -23,13 +21,11 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2298/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", CANAL 5
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", CANAL 5 (B)
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2048/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", MULTIMEDIOS CDMX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2305/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", AZTECA 7
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", AZTECA 7 (B)
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2049/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", AZTECA 7 METROPOLITANO
 https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1822/PROFILE05.m3u8
@@ -37,7 +33,7 @@ https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1822/PROFILE05.m3u8
 https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1869/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", NU9VE
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL", NU9VE (B)
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2050/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2050/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", ONCE
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE05.m3u8
@@ -305,7 +301,6 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 group-title="Bics", AZTECA SIETE
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1 group-title="Bics", AZTECA SIETE (B)
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 group-title="Bics", ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
@@ -319,28 +314,25 @@ https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS INT
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS MX
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 group-title="Bics", LAS ESTRELLAS MX (B)
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
-#EXTINF:-1 group-title="Bics", LAS ESTRELLAS INT (B)
-https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS -1HR
 https://linear-414.frequency.stream/dist/vix/414/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS -2HR
 https://linear-415.frequency.stream/dist/vix/415/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", NU9VE
 https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", NU9VE (B)
 https://linear-352.frequency.stream/dist/vix/352/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", Canal 4 GDL
 https://linear-402.frequency.stream/dist/vix/402/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", Canal 4 GDL (B)
 https://linear-402.frequency.stream/402/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", Canal 8 MTY
 https://linear-403.frequency.stream/dist/vix/403/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", Canal 8 MTY (B)
 https://linear-403.frequency.stream/403/hls/master/playlist.m3u8
+https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
+https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8
 #EXTINF:-1 group-title="Bics", AFIZZIONADOS
 https://linear-348.frequency.stream/dist/vix/348/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", DPelicula
@@ -355,7 +347,6 @@ https://linear-406.frequency.stream/dist/vix/406/hls/master/playlist.m3u8
 https://linear-407.frequency.stream/dist/vix/407/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", GOLDEN
 https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", GOLDEN (B)
 https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", GOLDEN
 https://linear-409.frequency.stream/dist/vix/409/hls/master/playlist.m3u8
@@ -365,15 +356,12 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", TELEHIT
 https://linear-417.frequency.stream/dist/vix/417/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", TELEHIT (B)
 https://linear-417.frequency.stream/417/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", TELEHIT PLUS
 https://linear-418.frequency.stream/dist/vix/418/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", TELEHIT PLUS (B)
 https://linear-418.frequency.stream/418/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", TELEHIT MUSICA PLUS
 https://linear-419.frequency.stream/dist/vix/419/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", TELEHIT MUSICA PLUS (B)
 https://linear-419.frequency.stream/419/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", TLNOVELAS
 https://linear-421.frequency.stream/dist/vix/421/hls/master/playlist.m3u8
@@ -390,7 +378,6 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 
 #EXTINF:-1 group-title="Bics", Adrenalina
 https://linear-393.frequency.stream/dist/vix/393/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", Adrenalina (B)
 https://linear-393.frequency.stream/393/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", LO MAS VIXTO
 https://linear-446.frequency.stream/dist/vix/446/hls/master/playlist.m3u8
@@ -406,7 +393,6 @@ https://linear-301.frequency.stream/dist/vix/301/hls/master/playlist.m3u8
 https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", FORO TV
 https://linear-300.frequency.stream/dist/vix/300/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", FORO TV (B)
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", Weather Channel Español
 https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
@@ -426,7 +412,6 @@ https://linear-361.frequency.stream/dist/vix/361/hls/master/playlist.m3u8
 https://linear-362.frequency.stream/dist/vix/362/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", TUDN 4
 https://linear-439.frequency.stream/dist/vix/439/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", TUDN 4 (B)
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", TUDN 5
 https://linear-441.frequency.stream/dist/vix/441/hls/master/playlist.m3u8
@@ -505,6 +490,8 @@ https://v-ca.mybtv.net/live/163/1280x720.m3u8
 #EXTINF:-1 group-title="Bics USA", UNIVISION PHOENIX
 https://v-px.mybtv.net/live/28/1280x720.m3u8
 
+#EXTINF:-1 group-title="Bics USA", TELEMUNDO
+https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master.m3u8
 ****#EXTINF:-1 group-title="Bics USA", TELEMUNDO LOS ANGELES
 ****https://v-la.mybtv.net/live/267/1920x1080.m3u8
 ****#EXTINF:-1 group-title="Bics USA", TELEMUNDO SAN FRANCISCO
@@ -545,6 +532,11 @@ https://v-ny.MyBTv.net/live/608/1280x720.m3u8
 ****https://v-px.mybtv.net/live/17/1280x720.m3u8
 #EXTINF:-1 group-title="Bics USA", ION MISTERY NEW YORK
 https://v-ny.mybtv.net/live/610/768x432.m3u8
+
+#EXTINF:-1 group-title="Bics USA", NHK WORLD JAPAN
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
+#EXTINF:-1 group-title="Bics USA", RAI NEWS ITALIA
+https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 
 
 *********************************************
