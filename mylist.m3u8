@@ -34,7 +34,6 @@ https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1869/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", NU9VE
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2050/PROFILE05.m3u8
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2050/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", ONCE
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", CANAL 14
@@ -456,8 +455,8 @@ https://v-px.mybtv.net/live/27/1280x720.m3u8
 https://v-ny.MyBTv.net/live/548/1920x1080.m3u8
 #EXTINF:-1 group-title="Bics USA", NBC SAN FRANCISCO
 https://v-ca.mybtv.net/live/162/1280x720.m3u8
-****#EXTINF:-1 group-title="Bics USA", NBC LOS ANGELES
-****https://v-la.mybtv.net/live/82/1280x720.m3u8
+#EXTINF:-1 group-title="Bics USA", NBC LOS ANGELES
+https://v-la.mybtv.net/live/82/1280x720.m3u8
 #EXTINF:-1 group-title="Bics USA", NBC PHOENIX
 https://v-px.mybtv.net/live/55/1280x720.m3u8
 #EXTINF:-1 group-title="Bics USA", NBC LAS VEGAS
@@ -467,8 +466,8 @@ https://v-lv.MyBTv.net/live/1059/768x432.m3u8
 https://v-ny.MyBTv.net/live/545/1920x1080.m3u8
 #EXTINF:-1 group-title="Bics USA", CBS SAN FRANCISCO
 https://v-ca.mybtv.net/live/162/1280x720.m3u8
-****#EXTINF:-1 group-title="Bics USA", CBS LOS ANGELES
-****https://v-la.mybtv.net/live/259/1280x720.m3u8
+#EXTINF:-1 group-title="Bics USA", CBS LOS ANGELES
+https://v-la.mybtv.net/live/259/1280x720.m3u8
 #EXTINF:-1 group-title="Bics USA", CBS PHOENIX
 https://v-px.mybtv.net/live/48/1280x720.m3u8
 
@@ -485,21 +484,21 @@ https://v-ny.MyBTv.net/live/643/1280x720.m3u8
 https://v-ca.mybtv.net/live/148/1280x720.m3u8
 #EXTINF:-1 group-title="Bics USA", UNIVISION SAN FRANCISCO (B)
 https://v-ca.mybtv.net/live/163/1280x720.m3u8
-****#EXTINF:-1 group-title="Bics USA", UNIVISION LOS ANGELES
-****https://v-la.mybtv.net/live/178/1280x720.m3u8
+#EXTINF:-1 group-title="Bics USA", UNIVISION LOS ANGELES
+https://v-la.mybtv.net/live/178/1280x720.m3u8
 #EXTINF:-1 group-title="Bics USA", UNIVISION PHOENIX
 https://v-px.mybtv.net/live/28/1280x720.m3u8
 
 #EXTINF:-1 group-title="Bics USA", TELEMUNDO
 https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master.m3u8
-****#EXTINF:-1 group-title="Bics USA", TELEMUNDO LOS ANGELES
-****https://v-la.mybtv.net/live/267/1920x1080.m3u8
-****#EXTINF:-1 group-title="Bics USA", TELEMUNDO SAN FRANCISCO
-****https://v-ca.mybtv.net/live/140/1920x1080.m3u8
-****#EXTINF:-1 group-title="Bics USA", TELEMUNDO PHOENIX
-****https://v-px.mybtv.net/live/39/1920x1080.m3u8
-****#EXTINF:-1 group-title="Bics USA", TELEMUNDO NEW YORK
-****https://v-ny.mybtv.net/live/659/1920x1080.m3u8
+#EXTINF:-1 group-title="Bics USA", TELEMUNDO LOS ANGELES
+https://v-la.mybtv.net/live/267/1920x1080.m3u8
+#EXTINF:-1 group-title="Bics USA", TELEMUNDO SAN FRANCISCO
+https://v-ca.mybtv.net/live/140/1920x1080.m3u8
+#EXTINF:-1 group-title="Bics USA", TELEMUNDO PHOENIX
+https://v-px.mybtv.net/live/39/1920x1080.m3u8
+#EXTINF:-1 group-title="Bics USA", TELEMUNDO NEW YORK
+https://v-ny.mybtv.net/live/659/1920x1080.m3u8
 
 #EXTINF:-1 group-title="Bics USA", ESTRELLA TV PHOENIX
 https://v-px.mybtv.net/live/45/1280x720.m3u8
@@ -526,12 +525,12 @@ https://v-sd.mybtv.net/live/508/1920x1080.m3u8
 #EXTINF:-1 group-title="Bics USA", KTLA LOS ANGELES
 https://v-la.mybtv.net/live/164/1280x720.m3u8
 
-#EXTINF:-1 group-title="Bics USA", ION NEW YORK
-https://v-ny.MyBTv.net/live/608/1280x720.m3u8
-****#EXTINF:-1 group-title="Bics USA", ION PHOENIX
-****https://v-px.mybtv.net/live/17/1280x720.m3u8
-#EXTINF:-1 group-title="Bics USA", ION MISTERY NEW YORK
-https://v-ny.mybtv.net/live/610/768x432.m3u8
+#EXTINF:-1 group-title="Bics USA", ION
+https://linear-432.frequency.stream/432/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics USA", ION PLUS
+https://linear-433.frequency.stream/433/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics USA", ION MISTERY
+https://linear-436.frequency.stream/436/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Bics USA", NHK WORLD JAPAN
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
