@@ -302,147 +302,147 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 ************************************************************************************************************************************************************
 
-#EXTINF:-1 group-title="ViX", AZTECA UNO
+#EXTINF:-1 group-title="Bics", AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 group-title="ViX", AZTECA SIETE
+#EXTINF:-1 group-title="Bics", AZTECA SIETE
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1 group-title="ViX", AZTECA SIETE (B)
+#EXTINF:-1 group-title="Bics", AZTECA SIETE (B)
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 group-title="ViX", ADN 40
+#EXTINF:-1 group-title="Bics", ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 group-title="ViX", MILENIO
+#EXTINF:-1 group-title="Bics", MILENIO
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:-1 group-title="ViX", MULTIMEDIOS MTY
+#EXTINF:-1 group-title="Bics", MULTIMEDIOS MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 group-title="ViX", MULTIMEDIOS LAGUNA
+#EXTINF:-1 group-title="Bics", MULTIMEDIOS LAGUNA
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1 group-title="ViX", MULTIMEDIOS GDL
+#EXTINF:-1 group-title="Bics", MULTIMEDIOS GDL
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
-#EXTINF:-1 group-title="ViX", LAS ESTRELLAS INT
-https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", LAS ESTRELLAS MX
+#EXTINF:-1 group-title="Bics", LAS ESTRELLAS INT
+https://linear-416.frequency.stream/dist/Bics/416/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", LAS ESTRELLAS MX
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 group-title="ViX", LAS ESTRELLAS MX (B)
+#EXTINF:-1 group-title="Bics", LAS ESTRELLAS MX (B)
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
-#EXTINF:-1 group-title="ViX", LAS ESTRELLAS INT (B)
+#EXTINF:-1 group-title="Bics", LAS ESTRELLAS INT (B)
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", LAS ESTRELLAS -1HR
-https://linear-414.frequency.stream/dist/vix/414/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", LAS ESTRELLAS -2HR
-https://linear-415.frequency.stream/dist/vix/415/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", NU9VE
+#EXTINF:-1 group-title="Bics", LAS ESTRELLAS -1HR
+https://linear-414.frequency.stream/dist/Bics/414/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", LAS ESTRELLAS -2HR
+https://linear-415.frequency.stream/dist/Bics/415/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", NU9VE
 https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", NU9VE (B)
-https://linear-352.frequency.stream/dist/vix/352/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", Canal 4 GDL
-https://linear-402.frequency.stream/dist/vix/402/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", Canal 4 GDL (B)
+#EXTINF:-1 group-title="Bics", NU9VE (B)
+https://linear-352.frequency.stream/dist/Bics/352/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", Canal 4 GDL
+https://linear-402.frequency.stream/dist/Bics/402/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", Canal 4 GDL (B)
 https://linear-402.frequency.stream/402/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", Canal 8 MTY
-https://linear-403.frequency.stream/dist/vix/403/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", Canal 8 MTY (B)
+#EXTINF:-1 group-title="Bics", Canal 8 MTY
+https://linear-403.frequency.stream/dist/Bics/403/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", Canal 8 MTY (B)
 https://linear-403.frequency.stream/403/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", AFIZZIONADOS
-https://linear-348.frequency.stream/dist/vix/348/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", DPelicula
-https://linear-354.frequency.stream/dist/vix/354/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", DPelicula Plus
-https://linear-404.frequency.stream/dist/vix/404/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", Distrito Comedia
-https://linear-405.frequency.stream/dist/vix/405/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", GOLDEN
-https://linear-406.frequency.stream/dist/vix/406/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", GOLDEN EDGE
-https://linear-407.frequency.stream/dist/vix/407/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", GOLDEN
-https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", GOLDEN (B)
+#EXTINF:-1 group-title="Bics", AFIZZIONADOS
+https://linear-348.frequency.stream/dist/Bics/348/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", DPelicula
+https://linear-354.frequency.stream/dist/Bics/354/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", DPelicula Plus
+https://linear-404.frequency.stream/dist/Bics/404/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", Distrito Comedia
+https://linear-405.frequency.stream/dist/Bics/405/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", GOLDEN
+https://linear-406.frequency.stream/dist/Bics/406/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", GOLDEN EDGE
+https://linear-407.frequency.stream/dist/Bics/407/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", GOLDEN
+https://linear-408.frequency.stream/dist/Bics/408/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", GOLDEN (B)
 https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", GOLDEN
-https://linear-409.frequency.stream/dist/vix/409/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", GOLDEN PLUS
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", GOLDEN PREMIER
-https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", TELEHIT
-https://linear-417.frequency.stream/dist/vix/417/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", TELEHIT (B)
+#EXTINF:-1 group-title="Bics", GOLDEN
+https://linear-409.frequency.stream/dist/Bics/409/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", GOLDEN PLUS
+https://linear-410.frequency.stream/dist/Bics/410/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", GOLDEN PREMIER
+https://linear-411.frequency.stream/dist/Bics/411/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", TELEHIT
+https://linear-417.frequency.stream/dist/Bics/417/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", TELEHIT (B)
 https://linear-417.frequency.stream/417/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", TELEHIT PLUS
-https://linear-418.frequency.stream/dist/vix/418/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", TELEHIT PLUS (B)
+#EXTINF:-1 group-title="Bics", TELEHIT PLUS
+https://linear-418.frequency.stream/dist/Bics/418/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", TELEHIT PLUS (B)
 https://linear-418.frequency.stream/418/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", TELEHIT MUSICA PLUS
-https://linear-419.frequency.stream/dist/vix/419/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", TELEHIT MUSICA PLUS (B)
+#EXTINF:-1 group-title="Bics", TELEHIT MUSICA PLUS
+https://linear-419.frequency.stream/dist/Bics/419/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", TELEHIT MUSICA PLUS (B)
 https://linear-419.frequency.stream/419/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", TLNOVELAS
-https://linear-421.frequency.stream/dist/vix/421/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", Bandamax
-https://linear-400.frequency.stream/dist/vix/400/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", BitMe
-https://linear-401.frequency.stream/dist/vix/401/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", Unicable
-https://linear-423.frequency.stream/dist/vix/423/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", UNIVISION SUR
-https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", TELEMUNDO PUERTO RICO
+#EXTINF:-1 group-title="Bics", TLNOVELAS
+https://linear-421.frequency.stream/dist/Bics/421/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", Bandamax
+https://linear-400.frequency.stream/dist/Bics/400/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", BitMe
+https://linear-401.frequency.stream/dist/Bics/401/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", Unicable
+https://linear-423.frequency.stream/dist/Bics/423/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", UNIVISION SUR
+https://linear-424.frequency.stream/dist/Bics/424/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", TELEMUNDO PUERTO RICO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 group-title="ViX", Adrenalina
-https://linear-393.frequency.stream/dist/vix/393/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", Adrenalina (B)
+#EXTINF:-1 group-title="Bics", Adrenalina
+https://linear-393.frequency.stream/dist/Bics/393/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", Adrenalina (B)
 https://linear-393.frequency.stream/393/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", LO MAS VIXTO
-https://linear-446.frequency.stream/dist/vix/446/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", Zona TUDN USA
-https://linear-357.frequency.stream/dist/vix/357/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", NOTICIERO UNIVISION
+#EXTINF:-1 group-title="Bics", LO MAS BicsTO
+https://linear-446.frequency.stream/dist/Bics/446/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", Zona TUDN USA
+https://linear-357.frequency.stream/dist/Bics/357/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", NOTICIERO UNIVISION
 https://linear-306.frequency.stream/dist/localnow/306/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", Lo Mejor de la Liga MX 
+#EXTINF:-1 group-title="Bics", Lo Mejor de la Liga MX 
 https://linear-193.frequency.stream/dist/localnow/193/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", N+
-https://linear-301.frequency.stream/dist/vix/301/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", N+ (B)
+#EXTINF:-1 group-title="Bics", N+
+https://linear-301.frequency.stream/dist/Bics/301/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", N+ (B)
 https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", FORO TV
-https://linear-300.frequency.stream/dist/vix/300/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", FORO TV (B)
+#EXTINF:-1 group-title="Bics", FORO TV
+https://linear-300.frequency.stream/dist/Bics/300/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", FORO TV (B)
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-#EXTINF:-1 group-title="ViX", Weather Channel Español
+#EXTINF:-1 group-title="Bics", Weather Channel Español
 https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", VEVO Latino
+#EXTINF:-1 group-title="Bics", VEVO Latino
 https://linear-494.frequency.stream/494/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", VEVO Ingles
+#EXTINF:-1 group-title="Bics", VEVO Ingles
 https://linear-495.frequency.stream/495/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", VEVO Reggeton
+#EXTINF:-1 group-title="Bics", VEVO Reggeton
 https://linear-388.frequency.stream/388/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", VEVO Ingles 2
+#EXTINF:-1 group-title="Bics", VEVO Ingles 2
 https://linear-389.frequency.stream/389/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", TUDN 1
-https://linear-360.frequency.stream/dist/vix/360/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", TUDN 2
-https://linear-361.frequency.stream/dist/vix/361/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", TUDN 3
-https://linear-362.frequency.stream/dist/vix/362/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", TUDN 4
-https://linear-439.frequency.stream/dist/vix/439/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", TUDN 4 (B)
+#EXTINF:-1 group-title="Bics", TUDN 1
+https://linear-360.frequency.stream/dist/Bics/360/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", TUDN 2
+https://linear-361.frequency.stream/dist/Bics/361/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", TUDN 3
+https://linear-362.frequency.stream/dist/Bics/362/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", TUDN 4
+https://linear-439.frequency.stream/dist/Bics/439/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", TUDN 4 (B)
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", TUDN 5
-https://linear-441.frequency.stream/dist/vix/441/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", TUDN 6
-https://linear-442.frequency.stream/dist/vix/442/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", FUTBOL ESPAÑA 1
-https://linear-489.frequency.stream/dist/vix/489/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", FUTBOL ESPAÑA 2
-https://linear-490.frequency.stream/dist/vix/490/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", FUTBOL ESPAÑA 3
-https://linear-506.frequency.stream/dist/vix/506/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", FUTBOL ESPAÑA 4
-https://linear-507.frequency.stream/dist/vix/507/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX", REAL MADRID TV
-https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", TUDN 5
+https://linear-441.frequency.stream/dist/Bics/441/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", TUDN 6
+https://linear-442.frequency.stream/dist/Bics/442/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", FUTBOL ESPAÑA 1
+https://linear-489.frequency.stream/dist/Bics/489/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", FUTBOL ESPAÑA 2
+https://linear-490.frequency.stream/dist/Bics/490/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", FUTBOL ESPAÑA 3
+https://linear-506.frequency.stream/dist/Bics/506/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", FUTBOL ESPAÑA 4
+https://linear-507.frequency.stream/dist/Bics/507/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", REAL MADRID TV
+https://linear-491.frequency.stream/dist/Bics/491/hls/master/playlist.m3u8
 
 ************************  https://raw.githubusercontent.com/dann1110/GreatTV/0e14dcf7106f6eb89651fa9bbb03b2780a378b7c/RokuTV  ***************************
 
@@ -459,93 +459,108 @@ http://flash.shortgod.com/shortgodfl/tv5.php?id=53549
 ****#EXTINF:-1 group-title="IZZI", AZTECA UNO
 ****https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.m3u8
 
-#EXTINF:-1 group-title="ViX USA", ABC NEW YORK
+#EXTINF:-1 group-title="Bics USA", ABC NEW YORK
 https://v-ny.MyBTv.net/live/554/1280x720.m3u8
-#EXTINF:-1 group-title="ViX USA", ABC SAN FRANCISCO
+#EXTINF:-1 group-title="Bics USA", ABC NEW YORK (B)
+http://v-ny.theus6tv.duckdns.org/hls/7.1/playlist.m3u8
+#EXTINF:-1 group-title="Bics USA", ABC SAN FRANCISCO
 https://v-ca.mybtv.net/live/119/1280x720.m3u8
-#EXTINF:-1 group-title="ViX USA", ABC LOS ANGELES
+#EXTINF:-1 group-title="Bics USA", ABC LOS ANGELES
 https://v-la.mybtv.net/live/88/1280x720.m3u8
-#EXTINF:-1 group-title="ViX USA", ABC PHOENIX
+#EXTINF:-1 group-title="Bics USA", ABC PHOENIX
 https://v-px.mybtv.net/live/27/1280x720.m3u8
 
-#EXTINF:-1 group-title="ViX USA", NBC NEW YORK
+
+#EXTINF:-1 group-title="Bics USA", NBC NEW YORK
 https://v-ny.MyBTv.net/live/548/1920x1080.m3u8
-#EXTINF:-1 group-title="ViX USA", NBC SAN FRANCISCO
+#EXTINF:-1 group-title="Bics USA", NBC SAN FRANCISCO
 https://v-ca.mybtv.net/live/162/1280x720.m3u8
-****#EXTINF:-1 group-title="ViX USA", NBC LOS ANGELES
-****https://v-la.mybtv.net/live/82/1280x720.m3u8
-#EXTINF:-1 group-title="ViX USA", NBC PHOENIX
+#EXTINF:-1 group-title="Bics USA", NBC SAN FRANCISCO (B)
+https://v-ca.mybtv.net/live/121/1920x1080.m3u8
+#EXTINF:-1 group-title="Bics USA", NBC LOS ANGELES
+https://v-la.mybtv.net/live/82/1280x720.m3u8
+#EXTINF:-1 group-title="Bics USA", NBC PHOENIX
 https://v-px.mybtv.net/live/55/1280x720.m3u8
-#EXTINF:-1 group-title="ViX USA", NBC LAS VEGAS
+#EXTINF:-1 group-title="Bics USA", NBC LAS VEGAS
 https://v-lv.MyBTv.net/live/1059/768x432.m3u8
 
-#EXTINF:-1 group-title="ViX USA", CBS NEW YORK
-https://v-ny.MyBTv.net/live/545/1920x1080.m3u8
-#EXTINF:-1 group-title="ViX USA", CBS SAN FRANCISCO
-https://v-ca.mybtv.net/live/162/1280x720.m3u8
-****#EXTINF:-1 group-title="ViX USA", CBS LOS ANGELES
-****https://v-la.mybtv.net/live/259/1280x720.m3u8
-#EXTINF:-1 group-title="ViX USA", CBS PHOENIX
-https://v-px.mybtv.net/live/48/1280x720.m3u8
 
-#EXTINF:-1 group-title="ViX USA", FOX NEW YORK
+#EXTINF:-1 group-title="Bics USA", CBS NEW YORK
+https://v-ny.MyBTv.net/live/545/1920x1080.m3u8
+#EXTINF:-1 group-title="Bics USA", CBS SAN FRANCISCO
+https://v-ca.mybtv.net/live/162/1920x1080.m3u8
+#EXTINF:-1 group-title="Bics USA", CBS LOS ANGELES
+https://v-la.mybtv.net/live/259/1280x720.m3u8
+#EXTINF:-1 group-title="Bics USA", CBS PHOENIX
+https://v-px.mybtv.net/live/48/1920x1080.m3u8
+
+#EXTINF:-1 group-title="Bics USA", FOX NEW YORK
 https://v-ny.MyBTv.net/live/550/1280x720.m3u8
-#EXTINF:-1 group-title="ViX USA", FOX SAN FRANCISCO
+#EXTINF:-1 group-title="Bics USA", FOX SAN FRANCISCO
 https://v-ca.mybtv.net/live/170/1280x720.m3u8
-#EXTINF:-1 group-title="ViX USA", FOX PHOENIX
+#EXTINF:-1 group-title="Bics USA", FOX PHOENIX
 https://v-px.mybtv.net/live/14/1280x720.m3u8
 
-#EXTINF:-1 group-title="ViX USA", UNIVISION NEW YORK
+#EXTINF:-1 group-title="Bics USA", UNIVISION NEW YORK
 https://v-ny.MyBTv.net/live/643/1280x720.m3u8
-#EXTINF:-1 group-title="ViX USA", UNIVISION SAN FRANCISCO
+#EXTINF:-1 group-title="Bics USA", UNIVISION SAN FRANCISCO
 https://v-ca.mybtv.net/live/148/1280x720.m3u8
-#EXTINF:-1 group-title="ViX USA", UNIVISION SAN FRANCISCO (B)
+#EXTINF:-1 group-title="Bics USA", UNIVISION SAN FRANCISCO (B)
 https://v-ca.mybtv.net/live/163/1280x720.m3u8
-****#EXTINF:-1 group-title="ViX USA", UNIVISION LOS ANGELES
+****#EXTINF:-1 group-title="Bics USA", UNIVISION LOS ANGELES
 ****https://v-la.mybtv.net/live/178/1280x720.m3u8
-#EXTINF:-1 group-title="ViX USA", UNIVISION PHOENIX
+#EXTINF:-1 group-title="Bics USA", UNIVISION PHOENIX
 https://v-px.mybtv.net/live/28/1280x720.m3u8
 
-****#EXTINF:-1 group-title="ViX USA", TELEMUNDO LOS ANGELES
+****#EXTINF:-1 group-title="Bics USA", TELEMUNDO LOS ANGELES
 ****https://v-la.mybtv.net/live/267/1920x1080.m3u8
-****#EXTINF:-1 group-title="ViX USA", TELEMUNDO SAN FRANCISCO
+****#EXTINF:-1 group-title="Bics USA", TELEMUNDO SAN FRANCISCO
 ****https://v-ca.mybtv.net/live/140/1920x1080.m3u8
-****#EXTINF:-1 group-title="ViX USA", TELEMUNDO PHOENIX
+****#EXTINF:-1 group-title="Bics USA", TELEMUNDO PHOENIX
 ****https://v-px.mybtv.net/live/39/1920x1080.m3u8
-****#EXTINF:-1 group-title="ViX USA", TELEMUNDO NEW YORK
+****#EXTINF:-1 group-title="Bics USA", TELEMUNDO NEW YORK
 ****https://v-ny.mybtv.net/live/659/1920x1080.m3u8
 
-#EXTINF:-1 group-title="ViX USA", ESTRELLA TV PHOENIX
+#EXTINF:-1 group-title="Bics USA", ESTRELLA TV PHOENIX
 https://v-px.mybtv.net/live/45/1280x720.m3u8
-#EXTINF:-1 group-title="ViX USA", ESTRELLA TV LOS ANGELES
+#EXTINF:-1 group-title="Bics USA", ESTRELLA TV LOS ANGELES
 https://v-la.mybtv.net/live/112/1280x720.m3u8
-#EXTINF:-1 group-title="ViX USA", ESTRELLA TV SAN FRANCISCO
+#EXTINF:-1 group-title="Bics USA", ESTRELLA TV SAN FRANCISCO
 https://v-ca.mybtv.net/live/137/768x432.m3u8
-#EXTINF:-1 group-title="ViX USA", ESTRELLA TV SAN DIEGO
+#EXTINF:-1 group-title="Bics USA", ESTRELLA TV SAN DIEGO
 https://v-sd.mybtv.net/live/490/1280x720.m3u8
 
-#EXTINF:-1 group-title="ViX USA", UNIMAS NEW YORK
+#EXTINF:-1 group-title="Bics USA", UNIMAS NEW YORK
 https://v-ny.mybtv.net/live/713/1280x720.m3u8
-#EXTINF:-1 group-title="ViX USA", UNIMAS LOS ANGELES
+#EXTINF:-1 group-title="Bics USA", UNIMAS LOS ANGELES
 https://v-la.mybtv.net/live/299/1280x720.m3u8
-#EXTINF:-1 group-title="ViX USA", UNIMAS LOS ANGELES (B)
+#EXTINF:-1 group-title="Bics USA", UNIMAS LOS ANGELES (B)
 https://v-la.mybtv.net/live/168/768x432.m3u8
-#EXTINF:-1 group-title="ViX USA", AZTECA AMERICA LOS ANGELES
+#EXTINF:-1 group-title="Bics USA", AZTECA AMERICA LOS ANGELES
 https://v-la.mybtv.net/live/107/1280x720.m3u8
-#EXTINF:-1 group-title="ViX USA", AZTECA AMERICA LAS VEGAS
+#EXTINF:-1 group-title="Bics USA", AZTECA AMERICA LAS VEGAS
 https://v-lv.mybtv.net/live/1028/1280x720.m3u8
-#EXTINF:-1 group-title="ViX USA", AZTECA AMERICA SAN DIEGO
+#EXTINF:-1 group-title="Bics USA", AZTECA AMERICA SAN DIEGO
 https://v-sd.mybtv.net/live/508/1920x1080.m3u8
 
-#EXTINF:-1 group-title="ViX USA", KTLA LOS ANGELES
+#EXTINF:-1 group-title="Bics USA", KTLA LOS ANGELES
 https://v-la.mybtv.net/live/164/1280x720.m3u8
 
-#EXTINF:-1 group-title="ViX USA", ION NEW YORK
+#EXTINF:-1 group-title="Bics USA", ION
+https://linear-432.frequency.stream/432/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics USA", ION PLUS
+https://linear-433.frequency.stream/433/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics USA", ION MISTERY
+https://linear-436.frequency.stream/436/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Bics USA", ION NEW YORK
 https://v-ny.MyBTv.net/live/608/1280x720.m3u8
-****#EXTINF:-1 group-title="ViX USA", ION PHOENIX
+****#EXTINF:-1 group-title="Bics USA", ION PHOENIX
 ****https://v-px.mybtv.net/live/17/1280x720.m3u8
-#EXTINF:-1 group-title="ViX USA", ION MISTERY NEW YORK
+#EXTINF:-1 group-title="Bics USA", ION MISTERY NEW YORK
 https://v-ny.mybtv.net/live/610/768x432.m3u8
+
+
 
 
 *********************************************
@@ -575,10 +590,11 @@ https://amc-twdtv14-1-us.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="Pcouillard_USA",AMC TWD2
 https://amc-twdfanexperience-1-us.plex.wurl.tv/4300.m3u8
 
-#EXTINF:-1 tvg-chno="4" tvg-id="ionMystery" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="Pcouillard_USA",iON Mystery
-https://linear-436.frequency.stream/436/hls/master/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://rndserv.xyz/img/ion.png" group-title="Pcouillard_USA",iON Plus
-https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
+**** #EXTINF:-1 tvg-chno="4" tvg-id="ionMystery" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="Pcouillard_USA",iON Mystery
+**** https://linear-436.frequency.stream/436/hls/master/playlist.m3u8
+**** #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://rndserv.xyz/img/ion.png" group-title="Pcouillard_USA",iON Plus
+**** https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
+**** https://linear-432.frequency.stream/432/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-chno="166" tvg-id="USANetworkEast.us" tvg-name="USA Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="Pcouillard_USA",USA Network
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/usa.network.east.us.m3u8
 #EXTINF:-1 tvg-chno="212" tvg-id="ParamountNetworkEast.us" tvg-name="Paramount Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11163_dark_360w_270h.png" group-title="Pcouillard_USA",Paramount Network
@@ -611,60 +627,14 @@ https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/moviemax.us.m
 #EXTINF:-1 tvg-chno="272" tvg-id="OuterMaxEast.us" tvg-name="OuterMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25622_dark_360w_270h.png" group-title="Pcouillard_USA",OuterMAX
 https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/outermax.eastern.us.m3u8
 
-****************************  https://raw.githubusercontent.com/MrGmaw/enlaces/23314219af19afea9b0fea8339edfd5a47c47ad2/playlist.m3u ************************
-**********************************  https://github.com/angel200881/chann/blob/main/TP.m3u8 ******************************
-******************************* https://raw.githubusercontent.com/cesarivan2310/Lista/main/Canales ********************************************************************************
-******************************* https://raw.githubusercontent.com/newton181/dATA/main/_mx.m3u8 **********************************************************************
-******************************* https://github.com/PhoenixDreamsCompany/TV_PREMIUM_TOLUCA/blob/main/LAGUERA.m3u  *************************************************
 
-******************************************************  https://github.com/ccr2310/MX/blob/main/Prueba  *****************************************************
-
-*********************************************** https://raw.githubusercontent.com/ednar33/newton/main/androtv.m3u *****************************************************
-*************************************  https://raw.githubusercontent.com/ednar33/newton/main/AMLO.m3u  ***************************************************
-*************************************  https://raw.githubusercontent.com/ednar33/newton/main/v1x.m3u  ***************************************************
-*************************************  https://raw.githubusercontent.com/dann1110/GreatTV/master/TVBOX%202  ***************************************************
-**********************   https://raw.githubusercontent.com/4benteveos/Personal/main/Prueba1.m3u ****************************************
 
 ******************************************************  https://github.com/waldmtr3s/waldmtr3s.github.io   **********************************************
-
-#EXTINF:-1 tvg-name="" group-title="Waldmtr3s", ABC
-http://v-ny.theus6tv.duckdns.org/hls/7.1/playlist.m3u8
-#EXTINF:-1 tvg-name="ABC Spark CA" group-title="Waldmtr3s", ABC (West)
-https://v-ca.mybtv.net/live/119/1280x720.m3u8
-#EXTINF:-1 tvg-name="ABC Spark CA" group-title="Waldmtr3s", ABC (West)
-https://v-px.mybtv.net/live/27/1280x720.m3u8
-#EXTINF:-1 tvg-name="" group-title="Waldmtr3s", ABC HD
-https://v-ny.mybtv.net/live/554/1280x720.m3u8
-#EXTINF:-1 tvg-name="NBC Buffalo HD CA" group-title="Waldmtr3s", NBC (West)
-https://v-ca.mybtv.net/live/121/1920x1080.m3u8
-#EXTINF:-1 tvg-name="NBC Buffalo HD CA" group-title="Waldmtr3s", NBC (West)
-https://v-la.mybtv.net/live/82/1920x1080.m3u8
-#EXTINF:-1 tvg-name="NBC Buffalo HD CA" group-title="Waldmtr3s", NBC (West)
-https://v-lv.mybtv.net/live/1059/768x432.m3u8
-#EXTINF:-1 tvg-name="NBC Buffalo HD CA" group-title="Waldmtr3s", NBC (West)
-https://v-px.mybtv.net/live/55/1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="Waldmtr3s", NBC
-https://v-ny.mybtv.net/live/548/1920x1080.m3u8
-#EXTINF:-1 tvg-name="CBS Buffalo HD CA" group-title="Waldmtr3s", CBS (West)
-https://v-ca.mybtv.net/live/162/1920x1080.m3u8
-#EXTINF:-1 tvg-name="CBS Buffalo HD CA" group-title="Waldmtr3s", CBS
-https://v-px.mybtv.net/live/48/1920x1080.m3u8
-#EXTINF:-1 tvg-name="" group-title="Waldmtr3s", CBS New York HD
-https://v-ny.mybtv.net/live/545/1920x1080.m3u8
-#EXTINF:-1 tvg-name="FOX Buffalo HD CA" group-title="Waldmtr3s", FOX 5 (West)
-https://v-px.mybtv.net/live/14/1280x720.m3u8
-#EXTINF:-1 tvg-name="FOX Buffalo HD CA" group-title="Waldmtr3s", FOX 5
-https://v-ca.mybtv.net/live/170/1280x720.m3u8
-#EXTINF:-1 tvg-name="FOX 5 WNYW" group-title="Waldmtr3s", FOX 5 WNYW
-https://v-ny.mybtv.net/live/550/1280x720.m3u8
 
 #EXTINF:-1 tvg-name="" group-title="Waldmtr3s", TELEMUNDO
 http://71.187.29.54:8000/play/a07a/index.m3u8
 #EXTINF:-1 tvg-name="" group-title="Waldmtr3s", Telemundo Network (East) (TELMUN)
 https://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/index_2_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-name="" group-title="Waldmtr3s", Estrella TV (East) (ESTRELLA)
-https://estrellatv-roku.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-name="" group-title="Waldmtr3s", Azteca America Network (East) (AZTECA)
 http://71.187.29.54:8000/play/a08g/index.m3u8
 #EXTINF:-1 tvg-name="" group-title="Waldmtr3s", UNIMÁS
@@ -734,8 +704,6 @@ https://panel.miplay.cl:8081/tvn/index.m3u8
 http://200.229.147.76:4000/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="PY | Trece" tvg-name="PY | Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/100px-Logotrececanal.png" group-title="TVporcable", 599 | Trece || PARAGUAY
 https://streaming.trece.com.py/live/trece.m3u8
-#EXTINF:-1 tvg-id="USA | FOX 10 Phoenix" tvg-name="USA | FOX 10 Phoenix" tvg-logo="https://azopera.org/sites/default/files/media_outlets/placeholder-16x9.jpg" group-title="TVporcable", En prueba | FOX 10 Phoenix || ESTADOS UNIDOS DE AMÉRICA
-https://v-px.mybtv.net/live/14.m3u8
 #EXTINF:-1 tvg-id="USA | GolTV" tvg-name="USA | GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/245px-GolTV_logo.svg.png" group-title="TVporcable", 202 | GolTV
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559.m3u8
 #EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="TVporcable", 69 | Space
@@ -764,6 +732,7 @@ http://45.160.12.253:8000/play/108
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NICKELODEON/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKELODEON_stream_g4&_cdn_session=528818715&_cdn_timestamp=1673419145&_cdn_token=8a4089825ea8a3c8178a402eb1be295fb1772737
 #EXTINF:-1 tvg-id="USA | Estrella TV" tvg-name="USA | Estrella TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="TVporcable", 839 | Estrella TV || ESTADOS UNIDOS DE AMÉRICA
 https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
+
 #EXTINF:-1 tvg-id="USA | Azteca América" tvg-name="USA | Azteca América" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Azteca_Am%C3%A9rica_logo_2015.png/170px-Azteca_Am%C3%A9rica_logo_2015.png" group-title="TVporcable", 840 | Azteca América || ESTADOS UNIDOS DE AMÉRICA
 https://v-px.mybtv.net/live/41.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo" tvg-name="USA | Telemundo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png" group-title="TVporcable", 841 | Telemundo || ESTADOS UNIDOS DE AMÉRICA
@@ -776,8 +745,7 @@ https://v-px.mybtv.net/live/28.m3u8
 https://v-px.mybtv.net/live/17.m3u8
 #EXTINF:-1 tvg-id="USA | Ion Mystery" tvg-name="USA | Ion Mystery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/220px-ION_Mystery_logo.svg.png" group-title="TVporcable", En prueba | Ion Mystery || ESTADOS UNIDOS DE AMÉRICA
 https://v-px.mybtv.net/live/5.m3u8
-#EXTINF:-1 tvg-id="USA | American Broadcasting Company (ABC)" tvg-name="USA | American Broadcasting Company (ABC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/120px-ABC-2021-LOGO.svg.png" group-title="TVporcable", En prueba | American Broadcasting Company (ABC) || ESTADOS UNIDOS DE AMÉRICA
-https://v-px.mybtv.net/live/27.m3u8
+
 
 #EXTINF:-1 tvg-id="USA | Fox Sports 2" tvg-name="USA | Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png" group-title="TVporcable", 204 | Fox Sports 2
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=528826059&_cdn_timestamp=1673420947&_cdn_token=76b96ca7a0310d54162fa421ac5151096d8af9c2
@@ -803,3 +771,19 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 http://200.24.141.2:4000/play/a0zd/index.m3u8
 #EXTINF:-1 tvg-id="GT | Tigo Sports" tvg-name="GT | Tigo Sports" tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="TVporcable", 216 | Tigo Sports
 https://w3ertgfdsawerty8765432qwsdfghjsaw4.tunelive.net:3368/stream/play.m3u8
+
+
+
+
+
+****************************  https://raw.githubusercontent.com/MrGmaw/enlaces/23314219af19afea9b0fea8339edfd5a47c47ad2/playlist.m3u ************************
+**********************************  https://github.com/angel200881/chann/blob/main/TP.m3u8 ******************************
+******************************* https://raw.githubusercontent.com/cesarivan2310/Lista/main/Canales ********************************************************************************
+******************************* https://raw.githubusercontent.com/newton181/dATA/main/_mx.m3u8 **********************************************************************
+******************************* https://github.com/PhoenixDreamsCompany/TV_PREMIUM_TOLUCA/blob/main/LAGUERA.m3u  *************************************************
+******************************************************  https://github.com/ccr2310/MX/blob/main/Prueba  *****************************************************
+*********************************************** https://raw.githubusercontent.com/ednar33/newton/main/androtv.m3u *****************************************************
+*************************************  https://raw.githubusercontent.com/ednar33/newton/main/AMLO.m3u  ***************************************************
+*************************************  https://raw.githubusercontent.com/ednar33/newton/main/v1x.m3u  ***************************************************
+*************************************  https://raw.githubusercontent.com/dann1110/GreatTV/master/TVBOX%202  ***************************************************
+**********************   https://raw.githubusercontent.com/4benteveos/Personal/main/Prueba1.m3u ****************************************
