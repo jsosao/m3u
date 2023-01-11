@@ -459,7 +459,7 @@ https://v-px.mybtv.net/live/27/1280x720.m3u8
 #EXTINF:-1 group-title="Bics USA", NBC NEW YORK
 https://v-ny.MyBTv.net/live/548/1920x1080.m3u8
 #EXTINF:-1 group-title="Bics USA", NBC SAN FRANCISCO
-https://v-ca.mybtv.net/live/162/1280x720.m3u8
+https://v-ca.mybtv.net/live/121/1280x720.m3u8
 #EXTINF:-1 group-title="Bics USA", NBC LOS ANGELES
 https://v-la.mybtv.net/live/82/1280x720.m3u8
 #EXTINF:-1 group-title="Bics USA", NBC PHOENIX
@@ -540,7 +540,6 @@ https://linear-433.frequency.stream/433/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="SSC", SSC NEWS
 https://ssc-news-ak.akamaized.net/out/v1/4af66d04e77349079c01c9bab46d8b28/index.m3u8
-
 #EXTINF:-1 group-title="SSC", AD Sport premium 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="SSC", AD Sport premium 2
@@ -663,7 +662,7 @@ http://181.119.67.75:8000/play/CH59
 #EXTINF:-1 tvg-id="CO | Noticias Caracol" tvg-name="CO | Noticias Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/150px-Noticias_Caracol_imagotype.svg.png" group-title="TVporcable", 428.2 | Noticias Caracol || COLOMBIA
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/NOTICIASCARACOL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNOTICIASCARACOL_stream_93&_cdn_session=528818803&_cdn_timestamp=1673419181&_cdn_token=c669babaf54b43bcff1783b9bc540baca134da5c
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="TVporcable", 5 | Panamericana Televisión
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=528976547&_cdn_timestamp=1673442267&_cdn_token=0a71c6ffaa8fa0c8a479472461bbfd1bca448315
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=536478595&_cdn_timestamp=1673869672&_cdn_token=edf7b564ffee3eb77e47af20d2935e36e2a421ff
 #EXTINF:-1 tvg-id="CL | Canal 24 Horas" tvg-name="CL | Canal 24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png" group-title="TVporcable", 179 | Canal 24 Horas
 http://45.160.12.253:8000/play/052
 #EXTINF:-1 tvg-id="CL | TNT Sports" tvg-name="CL | TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/245px-TNT_Sports_2021_logo.svg.png" group-title="TVporcable", 213 | TNT Sports
