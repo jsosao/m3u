@@ -1175,9 +1175,9 @@ https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 https://s6.hopslan.com/servus2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Deportes", ORF TV 🇩🇪
 https://s@s6.hopslan.com/orf1/index.m3u8
-#EXTINF:-1 ,2 SPORT HUNGRIA 🇭🇺
+#EXTINF:-1 group-title="Deportes", 2 SPORT HUNGRIA 🇭🇺
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
-#EXTINF:-1 , LIVE SPORT HD 🇭🇺
+#EXTINF:-1 group-title="Deportes", LIVE SPORT HD 🇭🇺
 http://195.222.7.26:7001/play/a00t
 #EXTINF:-1 group-title="Deportes",  SPOTV 1 🇮🇩
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1659773379~exp=9007200914514370~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=c1868bb91988c2e4b3b4bb98e8f73689c5d85c672bd3d857446521cad5228e11
