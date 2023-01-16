@@ -442,6 +442,48 @@ http://flash.shortgod.com/shortgodfl/tv5.php?id=53540
 #EXTINF:-1 group-title="RokuTV",Fox Sports Premium HD
 http://flash.shortgod.com/shortgodfl/tv5.php?id=53549
 
+*******************************    https://raw.githubusercontent.com/jsosao/dann1110_GreatTV/master/TVBOX 2    *****************************************
+
+#EXTINF:-1 group-title="TV Box 2",TUDN USA
+https://nkh8wh7k8f6c7tz9h7dk.xyz/tk/J8gmdRh2kA/1OCjEUYo56/916.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b1hjqgb/ESPN-Premium.png" group-title="TV Box 2",ESPN Premium HD
+https://nkh8wh7k8f6c7tz9h7dk.xyz/tk/J8gmdRh2kA/1OCjEUYo56/892.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9tJ8GC/Fox-Sports-Premium.png" group-title="TV Box 2",Fox Sports Premium
+https://nkh8wh7k8f6c7tz9h7dk.xyz/tk/J8gmdRh2kA/1OCjEUYo56/895.ts
+
+#EXTINF:-1 group-title="TV Box 2",Vix+ 1 (FHD)
+http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159261
+#EXTINF:-1 group-title="TV Box 2",Vix+ 2 (FHD)
+http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159262
+#EXTINF:-1 group-title="TV Box 2",Vix+ 3 (FHD)
+http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159263
+#EXTINF:-1 group-title="TV Box 2",Vix+ 4 (FHD)
+http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159264
+#EXTINF:-1 group-title="TV Box 2",Vix+ 5 (FHD)
+http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159265
+#EXTINF:-1 group-title="TV Box 2",Vix+ 6 (FHD)
+http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159266
+#EXTINF:-1 group-title="TV Box 2",Vix+ 7 (FHD)
+http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159267
+#EXTINF:-1 group-title="TV Box 2",Vix+ 8 (FHD)
+http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159268
+#EXTINF:-1 group-title="TV Box 2",Vix+ 9 (FHD)
+http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159269
+#EXTINF:-1 group-title="TV Box 2",Vix+ 10 (FHD)
+http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159270
+#EXTINF:-1 group-title="TV Box 2",Vix+ 11 (FHD)
+http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159271
+#EXTINF:-1 group-title="TV Box 2",Vix+ 12 (FHD)
+http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159272
+#EXTINF:-1 group-title="TV Box 2",Vix+ 13 (FHD)
+http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159273
+#EXTINF:-1 group-title="TV Box 2",Vix+ 14 (FHD)
+http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159274
+#EXTINF:-1 group-title="TV Box 2",Vix+ 15 (FHD)
+http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159275
+#EXTINF:-1 group-title="TV Box 2",Zona Tudn
+http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159276
+
 ************************************************************************************************************************************************************
 ****#EXTINF:-1 group-title="IZZI", AZTECA UNO
 ****https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.m3u8
@@ -661,7 +703,7 @@ http://181.119.67.75:8000/play/CH59
 #EXTINF:-1 tvg-id="CO | Noticias Caracol" tvg-name="CO | Noticias Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/150px-Noticias_Caracol_imagotype.svg.png" group-title="TVporcable", 428.2 | Noticias Caracol || COLOMBIA
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/NOTICIASCARACOL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNOTICIASCARACOL_stream_93&_cdn_session=528818803&_cdn_timestamp=1673419181&_cdn_token=c669babaf54b43bcff1783b9bc540baca134da5c
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="TVporcable", 5 | Panamericana Televisión
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=536478595&_cdn_timestamp=1673869672&_cdn_token=edf7b564ffee3eb77e47af20d2935e36e2a421ff
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=537716259&_cdn_timestamp=1673925577&_cdn_token=9212b5ec241c10f5326d02e52b9876e77529a9e9
 #EXTINF:-1 tvg-id="CL | Canal 24 Horas" tvg-name="CL | Canal 24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png" group-title="TVporcable", 179 | Canal 24 Horas
 http://45.160.12.253:8000/play/052
 #EXTINF:-1 tvg-id="CL | TNT Sports" tvg-name="CL | TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/245px-TNT_Sports_2021_logo.svg.png" group-title="TVporcable", 213 | TNT Sports
@@ -677,7 +719,7 @@ http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQ
 #EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="TVporcable", 69 | Space
 http://45.160.15.130:2909/play/119
 #EXTINF:-1 tvg-id="USA | FX" tvg-name="USA | FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="TVporcable", 99 | FX
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FX/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFX_stream_gv&_cdn_session=528816603&_cdn_timestamp=1673418437&_cdn_token=b8b6ad6f1bc4b30a23eb63d2db0e12bcf86a1dfc
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FX/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFX_stream_gv&_cdn_session=534737675&_cdn_timestamp=1673762772&_cdn_token=2c80930a7ea21b5daea05909e4c3324f60dc836f
 #EXTINF:-1 tvg-id="USA | Universal Premiere" tvg-name="USA | Universal Premiere" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_premiere-mediano.png" group-title="TVporcable", 105 | Universal Premiere
 http://181.175.41.170:8000/play/a0ge
 #EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="TVporcable", 106 | Cinemax
@@ -697,7 +739,7 @@ http://45.179.164.9:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="USA | TNT Series" tvg-name="USA | TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/94px-TNT_Series_Logo_2016.png" group-title="TVporcable", 113 | TNT Series
 http://45.160.12.253:8000/play/108
 #EXTINF:-1 tvg-id="USA | Nickelodeon" tvg-name="USA | Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/245px-Nickelodeon_2009_logo.svg.png" group-title="TVporcable", 144 | Nickelodeon
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NICKELODEON/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKELODEON_stream_g4&_cdn_session=528818715&_cdn_timestamp=1673419145&_cdn_token=8a4089825ea8a3c8178a402eb1be295fb1772737
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/NICKELODEON/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKELODEON_stream_g4&_cdn_session=534738787&_cdn_timestamp=1673763056&_cdn_token=35b3cfc5aeb8a24e609cde6f15745cc2bdea69be
 #EXTINF:-1 tvg-id="USA | Estrella TV" tvg-name="USA | Estrella TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="TVporcable", 839 | Estrella TV || ESTADOS UNIDOS DE AMÉRICA
 https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
 
@@ -716,19 +758,19 @@ https://v-px.mybtv.net/live/5.m3u8
 
 
 #EXTINF:-1 tvg-id="USA | Fox Sports 2" tvg-name="USA | Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png" group-title="TVporcable", 204 | Fox Sports 2
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=528826059&_cdn_timestamp=1673420947&_cdn_token=76b96ca7a0310d54162fa421ac5151096d8af9c2
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=534743979&_cdn_timestamp=1673763744&_cdn_token=06602a4a003833d9bcf9436c28d821e36785d718
 #EXTINF:-1 tvg-id="USA | Fox Sports 3" tvg-name="USA | Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/180px-Fox_sports_3_logo.svg.png" group-title="TVporcable", 205 | Fox Sports 3
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=528826187&_cdn_timestamp=1673420965&_cdn_token=747ebc520ab9826f4cdf0f66be3e537112cd5456
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=534741307&_cdn_timestamp=1673763508&_cdn_token=24937584224445faecc6d21d180b913971a8707e
 #EXTINF:-1 tvg-id="USA | ESPN" tvg-name="USA | ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="TVporcable", 206 | ESPN
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=528826387&_cdn_timestamp=1673420998&_cdn_token=f3c2f0a6a8fc0298591017d3981a3913df927186
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=534744395&_cdn_timestamp=1673763806&_cdn_token=2b64828a4c53fea0c3f594efd2837820eafd6bf0
 #EXTINF:-1 tvg-id="USA | ESPN 2" tvg-name="USA | ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="TVporcable", 207 | ESPN 2
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=528826427&_cdn_timestamp=1673421003&_cdn_token=1efb37b8f82c63ea83ca31d21997f5cda9a1d3f8
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPN2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=534744779&_cdn_timestamp=1673763868&_cdn_token=07c58dec2e4255ecfdcaf936c417630efb684e28
 #EXTINF:-1 tvg-id="USA | ESPN 3" tvg-name="USA | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="TVporcable", 208 | ESPN 3
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN3/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=528827051&_cdn_timestamp=1673421106&_cdn_token=f18adbe7950efa67a811b89fc209b00a4cb1fdb0
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN3/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=534744515&_cdn_timestamp=1673763833&_cdn_token=7b0e8e3e52c825bbd62aae79dd0cbbb713efc23f
 #EXTINF:-1 tvg-id="USA | ESPN 4" tvg-name="USA | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png" group-title="TVporcable", 209 | ESPN 4
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=528827115&_cdn_timestamp=1673421119&_cdn_token=82e4182f762e3890e084de3373ee13e6a6148abe
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=534744835&_cdn_timestamp=1673763877&_cdn_token=7216143f9d0584fb002cb8a74c2716837ceba855
 #EXTINF:-1 tvg-id="USA | ESPN Extra" tvg-name="USA | ESPN Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/190px-ESPN_Extra_Logo_2022.webp.png" group-title="TVporcable", 210 | ESPN Extra
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPNMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPNMAS2_stream_l4&_cdn_session=528827203&_cdn_timestamp=1673421134&_cdn_token=b19b6a532bd7e0ae5cec4ca3ef1c1a7b70ac3346
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPNMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPNMAS2_stream_l4&_cdn_session=534745299&_cdn_timestamp=1673763914&_cdn_token=1f921cb166be87cc983f0f86bf970c950c1167ef
 #EXTINF:-1 tvg-id="CL | TNT Sports" tvg-name="CL | TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/245px-TNT_Sports_2021_logo.svg.png" group-title="TVporcable", 213 | TNT Sports
 http://200.52.154.125:8000/play/a06g/index.m3u8
 #EXTINF:-1 tvg-id="AR | TyC Sports" tvg-name="AR | TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/245px-TyC_Sports_logo.svg.png" group-title="TVporcable", 214 | TyC Sports
