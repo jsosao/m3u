@@ -266,22 +266,6 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2402/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL",IMAGEN MULTICAST
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1449/PROFILE05.m3u8
 
-#EXTINF:-1 group-title="Bics USA", NHK WORLD JAPAN
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
-#EXTINF:-1 group-title="Bics USA", RAI NEWS ITALIA
-https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
-#EXTINF:-1 group-title="Bics USA", CBS NEWS
-https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 group-title="Bics USA", ABC NEWS
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 group-title="Bics USA", NBC NEWS
-http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Bics USA", CANADA GLOBAL NEWS
-https://siloh.pluto.tv/lilo/production/GlobalNews/National/CAN/master.m3u8
-#EXTINF:-1 group-title="Bics USA", SKY NEWS
-https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
-
 #EXTINF:-1  group-title="TOTAL", MARIA VISION
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
@@ -330,7 +314,7 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 #EXTINF:-1 group-title="Bics", MULTIMEDIOS GDL
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
-#EXTINF:-1 group-title="Bics", LAS ESTRELLAS INT
+#EXTINF:-1 group-title="Bics", LAS ESTRELLAS LATAM
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS MX
@@ -445,6 +429,7 @@ https://linear-507.frequency.stream/dist/vix/507/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", REAL MADRID TV
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 
+
 ************************  https://raw.githubusercontent.com/dann1110/GreatTV/0e14dcf7106f6eb89651fa9bbb03b2780a378b7c/RokuTV  ***************************
 
 #EXTINF:-1 group-title="RokuTV",TUDN USA
@@ -516,6 +501,22 @@ http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159276
 ************************************************************************************************************************************************************
 ****#EXTINF:-1 group-title="IZZI", AZTECA UNO
 ****https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.m3u8
+
+#EXTINF:-1 group-title="Bics USA", NHK WORLD JAPAN
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
+#EXTINF:-1 group-title="Bics USA", RAI NEWS ITALIA
+https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
+#EXTINF:-1 group-title="Bics USA", CBS NEWS
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 group-title="Bics USA", ABC NEWS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 group-title="Bics USA", NBC NEWS
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Bics USA", CANADA GLOBAL NEWS
+https://siloh.pluto.tv/lilo/production/GlobalNews/National/CAN/master.m3u8
+#EXTINF:-1 group-title="Bics USA", SKY NEWS
+https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 
 #EXTINF:-1 group-title="Bics USA", ABC NEW YORK
 https://v-ny.MyBTv.net/live/554/1280x720.m3u8
@@ -810,6 +811,76 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 http://200.24.141.2:4000/play/a0zd/index.m3u8
 #EXTINF:-1 tvg-id="GT | Tigo Sports" tvg-name="GT | Tigo Sports" tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="TVporcable", 216 | Tigo Sports
 https://w3ertgfdsawerty8765432qwsdfghjsaw4.tunelive.net:3368/stream/play.m3u8
+
+
+*********************************************  https://github.com/iptv-org/iptv/discussions/10639 ***************************************
+
+#EXTINF:-1 group-title="Telemundo", Telemundo Área De La Bahía
+https://nbculocallive.akamaized.net/hls/live/2037097/bayarea/stream3/master.m3u8
+#EXTINF:-1 group-title="Telemundo", Telemundo Chicago
+https://nbculocallive.akamaized.net/hls/live/2037085/chicago/stream4/master.m3u8
+#EXTINF:-1 group-title="Telemundo", Telemundo Dallas Fort-Worth TX
+https://nbculocallive.akamaized.net/hls/live/2037095/dallas/stream1/master.m3u8
+#EXTINF:-1 group-title="Telemundo", Telemundo Denver CO
+https://nbculocallive.akamaized.net/hls/live/2037092/denver/stream1/master.m3u8
+#EXTINF:-1 group-title="Telemundo", Telemundo El Paso TX
+https://nbculocallive.akamaized.net/hls/live/2037500/elpaso/stream1/master.m3u8
+#EXTINF:-1 group-title="Telemundo", Telemundo Fresno CA
+https://nbculocallive.akamaized.net/hls/live/2037601/fresno/stream1/master.m3u8
+#EXTINF:-1 group-title="Telemundo", Telemundo Houston TX
+https://nbculocallive.akamaized.net/hls/live/2037088/houston/stream1/master.m3u8
+#EXTINF:-1 group-title="Telemundo", Telemundo Filadelfia / [Philadelphia]
+https://nbculocallive.akamaized.net/hls/live/2035366/philadelphia/stream5/master.m3u8
+#EXTINF:-1 group-title="Telemundo", Telemundo Las Vegas NV
+https://nbculocallive.akamaized.net/hls/live/2037093/lasvegas/stream1/master.m3u8
+#EXTINF:-1 group-title="Telemundo", Telemundo Los Angeles CA
+https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master.m3u8
+#EXTINF:-1 group-title="Telemundo", Telemundo McAllen TX
+https://nbculocallive.akamaized.net/hls/live/2037094/mcallen/stream1/master.m3u8
+#EXTINF:-1 group-title="Telemundo", Telemundo Miami FL
+https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream6/master.m3u8
+#EXTINF:-1 group-title="Telemundo", Telemundo New York
+https://nbculocallive.akamaized.net/hls/live/2037083/newyork/stream7/master.m3u8
+#EXTINF:-1 group-title="Telemundo", Telemundo Nuevo México
+https://nbculocallive.akamaized.net/hls/live/2037500/elpaso/stream2/master.m3u8
+#EXTINF:-1 group-title="Telemundo", Telemundo Orlando FL
+https://nbculocallive.akamaized.net/hls/live/2037602/orlando/stream1/master.m3u8
+#EXTINF:-1 group-title="Telemundo", Telemundo Phoenix AZ
+https://nbculocallive.akamaized.net/hls/live/2037089/phoenix/stream1/master.m3u8
+#EXTINF:-1 group-title="Telemundo", Telemundo Puerto Rico (WKAQ)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 group-title="Telemundo", Telemundo Sacramento CA
+https://nbculocallive.akamaized.net/hls/live/2037604/sacramento/stream1/master.m3u8
+#EXTINF:-1 group-title="Telemundo", Telemundo Salt Lake City UT
+https://nbculocallive.akamaized.net/hls/live/2037605/saltlakecity/stream1/master.m3u8
+#EXTINF:-1 group-title="Telemundo", Telemundo San Antonio TX
+https://nbculocallive.akamaized.net/hls/live/2037091/sanantonio/stream1/master.m3u8
+#EXTINF:-1 group-title="Telemundo", Telemundo San Diego CA
+https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream3/master.m3u8
+#EXTINF:-1 group-title="Telemundo", Telemundo Tampa FL
+https://nbculocallive.akamaized.net/hls/live/2037606/tampa/stream1/master.m3u8
+#EXTINF:-1 group-title="Telemundo", Telemundo Washington DC
+https://nbculocallive.akamaized.net/hls/live/2037099/washingtondc/stream4/master.m3u8
+#EXTINF:-1 group-title="Telemundo", NBC 11 Bay Area
+https://nbculocallive.akamaized.net/hls/live/2037097/bayarea/stream4/master.m3u8
+#EXTINF:-1 group-title="Telemundo", NBC 5 Chicago
+https://nbculocallive.akamaized.net/hls/live/2037085/chicago/stream1/master.m3u8
+#EXTINF:-1 group-title="Telemundo", NBC 5 Dallas Fort-Worth
+https://nbculocallive.akamaized.net/hls/live/2037095/dallas/stream5/master.m3u8
+#EXTINF:-1 group-title="Telemundo", NBC 4 Los Angeles
+https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream1/master.m3u8
+#EXTINF:-1 group-title="Telemundo", NBC 4 New York
+https://nbculocallive.akamaized.net/hls/live/2037083/newyork/stream1/master.m3u8
+#EXTINF:-1 group-title="Telemundo", NBC 7 San Diego
+https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
+#EXTINF:-1 group-title="Telemundo", NBC 6 South Florida [Miami FL]
+https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream1/master.m3u8
+#EXTINF:-1 group-title="Telemundo", NBC 10 Philadelphia
+https://nbculocallive.akamaized.net/hls/live/2035366/philadelphia/stream2/master.m3u8
+#EXTINF:-1 group-title="Telemundo", NBC 4 Washington DC
+https://nbculocallive.akamaized.net/hls/live/2037099/washingtondc/stream1/master.m3u8
+
+
 
 *********************************************  https://raw.githubusercontent.com/la22lo/sports/main/futbol.m3u ***************************************
 
