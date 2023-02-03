@@ -1,6 +1,6 @@
 #EXTM3U
 
-************************  02/FEB/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  03/FEB/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 
 *************************************************************************  TOTAL *****************************************************************
@@ -868,8 +868,12 @@ https://nbculocallive.akamaized.net/hls/live/2037099/washingtondc/stream1/master
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 #EXTINF:-1 group-title="Deportes",  Supersport LALIGA 🇿🇦
 https://enjoy4k.shop:30445/live/abr_ch4/playlist.m3u8
-#EXTINF:-1 group-title="Deportes",  beIN SPORTS 1 🇶🇦
-http://yusf.ddns.net:5080/WebRTCApp/streams/Bein1.m3u8
+#EXTINF:-1 group-title="Deportes", beIN SPORTS 1 🇶🇦
+http://11121314.fr:8000/Exchangeiptv/Hffsduorrdfj/393338
+#EXTINF:-1 group-title="Deportes", beIN SPORTS 1 🇶🇦
+http://88.99.216.157:5080/WebRTCApp/streams/Bein1.m3u8
+#EXTINF:-1group-title="Deportes", beIN SPORTS 1 🇶🇦
+http://185.191.124.105:25461/raminp/TAQhPJncSa/44517
 #EXTINF:-1 group-title="Deportes",  LALIGA TV BAR 🇪🇸
 http://skylogic.site:8080/LeCyGodF/de198ad6/197711
 #EXTINF:-1 group-title="Deportes",  Eleven 1 HD 🇵🇹
