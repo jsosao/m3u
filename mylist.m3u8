@@ -95,6 +95,8 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL218/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", HOLA TV
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL219/PROFILE05.m3u8
+#EXTINF:-1  group-title="TOTAL", HOLA TV
+https://rakuten-hola-2-es.samsung.wurl.tv:443/3000.m3u8
 #EXTINF:-1  group-title="TOTAL",HGTV
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL3105/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", MAS CHIC
@@ -377,6 +379,8 @@ https://linear-423.frequency.stream/dist/vix/423/hls/master/playlist.m3u8
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", TELEMUNDO PUERTO RICO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 group-title="Bics", RCN Mas
+https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Bics", Adrenalina
 https://linear-393.frequency.stream/dist/vix/393/hls/master/playlist.m3u8
