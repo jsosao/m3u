@@ -379,8 +379,11 @@ https://linear-423.frequency.stream/dist/vix/423/hls/master/playlist.m3u8
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", TELEMUNDO PUERTO RICO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 group-title="Bics", RCN Mas
+#EXTINF:-1 group-title="Bics", RCN Mas+
 https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", BEIN Xtra Español
+https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Bics", Adrenalina
 https://linear-393.frequency.stream/dist/vix/393/hls/master/playlist.m3u8
@@ -391,6 +394,17 @@ https://linear-446.frequency.stream/dist/vix/446/hls/master/playlist.m3u8
 https://linear-357.frequency.stream/dist/vix/357/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", NOTICIERO UNIVISION
 https://linear-306.frequency.stream/dist/localnow/306/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", EURO NEWS
+https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", NTV+
+https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", TN23
+https://linear-259.frequency.stream/dist/vix/259/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", VIVO PLAY
+https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", NUESTRA VISION
+https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="Bics", Lo Mejor de la Liga MX 
 https://linear-193.frequency.stream/dist/localnow/193/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", N+
