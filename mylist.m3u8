@@ -1,6 +1,6 @@
 #EXTM3U
 
-************************  08/FEB/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  09/FEB/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 
 *************************************************************************  TOTAL *****************************************************************
@@ -375,19 +375,49 @@ https://linear-400.frequency.stream/dist/vix/400/hls/master/playlist.m3u8
 https://linear-401.frequency.stream/dist/vix/401/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", Unicable
 https://linear-423.frequency.stream/dist/vix/423/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="Bics", UNIVISION SUR
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="Bics", TELEMUNDO PUERTO RICO
+#EXTINF:-1 group-title="Bics", TELEMUNDO PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 group-title="Bics", RCN Mas+
+#EXTINF:-1 group-title="Bics", RCN EXTRA CO
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Bics", RCN Mas+ CO
 https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", BEIN Xtra Español
 https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", TELE ONCE
+#EXTINF:-1 group-title="Bics", TELE ONCE PR
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
-#EXTINF:-1 group-title="Bics", TVMAX
+#EXTINF:-1 group-title="Bics", TVMAX PA
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Bics", TELEMAX DO
+https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
+#EXTINF:-1 group-title="Bics", CANAL 3 GT
+https://dslvfq5ee0geu.cloudfront.net/hls/canal3.m3u8
+#EXTINF:-1 group-title="Bics", CANAL 7 GT
+https://dslvfq5ee0geu.cloudfront.net/hls/canal7.m3u8
+#EXTINF:-1 group-title="Bics", CANAL 23 GT
+https://dslvfq5ee0geu.cloudfront.net/hls/canal23.m3u8
+#EXTINF:-1 group-title="Bics", REPRETEL CR
+https://d3bgcstab9qhdz.cloudfront.net:443/hls/canal4_720.m3u8
+#EXTINF:-1 group-title="Bics", TELE 13 CL
+https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
+#EXTINF:-1 group-title="Bics", TELE 13 ENTRETENCION CL
+https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8
+#EXTINF:-1 group-title="Bics", TELE 13 PRIME CL
+https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
+#EXTINF:-1 group-title="Bics", TELE 13 TELESERIES CL
+https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
+#EXTINF:-1 group-title="Bics", MEGA CL
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:-1 group-title="Bics", ADN CL
+https://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Bics", BOLIVISION BO
+https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
+#EXTINF:-1 group-title="Bics", TELEVICENTRO EC
+https://d6op0qag07k4o.cloudfront.net/hls/tvc.m3u8
+
+
 
 
 #EXTINF:-1 group-title="Bics", Adrenalina
@@ -726,10 +756,6 @@ http://201.244.106.58:8990/play/a01b/index.m3u8
 ***** http://45.232.211.196:1080/play/a059
 #EXTINF:-1 tvg-name="" group-title="Waldmtr3s", RCN
 http://186.5.31.251:8000/play/a0df/index.m3u8
-
-#EXTINF:-1 tvg-id="CO | RCN Xtra" tvg-name="CO | RCN Xtra" tvg-logo="https://pbs.twimg.com/media/Fj6XrAoXwAAOLKg?format=png&name=120x120" group-title="Waldmtr3s", 427.3 | RCN Xtra || COLOMBIA
-https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
-
 ***** #EXTINF:-1 tvg-name="" group-title="Waldmtr3s", CaracolTV
 ***** http://190.61.40.190:45000/play/a038
 #EXTINF:-1 tvg-name="" group-title="Waldmtr3s", CaracolTV
@@ -747,10 +773,6 @@ http://186.5.31.251:8000/play/a0de/index.m3u8
 
 **********************************   https://raw.githubusercontent.com/bodegaacuenta/Moyobambaastral/main/TVCable  ***********************
 
-#EXTINF:-1 tvg-id="CO | RCN+" tvg-name="CO | RCN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/RCN_HD2_2019.png/200px-RCN_HD2_2019.png" group-title="TVporcable", 427.2 | RCN+ || COLOMBIA
-https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CO | RCN Xtra" tvg-name="CO | RCN Xtra" tvg-logo="https://pbs.twimg.com/media/Fj6XrAoXwAAOLKg?format=png&name=120x120" group-title="TVporcable", 427.3 | RCN Xtra || COLOMBIA
-https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Canal Caracol" tvg-name="CO | Canal Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="TVporcable", 428 | Canal Caracol || COLOMBIA
 http://181.119.67.75:8000/play/CH59
 #EXTINF:-1 tvg-id="CO | Noticias Caracol" tvg-name="CO | Noticias Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/150px-Noticias_Caracol_imagotype.svg.png" group-title="TVporcable", 428.2 | Noticias Caracol || COLOMBIA
