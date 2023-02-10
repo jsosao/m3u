@@ -375,7 +375,7 @@ https://linear-306.frequency.stream/dist/localnow/306/hls/master/playlist.m3u8
 https://linear-254.frequency.stream/dist/vix/254/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", EURO NEWS
 https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", ATV+
+#EXTINF:-1 group-title="Bics", ATV+ PE
 https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", TN23
 https://linear-259.frequency.stream/dist/vix/259/hls/master/playlist.m3u8
@@ -468,6 +468,10 @@ https://dslvfq5ee0geu.cloudfront.net/hls/canal23.m3u8
 https://d3bgcstab9qhdz.cloudfront.net:443/hls/canal4_720.m3u8
 #EXTINF:-1 group-title="Bics Extra", TVN CL
 https://onx.la/0c2f3.m3u8
+#EXTINF:-1 group-title="Bics Extra", CHILEVISION  CL
+https://panel.miplay.cl:8081/chilevision/index.m3u8
+#EXTINF:-1 group-title="Bics Extra", TV+  CL
+https://marine2.miplay.cl/tvmas/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", TELE 13 CL
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", TELE 13 ENTRETENCION CL
