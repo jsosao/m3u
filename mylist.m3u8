@@ -393,7 +393,7 @@ https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", FORO TV
 https://linear-300.frequency.stream/dist/vix/300/hls/master/playlist.m3u8
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-#EXTINF:-1 group-title="Bics", Weather Channel Español
+#EXTINF:-1 group-title="Bics", WEATHER CHANNEL ESPAÑOL
 https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", VEVO L
 https://linear-494.frequency.stream/494/hls/master/playlist.m3u8
@@ -466,6 +466,8 @@ https://dslvfq5ee0geu.cloudfront.net/hls/canal7.m3u8
 https://dslvfq5ee0geu.cloudfront.net/hls/canal23.m3u8
 #EXTINF:-1 group-title="Bics Extra", REPRETEL CR
 https://d3bgcstab9qhdz.cloudfront.net:443/hls/canal4_720.m3u8
+#EXTINF:-1 group-title="Bics Extra", TVN CL
+https://onx.la/0c2f3.m3u8
 #EXTINF:-1 group-title="Bics Extra", TELE 13 CL
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", TELE 13 ENTRETENCION CL
@@ -482,6 +484,8 @@ https://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8
 https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 group-title="Bics Extra", TELEVICENTRO EC
 https://d6op0qag07k4o.cloudfront.net/hls/tvc.m3u8
+
+
 
 #EXTINF:-1 group-title="Bics Extra", NHK WORLD JAPAN
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
