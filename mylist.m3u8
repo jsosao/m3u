@@ -452,6 +452,8 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", RCN Mas+ CO
 https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra", SEÑAL COLOMBIA CO
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", TELE ONCE PR
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 #EXTINF:-1 group-title="Bics Extra", TVMAX PA
@@ -488,6 +490,24 @@ https://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8
 https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 group-title="Bics Extra", TELEVICENTRO EC
 https://d6op0qag07k4o.cloudfront.net/hls/tvc.m3u8
+#EXTINF:-1 group-title="Bics Extra", ATV PE
+https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
+#EXTINF:-1 group-title="Bics Extra", ATV+ NOTICIAS PE
+https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
+#EXTINF:-1 group-title="Bics Extra", ATV SUR PE
+https://atvsur.mediatiquestream.com/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra", PANAMERICANA PE
+https://cdnh71.iblups.com/hls/ptv2.m3u8
+
+#EXTINF:-1 group-title="Bics Extra", CANAL 2 CR
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8
+#EXTINF:-1 group-title="Bics Extra", CANAL 4 CR
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal4.m3u8
+#EXTINF:-1 group-title="Bics Extra", CANAL 6 CR
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8
+#EXTINF:-1 group-title="Bics Extra", CANAL 11 CR
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8
+
 
 
 
