@@ -328,7 +328,7 @@ https://linear-348.frequency.stream/dist/vix/348/hls/master/playlist.m3u8
 https://linear-354.frequency.stream/dist/vix/354/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", DPELICULA PLUS
 https://linear-404.frequency.stream/dist/vix/404/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", DISTRITO COMEIDA
+#EXTINF:-1 group-title="Bics", DISTRITO COMEDIA
 https://linear-405.frequency.stream/dist/vix/405/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", GOLDEN
 https://linear-406.frequency.stream/dist/vix/406/hls/master/playlist.m3u8
@@ -451,9 +451,6 @@ https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", RCN Mas+ CO
 https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics Extra", SEÑAL COLOMBIA CO
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="Bics Extra", TELEMUNDO PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 group-title="Bics Extra", TELE ONCE PR
@@ -473,9 +470,6 @@ https://dslvfq5ee0geu.cloudfront.net/hls/canal3.m3u8
 https://dslvfq5ee0geu.cloudfront.net/hls/canal7.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANAL 23 GT
 https://dslvfq5ee0geu.cloudfront.net/hls/canal23.m3u8
-
-#EXTINF:-1 group-title="Bics Extra", REPRETEL CR
-https://d3bgcstab9qhdz.cloudfront.net:443/hls/canal4_720.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANAL 2 CR
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANAL 4 CR
@@ -516,9 +510,6 @@ https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
 #EXTINF:-1 group-title="Bics Extra", ATV SUR PE
 https://atvsur.mediatiquestream.com/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Bics Extra", PANAMERICANA PE
-https://cdnh71.iblups.com/hls/ptv2.m3u8
-
 #EXTINF:-1 group-title="Bics Extra", NHK WORLD JAPAN
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
 #EXTINF:-1 group-title="Bics Extra", RAI NEWS ITALIA
