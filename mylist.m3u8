@@ -97,7 +97,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL218/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL219/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", HOLA TV
 https://rakuten-hola-2-es.samsung.wurl.tv:443/3000.m3u8
-#EXTINF:-1  group-title="TOTAL",HGTV
+#EXTINF:-1  group-title="TOTAL", HGTV
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL3105/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", MAS CHIC
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL221/PROFILE05.m3u8
@@ -265,7 +265,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2091/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2167/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", FRANCE 24
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2402/PROFILE05.m3u8
-#EXTINF:-1  group-title="TOTAL",IMAGEN MULTICAST
+#EXTINF:-1  group-title="TOTAL", IMAGEN MULTICAST
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1449/PROFILE05.m3u8
 
 #EXTINF:-1  group-title="TOTAL", MARIA VISION
@@ -395,13 +395,13 @@ https://linear-300.frequency.stream/dist/vix/300/hls/master/playlist.m3u8
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", WEATHER CHANNEL ESPAÑOL
 https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", VEVO L
+#EXTINF:-1 group-title="Bics", VEVO 1
 https://linear-494.frequency.stream/494/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", VEVO INGLES
+#EXTINF:-1 group-title="Bics", VEVO 2
 https://linear-495.frequency.stream/495/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", VEVO LATINO
+#EXTINF:-1 group-title="Bics", VEVO 3
 https://linear-388.frequency.stream/388/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", VEVO REGUETON
+#EXTINF:-1 group-title="Bics", VEVO 4
 https://linear-389.frequency.stream/389/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", TUDN 1
 https://linear-360.frequency.stream/dist/vix/360/hls/master/playlist.m3u8
@@ -607,27 +607,27 @@ https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 
 *******************************  https://github.com/anthono12/rey1212/blob/360812912e6b26a99db05df05b7db59660a13a63/rony.m3u8   *************************************************
 
-#EXTINF:-1 group-title="RokuTV",  FOX SPORTS PREMIUM ARG
+#EXTINF:-1 group-title="RokuTV", FOX SPORTS PREMIUM ARG
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/195839
-#EXTINF:-1 group-title="RokuTV",  FOX SPORTS PREMIUM ARG HD
+#EXTINF:-1 group-title="RokuTV", FOX SPORTS PREMIUM ARG HD
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/10915
-#EXTINF:-1 group-title="RokuTV",  FOX SPORTS PREMIUM MX HD
+#EXTINF:-1 group-title="RokuTV", FOX SPORTS PREMIUM MX HD
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2106730
-#EXTINF:-1 group-title="RokuTV",  ESPN PREMIUM ARG
+#EXTINF:-1 group-title="RokuTV", ESPN PREMIUM ARG
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121662
-#EXTINF:-1 group-title="RokuTV",  TUDN
+#EXTINF:-1 group-title="RokuTV", TUDN
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/191356
-#EXTINF:-1 group-title="RokuTV",  TUDN HD
+#EXTINF:-1 group-title="RokuTV", TUDN HD
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/155675
-#EXTINF:-1 group-title="RokuTV",  TUDN USA
+#EXTINF:-1 group-title="RokuTV", TUDN USA
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/194924
-#EXTINF:-1 group-title="RokuTV",  TUDN USA HD
+#EXTINF:-1 group-title="RokuTV", TUDN USA HD
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/169243
-#EXTINF:-1 group-title="RokuTV",  CDO PREMIUM MOVIL CL 
+#EXTINF:-1 group-title="RokuTV", CDO PREMIUM MOVIL CL 
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121699
-#EXTINF:-1 group-title="RokuTV",  CDO PREMIUM CL
+#EXTINF:-1 group-title="RokuTV", CDO PREMIUM CL
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121700
-#EXTINF:-1 group-title="RokuTV",  CDO PREMIUM HD
+#EXTINF:-1 group-title="RokuTV", CDO PREMIUM HD
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121701
 #EXTINF:-1 group-title="RokuTV", WIN SPORTS CO
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/176585
@@ -765,7 +765,6 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144828
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144829
 
 ***************************************************************************************************************************************
-
 **** #EXTINF:-1 group-title="SSC", SSC NEWS
 **** https://ssc-news-ak.akamaized.net/out/v1/4af66d04e77349079c01c9bab46d8b28/index.m3u8
 **** #EXTINF:-1 group-title="SSC", AD Sport premium 1
