@@ -446,7 +446,6 @@ https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 #EXTINF:-1 group-title="Bics Extra", UNIVISION LATAM
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
-
 #EXTINF:-1 group-title="Bics Extra", RCN EXTRA CO
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", RCN Mas+ CO
@@ -457,19 +456,18 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANAL 34 PR
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-
 #EXTINF:-1 group-title="Bics Extra", TVMAX PA
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
-
 #EXTINF:-1 group-title="Bics Extra", TELEMAX DO
 https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
-
 #EXTINF:-1 group-title="Bics Extra", CANAL 3 GT
 https://dslvfq5ee0geu.cloudfront.net/hls/canal3.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANAL 7 GT
 https://dslvfq5ee0geu.cloudfront.net/hls/canal7.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANAL 23 GT
 https://dslvfq5ee0geu.cloudfront.net/hls/canal23.m3u8
+#EXTINF:-1 group-title="Bics Extra", CANAL 12 SV
+https://d3kk75blondskv.cloudfront.net/hls/canal12.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANAL 2 CR
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANAL 4 CR
@@ -478,7 +476,6 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal4.m3u8
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANAL 11 CR
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8
-
 #EXTINF:-1 group-title="Bics Extra", TVN CL
 https://onx.la/0c2f3.m3u8
 #EXTINF:-1 group-title="Bics Extra", CHILEVISION  CL
@@ -497,13 +494,10 @@ https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", ADN CL
 https://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="Bics Extra", BOLIVISION BO
 https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
-
 #EXTINF:-1 group-title="Bics Extra", TELEVICENTRO EC
 https://d6op0qag07k4o.cloudfront.net/hls/tvc.m3u8
-
 #EXTINF:-1 group-title="Bics Extra", ATV PE
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 group-title="Bics Extra", ATV+ NOTICIAS PE
@@ -679,7 +673,6 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121763
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2122883
 #EXTINF:-1 group-title="RokuTV", TIGO SPORTS + (OPC 1)
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2122884
-
 
 #EXTINF:-1 group-title="RokuTV", DAZN  2 SD
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144857
@@ -1866,11 +1859,12 @@ https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 **** http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159276
 
 ************************  https://raw.githubusercontent.com/dann1110/GreatTV/0e14dcf7106f6eb89651fa9bbb03b2780a378b7c/RokuTV  ***************************
-**** #EXTINF:-1 group-title="RokuTV",TUDN USA
-**** http://flash.shortgod.com/viscao/tv5.php?id=10256
-**** #EXTINF:-1 group-title="RokuTV",TUDN USA
-**** http://flash.shortgod.com/viscao/tv5.php?id=34280
-**** #EXTINF:-1 group-title="RokuTV",Fox Sports Premium HD
-**** http://flash.shortgod.com/viscao/tv5.php?id=53540
-**** #EXTINF:-1 group-title="RokuTV",Fox Sports Premium HD
-**** http://flash.shortgod.com/viscao/tv5.php?id=53549
+
+#EXTINF:-1 group-title="RokuTV",TUDN USA
+http://flash.shortgod.com/shortgodfl/tv5.php?id=10256
+#EXTINF:-1 group-title="RokuTV",TUDN USA
+http://flash.shortgod.com/shortgodfl/tv5.php?id=34280
+#EXTINF:-1 group-title="RokuTV",Fox Sports Premium HD
+http://flash.shortgod.com/shortgodfl/tv5.php?id=53540
+#EXTINF:-1 group-title="RokuTV",Fox Sports Premium HD
+http://flash.shortgod.com/shortgodfl/tv5.php?id=53549
