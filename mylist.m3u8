@@ -458,6 +458,8 @@ https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cf
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", TVMAX PA
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Bics Extra", TVN PA
+https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1 group-title="Bics Extra", TELEMAX DO
 https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANAL 3 GT
@@ -476,6 +478,8 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal4.m3u8
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANAL 11 CR
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8
+#EXTINF:-1 group-title="Bics Extra", TICAVISION CR
+https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", TVN CL
 https://onx.la/0c2f3.m3u8
 #EXTINF:-1 group-title="Bics Extra", CHILEVISION  CL
@@ -504,6 +508,9 @@ https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
 #EXTINF:-1 group-title="Bics Extra", ATV SUR PE
 https://atvsur.mediatiquestream.com/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra", EL TRECE AR
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
 #EXTINF:-1 group-title="Bics Extra", NHK WORLD JAPAN
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
 #EXTINF:-1 group-title="Bics Extra", RAI NEWS ITALIA
@@ -756,6 +763,31 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144827
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144828
 #EXTINF:-1 group-title="RokuTV", TUDN XTRA 9
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144829
+
+*******************************  https://raw.githubusercontent.com/jsosao/mortal251_ssiptvarg/main/jlm3uargentinaygratuita.m3u   *************************************************
+#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 1
+https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
+#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 2
+https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 3
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
+#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 4
+https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
+#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 5
+https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
+#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 6
+https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
+#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 7
+https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
+#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 8
+https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
+#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 9
+https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
+#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 10
+https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m3u8
+#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 11
+https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
+
 
 ***************************************************************************************************************************************
 **** #EXTINF:-1 group-title="SSC", SSC NEWS
