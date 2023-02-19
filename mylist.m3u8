@@ -269,23 +269,18 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2402/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1449/PROFILE05.m3u8
 
 #EXTINF:-1  group-title="TOTAL", MARIA VISION
-**** https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
-
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+**** https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 #EXTINF:-1  group-title="TOTAL", EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1  group-title="TOTAL", Canal de La Fé LA
+#EXTINF:-1  group-title="TOTAL", CANAL DE LA FE LA
 https://v-la.mybtv.net/live/280.m3u8
 #EXTINF:-1  group-title="TOTAL", TVA
 https://v-la.mybtv.net/live/300.m3u8
-#EXTINF:-1  group-title="TOTAL", El Sembrador Nueva Evangelización LV
+#EXTINF:-1  group-title="TOTAL", EL SEMBRADOR LV
 https://v-lv.mybtv.net/live/1057.m3u8
-#EXTINF:-1  group-title="TOTAL", El Sembrador Nueva Evangelización LA
+#EXTINF:-1  group-title="TOTAL", EL SEMBRADOR LA
 https://v-la.mybtv.net/live/1102.m3u8
-
-
-
-
 
 #EXTINF:-1  group-title="TOTAL", TELEHIT MUSICA
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE05.m3u8
