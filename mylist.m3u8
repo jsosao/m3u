@@ -3,8 +3,6 @@
 ************************  14/FEB/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 
-#EXTINF:-1 group-title="Lista 24", LAT - NBC UNIVERSO
-http://190.131.228.59:8000/play/a05x/index.m3u8
 *************************************************************************  TOTAL *****************************************************************
 
 #EXTINF:-1  group-title="TOTAL", AZTECA UNO
@@ -796,6 +794,394 @@ https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/in
 https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m3u8
 #EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 11
 https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
+
+******************************** https://raw.githubusercontent.com/fantomannn/lista/f7995a4661e08f7bfab4cc175bcf289d86f93205/total%20play.m3u    *************
+#EXTINF:-1 tvg-id="A&EMundo" group-title="Claro-COL", A&E Mundo
+http://190.131.228.59:8000/play/a05x/index.m3u8
+#EXTINF:-1 tvg-id="AMCSD" group-title="Claro-COL", AMC
+http://190.131.228.59:8000/play/a0r3/index.m3u8
+#EXTINF:-1 tvg-id="AMC HD" group-title="Claro-COL", AMC HD
+http://190.131.228.59:8000/play/a0jc/index.m3u8
+#EXTINF:-1 tvg-id="AXN" group-title="Claro-COL", AXN
+http://190.131.228.59:8000/play/a04i/index.m3u8
+#EXTINF:-1 group-title="Claro-COL", Animal Planet
+http://190.131.228.59:8000/play/a0rz/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet" group-title="Claro-COL", Animal Planet
+http://190.131.228.59:8000/play/a05o/index.m3u8
+#EXTINF:-1 tvg-id="ANIMALPLANETHD" group-title="Claro-COL", Animal Planet HD
+http://190.131.228.59:8000/play/a0rq/index.m3u8
+#EXTINF:-1 tvg-id="CNN" group-title="Claro-COL", CNN Chile ca
+http://190.131.228.59:8000/play/a045/index.m3u8
+#EXTINF:-1 tvg-id="CNNEspanol" group-title="Claro-COL", CNN Espanol
+http://190.131.228.59:8000/play/a052/index.m3u8
+#EXTINF:-1 group-title="Claro-COL", Canal Capital
+http://190.131.228.59:8000/play/a0rw/index.m3u8
+#EXTINF:-1 tvg-id="CARACOLSD" group-title="Claro-COL", Canal Caracol
+http://190.131.228.59:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="Claro-COL", Canal Institucional
+http://190.131.228.59:8000/play/a0rr/index.m3u8
+#EXTINF:-1 tvg-id="CanalInstitucional" group-title="Claro-COL", Canal Institucional
+http://190.131.228.59:8000/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="RCN" group-title="Claro-COL", Canal RCN
+http://190.131.228.59:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="Claro-COL", Canal TRO
+http://190.131.228.59:8000/play/a0ru/index.m3u8
+#EXTINF:-1 tvg-id="CanalUno" group-title="Claro-COL", Canal Uno
+http://190.131.228.59:8000/play/a003/index.m3u8
+#EXTINF:-1 tvg-id="canalestrellas" group-title="Claro-COL", Canal de Las estrellas
+http://190.131.228.59:8000/play/a064/index.m3u8
+#EXTINF:-1 tvg-id="CanaldelCongreso" group-title="Claro-COL", Canal del Congreso
+http://190.131.228.59:8000/play/a009/index.m3u8
+#EXTINF:-1 tvg-id="Capital" group-title="Claro-COL", Capital
+http://190.131.228.59:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Claro-COL", Caracol
+http://190.131.228.59:8000/play/a0rs/index.m3u8
+#EXTINF:-1 tvg-id="CARACOLHD" group-title="Claro-COL", Caracol HD
+http://190.131.228.59:8000/play/a0r7/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork" group-title="Claro-COL", Cartoon Network
+http://190.131.228.59:8000/play/a049/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork" group-title="Claro-COL", Cartoon Network HD
+http://190.131.228.59:8000/play/a0je/index.m3u8
+#EXTINF:-1 tvg-id="Cinecanal" group-title="Claro-COL", Cinecanal
+http://190.131.228.59:8000/play/a03z/index.m3u8
+#EXTINF:-1 tvg-id="CINECANALHD" group-title="Claro-COL", Cinecanal HD
+http://190.131.228.59:8000/play/a0ro/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax" group-title="Claro-COL", Cinemax
+http://190.131.228.59:8000/play/a04g/index.m3u8
+#EXTINF:-1 tvg-id="CityTV" group-title="Claro-COL", City TV
+http://190.131.228.59:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="CRISTOVISION" group-title="Claro-COL", Cristovisiðn
+http://190.131.228.59:8000/play/a0qy/index.m3u8
+#EXTINF:-1 tvg-id="DISCOV" group-title="Claro-COL", Discovery Channel
+http://190.131.228.59:8000/play/a0qu/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannelSD" group-title="Claro-COL", Discovery Channel
+http://190.131.228.59:8000/play/a05n/index.m3u8
+#EXTINF:-1 tvg-id="DISCOVERYH&H" group-title="Claro-COL", Discovery H&H HD
+http://190.131.228.59:8000/play/a0re/index.m3u8
+#EXTINF:-1 tvg-id="DISCOVERYHD" group-title="Claro-COL", Discovery HD
+http://190.131.228.59:8000/play/a0j2/index.m3u8
+#EXTINF:-1 tvg-id="DISCOVKIDS" group-title="Claro-COL", Discovery Kids
+http://190.131.228.59:8000/play/a0qt/index.m3u8
+#EXTINF:-1 tvg-id="DISCOVERKIDSHD" group-title="Claro-COL", Discovery Kids HD
+http://190.131.228.59:8000/play/a0rd/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKidsca" group-title="Claro-COL", Discovery Kids ca
+http://190.131.228.59:8000/play/a06y/index.m3u8
+#EXTINF:-1 tvg-id="THETHER" group-title="Claro-COL", Discovery Theater HD
+http://190.131.228.59:8000/play/a0rf/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo" group-title="Claro-COL", Discovery Turbo
+http://190.131.228.59:8000/play/a04t/index.m3u8
+#EXTINF:-1 tvg-id="WORLD" group-title="Claro-COL", Discovery World HD
+http://190.131.228.59:8000/play/a0rn/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel" group-title="Claro-COL", Disney Channel
+http://190.131.228.59:8000/play/a05m/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJr" group-title="Claro-COL", Disney Jr
+http://190.131.228.59:8000/play/a05i/index.m3u8
+#EXTINF:-1 tvg-id="EEntertainment" group-title="Claro-COL", E Entertainment
+http://190.131.228.59:8000/play/a05q/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2" group-title="Claro-COL", ESPN 2
+http://190.131.228.59:8000/play/a0hn/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2" group-title="Claro-COL", ESPN 2
+http://190.131.228.59:8000/play/a05k/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2LATIN" group-title="Claro-COL", ESPN 2 Latin ca
+http://190.131.228.59:8000/play/a05s/index.m3u8
+#EXTINF:-1 tvg-id="ESPN3" group-title="Claro-COL", ESPN 3
+http://190.131.228.59:8000/play/a04v/index.m3u8
+#EXTINF:-1 tvg-id="ESPN4" group-title="Claro-COL", ESPN 4 HD
+http://190.131.228.59:8000/play/a0rg/index.m3u8
+#EXTINF:-1 tvg-id="ESPNCO" group-title="Claro-COL", ESPN CO
+http://190.131.228.59:8000/play/a00c/index.m3u8
+#EXTINF:-1 tvg-id="ENLACE" group-title="Claro-COL", Enlace
+http://190.131.228.59:8000/play/a0qx/index.m3u8
+#EXTINF:-1 tvg-id="EUROPA" group-title="Claro-COL", Europa Europa
+http://190.131.228.59:8000/play/a0r4/index.m3u8
+#EXTINF:-1 tvg-id="FOX2HD" group-title="Claro-COL", FOX Sports 2 HD
+http://190.131.228.59:8000/play/a0rh/index.m3u8
+#EXTINF:-1 tvg-id="FX" group-title="Claro-COL", FX
+http://190.131.228.59:8000/play/a04k/index.m3u8
+#EXTINF:-1 tvg-id="FXHD" group-title="Claro-COL", FX HD
+http://190.131.228.59:8000/play/a0rk/index.m3u8
+#EXTINF:-1 tvg-id="FILM" group-title="Claro-COL", Film&Arts
+http://190.131.228.59:8000/play/a0qv/index.m3u8
+#EXTINF:-1 tvg-id="FOX" group-title="Claro-COL", Fox Sports
+http://190.131.228.59:8000/play/a05r/index.m3u8
+#EXTINF:-1 tvg-id="FOXSPORT1" group-title="Claro-COL", Fox Sports 1 HD
+http://190.131.228.59:8000/play/a0j3/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports2" group-title="Claro-COL", Fox Sports 2
+http://190.131.228.59:8000/play/a065/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports3" group-title="Claro-COL", Fox Sports 3
+http://190.131.228.59:8000/play/a066/index.m3u8
+#EXTINF:-1 tvg-id="GOLTV" group-title="Claro-COL", GOL TV
+http://190.131.228.59:8000/play/a05u/index.m3u8
+#EXTINF:-1 tvg-id="HBO" group-title="Claro-COL", HBO
+http://190.131.228.59:8000/play/a09a/index.m3u8
+#EXTINF:-1 tvg-id="HBO2SD" group-title="Claro-COL", HBO 2
+http://190.131.228.59:8000/play/a08j/index.m3u8
+#EXTINF:-1 tvg-id="HBO2" group-title="Claro-COL", HBO 2 HD
+http://190.131.228.59:8000/play/a0jh/index.m3u8
+#EXTINF:-1 tvg-id="HBOFamilySD" group-title="Claro-COL", HBO Family
+http://190.131.228.59:8000/play/a05h/index.m3u8
+#EXTINF:-1 tvg-id="HBOFAMILYHD" group-title="Claro-COL", HBO Family HD
+http://190.131.228.59:8000/play/a0j5/index.m3u8
+#EXTINF:-1 tvg-id="HBOHD" group-title="Claro-COL", HBO HD
+http://190.131.228.59:8000/play/a0rp/index.m3u8
+#EXTINF:-1 tvg-id="HBOPlus" group-title="Claro-COL", HBO Plus
+http://190.131.228.59:8000/play/a05f/index.m3u8
+#EXTINF:-1 tvg-id="HBOXTREMESD" group-title="Claro-COL", HBO XTREME SD
+http://190.131.228.59:8000/play/a05g/index.m3u8
+#EXTINF:-1 tvg-id="HistoryChannel" group-title="Claro-COL", History Channel
+http://190.131.228.59:8000/play/a03y/index.m3u8
+#EXTINF:-1 tvg-id="HOLATV" group-title="Claro-COL", Hola TV
+http://190.131.228.59:8000/play/a0qw/index.m3u8
+#EXTINF:-1 tvg-id="ISAT" group-title="Claro-COL", I-Sat
+http://190.131.228.59:8000/play/a0ht/index.m3u8
+#EXTINF:-1 tvg-id="LARED" group-title="Claro-COL", La Red ca
+http://190.131.228.59:8000/play/a053/index.m3u8
+#EXTINF:-1 tvg-id="LIFETIME" group-title="Claro-COL", Lifetime
+http://190.131.228.59:8000/play/a0hw/index.m3u8
+#EXTINF:-1 tvg-id="MTV" group-title="Claro-COL", MTV
+http://190.131.228.59:8000/play/a042/index.m3u8
+#EXTINF:-1 tvg-id="NatGeo" group-title="Claro-COL", Nat Geo
+http://190.131.228.59:8000/play/a03x/index.m3u8
+#EXTINF:-1 tvg-id="NATGEO" group-title="Claro-COL", Nat Geo HD
+http://190.131.228.59:8000/play/a0j9/index.m3u8
+#EXTINF:-1 tvg-id="NickJr" group-title="Claro-COL", Nick Jr
+http://190.131.228.59:8000/play/a09b/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon" group-title="Claro-COL", Nickelodeon
+http://190.131.228.59:8000/play/a03v/index.m3u8
+#EXTINF:-1 tvg-id="PARAMOUNT" group-title="Claro-COL", Paramount HD
+http://190.131.228.59:8000/play/a0jf/index.m3u8
+#EXTINF:-1 tvg-id="RCNHD" group-title="Claro-COL", RCN HD
+http://190.131.228.59:8000/play/a0rm/index.m3u8
+#EXTINF:-1 tvg-id="STARCHANNEL" group-title="Claro-COL", STAR CHANNEL
+http://190.131.228.59:8000/play/a08r/index.m3u8
+#EXTINF:-1 tvg-id="SenalColombia" group-title="Claro-COL", Senal Colombia
+http://190.131.228.59:8000/play/a00a/index.m3u8
+#EXTINF:-1 tvg-id="Sony" group-title="Claro-COL", Sony
+http://190.131.228.59:8000/play/a04h/index.m3u8
+#EXTINF:-1 tvg-id="Space" group-title="Claro-COL", Space
+http://190.131.228.59:8000/play/a04j/index.m3u8
+#EXTINF:-1 tvg-id="STUDIOSD" group-title="Claro-COL", Studio Universal
+http://190.131.228.59:8000/play/a0i0/index.m3u8
+#EXTINF:-1 tvg-id="STUDIO" group-title="Claro-COL", Studio Universal HD
+http://190.131.228.59:8000/play/a0jg/index.m3u8
+#EXTINF:-1 tvg-id="TCM" group-title="Claro-COL", TCM
+http://190.131.228.59:8000/play/a06z/index.m3u8
+#EXTINF:-1 tvg-id="TLC" group-title="Claro-COL", TLC
+http://190.131.228.59:8000/play/a062/index.m3u8
+#EXTINF:-1 tvg-id="TNT" group-title="Claro-COL", TNT
+http://190.131.228.59:8000/play/a0r2/index.m3u8
+#EXTINF:-1 tvg-id="TNT" group-title="Claro-COL", TNT
+http://190.131.228.59:8000/play/a04a/index.m3u8
+#EXTINF:-1 tvg-id="TNTSPORT2" group-title="Claro-COL", TNT SPORTS 2
+http://190.131.228.59:8000/play/a059/index.m3u8
+#EXTINF:-1 tvg-id="TNTSERIESHD" group-title="Claro-COL", TNT Series HD
+http://190.131.228.59:8000/play/a0rj/index.m3u8
+#EXTINF:-1 tvg-id="TRO" group-title="Claro-COL", TRO
+http://190.131.228.59:8000/play/a00e/index.m3u8
+#EXTINF:-1 tvg-id="TV+" group-title="Claro-COL", TV+ HD
+http://190.131.228.59:8000/play/a0do/index.m3u8
+#EXTINF:-1 tvg-id="TVE" group-title="Claro-COL", TVE
+http://190.131.228.59:8000/play/a04e/index.m3u8
+#EXTINF:-1 tvg-id="TELEANTIOQUIA" group-title="Claro-COL", Teleantioquia
+http://190.131.228.59:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="Claro-COL", Telecafe
+http://190.131.228.59:8000/play/a0rv/index.m3u8
+#EXTINF:-1 tvg-id="Telecafe" group-title="Claro-COL", Telecafe
+http://190.131.228.59:8000/play/a04y/index.m3u8
+#EXTINF:-1 group-title="Claro-COL", Telecaribe
+http://190.131.228.59:8000/play/a0rt/index.m3u8
+#EXTINF:-1 tvg-id="Telecaribe" group-title="Claro-COL", Telecaribe
+http://190.131.228.59:8000/play/a04w/index.m3u8
+#EXTINF:-1 tvg-id="Telefeca" group-title="Claro-COL", Telefe ca
+http://190.131.228.59:8000/play/a04p/index.m3u8
+#EXTINF:-1 tvg-id="TELEFUTURO" group-title="Claro-COL", Telefuturo
+http://190.131.228.59:8000/play/a0hy/index.m3u8
+#EXTINF:-1 tvg-id="Teleislas" group-title="Claro-COL", Teleislas
+http://190.131.228.59:8000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="Telemundo" group-title="Claro-COL", Telemundo
+http://190.131.228.59:8000/play/a067/index.m3u8
+#EXTINF:-1 tvg-id="Telepacifico" group-title="Claro-COL", Telepacifico
+http://190.131.228.59:8000/play/a04n/index.m3u8
+#EXTINF:-1 tvg-id="TyCSports" group-title="Claro-COL", TyC Sports
+http://190.131.228.59:8000/play/a05v/index.m3u8
+#EXTINF:-1 tvg-id="Universal" group-title="Claro-COL", Universal
+http://190.131.228.59:8000/play/a040/index.m3u8
+#EXTINF:-1 tvg-id="Warner" group-title="Claro-COL", Warner
+http://190.131.228.59:8000/play/a05p/index.m3u8
+#EXTINF:-1 tvg-id="WinSports" group-title="Claro-COL", Win Sports
+http://190.131.228.59:8000/play/a04m/index.m3u8
+#EXTINF:-1 tvg-id="WIN+" group-title="Claro-COL", Win Sports+ HD
+http://190.131.228.59:8000/play/a0e2/index.m3u8
+#EXTINF:-1 tvg-id="ZonaLatina" group-title="Claro-COL", Zona Latina
+http://190.131.228.59:8000/play/a043/index.m3u8
+#EXTINF:-1 tvg-id="Zoom" group-title="Claro-COL", Zoom
+http://190.131.228.59:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="Claro-COL", Telemundo
+http://190.60.39.62:8000/play/a02g
+#EXTINF:-1 group-title="Claro-COL", AE Mundo
+http://190.60.39.62:8000/play/a01z
+#EXTINF:-1 group-title="Claro-COL", AMC HD
+http://190.60.39.62:8000/play/a0b4
+#EXTINF:-1 group-title="Claro-COL", AXN
+http://190.60.39.62:8000/play/a048
+#EXTINF:-1 group-title="Claro-COL", Animal Planet
+http://190.60.39.62:8000/play/a01q
+#EXTINF:-1 group-title="Claro-COL", Animal Planet HD
+http://190.60.39.62:8000/play/a0b9
+#EXTINF:-1 group-title="Claro-COL", BabyFirst
+http://190.60.39.62:8000/play/a09b
+#EXTINF:-1 group-title="Claro-COL", CARTOONITO FHD
+http://190.60.39.62:8000/play/98
+#EXTINF:-1 group-title="Claro-COL", CNN Espanol
+http://190.60.39.62:8000/play/a014
+#EXTINF:-1 group-title="Claro-COL", Canal Caracol
+http://190.60.39.62:8000/play/a033
+#EXTINF:-1 group-title="Claro-COL", Canal Estrellas
+http://190.60.39.62:8000/play/a02d
+#EXTINF:-1 group-title="Claro-COL", Canal Institucional
+http://190.60.39.62:8000/play/a037
+#EXTINF:-1 group-title="Claro-COL", Canal RCN
+http://190.60.39.62:8000/play/a034
+#EXTINF:-1 group-title="Claro-COL", Canal Uno
+http://190.60.39.62:8000/play/a031
+#EXTINF:-1 group-title="Claro-COL", Canal del Congreso
+http://190.60.39.62:8000/play/a038
+#EXTINF:-1 group-title="Claro-COL", Capital
+http://190.60.39.62:8000/play/a08d
+#EXTINF:-1 group-title="Claro-COL", Cartoon Network
+http://190.60.39.62:8000/play/a00w
+#EXTINF:-1 group-title="Claro-COL", Cartoon Network HD
+http://190.60.39.62:8000/play/a0b6
+#EXTINF:-1 group-title="Claro-COL", Cinecanal
+http://190.60.39.62:8000/play/a00m
+#EXTINF:-1 group-title="Claro-COL", Cinecanal HD
+http://190.60.39.62:8000/play/a0b3
+#EXTINF:-1 group-title="Claro-COL", Cinemax
+http://190.60.39.62:8000/play/a046
+#EXTINF:-1 group-title="Claro-COL", City TV
+http://190.60.39.62:8000/play/a08c
+#EXTINF:-1 group-title="Claro-COL", Discovery Channel
+http://190.60.39.62:8000/play/a01p
+#EXTINF:-1 group-title="Claro-COL", Discovery ID
+http://190.60.39.62:8000/play/a02i
+#EXTINF:-1 group-title="Claro-COL", Discovery Kids
+http://190.60.39.62:8000/play/a013
+#EXTINF:-1 group-title="Claro-COL", Discovery Turbo
+http://190.60.39.62:8000/play/a04j
+#EXTINF:-1 group-title="Claro-COL", Discovery World HD
+http://190.60.39.62:8000/play/a0b2
+#EXTINF:-1 group-title="Claro-COL", Disney Channel
+http://190.60.39.62:8000/play/a01o
+#EXTINF:-1 group-title="Claro-COL", Disney Jr
+http://190.60.39.62:8000/play/a01k
+#EXTINF:-1 group-title="Claro-COL", E Entertainment
+http://190.60.39.62:8000/play/a01s
+#EXTINF:-1 group-title="Claro-COL", ESPN
+http://190.60.39.62:8000/play/a01v
+#EXTINF:-1 group-title="Claro-COL", ESPN 2
+http://190.60.39.62:8000/play/a01m
+#EXTINF:-1 group-title="Claro-COL", ESPN 2 Latin
+http://190.60.39.62:8000/play/a01u
+#EXTINF:-1 group-title="Claro-COL", ESPN 3
+http://190.60.39.62:8000/play/a04l
+#EXTINF:-1 group-title="Claro-COL", ESPN 4
+http://190.60.39.62:8000/play/a02s
+#EXTINF:-1 group-title="Claro-COL", ESPN CO
+http://190.60.39.62:8000/play/a03c
+#EXTINF:-1 group-title="Claro-COL", ESPN EXTRA HD
+http://190.60.39.62:8000/play/a0b5
+#EXTINF:-1 group-title="Claro-COL", Enlace
+http://190.60.39.62:8000/play/a011
+#EXTINF:-1 group-title="Claro-COL", FX
+http://190.60.39.62:8000/play/a04a
+#EXTINF:-1 group-title="Claro-COL", Fox Sports 2
+http://190.60.39.62:8000/play/a02e
+#EXTINF:-1 group-title="Claro-COL", Fox Sports 3
+http://190.60.39.62:8000/play/a02f
+#EXTINF:-1 group-title="Claro-COL", GLITZ HD
+http://190.60.39.62:8000/play/95
+#EXTINF:-1 group-title="Claro-COL", History Channel
+http://190.60.39.62:8000/play/a00l
+#EXTINF:-1 group-title="Claro-COL", HomeandHealth
+http://190.60.39.62:8000/play/a02n
+#EXTINF:-1 group-title="Claro-COL", I-Sat
+http://190.60.39.62:8000/play/a00o
+#EXTINF:-1 group-title="Claro-COL", Lifetime
+http://190.60.39.62:8000/play/a09c
+#EXTINF:-1 group-title="Claro-COL", MTV
+http://190.60.39.62:8000/play/a00p
+#EXTINF:-1 group-title="Claro-COL", Nat Geo
+http://190.60.39.62:8000/play/a00k
+#EXTINF:-1 group-title="Claro-COL", Nat Geo HD
+http://190.60.39.62:8000/play/a0b1
+#EXTINF:-1 group-title="Claro-COL", Nick Jr
+http://190.60.39.62:8000/play/a04i
+#EXTINF:-1 group-title="Claro-COL", Nickelodeon
+http://190.60.39.62:8000/play/a00i
+#EXTINF:-1 group-title="Claro-COL", Paramount HD
+http://190.60.39.62:8000/play/a0b7
+#EXTINF:-1 group-title="Claro-COL", RCN Novelas
+http://190.60.39.62:8000/play/a02h
+#EXTINF:-1 group-title="Claro-COL", STAR CHANNEL
+http://190.60.39.62:8000/play/a00t
+#EXTINF:-1 group-title="Claro-COL", Senal Colombia
+http://190.60.39.62:8000/play/a039
+#EXTINF:-1 group-title="Claro-COL", Sin Limites
+http://190.60.39.62:8000/play/a02v
+#EXTINF:-1 group-title="Claro-COL", Sony
+http://190.60.39.62:8000/play/a047
+#EXTINF:-1 group-title="Claro-COL", Space
+http://190.60.39.62:8000/play/a049
+#EXTINF:-1 group-title="Claro-COL", SyFy
+http://190.60.39.62:8000/play/a09d
+#EXTINF:-1 group-title="Claro-COL", TBS
+http://190.60.39.62:8000/play/a02l
+#EXTINF:-1 group-title="Claro-COL", TCM
+http://190.60.39.62:8000/play/a00u
+#EXTINF:-1 group-title="Claro-COL", TLC
+http://190.60.39.62:8000/play/a02b
+#EXTINF:-1 group-title="Claro-COL", TNT
+http://190.60.39.62:8000/play/a00x
+#EXTINF:-1 group-title="Claro-COL", TNT SERIES FHD
+http://190.60.39.62:8000/play/99
+#EXTINF:-1 group-title="Claro-COL", TRO
+http://190.60.39.62:8000/play/a06r
+#EXTINF:-1 group-title="Claro-COL", TV AGRO HD
+http://190.60.39.62:8000/play/96
+#EXTINF:-1 group-title="Claro-COL", TV ORINOQUIA
+http://190.60.39.62:8000/play/93
+#EXTINF:-1 group-title="Claro-COL", TV+ HD
+http://190.60.39.62:8000/play/a0b0
+#EXTINF:-1 group-title="Claro-COL", TVE
+http://190.60.39.62:8000/play/a012
+#EXTINF:-1 group-title="Claro-COL", Teleantioquia
+http://190.60.39.62:8000/play/a04b
+#EXTINF:-1 group-title="Claro-COL", Telecaribe
+http://190.60.39.62:8000/play/a04m
+#EXTINF:-1 group-title="Claro-COL", Teleislas
+http://190.60.39.62:8000/play/a08b
+#EXTINF:-1 group-title="Claro-COL", Telenovelas
+http://190.60.39.62:8000/play/a0ap
+#EXTINF:-1 group-title="Claro-COL", Telepacifico
+http://190.60.39.62:8000/play/a04d
+#EXTINF:-1 group-title="Claro-COL", UPDATE
+http://190.60.39.62:8000/play/a075
+#EXTINF:-1 group-title="Claro-COL", Universal
+http://190.60.39.62:8000/play/a00n
+#EXTINF:-1 group-title="Claro-COL", ViaX
+http://190.60.39.62:8000/play/a02c
+#EXTINF:-1 group-title="Claro-COL", Warner
+http://190.60.39.62:8000/play/a01r
+#EXTINF:-1 group-title="Claro-COL", Win Sports+ HD
+http://190.60.39.62:8000/play/a0b8
+#EXTINF:-1 group-title="Claro-COL", Zona Latina
+http://190.60.39.62:8000/play/a00q
+#EXTINF:-1 group-title="Claro-COL", Zoom
+http://190.60.39.62:8000/play/a08a
+#EXTINF:-1 group-title="Claro-COL", suram
+http://190.60.39.62:8000/play/a0bb
+
+
 
 
 ***************************************************************************************************************************************
