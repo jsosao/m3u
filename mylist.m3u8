@@ -269,29 +269,20 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2402/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1449/PROFILE05.m3u8
 
 #EXTINF:-1  group-title="TOTAL", MARIA VISION
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+**** https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
+
 #EXTINF:-1  group-title="TOTAL", EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-
-
-#EXTINF:-1  group-title="TOTAL", Canal de La Fé
+#EXTINF:-1  group-title="TOTAL", Canal de La Fé LA
 https://v-la.mybtv.net/live/280.m3u8
 #EXTINF:-1  group-title="TOTAL", TVA
 https://v-la.mybtv.net/live/300.m3u8
-#EXTINF:-1  group-title="TOTAL", Espíritu Santo TV
-https://v-fn.mybtv.net/live/893.m3u8
-#EXTINF:-1  group-title="TOTAL", AlmaVisión LV
-https://v-lv.mybtv.net/live/1047.m3u8
-#EXTINF:-1  group-title="TOTAL", Renuevo LV
-https://v-lv.mybtv.net/live/1056.m3u8
-#EXTINF:-1  group-title="TOTAL", El Sembrador Nueva Evangelización
+#EXTINF:-1  group-title="TOTAL", El Sembrador Nueva Evangelización LV
 https://v-lv.mybtv.net/live/1057.m3u8
-#EXTINF:-1  group-title="TOTAL", El Sembrador Nueva Evangelización
+#EXTINF:-1  group-title="TOTAL", El Sembrador Nueva Evangelización LA
 https://v-la.mybtv.net/live/1102.m3u8
-#EXTINF:-1  group-title="TOTAL", Hora de Fé
-https://v-fn.mybtv.net/live/1188.m3u8
-#EXTINF:-1  group-title="TOTAL", Enlace
-https://11554-1.b.cdn13.com/LiveHTTPOrigin/live/playlist.m3u8
+
 
 
 
