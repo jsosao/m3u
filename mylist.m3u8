@@ -4,8 +4,7 @@
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 
 #EXTINF:-1 group-title="Lista 24", LAT - NBC UNIVERSO
-http://tv.nousiptv.com:8080/live/Jomyson/JuJH.8628jT/3757.m3u8
-
+http://190.131.228.59:8000/play/a05x/index.m3u8
 *************************************************************************  TOTAL *****************************************************************
 
 #EXTINF:-1  group-title="TOTAL", AZTECA UNO
@@ -276,10 +275,6 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 **** https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 #EXTINF:-1  group-title="TOTAL", EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1  group-title="TOTAL", CANAL DE LA FE LA
-https://v-la.mybtv.net/live/280.m3u8
-#EXTINF:-1  group-title="TOTAL", TVA
-https://v-la.mybtv.net/live/300.m3u8
 #EXTINF:-1  group-title="TOTAL", EL SEMBRADOR LV
 https://v-lv.mybtv.net/live/1057.m3u8
 #EXTINF:-1  group-title="TOTAL", EL SEMBRADOR LA
