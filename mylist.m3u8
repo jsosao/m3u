@@ -465,6 +465,8 @@ https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cf
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", TVMAX PA
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Bics Extra", TVMAX 2 PA
+https://epg.pw/stream/ddfdb175a7d154851618a1f61ba87870073a6504fd016cbb1624d8e480ef0760.m3u8
 #EXTINF:-1 group-title="Bics Extra", TVN PA
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1 group-title="Bics Extra", TELEMAX DO
