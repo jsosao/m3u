@@ -489,6 +489,10 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", TVN CL
 https://onx.la/0c2f3.m3u8
+#EXTINF:-1 group-title="Bics Extra", TVN CL
+ttps://panel.miplay.cl:8081/tvn/index.m3u8
+#EXTINF:-1 group-title="Bics Extra", CANAL 13 CL
+https://panel.miplay.cl:8081/c13/index.m3u8
 #EXTINF:-1 group-title="Bics Extra", CHILEVISION  CL
 https://panel.miplay.cl:8081/chilevision/index.m3u8
 #EXTINF:-1 group-title="Bics Extra", TV+  CL
