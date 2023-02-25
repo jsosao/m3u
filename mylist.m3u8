@@ -1619,10 +1619,10 @@ http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/81684
 **** #EXTINF:-1 tvg-logo="https://i.ibb.co/L9tJ8GC/Fox-Sports-Premium.png" group-title="TV Box 2",Fox Sports Premium
 **** https://nkh8wh7k8f6c7tz9h7dk.xyz/rk/J8gmdRh2kA/1OCjEUYo56/895.ts
 
-**** #EXTINF:-1 group-title="TV Box 2",Vix+ 1 (FHD)
-**** http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159261
-**** #EXTINF:-1 group-title="TV Box 2",Vix+ 2 (FHD)
-**** http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159262
+#EXTINF:-1 group-title="TV Box 2",Vix+ 1 (FHD)
+http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159261
+#EXTINF:-1 group-title="TV Box 2",Vix+ 2 (FHD)
+http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159262
 **** #EXTINF:-1 group-title="TV Box 2",Vix+ 3 (FHD)
 **** http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159263
 **** #EXTINF:-1 group-title="TV Box 2",Vix+ 4 (FHD)
