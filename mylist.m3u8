@@ -1192,20 +1192,6 @@ http://190.60.39.62:8000/play/a08a
 #EXTINF:-1 group-title="Claro-COL", suram
 http://190.60.39.62:8000/play/a0bb
 
-***************************************************************************************************************************************
-**** #EXTINF:-1 group-title="SSC", SSC NEWS
-**** https://ssc-news-ak.akamaized.net/out/v1/4af66d04e77349079c01c9bab46d8b28/index.m3u8
-**** #EXTINF:-1 group-title="SSC", AD Sport premium 1
-**** https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-**** #EXTINF:-1 group-title="SSC", AD Sport premium 2
-**** https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-**** #EXTINF:-1 group-title="SSC", Dubai 1
-**** https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
-**** #EXTINF:-1 group-title="SSC", Dubai 2
-**** https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-**** #EXTINF:-1 group-title="SSC", Dubai 3
-**** https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-
 *****************************************  https://github.com/pcouillard/iptv/blob/main/iptv.m3u ***************************************
 
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="Pcouillard_USA",AMC Presents
@@ -1304,12 +1290,6 @@ http://186.5.31.251:8000/play/a0de/index.m3u8
 
 ****************************************  https://github.com/atim2515/ATIM_BOSTON/blob/main/CABLE%20KINGS   ****************************
 
-#EXTINF:-1  group-title="CABLE KINGS", MLB
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8
-#EXTINF:-1  group-title="CABLE KINGS", CCTV 5
-http://223.110.242.130:6610/gitv/live1/G_CCTV-5-HQ/index.m3u8
-#EXTINF:-1  group-title="CABLE KINGS", MLB
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/mlb.network.us.m3u8
 #EXTINF:-1  group-title="CABLE KINGS", SHOWTIME
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/765
 #EXTINF:-1  group-title="CABLE KINGS", SHOWTIME 2
