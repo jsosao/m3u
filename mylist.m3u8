@@ -1,6 +1,6 @@
 #EXTM3U
 
-************************  25/FEB/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  28/FEB/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 
 **********************************************************************  TOTAL *****************************************************************
@@ -294,15 +294,12 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", MTV 80s
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE05.m3u8
-
 #EXTINF:-1  group-title="TOTAL", CANAL DEL CONGRESO
 https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2331/PROFILE05.m3u8
 #EXTINF:-1  group-title="TOTAL", GALICIA
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL802/PROFILE05.m3u8
-
 #EXTINF:-1  group-title="TOTAL", ALEATORIO
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL803/PROFILE05.m3u8
-
 #EXTINF:-1  group-title="TOTAL", MVS
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
@@ -470,13 +467,17 @@ https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/60580
 #EXTINF:-1 group-title="Bics Extra", TELEMAX DO
 https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANAL 11 HN
-https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8
+https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANAL 3 GT
 https://dslvfq5ee0geu.cloudfront.net/hls/canal3.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANAL 7 GT
 https://dslvfq5ee0geu.cloudfront.net/hls/canal7.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANAL 23 GT
 https://dslvfq5ee0geu.cloudfront.net/hls/canal23.m3u8
+#EXTINF:-1 group-title="Bics Extra", GUATEVISION GT
+https://prensalibre-live.cdn.vustreams.com/live/cd8f5328-7a1c-49d9-b318-9190858d1826/live.isml/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra", TELEMAX GT
+https://cdn.streamhispanatv.net:3824/live/telemaxlive.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANAL 12 SV
 https://d3kk75blondskv.cloudfront.net/hls/canal12.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANAL 2 CR
@@ -1428,7 +1429,7 @@ http://181.119.67.75:8000/play/CH59
 #EXTINF:-1 tvg-id="CO | Noticias Caracol" tvg-name="CO | Noticias Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/150px-Noticias_Caracol_imagotype.svg.png" group-title="TVporcable", 428.2 | Noticias Caracol || COLOMBIA
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NOTICIASCARACOL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNOTICIASCARACOL_stream_93&_cdn_session=614444659&_cdn_timestamp=1677653677&_cdn_token=083289cb3780a5582a57c622e3cd797e1bd5f518
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="TVporcable", 5 | Panamericana Televisión
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=614431459&_cdn_timestamp=1677651118&_cdn_token=a663a29d8531ab43e56fe57bf590932848e50125
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=617440659&_cdn_timestamp=1677829203&_cdn_token=3b315cf6c993565bd368cb58af7f37912d8eec4e
 #EXTINF:-1 tvg-id="CL | Canal 24 Horas" tvg-name="CL | Canal 24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png" group-title="TVporcable", 179 | Canal 24 Horas
 http://45.160.12.253:8000/play/052
 #EXTINF:-1 tvg-id="CL | TNT Sports" tvg-name="CL | TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/245px-TNT_Sports_2021_logo.svg.png" group-title="TVporcable", 213 | TNT Sports
@@ -1557,923 +1558,143 @@ https://nbculocallive.akamaized.net/hls/live/2035366/philadelphia/stream2/master
 https://nbculocallive.akamaized.net/hls/live/2037099/washingtondc/stream1/master.m3u8
 
 
-
-
-*********************************************  https://github.com/verichi1/tv/blob/674c53a04603151a4b98048ea6d52e98b1e27f39/USA%20(7).m3u ***************************************
-
-#EXTINF:-1 group-title=" |US| VERICHI", ABC HD
-http://s16tv.co:80/live/121212/121212/71185.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", ABC NEWS
-http://s16tv.co:80/live/121212/121212/71186.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", ABC NEWS LIVE
-http://s16tv.co:80/live/121212/121212/71187.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", AL JAZEERA 
-http://s16tv.co:80/live/121212/121212/71188.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", BBC WORLD NEWS 
-http://s16tv.co:80/live/121212/121212/71189.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", BLOOMBERG 
-http://s16tv.co:80/live/121212/121212/71190.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", BLOOMBERG POLITICS LIVE EVENT 
-http://s16tv.co:80/live/121212/121212/71191.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", CBS HD
-http://s16tv.co:80/live/121212/121212/71192.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", CBS NEWS
-http://s16tv.co:80/live/121212/121212/71193.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", CNBC HD
-http://s16tv.co:80/live/121212/121212/71194.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", CNBC WORLD HD
-http://s16tv.co:80/live/121212/121212/71195.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", CNN HD
-http://s16tv.co:80/live/121212/121212/71196.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", CNN INTERNATIONAL 
-http://s16tv.co:80/live/121212/121212/71197.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", C-PAN HD
-http://s16tv.co:80/live/121212/121212/71198.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", C-PAN 2 HD
-http://s16tv.co:80/live/121212/121212/71199.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", CHEDDAR NEWS 
-http://s16tv.co:80/live/121212/121212/71200.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", CHEDDAR BUSINESS 
-http://s16tv.co:80/live/121212/121212/71201.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FOX BUSINESS HD
-http://s16tv.co:80/live/121212/121212/71202.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FOX NEWS HD
-http://s16tv.co:80/live/121212/121212/71203.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FUSION HD
-http://s16tv.co:80/live/121212/121212/71204.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", HLN 
-http://s16tv.co:80/live/121212/121212/71205.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MSNBC
-http://s16tv.co:80/live/121212/121212/71206.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NEWSY 
-http://s16tv.co:80/live/121212/121212/71207.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", ONE AMERICA NEWS NETWORK 
-http://s16tv.co:80/live/121212/121212/71208.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", RT AMERICA
-http://s16tv.co:80/live/121212/121212/71209.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", THE WEATHER CHANNEL 
-http://s16tv.co:80/live/121212/121212/71210.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", WEATHER NATION 
-http://s16tv.co:80/live/121212/121212/71211.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", ADULT SWIM
-http://s16tv.co:80/live/121212/121212/71212.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", AMERICAN HEROES HD
-http://s16tv.co:80/live/121212/121212/71213.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", AXS TV 
-http://s16tv.co:80/live/121212/121212/71214.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", BBC AMERICA HD
-http://s16tv.co:80/live/121212/121212/71215.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", BET HD
-http://s16tv.co:80/live/121212/121212/71216.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", BRAVO HD
-http://s16tv.co:80/live/121212/121212/71217.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", CMT 
-http://s16tv.co:80/live/121212/121212/71218.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", COMEDY CENTRAL 
-http://s16tv.co:80/live/121212/121212/71219.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", COZI TV HD
-http://s16tv.co:80/live/121212/121212/71220.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", CRIME & INVESTIGATION 
-http://s16tv.co:80/live/121212/121212/71221.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", E! HD
-http://s16tv.co:80/live/121212/121212/71222.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FOX HD
-http://s16tv.co:80/live/121212/121212/71223.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FREEFORM HD
-http://s16tv.co:80/live/121212/121212/71224.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FUSE 
-http://s16tv.co:80/live/121212/121212/71225.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FX HD
-http://s16tv.co:80/live/121212/121212/71226.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FXX HD
-http://s16tv.co:80/live/121212/121212/71227.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", GAME SHOW NETWORK 
-http://s16tv.co:80/live/121212/121212/71228.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", ION TV 
-http://s16tv.co:80/live/121212/121212/71229.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MTV 
-http://s16tv.co:80/live/121212/121212/71230.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MTV 2 
-http://s16tv.co:80/live/121212/121212/71231.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MTV TRES
-http://s16tv.co:80/live/121212/121212/71232.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", PARAMOUNT NETWORK 
-http://s16tv.co:80/live/121212/121212/71233.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", PEOPLE TV 
-http://s16tv.co:80/live/121212/121212/71234.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", REELZ 
-http://s16tv.co:80/live/121212/121212/71235.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", SUNDANCE TV HD
-http://s16tv.co:80/live/121212/121212/71236.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", SYFY HD
-http://s16tv.co:80/live/121212/121212/71237.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TBS HD
-http://s16tv.co:80/live/121212/121212/71238.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TNT HD
-http://s16tv.co:80/live/121212/121212/71239.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TRU TV HD
-http://s16tv.co:80/live/121212/121212/71240.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TV LAND 
-http://s16tv.co:80/live/121212/121212/71241.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TV ONE 
-http://s16tv.co:80/live/121212/121212/71242.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", USA NETWORK HD
-http://s16tv.co:80/live/121212/121212/71243.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", VH1 
-http://s16tv.co:80/live/121212/121212/71244.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", WGN AMERICA
-http://s16tv.co:80/live/121212/121212/71245.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", SHOWTIME HD
-http://s16tv.co:80/live/121212/121212/71246.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", SHOWTIME BEYOND HD
-http://s16tv.co:80/live/121212/121212/71247.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", SHOWTIME EXTREME HD
-http://s16tv.co:80/live/121212/121212/71248.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", SHOWTIME FAMILY ZONE HD
-http://s16tv.co:80/live/121212/121212/71249.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", SHOWTIME NEXT HD
-http://s16tv.co:80/live/121212/121212/71250.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", SHOWTIME SHOWCASE HD
-http://s16tv.co:80/live/121212/121212/71251.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", SHOWTIME WOMEN
-http://s16tv.co:80/live/121212/121212/71252.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", STARZ EAST
-http://s16tv.co:80/live/121212/121212/71253.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", STARZ CINEMA 
-http://s16tv.co:80/live/121212/121212/71254.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", STARZ COMEDY 
-http://s16tv.co:80/live/121212/121212/71255.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", STARZ KIDS & FAMILY 
-http://s16tv.co:80/live/121212/121212/71256.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", STARZ EDGE
-http://s16tv.co:80/live/121212/121212/71257.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", STARZ ENCORE EAST
-http://s16tv.co:80/live/121212/121212/71258.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", STARZ ENCORE WEST
-http://s16tv.co:80/live/121212/121212/71259.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", STARZ ENCORE ACTION 
-http://s16tv.co:80/live/121212/121212/71260.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", STARZ ENCORE BLACK 
-http://s16tv.co:80/live/121212/121212/71261.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", STARZ ENCORE CLASSIC 
-http://s16tv.co:80/live/121212/121212/71262.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", STARZ ENCORE FAMILY 
-http://s16tv.co:80/live/121212/121212/71263.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", STARZ ENCORE SUSPENSE 
-http://s16tv.co:80/live/121212/121212/71264.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", STARZ ENCORE WESTERNS
-http://s16tv.co:80/live/121212/121212/71265.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", ZEE MUNDO
-http://s16tv.co:80/live/121212/121212/71266.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", AMC HD
-http://s16tv.co:80/live/121212/121212/71267.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", CINELATINO 
-http://s16tv.co:80/live/121212/121212/71268.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", CINEMAX EAST HD
-http://s16tv.co:80/live/121212/121212/71269.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", CINEMAX WEST HD
-http://s16tv.co:80/live/121212/121212/71270.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", CINEMAX 5STARMAX HD
-http://s16tv.co:80/live/121212/121212/71271.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", CINEMAX ACTIONMAX HD
-http://s16tv.co:80/live/121212/121212/71272.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", CINEMAX MOREMAX HD
-http://s16tv.co:80/live/121212/121212/71273.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", CINEMAX MOVIEMAX HD
-http://s16tv.co:80/live/121212/121212/71274.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", CINEMAX OUTERMAX
-http://s16tv.co:80/live/121212/121212/71275.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", EPIX 
-http://s16tv.co:80/live/121212/121212/71276.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", EPIX 2 
-http://s16tv.co:80/live/121212/121212/71277.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", EPIX HITS HD
-http://s16tv.co:80/live/121212/121212/71278.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", HBO HD
-http://s16tv.co:80/live/121212/121212/71279.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", HBO 2 HD
-http://s16tv.co:80/live/121212/121212/71280.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", HBO COMEDY 
-http://s16tv.co:80/live/121212/121212/71281.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", HBO FAMILY
-http://s16tv.co:80/live/121212/121212/71282.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", HBO SIGNATURE
-http://s16tv.co:80/live/121212/121212/71283.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", HBO ZONE 
-http://s16tv.co:80/live/121212/121212/71284.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", IFC 
-http://s16tv.co:80/live/121212/121212/71285.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", INDIE PLEX 
-http://s16tv.co:80/live/121212/121212/71286.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", LIFETIME MOVIES HD
-http://s16tv.co:80/live/121212/121212/71287.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", PASIONES 
-http://s16tv.co:80/live/121212/121212/71288.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", AWE 
-http://s16tv.co:80/live/121212/121212/71289.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", CLEO TV 
-http://s16tv.co:80/live/121212/121212/71290.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FYI 
-http://s16tv.co:80/live/121212/121212/71291.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", LAW AND CRIME 
-http://s16tv.co:80/live/121212/121212/71292.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", LIFETIME HD
-http://s16tv.co:80/live/121212/121212/71293.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", POP
-http://s16tv.co:80/live/121212/121212/71294.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", QVC
-http://s16tv.co:80/live/121212/121212/71295.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", SMITHSONIAN 
-http://s16tv.co:80/live/121212/121212/71296.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TASTEMADE 
-http://s16tv.co:80/live/121212/121212/71297.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TLC
-http://s16tv.co:80/live/121212/121212/71298.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", WE TV HD
-http://s16tv.co:80/live/121212/121212/71299.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", COOKING CHANNEL HD
-http://s16tv.co:80/live/121212/121212/71300.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", DESTINATION AMERICA
-http://s16tv.co:80/live/121212/121212/71301.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", DISCOVERY CHANNEL HD
-http://s16tv.co:80/live/121212/121212/71302.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", DISCOVERY FAMILY HD
-http://s16tv.co:80/live/121212/121212/71303.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", DISCOVERY LIFE 
-http://s16tv.co:80/live/121212/121212/71304.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", DISCOVERY VELOCITY 
-http://s16tv.co:80/live/121212/121212/71305.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", DIY NETWORK HD
-http://s16tv.co:80/live/121212/121212/71306.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FOOD NETWORK HD
-http://s16tv.co:80/live/121212/121212/71307.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", HGTV 
-http://s16tv.co:80/live/121212/121212/71308.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NAT GEO HD
-http://s16tv.co:80/live/121212/121212/71309.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", OUTDOOR CHANNEL 
-http://s16tv.co:80/live/121212/121212/71310.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", OXYGEN 
-http://s16tv.co:80/live/121212/121212/71311.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", PURSUIT CHANNEL 
-http://s16tv.co:80/live/121212/121212/71312.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TRAVEL CHANNEL HD
-http://s16tv.co:80/live/121212/121212/71313.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", VICELAND 
-http://s16tv.co:80/live/121212/121212/71314.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", WORLD FISHING NETWORK 
-http://s16tv.co:80/live/121212/121212/71315.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", BABY TV HD
-http://s16tv.co:80/live/121212/121212/71316.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", BOOMERANG HD
-http://s16tv.co:80/live/121212/121212/71317.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", CARTOON NETWORK HD
-http://s16tv.co:80/live/121212/121212/71318.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", DISNEY CHANNEL HD
-http://s16tv.co:80/live/121212/121212/71319.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", DISNEY JUNIOR HD
-http://s16tv.co:80/live/121212/121212/71320.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", DISNEY XD HD
-http://s16tv.co:80/live/121212/121212/71321.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", HALLMARK CHANNEL HD
-http://s16tv.co:80/live/121212/121212/71322.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", HALLMARK DRAMA HD
-http://s16tv.co:80/live/121212/121212/71323.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", HALLMARK MOVIES&MYSTERIES HD
-http://s16tv.co:80/live/121212/121212/71324.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", INSP 
-http://s16tv.co:80/live/121212/121212/71325.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NICK JR 
-http://s16tv.co:80/live/121212/121212/71326.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NICK MUSIC 
-http://s16tv.co:80/live/121212/121212/71327.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NICKTOONS 
-http://s16tv.co:80/live/121212/121212/71328.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NICKELODEON 
-http://s16tv.co:80/live/121212/121212/71329.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", PBS 
-http://s16tv.co:80/live/121212/121212/71330.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TEENNICK 
-http://s16tv.co:80/live/121212/121212/71331.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", UNIVERSAL KIDS HD
-http://s16tv.co:80/live/121212/121212/71332.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", CINE SONY 
-http://s16tv.co:80/live/121212/121212/71333.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FX MOVIE HD
-http://s16tv.co:80/live/121212/121212/71334.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", HDNET MOVIES 
-http://s16tv.co:80/live/121212/121212/71335.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", SONY MOVIE
-http://s16tv.co:80/live/121212/121212/71336.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", START TV 
-http://s16tv.co:80/live/121212/121212/71337.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TCM HD
-http://s16tv.co:80/live/121212/121212/71338.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", BET GOSPEL
-http://s16tv.co:80/live/121212/121212/71339.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", BET HER HD
-http://s16tv.co:80/live/121212/121212/71340.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", BET SOUL HD
-http://s16tv.co:80/live/121212/121212/71341.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", REVOLT 
-http://s16tv.co:80/live/121212/121212/71342.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MTV LIVE 
-http://s16tv.co:80/live/121212/121212/71343.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MUSIC CHOICE 90S
-http://s16tv.co:80/live/121212/121212/71344.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MUSIC CHOICE ALTERNATIVE
-http://s16tv.co:80/live/121212/121212/71345.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MUSIC CHOICE DANCE
-http://s16tv.co:80/live/121212/121212/71346.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MUSIC CHOICE HIP HOP R&B
-http://s16tv.co:80/live/121212/121212/71347.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MUSIC CHOICE HIT LIST
-http://s16tv.co:80/live/121212/121212/71348.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MUSIC CHOICE HOLIDAYS
-http://s16tv.co:80/live/121212/121212/71349.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MUSIC CHOICE KIDZ ONLY
-http://s16tv.co:80/live/121212/121212/71350.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MUSIC CHOICE METAL
-http://s16tv.co:80/live/121212/121212/71351.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MUSIC CHOICE MEXICANA
-http://s16tv.co:80/live/121212/121212/71352.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MUSIC CHOICE POP & COUNTRY
-http://s16tv.co:80/live/121212/121212/71353.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MUSIC CHOICE POP HITS
-http://s16tv.co:80/live/121212/121212/71354.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MUSIC CHOICE POP LATINO
-http://s16tv.co:80/live/121212/121212/71355.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MUSIC CHOICE R&B SOUL
-http://s16tv.co:80/live/121212/121212/71356.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MUSIC CHOICE RAP
-http://s16tv.co:80/live/121212/121212/71357.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MUSIC CHOICE ROCK
-http://s16tv.co:80/live/121212/121212/71358.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MUSIC CHOICE TEEN BEATS
-http://s16tv.co:80/live/121212/121212/71359.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MUSIC CHOICE TODDLER TUNES
-http://s16tv.co:80/live/121212/121212/71360.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MUSIC CHOICE TROPICALES
-http://s16tv.co:80/live/121212/121212/71361.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MUSIC CHOICE TROWBACK JAMZ
-http://s16tv.co:80/live/121212/121212/71362.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MUSIC CHOICE Y2K
-http://s16tv.co:80/live/121212/121212/71363.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TELEMUNDO LUBBOCK
-http://s16tv.co:80/live/121212/121212/71364.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TELEMUNDO NEBRASKA
-http://s16tv.co:80/live/121212/121212/71365.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TELEMUNDO PHOENIX
-http://s16tv.co:80/live/121212/121212/71366.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TELEMUNDO TULSA
-http://s16tv.co:80/live/121212/121212/71367.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TELEMUNDO 2 
-http://s16tv.co:80/live/121212/121212/71368.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TELEMUNDO 3 
-http://s16tv.co:80/live/121212/121212/71369.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TELEMUNDO 8
-http://s16tv.co:80/live/121212/121212/71370.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TELEMUNDO 10 
-http://s16tv.co:80/live/121212/121212/71371.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TELEMUNDO 11
-http://s16tv.co:80/live/121212/121212/71372.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TELEMUNDO 14 
-http://s16tv.co:80/live/121212/121212/71373.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TELEMUNDO 15
-http://s16tv.co:80/live/121212/121212/71374.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TELEMUNDO 19
-http://s16tv.co:80/live/121212/121212/71375.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TELEMUNDO 20
-http://s16tv.co:80/live/121212/121212/71376.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TELEMUNDO 22 
-http://s16tv.co:80/live/121212/121212/71377.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TELEMUNDO 23
-http://s16tv.co:80/live/121212/121212/71378.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TELEMUNDO 24
-http://s16tv.co:80/live/121212/121212/71379.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TELEMUNDO 25
-http://s16tv.co:80/live/121212/121212/71380.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TELEMUNDO 27
-http://s16tv.co:80/live/121212/121212/71381.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TELEMUNDO 29
-http://s16tv.co:80/live/121212/121212/71382.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TELEMUNDO 30 
-http://s16tv.co:80/live/121212/121212/71383.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TELEMUNDO 31
-http://s16tv.co:80/live/121212/121212/71384.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TELEMUNDO 33 
-http://s16tv.co:80/live/121212/121212/71385.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TELEMUNDO 36
-http://s16tv.co:80/live/121212/121212/71386.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TELEMUNDO 39 
-http://s16tv.co:80/live/121212/121212/71387.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TELEMUNDO 40
-http://s16tv.co:80/live/121212/121212/71388.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TELEMUNDO 42
-http://s16tv.co:80/live/121212/121212/71389.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TELEMUNDO 47 
-http://s16tv.co:80/live/121212/121212/71390.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TELEMUNDO 50
-http://s16tv.co:80/live/121212/121212/71391.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TELEMUNDO 51
-http://s16tv.co:80/live/121212/121212/71392.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", BECK SPORTS
-http://s16tv.co:80/live/121212/121212/71393.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", BEIN SPORTS HD
-http://s16tv.co:80/live/121212/121212/71394.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", BEIN SPORTS Ñ 
-http://s16tv.co:80/live/121212/121212/71395.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", BEIN LALIGA
-http://s16tv.co:80/live/121212/121212/71396.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", CBS SPORTS NETWORK HD
-http://s16tv.co:80/live/121212/121212/71397.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", ELEVEN SPORTS HD
-http://s16tv.co:80/live/121212/121212/71398.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", ESPN HD
-http://s16tv.co:80/live/121212/121212/71399.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", ESPN 2 HD
-http://s16tv.co:80/live/121212/121212/71400.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", ESPN 3 HD
-http://s16tv.co:80/live/121212/121212/71401.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", ESPN NEWS HD
-http://s16tv.co:80/live/121212/121212/71402.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", ESPN U HD
-http://s16tv.co:80/live/121212/121212/71403.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", ESPN DEPORTES HD
-http://s16tv.co:80/live/121212/121212/71404.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", ESPN GOAL LINE HD
-http://s16tv.co:80/live/121212/121212/71405.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", ESPN LONGHORN NETWORK 
-http://s16tv.co:80/live/121212/121212/71406.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", ESPN SEC NETWORK 
-http://s16tv.co:80/live/121212/121212/71407.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FOX SPORTS 1 HD
-http://s16tv.co:80/live/121212/121212/71408.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FOX SPORTS 2 HD
-http://s16tv.co:80/live/121212/121212/71409.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FOX SOCCER PLUS
-http://s16tv.co:80/live/121212/121212/71410.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FOX DEPORTES HD
-http://s16tv.co:80/live/121212/121212/71411.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FOX COLLEGE SPORTS ATLANTIC
-http://s16tv.co:80/live/121212/121212/71412.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FOX COLLEGE SPORTS CENTRAL 
-http://s16tv.co:80/live/121212/121212/71413.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FOX COLLEGE SPORTS PACIFIC
-http://s16tv.co:80/live/121212/121212/71414.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FIGHT NETWORK 
-http://s16tv.co:80/live/121212/121212/71415.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", GINX ESPORTS TV HD
-http://s16tv.co:80/live/121212/121212/71416.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", GOLF CHANNEL 
-http://s16tv.co:80/live/121212/121212/71417.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MAV TV
-http://s16tv.co:80/live/121212/121212/71418.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MLB NETWORK HD
-http://s16tv.co:80/live/121212/121212/71419.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MLB STRIKE ZONE HD
-http://s16tv.co:80/live/121212/121212/71420.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MOTORTREND 
-http://s16tv.co:80/live/121212/121212/71421.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MSG+
-http://s16tv.co:80/live/121212/121212/71422.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MSG 2 
-http://s16tv.co:80/live/121212/121212/71423.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MSG 2+
-http://s16tv.co:80/live/121212/121212/71424.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NBA TV HD
-http://s16tv.co:80/live/121212/121212/71425.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NBCSN HD
-http://s16tv.co:80/live/121212/121212/71426.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NBC GOLF HD
-http://s16tv.co:80/live/121212/121212/71427.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NESN BOSTON
-http://s16tv.co:80/live/121212/121212/71428.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NESN PLUS
-http://s16tv.co:80/live/121212/121212/71429.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NFL NETWORK HD
-http://s16tv.co:80/live/121212/121212/71430.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NHL NETWORK HD
-http://s16tv.co:80/live/121212/121212/71431.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", OLYMPIC CHANNEL 
-http://s16tv.co:80/live/121212/121212/71432.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", OUTSIDE TV 
-http://s16tv.co:80/live/121212/121212/71433.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", RED BULL TV 
-http://s16tv.co:80/live/121212/121212/71434.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", SPORTSMAN CHANNEL 
-http://s16tv.co:80/live/121212/121212/71435.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", SPORTSNET NEW YORK
-http://s16tv.co:80/live/121212/121212/71436.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", SPORTSNET SOUTHWEST
-http://s16tv.co:80/live/121212/121212/71437.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TENNIS CHANNEL
-http://s16tv.co:80/live/121212/121212/71438.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TUDN 
-http://s16tv.co:80/live/121212/121212/71439.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TUDN XTRA
-http://s16tv.co:80/live/121212/121212/71440.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TVG
-http://s16tv.co:80/live/121212/121212/71441.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TVG2 
-http://s16tv.co:80/live/121212/121212/71442.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TYC SPORTS 
-http://s16tv.co:80/live/121212/121212/71443.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", UFC FIGHT PASS HD
-http://s16tv.co:80/live/121212/121212/71444.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", VSIN 
-http://s16tv.co:80/live/121212/121212/71445.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", WILLOW CRICKET 
-http://s16tv.co:80/live/121212/121212/71446.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", WWE CHANNEL HD
-http://s16tv.co:80/live/121212/121212/71447.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", CENTROAMERICA TV 
-http://s16tv.co:80/live/121212/121212/71448.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", DP CLASICO 
-http://s16tv.co:80/live/121212/121212/71449.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", DP DE PELICULA 
-http://s16tv.co:80/live/121212/121212/71450.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", ESTRELLA TV 
-http://s16tv.co:80/live/121212/121212/71451.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", UNIM 
-http://s16tv.co:80/live/121212/121212/71452.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", UNIMAS
-http://s16tv.co:80/live/121212/121212/71453.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", UNIVERSO
-http://s16tv.co:80/live/121212/121212/71454.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", UNIVISION 
-http://s16tv.co:80/live/121212/121212/71455.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", UNIVISION DEPORTES 
-http://s16tv.co:80/live/121212/121212/71456.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", ACC NETWORK
-http://s16tv.co:80/live/121212/121212/71457.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", AT&T SPORTSNET 
-http://s16tv.co:80/live/121212/121212/71458.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", AT&T SPORTSNET SOUTHWEST
-http://s16tv.co:80/live/121212/121212/71459.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", BIG TEN NETWORK 
-http://s16tv.co:80/live/121212/121212/71460.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", BIG TEN NETWORK 2 
-http://s16tv.co:80/live/121212/121212/71461.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", BIG TEN NETWORK 3
-http://s16tv.co:80/live/121212/121212/71462.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", BIG TEN NETWORK 4
-http://s16tv.co:80/live/121212/121212/71463.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FOX SPORTS ARIZONA
-http://s16tv.co:80/live/121212/121212/71464.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FOX SPORTS CAROLINAS
-http://s16tv.co:80/live/121212/121212/71465.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FOX SPORTS DETROIT
-http://s16tv.co:80/live/121212/121212/71466.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FOX SPORTS FLORIDA
-http://s16tv.co:80/live/121212/121212/71467.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FOX SPORTS GEORGIA 
-http://s16tv.co:80/live/121212/121212/71468.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FOX SPORTS HOUSTON 
-http://s16tv.co:80/live/121212/121212/71469.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FOX SPORTS MIDWEST
-http://s16tv.co:80/live/121212/121212/71470.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FOX SPORTS NETBASE 
-http://s16tv.co:80/live/121212/121212/71471.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FOX SPORTS NEW ORLEANS
-http://s16tv.co:80/live/121212/121212/71472.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FOX SPORTS NORTH
-http://s16tv.co:80/live/121212/121212/71473.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FOX SPORTS NORTH CAROLINA 
-http://s16tv.co:80/live/121212/121212/71474.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FOX SPORTS NORTH PLUS 
-http://s16tv.co:80/live/121212/121212/71475.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FOX SPORTS OHIO
-http://s16tv.co:80/live/121212/121212/71476.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FOX SPORTS OKLAHOMA
-http://s16tv.co:80/live/121212/121212/71477.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FOX SPORTS PRIME TICKET
-http://s16tv.co:80/live/121212/121212/71478.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FOX SPORTS SAN DIEGO
-http://s16tv.co:80/live/121212/121212/71479.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FOX SPORTS SOUTH
-http://s16tv.co:80/live/121212/121212/71480.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FOX SPORTS SOUTHEAST
-http://s16tv.co:80/live/121212/121212/71481.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FOX SPORTS SOUTHWEST
-http://s16tv.co:80/live/121212/121212/71482.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FOX SPORTS SOUTHWEST PLUS 
-http://s16tv.co:80/live/121212/121212/71483.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FOX SPORTS SUN
-http://s16tv.co:80/live/121212/121212/71484.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FOX SPORTS TENNESSEE
-http://s16tv.co:80/live/121212/121212/71485.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FOX SPORTS WEST
-http://s16tv.co:80/live/121212/121212/71486.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FOX SPORTS WISCONSIN
-http://s16tv.co:80/live/121212/121212/71487.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", FOX SPORTS YES
-http://s16tv.co:80/live/121212/121212/71488.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NBCS BAY AREA HD
-http://s16tv.co:80/live/121212/121212/71489.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NBCS BOSTON HD
-http://s16tv.co:80/live/121212/121212/71490.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NBCS CALIFORNIA HD
-http://s16tv.co:80/live/121212/121212/71491.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NBCS CHICAGO HD
-http://s16tv.co:80/live/121212/121212/71492.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NBCS NORTHWEST HD
-http://s16tv.co:80/live/121212/121212/71493.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NBCS PHILADELPHIA HD
-http://s16tv.co:80/live/121212/121212/71494.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NBCS WASHINGTON HD
-http://s16tv.co:80/live/121212/121212/71495.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", PAC-12 ARIZONA
-http://s16tv.co:80/live/121212/121212/71496.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", PAC-12 BAY AREA
-http://s16tv.co:80/live/121212/121212/71497.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", PAC-12 LOS ANGELES
-http://s16tv.co:80/live/121212/121212/71498.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", PAC-12 MOUNTAIN
-http://s16tv.co:80/live/121212/121212/71499.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", PAC-12 NETWORK 
-http://s16tv.co:80/live/121212/121212/71500.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", PAC-12 OREGON
-http://s16tv.co:80/live/121212/121212/71501.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", PAC-12 WASHINGTON
-http://s16tv.co:80/live/121212/121212/71502.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", SPECTRUM SPORTNET L.A DODGERS
-http://s16tv.co:80/live/121212/121212/71503.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", SPECTRUM SPORTSNET LAKERS
-http://s16tv.co:80/live/121212/121212/71504.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", STADIUM 1
-http://s16tv.co:80/live/121212/121212/71505.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", STADIUM 2
-http://s16tv.co:80/live/121212/121212/71506.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", STADIUM 3 
-http://s16tv.co:80/live/121212/121212/71507.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", BEIN SPORTS 2
-http://s16tv.co:80/live/121212/121212/71508.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", BEIN SPORTS 4
-http://s16tv.co:80/live/121212/121212/71509.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", BEIN SPORTS 5
-http://s16tv.co:80/live/121212/121212/71510.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", BEIN SPORTS 6
-http://s16tv.co:80/live/121212/121212/71511.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", BEIN SPORTS 7
-http://s16tv.co:80/live/121212/121212/71512.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", BEIN SPORTS 8
-http://s16tv.co:80/live/121212/121212/71513.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", ESPN COLLEGE EXTRA 1 HD (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71514.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", ESPN COLLEGE EXTRA 2 HD (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71515.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", ESPN COLLEGE EXTRA 3 HD (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71516.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", ESPN COLLEGE EXTRA 4 HD (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71517.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", ESPN COLLEGE EXTRA 5 HD (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71518.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", ESPN COLLEGE EXTRA 6 HD (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71519.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", ESPN COLLEGE EXTRA 7 HD (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71520.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", ESPN COLLEGE EXTRA 8 HD (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71521.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NBA LEAGUE PASS 1 HD (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71522.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NBA LEAGUE PASS 2 HD (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71523.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NBA LEAGUE PASS 3 HD (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71524.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NBA LEAGUE PASS 4 HD (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71525.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NBA LEAGUE PASS 5 HD (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71526.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NBA LEAGUE PASS 6 HD (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71527.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NBA LEAGUE PASS 7 HD (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71528.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NBA LEAGUE PASS 8 HD (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71529.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NBA LEAGUE PASS 9 HD (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71530.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NBA LEAGUE PASS 10 HD (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71531.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NBA LEAGUE PASS 11 HD (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71532.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NBA LEAGUE PASS 12 HD (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71533.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NBA LEAGUE PASS 13 HD (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71534.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NBA LEAGUE PASS 14 HD (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71535.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NFL GAME PASS 1 (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71536.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NFL GAME PASS 2 (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71537.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NFL GAME PASS 3 (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71538.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NFL GAME PASS 4 (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71539.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NFL GAME PASS 5 (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71540.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NFL GAME PASS 6 (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71541.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NFL GAME PASS 7 (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71542.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NFL GAME PASS 8 (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71543.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NFL GAME PASS 9 (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71544.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NFL GAME PASS 10 (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71545.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NFL GAME PASS 11 (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71546.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NFL GAME PASS 12 (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71547.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NFL GAME PASS 13 (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71548.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NFL GAME PASS 14 (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71549.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NFL GAME PASS 15 (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71550.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NHL GAME PASS 1 (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71551.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NHL GAME PASS 2 (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71552.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NHL GAME PASS 3 (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71553.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NHL GAME PASS 4 (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71554.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NHL GAME PASS 5 (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71555.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NHL GAME PASS 6 (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71556.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NHL GAME PASS 7 (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71557.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NHL GAME PASS 8 (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71558.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NHL GAME PASS 9 (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71559.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NHL GAME PASS 10 (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71560.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NHL GAME PASS 11 (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71561.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NHL GAME PASS 12 (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71562.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NHL GAME PASS 13 (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71563.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NHL GAME PASS 14 (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71564.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", NHL GAME PASS 15 (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71565.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MLB.TV 1 (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71566.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MLB.TV 2 (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71567.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MLB.TV 3 (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71568.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MLB.TV 4 (ONLY EVENT)
-http://s16tv.co:80/live/121212/121212/71569.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TUDN X1 
-http://s16tv.co:80/live/121212/121212/71570.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TUDN X2 
-http://s16tv.co:80/live/121212/121212/71571.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TUDN X3 
-http://s16tv.co:80/live/121212/121212/71572.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TUDN X4 
-http://s16tv.co:80/live/121212/121212/71573.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TUDN X5 
-http://s16tv.co:80/live/121212/121212/71574.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TUDN X6 
-http://s16tv.co:80/live/121212/121212/71575.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TUDN X7 
-http://s16tv.co:80/live/121212/121212/71576.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TUDN X8
-http://s16tv.co:80/live/121212/121212/71577.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TUDN X9 
-http://s16tv.co:80/live/121212/121212/71578.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", TUDN X10
-http://s16tv.co:80/live/121212/121212/71579.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MLS SOCCER 1
-http://s16tv.co:80/live/121212/121212/71580.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MLS SOCCER 2
-http://s16tv.co:80/live/121212/121212/71581.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MLS SOCCER 3
-http://s16tv.co:80/live/121212/121212/71582.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MLS SOCCER 4
-http://s16tv.co:80/live/121212/121212/71583.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MLS SOCCER 5
-http://s16tv.co:80/live/121212/121212/71584.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MLS SOCCER 6
-http://s16tv.co:80/live/121212/121212/71585.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MLS SOCCER 7
-http://s16tv.co:80/live/121212/121212/71586.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MLS SOCCER 8
-http://s16tv.co:80/live/121212/121212/71587.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MLS SOCCER 9
-http://s16tv.co:80/live/121212/121212/71588.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MLS SOCCER 10
-http://s16tv.co:80/live/121212/121212/71589.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", MLS SOCCER 11
-http://s16tv.co:80/live/121212/121212/71590.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", UFC PASS 1
-http://s16tv.co:80/live/121212/121212/71591.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", UFC PASS 2
-http://s16tv.co:80/live/121212/121212/71592.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", UFC PASS 3
-http://s16tv.co:80/live/121212/121212/71593.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", UFC PASS 4
-http://s16tv.co:80/live/121212/121212/71594.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", UFC PASS 5
-http://s16tv.co:80/live/121212/121212/71595.m3u8
-#EXTINF:-1 group-title=" |US| VERICHI", UFC PASS 6
-http://s16tv.co:80/live/121212/121212/71596.m3u8
-
-
-
 ***************************  https://github.com/Taher838/IPTV/blob/fb7ae31b9258406ec6b481fcd8ce80eddd41dc0b/TV2022 **********************************
 
-
 #EXTINF:-1 group-title="Taher838",USA Network (ttv)
 http://ttv.bz:80/live/Kenwyn/TJGm5d9YlP/1.ts
-
 #EXTINF:-1 group-title="Taher838",USA Network (MAINS)
 http://mains.vip:2086/live/Jhbxcgoisnm/56756756765722222/242.ts
-
 #EXTINF:-1 group-title="Taher838",Universo Sports
 http://destiny4k.com:2086/live/YttdBgP0g7/Zek4HZvbSDecog5JKE2U/2684.ts
-
 #EXTINF:-1 group-title="Taher838",USA Network (ttv)
 http://ttv.bz:80/live/Kenwyn/TJGm5d9YlP/1.ts
-
 #EXTINF:-1 group-title="Taher838",Universo (ttv)
 http://ttv.bz:80/live/Kenwyn/TJGm5d9YlP/88.ts
-
 #EXTINF:-1 group-title="Taher838",eleven 2
 http://185.191.124.105:25461/live/Jackweed/KfjtxuMnwP/15959.ts
-
 #EXTINF:-1 group-title="Taher838",True Premier Football 1 (tvt)
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115758&extension=ts&play_token=ZleOAq2r3y
-
 #EXTINF:-1 group-title="Taher838",True Premier Football 2 (tvt)
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115762&extension=ts&play_token=f15SJHghJH
-
 #EXTINF:-1 group-title="Taher838",bt 1 (obs)
 http://obsfullhd.tv:25461/live/OBSKYSHARE/2222DnsYWsFxHksB/2107.ts
-
 #EXTINF:-1 group-title="Taher838",Premier Football 1
 https://tr.cett.my.id/02_PremierHD1_720p/chunklist.m3u8
-
 #EXTINF:-1 group-title="Taher838",Premier Football 2
 https://tr.cett.my.id/02_PremierHD2_720p/chunklist.m3u8
-
 #EXTINF:-1 group-title="Taher838",Premier Football 3
 https://tr.cett.my.id/02_PremierHD3_720p/chunklist.m3u8
-
 #EXTINF:-1 group-title="Taher838",Premier Football 4
 https://tr.cett.my.id/02_PremierHD4_720p/chunklist.m3u8
-
 #EXTINF:-1 group-title="Taher838",Premier Football 5
 https://tr.cett.my.id/02_PremierHD5_720p/chunklist.m3u8
-
 #EXTINF:-1 group-title="Taher838",TrueSports 1
 https://tr.cett.my.id/02_2sporthd1_720p/chunklist.m3u8
-
 #EXTINF:-1 group-title="Taher838",TrueSports 2
 https://tr.cett.my.id/02_2sporthd2_720p/chunklist.m3u8
-
 #EXTINF:-1 group-title="Taher838",TrueSports 3
 https://tr.cett.my.id/02_2sporthd3_720p/chunklist.m3u8
-
 #EXTINF:-1 group-title="Taher838",TrueSports 4
 https://tr.cett.my.id/02_2sporthd4_720p/chunklist.m3u8
-
 #EXTINF:-1 group-title="Taher838",TrueSports 5
 https://tr.cett.my.id/02_sport5_480p/chunklist.m3u8
-
 #EXTINF:-1 group-title="Taher838",truesports 6
 https://tr.cett.my.id/02_sport6_480p/chunklist.m3u8
-
 #EXTINF:-1 group-title="Taher838",Truesports 7
 https://tr.cett.my.id/02_sport7_480p/chunklist.m3u8
-
 #EXTINF:-1 group-title="Taher838",TH:beIN Sports 3 TH
 https://tr.cett.my.id/02_epl2_720p/chunklist.m3u8
-
 #EXTINF:-1 group-title="Taher838",beIN Sports 1 TH
 https://tr.cett.my.id/02_epl1_720p/chunklist.m3u8
-
 #EXTINF:-1 group-title="Taher838",Golf Channel
 https://tr.cett.my.id/02_golfhd_720p/chunklist.m3u8
-
 #EXTINF:-1 group-title="Taher838",NBA TV
 https://tr.cett.my.id/02_nbahd_720p/chunklist.m3u8
-
 #EXTINF:-1 group-title="Taher838",SPOTV TH
 https://tr.cett.my.id/02_foxsport_720p/chunklist.m3u8
-
 #EXTINF:-1 group-title="Taher838",SPOTV 2 TH
 https://tr.cett.my.id/02_FoxSport2_TH_720p/chunklist.m3u8
-
 #EXTINF:-1 group-title="Taher838",True Tennis
 https://tr.cett.my.id/02_TennisHD_720p/chunklist.m3u8
+
+
+
+#EXTINF:-1 group-title="Taher838_KUCHINI",UTV Action
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/272573
+#EXTINF:-1 group-title="Taher838_KUCHINI",UTV Movies
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/284584
+#EXTINF:-1 group-title="Taher838_KUCHINI",Star KUCHINI 1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/3630
+#EXTINF:-1 group-title="Taher838_KUCHINI",Star KUCHINI 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/3631
+#EXTINF:-1 group-title="Taher838_KUCHINI",Star KUCHINI 3
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/62584
+#EXTINF:-1 group-title="Taher838_KUCHINI",Star KUCHINI Select 1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/82628
+#EXTINF:-1 group-title="Taher838_KUCHINI",Star KUCHINI Select 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/16619
+#EXTINF:-1 group-title="Taher838_KUCHINI",Sony Ten 1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/16622
+#EXTINF:-1 group-title="Taher838_KUCHINI",Sony Ten 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/16621
+#EXTINF:-1 group-title="Taher838_KUCHINI",Sony Ten 3
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/56191
+#EXTINF:-1 group-title="Taher838_KUCHINI",beIN KUCHINI English 1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/110
+#EXTINF:-1 group-title="Taher838_KUCHINI",beIN KUCHINI English 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/111
+#EXTINF:-1 group-title="Taher838_KUCHINI",beIN KUCHINI English 3
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/267769
+#EXTINF:-1 group-title="Taher838_KUCHINI",Match
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/75641
+#EXTINF:-1 group-title="Taher838_KUCHINI",Match Arena
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/55801
+#EXTINF:-1 group-title="Taher838_KUCHINI",Match Futbol 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/55800
+#EXTINF:-1 group-title="Taher838_KUCHINI",Match Futbol 3
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/55802
+#EXTINF:-1 group-title="Taher838_KUCHINI",Match Premier
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/60499
+#EXTINF:-1 group-title="Taher838_KUCHINI",Match Strana
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/148347
+#EXTINF:-1 group-title="Taher838_KUCHINI",Match! Futbol 1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/12812
+#EXTINF:-1 group-title="Taher838_KUCHINI",HBO
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/197972
+#EXTINF:-1 group-title="Taher838_KUCHINI",HBO Hits
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/196480
+#EXTINF:-1 group-title="Taher838_KUCHINI",STAR Movies
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/11511
+#EXTINF:-1 group-title="Taher838_KUCHINI",beIN Box Office 1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/225322
+#EXTINF:-1 group-title="Taher838_KUCHINI",beIN Drama 1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2835
+#EXTINF:-1 group-title="Taher838_KUCHINI",beIN Movies Action 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1270
+#EXTINF:-1 group-title="Taher838_KUCHINI",beIN Movies Premiere 1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/267063
+#EXTINF:-1 group-title="Taher838_KUCHINI",Sony Pix
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/49539
+#EXTINF:-1 group-title="Taher838_KUCHINI",AVA Family
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/5491
+#EXTINF:-1 group-title="Taher838_KUCHINI",MBC 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1247
+#EXTINF:-1 group-title="Taher838_KUCHINI",MBC Action
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1244
+#EXTINF:-1 group-title="Taher838_KUCHINI",MBC Max
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1240
+#EXTINF:-1 group-title="Taher838_KUCHINI",Sky Flix Box Office 1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/283263
+#EXTINF:-1 group-title="Taher838_KUCHINI",Sky Flix Box Office 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/283267
+#EXTINF:-1 group-title="Taher838_KUCHINI",Sky Flix Box Office 3
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/283268
+#EXTINF:-1 group-title="Taher838_KUCHINI",Sky Flix Movies
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/283266
+#EXTINF:-1 group-title="Taher838_KUCHINI",Sky Select 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2139
+
+
 
 *********************************************  https://raw.githubusercontent.com/la22lo/sports/main/futbol.m3u ***************************************
 *****************************  https://raw.githubusercontent.com/badshave/xVocoUK3/main/VocoUK3.txt *************************
