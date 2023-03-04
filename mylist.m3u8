@@ -466,18 +466,6 @@ https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/60580
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1 group-title="Bics Extra", TELEMAX DO
 https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
-#EXTINF:-1 group-title="Bics Extra", CANAL 11 HN
-https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
-#EXTINF:-1 group-title="Bics Extra", CANAL 3 GT
-https://dslvfq5ee0geu.cloudfront.net/hls/canal3.m3u8
-#EXTINF:-1 group-title="Bics Extra", CANAL 7 GT
-https://dslvfq5ee0geu.cloudfront.net/hls/canal7.m3u8
-#EXTINF:-1 group-title="Bics Extra", CANAL 23 GT
-https://dslvfq5ee0geu.cloudfront.net/hls/canal23.m3u8
-#EXTINF:-1 group-title="Bics Extra", GUATEVISION GT
-https://prensalibre-live.cdn.vustreams.com/live/cd8f5328-7a1c-49d9-b318-9190858d1826/live.isml/playlist.m3u8
-#EXTINF:-1 group-title="Bics Extra", TELEMAX GT
-https://cdn.streamhispanatv.net:3824/live/telemaxlive.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANAL 12 SV
 https://d3kk75blondskv.cloudfront.net/hls/canal12.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANAL 2 CR
