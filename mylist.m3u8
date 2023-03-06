@@ -1,6 +1,6 @@
 #EXTM3U
 
-************************  28/FEB/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  06/MAR/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 
 **********************************************************************  TOTAL *****************************************************************
@@ -1410,6 +1410,40 @@ http://iptvmedia.live:8080/bubullea83/092df5a7953b/749
 #EXTINF:-1  group-title="CABLE KINGS", NAT GEO WILD
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/6503
 
+
+#EXTINF:-1  group-title="CABLE KINGS", ESPN
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/747
+#EXTINF:-1  group-title="CABLE KINGS", ESPN 2
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/41918
+#EXTINF:-1  group-title="CABLE KINGS", ESPN 3
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/14816
+#EXTINF:-1  group-title="CABLE KINGS", ESPN NEWS
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/2312
+#EXTINF:-1  group-title="CABLE KINGS", EUROSPORT 1
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/692
+#EXTINF:-1  group-title="CABLE KINGS", EUROSPORT 2
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/1555
+#EXTINF:-1  group-title="CABLE KINGS", FS 1
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/756
+#EXTINF:-1  group-title="CABLE KINGS", FS 2
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/757
+#EXTINF:-1  group-title="CABLE KINGS", NBA
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/762
+#EXTINF:-1  group-title="CABLE KINGS", SKY RACING 1
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/201085
+#EXTINF:-1  group-title="CABLE KINGS", SKY RACING 2
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/201086
+#EXTINF:-1  group-title="CABLE KINGS", SKY SPORT ARENA 1
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/267
+#EXTINF:-1  group-title="CABLE KINGS", SKY SPORTS F1
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/265
+#EXTINF:-1  group-title="CABLE KINGS", SKY SPORTS FOOTBALL
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/266
+#EXTINF:-1  group-title="CABLE KINGS", SKY SPORTS MAIN EVENT
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/283053
+#EXTINF:-1  group-title="CABLE KINGS", SKY SPORTS PREMIER LEAGUE
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/263
+
 **********************************   https://raw.githubusercontent.com/bodegaacuenta/Moyobambaastral/main/TVCable  ***********************
 
 #EXTINF:-1 tvg-id="CO | Canal Caracol" tvg-name="CO | Canal Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="TVporcable", 428 | Canal Caracol || COLOMBIA
@@ -1417,7 +1451,7 @@ http://181.119.67.75:8000/play/CH59
 #EXTINF:-1 tvg-id="CO | Noticias Caracol" tvg-name="CO | Noticias Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/150px-Noticias_Caracol_imagotype.svg.png" group-title="TVporcable", 428.2 | Noticias Caracol || COLOMBIA
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NOTICIASCARACOL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNOTICIASCARACOL_stream_93&_cdn_session=614444659&_cdn_timestamp=1677653677&_cdn_token=083289cb3780a5582a57c622e3cd797e1bd5f518
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="TVporcable", 5 | Panamericana Televisión
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=617440659&_cdn_timestamp=1677829203&_cdn_token=3b315cf6c993565bd368cb58af7f37912d8eec4e
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=630841643&_cdn_timestamp=1678542589&_cdn_token=092218815dbd48d3721406267017fc9ef2cd9548
 #EXTINF:-1 tvg-id="CL | Canal 24 Horas" tvg-name="CL | Canal 24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png" group-title="TVporcable", 179 | Canal 24 Horas
 http://45.160.12.253:8000/play/052
 #EXTINF:-1 tvg-id="CL | TNT Sports" tvg-name="CL | TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/245px-TNT_Sports_2021_logo.svg.png" group-title="TVporcable", 213 | TNT Sports
@@ -1452,9 +1486,9 @@ http://45.179.164.9:8000/play/a032/index.m3u8
 http://45.160.12.253:8000/play/108
 
 #EXTINF:-1 tvg-id="USA | Fox Sports 2" tvg-name="USA | Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png" group-title="TVporcable", 204 | Fox Sports 2
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=614446139&_cdn_timestamp=1677653949&_cdn_token=58f194d3ba89eb98343820865de92e2901eed993
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=630844851&_cdn_timestamp=1678542721&_cdn_token=66a098cdf8509d9bafed3a1aa3c2daa21e5190fa
 #EXTINF:-1 tvg-id="USA | Fox Sports 3" tvg-name="USA | Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/180px-Fox_sports_3_logo.svg.png" group-title="TVporcable", 205 | Fox Sports 3
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=614446163&_cdn_timestamp=1677653955&_cdn_token=b76c9623a40b6d13107fa8e5f2620c8793b08944
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=630844931&_cdn_timestamp=1678542726&_cdn_token=172831678c45d6545e6830e0bf606512657267bd
 #EXTINF:-1 tvg-id="USA | ESPN" tvg-name="USA | ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="TVporcable", 206 | ESPN
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=614446491&_cdn_timestamp=1677654034&_cdn_token=d5edb7c85685859addbe1699e4af32adf30bb2d7
 #EXTINF:-1 tvg-id="USA | ESPN 2" tvg-name="USA | ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="TVporcable", 207 | ESPN 2
