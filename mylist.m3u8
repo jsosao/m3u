@@ -478,20 +478,12 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8
 #EXTINF:-1 group-title="Bics Extra", TICAVISION CR
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
-***** #EXTINF:-1 group-title="Bics Extra", TVN CL
-***** https://onx.la/0c2f3.m3u8
-***** #EXTINF:-1 group-title="Bics Extra", TVN CL
-***** https://panel.miplay.cl:8081/tvn/index.m3u8
-
 #EXTINF:-1  group-title="Bics Extra", PANAMERICANA PE
 http://50.7.66.234:8080/moontools/6548@89787/2171
-
 #EXTINF:-1 group-title="Bics Extra", CANAL 13 CL
 https://panel.miplay.cl:8081/c13/index.m3u8
 #EXTINF:-1 group-title="Bics Extra", CHILEVISION  CL
 https://panel.miplay.cl:8081/chilevision/index.m3u8
-#EXTINF:-1 group-title="Bics Extra", TV+  CL
-https://marine2.miplay.cl/tvmas/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", TELE 13 CL
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", TELE 13 ENTRETENCION CL
@@ -500,22 +492,6 @@ https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8
 https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", TELE 13 TELESERIES CL
 https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
-#EXTINF:-1 group-title="Bics Extra", MEGA CL
-https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
-#EXTINF:-1 group-title="Bics Extra", ADN CL
-https://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Bics Extra", BOLIVISION BO
-https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
-#EXTINF:-1 group-title="Bics Extra", TELEVICENTRO EC
-https://d6op0qag07k4o.cloudfront.net/hls/tvc.m3u8
-#EXTINF:-1 group-title="Bics Extra", ATV PE
-https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
-#EXTINF:-1 group-title="Bics Extra", ATV+ NOTICIAS PE
-https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
-#EXTINF:-1 group-title="Bics Extra", ATV SUR PE
-https://atvsur.mediatiquestream.com/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Bics Extra", EL TRECE AR
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 group-title="Bics Extra", CCTV-13 CH
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 #EXTINF:-1 group-title="Bics Extra", NHK WORLD JP
@@ -1583,6 +1559,16 @@ https://nbculocallive.akamaized.net/hls/live/2035366/philadelphia/stream2/master
 #EXTINF:-1 group-title="Telemundo", NBC 4 Washington DC
 https://nbculocallive.akamaized.net/hls/live/2037099/washingtondc/stream1/master.m3u8
 
+#EXTINF:-1 group-title="Telemundo Gray", Telemundo Atlanta GA
+https://dai2-playlistserver.aws.syncbak.com/cpl/20475903/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIyMDQ3NTkwMyIsImNpZCI6MjA5NzQsInNpZCI6MTU4LCJtZDUiOiJiMTgwM2ExYTIxMzA5ZTEwNzNlOGJjMDQyOGU5NDkzOCIsImlhdCI6MTY1Mjg5MjgyMSwiZXhwIjoxNjg0NDI4ODIxLCJpc3MiOiJTeW5jYmFrIChURykifQ.ngWlxw_iUrju6oMpQl73BYHMCl7c6reypSqqP5nLbL8
+#EXTINF:-1 group-title="Telemundo Gray", Telemundo Laredo TX
+https://dai2-playlistserver.aws.syncbak.com/playlist/13355198/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTE2NDc1MDIsImlzcyI6IldMUyIsIm1kNSI6IjQwMWRkMDY2YjUyOGEwZWIxYzcxMzMxNjBhNDgyMGE5IiwibWlkIjoiMTMzNTUxOTgifQ.piLwptYMsquOvh5kVgvpuj2wYSd6SDOblXdfIXGk7PE
+#EXTINF:-1 group-title="Telemundo Gray", Telemundo 20 Odessa TX
+https://dai2-playlistserver.aws.syncbak.com/playlist/19106378/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxOTEwNjM3OCIsImNpZCI6MTgwMjMsInNpZCI6MTU4LCJtZDUiOiIyMmMxY2M4MTVmMmY1YzJmMjZhZDEzYmQ2MTI1NjFhYSIsImlhdCI6MTY0NDM1Njk4MSwiZXhwIjoxNjc1ODkyOTgxLCJpc3MiOiJTeW5jYmFrIChURykifQ.FluzuQn2DLfJeSKreT0h2OHKpoBGNSkmeu7RKb3O2h0
+#EXTINF:-1 group-title="Telemundo Gray", NBC 3 Jackson MS (WLBT)
+https://dai2-playlistserver.aws.syncbak.com/cpl/20965226/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIyMDk2NTIyNiIsImNpZCI6MjE4ODgsInNpZCI6MTU4LCJtZDUiOiJjYTU5Nzc4YjUxZjZkNTZjODFmOWZiZjJjZmQzNDNiMiIsImlhdCI6MTY2MDkyOTM0NywiZXhwIjoxNjkyNDY1MzQ3LCJpc3MiOiJTeW5jYmFrIChURykifQ.5heNHIgDbrnFzfBjH4qmNs3sFGUl1iewhcB-Iru-4ok
+#EXTINF:-1 group-title="Telemundo Gray", NBC 7 Lake Charles LA (KPLC)
+https://dai2-playlistserver.aws.syncbak.com/cpl/20979933/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIyMDk3OTkzMyIsImNpZCI6MjE5MDAsInNpZCI6MTU4LCJtZDUiOiJmNDhkOTMzZGZiNWQyY2RjNWU1NTcyNjQ3MmQ1YjFlNSIsImlhdCI6MTY2MTQ0NjY2OCwiZXhwIjoxNjkyOTgyNjY4LCJpc3MiOiJTeW5jYmFrIChURykifQ.C51yBQc-ZSAkhWe0zCXWP3tUJ8MzijUNOaes6Zddk0w
 
 ***************************  https://github.com/Taher838/IPTV/blob/fb7ae31b9258406ec6b481fcd8ce80eddd41dc0b/TV2022 **********************************
 
@@ -1604,121 +1590,7 @@ http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115758&extension
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115762&extension=ts&play_token=f15SJHghJH
 #EXTINF:-1 group-title="Taher838",bt 1 (obs)
 http://obsfullhd.tv:25461/live/OBSKYSHARE/2222DnsYWsFxHksB/2107.ts
-#EXTINF:-1 group-title="Taher838",Premier Football 1
-https://tr.cett.my.id/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Taher838",Premier Football 2
-https://tr.cett.my.id/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Taher838",Premier Football 3
-https://tr.cett.my.id/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Taher838",Premier Football 4
-https://tr.cett.my.id/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Taher838",Premier Football 5
-https://tr.cett.my.id/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Taher838",TrueSports 1
-https://tr.cett.my.id/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Taher838",TrueSports 2
-https://tr.cett.my.id/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Taher838",TrueSports 3
-https://tr.cett.my.id/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Taher838",TrueSports 4
-https://tr.cett.my.id/02_2sporthd4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Taher838",TrueSports 5
-https://tr.cett.my.id/02_sport5_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Taher838",truesports 6
-https://tr.cett.my.id/02_sport6_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Taher838",Truesports 7
-https://tr.cett.my.id/02_sport7_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Taher838",TH:beIN Sports 3 TH
-https://tr.cett.my.id/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Taher838",beIN Sports 1 TH
-https://tr.cett.my.id/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Taher838",Golf Channel
-https://tr.cett.my.id/02_golfhd_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Taher838",NBA TV
-https://tr.cett.my.id/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Taher838",SPOTV TH
-https://tr.cett.my.id/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Taher838",SPOTV 2 TH
-https://tr.cett.my.id/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Taher838",True Tennis
-https://tr.cett.my.id/02_TennisHD_720p/chunklist.m3u8
 
-
-
-#EXTINF:-1 group-title="Taher838_KUCHINI",UTV Action
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/272573
-#EXTINF:-1 group-title="Taher838_KUCHINI",UTV Movies
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/284584
-#EXTINF:-1 group-title="Taher838_KUCHINI",Star KUCHINI 1
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/3630
-#EXTINF:-1 group-title="Taher838_KUCHINI",Star KUCHINI 2
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/3631
-#EXTINF:-1 group-title="Taher838_KUCHINI",Star KUCHINI 3
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/62584
-#EXTINF:-1 group-title="Taher838_KUCHINI",Star KUCHINI Select 1
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/82628
-#EXTINF:-1 group-title="Taher838_KUCHINI",Star KUCHINI Select 2
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/16619
-#EXTINF:-1 group-title="Taher838_KUCHINI",Sony Ten 1
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/16622
-#EXTINF:-1 group-title="Taher838_KUCHINI",Sony Ten 2
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/16621
-#EXTINF:-1 group-title="Taher838_KUCHINI",Sony Ten 3
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/56191
-#EXTINF:-1 group-title="Taher838_KUCHINI",beIN KUCHINI English 1
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/110
-#EXTINF:-1 group-title="Taher838_KUCHINI",beIN KUCHINI English 2
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/111
-#EXTINF:-1 group-title="Taher838_KUCHINI",beIN KUCHINI English 3
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/267769
-#EXTINF:-1 group-title="Taher838_KUCHINI",Match
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/75641
-#EXTINF:-1 group-title="Taher838_KUCHINI",Match Arena
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/55801
-#EXTINF:-1 group-title="Taher838_KUCHINI",Match Futbol 2
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/55800
-#EXTINF:-1 group-title="Taher838_KUCHINI",Match Futbol 3
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/55802
-#EXTINF:-1 group-title="Taher838_KUCHINI",Match Premier
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/60499
-#EXTINF:-1 group-title="Taher838_KUCHINI",Match Strana
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/148347
-#EXTINF:-1 group-title="Taher838_KUCHINI",Match! Futbol 1
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/12812
-#EXTINF:-1 group-title="Taher838_KUCHINI",HBO
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/197972
-#EXTINF:-1 group-title="Taher838_KUCHINI",HBO Hits
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/196480
-#EXTINF:-1 group-title="Taher838_KUCHINI",STAR Movies
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/11511
-#EXTINF:-1 group-title="Taher838_KUCHINI",beIN Box Office 1
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/225322
-#EXTINF:-1 group-title="Taher838_KUCHINI",beIN Drama 1
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2835
-#EXTINF:-1 group-title="Taher838_KUCHINI",beIN Movies Action 2
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1270
-#EXTINF:-1 group-title="Taher838_KUCHINI",beIN Movies Premiere 1
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/267063
-#EXTINF:-1 group-title="Taher838_KUCHINI",Sony Pix
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/49539
-#EXTINF:-1 group-title="Taher838_KUCHINI",AVA Family
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/5491
-#EXTINF:-1 group-title="Taher838_KUCHINI",MBC 2
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1247
-#EXTINF:-1 group-title="Taher838_KUCHINI",MBC Action
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1244
-#EXTINF:-1 group-title="Taher838_KUCHINI",MBC Max
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1240
-#EXTINF:-1 group-title="Taher838_KUCHINI",Sky Flix Box Office 1
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/283263
-#EXTINF:-1 group-title="Taher838_KUCHINI",Sky Flix Box Office 2
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/283267
-#EXTINF:-1 group-title="Taher838_KUCHINI",Sky Flix Box Office 3
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/283268
-#EXTINF:-1 group-title="Taher838_KUCHINI",Sky Flix Movies
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/283266
-#EXTINF:-1 group-title="Taher838_KUCHINI",Sky Select 2
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2139
 
 
 
