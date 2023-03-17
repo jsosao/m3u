@@ -1,6 +1,6 @@
 #EXTM3U
 
-************************  15/MAR/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  17/MAR/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 
 **********************************************************************  TOTAL *****************************************************************
@@ -492,6 +492,12 @@ https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8
 https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", TELE 13 TELESERIES CL
 https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra", BBC AMERICA UK
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra", BBC NEWS AMERICA UK
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1 group-title="Bics Extra", BBC 2 UK
+http://198.16.64.10:8278/bbc2_antik/playlist.m3u8?tid=MA6A4519490645194906&ct=19225&tsum=9b7ac03eed5276fa8bda87e0e8e64ed1
 #EXTINF:-1 group-title="Bics Extra", CCTV-13 CH
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 #EXTINF:-1 group-title="Bics Extra", NHK WORLD JP
