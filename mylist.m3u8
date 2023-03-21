@@ -1,6 +1,6 @@
-#EXTM3U
+***** #EXTM3U
 
-************************  17/MAR/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  21/MAR/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 
 **********************************************************************  TOTAL *****************************************************************
@@ -316,13 +316,13 @@ https://linear-414.frequency.stream/dist/vix/414/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS -2HR
 https://linear-415.frequency.stream/dist/vix/415/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", NU9VE
-https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
+***** https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
 https://linear-352.frequency.stream/dist/vix/352/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", 4 GDL
-https://linear-402.frequency.stream/dist/vix/402/hls/master/playlist.m3u8
+***** https://linear-402.frequency.stream/dist/vix/402/hls/master/playlist.m3u8
 https://linear-402.frequency.stream/402/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", 8 MTY
-https://linear-403.frequency.stream/dist/vix/403/hls/master/playlist.m3u8
+***** https://linear-403.frequency.stream/dist/vix/403/hls/master/playlist.m3u8
 https://linear-403.frequency.stream/403/hls/master/playlist.m3u8
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8
@@ -494,10 +494,6 @@ https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
 https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", BBC AMERICA UK
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 group-title="Bics Extra", BBC NEWS AMERICA UK
-http://flash.shortgod.com/perualmando/tv1.php?id=5677
-#EXTINF:-1 group-title="Bics Extra", BBC 2 UK
-http://198.16.64.10:8278/bbc2_antik/playlist.m3u8?tid=MA6A4519490645194906&ct=19225&tsum=9b7ac03eed5276fa8bda87e0e8e64ed1
 #EXTINF:-1 group-title="Bics Extra", CCTV-13 CH
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 #EXTINF:-1 group-title="Bics Extra", NHK WORLD JP
@@ -599,161 +595,161 @@ https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 
 *******************************  https://github.com/anthono12/rey1212/blob/360812912e6b26a99db05df05b7db59660a13a63/rony.m3u8   *************************************************
 
-#EXTINF:-1 group-title="RokuTV", FOX SPORTS PREMIUM ARG
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/195839
-#EXTINF:-1 group-title="RokuTV", FOX SPORTS PREMIUM ARG HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/10915
-#EXTINF:-1 group-title="RokuTV", FOX SPORTS PREMIUM MX HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2106730
-#EXTINF:-1 group-title="RokuTV", ESPN PREMIUM ARG
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121662
-#EXTINF:-1 group-title="RokuTV", TUDN
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/191356
-#EXTINF:-1 group-title="RokuTV", TUDN HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/155675
-#EXTINF:-1 group-title="RokuTV", TUDN USA
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/194924
-#EXTINF:-1 group-title="RokuTV", TUDN USA HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/169243
-#EXTINF:-1 group-title="RokuTV", CDO PREMIUM MOVIL CL 
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121699
-#EXTINF:-1 group-title="RokuTV", CDO PREMIUM CL
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121700
-#EXTINF:-1 group-title="RokuTV", CDO PREMIUM HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121701
-#EXTINF:-1 group-title="RokuTV", WIN SPORTS CO
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/176585
-#EXTINF:-1 group-title="RokuTV", WIN SPORTS+ CO
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/155693
-#EXTINF:-1 group-title="RokuTV", WIN SPORTS+ HD CO
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/12257
-#EXTINF:-1 group-title="RokuTV", WIN SPORTS HD CO
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/176587
+***** #EXTINF:-1 group-title="RokuTV", FOX SPORTS PREMIUM ARG
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/195839
+***** #EXTINF:-1 group-title="RokuTV", FOX SPORTS PREMIUM ARG HD
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/10915
+***** #EXTINF:-1 group-title="RokuTV", FOX SPORTS PREMIUM MX HD
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2106730
+***** #EXTINF:-1 group-title="RokuTV", ESPN PREMIUM ARG
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121662
+***** #EXTINF:-1 group-title="RokuTV", TUDN
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/191356
+***** #EXTINF:-1 group-title="RokuTV", TUDN HD
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/155675
+***** #EXTINF:-1 group-title="RokuTV", TUDN USA
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/194924
+***** #EXTINF:-1 group-title="RokuTV", TUDN USA HD
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/169243
+***** #EXTINF:-1 group-title="RokuTV", CDO PREMIUM MOVIL CL 
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121699
+***** #EXTINF:-1 group-title="RokuTV", CDO PREMIUM CL
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121700
+***** #EXTINF:-1 group-title="RokuTV", CDO PREMIUM HD
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121701
+***** #EXTINF:-1 group-title="RokuTV", WIN SPORTS CO
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/176585
+***** #EXTINF:-1 group-title="RokuTV", WIN SPORTS+ CO
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/155693
+***** #EXTINF:-1 group-title="RokuTV", WIN SPORTS+ HD CO
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/12257
+***** #EXTINF:-1 group-title="RokuTV", WIN SPORTS HD CO
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/176587
 
-#EXTINF:-1 group-title="RokuTV", TIGO Honduras (solo eventos)
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/12510
-#EXTINF:-1 group-title="RokuTV", TIGO Sports 2 BO
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/155635
-#EXTINF:-1 group-title="RokuTV", TIGO Sports 2 BO HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/155629
-#EXTINF:-1 group-title="RokuTV", TIGO Sports 3 BO
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/155636
-#EXTINF:-1 group-title="RokuTV", TIGO Sports 3 BO HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/155630
-#EXTINF:-1 group-title="RokuTV", TIGO Sports BO
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/155633
-#EXTINF:-1 group-title="RokuTV", TIGO Sports BO HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/155634
-#EXTINF:-1 group-title="RokuTV", TIGO Sports CR
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/155627
-#EXTINF:-1 group-title="RokuTV", TIGO Sports HN HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/155641
-#EXTINF:-1 group-title="RokuTV", TIGO Sports Paraguay HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/155631
-#EXTINF:-1 group-title="RokuTV", TIGO Sports Plus Paraguay HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/155632
-#EXTINF:-1 group-title="RokuTV", TIGO Sports Salvador
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/155626
-#EXTINF:-1 group-title="RokuTV", TIGO Sports Salvador HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/202259
+***** #EXTINF:-1 group-title="RokuTV", TIGO Honduras (solo eventos)
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/12510
+***** #EXTINF:-1 group-title="RokuTV", TIGO Sports 2 BO
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/155635
+***** #EXTINF:-1 group-title="RokuTV", TIGO Sports 2 BO HD
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/155629
+***** #EXTINF:-1 group-title="RokuTV", TIGO Sports 3 BO
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/155636
+***** #EXTINF:-1 group-title="RokuTV", TIGO Sports 3 BO HD
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/155630
+***** #EXTINF:-1 group-title="RokuTV", TIGO Sports BO
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/155633
+***** #EXTINF:-1 group-title="RokuTV", TIGO Sports BO HD
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/155634
+***** #EXTINF:-1 group-title="RokuTV", TIGO Sports CR
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/155627
+***** #EXTINF:-1 group-title="RokuTV", TIGO Sports HN HD
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/155641
+***** #EXTINF:-1 group-title="RokuTV", TIGO Sports Paraguay HD
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/155631
+***** #EXTINF:-1 group-title="RokuTV", TIGO Sports Plus Paraguay HD
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/155632
+***** #EXTINF:-1 group-title="RokuTV", TIGO Sports Salvador
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/155626
+***** #EXTINF:-1 group-title="RokuTV", TIGO Sports Salvador HD
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/202259
 
-#EXTINF:-1 group-title="RokuTV", TIGO SPORT PLUS (PY)
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2107640
-#EXTINF:-1 group-title="RokuTV", TIGO PARAGUAY 1 (PY)
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2107641
-#EXTINF:-1 group-title="RokuTV", TIGO PARAGUAY 2 (PY)
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2107642
-#EXTINF:-1 group-title="RokuTV", Tigo Sports
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121762
-#EXTINF:-1 group-title="RokuTV", Tigo Sports+ HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121763
-#EXTINF:-1 group-title="RokuTV", Tigo Sports (OP 1)
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2122883
-#EXTINF:-1 group-title="RokuTV", TIGO SPORTS + (OPC 1)
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2122884
+***** #EXTINF:-1 group-title="RokuTV", TIGO SPORT PLUS (PY)
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2107640
+***** #EXTINF:-1 group-title="RokuTV", TIGO PARAGUAY 1 (PY)
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2107641
+***** #EXTINF:-1 group-title="RokuTV", TIGO PARAGUAY 2 (PY)
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2107642
+***** #EXTINF:-1 group-title="RokuTV", Tigo Sports
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121762
+***** #EXTINF:-1 group-title="RokuTV", Tigo Sports+ HD
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121763
+***** #EXTINF:-1 group-title="RokuTV", Tigo Sports (OP 1)
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2122883
+***** #EXTINF:-1 group-title="RokuTV", TIGO SPORTS + (OPC 1)
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2122884
 
-#EXTINF:-1 group-title="RokuTV", DAZN  2 SD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144857
-#EXTINF:-1 group-title="RokuTV", DAZN 1
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/223949
-#EXTINF:-1 group-title="RokuTV", DAZN 1 HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144853
-#EXTINF:-1 group-title="RokuTV", DAZN 1 SD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144854
-#EXTINF:-1 group-title="RokuTV", DAZN 2
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/223950
-#EXTINF:-1 group-title="RokuTV", DAZN 2 HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144856
-#EXTINF:-1 group-title="RokuTV", DAZN 3
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/223951
-#EXTINF:-1 group-title="RokuTV", DAZN 3 HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144859
-#EXTINF:-1 group-title="RokuTV", DAZN 3 SD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144860
-#EXTINF:-1 group-title="RokuTV", DAZN 4 HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144862
-#EXTINF:-1 group-title="RokuTV", DAZN 4 SD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144863
-#EXTINF:-1 group-title="RokuTV", DAZN F1
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/223952
-#EXTINF:-1 group-title="RokuTV", DAZN F1 HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144850
-#EXTINF:-1 group-title="RokuTV", DAZN F1 SD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144851
+***** #EXTINF:-1 group-title="RokuTV", DAZN  2 SD
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144857
+***** #EXTINF:-1 group-title="RokuTV", DAZN 1
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/223949
+***** #EXTINF:-1 group-title="RokuTV", DAZN 1 HD
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144853
+***** #EXTINF:-1 group-title="RokuTV", DAZN 1 SD
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144854
+***** #EXTINF:-1 group-title="RokuTV", DAZN 2
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/223950
+***** #EXTINF:-1 group-title="RokuTV", DAZN 2 HD
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144856
+***** #EXTINF:-1 group-title="RokuTV", DAZN 3
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/223951
+***** #EXTINF:-1 group-title="RokuTV", DAZN 3 HD
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144859
+***** #EXTINF:-1 group-title="RokuTV", DAZN 3 SD
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144860
+***** #EXTINF:-1 group-title="RokuTV", DAZN 4 HD
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144862
+***** #EXTINF:-1 group-title="RokuTV", DAZN 4 SD
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144863
+***** #EXTINF:-1 group-title="RokuTV", DAZN F1
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/223952
+***** #EXTINF:-1 group-title="RokuTV", DAZN F1 HD
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144850
+***** #EXTINF:-1 group-title="RokuTV", DAZN F1 SD
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144851
 
-#EXTINF:-1 group-title="RokuTV", TNT SPORTS
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/25362
-#EXTINF:-1 group-title="RokuTV", TNT SPORTS 2
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/25340
-#EXTINF:-1 group-title="RokuTV", TNT SPORTS FHD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/25365
-#EXTINF:-1 group-title="RokuTV", TNT SPORTS HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/25363
-#EXTINF:-1 group-title="RokuTV", TNT SPORTS HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/25369
-#EXTINF:-1 group-title="RokuTV", TNT SPORTS SD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/25366
+***** #EXTINF:-1 group-title="RokuTV", TNT SPORTS
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/25362
+***** #EXTINF:-1 group-title="RokuTV", TNT SPORTS 2
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/25340
+***** #EXTINF:-1 group-title="RokuTV", TNT SPORTS FHD
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/25365
+***** #EXTINF:-1 group-title="RokuTV", TNT SPORTS HD
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/25363
+***** #EXTINF:-1 group-title="RokuTV", TNT SPORTS HD
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/25369
+***** #EXTINF:-1 group-title="RokuTV", TNT SPORTS SD
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/25366
 
-#EXTINF:-1 group-title="RokuTV", TUDN 1
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144830
-#EXTINF:-1 group-title="RokuTV", TUDN 2
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144831
-#EXTINF:-1 group-title="RokuTV", TUDN 3
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144832
-#EXTINF:-1 group-title="RokuTV", TUDN 4
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144833
-#EXTINF:-1 group-title="RokuTV", TUDN 5
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144834
-#EXTINF:-1 group-title="RokuTV", TUDN 6
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144835
-#EXTINF:-1 group-title="RokuTV", TUDN 7
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144836
-#EXTINF:-1 group-title="RokuTV", TUDN 8
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144837
-#EXTINF:-1 group-title="RokuTV", TUDN 9
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144838
-#EXTINF:-1 group-title="RokuTV", TUDN XTRA 1
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144819
-#EXTINF:-1 group-title="RokuTV", TUDN XTRA 10
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144820
-#EXTINF:-1 group-title="RokuTV", TUDN XTRA 11
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144821
-#EXTINF:-1 group-title="RokuTV", TUDN XTRA 2
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144822
-#EXTINF:-1 group-title="RokuTV", TUDN XTRA 3
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144823
-#EXTINF:-1 group-title="RokuTV", TUDN XTRA 4
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144824
-#EXTINF:-1 group-title="RokuTV", TUDN XTRA 5
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144825
-#EXTINF:-1 group-title="RokuTV", TUDN XTRA 6
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144826
-#EXTINF:-1 group-title="RokuTV", TUDN XTRA 7
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144827
-#EXTINF:-1 group-title="RokuTV", TUDN XTRA 8
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144828
-#EXTINF:-1 group-title="RokuTV", TUDN XTRA 9
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144829
+***** #EXTINF:-1 group-title="RokuTV", TUDN 1
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144830
+***** #EXTINF:-1 group-title="RokuTV", TUDN 2
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144831
+***** #EXTINF:-1 group-title="RokuTV", TUDN 3
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144832
+***** #EXTINF:-1 group-title="RokuTV", TUDN 4
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144833
+***** #EXTINF:-1 group-title="RokuTV", TUDN 5
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144834
+***** #EXTINF:-1 group-title="RokuTV", TUDN 6
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144835
+***** #EXTINF:-1 group-title="RokuTV", TUDN 7
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144836
+***** #EXTINF:-1 group-title="RokuTV", TUDN 8
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144837
+***** #EXTINF:-1 group-title="RokuTV", TUDN 9
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144838
+***** #EXTINF:-1 group-title="RokuTV", TUDN XTRA 1
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144819
+***** #EXTINF:-1 group-title="RokuTV", TUDN XTRA 10
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144820
+***** #EXTINF:-1 group-title="RokuTV", TUDN XTRA 11
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144821
+***** #EXTINF:-1 group-title="RokuTV", TUDN XTRA 2
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144822
+***** #EXTINF:-1 group-title="RokuTV", TUDN XTRA 3
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144823
+***** #EXTINF:-1 group-title="RokuTV", TUDN XTRA 4
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144824
+***** #EXTINF:-1 group-title="RokuTV", TUDN XTRA 5
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144825
+***** #EXTINF:-1 group-title="RokuTV", TUDN XTRA 6
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144826
+***** #EXTINF:-1 group-title="RokuTV", TUDN XTRA 7
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144827
+***** #EXTINF:-1 group-title="RokuTV", TUDN XTRA 8
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144828
+***** #EXTINF:-1 group-title="RokuTV", TUDN XTRA 9
+***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144829
 
 *******************************  https://raw.githubusercontent.com/jsosao/mortal251_ssiptvarg/main/jlm3uargentinaygratuita.m3u   *************************************************
 
@@ -1169,218 +1165,218 @@ http://190.60.39.62:8000/play/a0bb
 
 *****************************************  https://github.com/pcouillard/iptv/blob/main/iptv.m3u ***************************************
 
-#EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="Pcouillard_USA",AMC Presents
-https://amc-amcpresents-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="Pcouillard_USA",AMC Rush
-https://amc-rushbyamc-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="Pcouillard_USA",AMC TWD1
-https://amc-twdtv14-1-us.samsung.wurl.tv/3000.m3u8
-#EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="Pcouillard_USA",AMC TWD2
-https://amc-twdfanexperience-1-us.plex.wurl.tv/4300.m3u8
+***** #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="Pcouillard_USA",AMC Presents
+***** https://amc-amcpresents-1-us.plex.wurl.tv/playlist.m3u8
+***** #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="Pcouillard_USA",AMC Rush
+***** https://amc-rushbyamc-1-us.plex.wurl.tv/playlist.m3u8
+***** #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="Pcouillard_USA",AMC TWD1
+***** https://amc-twdtv14-1-us.samsung.wurl.tv/3000.m3u8
+***** #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="Pcouillard_USA",AMC TWD2
+***** https://amc-twdfanexperience-1-us.plex.wurl.tv/4300.m3u8
 
 **** #EXTINF:-1 tvg-chno="4" tvg-id="ionMystery" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="Pcouillard_USA",iON Mystery
 **** https://linear-436.frequency.stream/436/hls/master/playlist.m3u8
 **** #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://rndserv.xyz/img/ion.png" group-title="Pcouillard_USA",iON Plus
 **** https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 **** https://linear-432.frequency.stream/432/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-chno="166" tvg-id="USANetworkEast.us" tvg-name="USA Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="Pcouillard_USA",USA Network
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/usa.network.east.us.m3u8
-#EXTINF:-1 tvg-chno="212" tvg-id="ParamountNetworkEast.us" tvg-name="Paramount Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11163_dark_360w_270h.png" group-title="Pcouillard_USA",Paramount Network
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/paramount.network.usa.eastern.us.m3u8
+***** #EXTINF:-1 tvg-chno="166" tvg-id="USANetworkEast.us" tvg-name="USA Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="Pcouillard_USA",USA Network
+***** https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/usa.network.east.us.m3u8
+***** #EXTINF:-1 tvg-chno="212" tvg-id="ParamountNetworkEast.us" tvg-name="Paramount Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11163_dark_360w_270h.png" group-title="Pcouillard_USA",Paramount Network
+***** https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/paramount.network.usa.eastern.us.m3u8
 
-#EXTINF:-1 tvg-chno="260" tvg-id="HBOEast.us" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="Pcouillard_USA",HBO
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="261" tvg-id="HBO2East.us" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10241_dark_360w_270h.png" group-title="Pcouillard_USA",HBO 2
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.2.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="262" tvg-id="HBOSignatureEast.us" tvg-name="HBO Signature" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10243_dark_360w_270h.png" group-title="Pcouillard_USA",HBO Signature
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.signature.hbo.3.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="263" tvg-id="HBOFamilyEast.us" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="Pcouillard_USA",HBO Family
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.family.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="264" tvg-id="HBOComedyEast.us" tvg-name="HBO Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="Pcouillard_USA",HBO Comedy
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.comedy.east.us.m3u8
-#EXTINF:-1 tvg-chno="265" tvg-id="HBOZoneEast.us" tvg-name="HBO Zone" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="Pcouillard_USA",HBO Zone
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.zone.east.us.m3u8
-#EXTINF:-1 tvg-chno="266" tvg-id="CinemaxEast.us" tvg-name="CINEMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10120_dark_360w_270h.png" group-title="Pcouillard_USA",CINEMAX
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/cinemax.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="267" tvg-id="ActionMaxEast.us" tvg-name="ActionMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59948_dark_360w_270h.png" group-title="Pcouillard_USA",ActionMAX
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/actionmax.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="268" tvg-id="5StarMaxEast.us" tvg-name="5 Star MAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25620_dark_360w_270h.png" group-title="Pcouillard_USA",5 Star MAX
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/5.star.max.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="269" tvg-id="ThrillerMaxEast.us" tvg-name="ThrillerMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59954_dark_360w_270h.png" group-title="Pcouillard_USA",ThrillerMAX
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/thrillermax.east.us.m3u8
-#EXTINF:-1 tvg-chno="270" tvg-id="MoreMaxEast.us" tvg-name="MoreMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10121_dark_360w_270h.png" group-title="Pcouillard_USA",MoreMAX
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/moremax.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="271" tvg-id="MovieMaxEast.us" tvg-name="MovieMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59963_dark_360w_270h.png" group-title="Pcouillard_USA",MovieMAX
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/moviemax.us.m3u8
-#EXTINF:-1 tvg-chno="272" tvg-id="OuterMaxEast.us" tvg-name="OuterMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25622_dark_360w_270h.png" group-title="Pcouillard_USA",OuterMAX
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/outermax.eastern.us.m3u8
+***** #EXTINF:-1 tvg-chno="260" tvg-id="HBOEast.us" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="Pcouillard_USA",HBO
+***** https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.eastern.us.m3u8
+***** #EXTINF:-1 tvg-chno="261" tvg-id="HBO2East.us" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10241_dark_360w_270h.png" group-title="Pcouillard_USA",HBO 2
+***** https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.2.eastern.us.m3u8
+***** #EXTINF:-1 tvg-chno="262" tvg-id="HBOSignatureEast.us" tvg-name="HBO Signature" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10243_dark_360w_270h.png" group-title="Pcouillard_USA",HBO Signature
+***** https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.signature.hbo.3.eastern.us.m3u8
+***** #EXTINF:-1 tvg-chno="263" tvg-id="HBOFamilyEast.us" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="Pcouillard_USA",HBO Family
+***** https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.family.eastern.us.m3u8
+***** #EXTINF:-1 tvg-chno="264" tvg-id="HBOComedyEast.us" tvg-name="HBO Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="Pcouillard_USA",HBO Comedy
+***** https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.comedy.east.us.m3u8
+***** #EXTINF:-1 tvg-chno="265" tvg-id="HBOZoneEast.us" tvg-name="HBO Zone" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="Pcouillard_USA",HBO Zone
+***** https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.zone.east.us.m3u8
+***** #EXTINF:-1 tvg-chno="266" tvg-id="CinemaxEast.us" tvg-name="CINEMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10120_dark_360w_270h.png" group-title="Pcouillard_USA",CINEMAX
+***** https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/cinemax.eastern.us.m3u8
+***** #EXTINF:-1 tvg-chno="267" tvg-id="ActionMaxEast.us" tvg-name="ActionMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59948_dark_360w_270h.png" group-title="Pcouillard_USA",ActionMAX
+***** https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/actionmax.eastern.us.m3u8
+***** #EXTINF:-1 tvg-chno="268" tvg-id="5StarMaxEast.us" tvg-name="5 Star MAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25620_dark_360w_270h.png" group-title="Pcouillard_USA",5 Star MAX
+***** https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/5.star.max.eastern.us.m3u8
+***** #EXTINF:-1 tvg-chno="269" tvg-id="ThrillerMaxEast.us" tvg-name="ThrillerMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59954_dark_360w_270h.png" group-title="Pcouillard_USA",ThrillerMAX
+***** https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/thrillermax.east.us.m3u8
+***** #EXTINF:-1 tvg-chno="270" tvg-id="MoreMaxEast.us" tvg-name="MoreMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10121_dark_360w_270h.png" group-title="Pcouillard_USA",MoreMAX
+***** https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/moremax.eastern.us.m3u8
+***** #EXTINF:-1 tvg-chno="271" tvg-id="MovieMaxEast.us" tvg-name="MovieMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59963_dark_360w_270h.png" group-title="Pcouillard_USA",MovieMAX
+***** https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/moviemax.us.m3u8
+***** #EXTINF:-1 tvg-chno="272" tvg-id="OuterMaxEast.us" tvg-name="OuterMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25622_dark_360w_270h.png" group-title="Pcouillard_USA",OuterMAX
+***** https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/outermax.eastern.us.m3u8
 
 ****************************************  https://github.com/atim2515/ATIM_BOSTON/blob/main/CABLE%20KINGS   ****************************
 
-#EXTINF:-1  group-title="CABLE KINGS", SHOWTIME
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/765
-#EXTINF:-1  group-title="CABLE KINGS", SHOWTIME 2
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/78161
-#EXTINF:-1  group-title="CABLE KINGS", SHOWTIME EXTREME
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/12036
-#EXTINF:-1  group-title="CABLE KINGS", SHOWTIME FAMILY ZONE
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/16139
-#EXTINF:-1  group-title="CABLE KINGS", SHOWTIME NEXT
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/13008
-#EXTINF:-1  group-title="CABLE KINGS", SHOWTIME SHOWCASE
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/6306
-#EXTINF:-1  group-title="CABLE KINGS", SHOWTIME WOMEN
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/12995
-#EXTINF:-1  group-title="CABLE KINGS", SKY CINEMA ACTION
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/1092
-#EXTINF:-1  group-title="CABLE KINGS", SKY CINEMA ANIMATION
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/1090
-#EXTINF:-1  group-title="CABLE KINGS", SKY CINEMA DRAMA
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/1089
-#EXTINF:-1  group-title="CABLE KINGS", SKY CINEMA FAMILY
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/727
-#EXTINF:-1  group-title="CABLE KINGS", SKY CINEMA GREATS
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/1087
-#EXTINF:-1  group-title="CABLE KINGS", SKY CINEMA PREMIERE
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/1085
-#EXTINF:-1  group-title="CABLE KINGS", SKY CINEMA SELECT
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/726
-#EXTINF:-1  group-title="CABLE KINGS", SKY CINEMA THRILLER
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/1082
-#EXTINF:-1  group-title="CABLE KINGS", SKY CINEMA SCI-FI HORROR
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/725
-#EXTINF:-1  group-title="CABLE KINGS", SKY COMEDY
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/1091
-#EXTINF:-1  group-title="CABLE KINGS", STARZ CINEMA
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/767
-#EXTINF:-1  group-title="CABLE KINGS", STARZ EDGE
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/2357
-#EXTINF:-1  group-title="CABLE KINGS", STARZ ENCORE ACTION
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/30773
-#EXTINF:-1  group-title="CABLE KINGS", STARZ ENCORE CLASSIC
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/25816
-#EXTINF:-1  group-title="CABLE KINGS", STARZ ENCORE FAMILY
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/47926
-#EXTINF:-1  group-title="CABLE KINGS", STARZ ENCORE SUSPENSE
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/38501
-#EXTINF:-1  group-title="CABLE KINGS", STARZ ENCORE
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/38500
-#EXTINF:-1  group-title="CABLE KINGS", STARZ ENCORE WESTERN
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/47928
-#EXTINF:-1  group-title="CABLE KINGS", STARZ IN BLACK
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/15056
-#EXTINF:-1  group-title="CABLE KINGS", STARZ KIDS & FAMILY
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/15052
-#EXTINF:-1  group-title="CABLE KINGS", STARZ
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/12044
-#EXTINF:-1  group-title="CABLE KINGS", HBO 1
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/463
-#EXTINF:-1  group-title="CABLE KINGS", HBO 2
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/5844
-#EXTINF:-1  group-title="CABLE KINGS", HBO COMEDY
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/2335
-#EXTINF:-1  group-title="CABLE KINGS", HBO FAMILY
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/760
-#EXTINF:-1  group-title="CABLE KINGS", HBO SIGNATURE
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/6305
-#EXTINF:-1  group-title="CABLE KINGS", HBO
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/2336
-#EXTINF:-1  group-title="CABLE KINGS", HBO ZONE
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/6328
-#EXTINF:-1  group-title="CABLE KINGS", HITS MOVIES
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/1086
-#EXTINF:-1  group-title="CABLE KINGS", HITS
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/296891
-#EXTINF:-1  group-title="CABLE KINGS", CINEMA WORLD
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/171956
-#EXTINF:-1  group-title="CABLE KINGS", WARNER TV
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/157550
-#EXTINF:-1  group-title="CABLE KINGS", PARAMOUNT NETWORK
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/14839
-#EXTINF:-1  group-title="CABLE KINGS", SYFY
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/2359
-#EXTINF:-1  group-title="CABLE KINGS", AXN
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/157542
-#EXTINF:-1  group-title="CABLE KINGS", E!
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/2306
-#EXTINF:-1  group-title="CABLE KINGS", A&E
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/2746
-#EXTINF:-1  group-title="CABLE KINGS", TLC
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/2362
-#EXTINF:-1  group-title="CABLE KINGS", HGTV
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/1600
-#EXTINF:-1  group-title="CABLE KINGS", CARTOON NETWORK
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/720
-#EXTINF:-1  group-title="CABLE KINGS", DISNEY CHANNEL
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/2303
-#EXTINF:-1  group-title="CABLE KINGS", DISNEY JUNIOR
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/8608
-#EXTINF:-1  group-title="CABLE KINGS", DISNEY XD
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/6395
-#EXTINF:-1  group-title="CABLE KINGS", CARTOONITO
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/1546
-#EXTINF:-1  group-title="CABLE KINGS", BOOMERANG
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/2281
-#EXTINF:-1  group-title="CABLE KINGS", NICK JUNIOR
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/14835
-#EXTINF:-1  group-title="CABLE KINGS", NICKMUSIC
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/12982
-#EXTINF:-1  group-title="CABLE KINGS", NICKELODEON
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/764
-#EXTINF:-1  group-title="CABLE KINGS", NICKTOONS
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/2351
-#EXTINF:-1  group-title="CABLE KINGS", FOOD NETWORK
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/2315
-#EXTINF:-1  group-title="CABLE KINGS", DISCOVERY CHANNEL
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/23301
-#EXTINF:-1  group-title="CABLE KINGS", DISCOVERY HISTORY
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/694
-#EXTINF:-1  group-title="CABLE KINGS", DISCOVERY LIFE CHANNEL
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/201208
-#EXTINF:-1  group-title="CABLE KINGS", DISCOVERY SCIENCE
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/2301
-#EXTINF:-1  group-title="CABLE KINGS", DISCOVERY VELOCITY
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/2302
-#EXTINF:-1  group-title="CABLE KINGS", DISCOVERY WORLD
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/755
-#EXTINF:-1  group-title="CABLE KINGS", NAT GEO
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/749
-#EXTINF:-1  group-title="CABLE KINGS", NAT GEO WILD
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/6503
+***** #EXTINF:-1  group-title="CABLE KINGS", SHOWTIME
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/765
+***** #EXTINF:-1  group-title="CABLE KINGS", SHOWTIME 2
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/78161
+***** #EXTINF:-1  group-title="CABLE KINGS", SHOWTIME EXTREME
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/12036
+***** #EXTINF:-1  group-title="CABLE KINGS", SHOWTIME FAMILY ZONE
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/16139
+***** #EXTINF:-1  group-title="CABLE KINGS", SHOWTIME NEXT
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/13008
+***** #EXTINF:-1  group-title="CABLE KINGS", SHOWTIME SHOWCASE
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/6306
+***** #EXTINF:-1  group-title="CABLE KINGS", SHOWTIME WOMEN
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/12995
+***** #EXTINF:-1  group-title="CABLE KINGS", SKY CINEMA ACTION
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/1092
+***** #EXTINF:-1  group-title="CABLE KINGS", SKY CINEMA ANIMATION
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/1090
+***** #EXTINF:-1  group-title="CABLE KINGS", SKY CINEMA DRAMA
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/1089
+***** #EXTINF:-1  group-title="CABLE KINGS", SKY CINEMA FAMILY
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/727
+***** #EXTINF:-1  group-title="CABLE KINGS", SKY CINEMA GREATS
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/1087
+***** #EXTINF:-1  group-title="CABLE KINGS", SKY CINEMA PREMIERE
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/1085
+***** #EXTINF:-1  group-title="CABLE KINGS", SKY CINEMA SELECT
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/726
+***** #EXTINF:-1  group-title="CABLE KINGS", SKY CINEMA THRILLER
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/1082
+***** #EXTINF:-1  group-title="CABLE KINGS", SKY CINEMA SCI-FI HORROR
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/725
+***** #EXTINF:-1  group-title="CABLE KINGS", SKY COMEDY
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/1091
+***** #EXTINF:-1  group-title="CABLE KINGS", STARZ CINEMA
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/767
+***** #EXTINF:-1  group-title="CABLE KINGS", STARZ EDGE
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/2357
+***** #EXTINF:-1  group-title="CABLE KINGS", STARZ ENCORE ACTION
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/30773
+***** #EXTINF:-1  group-title="CABLE KINGS", STARZ ENCORE CLASSIC
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/25816
+***** #EXTINF:-1  group-title="CABLE KINGS", STARZ ENCORE FAMILY
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/47926
+***** #EXTINF:-1  group-title="CABLE KINGS", STARZ ENCORE SUSPENSE
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/38501
+***** #EXTINF:-1  group-title="CABLE KINGS", STARZ ENCORE
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/38500
+***** #EXTINF:-1  group-title="CABLE KINGS", STARZ ENCORE WESTERN
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/47928
+***** #EXTINF:-1  group-title="CABLE KINGS", STARZ IN BLACK
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/15056
+***** #EXTINF:-1  group-title="CABLE KINGS", STARZ KIDS & FAMILY
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/15052
+***** #EXTINF:-1  group-title="CABLE KINGS", STARZ
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/12044
+***** #EXTINF:-1  group-title="CABLE KINGS", HBO 1
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/463
+***** #EXTINF:-1  group-title="CABLE KINGS", HBO 2
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/5844
+***** #EXTINF:-1  group-title="CABLE KINGS", HBO COMEDY
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/2335
+***** #EXTINF:-1  group-title="CABLE KINGS", HBO FAMILY
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/760
+***** #EXTINF:-1  group-title="CABLE KINGS", HBO SIGNATURE
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/6305
+***** #EXTINF:-1  group-title="CABLE KINGS", HBO
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/2336
+***** #EXTINF:-1  group-title="CABLE KINGS", HBO ZONE
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/6328
+***** #EXTINF:-1  group-title="CABLE KINGS", HITS MOVIES
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/1086
+***** #EXTINF:-1  group-title="CABLE KINGS", HITS
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/296891
+***** #EXTINF:-1  group-title="CABLE KINGS", CINEMA WORLD
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/171956
+***** #EXTINF:-1  group-title="CABLE KINGS", WARNER TV
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/157550
+***** #EXTINF:-1  group-title="CABLE KINGS", PARAMOUNT NETWORK
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/14839
+***** #EXTINF:-1  group-title="CABLE KINGS", SYFY
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/2359
+***** #EXTINF:-1  group-title="CABLE KINGS", AXN
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/157542
+***** #EXTINF:-1  group-title="CABLE KINGS", E!
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/2306
+***** #EXTINF:-1  group-title="CABLE KINGS", A&E
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/2746
+***** #EXTINF:-1  group-title="CABLE KINGS", TLC
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/2362
+***** #EXTINF:-1  group-title="CABLE KINGS", HGTV
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/1600
+***** #EXTINF:-1  group-title="CABLE KINGS", CARTOON NETWORK
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/720
+***** #EXTINF:-1  group-title="CABLE KINGS", DISNEY CHANNEL
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/2303
+***** #EXTINF:-1  group-title="CABLE KINGS", DISNEY JUNIOR
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/8608
+***** #EXTINF:-1  group-title="CABLE KINGS", DISNEY XD
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/6395
+***** #EXTINF:-1  group-title="CABLE KINGS", CARTOONITO
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/1546
+***** #EXTINF:-1  group-title="CABLE KINGS", BOOMERANG
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/2281
+***** #EXTINF:-1  group-title="CABLE KINGS", NICK JUNIOR
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/14835
+***** #EXTINF:-1  group-title="CABLE KINGS", NICKMUSIC
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/12982
+***** #EXTINF:-1  group-title="CABLE KINGS", NICKELODEON
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/764
+***** #EXTINF:-1  group-title="CABLE KINGS", NICKTOONS
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/2351
+***** #EXTINF:-1  group-title="CABLE KINGS", FOOD NETWORK
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/2315
+***** #EXTINF:-1  group-title="CABLE KINGS", DISCOVERY CHANNEL
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/23301
+***** #EXTINF:-1  group-title="CABLE KINGS", DISCOVERY HISTORY
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/694
+***** #EXTINF:-1  group-title="CABLE KINGS", DISCOVERY LIFE CHANNEL
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/201208
+***** #EXTINF:-1  group-title="CABLE KINGS", DISCOVERY SCIENCE
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/2301
+***** #EXTINF:-1  group-title="CABLE KINGS", DISCOVERY VELOCITY
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/2302
+***** #EXTINF:-1  group-title="CABLE KINGS", DISCOVERY WORLD
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/755
+***** #EXTINF:-1  group-title="CABLE KINGS", NAT GEO
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/749
+***** #EXTINF:-1  group-title="CABLE KINGS", NAT GEO WILD
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/6503
 
 
-#EXTINF:-1  group-title="CABLE KINGS", ESPN
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/747
-#EXTINF:-1  group-title="CABLE KINGS", ESPN 2
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/41918
-#EXTINF:-1  group-title="CABLE KINGS", ESPN 3
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/14816
-#EXTINF:-1  group-title="CABLE KINGS", ESPN NEWS
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/2312
-#EXTINF:-1  group-title="CABLE KINGS", EUROSPORT 1
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/692
-#EXTINF:-1  group-title="CABLE KINGS", EUROSPORT 2
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/1555
-#EXTINF:-1  group-title="CABLE KINGS", FS 1
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/756
-#EXTINF:-1  group-title="CABLE KINGS", FS 2
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/757
-#EXTINF:-1  group-title="CABLE KINGS", NBA
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/762
-#EXTINF:-1  group-title="CABLE KINGS", SKY RACING 1
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/201085
-#EXTINF:-1  group-title="CABLE KINGS", SKY RACING 2
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/201086
-#EXTINF:-1  group-title="CABLE KINGS", SKY SPORT ARENA 1
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/267
-#EXTINF:-1  group-title="CABLE KINGS", SKY SPORTS F1
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/265
-#EXTINF:-1  group-title="CABLE KINGS", SKY SPORTS FOOTBALL
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/266
-#EXTINF:-1  group-title="CABLE KINGS", SKY SPORTS MAIN EVENT
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/283053
-#EXTINF:-1  group-title="CABLE KINGS", SKY SPORTS PREMIER LEAGUE
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/263
+***** #EXTINF:-1  group-title="CABLE KINGS", ESPN
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/747
+***** #EXTINF:-1  group-title="CABLE KINGS", ESPN 2
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/41918
+***** #EXTINF:-1  group-title="CABLE KINGS", ESPN 3
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/14816
+***** #EXTINF:-1  group-title="CABLE KINGS", ESPN NEWS
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/2312
+***** #EXTINF:-1  group-title="CABLE KINGS", EUROSPORT 1
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/692
+***** #EXTINF:-1  group-title="CABLE KINGS", EUROSPORT 2
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/1555
+***** #EXTINF:-1  group-title="CABLE KINGS", FS 1
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/756
+***** #EXTINF:-1  group-title="CABLE KINGS", FS 2
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/757
+***** #EXTINF:-1  group-title="CABLE KINGS", NBA
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/762
+***** #EXTINF:-1  group-title="CABLE KINGS", SKY RACING 1
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/201085
+***** #EXTINF:-1  group-title="CABLE KINGS", SKY RACING 2
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/201086
+***** #EXTINF:-1  group-title="CABLE KINGS", SKY SPORT ARENA 1
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/267
+***** #EXTINF:-1  group-title="CABLE KINGS", SKY SPORTS F1
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/265
+***** #EXTINF:-1  group-title="CABLE KINGS", SKY SPORTS FOOTBALL
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/266
+***** #EXTINF:-1  group-title="CABLE KINGS", SKY SPORTS MAIN EVENT
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/283053
+***** #EXTINF:-1  group-title="CABLE KINGS", SKY SPORTS PREMIER LEAGUE
+***** http://iptvmedia.live:8080/bubullea83/092df5a7953b/263
 
 *********************************************  https://github.com/iptv-org/iptv/discussions/10639 ***************************************
 
