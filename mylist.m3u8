@@ -1,6 +1,6 @@
 ***** #EXTM3U
 
-************************  21/MAR/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  24/MAR/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 
 **********************************************************************  TOTAL *****************************************************************
@@ -311,6 +311,8 @@ https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS MX
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
+https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS -1HR
 https://linear-414.frequency.stream/dist/vix/414/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS -2HR
@@ -323,7 +325,7 @@ https://linear-352.frequency.stream/dist/vix/352/hls/master/playlist.m3u8
 https://linear-402.frequency.stream/402/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", 8 MTY
 ***** https://linear-403.frequency.stream/dist/vix/403/hls/master/playlist.m3u8
-https://linear-403.frequency.stream/403/hls/master/playlist.m3u8
+***** https://linear-403.frequency.stream/403/hls/master/playlist.m3u8
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8
 #EXTINF:-1 group-title="Bics", AFIZZIONADOS
@@ -394,6 +396,7 @@ https://linear-452.frequency.stream/452/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", N+
 https://linear-301.frequency.stream/dist/vix/301/hls/master/playlist.m3u8
 https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
+https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_4.m3u8
 #EXTINF:-1 group-title="Bics", FORO TV
 https://linear-300.frequency.stream/dist/vix/300/hls/master/playlist.m3u8
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
@@ -428,6 +431,10 @@ https://linear-490.frequency.stream/dist/vix/490/hls/master/playlist.m3u8
 https://linear-506.frequency.stream/dist/vix/506/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", FUTBOL ESPAÑA 4
 https://linear-507.frequency.stream/dist/vix/507/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Bics", TIGO SPORTS
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="Bics", REAL MADRID TV
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 
@@ -509,6 +516,8 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 group-title="Bics Extra", NBC NEWS
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra", NBC NEWS NOW
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANADA GLOBAL NEWS
 https://siloh.pluto.tv/lilo/production/GlobalNews/National/CAN/master.m3u8
 #EXTINF:-1 group-title="Bics Extra", SKY NEWS
