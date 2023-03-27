@@ -1,6 +1,6 @@
 #EXTM3U
 
-************************  24/MAR/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  27/MAR/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 
 **********************************************************************  TOTAL *****************************************************************
@@ -1180,53 +1180,6 @@ http://190.60.39.62:8000/play/a08a
 #EXTINF:-1 group-title="Claro-COL", suram
 http://190.60.39.62:8000/play/a0bb
 
-*****************************************  https://github.com/pcouillard/iptv/blob/main/iptv.m3u ***************************************
-
-***** #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="Pcouillard_USA",AMC Presents
-***** https://amc-amcpresents-1-us.plex.wurl.tv/playlist.m3u8
-***** #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="Pcouillard_USA",AMC Rush
-***** https://amc-rushbyamc-1-us.plex.wurl.tv/playlist.m3u8
-***** #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="Pcouillard_USA",AMC TWD1
-***** https://amc-twdtv14-1-us.samsung.wurl.tv/3000.m3u8
-***** #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="Pcouillard_USA",AMC TWD2
-***** https://amc-twdfanexperience-1-us.plex.wurl.tv/4300.m3u8
-
-**** #EXTINF:-1 tvg-chno="4" tvg-id="ionMystery" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="Pcouillard_USA",iON Mystery
-**** https://linear-436.frequency.stream/436/hls/master/playlist.m3u8
-**** #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://rndserv.xyz/img/ion.png" group-title="Pcouillard_USA",iON Plus
-**** https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
-**** https://linear-432.frequency.stream/432/hls/master/playlist.m3u8
-***** #EXTINF:-1 tvg-chno="166" tvg-id="USANetworkEast.us" tvg-name="USA Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="Pcouillard_USA",USA Network
-***** https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/usa.network.east.us.m3u8
-***** #EXTINF:-1 tvg-chno="212" tvg-id="ParamountNetworkEast.us" tvg-name="Paramount Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11163_dark_360w_270h.png" group-title="Pcouillard_USA",Paramount Network
-***** https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/paramount.network.usa.eastern.us.m3u8
-
-***** #EXTINF:-1 tvg-chno="260" tvg-id="HBOEast.us" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="Pcouillard_USA",HBO
-***** https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.eastern.us.m3u8
-***** #EXTINF:-1 tvg-chno="261" tvg-id="HBO2East.us" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10241_dark_360w_270h.png" group-title="Pcouillard_USA",HBO 2
-***** https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.2.eastern.us.m3u8
-***** #EXTINF:-1 tvg-chno="262" tvg-id="HBOSignatureEast.us" tvg-name="HBO Signature" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10243_dark_360w_270h.png" group-title="Pcouillard_USA",HBO Signature
-***** https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.signature.hbo.3.eastern.us.m3u8
-***** #EXTINF:-1 tvg-chno="263" tvg-id="HBOFamilyEast.us" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="Pcouillard_USA",HBO Family
-***** https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.family.eastern.us.m3u8
-***** #EXTINF:-1 tvg-chno="264" tvg-id="HBOComedyEast.us" tvg-name="HBO Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="Pcouillard_USA",HBO Comedy
-***** https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.comedy.east.us.m3u8
-***** #EXTINF:-1 tvg-chno="265" tvg-id="HBOZoneEast.us" tvg-name="HBO Zone" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="Pcouillard_USA",HBO Zone
-***** https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.zone.east.us.m3u8
-***** #EXTINF:-1 tvg-chno="266" tvg-id="CinemaxEast.us" tvg-name="CINEMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10120_dark_360w_270h.png" group-title="Pcouillard_USA",CINEMAX
-***** https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/cinemax.eastern.us.m3u8
-***** #EXTINF:-1 tvg-chno="267" tvg-id="ActionMaxEast.us" tvg-name="ActionMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59948_dark_360w_270h.png" group-title="Pcouillard_USA",ActionMAX
-***** https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/actionmax.eastern.us.m3u8
-***** #EXTINF:-1 tvg-chno="268" tvg-id="5StarMaxEast.us" tvg-name="5 Star MAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25620_dark_360w_270h.png" group-title="Pcouillard_USA",5 Star MAX
-***** https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/5.star.max.eastern.us.m3u8
-***** #EXTINF:-1 tvg-chno="269" tvg-id="ThrillerMaxEast.us" tvg-name="ThrillerMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59954_dark_360w_270h.png" group-title="Pcouillard_USA",ThrillerMAX
-***** https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/thrillermax.east.us.m3u8
-***** #EXTINF:-1 tvg-chno="270" tvg-id="MoreMaxEast.us" tvg-name="MoreMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10121_dark_360w_270h.png" group-title="Pcouillard_USA",MoreMAX
-***** https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/moremax.eastern.us.m3u8
-***** #EXTINF:-1 tvg-chno="271" tvg-id="MovieMaxEast.us" tvg-name="MovieMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59963_dark_360w_270h.png" group-title="Pcouillard_USA",MovieMAX
-***** https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/moviemax.us.m3u8
-***** #EXTINF:-1 tvg-chno="272" tvg-id="OuterMaxEast.us" tvg-name="OuterMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25622_dark_360w_270h.png" group-title="Pcouillard_USA",OuterMAX
-***** https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/outermax.eastern.us.m3u8
 
 ****************************************  https://github.com/atim2515/ATIM_BOSTON/blob/main/CABLE%20KINGS   ****************************
 
@@ -1336,6 +1289,88 @@ http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418050
 http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418052
 #EXTINF:-1  group-title="CABLE KINGS", Starz Encore Westerns
 http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/419306
+#EXTINF:-1  group-title="CABLE KINGS", Starz Kids Family
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418075
+#EXTINF:-1  group-title="CABLE KINGS", Starz in Black
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418074
+#EXTINF:-1  group-title="CABLE KINGS", TeenNick
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418030
+
+#EXTINF:-1  group-title="CABLE KINGS", CCTV4
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497652
+#EXTINF:-1  group-title="CABLE KINGS", Astro Supersport
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497612
+#EXTINF:-1  group-title="CABLE KINGS", Astro Supersport 2
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497614
+#EXTINF:-1  group-title="CABLE KINGS", Astro Supersport 3
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497617
+#EXTINF:-1  group-title="CABLE KINGS", Astro Supersport 4
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497620
+#EXTINF:-1  group-title="CABLE KINGS", Astro Supersport 5
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497623
+#EXTINF:-1  group-title="CABLE KINGS", LIVE Astro SuperSport Events 3 HD
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497697
+#EXTINF:-1  group-title="CABLE KINGS", LIVE Astro SuperSport Events 4 HD
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497698
+#EXTINF:-1  group-title="CABLE KINGS", LIVE Astro SuperSport Events 5 HD
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497699
+#EXTINF:-1  group-title="CABLE KINGS", LIVE Astro SuperSport Events 6 HD
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497700
+#EXTINF:-1  group-title="CABLE KINGS", Arena
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497595
+#EXTINF:-1  group-title="CABLE KINGS", beIN Sports
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497639
+#EXTINF:-1  group-title="CABLE KINGS", beIN Sports 2
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497640
+#EXTINF:-1  group-title="CABLE KINGS", beIN Sports 3
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497642
+#EXTINF:-1  group-title="CABLE KINGS", beIN Sports 4
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497589
+#EXTINF:-1  group-title="CABLE KINGS", beIN Sports 5
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497586
+#EXTINF:-1  group-title="CABLE KINGS", Eurosport
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497672
+#EXTINF:-1  group-title="CABLE KINGS", SPOTV
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497719
+#EXTINF:-1  group-title="CABLE KINGS", SPOTV2
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497721
+#EXTINF:-1  group-title="CABLE KINGS", ANIMAL PLANET
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497584
+#EXTINF:-1  group-title="CABLE KINGS", AXN
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497638
+#EXTINF:-1  group-title="CABLE KINGS", BOOMERANG
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497649
+#EXTINF:-1  group-title="CABLE KINGS", CARTOON NTWK
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497650
+#EXTINF:-1  group-title="CABLE KINGS", CINEMAX
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497656
+#EXTINF:-1  group-title="CABLE KINGS", HBO Family
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497683
+#EXTINF:-1  group-title="CABLE KINGS", HBO Hits
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497684
+#EXTINF:-1  group-title="CABLE KINGS", HBO
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497682
+#EXTINF:-1  group-title="CABLE KINGS", HISTORY
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497686
+#EXTINF:-1  group-title="CABLE KINGS", ONE
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497709
+#EXTINF:-1  group-title="CABLE KINGS", PRIMEtime
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497713
+#EXTINF:-1  group-title="CABLE KINGS", Paramount
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497711
+#EXTINF:-1  group-title="CABLE KINGS", Showcase Movies
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497717
+#EXTINF:-1  group-title="CABLE KINGS", TVN
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497735
+#EXTINF:-1  group-title="CABLE KINGS", TVN Movies
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497737
+#EXTINF:-1  group-title="CABLE KINGS", WARNER TV
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497742
+#EXTINF:-1  group-title="CABLE KINGS", WWE NETWORK
+http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497743
+
+#EXTINF:-1  group-title="CABLE KINGS", ANIMAL PLANET
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577882
 
 *********************************************  https://github.com/iptv-org/iptv/discussions/10639 ***************************************
 
@@ -3090,4 +3125,4 @@ http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/81684
 ************************  https://raw.githubusercontent.com/dann1110/GreatTV/0e14dcf7106f6eb89651fa9bbb03b2780a378b7c/RokuTV  ***************************
 **********************************   https://raw.githubusercontent.com/bodegaacuenta/Moyobambaastral/main/TVCable  ***********************
 ******************************************************  https://github.com/waldmtr3s/waldmtr3s.github.io   **********************************************
-
+*****************************************  https://github.com/pcouillard/iptv/blob/main/iptv.m3u ***************************************
