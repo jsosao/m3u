@@ -1,6 +1,6 @@
 #EXTM3U
 
-************************  27/MAR/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  31/MAR/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 
 **********************************************************************  TOTAL *****************************************************************
@@ -610,163 +610,6 @@ https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
 https://linear-433.frequency.stream/433/hls/master/playlist.m3u8
 https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 
-*******************************  https://github.com/anthono12/rey1212/blob/360812912e6b26a99db05df05b7db59660a13a63/rony.m3u8   *************************************************
-
-***** #EXTINF:-1 group-title="RokuTV", FOX SPORTS PREMIUM ARG
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/195839
-***** #EXTINF:-1 group-title="RokuTV", FOX SPORTS PREMIUM ARG HD
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/10915
-***** #EXTINF:-1 group-title="RokuTV", FOX SPORTS PREMIUM MX HD
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2106730
-***** #EXTINF:-1 group-title="RokuTV", ESPN PREMIUM ARG
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121662
-***** #EXTINF:-1 group-title="RokuTV", TUDN
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/191356
-***** #EXTINF:-1 group-title="RokuTV", TUDN HD
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/155675
-***** #EXTINF:-1 group-title="RokuTV", TUDN USA
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/194924
-***** #EXTINF:-1 group-title="RokuTV", TUDN USA HD
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/169243
-***** #EXTINF:-1 group-title="RokuTV", CDO PREMIUM MOVIL CL 
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121699
-***** #EXTINF:-1 group-title="RokuTV", CDO PREMIUM CL
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121700
-***** #EXTINF:-1 group-title="RokuTV", CDO PREMIUM HD
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121701
-***** #EXTINF:-1 group-title="RokuTV", WIN SPORTS CO
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/176585
-***** #EXTINF:-1 group-title="RokuTV", WIN SPORTS+ CO
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/155693
-***** #EXTINF:-1 group-title="RokuTV", WIN SPORTS+ HD CO
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/12257
-***** #EXTINF:-1 group-title="RokuTV", WIN SPORTS HD CO
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/176587
-
-***** #EXTINF:-1 group-title="RokuTV", TIGO Honduras (solo eventos)
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/12510
-***** #EXTINF:-1 group-title="RokuTV", TIGO Sports 2 BO
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/155635
-***** #EXTINF:-1 group-title="RokuTV", TIGO Sports 2 BO HD
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/155629
-***** #EXTINF:-1 group-title="RokuTV", TIGO Sports 3 BO
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/155636
-***** #EXTINF:-1 group-title="RokuTV", TIGO Sports 3 BO HD
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/155630
-***** #EXTINF:-1 group-title="RokuTV", TIGO Sports BO
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/155633
-***** #EXTINF:-1 group-title="RokuTV", TIGO Sports BO HD
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/155634
-***** #EXTINF:-1 group-title="RokuTV", TIGO Sports CR
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/155627
-***** #EXTINF:-1 group-title="RokuTV", TIGO Sports HN HD
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/155641
-***** #EXTINF:-1 group-title="RokuTV", TIGO Sports Paraguay HD
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/155631
-***** #EXTINF:-1 group-title="RokuTV", TIGO Sports Plus Paraguay HD
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/155632
-***** #EXTINF:-1 group-title="RokuTV", TIGO Sports Salvador
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/155626
-***** #EXTINF:-1 group-title="RokuTV", TIGO Sports Salvador HD
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/202259
-
-***** #EXTINF:-1 group-title="RokuTV", TIGO SPORT PLUS (PY)
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2107640
-***** #EXTINF:-1 group-title="RokuTV", TIGO PARAGUAY 1 (PY)
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2107641
-***** #EXTINF:-1 group-title="RokuTV", TIGO PARAGUAY 2 (PY)
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2107642
-***** #EXTINF:-1 group-title="RokuTV", Tigo Sports
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121762
-***** #EXTINF:-1 group-title="RokuTV", Tigo Sports+ HD
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121763
-***** #EXTINF:-1 group-title="RokuTV", Tigo Sports (OP 1)
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2122883
-***** #EXTINF:-1 group-title="RokuTV", TIGO SPORTS + (OPC 1)
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2122884
-
-***** #EXTINF:-1 group-title="RokuTV", DAZN  2 SD
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144857
-***** #EXTINF:-1 group-title="RokuTV", DAZN 1
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/223949
-***** #EXTINF:-1 group-title="RokuTV", DAZN 1 HD
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144853
-***** #EXTINF:-1 group-title="RokuTV", DAZN 1 SD
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144854
-***** #EXTINF:-1 group-title="RokuTV", DAZN 2
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/223950
-***** #EXTINF:-1 group-title="RokuTV", DAZN 2 HD
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144856
-***** #EXTINF:-1 group-title="RokuTV", DAZN 3
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/223951
-***** #EXTINF:-1 group-title="RokuTV", DAZN 3 HD
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144859
-***** #EXTINF:-1 group-title="RokuTV", DAZN 3 SD
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144860
-***** #EXTINF:-1 group-title="RokuTV", DAZN 4 HD
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144862
-***** #EXTINF:-1 group-title="RokuTV", DAZN 4 SD
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144863
-***** #EXTINF:-1 group-title="RokuTV", DAZN F1
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/223952
-***** #EXTINF:-1 group-title="RokuTV", DAZN F1 HD
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144850
-***** #EXTINF:-1 group-title="RokuTV", DAZN F1 SD
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144851
-
-***** #EXTINF:-1 group-title="RokuTV", TNT SPORTS
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/25362
-***** #EXTINF:-1 group-title="RokuTV", TNT SPORTS 2
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/25340
-***** #EXTINF:-1 group-title="RokuTV", TNT SPORTS FHD
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/25365
-***** #EXTINF:-1 group-title="RokuTV", TNT SPORTS HD
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/25363
-***** #EXTINF:-1 group-title="RokuTV", TNT SPORTS HD
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/25369
-***** #EXTINF:-1 group-title="RokuTV", TNT SPORTS SD
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/25366
-
-***** #EXTINF:-1 group-title="RokuTV", TUDN 1
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144830
-***** #EXTINF:-1 group-title="RokuTV", TUDN 2
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144831
-***** #EXTINF:-1 group-title="RokuTV", TUDN 3
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144832
-***** #EXTINF:-1 group-title="RokuTV", TUDN 4
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144833
-***** #EXTINF:-1 group-title="RokuTV", TUDN 5
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144834
-***** #EXTINF:-1 group-title="RokuTV", TUDN 6
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144835
-***** #EXTINF:-1 group-title="RokuTV", TUDN 7
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144836
-***** #EXTINF:-1 group-title="RokuTV", TUDN 8
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144837
-***** #EXTINF:-1 group-title="RokuTV", TUDN 9
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144838
-***** #EXTINF:-1 group-title="RokuTV", TUDN XTRA 1
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144819
-***** #EXTINF:-1 group-title="RokuTV", TUDN XTRA 10
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144820
-***** #EXTINF:-1 group-title="RokuTV", TUDN XTRA 11
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144821
-***** #EXTINF:-1 group-title="RokuTV", TUDN XTRA 2
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144822
-***** #EXTINF:-1 group-title="RokuTV", TUDN XTRA 3
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144823
-***** #EXTINF:-1 group-title="RokuTV", TUDN XTRA 4
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144824
-***** #EXTINF:-1 group-title="RokuTV", TUDN XTRA 5
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144825
-***** #EXTINF:-1 group-title="RokuTV", TUDN XTRA 6
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144826
-***** #EXTINF:-1 group-title="RokuTV", TUDN XTRA 7
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144827
-***** #EXTINF:-1 group-title="RokuTV", TUDN XTRA 8
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144828
-***** #EXTINF:-1 group-title="RokuTV", TUDN XTRA 9
-***** http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144829
 
 *******************************  https://raw.githubusercontent.com/jsosao/mortal251_ssiptvarg/main/jlm3uargentinaygratuita.m3u   *************************************************
 
@@ -1451,6 +1294,72 @@ http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=5
 http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577273
 #EXTINF:-1  group-title="CABLE KINGS IPTV", A&E
 http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=469345
+
+#EXTINF:-1  group-title="CABLE KINGS SUPERSPORTS", Root Sports Network
+http://176.57.50.167:25461/421664/055944/77461
+#EXTINF:-1  group-title="CABLE KINGS SUPERSPORTS", Sky Sport Racing
+http://176.57.50.167:25461/421664/055944/78145
+#EXTINF:-1  group-title="CABLE KINGS SUPERSPORTS", Sky Sports Action
+http://176.57.50.167:25461/421664/055944/78146
+#EXTINF:-1  group-title="CABLE KINGS SUPERSPORTS", Sky Sports F1
+http://176.57.50.167:25461/421664/055944/78149
+#EXTINF:-1  group-title="CABLE KINGS SUPERSPORTS", Sky Sports Football
+http://176.57.50.167:25461/421664/055944/78150
+#EXTINF:-1  group-title="CABLE KINGS SUPERSPORTS", Sky Sports Main Events
+http://176.57.50.167:25461/421664/055944/78152
+#EXTINF:-1  group-title="CABLE KINGS SUPERSPORTS", Sky Sports News
+http://176.57.50.167:25461/421664/055944/78154
+#EXTINF:-1  group-title="CABLE KINGS SUPERSPORTS", Sportsman
+http://176.57.50.167:25461/421664/055944/47754
+#EXTINF:-1  group-title="CABLE KINGS SUPERSPORTS", SPORTSNET
+http://176.57.50.167:25461/421664/055944/40473
+#EXTINF:-1  group-title="CABLE KINGS SUPERSPORTS", SportsNet New York
+http://176.57.50.167:25461/421664/055944/47755
+#EXTINF:-1  group-title="CABLE KINGS SUPERSPORTS", SPORTSNET ONE
+http://176.57.50.167:25461/421664/055944/40475
+#EXTINF:-1  group-title="CABLE KINGS SUPERSPORTS", SPORTSNET ONTARIO
+http://176.57.50.167:25461/421664/055944/40476
+#EXTINF:-1  group-title="CABLE KINGS SUPERSPORTS", SPORTSNET PACIFIC
+http://176.57.50.167:25461/421664/055944/40477
+#EXTINF:-1  group-title="CABLE KINGS SUPERSPORTS", SPORTSNET PPV
+http://176.57.50.167:25461/421664/055944/40478
+#EXTINF:-1  group-title="CABLE KINGS SUPERSPORTS", SPORTSNET_360
+http://176.57.50.167:25461/421664/055944/40472
+#EXTINF:-1  group-title="CABLE KINGS SUPERSPORTS", Supersport Action
+http://176.57.50.167:25461/421664/055944/86870
+#EXTINF:-1  group-title="CABLE KINGS SUPERSPORTS", Supersport Blitz
+http://176.57.50.167:25461/421664/055944/86873
+#EXTINF:-1  group-title="CABLE KINGS SUPERSPORTS", Supersport Football
+http://176.57.50.167:25461/421664/055944/86869
+#EXTINF:-1  group-title="CABLE KINGS SUPERSPORTS", Supersport Golf
+http://176.57.50.167:25461/421664/055944/86875
+#EXTINF:-1  group-title="CABLE KINGS SUPERSPORTS", Supersport Play
+http://176.57.50.167:25461/421664/055944/86877
+#EXTINF:-1  group-title="CABLE KINGS SUPERSPORTS", Supersport PSL
+http://176.57.50.167:25461/421664/055944/86862
+#EXTINF:-1  group-title="CABLE KINGS SUPERSPORTS", Supersport Rugby
+http://176.57.50.167:25461/421664/055944/86871
+#EXTINF:-1  group-title="CABLE KINGS SUPERSPORTS", Supersport Variety 1
+http://176.57.50.167:25461/421664/055944/86865
+#EXTINF:-1  group-title="CABLE KINGS SUPERSPORTS", Supersport Variety 2
+http://176.57.50.167:25461/421664/055944/86866
+#EXTINF:-1  group-title="CABLE KINGS SUPERSPORTS", Supersport Variety 4
+http://176.57.50.167:25461/421664/055944/86868
+#EXTINF:-1  group-title="CABLE KINGS SUPERSPORTS", TCN Sports Philadelfia
+http://176.57.50.167:25461/421664/055944/40432
+#EXTINF:-1  group-title="CABLE KINGS SUPERSPORTS", Tennis Channel
+http://176.57.50.167:25461/421664/055944/40433
+#EXTINF:-1  group-title="CABLE KINGS SUPERSPORTS", TSN 1
+http://176.57.50.167:25461/421664/055944/40467
+#EXTINF:-1  group-title="CABLE KINGS SUPERSPORTS", TSN 2
+http://176.57.50.167:25461/421664/055944/40468
+#EXTINF:-1  group-title="CABLE KINGS SUPERSPORTS", TSN 3
+http://176.57.50.167:25461/421664/055944/40469
+#EXTINF:-1  group-title="CABLE KINGS SUPERSPORTS", TSN 4
+http://176.57.50.167:25461/421664/055944/40470
+#EXTINF:-1  group-title="CABLE KINGS SUPERSPORTS", TSN 5
+http://176.57.50.167:25461/421664/055944/40471
+
 
 *********************************************  https://github.com/iptv-org/iptv/discussions/10639 ***************************************
 
@@ -3206,3 +3115,5 @@ http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/81684
 **********************************   https://raw.githubusercontent.com/bodegaacuenta/Moyobambaastral/main/TVCable  ***********************
 ******************************************************  https://github.com/waldmtr3s/waldmtr3s.github.io   **********************************************
 *****************************************  https://github.com/pcouillard/iptv/blob/main/iptv.m3u ***************************************
+*******************************  https://github.com/anthono12/rey1212/blob/360812912e6b26a99db05df05b7db59660a13a63/rony.m3u8   *************************************************
+
