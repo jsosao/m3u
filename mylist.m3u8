@@ -459,6 +459,8 @@ https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 #EXTINF:-1 group-title="Bics Extra", UNIVISION LATAM
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra", TELE ONCE UNIVISION
+https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 #EXTINF:-1 group-title="Bics Extra", RCN EXTRA CO
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", RCN Mas+ CO
@@ -469,6 +471,10 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANAL 34 PR
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra", CANAL 11 HN
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8
+#EXTINF:-1 group-title="Bics Extra", CINCO TV AR
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Bics Extra", CANAL 7 GT
 https://dslvfq5ee0geu.cloudfront.net/hls/canal7_360.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANAL 8 GT
@@ -493,18 +499,10 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8
 #EXTINF:-1 group-title="Bics Extra", TICAVISION CR
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
-
-#EXTINF:-1  group-title="Bics Extra", ??? PE
+#EXTINF:-1  group-title="Bics Extra", GLOBAL PE
 http://svtv.xyz:8080/jonya/HHcNTJp/31917
-
 #EXTINF:-1  group-title="Bics Extra", PANAMERICANA PE
 http://179.1.144.192:4000/play/a004/index.m3u8
-
-
-#EXTINF:-1 group-title="Bics Extra", CANAL 13 CL
-https://panel.miplay.cl:8081/c13/index.m3u8
-#EXTINF:-1 group-title="Bics Extra", CHILEVISION  CL
-https://panel.miplay.cl:8081/chilevision/index.m3u8
 #EXTINF:-1 group-title="Bics Extra", TELE 13 CL
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", TELE 13 ENTRETENCION CL
@@ -519,6 +517,12 @@ https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/62407
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 #EXTINF:-1 group-title="Bics Extra", NHK WORLD JP
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
+#EXTINF:-1 group-title="Bics Extra", NIPPON NEWS JP
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 group-title="Bics Extra", 24 HORAS ES
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 group-title="Bics Extra", ABC PY
+https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 #EXTINF:-1 group-title="Bics Extra", RAI NEWS IT
 https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1 group-title="Bics Extra", REUTERS NEWS
@@ -536,86 +540,86 @@ https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a82
 https://siloh.pluto.tv/lilo/production/GlobalNews/National/CAN/master.m3u8
 #EXTINF:-1 group-title="Bics Extra", SKY NEWS
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
-#EXTINF:-1 group-title="Bics Extra", ABC NEW YORK
-https://v-ny.MyBTv.net/live/554/1280x720.m3u8
-#EXTINF:-1 group-title="Bics Extra", ABC SAN FRANCISCO
-https://v-ca.mybtv.net/live/119/1280x720.m3u8
-#EXTINF:-1 group-title="Bics Extra", ABC LOS ANGELES
-https://v-la.mybtv.net/live/88/1280x720.m3u8
-#EXTINF:-1 group-title="Bics Extra", ABC PHOENIX
-https://v-px.mybtv.net/live/27/1280x720.m3u8
-#EXTINF:-1 group-title="Bics Extra", NBC NEW YORK
-https://v-ny.MyBTv.net/live/548/1920x1080.m3u8
-#EXTINF:-1 group-title="Bics Extra", NBC SAN FRANCISCO
-https://v-ca.mybtv.net/live/121/1280x720.m3u8
-#EXTINF:-1 group-title="Bics Extra", NBC LOS ANGELES
-https://v-la.mybtv.net/live/82/1280x720.m3u8
-#EXTINF:-1 group-title="Bics Extra", NBC PHOENIX
-https://v-px.mybtv.net/live/55/1280x720.m3u8
-#EXTINF:-1 group-title="Bics Extra", NBC LAS VEGAS
-https://v-lv.MyBTv.net/live/1059/768x432.m3u8
-#EXTINF:-1 group-title="Bics Extra", CBS NEW YORK
-https://v-ny.MyBTv.net/live/545/1920x1080.m3u8
-#EXTINF:-1 group-title="Bics Extra", CBS SAN FRANCISCO
-https://v-ca.mybtv.net/live/162/1280x720.m3u8
-#EXTINF:-1 group-title="Bics Extra", CBS LOS ANGELES
-https://v-la.mybtv.net/live/259/1280x720.m3u8
-#EXTINF:-1 group-title="Bics Extra", CBS PHOENIX
-https://v-px.mybtv.net/live/48/1280x720.m3u8
-#EXTINF:-1 group-title="Bics Extra", FOX NEW YORK
-https://v-ny.MyBTv.net/live/550/1280x720.m3u8
-#EXTINF:-1 group-title="Bics Extra", FOX SAN FRANCISCO
-https://v-ca.mybtv.net/live/170/1280x720.m3u8
-#EXTINF:-1 group-title="Bics Extra", FOX PHOENIX
-https://v-px.mybtv.net/live/14/1280x720.m3u8
-#EXTINF:-1 group-title="Bics Extra", UNIVISION NEW YORK
-https://v-ny.MyBTv.net/live/643/1280x720.m3u8
-#EXTINF:-1 group-title="Bics Extra", UNIVISION SAN FRANCISCO
-https://v-ca.mybtv.net/live/148/1280x720.m3u8
-https://v-ca.mybtv.net/live/163/1280x720.m3u8
-#EXTINF:-1 group-title="Bics Extra", UNIVISION LOS ANGELES
-https://v-la.mybtv.net/live/178/1280x720.m3u8
-#EXTINF:-1 group-title="Bics Extra", UNIVISION PHOENIX
-https://v-px.mybtv.net/live/28/1280x720.m3u8
-#EXTINF:-1 group-title="Bics Extra", TELEMUNDO
-https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master.m3u8
-#EXTINF:-1 group-title="Bics Extra", TELEMUNDO LOS ANGELES
-https://v-la.mybtv.net/live/267/1920x1080.m3u8
-#EXTINF:-1 group-title="Bics Extra", TELEMUNDO SAN FRANCISCO
-https://v-ca.mybtv.net/live/140/1920x1080.m3u8
-#EXTINF:-1 group-title="Bics Extra", TELEMUNDO PHOENIX
-https://v-px.mybtv.net/live/39/1920x1080.m3u8
-#EXTINF:-1 group-title="Bics Extra", TELEMUNDO NEW YORK
-https://v-ny.mybtv.net/live/659/1920x1080.m3u8
-#EXTINF:-1 group-title="Bics Extra", ESTRELLA TV PHOENIX
-https://v-px.mybtv.net/live/45/1280x720.m3u8
-#EXTINF:-1 group-title="Bics Extra", ESTRELLA TV LOS ANGELES
-https://v-la.mybtv.net/live/112/1280x720.m3u8
-#EXTINF:-1 group-title="Bics Extra", ESTRELLA TV SAN FRANCISCO
-https://v-ca.mybtv.net/live/137/768x432.m3u8
-#EXTINF:-1 group-title="Bics Extra", ESTRELLA TV SAN DIEGO
-https://v-sd.mybtv.net/live/490/1280x720.m3u8
-#EXTINF:-1 group-title="Bics Extra", UNIMAS NEW YORK
-https://v-ny.mybtv.net/live/713/1280x720.m3u8
-#EXTINF:-1 group-title="Bics Extra", UNIMAS LOS ANGELES
-https://v-la.mybtv.net/live/299/1280x720.m3u8
-https://v-la.mybtv.net/live/168/768x432.m3u8
-#EXTINF:-1 group-title="Bics Extra", AZTECA AMERICA LOS ANGELES
-https://v-la.mybtv.net/live/107/1280x720.m3u8
-#EXTINF:-1 group-title="Bics Extra", AZTECA AMERICA LAS VEGAS
-https://v-lv.mybtv.net/live/1028/1280x720.m3u8
-#EXTINF:-1 group-title="Bics Extra", AZTECA AMERICA SAN DIEGO
-https://v-sd.mybtv.net/live/508/1920x1080.m3u8
-#EXTINF:-1 group-title="Bics Extra", KTLA LOS ANGELES
-https://v-la.mybtv.net/live/164/1280x720.m3u8
-#EXTINF:-1 group-title="Bics Extra", ION
-https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8
-https://linear-432.frequency.stream/432/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics Extra", ION PLUS
-https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
-https://linear-433.frequency.stream/433/hls/master/playlist.m3u8
-https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 
+***** #EXTINF:-1 group-title="Bics Extra", ABC NEW YORK
+***** https://v-ny.MyBTv.net/live/554/1280x720.m3u8
+***** #EXTINF:-1 group-title="Bics Extra", ABC SAN FRANCISCO
+***** https://v-ca.mybtv.net/live/119/1280x720.m3u8
+***** #EXTINF:-1 group-title="Bics Extra", ABC LOS ANGELES
+***** https://v-la.mybtv.net/live/88/1280x720.m3u8
+***** #EXTINF:-1 group-title="Bics Extra", ABC PHOENIX
+***** https://v-px.mybtv.net/live/27/1280x720.m3u8
+***** #EXTINF:-1 group-title="Bics Extra", NBC NEW YORK
+***** https://v-ny.MyBTv.net/live/548/1920x1080.m3u8
+***** #EXTINF:-1 group-title="Bics Extra", NBC SAN FRANCISCO
+***** https://v-ca.mybtv.net/live/121/1280x720.m3u8
+***** #EXTINF:-1 group-title="Bics Extra", NBC LOS ANGELES
+***** https://v-la.mybtv.net/live/82/1280x720.m3u8
+***** #EXTINF:-1 group-title="Bics Extra", NBC PHOENIX
+***** https://v-px.mybtv.net/live/55/1280x720.m3u8
+***** #EXTINF:-1 group-title="Bics Extra", NBC LAS VEGAS
+***** https://v-lv.MyBTv.net/live/1059/768x432.m3u8
+***** #EXTINF:-1 group-title="Bics Extra", CBS NEW YORK
+***** https://v-ny.MyBTv.net/live/545/1920x1080.m3u8
+***** #EXTINF:-1 group-title="Bics Extra", CBS SAN FRANCISCO
+***** https://v-ca.mybtv.net/live/162/1280x720.m3u8
+***** #EXTINF:-1 group-title="Bics Extra", CBS LOS ANGELES
+***** https://v-la.mybtv.net/live/259/1280x720.m3u8
+***** #EXTINF:-1 group-title="Bics Extra", CBS PHOENIX
+***** https://v-px.mybtv.net/live/48/1280x720.m3u8
+***** #EXTINF:-1 group-title="Bics Extra", FOX NEW YORK
+***** https://v-ny.MyBTv.net/live/550/1280x720.m3u8
+***** #EXTINF:-1 group-title="Bics Extra", FOX SAN FRANCISCO
+***** https://v-ca.mybtv.net/live/170/1280x720.m3u8
+***** #EXTINF:-1 group-title="Bics Extra", FOX PHOENIX
+***** https://v-px.mybtv.net/live/14/1280x720.m3u8
+***** #EXTINF:-1 group-title="Bics Extra", UNIVISION NEW YORK
+***** https://v-ny.MyBTv.net/live/643/1280x720.m3u8
+***** #EXTINF:-1 group-title="Bics Extra", UNIVISION SAN FRANCISCO
+***** https://v-ca.mybtv.net/live/148/1280x720.m3u8
+***** https://v-ca.mybtv.net/live/163/1280x720.m3u8
+***** #EXTINF:-1 group-title="Bics Extra", UNIVISION LOS ANGELES
+***** https://v-la.mybtv.net/live/178/1280x720.m3u8
+***** #EXTINF:-1 group-title="Bics Extra", UNIVISION PHOENIX
+***** https://v-px.mybtv.net/live/28/1280x720.m3u8
+***** #EXTINF:-1 group-title="Bics Extra", TELEMUNDO
+***** https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master.m3u8
+***** #EXTINF:-1 group-title="Bics Extra", TELEMUNDO LOS ANGELES
+***** https://v-la.mybtv.net/live/267/1920x1080.m3u8
+***** #EXTINF:-1 group-title="Bics Extra", TELEMUNDO SAN FRANCISCO
+***** https://v-ca.mybtv.net/live/140/1920x1080.m3u8
+***** #EXTINF:-1 group-title="Bics Extra", TELEMUNDO PHOENIX
+***** https://v-px.mybtv.net/live/39/1920x1080.m3u8
+***** #EXTINF:-1 group-title="Bics Extra", TELEMUNDO NEW YORK
+***** https://v-ny.mybtv.net/live/659/1920x1080.m3u8
+***** #EXTINF:-1 group-title="Bics Extra", ESTRELLA TV PHOENIX
+***** https://v-px.mybtv.net/live/45/1280x720.m3u8
+***** #EXTINF:-1 group-title="Bics Extra", ESTRELLA TV LOS ANGELES
+***** https://v-la.mybtv.net/live/112/1280x720.m3u8
+***** #EXTINF:-1 group-title="Bics Extra", ESTRELLA TV SAN FRANCISCO
+***** https://v-ca.mybtv.net/live/137/768x432.m3u8
+***** #EXTINF:-1 group-title="Bics Extra", ESTRELLA TV SAN DIEGO
+***** https://v-sd.mybtv.net/live/490/1280x720.m3u8
+***** #EXTINF:-1 group-title="Bics Extra", UNIMAS NEW YORK
+***** https://v-ny.mybtv.net/live/713/1280x720.m3u8
+***** #EXTINF:-1 group-title="Bics Extra", UNIMAS LOS ANGELES
+***** https://v-la.mybtv.net/live/299/1280x720.m3u8
+***** https://v-la.mybtv.net/live/168/768x432.m3u8
+***** #EXTINF:-1 group-title="Bics Extra", AZTECA AMERICA LOS ANGELES
+***** https://v-la.mybtv.net/live/107/1280x720.m3u8
+***** #EXTINF:-1 group-title="Bics Extra", AZTECA AMERICA LAS VEGAS
+***** https://v-lv.mybtv.net/live/1028/1280x720.m3u8
+***** #EXTINF:-1 group-title="Bics Extra", AZTECA AMERICA SAN DIEGO
+***** https://v-sd.mybtv.net/live/508/1920x1080.m3u8
+***** #EXTINF:-1 group-title="Bics Extra", KTLA LOS ANGELES
+***** https://v-la.mybtv.net/live/164/1280x720.m3u8
+***** #EXTINF:-1 group-title="Bics Extra", ION
+***** https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8
+***** https://linear-432.frequency.stream/432/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics Extra", ION PLUS
+***** https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
+***** https://linear-433.frequency.stream/433/hls/master/playlist.m3u8
+***** https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 
 *******************************  https://raw.githubusercontent.com/jsosao/mortal251_ssiptvarg/main/jlm3uargentinaygratuita.m3u   *************************************************
 
@@ -1451,10 +1455,6 @@ https://dai2-playlistserver.aws.syncbak.com/cpl/20979933/dai2v5/1.0/7b2264657669
 http://ttv.bz:80/live/Kenwyn/TJGm5d9YlP/1.ts
 #EXTINF:-1 group-title="Taher838",USA Network (MAINS)
 http://mains.vip:2086/live/Jhbxcgoisnm/56756756765722222/242.ts
-#EXTINF:-1 group-title="Taher838",Universo Sports
-http://destiny4k.com:2086/live/YttdBgP0g7/Zek4HZvbSDecog5JKE2U/2684.ts
-#EXTINF:-1 group-title="Taher838",USA Network (ttv)
-http://ttv.bz:80/live/Kenwyn/TJGm5d9YlP/1.ts
 #EXTINF:-1 group-title="Taher838",Universo (ttv)
 http://ttv.bz:80/live/Kenwyn/TJGm5d9YlP/88.ts
 #EXTINF:-1 group-title="Taher838",eleven 2
@@ -1465,6 +1465,8 @@ http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115758&extension
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115762&extension=ts&play_token=f15SJHghJH
 #EXTINF:-1 group-title="Taher838",bt 1 (obs)
 http://obsfullhd.tv:25461/live/OBSKYSHARE/2222DnsYWsFxHksB/2107.ts
+#EXTINF:-1 group-title="Taher838",Fox Sports 2
+https://d17lgdx4t7a4od.cloudfront.net:443/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_155.m3u8
 
 *********************************************  https://github.com/HermesNETgt/a/blob/main/hermesnettv.m3u ***************************************
 
@@ -3112,10 +3114,8 @@ http://50.7.66.234:8080/moontools/6548@89787/1148845
 ****https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.m3u8
 
 *******************************  https://github.com/Danielopez744/loly/blob/main/Lista.m3u   *************************************************
-
-#EXTINF:-1 group-title="RokuTV",  ESPN EXTRA PREMIUM HD
-http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/81684
-
+***** #EXTINF:-1 group-title="RokuTV",  ESPN EXTRA PREMIUM HD
+***** http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/81684
 *******************************    https://raw.githubusercontent.com/jsosao/dann1110_GreatTV/master/TVBOX 2    *****************************************
 ************************  https://raw.githubusercontent.com/dann1110/GreatTV/0e14dcf7106f6eb89651fa9bbb03b2780a378b7c/RokuTV  ***************************
 **********************************   https://raw.githubusercontent.com/bodegaacuenta/Moyobambaastral/main/TVCable  ***********************
