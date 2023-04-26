@@ -4,6 +4,8 @@
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 
 **********************************************************************  TOTAL *****************************************************************
+#EXTINF:-1  group-title="TOTAL", 0001_test
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2298/canal2298.m3u8?totalplay=%2F.ts
 
 #EXTINF:-1  group-title="TOTAL", AZTECA UNO
 ***** http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE05.m3u8
