@@ -1,6 +1,6 @@
 #EXTM3U
 
-************************  26/ABR/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  27/ABR/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS LATAM
@@ -93,6 +93,8 @@ https://linear-301.frequency.stream/dist/vix/301/hls/master/playlist.m3u8
 https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_4.m3u8
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
+#EXTINF:-1 group-title="Bics", N+ MEDIA
+https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", FORO TV
 https://linear-300.frequency.stream/dist/vix/300/hls/master/playlist.m3u8
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
