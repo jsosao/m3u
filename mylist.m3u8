@@ -89,14 +89,13 @@ https://linear-193.frequency.stream/dist/localnow/193/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", Lo Mejor de la Liga MX
 https://linear-452.frequency.stream/452/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", N+
-https://linear-301.frequency.stream/dist/vix/301/hls/master/playlist.m3u8
-https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
+***** https://linear-301.frequency.stream/dist/vix/301/hls/master/playlist.m3u8
+***** https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_4.m3u8
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", N+ MEDIA
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", FORO TV
-https://linear-300.frequency.stream/dist/vix/300/hls/master/playlist.m3u8
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", WEATHER CHANNEL ESPAÑOL
 https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
@@ -241,6 +240,9 @@ http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN
 
 #EXTINF:-1  group-title="Bics Extra", FOX SPORTS
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+#EXTINF:-1  group-title="Bics Extra", FOX SPORTS 2
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
+
 #EXTINF:-1  group-title="Bics Extra", MVS
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1  group-title="Bics Extra", MARIA VISION
