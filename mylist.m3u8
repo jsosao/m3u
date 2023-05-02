@@ -5,6 +5,9 @@
 
 #EXTINF:-1 group-title="Bics", IMAGEN TV
 https://live5-ott.izzigo.tv/out/u/dash/RDF-MTY-Imagen-Television-HD/default.mpd
+#EXTINF:-1 group-title="Bics", IMAGEN TV
+https://v3.playerlatino.live/stream/m3u8/341
+
 
 
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS LATAM
