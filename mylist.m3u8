@@ -19,16 +19,10 @@ https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8
 #EXTINF:-1 group-title="Bics", GOLDEN MULTIPLEX -1HR 
 https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
 https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", GOLDEN MULTIPLEX
-https://linear-409.frequency.stream/dist/vix/409/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", GOLDEN PLUS
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", GOLDEN PREMIER
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", LO MAS VIXTO
-https://linear-446.frequency.stream/dist/vix/446/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", Zona TUDN USA
-https://linear-357.frequency.stream/dist/vix/357/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", NOTICIERO UNIVISION
 https://linear-306.frequency.stream/dist/localnow/306/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", EURO NEWS
@@ -253,10 +247,16 @@ https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
 #EXTINF:-1  group-title="Bics Extra", FOX SPORTS
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+#EXTINF:-1  group-title="Bics Extra", FOX SPORTS MX
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 #EXTINF:-1  group-title="Bics Extra", FOX SPORTS 2
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
+#EXTINF:-1  group-title="Bics Extra", FOX SPORTS 2 MX
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
 #EXTINF:-1  group-title="Bics Extra", FOX SPORTS 3
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+#EXTINF:-1  group-title="Bics Extra", FOX SPORTS 3 MX
+https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd 
 
 #EXTINF:-1  group-title="Bics Extra", Fox Sports Premium
 http://45.190.13.50:8002/play/a002/index.m3u8
