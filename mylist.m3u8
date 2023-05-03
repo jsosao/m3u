@@ -1,11 +1,7 @@
 #EXTM3U
 
-************************  02/MAY/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  03/MAY/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
-
-#EXTINF:-1 group-title="Bics", LAS ESTRELLAS LATAM 2
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79078.ts
-
 
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS LATAM
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
@@ -15,30 +11,11 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
 https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", LAS ESTRELLAS -1HR
-https://linear-414.frequency.stream/dist/vix/414/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", LAS ESTRELLAS -2HR
-https://linear-415.frequency.stream/dist/vix/415/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", NU9VE
-***** https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
-https://linear-352.frequency.stream/dist/vix/352/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", 4 GDL
 https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
 #EXTINF:-1 group-title="Bics", 8 MTY
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8
-#EXTINF:-1 group-title="Bics", AFIZZIONADOS
-https://linear-348.frequency.stream/dist/vix/348/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", DPELICULA
-https://linear-354.frequency.stream/dist/vix/354/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", DPELICULA PLUS
-https://linear-404.frequency.stream/dist/vix/404/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", DISTRITO COMEDIA
-https://linear-405.frequency.stream/dist/vix/405/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", GOLDEN
-https://linear-406.frequency.stream/dist/vix/406/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", GOLDEN EDGE
-https://linear-407.frequency.stream/dist/vix/407/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", GOLDEN MULTIPLEX -1HR 
 https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
 https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
@@ -48,36 +25,12 @@ https://linear-409.frequency.stream/dist/vix/409/hls/master/playlist.m3u8
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", GOLDEN PREMIER
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", TELEHIT
-https://linear-417.frequency.stream/dist/vix/417/hls/master/playlist.m3u8
-https://linear-417.frequency.stream/417/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", TELEHIT PLUS
-https://linear-418.frequency.stream/dist/vix/418/hls/master/playlist.m3u8
-https://linear-418.frequency.stream/418/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", TELEHIT MUSICA PLUS
-https://linear-419.frequency.stream/dist/vix/419/hls/master/playlist.m3u8
-https://linear-419.frequency.stream/419/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", TLNOVELAS
-https://linear-421.frequency.stream/dist/vix/421/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", BANDAMAX
-https://linear-400.frequency.stream/dist/vix/400/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", BITME
-https://linear-401.frequency.stream/dist/vix/401/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", UNICABLE
-https://linear-423.frequency.stream/dist/vix/423/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", BEIN XTRA ESPAÑOL
-https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", ADRENALINA
-https://linear-393.frequency.stream/dist/vix/393/hls/master/playlist.m3u8
-https://linear-393.frequency.stream/393/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", LO MAS VIXTO
 https://linear-446.frequency.stream/dist/vix/446/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", Zona TUDN USA
 https://linear-357.frequency.stream/dist/vix/357/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", NOTICIERO UNIVISION
 https://linear-306.frequency.stream/dist/localnow/306/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", NOTICIAS UNIVISION 24/7
-https://linear-254.frequency.stream/dist/vix/254/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", EURO NEWS
 https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", ATV+ PE
@@ -93,9 +46,6 @@ https://linear-193.frequency.stream/dist/localnow/193/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", Lo Mejor de la Liga MX
 https://linear-452.frequency.stream/452/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", N+
-***** https://linear-301.frequency.stream/dist/vix/301/hls/master/playlist.m3u8
-***** https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
-***** https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_4.m3u8
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", N+ MEDIA
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
@@ -103,23 +53,80 @@ https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", WEATHER CHANNEL ESPAÑOL
 https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", VEVO 1
-https://linear-494.frequency.stream/494/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", VEVO 2
-https://linear-495.frequency.stream/495/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", VEVO 3
-https://linear-388.frequency.stream/388/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", VEVO 4
-https://linear-389.frequency.stream/389/hls/master/playlist.m3u8
-
-
 #EXTINF:-1 group-title="Bics", TIGO SPORTS
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
-
 #EXTINF:-1 group-title="Bics", REAL MADRID TV
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 
 *******************************************************************************************************************************************************************
+#EXTINF:-1  group-title="Bics Extra", DISCOVERY H&H
+https://cotesma02.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
+#EXTINF:-1  group-title="Bics Extra", TRUTV
+https://cotesma02.cdn.rcs.net.ar/mnp/trutv/output.mpd
+#EXTINF:-1  group-title="Bics Extra", DISNEY CHANNEL
+https://cotesma02.cdn.rcs.net.ar/mnp/disney/output.mpd
+#EXTINF:-1  group-title="Bics Extra", DISNEY JUNIOR 
+https://cotesma02.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
+#EXTINF:-1  group-title="Bics Extra", NICK
+https://cotesma02.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
+#EXTINF:-1  group-title="Bics Extra", NICK JR 
+https://cotesma02.cdn.rcs.net.ar/mnp/nickjr/output.mpd
+#EXTINF:-1  group-title="Bics Extra", TOONCAST 
+https://cotesma02.cdn.rcs.net.ar/mnp/tooncast/output.mpd
+#EXTINF:-1  group-title="Bics Extra", BABY TV
+https://cotesma02.cdn.rcs.net.ar/mnp/babytv/output.mpd
+#EXTINF:-1  group-title="Bics Extra", CARTOONITO
+https://cotesma02.cdn.rcs.net.ar/mnp/boomerang/output.mpd
+#EXTINF:-1  group-title="Bics Extra", A&E
+https://cotesma02.cdn.rcs.net.ar/mnp/ae/output.mpd
+#EXTINF:-1  group-title="Bics Extra", CINECANAL 
+https://cotesma02.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
+#EXTINF:-1  group-title="Bics Extra", TNT
+https://cotesma02.cdn.rcs.net.ar/mnp/tnt/output.mpd
+#EXTINF:-1  group-title="Bics Extra", TNT SERIES
+https://cotesma02.cdn.rcs.net.ar/mnp/tntseries/output.mpd
+#EXTINF:-1  group-title="Bics Extra", AXN
+https://cotesma02.cdn.rcs.net.ar/mnp/axn/output.mpd
+#EXTINF:-1  group-title="Bics Extra", SYFY
+https://cotesma02.cdn.rcs.net.ar/mnp/syfy/output.mpd
+#EXTINF:-1  group-title="Bics Extra", FX
+https://cotesma02.cdn.rcs.net.ar/mnp/fx/output.mpd
+#EXTINF:-1  group-title="Bics Extra", SPACE
+https://cotesma02.cdn.rcs.net.ar/mnp/space/output.mpd
+#EXTINF:-1  group-title="Bics Extra", PARAMOUNT NETWORK
+https://cotesma02.cdn.rcs.net.ar/mnp/paramount/output.mpd
+#EXTINF:-1  group-title="Bics Extra", SONY
+https://cotesma02.cdn.rcs.net.ar/mnp/sony/output.mpd
+#EXTINF:-1  group-title="Bics Extra", TBS
+https://cotesma02.cdn.rcs.net.ar/mnp/tbs/output.mpd
+#EXTINF:-1  group-title="Bics Extra", WARNER
+https://cotesma02.cdn.rcs.net.ar/mnp/warner/output.mpd
+#EXTINF:-1  group-title="Bics Extra", TCM
+https://cotesma02.cdn.rcs.net.ar/mnp/tcm/output.mpd
+#EXTINF:-1  group-title="Bics Extra", HISTORY
+https://cotesma02.cdn.rcs.net.ar/mnp/history/output.mpd
+#EXTINF:-1  group-title="Bics Extra", HISTORY 2
+http://tvstarlife.com:25461/live/geovany/geovany/158.m3u8
+#EXTINF:-1  group-title="Bics Extra", DISCOVERY
+https://cotesma02.cdn.rcs.net.ar/mnp/discovery/output.mpd
+#EXTINF:-1  group-title="Bics Extra", ISAT
+https://cotesma02.cdn.rcs.net.ar/mnp/isat/output.mpd
+#EXTINF:-1  group-title="Bics Extra", HTV
+https://cotesma02.cdn.rcs.net.ar/mnp/htv/output.mpd
+#EXTINF:-1  group-title="Bics Extra", MTV
+https://cotesma02.cdn.rcs.net.ar/mnp/mtv/output.mpd
+#EXTINF:-1  group-title="Bics Extra", GOURMET
+https://cotesma02.cdn.rcs.net.ar/mnp/gourmet/output.mpd
+#EXTINF:-1  group-title="Bics Extra", DISCOVERY TURBO
+https://cotesma02.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd
+#EXTINF:-1  group-title="Bics Extra", DISCOVERY WORLD
+https://cotesma02.cdn.rcs.net.ar/mnp/disc_world/output.mpd
+#EXTINF:-1  group-title="Bics Extra", DISCOVERY KIDS
+https://cotesma02.cdn.rcs.net.ar/mnp/disc_kids/output.mpd
+#EXTINF:-1  group-title="Bics Extra", GLITZ
+https://cotesma02.cdn.rcs.net.ar/mnp/glitz/output.mpd
+#EXTINF:-1  group-title="Bics Extra", Telemundo Internacional
+https://cotesma02.cdn.rcs.net.ar/mnp/telemundo/output.mpd
 
 #EXTINF:-1 group-title="Bics Extra", LAS ESTRELLAS
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
@@ -160,18 +167,26 @@ https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", RCN Mas+ CO
 https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics Extra", TELEMUNDO PR
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 group-title="Bics Extra", AMERICA AR
+https://cotesma02.cdn.rcs.net.ar/mnp/america/output.mpd
+#EXTINF:-1 group-title="Bics Extra", TELEFE AR
+https://cotesma02.cdn.rcs.net.ar/mnp/telefe/output.mpd
+#EXTINF:-1 group-title="Bics Extra", CINCO TV AR
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Bics Extra", C5N AR
+https://cotesma02.cdn.rcs.net.ar/mnp/c5n/output.mpd
+#EXTINF:-1 group-title="Bics Extra", LA NACION+ AR
+https://cotesma02.cdn.rcs.net.ar/mnp/lnmas/output.mpd
 #EXTINF:-1 group-title="Bics Extra", TELEMUNDO CA
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 group-title="Bics Extra", TELEMUNDO PR
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 group-title="Bics Extra", TELE ONCE PR
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANAL 34 PR
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANAL 11 HN
 https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
-#EXTINF:-1 group-title="Bics Extra", CINCO TV AR
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Bics Extra", TVMAX PA
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
 #EXTINF:-1 group-title="Bics Extra", TVMAX PA
@@ -230,15 +245,11 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 group-title="Bics Extra", NBC NEWS
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 
-
 #EXTINF:-1 group-title="Bics Extra", RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
 
-
-
 #EXTINF:-1 group-title="Bics Extra", ATRES CINE
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
-
 
 #EXTINF:-1  group-title="Bics Extra", FOX SPORTS
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
@@ -266,7 +277,27 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPNMAS/40-hls/live-media.m3u
 #EXTINF:-1  group-title="Bics Extra", ESPN 2 || GUATEMALA
 http://45.190.13.50:8003/play/a01g/index.m3u8
 
+#EXTINF:-1  group-title="Bics Extra", TYC SPORTS AR
+https://cotesma02.cdn.rcs.net.ar/mnp/tyc/output.mpd
 
+#EXTINF:-1  group-title="Bics Extra", ESPN AR
+https://cotesma02.cdn.rcs.net.ar/mnp/espn/output.mpd
+#EXTINF:-1  group-title="Bics Extra", ESPN 2 AR
+https://cotesma02.cdn.rcs.net.ar/mnp/espn2/output.mpd
+#EXTINF:-1  group-title="Bics Extra", ESPN 3 AR
+https://cotesma02.cdn.rcs.net.ar/mnp/espn3/output.mpd
+
+#EXTINF:-1  group-title="Bics Extra", ESPN EXTRA AR
+https://cotesma02.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
+
+#EXTINF:-1  group-title="Bics Extra", FOX SPORTS AR
+https://cotesma02.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
+#EXTINF:-1  group-title="Bics Extra", FOX SPORTS 2 AR
+https://cotesma02.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
+#EXTINF:-1  group-title="Bics Extra", FOX SPORTS 3 AR
+https://cotesma02.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
+#EXTINF:-1  group-title="Bics Extra", ESPN PREMIUM AR
+https://cotesma02.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 
 
 *******************************  https://raw.githubusercontent.com/jsosao/mortal251_ssiptvarg/main/jlm3uargentinaygratuita.m3u   *************************************************
