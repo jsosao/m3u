@@ -5,11 +5,7 @@
 
 
 #EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",ImagenTv HD (p)
-http://live.budtvlight.com:25461/Luna001/18dabf00/30354
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",ImagenTv (i)
-http://live.budtvlight.com:25461/Luna001/18dabf00/37799
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",ImagenTv SD (p)
-http://live.budtvlight.com:25461/Luna001/18dabf00/32403
+https://v3.playerlatino.live/stream/m3u8/341|user-agent=Lavf/57.71.001
 
 
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS LATAM
