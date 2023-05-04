@@ -6,6 +6,9 @@
 
 #EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",ImagenTv HD (p)
 https://v3.playerlatino.live/stream/m3u8/341|user-agent=Lavf/57.71.001
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",ImagenTv HD
+http://flash.shortgod.com/maestrope/tv2.php?id=65&token=ShortGod&file=.m3u8
+
 
 
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS LATAM
