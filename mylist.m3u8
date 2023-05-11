@@ -1,6 +1,6 @@
 #EXTM3U
 
-************************  04/MAY/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  11/MAY/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS LATAM
@@ -53,75 +53,6 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 
 *******************************************************************************************************************************************************************
-#EXTINF:-1  group-title="Bics Extra", DISCOVERY H&H
-https://cotesma02.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
-#EXTINF:-1  group-title="Bics Extra", TRUTV
-https://cotesma02.cdn.rcs.net.ar/mnp/trutv/output.mpd
-#EXTINF:-1  group-title="Bics Extra", DISNEY CHANNEL
-https://cotesma02.cdn.rcs.net.ar/mnp/disney/output.mpd
-#EXTINF:-1  group-title="Bics Extra", DISNEY JUNIOR 
-https://cotesma02.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
-#EXTINF:-1  group-title="Bics Extra", NICK
-https://cotesma02.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
-#EXTINF:-1  group-title="Bics Extra", NICK JR 
-https://cotesma02.cdn.rcs.net.ar/mnp/nickjr/output.mpd
-#EXTINF:-1  group-title="Bics Extra", TOONCAST 
-https://cotesma02.cdn.rcs.net.ar/mnp/tooncast/output.mpd
-#EXTINF:-1  group-title="Bics Extra", BABY TV
-https://cotesma02.cdn.rcs.net.ar/mnp/babytv/output.mpd
-#EXTINF:-1  group-title="Bics Extra", CARTOONITO
-https://cotesma02.cdn.rcs.net.ar/mnp/boomerang/output.mpd
-#EXTINF:-1  group-title="Bics Extra", A&E
-https://cotesma02.cdn.rcs.net.ar/mnp/ae/output.mpd
-#EXTINF:-1  group-title="Bics Extra", CINECANAL 
-https://cotesma02.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
-#EXTINF:-1  group-title="Bics Extra", TNT
-https://cotesma02.cdn.rcs.net.ar/mnp/tnt/output.mpd
-#EXTINF:-1  group-title="Bics Extra", TNT SERIES
-https://cotesma02.cdn.rcs.net.ar/mnp/tntseries/output.mpd
-#EXTINF:-1  group-title="Bics Extra", AXN
-https://cotesma02.cdn.rcs.net.ar/mnp/axn/output.mpd
-#EXTINF:-1  group-title="Bics Extra", SYFY
-https://cotesma02.cdn.rcs.net.ar/mnp/syfy/output.mpd
-#EXTINF:-1  group-title="Bics Extra", FX
-https://cotesma02.cdn.rcs.net.ar/mnp/fx/output.mpd
-#EXTINF:-1  group-title="Bics Extra", SPACE
-https://cotesma02.cdn.rcs.net.ar/mnp/space/output.mpd
-#EXTINF:-1  group-title="Bics Extra", PARAMOUNT NETWORK
-https://cotesma02.cdn.rcs.net.ar/mnp/paramount/output.mpd
-#EXTINF:-1  group-title="Bics Extra", SONY
-https://cotesma02.cdn.rcs.net.ar/mnp/sony/output.mpd
-#EXTINF:-1  group-title="Bics Extra", TBS
-https://cotesma02.cdn.rcs.net.ar/mnp/tbs/output.mpd
-#EXTINF:-1  group-title="Bics Extra", WARNER
-https://cotesma02.cdn.rcs.net.ar/mnp/warner/output.mpd
-#EXTINF:-1  group-title="Bics Extra", TCM
-https://cotesma02.cdn.rcs.net.ar/mnp/tcm/output.mpd
-#EXTINF:-1  group-title="Bics Extra", HISTORY
-https://cotesma02.cdn.rcs.net.ar/mnp/history/output.mpd
-#EXTINF:-1  group-title="Bics Extra", HISTORY 2
-http://tvstarlife.com:25461/live/geovany/geovany/158.m3u8
-#EXTINF:-1  group-title="Bics Extra", DISCOVERY
-https://cotesma02.cdn.rcs.net.ar/mnp/discovery/output.mpd
-#EXTINF:-1  group-title="Bics Extra", ISAT
-https://cotesma02.cdn.rcs.net.ar/mnp/isat/output.mpd
-#EXTINF:-1  group-title="Bics Extra", HTV
-https://cotesma02.cdn.rcs.net.ar/mnp/htv/output.mpd
-#EXTINF:-1  group-title="Bics Extra", MTV
-https://cotesma02.cdn.rcs.net.ar/mnp/mtv/output.mpd
-#EXTINF:-1  group-title="Bics Extra", GOURMET
-https://cotesma02.cdn.rcs.net.ar/mnp/gourmet/output.mpd
-#EXTINF:-1  group-title="Bics Extra", DISCOVERY TURBO
-https://cotesma02.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd
-#EXTINF:-1  group-title="Bics Extra", DISCOVERY WORLD
-https://cotesma02.cdn.rcs.net.ar/mnp/disc_world/output.mpd
-#EXTINF:-1  group-title="Bics Extra", DISCOVERY KIDS
-https://cotesma02.cdn.rcs.net.ar/mnp/disc_kids/output.mpd
-#EXTINF:-1  group-title="Bics Extra", GLITZ
-https://cotesma02.cdn.rcs.net.ar/mnp/glitz/output.mpd
-#EXTINF:-1  group-title="Bics Extra", Telemundo Internacional
-https://cotesma02.cdn.rcs.net.ar/mnp/telemundo/output.mpd
-
 #EXTINF:-1 group-title="Bics Extra", LAS ESTRELLAS
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 #EXTINF:-1 group-title="Bics Extra", LAS ESTRELLAS
@@ -161,16 +92,10 @@ https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", RCN Mas+ CO
 https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics Extra", AMERICA AR
-https://cotesma02.cdn.rcs.net.ar/mnp/america/output.mpd
 #EXTINF:-1 group-title="Bics Extra", TELEFE AR
-https://cotesma02.cdn.rcs.net.ar/mnp/telefe/output.mpd
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=796275211&_cdn_timestamp=1683980672&_cdn_token=bbea422a5549c9fcde1f70a9e3fd07336ae644b8
 #EXTINF:-1 group-title="Bics Extra", CINCO TV AR
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Bics Extra", C5N AR
-https://cotesma02.cdn.rcs.net.ar/mnp/c5n/output.mpd
-#EXTINF:-1 group-title="Bics Extra", LA NACION+ AR
-https://cotesma02.cdn.rcs.net.ar/mnp/lnmas/output.mpd
 #EXTINF:-1 group-title="Bics Extra", TELEMUNDO CA
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 group-title="Bics Extra", TELEMUNDO PR
@@ -202,11 +127,11 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8
 #EXTINF:-1 group-title="Bics Extra", TICAVISION CR
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1  group-title="Bics Extra", GLOBAL PE
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=775952547&_cdn_timestamp=1683436800&_cdn_token=7989fad495116a654c26fa5bfb7be1f0b99dd4c3
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=801745651&_cdn_timestamp=1684128914&_cdn_token=24e8151dad6857a824f3e43153e6034a83f3b154
 #EXTINF:-1  group-title="Bics Extra", PANAMERICANA PE
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=775945171&_cdn_timestamp=1683436527&_cdn_token=f0114f5f0eb98c24c4e94d375b79e496eb2920c3
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=801742443&_cdn_timestamp=1684128717&_cdn_token=c14339cdd9fd0798cecad3a867b529c09311416e
 #EXTINF:-1  group-title="Bics Extra", AMERICA TELEVISION PE
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=775944187&_cdn_timestamp=1683436492&_cdn_token=c228d027e3ee5f580ebedc54d2fcd55b19cca96d
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=801741475&_cdn_timestamp=1684128676&_cdn_token=6544c33d59a80cdfcc80f0b46ebe6bd359b46f36
 #EXTINF:-1 group-title="Bics Extra", TELE 13 CL
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", TELE 13 ENTRETENCION CL
@@ -238,10 +163,8 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 group-title="Bics Extra", NBC NEWS
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
-
 #EXTINF:-1 group-title="Bics Extra", RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 group-title="Bics Extra", ATRES CINE
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
@@ -255,44 +178,21 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/in
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
 #EXTINF:-1  group-title="Bics Extra", FOX SPORTS 3 MX
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd 
-#EXTINF:-1  group-title="Bics Extra", Fox Sports Premium
-http://45.190.13.50:8002/play/a002/index.m3u8
 
 #EXTINF:-1  group-title="Bics Extra",  Fox Sports 2 USA
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=776004707&_cdn_timestamp=1683438804&_cdn_token=16e2b5074abc138c81523c6759f91467e3b06e07
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=796248387&_cdn_timestamp=1683979868&_cdn_token=b07be3a6c4b15ccf512ff60f6cdb80d68f7db143
 #EXTINF:-1  group-title="Bics Extra", Fox Sports 3 USA
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=776004971&_cdn_timestamp=1683438817&_cdn_token=7575a8ddd14f926ce52e859e67193a4cb5021463
-#EXTINF:-1  group-title="Bics Extra", FOX DEPORTES USA
-https://csm-e-cetubiausw2live204-02912d69bd42cf040.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
-
-#EXTINF:-1  group-title="Bics Extra", ESPN AR
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=776006443&_cdn_timestamp=1683438872&_cdn_token=6f3a71e50c8c0ca7d548bfa966fcdba3ee08b5f1
-#EXTINF:-1  group-title="Bics Extra", ESPN 2 AR
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=776006571&_cdn_timestamp=1683438879&_cdn_token=06fbe713d1bc4b6622dc7b3b5a802ad6fcac3fc3
-#EXTINF:-1  group-title="Bics Extra", ESPN 3 AR
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=776006867&_cdn_timestamp=1683438894&_cdn_token=df87fc051feba87d84871a48b588fe7ff4d15199
-#EXTINF:-1  group-title="Bics Extra", ESPN 4 AR
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=776007163&_cdn_timestamp=1683438907&_cdn_token=9ed0d4bfeed0ed74620636ec81d0bad6f330c693
-#EXTINF:-1  group-title="Bics Extra", ESPN Extra AR
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPNMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPNMAS2_stream_l4&_cdn_session=767036419&_cdn_timestamp=1683210090&_cdn_token=a31918a8d87f7cc4ed4f9dadc648d71ec75c0d09
-#EXTINF:-1  group-title="Bics Extra", TYC SPORTS AR
-https://cotesma02.cdn.rcs.net.ar/mnp/tyc/output.mpd
-#EXTINF:-1  group-title="Bics Extra", ESPN AR
-https://cotesma02.cdn.rcs.net.ar/mnp/espn/output.mpd
-#EXTINF:-1  group-title="Bics Extra", ESPN 2 AR
-https://cotesma02.cdn.rcs.net.ar/mnp/espn2/output.mpd
-#EXTINF:-1  group-title="Bics Extra", ESPN 3 AR
-https://cotesma02.cdn.rcs.net.ar/mnp/espn3/output.mpd
-#EXTINF:-1  group-title="Bics Extra", ESPN EXTRA AR
-https://cotesma02.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
-#EXTINF:-1  group-title="Bics Extra", ESPN PREMIUM AR
-https://cotesma02.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
-#EXTINF:-1  group-title="Bics Extra", FOX SPORTS AR
-https://cotesma02.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
-#EXTINF:-1  group-title="Bics Extra", FOX SPORTS 2 AR
-https://cotesma02.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
-#EXTINF:-1  group-title="Bics Extra", FOX SPORTS 3 AR
-https://cotesma02.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=796248659&_cdn_timestamp=1683979875&_cdn_token=36993769e3b0aaf88fe61bec673a683dd719fc22
+#EXTINF:-1  group-title="Bics Extra", ESPN USA
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=796249691&_cdn_timestamp=1683979907&_cdn_token=b77305583ed6ab5db4cc48342258b25c5399d892
+#EXTINF:-1  group-title="Bics Extra", ESPN 2 USA
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=796249939&_cdn_timestamp=1683979914&_cdn_token=b852314a442f7d5464cede300518a135b4f1757d
+#EXTINF:-1  group-title="Bics Extra", ESPN 3 USA
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=796250571&_cdn_timestamp=1683979934&_cdn_token=4deba79deefb99e95015655523af6c74eb2695fb
+#EXTINF:-1  group-title="Bics Extra", ESPN 4 USA
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=796251083&_cdn_timestamp=1683979952&_cdn_token=d08aa447cd64eb41d51547f36fe10a9501d4ec19
+#EXTINF:-1  group-title="Bics Extra", ESPN EXTRA USA
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPNMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPNMAS2_stream_l4&_cdn_session=796251267&_cdn_timestamp=1683979958&_cdn_token=e3a88daac7acbbd999e2b7862c2f96c3d0f25cfd
 
 *******************************  https://raw.githubusercontent.com/jsosao/mortal251_ssiptvarg/main/jlm3uargentinaygratuita.m3u   *************************************************
 
