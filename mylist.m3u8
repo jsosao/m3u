@@ -976,6 +976,103 @@ http://obsfullhd.tv:25461/live/OBSKYSHARE/2222DnsYWsFxHksB/2107.ts
 #EXTINF:-1 group-title="Taher838",Fox Sports 2
 https://d17lgdx4t7a4od.cloudfront.net:443/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_155.m3u8
 
+*********************************************  https://raw.githubusercontent.com/app2tv/M3U8/master/All.m3u ***************************************
+
+#EXTINF:-1 group-title="App2tv", ESPN
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/espn.us.m3u8
+#EXTINF:-1 group-title="App2tv", ESPN 2
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/espn2.us.m3u8
+#EXTINF:-1 group-title="App2tv", ESPN U
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/espn.u.us.m3u8
+#EXTINF:-1 group-title="App2tv", ESPNEWS
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/espn.news.us.m3u8
+
+#EXTINF:-1 group-title="App2tv", MLB Network
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/mlb.network.us.m3u8
+#EXTINF:-1 group-title="App2tv", NBA TV
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/nba.tv.usa.us.m3u8
+#EXTINF:-1 group-title="App2tv", NFL Network
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/nfl.network.us.m3u8
+#EXTINF:-1 group-title="App2tv", NHL Network
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/nhl.network.usa.us.m3u8
+
+#EXTINF:-1 group-title="App2tv", HBO
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.eastern.us.m3u8
+#EXTINF:-1 group-title="App2tv", HBO 2
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.2.eastern.us.m3u8
+#EXTINF:-1 group-title="App2tv", HBO Signature
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.signature.hbo.3.eastern.us.m3u8
+#EXTINF:-1 group-title="App2tv", HBO Family
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.family.eastern.us.m3u8
+#EXTINF:-1 group-title="App2tv", HBO Comedy
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.comedy.east.us.m3u8
+#EXTINF:-1 group-title="App2tv", HBO Zone
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.zone.east.us.m3u8
+#EXTINF:-1 group-title="App2tv", CINEMAX
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/cinemax.eastern.us.m3u8
+#EXTINF:-1 group-title="App2tv", ActionMAX
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/actionmax.eastern.us.m3u8
+#EXTINF:-1 group-title="App2tv", 5 Star MAX
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/5.star.max.eastern.us.m3u8
+#EXTINF:-1 group-title="App2tv", ThrillerMAX
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/thrillermax.east.us.m3u8
+#EXTINF:-1 group-title="App2tv", MoreMAX
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/moremax.eastern.us.m3u8
+#EXTINF:-1 group-title="App2tv", MovieMAX
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/moviemax.us.m3u8
+#EXTINF:-1 group-title="App2tv", OuterMAX
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/outermax.eastern.us.m3u8
+#EXTINF:-1 group-title="App2tv", Starz
+https://tvnow.best/api/stream/alex_079@hotmail.com/975248/livetv.epg/starz.eastern.us.m3u8
+#EXTINF:-1 group-title="App2tv", Starz Edge
+https://tvnow.best/api/stream/alex_079@hotmail.com/975248/livetv.epg/starz.edge.eastern.us.m3u8
+#EXTINF:-1 group-title="App2tv", Starz Cinema
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/starz.cinema.eastern.us.m3u8
+#EXTINF:-1 group-title="App2tv", Starz in Black
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/starz.in.black.eastern.us.m3u8
+#EXTINF:-1 group-title="App2tv", Starz Comedy
+https://tvnow.best/api/stream/lt4383@gmail.com/755909/livetv.epg/starz.comedy.eastern.us.m3u8
+#EXTINF:-1 group-title="App2tv", Starz Kids & Family
+https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/starz.kids.family.eastern.us.m3u8
+#EXTINF:-1 group-title="App2tv", Starz Encore
+https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/starz.encore.eastern.us.m3u8
+#EXTINF:-1 group-title="App2tv", Starz Encore Black
+https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/starz.encore.black.eastern.us.m3u8
+#EXTINF:-1 group-title="App2tv", Starz Encore Action
+https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/starz.encore.action.eastern.us.m3u8
+#EXTINF:-1 group-title="App2tv", Starz Encore Suspense
+https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/starz.encore.suspense.eastern.us.m3u8
+
+#EXTINF:-1 group-title="App2tv", Showtime
+https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/showtime.eastern.us.m3u8
+#EXTINF:-1 group-title="App2tv", Showtime 2
+https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/showtime.2.eastern.us.m3u8
+#EXTINF:-1 group-title="App2tv", SHOXBET
+https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/shoxbet.eastern.us.m3u8
+#EXTINF:-1 group-title="App2tv", Showtime Extreme
+https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/showtime.extreme.eastern.us.m3u8
+#EXTINF:-1 group-title="App2tv", Showtime Showcase
+https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/showtime.showcase.eastern.us.m3u8
+#EXTINF:-1 group-title="App2tv", Showtime Next
+https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/showtime.next.eastern.us.m3u8
+#EXTINF:-1 group-title="App2tv", Showtime Family Zone
+https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/showtime.family.zone.eastern.us.m3u8
+
+
+#EXTINF:-1 group-title="App2tv", Showtime
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/showtime.eastern.us.m3u8
+#EXTINF:-1 group-title="App2tv", howtime 2
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/showtime.2.eastern.us.m3u8
+#EXTINF:-1 group-title="App2tv", SHOXBET
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/shoxbet.eastern.us.m3u8
+#EXTINF:-1 group-title="App2tv", Showtime Extreme
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/showtime.extreme.eastern.us.m3u8
+#EXTINF:-1 group-title="App2tv", Showtime Showcase
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/showtime.showcase.eastern.us.m3u8
+#EXTINF:-1 group-title="App2tv", Showtime Next
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/showtime.next.eastern.us.m3u8
+#EXTINF:-1 group-title="App2tv", Showtime Family Zone
+https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/showtime.family.zone.eastern.us.m3u8
 
 * SEGUIR Y BUSCAR *************************************  https://github.com/HermesNETgt/a/blob/main/hermesnettv.m3u ***************************************
 
