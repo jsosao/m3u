@@ -169,6 +169,9 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
 ******************************* DEPORTES **********************************************
+#EXTINF:-1  group-title="Bics Extra", TUDN MX
+http://190.61.102.67:31589/play/a08j/index.m3u8
+
 
 #EXTINF:-1  group-title="Bics Extra", FOX SPORTS MX
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
