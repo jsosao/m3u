@@ -1,6 +1,6 @@
 #EXTM3U
 
-************************  26/MAY/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  30/MAY/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS LATAM
@@ -119,7 +119,6 @@ https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/60580
 https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANAL 12 SV
 https://do0b1lvn4z8ni.cloudfront.net/hls/canal12.m3u8
-
 #EXTINF:-1 group-title="Bics Extra", CANAL 2 CR
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANAL 4 CR
@@ -128,15 +127,14 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal4.m3u8
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANAL 11 CR
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8
-
 #EXTINF:-1 group-title="Bics Extra", TICAVISION CR
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1  group-title="Bics Extra", GLOBAL PE
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=845146635&_cdn_timestamp=1685502120&_cdn_token=d5863a358b34022fcf51774c5d26ae9d02787d0e
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=851030867&_cdn_timestamp=1685719285&_cdn_token=9a1b16953f19457e96be457de726b2941fa2ad19
 #EXTINF:-1  group-title="Bics Extra", PANAMERICANA PE
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=845130867&_cdn_timestamp=1685501826&_cdn_token=7b358a262f4375d0c1fc996254f356a45859aeec
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=851023059&_cdn_timestamp=1685719114&_cdn_token=be80ab82cee22970f91a323091efc4b055a0f67f
 #EXTINF:-1  group-title="Bics Extra", AMERICA TELEVISION PE
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=845129939&_cdn_timestamp=1685501807&_cdn_token=14bb320b2c2cb07ed651271aedbba8206b32e65d
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=851021555&_cdn_timestamp=1685719065&_cdn_token=b7d127e4f0dd2fe84c09a8ff5a0a1a875f6bf579
 #EXTINF:-1 group-title="Bics Extra", TELE 13 CL
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", 24 HORAS CL
@@ -164,6 +162,8 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 group-title="Bics Extra", NBC NEWS
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra", CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="Bics Extra", RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Bics Extra", ATRES CINE
@@ -172,7 +172,6 @@ https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 ******************************* DEPORTES **********************************************
 #EXTINF:-1  group-title="Bics Extra", TUDN MX
 http://190.61.102.67:31589/play/a08j/index.m3u8
-
 
 #EXTINF:-1  group-title="Bics Extra", FOX SPORTS MX
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
@@ -184,19 +183,19 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd 
 
 #EXTINF:-1  group-title="Bics Extra",  Fox Sports 2 USA
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=845168659&_cdn_timestamp=1685502345&_cdn_token=e5cdd48f0fed6dda1b5f703aeb9f15356b4b270f
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=851089595&_cdn_timestamp=1685720826&_cdn_token=bf977eb9378d1ab2e61add752379148802c3428e
 #EXTINF:-1  group-title="Bics Extra", Fox Sports 3 USA
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=845168659&_cdn_timestamp=1685502345&_cdn_token=e5cdd48f0fed6dda1b5f703aeb9f15356b4b270f
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=851089811&_cdn_timestamp=1685720832&_cdn_token=5ccccc9748ad3e1da43f022be43b2c6b029662bd
 #EXTINF:-1  group-title="Bics Extra", ESPN USA
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPN/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=845169579&_cdn_timestamp=1685502366&_cdn_token=fd36abdda61a5ae99b1447d80b7ec2c2292b5c35
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=851094115&_cdn_timestamp=1685720943&_cdn_token=0854785c5056b821968bedf83bbfb61f2c9e9283
 #EXTINF:-1  group-title="Bics Extra", ESPN 2 USA
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=845170187&_cdn_timestamp=1685502377&_cdn_token=d8f95d45177ae10002938f7c5cf3927af829603c
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=851096379&_cdn_timestamp=1685720993&_cdn_token=20f0c974fd3e88112a8893085923a942b7052f48
 #EXTINF:-1  group-title="Bics Extra", ESPN 3 USA
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=845170891&_cdn_timestamp=1685502393&_cdn_token=f5b3ac149a04f17ed256908978ced0d454d09946
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=851095827&_cdn_timestamp=1685720983&_cdn_token=38175b2193fab2f014ff73d92008aa82203d7e06
 #EXTINF:-1  group-title="Bics Extra", ESPN 4 USA
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=845172195&_cdn_timestamp=1685502417&_cdn_token=117ef02e96f25916fa06f2603a674f536b6f28b5
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=851104195&_cdn_timestamp=1685721242&_cdn_token=38fea22d36ec30582a88840c6995bfe042a874bd
 #EXTINF:-1  group-title="Bics Extra", ESPN EXTRA USA
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPNMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPNMAS2_stream_l4&_cdn_session=845173371&_cdn_timestamp=1685502435&_cdn_token=ff0c09e1dc3b07a2d97802a4d59f52897fc2fe30
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPNMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPNMAS2_stream_l4&_cdn_session=851104523&_cdn_timestamp=1685721250&_cdn_token=0caa67db8b2ba5ba71e62b6d740db701beb3b9c9
 
 *******************************  https://raw.githubusercontent.com/jsosao/mortal251_ssiptvarg/main/jlm3uargentinaygratuita.m3u   *************************************************
 
@@ -612,192 +611,6 @@ http://190.60.39.62:8000/play/a0bb
 
 ****************************************  https://github.com/atim2515/ATIM_BOSTON/blob/main/CABLE%20KINGS   ****************************
 
-#EXTINF:-1  group-title="CABLE KINGS", BOOMERANG
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418036
-#EXTINF:-1  group-title="CABLE KINGS", Cartoon Network
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418037
-#EXTINF:-1  group-title="CABLE KINGS", Cinemax
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418077
-#EXTINF:-1  group-title="CABLE KINGS", Cinemax 5 StarMax
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418081
-#EXTINF:-1  group-title="CABLE KINGS", Cinemax ActionMax
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418104
-#EXTINF:-1  group-title="CABLE KINGS", Cinemax MoreMax
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418078
-#EXTINF:-1  group-title="CABLE KINGS", Cinemax MovieMax
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418082
-#EXTINF:-1  group-title="CABLE KINGS", Cinemax OuterMax
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418080
-#EXTINF:-1  group-title="CABLE KINGS", Cinemax ThrillerMax
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418105
-#EXTINF:-1  group-title="CABLE KINGS", Discovery Channel
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418001
-#EXTINF:-1  group-title="CABLE KINGS", Discovery Family Channel
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418000
-#EXTINF:-1  group-title="CABLE KINGS", Discovery Life
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418002
-#EXTINF:-1  group-title="CABLE KINGS", Discovery Science
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418458
-#EXTINF:-1  group-title="CABLE KINGS", Discovery Velocity
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418009
-#EXTINF:-1  group-title="CABLE KINGS", Disney Channel
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418033
-#EXTINF:-1  group-title="CABLE KINGS", Disney JR
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418460
-#EXTINF:-1  group-title="CABLE KINGS", Disney XD
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418034
-#EXTINF:-1  group-title="CABLE KINGS", Food Network
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/417885
-#EXTINF:-1  group-title="CABLE KINGS", FOX
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/424637
-#EXTINF:-1  group-title="CABLE KINGS", HBO
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418057
-#EXTINF:-1  group-title="CABLE KINGS", HBO 2
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418058
-#EXTINF:-1  group-title="CABLE KINGS", HBO Comedy
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418059
-#EXTINF:-1  group-title="CABLE KINGS", HBO Family
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418060
-#EXTINF:-1  group-title="CABLE KINGS", HBO Signature
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/419291
-#EXTINF:-1  group-title="CABLE KINGS", HBO Zone
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418092
-#EXTINF:-1  group-title="CABLE KINGS", National Geographic Channel
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418006
-#EXTINF:-1  group-title="CABLE KINGS", Nat Geo Wild
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418005
-#EXTINF:-1  group-title="CABLE KINGS", NBC
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/424639
-#EXTINF:-1  group-title="CABLE KINGS", Nick Jr
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/419274
-#EXTINF:-1  group-title="CABLE KINGS", Nickelodeon
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418039
-#EXTINF:-1  group-title="CABLE KINGS", NickToons
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418032
-#EXTINF:-1  group-title="CABLE KINGS", Paramount Network
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/417902
-#EXTINF:-1  group-title="CABLE KINGS", Showtime
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418064
-#EXTINF:-1  group-title="CABLE KINGS", Showtime 2
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418103
-#EXTINF:-1  group-title="CABLE KINGS", Showtime Extreme
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418065
-#EXTINF:-1  group-title="CABLE KINGS", Showtime Family Zone
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418066
-#EXTINF:-1  group-title="CABLE KINGS", Showtime Next
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418067
-#EXTINF:-1  group-title="CABLE KINGS", Showtime Showcase
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418068
-#EXTINF:-1  group-title="CABLE KINGS", Showtime Women
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418069
-#EXTINF:-1  group-title="CABLE KINGS", Sony Movies Channel
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418070
-#EXTINF:-1  group-title="CABLE KINGS", Starz
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418054
-#EXTINF:-1  group-title="CABLE KINGS", Starz 1
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418511
-#EXTINF:-1  group-title="CABLE KINGS", Starz 2
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418512
-#EXTINF:-1  group-title="CABLE KINGS", Starz Cinema
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418071
-#EXTINF:-1  group-title="CABLE KINGS", Starz Comedy
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418437
-#EXTINF:-1  group-title="CABLE KINGS", Starz Edge
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418073
-#EXTINF:-1  group-title="CABLE KINGS", Starz Encore
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418051
-#EXTINF:-1  group-title="CABLE KINGS", Starz Encore Action
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418047
-#EXTINF:-1  group-title="CABLE KINGS", Starz Encore Black
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418048
-#EXTINF:-1  group-title="CABLE KINGS", Starz Encore Classic
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418049
-#EXTINF:-1  group-title="CABLE KINGS", Starz Encore Family
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418050
-#EXTINF:-1  group-title="CABLE KINGS", Starz Encore Suspense
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418052
-#EXTINF:-1  group-title="CABLE KINGS", Starz Encore Westerns
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/419306
-#EXTINF:-1  group-title="CABLE KINGS", Starz Kids Family
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418075
-#EXTINF:-1  group-title="CABLE KINGS", Starz in Black
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418074
-#EXTINF:-1  group-title="CABLE KINGS", TeenNick
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/418030
-
-#EXTINF:-1  group-title="CABLE KINGS", CCTV4
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497652
-#EXTINF:-1  group-title="CABLE KINGS", Astro Supersport
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497612
-#EXTINF:-1  group-title="CABLE KINGS", Astro Supersport 2
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497614
-#EXTINF:-1  group-title="CABLE KINGS", Astro Supersport 3
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497617
-#EXTINF:-1  group-title="CABLE KINGS", Astro Supersport 4
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497620
-#EXTINF:-1  group-title="CABLE KINGS", Astro Supersport 5
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497623
-#EXTINF:-1  group-title="CABLE KINGS", LIVE Astro SuperSport Events 3 HD
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497697
-#EXTINF:-1  group-title="CABLE KINGS", LIVE Astro SuperSport Events 4 HD
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497698
-#EXTINF:-1  group-title="CABLE KINGS", LIVE Astro SuperSport Events 5 HD
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497699
-#EXTINF:-1  group-title="CABLE KINGS", LIVE Astro SuperSport Events 6 HD
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497700
-#EXTINF:-1  group-title="CABLE KINGS", Arena
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497595
-#EXTINF:-1  group-title="CABLE KINGS", beIN Sports
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497639
-#EXTINF:-1  group-title="CABLE KINGS", beIN Sports 2
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497640
-#EXTINF:-1  group-title="CABLE KINGS", beIN Sports 3
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497642
-#EXTINF:-1  group-title="CABLE KINGS", beIN Sports 4
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497589
-#EXTINF:-1  group-title="CABLE KINGS", beIN Sports 5
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497586
-#EXTINF:-1  group-title="CABLE KINGS", Eurosport
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497672
-#EXTINF:-1  group-title="CABLE KINGS", SPOTV
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497719
-#EXTINF:-1  group-title="CABLE KINGS", SPOTV2
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497721
-#EXTINF:-1  group-title="CABLE KINGS", ANIMAL PLANET
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497584
-#EXTINF:-1  group-title="CABLE KINGS", AXN
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497638
-#EXTINF:-1  group-title="CABLE KINGS", BOOMERANG
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497649
-#EXTINF:-1  group-title="CABLE KINGS", CARTOON NTWK
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497650
-#EXTINF:-1  group-title="CABLE KINGS", CINEMAX
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497656
-#EXTINF:-1  group-title="CABLE KINGS", HBO Family
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497683
-#EXTINF:-1  group-title="CABLE KINGS", HBO Hits
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497684
-#EXTINF:-1  group-title="CABLE KINGS", HBO
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497682
-#EXTINF:-1  group-title="CABLE KINGS", HISTORY
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497686
-#EXTINF:-1  group-title="CABLE KINGS", ONE
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497709
-#EXTINF:-1  group-title="CABLE KINGS", PRIMEtime
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497713
-#EXTINF:-1  group-title="CABLE KINGS", Paramount
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497711
-#EXTINF:-1  group-title="CABLE KINGS", Showcase Movies
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497717
-#EXTINF:-1  group-title="CABLE KINGS", TVN
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497735
-#EXTINF:-1  group-title="CABLE KINGS", TVN Movies
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497737
-#EXTINF:-1  group-title="CABLE KINGS", WARNER TV
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497742
-#EXTINF:-1  group-title="CABLE KINGS", WWE NETWORK
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497743
-
 #EXTINF:-1  group-title="CABLE KINGS IPTV", ANIMAL PLANET
 http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577882
 #EXTINF:-1  group-title="CABLE KINGS IPTV", ANIMAL PLNT +1
@@ -1061,10 +874,9 @@ https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/showtime.n
 #EXTINF:-1 group-title="App2tv", Showtime Family Zone
 https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/showtime.family.zone.eastern.us.m3u8
 
-
 #EXTINF:-1 group-title="App2tv", Showtime
 https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/showtime.eastern.us.m3u8
-#EXTINF:-1 group-title="App2tv", howtime 2
+#EXTINF:-1 group-title="App2tv", Showtime 2
 https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/showtime.2.eastern.us.m3u8
 #EXTINF:-1 group-title="App2tv", SHOXBET
 https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/shoxbet.eastern.us.m3u8
