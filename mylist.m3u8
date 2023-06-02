@@ -4,7 +4,7 @@
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 
 ******** https://github.com/cnluisiptv/nuevo.m3u/blob/main/premium2023.m3u *****
-#EXTINF:-1 group-title="Bics", LAS ESTRELLAS LATAM
+#EXTINF:-1 group-title="Bics", TEST
 https://v3.playerlatino.live/stream/m3u8/1
 
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS LATAM
@@ -173,6 +173,12 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Bics Extra", ATRES CINE
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
+#EXTINF:-1 group-title="Bics Extra", USA | Paramount Network
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PARAMOUNT/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPARAMOUNTCHANNEL_stream_5p&_cdn_session=851060371&_cdn_timestamp=1685720016&_cdn_token=aea3f4cf9673f7fe4a4579f7ab5a0d69ea34ece6
+#EXTINF:-1 group-title="Bics Extra", USA | Sony Channel
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/SONY/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONY_stream_ew&_cdn_session=851061531&_cdn_timestamp=1685720044&_cdn_token=dca45515c4d1a3b8fa5c4244e60bc67620ad0c28
+#EXTINF:-1 group-title="Bics Extra", USA | Sony Movies
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/SONYMOVIES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONYMOVIES_stream_tj&_cdn_session=851061915&_cdn_timestamp=1685720051&_cdn_token=70b3894775d7370185a1f4b51caf55dd81675ddf
 #EXTINF:-1 group-title="Bics Extra", USA | TBS
 http://181.189.243.254:8000/play/a0pj/index.m3u8
 #EXTINF:-1 group-title="Bics Extra", USA | Studio Universal
