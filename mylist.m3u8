@@ -1,6 +1,6 @@
 #EXTM3U
 
-************************  02/JUN/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  05/JUN/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 
 
@@ -97,7 +97,7 @@ https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", RCN Mas+ CO
 https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", TELEFE AR
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=851126435&_cdn_timestamp=1685721828&_cdn_token=f8d8dda5a1898eff372bc28555fe15d9631bab11
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=865026483&_cdn_timestamp=1686191667&_cdn_token=5466aa241b2c845d69cea1c887e03d79cb5c7f85
 #EXTINF:-1 group-title="Bics Extra", CINCO TV AR
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Bics Extra", TELEMUNDO CA
@@ -131,11 +131,11 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8
 #EXTINF:-1 group-title="Bics Extra", TICAVISION CR
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1  group-title="Bics Extra", GLOBAL PE
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=863711803&_cdn_timestamp=1686152277&_cdn_token=12a145b99cc4ae8ef771d819133de9dbcce2b5aa
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=864876355&_cdn_timestamp=1686189434&_cdn_token=45f5539e4be238c2f87108eab8334eeb76d78c98
 #EXTINF:-1  group-title="Bics Extra", PANAMERICANA PE
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=863708915&_cdn_timestamp=1686152117&_cdn_token=9e12f25341f078a3940a90f599a724aab041367a
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=864862067&_cdn_timestamp=1686189211&_cdn_token=a32bdc6d79c07f72b03a3d01f4485bb25924132e
 #EXTINF:-1  group-title="Bics Extra", AMERICA TELEVISION PE
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=863708731&_cdn_timestamp=1686152103&_cdn_token=861aa3851f8a3e1e1846750779317590bdb93af1
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=864859395&_cdn_timestamp=1686189166&_cdn_token=027ae2a96153f3c121154e61f409879616f33fbb
 #EXTINF:-1 group-title="Bics Extra", TELE 13 CL
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", 24 HORAS CL
@@ -165,31 +165,32 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
 #EXTINF:-1 group-title="Bics Extra", RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Bics Extra", ATRES CINE
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
 #EXTINF:-1 group-title="Bics Extra", USA | Paramount Network
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PARAMOUNT/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPARAMOUNTCHANNEL_stream_5p&_cdn_session=851060371&_cdn_timestamp=1685720016&_cdn_token=aea3f4cf9673f7fe4a4579f7ab5a0d69ea34ece6
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PARAMOUNT/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPARAMOUNTCHANNEL_stream_5p&_cdn_session=864897187&_cdn_timestamp=1686189757&_cdn_token=3a3cb23f38d30f28cf1d7cb785187f77c2346f11
 #EXTINF:-1 group-title="Bics Extra", USA | Sony Channel
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/SONY/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONY_stream_ew&_cdn_session=851061531&_cdn_timestamp=1685720044&_cdn_token=dca45515c4d1a3b8fa5c4244e60bc67620ad0c28
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/SONY/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONY_stream_ew&_cdn_session=864898859&_cdn_timestamp=1686189784&_cdn_token=3d55ab76f328890dfeee336bc94edc3aa62bde39
 #EXTINF:-1 group-title="Bics Extra", USA | Sony Movies
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/SONYMOVIES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONYMOVIES_stream_tj&_cdn_session=851061915&_cdn_timestamp=1685720051&_cdn_token=70b3894775d7370185a1f4b51caf55dd81675ddf
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/SONYMOVIES/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONYMOVIES_stream_tj&_cdn_session=864900315&_cdn_timestamp=1686189806&_cdn_token=a4599268e5871fe3cc106ea721af242d9d54aaad
 #EXTINF:-1 group-title="Bics Extra", USA | TBS
 http://181.189.243.254:8000/play/a0pj/index.m3u8
 #EXTINF:-1 group-title="Bics Extra", USA | Studio Universal
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/STUDIOUNIVERSAL/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSTUDIOUNIVERSAL_stream_w1&_cdn_session=851067091&_cdn_timestamp=1685720162&_cdn_token=21622bac3fdf6999e3482666d640ab8537099307
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/STUDIOUNIVERSAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSTUDIOUNIVERSAL_stream_w1&_cdn_session=864903299&_cdn_timestamp=1686189859&_cdn_token=3045588b2f4bd5aeffa05d57e056cc81ef7d9a72
 #EXTINF:-1 group-title="Bics Extra", USA | Syfy
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/SYFY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSYFY_stream_gb&_cdn_session=851067371&_cdn_timestamp=1685720169&_cdn_token=ff70229c58a1f8a1f0d24393b74b07db17954603
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/SYFY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSYFY_stream_gb&_cdn_session=864904939&_cdn_timestamp=1686189889&_cdn_token=c199368bb55163aa80c08f8a9762e3e11847794c
 #EXTINF:-1 group-title="Bics Extra", USA | Warner Channel
 http://181.189.243.254:8000/play/a0tk/index.m3u8
 #EXTINF:-1 group-title="Bics Extra", USA | Star Channel
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/STARCHANNEL/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXCHANNEL_stream_1f&_cdn_session=851069539&_cdn_timestamp=1685720224&_cdn_token=29b7375e8d94754082c38a3ae2cbc46ad3f25cd5
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/STARCHANNEL/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXCHANNEL_stream_1f&_cdn_session=864907883&_cdn_timestamp=1686189940&_cdn_token=f34fb04ead42fdb201f5b5924a08a558d65316bf
 #EXTINF:-1 group-title="Bics Extra", USA | FX
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFX_stream_gv&_cdn_session=851069715&_cdn_timestamp=1685720229&_cdn_token=68ea0927c2ffb4e509f4ae7f14aebe3a4e74d919
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FX/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFX_stream_gv&_cdn_session=864908619&_cdn_timestamp=1686189954&_cdn_token=d3e674b457bef3adfba24b5bb12f0fcc32f90958
 #EXTINF:-1 group-title="Bics Extra", USA | Universal TV
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVERSAL_stream_4o&_cdn_session=851070723&_cdn_timestamp=1685720258&_cdn_token=32af428942693527fb44ee8e130ad9d8aca90c4d
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVERSAL_stream_4o&_cdn_session=864910219&_cdn_timestamp=1686189988&_cdn_token=a57f1b116b24aa952a04fd0f4506208c0f309c73
 #EXTINF:-1 group-title="Bics Extra", USA | Universal Crime
 http://181.189.243.254:8000/play/a0t0/index.m3u8
 #EXTINF:-1 group-title="Bics Extra", USA | Universal Cinema
@@ -222,9 +223,9 @@ http://181.189.243.254:8000/play/a0s3/index.m3u8
 #EXTINF:-1 group-title="Bics Extra", USA | Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistASTRAL
 #EXTINF:-1 group-title="Bics Extra", USA | Nickelodeon
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NICKELODEON/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKELODEON_stream_g4&_cdn_session=851077587&_cdn_timestamp=1685720466&_cdn_token=d95c5726d18492b0eca81a53de9979156f303f2e
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/NICKELODEON/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKELODEON_stream_g4&_cdn_session=864914627&_cdn_timestamp=1686190088&_cdn_token=3a5b598044d570d5db9190001fa78fcaf4ce2ff1
 #EXTINF:-1 group-title="Bics Extra", USA | Nick Jr.
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NICKJR/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKJR_stream_y9&_cdn_session=851077811&_cdn_timestamp=1685720472&_cdn_token=f5d145399ee34b0a19ca24bc8e586fdcc0db279b
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/NICKJR/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKJR_stream_y9&_cdn_session=864914931&_cdn_timestamp=1686190095&_cdn_token=d5362f71a30a34ef0897af607044c521f3c0494c
 
 ******************************* DEPORTES **********************************************
 #EXTINF:-1  group-title="Bics Extra", TUDN MX
@@ -242,19 +243,19 @@ https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/in
 #EXTINF:-1  group-title="Bics Extra", Fox Sports Premium
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/56034
 #EXTINF:-1  group-title="Bics Extra",  Fox Sports 2 USA
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=863702451&_cdn_timestamp=1686151767&_cdn_token=677a62ec89f6b10dcd4cd6014ac72ec6090d4cb6
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=864994171&_cdn_timestamp=1686191043&_cdn_token=7cf8d32b1b24fc6443088b87256d8b9a41b698b9
 #EXTINF:-1  group-title="Bics Extra", Fox Sports 3 USA
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=863702547&_cdn_timestamp=1686151772&_cdn_token=34be7488d5a211f9618f2bcd66e89725a82fb51c
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=864994603&_cdn_timestamp=1686191048&_cdn_token=275b3676b43436c258a2774650922097a3925440
 #EXTINF:-1  group-title="Bics Extra", ESPN USA
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=863702891&_cdn_timestamp=1686151788&_cdn_token=f7c04ccedb256ed125c160db1aaa9e135c478e85
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=864996083&_cdn_timestamp=1686191074&_cdn_token=ac4d4cebf99a6a31cf346529ed6f53f64a7024b8
 #EXTINF:-1  group-title="Bics Extra", ESPN 2 USA
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=863703115&_cdn_timestamp=1686151805&_cdn_token=9f79d389d7a69aa731081f5cc47b0f37220e9a16
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=864996459&_cdn_timestamp=1686191081&_cdn_token=2c7c330074525bde505b3b77bb2ca1e363e16bda
 #EXTINF:-1  group-title="Bics Extra", ESPN 3 USA
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=863703387&_cdn_timestamp=1686151822&_cdn_token=bd4841b57f7cd533125ef9023ff7895f9b8faa21
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=864997443&_cdn_timestamp=1686191097&_cdn_token=0fd0675b4e6204922b935f1c6e97c4e826610c41
 #EXTINF:-1  group-title="Bics Extra", ESPN 4 USA
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=863703811&_cdn_timestamp=1686151842&_cdn_token=eb393b7e408e13fbbf85c1bfa08b019dfbb9d43e
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=864999611&_cdn_timestamp=1686191135&_cdn_token=b6df6e015f9be768fae473c440882494cdf56979
 #EXTINF:-1  group-title="Bics Extra", ESPN EXTRA USA
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPNMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPNMAS2_stream_l4&_cdn_session=863704043&_cdn_timestamp=1686151858&_cdn_token=03206dea73779b26ac3fd07d427d1f9d5561eb0d
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPNMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPNMAS2_stream_l4&_cdn_session=865001483&_cdn_timestamp=1686191161&_cdn_token=b58a4e5516ace36439ade1fd4f9f3d5b81c94568
 
 *******************************  https://raw.githubusercontent.com/jsosao/mortal251_ssiptvarg/main/jlm3uargentinaygratuita.m3u   *************************************************
 
@@ -280,393 +281,6 @@ https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/in
 https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m3u8
 #EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 11
 https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
-
-******************************** https://raw.githubusercontent.com/fantomannn/lista/f7995a4661e08f7bfab4cc175bcf289d86f93205/total%20play.m3u    *************
-
-#EXTINF:-1 tvg-id="A&EMundo" group-title="Claro-COL", A&E Mundo
-http://190.131.228.59:8000/play/a05x/index.m3u8
-#EXTINF:-1 tvg-id="AMCSD" group-title="Claro-COL", AMC
-http://190.131.228.59:8000/play/a0r3/index.m3u8
-#EXTINF:-1 tvg-id="AMC HD" group-title="Claro-COL", AMC HD
-http://190.131.228.59:8000/play/a0jc/index.m3u8
-#EXTINF:-1 tvg-id="AXN" group-title="Claro-COL", AXN
-http://190.131.228.59:8000/play/a04i/index.m3u8
-#EXTINF:-1 group-title="Claro-COL", Animal Planet
-http://190.131.228.59:8000/play/a0rz/index.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet" group-title="Claro-COL", Animal Planet
-http://190.131.228.59:8000/play/a05o/index.m3u8
-#EXTINF:-1 tvg-id="ANIMALPLANETHD" group-title="Claro-COL", Animal Planet HD
-http://190.131.228.59:8000/play/a0rq/index.m3u8
-#EXTINF:-1 tvg-id="CNN" group-title="Claro-COL", CNN Chile ca
-http://190.131.228.59:8000/play/a045/index.m3u8
-#EXTINF:-1 tvg-id="CNNEspanol" group-title="Claro-COL", CNN Espanol
-http://190.131.228.59:8000/play/a052/index.m3u8
-#EXTINF:-1 group-title="Claro-COL", Canal Capital
-http://190.131.228.59:8000/play/a0rw/index.m3u8
-#EXTINF:-1 tvg-id="CARACOLSD" group-title="Claro-COL", Canal Caracol
-http://190.131.228.59:8000/play/a005/index.m3u8
-#EXTINF:-1 group-title="Claro-COL", Canal Institucional
-http://190.131.228.59:8000/play/a0rr/index.m3u8
-#EXTINF:-1 tvg-id="CanalInstitucional" group-title="Claro-COL", Canal Institucional
-http://190.131.228.59:8000/play/a008/index.m3u8
-#EXTINF:-1 tvg-id="RCN" group-title="Claro-COL", Canal RCN
-http://190.131.228.59:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title="Claro-COL", Canal TRO
-http://190.131.228.59:8000/play/a0ru/index.m3u8
-#EXTINF:-1 tvg-id="CanalUno" group-title="Claro-COL", Canal Uno
-http://190.131.228.59:8000/play/a003/index.m3u8
-#EXTINF:-1 tvg-id="canalestrellas" group-title="Claro-COL", Canal de Las estrellas
-http://190.131.228.59:8000/play/a064/index.m3u8
-#EXTINF:-1 tvg-id="CanaldelCongreso" group-title="Claro-COL", Canal del Congreso
-http://190.131.228.59:8000/play/a009/index.m3u8
-#EXTINF:-1 tvg-id="Capital" group-title="Claro-COL", Capital
-http://190.131.228.59:8000/play/a00h/index.m3u8
-#EXTINF:-1 group-title="Claro-COL", Caracol
-http://190.131.228.59:8000/play/a0rs/index.m3u8
-#EXTINF:-1 tvg-id="CARACOLHD" group-title="Claro-COL", Caracol HD
-http://190.131.228.59:8000/play/a0r7/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork" group-title="Claro-COL", Cartoon Network
-http://190.131.228.59:8000/play/a049/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork" group-title="Claro-COL", Cartoon Network HD
-http://190.131.228.59:8000/play/a0je/index.m3u8
-#EXTINF:-1 tvg-id="Cinecanal" group-title="Claro-COL", Cinecanal
-http://190.131.228.59:8000/play/a03z/index.m3u8
-#EXTINF:-1 tvg-id="CINECANALHD" group-title="Claro-COL", Cinecanal HD
-http://190.131.228.59:8000/play/a0ro/index.m3u8
-#EXTINF:-1 tvg-id="Cinemax" group-title="Claro-COL", Cinemax
-http://190.131.228.59:8000/play/a04g/index.m3u8
-#EXTINF:-1 tvg-id="CityTV" group-title="Claro-COL", City TV
-http://190.131.228.59:8000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="CRISTOVISION" group-title="Claro-COL", Cristovisiðn
-http://190.131.228.59:8000/play/a0qy/index.m3u8
-#EXTINF:-1 tvg-id="DISCOV" group-title="Claro-COL", Discovery Channel
-http://190.131.228.59:8000/play/a0qu/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannelSD" group-title="Claro-COL", Discovery Channel
-http://190.131.228.59:8000/play/a05n/index.m3u8
-#EXTINF:-1 tvg-id="DISCOVERYH&H" group-title="Claro-COL", Discovery H&H HD
-http://190.131.228.59:8000/play/a0re/index.m3u8
-#EXTINF:-1 tvg-id="DISCOVERYHD" group-title="Claro-COL", Discovery HD
-http://190.131.228.59:8000/play/a0j2/index.m3u8
-#EXTINF:-1 tvg-id="DISCOVKIDS" group-title="Claro-COL", Discovery Kids
-http://190.131.228.59:8000/play/a0qt/index.m3u8
-#EXTINF:-1 tvg-id="DISCOVERKIDSHD" group-title="Claro-COL", Discovery Kids HD
-http://190.131.228.59:8000/play/a0rd/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryKidsca" group-title="Claro-COL", Discovery Kids ca
-http://190.131.228.59:8000/play/a06y/index.m3u8
-#EXTINF:-1 tvg-id="THETHER" group-title="Claro-COL", Discovery Theater HD
-http://190.131.228.59:8000/play/a0rf/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryTurbo" group-title="Claro-COL", Discovery Turbo
-http://190.131.228.59:8000/play/a04t/index.m3u8
-#EXTINF:-1 tvg-id="WORLD" group-title="Claro-COL", Discovery World HD
-http://190.131.228.59:8000/play/a0rn/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel" group-title="Claro-COL", Disney Channel
-http://190.131.228.59:8000/play/a05m/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJr" group-title="Claro-COL", Disney Jr
-http://190.131.228.59:8000/play/a05i/index.m3u8
-#EXTINF:-1 tvg-id="EEntertainment" group-title="Claro-COL", E Entertainment
-http://190.131.228.59:8000/play/a05q/index.m3u8
-#EXTINF:-1 tvg-id="ESPN2" group-title="Claro-COL", ESPN 2
-http://190.131.228.59:8000/play/a0hn/index.m3u8
-#EXTINF:-1 tvg-id="ESPN2" group-title="Claro-COL", ESPN 2
-http://190.131.228.59:8000/play/a05k/index.m3u8
-#EXTINF:-1 tvg-id="ESPN2LATIN" group-title="Claro-COL", ESPN 2 Latin ca
-http://190.131.228.59:8000/play/a05s/index.m3u8
-#EXTINF:-1 tvg-id="ESPN3" group-title="Claro-COL", ESPN 3
-http://190.131.228.59:8000/play/a04v/index.m3u8
-#EXTINF:-1 tvg-id="ESPN4" group-title="Claro-COL", ESPN 4 HD
-http://190.131.228.59:8000/play/a0rg/index.m3u8
-#EXTINF:-1 tvg-id="ESPNCO" group-title="Claro-COL", ESPN CO
-http://190.131.228.59:8000/play/a00c/index.m3u8
-#EXTINF:-1 tvg-id="ENLACE" group-title="Claro-COL", Enlace
-http://190.131.228.59:8000/play/a0qx/index.m3u8
-#EXTINF:-1 tvg-id="EUROPA" group-title="Claro-COL", Europa Europa
-http://190.131.228.59:8000/play/a0r4/index.m3u8
-#EXTINF:-1 tvg-id="FOX2HD" group-title="Claro-COL", FOX Sports 2 HD
-http://190.131.228.59:8000/play/a0rh/index.m3u8
-#EXTINF:-1 tvg-id="FX" group-title="Claro-COL", FX
-http://190.131.228.59:8000/play/a04k/index.m3u8
-#EXTINF:-1 tvg-id="FXHD" group-title="Claro-COL", FX HD
-http://190.131.228.59:8000/play/a0rk/index.m3u8
-#EXTINF:-1 tvg-id="FILM" group-title="Claro-COL", Film&Arts
-http://190.131.228.59:8000/play/a0qv/index.m3u8
-#EXTINF:-1 tvg-id="FOX" group-title="Claro-COL", Fox Sports
-http://190.131.228.59:8000/play/a05r/index.m3u8
-#EXTINF:-1 tvg-id="FOXSPORT1" group-title="Claro-COL", Fox Sports 1 HD
-http://190.131.228.59:8000/play/a0j3/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports2" group-title="Claro-COL", Fox Sports 2
-http://190.131.228.59:8000/play/a065/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports3" group-title="Claro-COL", Fox Sports 3
-http://190.131.228.59:8000/play/a066/index.m3u8
-#EXTINF:-1 tvg-id="GOLTV" group-title="Claro-COL", GOL TV
-http://190.131.228.59:8000/play/a05u/index.m3u8
-#EXTINF:-1 tvg-id="HBO" group-title="Claro-COL", HBO
-http://190.131.228.59:8000/play/a09a/index.m3u8
-#EXTINF:-1 tvg-id="HBO2SD" group-title="Claro-COL", HBO 2
-http://190.131.228.59:8000/play/a08j/index.m3u8
-#EXTINF:-1 tvg-id="HBO2" group-title="Claro-COL", HBO 2 HD
-http://190.131.228.59:8000/play/a0jh/index.m3u8
-#EXTINF:-1 tvg-id="HBOFamilySD" group-title="Claro-COL", HBO Family
-http://190.131.228.59:8000/play/a05h/index.m3u8
-#EXTINF:-1 tvg-id="HBOFAMILYHD" group-title="Claro-COL", HBO Family HD
-http://190.131.228.59:8000/play/a0j5/index.m3u8
-#EXTINF:-1 tvg-id="HBOHD" group-title="Claro-COL", HBO HD
-http://190.131.228.59:8000/play/a0rp/index.m3u8
-#EXTINF:-1 tvg-id="HBOPlus" group-title="Claro-COL", HBO Plus
-http://190.131.228.59:8000/play/a05f/index.m3u8
-#EXTINF:-1 tvg-id="HBOXTREMESD" group-title="Claro-COL", HBO XTREME SD
-http://190.131.228.59:8000/play/a05g/index.m3u8
-#EXTINF:-1 tvg-id="HistoryChannel" group-title="Claro-COL", History Channel
-http://190.131.228.59:8000/play/a03y/index.m3u8
-#EXTINF:-1 tvg-id="HOLATV" group-title="Claro-COL", Hola TV
-http://190.131.228.59:8000/play/a0qw/index.m3u8
-#EXTINF:-1 tvg-id="ISAT" group-title="Claro-COL", I-Sat
-http://190.131.228.59:8000/play/a0ht/index.m3u8
-#EXTINF:-1 tvg-id="LARED" group-title="Claro-COL", La Red ca
-http://190.131.228.59:8000/play/a053/index.m3u8
-#EXTINF:-1 tvg-id="LIFETIME" group-title="Claro-COL", Lifetime
-http://190.131.228.59:8000/play/a0hw/index.m3u8
-#EXTINF:-1 tvg-id="MTV" group-title="Claro-COL", MTV
-http://190.131.228.59:8000/play/a042/index.m3u8
-#EXTINF:-1 tvg-id="NatGeo" group-title="Claro-COL", Nat Geo
-http://190.131.228.59:8000/play/a03x/index.m3u8
-#EXTINF:-1 tvg-id="NATGEO" group-title="Claro-COL", Nat Geo HD
-http://190.131.228.59:8000/play/a0j9/index.m3u8
-#EXTINF:-1 tvg-id="NickJr" group-title="Claro-COL", Nick Jr
-http://190.131.228.59:8000/play/a09b/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon" group-title="Claro-COL", Nickelodeon
-http://190.131.228.59:8000/play/a03v/index.m3u8
-#EXTINF:-1 tvg-id="PARAMOUNT" group-title="Claro-COL", Paramount HD
-http://190.131.228.59:8000/play/a0jf/index.m3u8
-#EXTINF:-1 tvg-id="RCNHD" group-title="Claro-COL", RCN HD
-http://190.131.228.59:8000/play/a0rm/index.m3u8
-#EXTINF:-1 tvg-id="STARCHANNEL" group-title="Claro-COL", STAR CHANNEL
-http://190.131.228.59:8000/play/a08r/index.m3u8
-#EXTINF:-1 tvg-id="SenalColombia" group-title="Claro-COL", Senal Colombia
-http://190.131.228.59:8000/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="Sony" group-title="Claro-COL", Sony
-http://190.131.228.59:8000/play/a04h/index.m3u8
-#EXTINF:-1 tvg-id="Space" group-title="Claro-COL", Space
-http://190.131.228.59:8000/play/a04j/index.m3u8
-#EXTINF:-1 tvg-id="STUDIOSD" group-title="Claro-COL", Studio Universal
-http://190.131.228.59:8000/play/a0i0/index.m3u8
-#EXTINF:-1 tvg-id="STUDIO" group-title="Claro-COL", Studio Universal HD
-http://190.131.228.59:8000/play/a0jg/index.m3u8
-#EXTINF:-1 tvg-id="TCM" group-title="Claro-COL", TCM
-http://190.131.228.59:8000/play/a06z/index.m3u8
-#EXTINF:-1 tvg-id="TLC" group-title="Claro-COL", TLC
-http://190.131.228.59:8000/play/a062/index.m3u8
-#EXTINF:-1 tvg-id="TNT" group-title="Claro-COL", TNT
-http://190.131.228.59:8000/play/a0r2/index.m3u8
-#EXTINF:-1 tvg-id="TNT" group-title="Claro-COL", TNT
-http://190.131.228.59:8000/play/a04a/index.m3u8
-#EXTINF:-1 tvg-id="TNTSPORT2" group-title="Claro-COL", TNT SPORTS 2
-http://190.131.228.59:8000/play/a059/index.m3u8
-#EXTINF:-1 tvg-id="TNTSERIESHD" group-title="Claro-COL", TNT Series HD
-http://190.131.228.59:8000/play/a0rj/index.m3u8
-#EXTINF:-1 tvg-id="TRO" group-title="Claro-COL", TRO
-http://190.131.228.59:8000/play/a00e/index.m3u8
-#EXTINF:-1 tvg-id="TV+" group-title="Claro-COL", TV+ HD
-http://190.131.228.59:8000/play/a0do/index.m3u8
-#EXTINF:-1 tvg-id="TVE" group-title="Claro-COL", TVE
-http://190.131.228.59:8000/play/a04e/index.m3u8
-#EXTINF:-1 tvg-id="TELEANTIOQUIA" group-title="Claro-COL", Teleantioquia
-http://190.131.228.59:8000/play/a04l/index.m3u8
-#EXTINF:-1 group-title="Claro-COL", Telecafe
-http://190.131.228.59:8000/play/a0rv/index.m3u8
-#EXTINF:-1 tvg-id="Telecafe" group-title="Claro-COL", Telecafe
-http://190.131.228.59:8000/play/a04y/index.m3u8
-#EXTINF:-1 group-title="Claro-COL", Telecaribe
-http://190.131.228.59:8000/play/a0rt/index.m3u8
-#EXTINF:-1 tvg-id="Telecaribe" group-title="Claro-COL", Telecaribe
-http://190.131.228.59:8000/play/a04w/index.m3u8
-#EXTINF:-1 tvg-id="Telefeca" group-title="Claro-COL", Telefe ca
-http://190.131.228.59:8000/play/a04p/index.m3u8
-#EXTINF:-1 tvg-id="TELEFUTURO" group-title="Claro-COL", Telefuturo
-http://190.131.228.59:8000/play/a0hy/index.m3u8
-#EXTINF:-1 tvg-id="Teleislas" group-title="Claro-COL", Teleislas
-http://190.131.228.59:8000/play/a00f/index.m3u8
-#EXTINF:-1 tvg-id="Telemundo" group-title="Claro-COL", Telemundo
-http://190.131.228.59:8000/play/a067/index.m3u8
-#EXTINF:-1 tvg-id="Telepacifico" group-title="Claro-COL", Telepacifico
-http://190.131.228.59:8000/play/a04n/index.m3u8
-#EXTINF:-1 tvg-id="TyCSports" group-title="Claro-COL", TyC Sports
-http://190.131.228.59:8000/play/a05v/index.m3u8
-#EXTINF:-1 tvg-id="Universal" group-title="Claro-COL", Universal
-http://190.131.228.59:8000/play/a040/index.m3u8
-#EXTINF:-1 tvg-id="Warner" group-title="Claro-COL", Warner
-http://190.131.228.59:8000/play/a05p/index.m3u8
-#EXTINF:-1 tvg-id="WinSports" group-title="Claro-COL", Win Sports
-http://190.131.228.59:8000/play/a04m/index.m3u8
-#EXTINF:-1 tvg-id="WIN+" group-title="Claro-COL", Win Sports+ HD
-http://190.131.228.59:8000/play/a0e2/index.m3u8
-#EXTINF:-1 tvg-id="ZonaLatina" group-title="Claro-COL", Zona Latina
-http://190.131.228.59:8000/play/a043/index.m3u8
-#EXTINF:-1 tvg-id="Zoom" group-title="Claro-COL", Zoom
-http://190.131.228.59:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="Claro-COL", Telemundo
-http://190.60.39.62:8000/play/a02g
-#EXTINF:-1 group-title="Claro-COL", AE Mundo
-http://190.60.39.62:8000/play/a01z
-#EXTINF:-1 group-title="Claro-COL", AMC HD
-http://190.60.39.62:8000/play/a0b4
-#EXTINF:-1 group-title="Claro-COL", AXN
-http://190.60.39.62:8000/play/a048
-#EXTINF:-1 group-title="Claro-COL", Animal Planet
-http://190.60.39.62:8000/play/a01q
-#EXTINF:-1 group-title="Claro-COL", Animal Planet HD
-http://190.60.39.62:8000/play/a0b9
-#EXTINF:-1 group-title="Claro-COL", BabyFirst
-http://190.60.39.62:8000/play/a09b
-#EXTINF:-1 group-title="Claro-COL", CARTOONITO FHD
-http://190.60.39.62:8000/play/98
-#EXTINF:-1 group-title="Claro-COL", CNN Espanol
-http://190.60.39.62:8000/play/a014
-#EXTINF:-1 group-title="Claro-COL", Canal Caracol
-http://190.60.39.62:8000/play/a033
-#EXTINF:-1 group-title="Claro-COL", Canal Estrellas
-http://190.60.39.62:8000/play/a02d
-#EXTINF:-1 group-title="Claro-COL", Canal Institucional
-http://190.60.39.62:8000/play/a037
-#EXTINF:-1 group-title="Claro-COL", Canal RCN
-http://190.60.39.62:8000/play/a034
-#EXTINF:-1 group-title="Claro-COL", Canal Uno
-http://190.60.39.62:8000/play/a031
-#EXTINF:-1 group-title="Claro-COL", Canal del Congreso
-http://190.60.39.62:8000/play/a038
-#EXTINF:-1 group-title="Claro-COL", Capital
-http://190.60.39.62:8000/play/a08d
-#EXTINF:-1 group-title="Claro-COL", Cartoon Network
-http://190.60.39.62:8000/play/a00w
-#EXTINF:-1 group-title="Claro-COL", Cartoon Network HD
-http://190.60.39.62:8000/play/a0b6
-#EXTINF:-1 group-title="Claro-COL", Cinecanal
-http://190.60.39.62:8000/play/a00m
-#EXTINF:-1 group-title="Claro-COL", Cinecanal HD
-http://190.60.39.62:8000/play/a0b3
-#EXTINF:-1 group-title="Claro-COL", Cinemax
-http://190.60.39.62:8000/play/a046
-#EXTINF:-1 group-title="Claro-COL", City TV
-http://190.60.39.62:8000/play/a08c
-#EXTINF:-1 group-title="Claro-COL", Discovery Channel
-http://190.60.39.62:8000/play/a01p
-#EXTINF:-1 group-title="Claro-COL", Discovery ID
-http://190.60.39.62:8000/play/a02i
-#EXTINF:-1 group-title="Claro-COL", Discovery Kids
-http://190.60.39.62:8000/play/a013
-#EXTINF:-1 group-title="Claro-COL", Discovery Turbo
-http://190.60.39.62:8000/play/a04j
-#EXTINF:-1 group-title="Claro-COL", Discovery World HD
-http://190.60.39.62:8000/play/a0b2
-#EXTINF:-1 group-title="Claro-COL", Disney Channel
-http://190.60.39.62:8000/play/a01o
-#EXTINF:-1 group-title="Claro-COL", Disney Jr
-http://190.60.39.62:8000/play/a01k
-#EXTINF:-1 group-title="Claro-COL", E Entertainment
-http://190.60.39.62:8000/play/a01s
-#EXTINF:-1 group-title="Claro-COL", ESPN
-http://190.60.39.62:8000/play/a01v
-#EXTINF:-1 group-title="Claro-COL", ESPN 2
-http://190.60.39.62:8000/play/a01m
-#EXTINF:-1 group-title="Claro-COL", ESPN 2 Latin
-http://190.60.39.62:8000/play/a01u
-#EXTINF:-1 group-title="Claro-COL", ESPN 3
-http://190.60.39.62:8000/play/a04l
-#EXTINF:-1 group-title="Claro-COL", ESPN 4
-http://190.60.39.62:8000/play/a02s
-#EXTINF:-1 group-title="Claro-COL", ESPN CO
-http://190.60.39.62:8000/play/a03c
-#EXTINF:-1 group-title="Claro-COL", ESPN EXTRA HD
-http://190.60.39.62:8000/play/a0b5
-#EXTINF:-1 group-title="Claro-COL", Enlace
-http://190.60.39.62:8000/play/a011
-#EXTINF:-1 group-title="Claro-COL", FX
-http://190.60.39.62:8000/play/a04a
-#EXTINF:-1 group-title="Claro-COL", Fox Sports 2
-http://190.60.39.62:8000/play/a02e
-#EXTINF:-1 group-title="Claro-COL", Fox Sports 3
-http://190.60.39.62:8000/play/a02f
-#EXTINF:-1 group-title="Claro-COL", GLITZ HD
-http://190.60.39.62:8000/play/95
-#EXTINF:-1 group-title="Claro-COL", History Channel
-http://190.60.39.62:8000/play/a00l
-#EXTINF:-1 group-title="Claro-COL", HomeandHealth
-http://190.60.39.62:8000/play/a02n
-#EXTINF:-1 group-title="Claro-COL", I-Sat
-http://190.60.39.62:8000/play/a00o
-#EXTINF:-1 group-title="Claro-COL", Lifetime
-http://190.60.39.62:8000/play/a09c
-#EXTINF:-1 group-title="Claro-COL", MTV
-http://190.60.39.62:8000/play/a00p
-#EXTINF:-1 group-title="Claro-COL", Nat Geo
-http://190.60.39.62:8000/play/a00k
-#EXTINF:-1 group-title="Claro-COL", Nat Geo HD
-http://190.60.39.62:8000/play/a0b1
-#EXTINF:-1 group-title="Claro-COL", Nick Jr
-http://190.60.39.62:8000/play/a04i
-#EXTINF:-1 group-title="Claro-COL", Nickelodeon
-http://190.60.39.62:8000/play/a00i
-#EXTINF:-1 group-title="Claro-COL", Paramount HD
-http://190.60.39.62:8000/play/a0b7
-#EXTINF:-1 group-title="Claro-COL", RCN Novelas
-http://190.60.39.62:8000/play/a02h
-#EXTINF:-1 group-title="Claro-COL", STAR CHANNEL
-http://190.60.39.62:8000/play/a00t
-#EXTINF:-1 group-title="Claro-COL", Senal Colombia
-http://190.60.39.62:8000/play/a039
-#EXTINF:-1 group-title="Claro-COL", Sin Limites
-http://190.60.39.62:8000/play/a02v
-#EXTINF:-1 group-title="Claro-COL", Sony
-http://190.60.39.62:8000/play/a047
-#EXTINF:-1 group-title="Claro-COL", Space
-http://190.60.39.62:8000/play/a049
-#EXTINF:-1 group-title="Claro-COL", SyFy
-http://190.60.39.62:8000/play/a09d
-#EXTINF:-1 group-title="Claro-COL", TBS
-http://190.60.39.62:8000/play/a02l
-#EXTINF:-1 group-title="Claro-COL", TCM
-http://190.60.39.62:8000/play/a00u
-#EXTINF:-1 group-title="Claro-COL", TLC
-http://190.60.39.62:8000/play/a02b
-#EXTINF:-1 group-title="Claro-COL", TNT
-http://190.60.39.62:8000/play/a00x
-#EXTINF:-1 group-title="Claro-COL", TNT SERIES FHD
-http://190.60.39.62:8000/play/99
-#EXTINF:-1 group-title="Claro-COL", TRO
-http://190.60.39.62:8000/play/a06r
-#EXTINF:-1 group-title="Claro-COL", TV AGRO HD
-http://190.60.39.62:8000/play/96
-#EXTINF:-1 group-title="Claro-COL", TV ORINOQUIA
-http://190.60.39.62:8000/play/93
-#EXTINF:-1 group-title="Claro-COL", TV+ HD
-http://190.60.39.62:8000/play/a0b0
-#EXTINF:-1 group-title="Claro-COL", TVE
-http://190.60.39.62:8000/play/a012
-#EXTINF:-1 group-title="Claro-COL", Teleantioquia
-http://190.60.39.62:8000/play/a04b
-#EXTINF:-1 group-title="Claro-COL", Telecaribe
-http://190.60.39.62:8000/play/a04m
-#EXTINF:-1 group-title="Claro-COL", Teleislas
-http://190.60.39.62:8000/play/a08b
-#EXTINF:-1 group-title="Claro-COL", Telenovelas
-http://190.60.39.62:8000/play/a0ap
-#EXTINF:-1 group-title="Claro-COL", Telepacifico
-http://190.60.39.62:8000/play/a04d
-#EXTINF:-1 group-title="Claro-COL", UPDATE
-http://190.60.39.62:8000/play/a075
-#EXTINF:-1 group-title="Claro-COL", Universal
-http://190.60.39.62:8000/play/a00n
-#EXTINF:-1 group-title="Claro-COL", ViaX
-http://190.60.39.62:8000/play/a02c
-#EXTINF:-1 group-title="Claro-COL", Warner
-http://190.60.39.62:8000/play/a01r
-#EXTINF:-1 group-title="Claro-COL", Win Sports+ HD
-http://190.60.39.62:8000/play/a0b8
-#EXTINF:-1 group-title="Claro-COL", Zona Latina
-http://190.60.39.62:8000/play/a00q
-#EXTINF:-1 group-title="Claro-COL", Zoom
-http://190.60.39.62:8000/play/a08a
-#EXTINF:-1 group-title="Claro-COL", suram
-http://190.60.39.62:8000/play/a0bb
 
 ****************************************  https://github.com/atim2515/ATIM_BOSTON/blob/main/CABLE%20KINGS   ****************************
 
@@ -948,92 +562,74 @@ https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/showtime.next
 #EXTINF:-1 group-title="App2tv", Showtime Family Zone
 https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/showtime.family.zone.eastern.us.m3u8
 
-******** https://github.com/cnluisiptv/nuevo.m3u/blob/main/premium2023.m3u *****
+**************** https://github.com/cnluisiptv/nuevo.m3u/blob/main/premium2023.m3u *****************
 
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento", A&E
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/1
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E Sur
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento", A&E Sur
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/474
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/aplus.png" group-title="Mexico",A+
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/aplus.png" group-title="Mexico", A+
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/406
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/a3series.png" group-title="España",A3Series
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/a3series.png" group-title="España", A3Series
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/444
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/adn40.png" group-title="Noticias",ADN 40
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/adn40.png" group-title="Noticias", ADN 40
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/447
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/afizzionados.png" group-title="Deportes",Afizzionados
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/afizzionados.png" group-title="Deportes", Afizzionados
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/878
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/alf.png" group-title="24/7",Alf 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/426
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/amc.png" group-title="Entretenimiento",AMC
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/amc.png" group-title="Entretenimiento", AMC
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/183
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/amc.png" group-title="España",AMC ES
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/amc.png" group-title="España", AMC ES
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/715
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/americaperu.png" group-title="Peru",America
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/americaperu.png" group-title="Peru", America
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/780
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="Cultura",Animal Planet
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="Cultura", Animal Planet
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/3
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="Cultura",Animal Planet OP2
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="Cultura", Animal Planet OP2
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/633
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/animaniacs.png" group-title="24/7",Animaniacs 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/677
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/play.png" group-title="Entretenimiento",Anime 24H
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/269
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/antena3.png" group-title="España",Antena 3
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -1100,24 +696,12 @@ https://v3.playerlatino.live/stream/m3u8/4
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/5
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/babytv.png" group-title="Infantiles",Baby TV
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/7
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/bandamax.png" group-title="Musica",Bandamax
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/8
-#EXTINF:-1, tvg-logo="" group-title="24/7",Barbie 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/788
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/beinsports.png" group-title="Deportes",BeinSports
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -1130,42 +714,12 @@ https://v3.playerlatino.live/stream/m3u8/753
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/761
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/bleach.png" group-title="24/7",Bleach 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/883
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/bobesponja.png" group-title="24/7",Bob Esponja 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/518
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/bolivision.png" group-title="Bolivia",Bolivision
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/783
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/breakingbad.png" group-title="Entretenimiento",Breaking Bad 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/846
-#EXTINF:-1, tvg-logo="" group-title="24/7",Brickleberry 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/789
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" group-title="24/7",Caballeros del Zodiaco 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/427
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/canal2televicentro.png" group-title="Nicaragua",Canal 2 Televicentro
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -1220,24 +774,6 @@ https://v3.playerlatino.live/stream/m3u8/364
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/369
-#EXTINF:-1, tvg-logo="" group-title="Entretenimiento",Candy Candy 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/808
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/cantinflas.png" group-title="24/7",Cantinflas 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/428
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/capitaltv.png" group-title="Musica",Capital TV
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/205
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/caracol.png" group-title="Colombia",Caracol
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -1274,18 +810,6 @@ https://v3.playerlatino.live/stream/m3u8/11
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/735
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/catdog.png" group-title="24/7",CatDog 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/785
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/cbeebies.png" group-title="Infantiles",CBeebies
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/13
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/cdf.png" group-title="Deportes",CDF Premium
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -1310,18 +834,6 @@ https://v3.playerlatino.live/stream/m3u8/513
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/401
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/chapulincolorado.png" group-title="24/7",Chapulin Colorado 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/418
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/chespirito.jpg" group-title="24/7",Chespirito 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/417
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/chv.png" group-title="Colombia",CHV Chilevision
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -1472,12 +984,6 @@ https://v3.playerlatino.live/stream/m3u8/740
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/719
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/coraje.png" group-title="24/7",Coraje el Perro Cobarde 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/519
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/crimeinvestigation.png" group-title="España",Crime Investigation (ES)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -1508,12 +1014,6 @@ https://v3.playerlatino.live/stream/m3u8/139
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/844
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/dinosaurios.png" group-title="24/7",Dinosaurios 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/670
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="Deportes",DirectTV Sports
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -1628,36 +1128,6 @@ https://v3.playerlatino.live/stream/m3u8/32
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/277
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/doraemon.png" group-title="24/7",Doraemon 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/521
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/dragonball.png" group-title="24/7",Dragon Ball 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/425
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/dragonballgt.png" group-title="24/7",Dragon Ball GT 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/520
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/dragonballsuper.png" group-title="24/7",Dragon Ball Super 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/424
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/dragonballz.png" group-title="24/7",Dragon Ball Z 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/329
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/e.png" group-title="Entretenimiento",E!
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -1682,66 +1152,18 @@ https://v3.playerlatino.live/stream/m3u8/275
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/239
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/elchavoanimado.png" group-title="24/7",El Chavo Animado 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/790
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="24/7",El Chavo del 8 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/400
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/elcoyote.png" group-title="24/7",El Coyote y el Correcaminos 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/429
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/elgalloclaudio.png" group-title="Entretenimiento",El Gallo Claudio 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/845
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/elgourmet.png" group-title="Entretenimiento",El Gourmet
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/157
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/gumball.png" group-title="24/7",El Increible Mundo de Gumball 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/791
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/elnueveargentina.png" group-title="Argentina",El Nueve
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/772
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/elpajaroloco.png" group-title="24/7",El Pajaro Loco 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/525
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/elprincipedelrap.png" group-title="24/7",El Principel del Rap 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/430
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/elseniordeloscielos.png" group-title="Entretenimiento",El Señor de los Cielos 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/820
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/eltrecechile.png" group-title="Chile",El Trece
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -1820,12 +1242,6 @@ https://v3.playerlatino.live/stream/m3u8/39
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/38
-#EXTINF:-1, tvg-logo="" group-title="Peliculas",FM Hot TV
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/731
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/f1.png" group-title="Deportes",Formula 1 TV (F1)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -1904,12 +1320,6 @@ https://v3.playerlatino.live/stream/m3u8/410
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/511
-#EXTINF:-1, tvg-logo="" group-title="24/7",Futurama 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/793
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento",FX
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -1940,18 +1350,6 @@ https://v3.playerlatino.live/stream/m3u8/56
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/891
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/gameofthrones.png" group-title="24/7",Game of Thrones 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/515
-#EXTINF:-1, tvg-logo="" group-title="Entretenimiento",Garfield 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/812
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/glitz.png" group-title="Entretenimiento",Glitz
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -2060,12 +1458,6 @@ https://v3.playerlatino.live/stream/m3u8/841
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/779
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/heyarnold.png" group-title="24/7",Hey Arnold 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/522
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/history.png" group-title="España",Historia (ES)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -2114,78 +1506,18 @@ https://v3.playerlatino.live/stream/m3u8/341
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/68
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/johnnybravo.png" group-title="24/7",Johnny Bravo 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/786
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica",Juce TV
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/263
-#EXTINF:-1, tvg-logo="" group-title="24/7",La Casa de Papel 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/403
-#EXTINF:-1, tvg-logo="" group-title="Entretenimiento",La Familia PeLuche 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/811
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/lahorapico.png" group-title="24/7",La Hora Pico 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/887
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/lapanterarosa.png" group-title="24/7",La Pantera Rosa 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/671
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/lapequenalulu.png" group-title="24/7",La Pequeña Lulu 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/792
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png" group-title="24/7",La Rosa de Guadalupe 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/886
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/lasexta.png" group-title="España",La Sexta
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/326
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/lavacayelpollito.png" group-title="Entretenimiento",La Vaca y ElPollito 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/809
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/latinatv.png" group-title="Uruguay",Latina TV
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/782
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/letemesalaoscuridad.png" group-title="24/7",Le Temes a la Oscuridad 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/888
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/lifetime.png" group-title="Entretenimiento",Lifetime
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -2204,96 +1536,18 @@ https://v3.playerlatino.live/stream/m3u8/890
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/893
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/looneytunes.png" group-title="24/7",Looney Tunes 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/524
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/los3chiflados.png" group-title="24/7",Los 3 Chiflados 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/423
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/losaniosmaravillosos.png" group-title="Entretenimiento",Los Años Maravillosos 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/810
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/lospadrinosmagicos.png" group-title="Entretenimiento",Los Padrinos Magicos 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/813
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/lospicapiedra.png" group-title="24/7",Los Picapiedra 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/669
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/lospinguinosdemadagascar.png" group-title="24/7",Los Pinguinos de Madagascar 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/794
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/lospitufos.png" group-title="24/7",Los Pitufos 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/795
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/losreyesdelacolina.png" group-title="24/7",Los Reyes de la Colina 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/796
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7",Los Simpson 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/357
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/lossupersonicos.png" group-title="24/7",Los Supersonicos 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/797
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/losvengadoresunidos.png" group-title="Entretenimiento",Los Vengadores Unidos 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/818
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica",m2o TV
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/203
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="24/7",Malcolm 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/798
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/maschic.png" group-title="Entretenimiento",Más chic
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/180
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/maxsteel.png" group-title="Entretenimiento",Max Steel 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/880
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/mega.png" group-title="Chile",Mega
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -2354,12 +1608,6 @@ https://v3.playerlatino.live/stream/m3u8/367
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/372
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/mrbean.png" group-title="24/7",Mr. Bean 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/431
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Entretenimiento",MTV
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -2414,12 +1662,6 @@ https://v3.playerlatino.live/stream/m3u8/691
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/448
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/naruto.png" group-title="24/7",Naruto 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/523
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/natgeo.png" group-title="Cultura",Nat Geo
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -2498,24 +1740,6 @@ https://v3.playerlatino.live/stream/m3u8/184
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/717
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/onepunchman.png" group-title="24/7",One Punch Man 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/661
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/play.png" group-title="Argentina",ORBE 21
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/242
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/padredefamilia.png" group-title="24/7",Padre de Familia 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/416
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/paramount.png" group-title="Peliculas",Paramount
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -2528,24 +1752,6 @@ https://v3.playerlatino.live/stream/m3u8/200
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/647
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/patoaventuras.png" group-title="Entretenimiento",Patoaventuras 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/819
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/patrullacanina.png" group-title="Entretenimiento",Patrulla Canina 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/807
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/peppapig.png" group-title="24/7",Peppa Pig 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/787
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/america_peru.png" group-title="Peru",PERU: América TV
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -2606,24 +1812,6 @@ https://v3.playerlatino.live/stream/m3u8/306
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/334
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/pinkyycerebro.png" group-title="24/7",Pinky y Cerebro 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/721
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/pocoyo.png" group-title="24/7",Pocoyo 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/799
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/pokemon.png" group-title="24/7",Pokemon 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/420
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 1
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -2744,30 +1932,6 @@ https://v3.playerlatino.live/stream/m3u8/854
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/855
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/prisonbreak.png" group-title="24/7",Prison Break 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/884
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/pxtv.png" group-title="Deportes",PX TV
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/193
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/ranma.png" group-title="24/7",Ranma 1/2 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/419
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/play.png" group-title="Mexico",RCG TV Coahuila
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/346
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/rcn.png" group-title="Colombia",RCN
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -2804,48 +1968,18 @@ https://v3.playerlatino.live/stream/m3u8/154
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/781
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/sakura.png" group-title="24/7",Sakura Card Captor 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/672
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/samuraix.png" group-title="24/7",Samurai X 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/663
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/scoobydoo.png" group-title="24/7",Scooby Doo 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/422
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/showtime.png" group-title="Peliculas",Showtime
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/679
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/smallville.png" group-title="24/7",Smallville 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/673
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/sony.png" group-title="Entretenimiento",Sony
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/145
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/southpark.png" group-title="24/7",South Park 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/674
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/space.png" group-title="Peliculas",Space
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -2858,12 +1992,6 @@ https://v3.playerlatino.live/stream/m3u8/83
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/751
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/spiderman.png" group-title="24/7",Spiderman 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/889
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/star.png" group-title="Entretenimiento",Star
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -2966,12 +2094,6 @@ https://v3.playerlatino.live/stream/m3u8/684
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/84
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/supercampeones.png" group-title="24/7",Super Campeones 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/432
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/syfy.png" group-title="Peliculas",SyFy
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -3056,18 +2178,6 @@ https://v3.playerlatino.live/stream/m3u8/92
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/776
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/thebigbangtheory.png" group-title="24/7",The Big Bang Theory 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/676
-#EXTINF:-1, tvg-logo="" group-title="24/7",The Walking Dead 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/800
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/tigosports.png" group-title="Deportes",TigoSports Bolivia
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -3134,12 +2244,6 @@ https://v3.playerlatino.live/stream/m3u8/757
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/509
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/tomyjerry.png" group-title="24/7",Tom y Jerry 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/421
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/tooncast.png" group-title="Infantiles",Tooncast
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -3152,12 +2256,6 @@ https://v3.playerlatino.live/stream/m3u8/95
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/774
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/trollhunters.png" group-title="24/7",TrollHunters 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/662
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/trutv.png" group-title="Entretenimiento",TruTV
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -3194,12 +2292,6 @@ https://v3.playerlatino.live/stream/m3u8/837
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/195
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/twoandhalfmen.png" group-title="24/7",Two And a Half Men 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/675
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/tycsports.png" group-title="Deportes",Tyc Sports
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -3338,14 +2430,10 @@ https://v3.playerlatino.live/stream/m3u8/881
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/276
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/yugioh.png" group-title="24/7",Yu-Gi-Oh! 24/7
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/664
 
 * SEGUIR Y BUSCAR *************************************  https://github.com/HermesNETgt/a/blob/main/hermesnettv.m3u ***************************************
+* SEGUIR Y BUSCAR ******************************** https://raw.githubusercontent.com/fantomannn/lista/f7995a4661e08f7bfab4cc175bcf289d86f93205/total%20play.m3u    **********
+
 
 *********************************************  https://raw.githubusercontent.com/la22lo/sports/main/futbol.m3u ***************************************
 *****************************  https://raw.githubusercontent.com/badshave/xVocoUK3/main/VocoUK3.txt *************************
