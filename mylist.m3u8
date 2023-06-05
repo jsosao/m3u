@@ -91,6 +91,16 @@ https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1  group-title="Bics Extra", MARIA VISION
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
+
+#EXTINF:-1 group-title="Bics Extra",ABC USA
+https://content.uplynk.com/channel/49fbfb5d15574052bb429eb8593e7662.m3u8
+#EXTINF:-1 group-title="Bics Extra",ABC USA
+https://livevideo.tegnadigital.com/kxtv/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KXTV/elvs/live.m3u8
+#EXTINF:-1 group-title="Bics Extra", CBS (WCBI) USA
+https://dai.google.com/linear/hls/event/qLrnhs3RQUa2zMw9UBkroQ/master.m3u8
+#EXTINF:-1 group-title="Bics Extra", NBC DENVER USA
+https://livevideo.tegnadigital.com/kusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KUSA/elvs/live.m3u8
+
 #EXTINF:-1 group-title="Bics Extra", CANAL 57 USA
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Bics Extra", ESTRELLA TV USA
