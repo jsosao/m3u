@@ -165,30 +165,6 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 group-title="Bics Extra", CBS CO USA
-http://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Bics Extra", CBS East
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cbs.eastern.us.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Bics Extra", CBS KCAL Los Angeles
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/kcal.los.angeles.us.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Bics Extra", CBS News Los Angeles
-https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Bics Extra", NBC 15 Madison WI (WMTVNBC)
-http://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q&checkedby:iptvcat.com
-#EXTINF:-1 group-title="Bics Extra", NBC 26 (WGBA)
-https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Bics Extra", LX Network (WNBCDT3) New York NY
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/lx.network.wnbc.dt3.new.york.ny.us.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Bics Extra", 23 ABC (KERO)
-https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Bics Extra", ABC 7 KMGH,US | Denver | ABC 7 KMGH
-https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Bics Extra", Fox 15 West Texas Abilene TX (KXVA)
-https://livevideo01.myfoxzone.com/hls/live/2017381/elvs/live.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Bics Extra", FOX 28 Savannah GA (WTGS),FOX 28 WTGS,US | Savannah | FOX 28 WTGS
-http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8?checkedby:iptvcat.com
-
 #EXTINF:-1 group-title="Bics Extra", RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Bics Extra", ATRES CINE
@@ -248,6 +224,58 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistASTRAL
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NICKELODEON/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKELODEON_stream_g4&_cdn_session=878048267&_cdn_timestamp=1686635866&_cdn_token=565e118030034dea6d18e13a8dd8cd105770e8e0
 #EXTINF:-1 group-title="Bics Extra", USA | Nick Jr.
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/NICKJR/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKJR_stream_y9&_cdn_session=878048467&_cdn_timestamp=1686635877&_cdn_token=9fecc5746ac82e6014815c65bcaca26277a80936
+
+******************************* IPTVCAT **********************************************
+
+#EXTINF:-1 group-title="IPTVCAT", CBS CO USA
+http://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
+#EXTINF:-1 group-title="IPTVCAT", CBS East
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cbs.eastern.us.m3u8
+#EXTINF:-1 group-title="IPTVCAT", CBS KCAL Los Angeles
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/kcal.los.angeles.us.m3u8
+#EXTINF:-1 group-title="IPTVCAT", CBS News Los Angeles
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
+#EXTINF:-1 group-title="IPTVCAT", NBC 15 Madison WI (WMTVNBC)
+http://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
+#EXTINF:-1 group-title="IPTVCAT", NBC 26 (WGBA)
+https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
+#EXTINF:-1 group-title="IPTVCAT", LX Network (WNBCDT3) New York NY
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/lx.network.wnbc.dt3.new.york.ny.us.m3u8
+#EXTINF:-1 group-title="IPTVCAT", 23 ABC (KERO)
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+#EXTINF:-1 group-title="IPTVCAT", ABC 7 KMGH,US | Denver | ABC 7 KMGH
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+#EXTINF:-1 group-title="IPTVCAT", Fox 15 West Texas Abilene TX (KXVA)
+https://livevideo01.myfoxzone.com/hls/live/2017381/elvs/live.m3u8
+#EXTINF:-1 group-title="IPTVCAT", FOX 28 Savannah GA (WTGS),FOX 28 WTGS,US | Savannah | FOX 28 WTGS
+http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
+
+#EXTINF:-1 group-title="IPTVCAT", Sky Action
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.action.de.m3u8
+#EXTINF:-1 group-title="IPTVCAT", Sky Cinema Best Of
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.cinema.best.of.de.m3u8
+#EXTINF:-1 group-title="IPTVCAT", Sky Cinema Premieren
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.cinema.premieren.de.m3u8
+#EXTINF:-1 group-title="IPTVCAT", Sky Cinema Premieren +24
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.cinema.premieren.24.de.m3u8
+#EXTINF:-1 group-title="IPTVCAT", Sky Sport 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.sport.1.de.m3u8
+#EXTINF:-1 group-title="IPTVCAT", Sky Sport 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.sport.2.de.m3u8
+#EXTINF:-1 group-title="IPTVCAT", D SKY CINEMA DISNEY FHD
+http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/30934.ts
+#EXTINF:-1 group-title="IPTVCAT", Sky Cinema Action
+http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/221521.ts
+#EXTINF:-1 group-title="IPTVCAT", Sky Cinema Action
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.cinema.action.uk.m3u8
+#EXTINF:-1 group-title="IPTVCAT", Sky One
+http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/221536.ts
+#EXTINF:-1 group-title="IPTVCAT", UK - Sky Cinema Action FHD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/59990
+#EXTINF:-1 group-title="IPTVCAT", UK - Sky Cinema Disney  HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/59993
+#EXTINF:-1 group-title="IPTVCAT", UK - Sky Sports Premier League UHD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62554
 
 ******************************* DEPORTES **********************************************
 #EXTINF:-1  group-title="Bics Extra", TUDN MX
