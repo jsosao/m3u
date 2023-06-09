@@ -277,6 +277,36 @@ http://2hubs.ddns.net:25461/BabNour/telegrramm/59993
 #EXTINF:-1 group-title="IPTVCAT", UK - Sky Sports Premier League UHD
 http://2hubs.ddns.net:25461/BabNour/telegrramm/62554
 
+
+#EXTINF:-1 group-title="IPTVCAT", Movistar Deportes
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/movistar.deportes.es.m3u8
+#EXTINF:-1 group-title="IPTVCAT", Fox Deportes
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.deportes.us.m3u8
+#EXTINF:-1 group-title="IPTVCAT", UNI Deportes US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/uni.deportes.us.m3u8
+#EXTINF:-1 group-title="IPTVCAT", Rai Premium
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rai.premium.it.m3u8
+#EXTINF:-1 group-title="IPTVCAT", HBO PREMIUM
+https://s.vdo.ai/vhs/1.m3u8
+#EXTINF:-1 group-title="IPTVCAT", HBO (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.eastern.us.m3u8
+#EXTINF:-1 group-title="IPTVCAT", HBO (West) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.west.us.m3u8
+#EXTINF:-1 group-title="IPTVCAT", HBO 2 (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.2.eastern.us.m3u8
+#EXTINF:-1 group-title="IPTVCAT", HBO 2 (West) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.2.pacific.us.m3u8
+#EXTINF:-1 group-title="IPTVCAT", Cinemax (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cinemax.eastern.us.m3u8
+#EXTINF:-1 group-title="IPTVCAT", Showtime (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/showtime.eastern.us.m3u8
+#EXTINF:-1 group-title="IPTVCAT", Showtime (West) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/showtime.west.us.m3u8
+#EXTINF:-1 group-title="IPTVCAT", Showtime 2 (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/showtime.2.eastern.us.m3u8
+#EXTINF:-1 group-title="IPTVCAT", Showtime 2 (West) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/showtime.2.pacific.us.m3u8
+
 ******************************* DEPORTES **********************************************
 #EXTINF:-1  group-title="Bics Extra", TUDN MX
 http://190.61.102.67:31589/play/a08j/index.m3u8
