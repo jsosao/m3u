@@ -166,11 +166,33 @@ http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN
 #EXTINF:-1 group-title="Bics Extra", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
+#EXTINF:-1 group-title="Bics Extra", CBS CO USA
+http://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Bics Extra", CBS East
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cbs.eastern.us.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Bics Extra", CBS KCAL Los Angeles
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/kcal.los.angeles.us.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Bics Extra", CBS News Los Angeles
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Bics Extra", NBC 15 Madison WI (WMTVNBC)
+http://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Bics Extra", NBC 26 (WGBA)
+https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Bics Extra", LX Network (WNBCDT3) New York, NY
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/lx.network.wnbc.dt3.new.york.ny.us.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Bics Extra", 23 ABC (KERO)
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Bics Extra", ABC 7 KMGH,US | Denver | ABC 7 KMGH
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Bics Extra", Fox 15 West Texas Abilene TX (KXVA)
+https://livevideo01.myfoxzone.com/hls/live/2017381/elvs/live.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Bics Extra", FOX 28 Savannah GA (WTGS),FOX 28 WTGS,US | Savannah | FOX 28 WTGS
+http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8?checkedby:iptvcat.com
+
 #EXTINF:-1 group-title="Bics Extra", RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Bics Extra", ATRES CINE
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
-
 #EXTINF:-1 group-title="Bics Extra", USA | Paramount Network
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PARAMOUNT/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPARAMOUNTCHANNEL_stream_5p&_cdn_session=878024051&_cdn_timestamp=1686634679&_cdn_token=3e3f9aa17f8229576a3d7f04210016cc9119840d
 #EXTINF:-1 group-title="Bics Extra", USA | Sony Channel
