@@ -116,8 +116,6 @@ https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/60580
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist.m3u8
 #EXTINF:-1 group-title="Bics Extra", TVN PA
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
-#EXTINF:-1 group-title="Bics Extra", TELEMAX DO
-https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANAL 12 SV
 https://do0b1lvn4z8ni.cloudfront.net/hls/canal12.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANAL 2 CR
@@ -131,11 +129,11 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8
 #EXTINF:-1 group-title="Bics Extra", TICAVISION CR
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1  group-title="Bics Extra", GLOBAL PE
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=878008619&_cdn_timestamp=1686634065&_cdn_token=7b20cfd0ae9b5aa2505151f34bc3b8f2038ccddb
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=883690403&_cdn_timestamp=1686850191&_cdn_token=dc40c6de388b473c2efadb26165585116bdf82dd
 #EXTINF:-1  group-title="Bics Extra", PANAMERICANA PE
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=878002579&_cdn_timestamp=1686633823&_cdn_token=8733c2634e1a45dcb78c958024cf6f09d95e5132
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=883685939&_cdn_timestamp=1686850016&_cdn_token=12013c6f6b1f239d463ad69f2dadae672e00181a
 #EXTINF:-1  group-title="Bics Extra", AMERICA TELEVISION PE
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=878002235&_cdn_timestamp=1686633808&_cdn_token=8441bdc5b6a02275ced7abdbbc7727f35851ade3
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=883685003&_cdn_timestamp=1686849981&_cdn_token=49c12662f7407119364a0721990a8ee729dbc26c
 #EXTINF:-1 group-title="Bics Extra", TELE 13 CL
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", 24 HORAS CL
