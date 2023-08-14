@@ -1,6 +1,6 @@
 #EXTM3U
 
-************************  11/AGO/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  14/AGO/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ************************ HI THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
@@ -19,15 +19,8 @@ https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
 #EXTINF:-1 group-title="Bics", 8 MTY
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8
-#EXTINF:-1 group-title="Bics", GOLDEN MULTIPLEX -1HR 
-https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
-https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", GOLDEN PLUS
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", GOLDEN PREMIER
-https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", NOTICIERO UNIVISION
-https://linear-306.frequency.stream/dist/localnow/306/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", EURO NEWS
 https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", ATV+ PE
@@ -38,18 +31,12 @@ https://linear-259.frequency.stream/dist/vix/259/hls/master/playlist.m3u8
 https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", NUESTRA VISION
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", Lo Mejor de la Liga MX USA
-https://linear-193.frequency.stream/dist/localnow/193/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", Lo Mejor de la Liga MX
-https://linear-452.frequency.stream/452/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", N+
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", N+ MEDIA
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-#EXTINF:-1 group-title="Bics", WEATHER CHANNEL ESPAÑOL
-https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", TIGO SPORTS
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", REAL MADRID TV
@@ -101,9 +88,13 @@ https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", RCN Mas+ CO
 https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", TELEFE AR
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=1048832435&_cdn_timestamp=1691984629&_cdn_token=f13b248555b138e0e45283770a7f392c5211190b
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=1060276339&_cdn_timestamp=1692237466&_cdn_token=33c44a3ecedd0585e9244cdeb08b22cb583eaef1
 #EXTINF:-1 group-title="Bics Extra", CINCO TV AR
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Bics Extra", Todo Noticias AR
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1 group-title="Bics Extra", Canal 26 Noticias AR
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", TELEMUNDO CA
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 group-title="Bics Extra", TELEMUNDO PR
@@ -141,19 +132,17 @@ http://181.189.243.254:8000/play/a0oh/index.m3u8
 #EXTINF:-1 group-title="Bics Extra", TICAVISION CR
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1  group-title="Bics Extra", GLOBAL PE
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=1053956939&_cdn_timestamp=1692104782&_cdn_token=cc61fe1c2d523b74554267c88a493ba5a14413d9
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=1068946219&_cdn_timestamp=1692421293&_cdn_token=7cb2082e2151c68e5cc46b8b4902d198f14263c7
 #EXTINF:-1  group-title="Bics Extra", PANAMERICANA PE
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=1053951371&_cdn_timestamp=1692104666&_cdn_token=5f8d9ef5dd660da151b903a091eaffa017fa0dd5
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=1068689307&_cdn_timestamp=1692416413&_cdn_token=489000a5a1a6bb7dc19161e4a0a8dadc0ffa2f29
 #EXTINF:-1  group-title="Bics Extra", AMERICA TELEVISION PE
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=1053950819&_cdn_timestamp=1692104652&_cdn_token=daff90c3be2ab5eb97010a369848394cb1591734
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=1068688563&_cdn_timestamp=1692416398&_cdn_token=4ddd3042038ce862a432fbe974768a036efdf916
 #EXTINF:-1  group-title="Bics Extra", TVC EC 
 https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp/playlist.m3u8
 #EXTINF:-1  group-title="Bics Extra", Ecuador TV EC
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_session=1048828787&_cdn_timestamp=1691984578&_cdn_token=67cb21388b105b645a7243e98fae0a0251026186
-#EXTINF:-1  group-title="Bics Extra", RTS EC
-https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/playlist.m3u8
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_session=1061197035&_cdn_timestamp=1692251510&_cdn_token=2f6fdb92a81381b4387437b8d8664afa77e05570
 #EXTINF:-1  group-title="Bics Extra", RTU EC
-https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
+http://177.234.230.226:8010/play/a029/index.m3u8
 #EXTINF:-1 group-title="Bics Extra", TELE 13 CL
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", 24 HORAS CL
@@ -274,7 +263,7 @@ http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@
 #EXTINF:-1  group-title="Bics Extra", Fox Sports Premium
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/56034
 #EXTINF:-1  group-title="Bics Extra",  Fox Sports 2 USA
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=1048715091&_cdn_timestamp=1691983031&_cdn_token=18d7ad4dbd3b42b0f49b3b15ae91cfd43cf52a3e
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=1060558515&_cdn_timestamp=1692240485&_cdn_token=c52289993c4d1aeaf01c70fd656a5fe3f24efde1
 #EXTINF:-1  group-title="Bics Extra", Fox Sports 3 USA
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=1048715555&_cdn_timestamp=1691983037&_cdn_token=c32ab0c81cf8ce831875f16cbb0877e96c82986b
 #EXTINF:-1  group-title="Bics Extra", ESPN USA
@@ -301,7 +290,7 @@ https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1  group-title="Bics Extra", Fox Sports Latinoamerica 
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/145435
 #EXTINF:-1  group-title="Bics Extra", FOX Sports Premium LatinoAmerica 
-HD http://magmas5.com:8000/goodserver/2C4X1EC7EW/145439
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/145439
 #EXTINF:-1  group-title="Bics Extra", FOX Sports 2 LatinoAmerica HD 
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/132269
 #EXTINF:-1  group-title="Bics Extra", Fox Sports 3 LatinoAmerica HD 
@@ -2383,87 +2372,87 @@ https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 
 ************************ https://raw.githubusercontent.com/angel200881/C/main/CR.m3u8  ************************
 
-#EXTINF:-1 group-title="CR" tvg-logo="http://svtv.xyz:8000/images/4418a85be34f379a1a4efb95520701f0.jpg",MX: IMAGEN
+#EXTINF:-1 group-title="CR", MX: IMAGEN
 http://svtv.xyz:8080/sandra30abril/CQNFV/109052
-#EXTINF:-1 group-title="CR" tvg-logo="http://svtv.xyz:8000/images/cd30f07c220bf5807fe9fa517c01e4ca.png",MX: GLITZ
+#EXTINF:-1 group-title="CR", MX: GLITZ
 http://svtv.xyz:8080/sandra30abril/CQNFV/109053
-#EXTINF:-1 group-title="CR" tvg-logo="http://svtv.xyz:8000/images/38425aa5a05aada202d70bd887ed4471.png",MX: FORO TV
+#EXTINF:-1 group-title="CR", MX: FORO TV
 http://svtv.xyz:8080/sandra30abril/CQNFV/109054
-#EXTINF:-1 group-title="CR" tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-m.png",MX: CANAL DE LAS ESTRELLAS
+#EXTINF:-1 group-title="CR", MX: CANAL DE LAS ESTRELLAS
 http://svtv.xyz:8080/sandra30abril/CQNFV/109056
-#EXTINF:-1 group-title="CR" tvg-logo="http://svtv.xyz:8000/images/4d370e5062dd7c9fa7f1f6eb6a2d1a67.png",MX: AZ CLIC
+#EXTINF:-1 group-title="CR", MX: AZ CLIC
 http://svtv.xyz:8080/sandra30abril/CQNFV/109058
-#EXTINF:-1 group-title="CR" tvg-logo="http://svtv.xyz:8000/images/737729a379fa0e83ad71f83233b5bb27.png",MX: AZ MUNDO
+#EXTINF:-1 group-title="CR", MX: AZ MUNDO
 http://svtv.xyz:8080/sandra30abril/CQNFV/109059
-#EXTINF:-1 group-title="CR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png",ECU | ECUAVISA 2
+#EXTINF:-1 group-title="CR", ECU | ECUAVISA 2
 http://svtv.xyz:8080/sandra30abril/CQNFV/109477
-#EXTINF:-1 group-title="CR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png",ECU | ECUAVISA
+#EXTINF:-1 group-title="CR", ECU | ECUAVISA
 http://svtv.xyz:8080/sandra30abril/CQNFV/109478
-#EXTINF:-1 group-title="CR" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png",ECU | OROMAR
+#EXTINF:-1 group-title="CR", ECU | OROMAR
 http://svtv.xyz:8080/sandra30abril/CQNFV/109481
-#EXTINF:-1 group-title="CR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png",ECU | TC TELEVISION
+#EXTINF:-1 group-title="CR", ECU | TC TELEVISION
 http://svtv.xyz:8080/sandra30abril/CQNFV/109483
-#EXTINF:-1 group-title="CR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/TVCEC.png",ECU | TELEVICENTRO
+#EXTINF:-1 group-title="CR", ECU | TELEVICENTRO
 http://svtv.xyz:8080/sandra30abril/CQNFV/109485
-#EXTINF:-1 group-title="CR" tvg-logo="https://photos.live-tv-channels.org/tv-logo/pe-tv-peru-2373.jpg",LAT |  TV PERU
+#EXTINF:-1 group-title="CR", LAT |  TV PERU
 http://svtv.xyz:8080/sandra30abril/CQNFV/109531
-#EXTINF:-1 group-title="CR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",TELEMUNDO MEXICO
+#EXTINF:-1 group-title="CR", TELEMUNDO MEXICO
 http://svtv.xyz:8080/sandra30abril/CQNFV/109625
-#EXTINF:-1 group-title="CR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",TELEMUNDO 51 MIAMI
+#EXTINF:-1 group-title="CR", TELEMUNDO 51 MIAMI
 http://svtv.xyz:8080/sandra30abril/CQNFV/109629
-#EXTINF:-1 group-title="CR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",TELEMUNDO FRESNO
+#EXTINF:-1 group-title="CR", TELEMUNDO FRESNO
 http://svtv.xyz:8080/sandra30abril/CQNFV/109636
-#EXTINF:-1 group-title="CR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",TELEMUNDO 44 (ESP)
+#EXTINF:-1 group-title="CR", TELEMUNDO 44 (ESP)
 http://svtv.xyz:8080/sandra30abril/CQNFV/109640
-#EXTINF:-1 group-title="CR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",TELEMUNDO 15 KVDA (PALM SPRINGS)
+#EXTINF:-1 group-title="CR", TELEMUNDO 15 KVDA (PALM SPRINGS)
 http://svtv.xyz:8080/sandra30abril/CQNFV/109643
-#EXTINF:-1 group-title="CR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",TELEMUNDO 3 (KCSO SACRAMENTO)
+#EXTINF:-1 group-title="CR", TELEMUNDO 3 (KCSO SACRAMENTO)
 http://svtv.xyz:8080/sandra30abril/CQNFV/109644
-#EXTINF:-1 group-title="CR" tvg-logo="http://svtv.xyz:8000/images/ec0ec85d0d0cb7afbc8a0304b82812a9.png",GALAVISION ACRAMENTO
+#EXTINF:-1 group-title="CR", GALAVISION ACRAMENTO
 http://svtv.xyz:8080/sandra30abril/CQNFV/109647
-#EXTINF:-1 group-title="CR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",TELEMUNDO 60
+#EXTINF:-1 group-title="CR", TELEMUNDO 60
 http://svtv.xyz:8080/sandra30abril/CQNFV/109653
-#EXTINF:-1 group-title="CR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",TELEMUNDO 39 DALLAS (ESP
+#EXTINF:-1 group-title="CR", TELEMUNDO 39 DALLAS (ESP
 http://svtv.xyz:8080/sandra30abril/CQNFV/109655
-#EXTINF:-1 group-title="CR" tvg-logo="http://svtv.xyz:8000/images/6b20c1976d8275d39ff4a75bf34bd7a5.png",UNIMAS PHOENIX (ESP)
+#EXTINF:-1 group-title="CR", UNIMAS PHOENIX (ESP)
 http://svtv.xyz:8080/sandra30abril/CQNFV/109657
-#EXTINF:-1 group-title="CR" tvg-logo="http://svtv.xyz:8000/images/84ca814de87f8be948f72d23003f1d5d.png",GALAVISION OP****
+#EXTINF:-1 group-title="CR", GALAVISION OP****
 http://svtv.xyz:8080/sandra30abril/CQNFV/109662
-#EXTINF:-1 group-title="CR" tvg-logo="http://svtv.xyz:8000/images/09979030a312d53511faf34ab80c0a8e.png",GALAVISION OP*
+#EXTINF:-1 group-title="CR", GALAVISION OP*
 http://svtv.xyz:8080/sandra30abril/CQNFV/109667
-#EXTINF:-1 group-title="CR" tvg-logo="http://svtv.xyz:8000/images/f7a645d0b5e0bd705cb678fc5bf862fc.png",GALAVISION*
+#EXTINF:-1 group-title="CR", GALAVISION*
 http://svtv.xyz:8080/sandra30abril/CQNFV/109672
-#EXTINF:-1 group-title="CR" tvg-logo="http://svtv.xyz:8000/images/ec0ec85d0d0cb7afbc8a0304b82812a9.png",GALAVISION OP***
+#EXTINF:-1 group-title="CR", GALAVISION OP***
 http://svtv.xyz:8080/sandra30abril/CQNFV/109675
-#EXTINF:-1 group-title="CR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",TELEMUNDO INTERNACIONAL
+#EXTINF:-1 group-title="CR", TELEMUNDO INTERNACIONAL
 http://svtv.xyz:8080/sandra30abril/CQNFV/109682
-#EXTINF:-1 group-title="CR" tvg-logo="http://svtv.xyz:8000/images/b43ba902ace5d55ecb791a5da816ed1f.png",UNIMAS Atlanta HD
+#EXTINF:-1 group-title="CR", UNIMAS Atlanta HD
 http://svtv.xyz:8080/sandra30abril/CQNFV/109686
-#EXTINF:-1 group-title="CR" tvg-logo="http://svtv.xyz:8000/images/6b20c1976d8275d39ff4a75bf34bd7a5.png",UNIMAS AUSTIN
+#EXTINF:-1 group-title="CR", UNIMAS AUSTIN
 http://svtv.xyz:8080/sandra30abril/CQNFV/109687
-#EXTINF:-1 group-title="CR" tvg-logo="http://svtv.xyz:8000/images/7cb8a915baaa0cb6d63a951ed9d2f85a.png",UNIMAS FRESNO (P)
+#EXTINF:-1 group-title="CR", UNIMAS FRESNO (P)
 http://svtv.xyz:8080/sandra30abril/CQNFV/109690
-#EXTINF:-1 group-title="CR" tvg-logo="http://svtv.xyz:8000/images/1e72e15c63483798997bcb54d4980760.png",UNIMA
+#EXTINF:-1 group-title="CR", UNIMA
 http://svtv.xyz:8080/sandra30abril/CQNFV/109693
-#EXTINF:-1 group-title="CR" tvg-logo="http://svtv.xyz:8000/images/ab399331449b34e3a2a10cfe4046c624.png",UNIMAS Miami HD
+#EXTINF:-1 group-title="CR", UNIMAS Miami HD
 http://svtv.xyz:8080/sandra30abril/CQNFV/109694
-#EXTINF:-1 group-title="CR" tvg-logo="http://svtv.xyz:8000/images/ab436a2b2b6c3683e0c2cf7484d21072.png",UNIMAS SAN ANTONIO
+#EXTINF:-1 group-title="CR", UNIMAS SAN ANTONIO
 http://svtv.xyz:8080/sandra30abril/CQNFV/109698
-#EXTINF:-1 group-title="CR" tvg-logo="http://boxdigital.xyz:8080/images/8a6d1b6bec4ab1a2e9b0f7c938fe089d.png",UNI - UNIVISION NUEVA YORK
+#EXTINF:-1 group-title="CR", UNI - UNIVISION NUEVA YORK
 http://svtv.xyz:8080/sandra30abril/CQNFV/109705
-#EXTINF:-1 group-title="CR" tvg-logo="http://boxdigital.xyz:8080/images/8a6d1b6bec4ab1a2e9b0f7c938fe089d.png",UNI - UNIVISION HOUSTON
+#EXTINF:-1 group-title="CR", UNI - UNIVISION HOUSTON
 http://svtv.xyz:8080/sandra30abril/CQNFV/109710
-#EXTINF:-1 group-title="CR" tvg-logo="http://boxdigital.xyz:8080/images/8a6d1b6bec4ab1a2e9b0f7c938fe089d.png",UNI - UNIVISION MIAMI
+#EXTINF:-1 group-title="CR", UNI - UNIVISION MIAMI
 http://svtv.xyz:8080/sandra30abril/CQNFV/109712
-#EXTINF:-1 group-title="CR" tvg-logo="http://boxdigital.xyz:8080/images/8a6d1b6bec4ab1a2e9b0f7c938fe089d.png",UNI - UNIVISION NY
+#EXTINF:-1 group-title="CR", UNI - UNIVISION NY
 http://svtv.xyz:8080/sandra30abril/CQNFV/109713
-#EXTINF:-1 group-title="CR" tvg-logo="http://boxdigital.xyz:8080/images/8a6d1b6bec4ab1a2e9b0f7c938fe089d.png",UNI - UNIVISION SALTLAKE
+#EXTINF:-1 group-title="CR", UNI - UNIVISION SALTLAKE
 http://svtv.xyz:8080/sandra30abril/CQNFV/109718
-#EXTINF:-1 group-title="CR" tvg-logo="http://boxdigital.xyz:8080/images/8a6d1b6bec4ab1a2e9b0f7c938fe089d.png",UNI - UNIVISION SAN FRANCISCO
+#EXTINF:-1 group-title="CR", UNI - UNIVISION SAN FRANCISCO
 http://svtv.xyz:8080/sandra30abril/CQNFV/109720
-#EXTINF:-1 group-title="CR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",TELEMUNDO INTERNACIONAL
+#EXTINF:-1 group-title="CR", TELEMUNDO INTERNACIONAL
 http://svtv.xyz:8080/sandra30abril/CQNFV/109722
-#EXTINF:-1 group-title="CR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",TELEMUNDO EAST FEED
+#EXTINF:-1 group-title="CR", TELEMUNDO EAST FEED
 http://svtv.xyz:8080/sandra30abril/CQNFV/109725
 
 
