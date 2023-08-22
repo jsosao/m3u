@@ -2310,9 +2310,6 @@ https://v3.playerlatino.live/stream/m3u8/276
 
 #EXTINF:-1 group-title="NACIONALES", AGU: Canal 26
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
-
-
 #EXTINF:-1 group-title="NACIONALES", AGU: Canal 26
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
 #EXTINF:-1 group-title="NACIONALES", GDL: Canal 4
@@ -2390,6 +2387,8 @@ https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 
 #EXTINF:-1 group-title="CR", MX: IMAGEN
 http://svtv.xyz:8080/sandra30abril/CQNFV/109052
+#EXTINF:-1 group-title="CR", MX: IMAGEN
+http://166.0.208.26:4481/103Imagen/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 group-title="CR", MX: GLITZ
 http://svtv.xyz:8080/sandra30abril/CQNFV/109053
 #EXTINF:-1 group-title="CR", MX: FORO TV
