@@ -1,12 +1,16 @@
 #EXTM3U
 
-************************  13/OCT/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  30/OCT/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ************************ HI THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", ACTUALIZADO EL 13 DE OCT 12:00 HRS
+#EXTINF:-1 group-title="Bics", ACTUALIZADO EL 30 DE OCT 12:00 HRS
+
+#EXTINF:-1 group-title="Bics", IMAGEN TV
+http://proiptvdigic.com:8080/58paswwnuevo/SG65uJ5ahaw6/634
+
 
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS LATAM
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
@@ -90,7 +94,7 @@ https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", RCN Mas+ CO
 https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", TELEFE AR
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=1298001059&_cdn_timestamp=1697506722&_cdn_token=960d86f757c628de2937cf1ecea8dcddf520b365
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=1338058643&_cdn_timestamp=1698662401&_cdn_token=33df1e4c08881f0e94d9bc730f93ab720cc564fe
 #EXTINF:-1 group-title="Bics Extra", CINCO TV AR
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Bics Extra", Todo Noticias AR
@@ -136,15 +140,15 @@ http://181.189.243.254:8000/play/a0oh/index.m3u8
 #EXTINF:-1 group-title="Bics Extra", TICAVISION CR
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1  group-title="Bics Extra", GLOBAL PE
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=1303122907&_cdn_timestamp=1697633801&_cdn_token=8991c6d5a7a904897c58d772d1c2342fcaa55d72
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=1356843187&_cdn_timestamp=1699063446&_cdn_token=fb0ca9411f5f863414cf01ad8eff181d040020c0
 #EXTINF:-1  group-title="Bics Extra", PANAMERICANA PE
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=1303119995&_cdn_timestamp=1697633685&_cdn_token=f60e8b4801f206b0ea4ec7c160de31da2f69f81e
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=1356821075&_cdn_timestamp=1699063228&_cdn_token=a461827c07899c76ec1cce255c18c6bb31d1da9b
 #EXTINF:-1  group-title="Bics Extra", AMERICA TELEVISION PE
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AMERIK/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=1303198851&_cdn_timestamp=1697636621&_cdn_token=6b3829d895bd5f56ca6d306275ae2e9b7497b8fa
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AMERIK/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=1356819011&_cdn_timestamp=1699063211&_cdn_token=741b4f4d98d0437c665fccdbc66a8648e72523b8
 #EXTINF:-1  group-title="Bics Extra", TVC EC 
 https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp/playlist.m3u8
 #EXTINF:-1  group-title="Bics Extra", Ecuador TV EC
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_session=1297997531&_cdn_timestamp=1697506675&_cdn_token=3332993070c85327d7850e6602ada9d93634387a
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_session=1338058003&_cdn_timestamp=1698662348&_cdn_token=f9cb6b9812191444138efe6223b052ab3b66e242
 #EXTINF:-1  group-title="Bics Extra", RTU EC
 http://177.234.230.226:8010/play/a029/index.m3u8
 #EXTINF:-1  group-title="Bics Extra", RTU EC
@@ -189,25 +193,25 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Bics Extra", ATRES CINE
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 #EXTINF:-1 group-title="Bics Extra", USA | Paramount Network
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PARAMOUNT/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPARAMOUNTCHANNEL_stream_5p&_cdn_session=1297941443&_cdn_timestamp=1697505659&_cdn_token=d1ccd511c367a80576dbc124ebdbd26ff2dc168d
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PARAMOUNT/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPARAMOUNTCHANNEL_stream_5p&_cdn_session=1338037371&_cdn_timestamp=1698661402&_cdn_token=647fb7384f431b37617c1393756521cb99578f6e
 #EXTINF:-1 group-title="Bics Extra", USA | Sony Channel
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/SONY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONY_stream_ew&_cdn_session=1297942867&_cdn_timestamp=1697505683&_cdn_token=37451f1a64b683b67c97cb196c74d052036343f5
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/SONY/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONY_stream_ew&_cdn_session=1338037707&_cdn_timestamp=1698661416&_cdn_token=4210f95894b3bebd9e27ebe4933d6123f5a4f7f0
 #EXTINF:-1 group-title="Bics Extra", USA | Sony Movies
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/SONYMOVIES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONYMOVIES_stream_tj&_cdn_session=1297943315&_cdn_timestamp=1697505692&_cdn_token=04e1dea104de2b6e8b619e613cb033b7a66b8ff4
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/SONYMOVIES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONYMOVIES_stream_tj&_cdn_session=1338037843&_cdn_timestamp=1698661422&_cdn_token=3279f71c7afb7c1c3f5a568f616fc7103732dd11
 #EXTINF:-1 group-title="Bics Extra", USA | TBS
 http://181.189.243.254:8000/play/a0pj/index.m3u8
 #EXTINF:-1 group-title="Bics Extra", USA | Studio Universal
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/STUDIOUNIVERSAL/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSTUDIOUNIVERSAL_stream_w1&_cdn_session=1297945603&_cdn_timestamp=1697505736&_cdn_token=252e3d34d92f390dec0a247348151190fdd29135
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/STUDIOUNIVERSAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSTUDIOUNIVERSAL_stream_w1&_cdn_session=1338039859&_cdn_timestamp=1698661531&_cdn_token=ca78a942d0d076c7ba9b4e01f741a7ad6dd7f427
 #EXTINF:-1 group-title="Bics Extra", USA | USA Network
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/USA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSA_stream_97&_cdn_session=1297946379&_cdn_timestamp=1697505748&_cdn_token=7f08894472bc54afd155125cae486f77eedca0ca
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/USA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSA_stream_97&_cdn_session=1356846987&_cdn_timestamp=1699063491&_cdn_token=c9f2267f9e6eb5144843da7cbc022a4072d9f856
 #EXTINF:-1 group-title="Bics Extra", USA | Warner Channel
 http://177.53.153.21:8001/play/a08l/index.m3u8
 #EXTINF:-1 group-title="Bics Extra", USA | Star Channel
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/STARCHANNEL/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXCHANNEL_stream_1f&_cdn_session=1297947243&_cdn_timestamp=1697505766&_cdn_token=39368cc2dae462ad369e63a669966f0d29908b61
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/STARCHANNEL/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXCHANNEL_stream_1f&_cdn_session=1338040443&_cdn_timestamp=1698661563&_cdn_token=e534bedae95f7b2aaabe18e855d32dccf7d2752c
 #EXTINF:-1 group-title="Bics Extra", USA | FX
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFX_stream_gv&_cdn_session=1297947707&_cdn_timestamp=1697505775&_cdn_token=448f9d401995cd22296f3b86667b657f7a403c23
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFX_stream_gv&_cdn_session=1338040603&_cdn_timestamp=1698661573&_cdn_token=232bf9ffe03788808ee162cce0fdb140a2bf6be4
 #EXTINF:-1 group-title="Bics Extra", USA | Universal TV
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVERSAL_stream_4o&_cdn_session=1297950035&_cdn_timestamp=1697505812&_cdn_token=468cec8f954b720c11a4f9eaee126b78dcac6e29
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVERSAL_stream_4o&_cdn_session=1338041123&_cdn_timestamp=1698661598&_cdn_token=01f427477441efb1807c5034f1dde6282cac2656
 #EXTINF:-1 group-title="Bics Extra", USA | Universal Crime
 http://177.53.153.21:8001/play/a09g/index.m3u8
 #EXTINF:-1 group-title="Bics Extra", USA | Universal Cinema
@@ -241,9 +245,9 @@ http://177.53.153.21:8001/play/a085/index.m3u8
 #EXTINF:-1 group-title="Bics Extra", USA | Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistASTRAL
 #EXTINF:-1 group-title="Bics Extra", USA | Nickelodeon
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NICKELODEON/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKELODEON_stream_g4&_cdn_session=1297957179&_cdn_timestamp=1697505946&_cdn_token=29b6ad67afbf9de027cc97e5953654fd74f1206a
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/NICKELODEON/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKELODEON_stream_g4&_cdn_session=1338045699&_cdn_timestamp=1698661704&_cdn_token=0a3d2502a69ade69159dd7c55d4b24d8f72cdaf8
 #EXTINF:-1 group-title="Bics Extra", USA | Nick Jr.
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/NICKJR/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKJR_stream_y9&_cdn_session=1297957515&_cdn_timestamp=1697505954&_cdn_token=2c6b40de47dd9966021c3bba702ce2b747a59125
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/NICKJR/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKJR_stream_y9&_cdn_session=1338045947&_cdn_timestamp=1698661708&_cdn_token=ef7544e291135bd27e55f875ace3c747b1520183
 
 ******************************* DEPORTES **********************************************
 #EXTINF:-1  group-title="Bics Extra", TUDN MX
@@ -273,70 +277,63 @@ http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@
 #EXTINF:-1  group-title="Bics Extra", Fox Sports Premium
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/56034
 
+
 #EXTINF:-1  group-title="Bics Extra",  Fox Sports 2 USA
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=1303126315&_cdn_timestamp=1697633913&_cdn_token=89ae4e20a8783fac0edd007a58a535918ad013ce
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=1342326243&_cdn_timestamp=1698766893&_cdn_token=13f42cbe7cd0cdab3690634c8e2a588996ac8d44
 #EXTINF:-1  group-title="Bics Extra", Fox Sports 3 USA
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=1303126579&_cdn_timestamp=1697633919&_cdn_token=a8cfa9ca55cad951fa1ebc7ae8f36741e523b9bd
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=1338051267&_cdn_timestamp=1698661946&_cdn_token=6e04a0d6da1f5ba3b29a862935d4d6f65b707454
 #EXTINF:-1  group-title="Bics Extra", ESPN USA
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=1297977587&_cdn_timestamp=1697506307&_cdn_token=6eae081f00093fabf680ad27459d3e3ae12d96d6
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=1342325947&_cdn_timestamp=1698766886&_cdn_token=8d4e875ec2ded940d521e4bb253a054f2399e215
 #EXTINF:-1  group-title="Bics Extra", ESPN 2 USA
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=1297978435&_cdn_timestamp=1697506321&_cdn_token=837fb86aeb0467f42996d40ced6571d150c94ff0
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=1342327883&_cdn_timestamp=1698766938&_cdn_token=726eb12d088f8f802bbf74a62f08a87b5ed6fa0a
 #EXTINF:-1  group-title="Bics Extra", ESPN 3 USA
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN3/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=1297979163&_cdn_timestamp=1697506333&_cdn_token=c5656234ccb47593e004054c5855fbec2f65cba5
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=1338051939&_cdn_timestamp=1698661988&_cdn_token=a973cfbaa71cf6d3d1da3a4c7d4898fc70a54a6f
 #EXTINF:-1  group-title="Bics Extra", ESPN 4 USA
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=1297979499&_cdn_timestamp=1697506338&_cdn_token=f9f0343a534d75788eae245551d396aceab083fd
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=1338052147&_cdn_timestamp=1698661999&_cdn_token=95706121d084104e94543b704171d9d4571828ce
 #EXTINF:-1  group-title="Bics Extra", ESPN EXTRA USA
 http://177.53.153.21:8001/play/a03a/index.m3u8
 #EXTINF:-1  group-title="Bics Extra", Claro Sports
-http://190.149.66.90:4000/play/a008/index.m3u8
+http://190.6.202.162:8000/play/a014/index.m3u8
 #EXTINF:-1  group-title="Bics Extra", Claro Sports 2
 http://45.5.117.182:8000/play/a0e5/index.m3u8
 #EXTINF:-1  group-title="Bics Extra", Tigo Sports Guatemala
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 
 *** cocina pepe ****
+#EXTINF:-1  group-title="Bics Extra", Fox Sports Premium
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/27922
+#EXTINF:-1  group-title="Bics Extra", ESPN Deportes
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12280
 
 #EXTINF:-1  group-title="Bics Extra", Claro Sports HD 
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 
 #EXTINF:-1  group-title="Bics Extra", Fox Deportes 
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57388
-#EXTINF:-1  group-title="Bics Extra", espn Deportes 
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62815
 
 #EXTINF:-1  group-title="Bics Extra", FOX Sports 
-http://013tv.com:8080/1380d4eb/3fc3b12a1a/10925
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12257
 #EXTINF:-1  group-title="Bics Extra", FOX Sports 2
-http://013tv.com:8080/1380d4eb/3fc3b12a1a/3043
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12259
 #EXTINF:-1  group-title="Bics Extra", FOX Sports 3
-http://013tv.com:8080/1380d4eb/3fc3b12a1a/3044
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12258
 #EXTINF:-1  group-title="Bics Extra", ESPN 
-http://013tv.com:8080/1380d4eb/3fc3b12a1a/9070
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12278
 #EXTINF:-1  group-title="Bics Extra", ESPN 2
-http://013tv.com:8080/1380d4eb/3fc3b12a1a/298057
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12283
 #EXTINF:-1  group-title="Bics Extra", ESPN 3
-http://013tv.com:8080/1380d4eb/3fc3b12a1a/38603
-
-#EXTINF:-1  group-title="Bics Extra", Fox Sports 3 LatinoAmerica HD 
-http://167.250.222.35:16000/play/a07u/index.m3u8
-#EXTINF:-1  group-title="Bics Extra", ESPN
-http://170.254.172.10:8000/play/a07z/index.m3u8
-#EXTINF:-1  group-title="Bics Extra", ESPN LatinoAmerica HD 
-http://170.254.172.10:16000/play/a069/index.m3u8
-#EXTINF:-1  group-title="Bics Extra", ESPN 2 LatinoAmerica HD 
-http://170.254.172.10:16000/play/a06a/index.m3u8
-
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12281
 #EXTINF:-1  group-title="Bics Extra", TUDN MX
-http://170.254.172.10:16000/play/a05s/index.m3u8
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12197
 
+#EXTINF:-1  group-title="Bics Extra", M+ La Liga 
+http://515860080856165393.of23103.xyz:80/play/XDH31455298/664585696/165393.ts
 #EXTINF:-1  group-title="Bics Extra", ITV Deportes 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656899342&id=34434&ip=45.188.78.93&override_expiration=1500&sign=TxhnXtTkkmuchk54BrTTN4p4AevpD8%2Bnm3lscX9lXPg%3D
+https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
 #EXTINF:-1  group-title="Bics Extra", Tigo Sports
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 #EXTINF:-1  group-title="Bics Extra", Golazo Network 
 https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
-#EXTINF:-1  group-title="Bics Extra", Chilevision Deportes 
-https://i.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
 
 *******************************  https://raw.githubusercontent.com/jsosao/mortal251_ssiptvarg/main/jlm3uargentinaygratuita.m3u   *************************************************
 
@@ -364,7 +361,6 @@ https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/ind
 https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
 
 *********************************************  https://raw.githubusercontent.com/app2tv/M3U8/master/All.m3u ***************************************
-
 **************** https://github.com/cnluisiptv/nuevo.m3u/blob/main/premium2023.m3u *****************
 
 ************************ https://raw.githubusercontent.com/angel200881/C/main/C5.m3u8  ************************
@@ -577,21 +573,6 @@ https://v3.playerlatino.live/stream/m3u8/610|user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/617|user-agent=Lavf/57.71.001
 #EXTINF:-1 group-title="MUNDO Y CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1024px-NASA_TV.svg.png",NASA TV
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 group-title="MUNDO Y CULTURA" tvg-logo="https://i.postimg.cc/XYLkzyRF/HISTORIA.png",PLUTO TV HISTORIA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18713-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3efb2623-4d66-4ffa-b1f5-4b9d5f63d16c&userId=&serverSideAds=true
-#EXTINF:-1 group-title="MUNDO Y CULTURA" tvg-logo="https://i.postimg.cc/bYmVsWCk/NATURALEZA.png",PLUTO TV NATURALEZA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff16000-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d26f2f3a-e8be-493e-9e88-d9c8f6a4b80c&userId=&serverSideAds=true
-#EXTINF:-1 group-title="MUNDO Y CULTURA" tvg-logo="https://i.postimg.cc/bYmVsWCk/NATURALEZA.png",PLUTO TV NATURALEZA 2
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c804190-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c17b587b-1c4b-4113-806a-81298e54678e&userId=&serverSideAds=true
-#EXTINF:-1 group-title="MUNDO Y CULTURA" tvg-logo="https://i.postimg.cc/htT0b5rC/ANIMALES.png.png",PLUTO TV ANIMALES
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e3-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f8b00032-b77c-4a09-85aa-2efb870d9032&userId=&serverSideAds=true
-#EXTINF:-1 group-title="MUNDO Y CULTURA" tvg-logo="https://i.postimg.cc/htT0b5rC/ANIMALES.png.png",PLUTO TV ANIMALES (España)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae6a78d801e0007117d21/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=80604634-7bcc-11eb-86a4-8df5e66ea440&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1735a645-8fe1-4cf4-96a3-62c1e4c43743&userId=&serverSideAds=true
-#EXTINF:-1 group-title="MUNDO Y CULTURA" tvg-logo="https://i.postimg.cc/XqnvmpSG/CIENCIA.png",PLUTO TV CIENCIA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff138f0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1f0bad78-81a8-4ec0-bca7-e97463a2cc94&userId=&serverSideAds=true
-#EXTINF:-1 group-title="MUNDO Y CULTURA" tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/61b894006a46c_tastemadelogook.jpg",TasteMade MX
-https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
-
 
 #EXTINF:-1 group-title="UNIVERSAL" tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-cinema-dark-logo.png",Universal Cinema East
 http://170.254.172.10:8000/play/a08b/index.m3u8
@@ -680,8 +661,7 @@ https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main.m3u8
 https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main.m3u8
 #EXTINF:-1 group-title="NACIONALES" tvg-logo="http://radioytvmexiquense.mx/harem1/information/contenido/imagenes/251dfafd-4c6c-4ad6-aa84-1496db6f849b.png",TV Mexiquense Web
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Smithsonian_Channel_%28Latinoam%C3%A9rica%29.svg/2560px-Smithsonian_Channel_%28Latinoam%C3%A9rica%29.svg.png",Smithsonian_Channel
-https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png",HBO HD
 http://181.78.105.146:6060/play/a00h
@@ -1138,38 +1118,11 @@ https://v3.playerlatino.live/stream/m3u8/1544|user-agent=Lavf/57.71.001
 https://webudit.webdicdn.lol/lb/premium663/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN-640x384.png",ESPN NL Dd
 https://webudit.webdicdn.lol/lb/premium379/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 group-title="troy" tvg-logo="-",Troy Palamalu HOF Spech
-https://video.twimg.com/amplify_video/1424185046706003968/pl/1280x720/Dc-CRvYm19mD9jGj.m3u8
+
 
 
 *********************************  https://raw.githubusercontent.com/angel200881/C/main/FOUR KEI.m3u8  *************************************************************
 
-#EXTINF:-1 group-title="✅ 24/7 Cine" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ua14wawtuzuw96dhfnktr/estelar.png?rlkey=ck7nl2l89chx3gtksetfgvaja&dl=0",Cine Estelar ⁽ᴴᴰ⁾
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318598
-#EXTINF:-1 group-title="✅ 24/7 Cine" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wall34fkzo2kli9idik09/dc_comics.png?rlkey=54sdogxmiraiabctshdf20t53&dl=0",Cinema DC Comics ⁽ᴴᴰ⁾
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318470
-#EXTINF:-1 group-title="✅ 24/7 Cine" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mec5qt4epswy9jd7kszys/DC_Universe.png?rlkey=p9z9evzgnvod73od1y2xipp7l&dl=0",Cinema DC Universe ⁽ᴴᴰ⁾
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318471
-#EXTINF:-1 group-title="✅ 24/7 Cine" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xts7zy5ypr6et1hqu97k2/disneyfamily.png?rlkey=wshlcpyi3p6gg5kxecbcauu79&dl=0",Cinema Disney Family ⁽ᴴᴰ⁾
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318472
-#EXTINF:-1 group-title="✅ 24/7 Cine" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/a7rekky8c537z7tzt83qx/pixar.png?rlkey=57o13vmkh4z4wbh5kc79mzlv0&dl=0",Cinema Disney Pixar ⁽ᴴᴰ⁾
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318473
-#EXTINF:-1 group-title="✅ 24/7 Cine" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/sife3adgeayl9wwtj1hzs/Dreamworks.png?rlkey=czbukahkshi4adz75bzuxrowo&dl=0",Cinema Dreamworks ⁽ᴴᴰ⁾
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318474
-#EXTINF:-1 group-title="✅ 24/7 Cine" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ikc2v9khxgwzigr7mnmym/cinemafani.png?rlkey=8ysunbzswfy82g718g8q0ad8i&dl=0",Cinema Familia ⁽ᴴᴰ⁾
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318475
-#EXTINF:-1 group-title="✅ 24/7 Cine" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/nsp7467m4754reuuo5faw/madison.png?rlkey=5uifc07ixi69c8aim9r9wg42j&dl=0",Cinema Happy Madison ⁽ᴴᴰ⁾
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318476
-#EXTINF:-1 group-title="✅ 24/7 Cine" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/w6ufd4fa4iy3nm4yf0g6z/horrorclasic.png?rlkey=311xctkzarma796ro0reh8g1k&dl=0",Cinema Horror Classics ⁽ᴴᴰ⁾
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318477
-#EXTINF:-1 group-title="✅ 24/7 Cine" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zylu3z75aqagtezazsmkb/horror.png?rlkey=96h63g3jcv57dj7alkxeanvph&dl=0",Cinema Horror ⁽ᴴᴰ⁾
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318478
-#EXTINF:-1 group-title="✅ 24/7 Cine" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/j7j64a990goiyg41mdft5/lego.png?rlkey=ir4gpj7gchg3cz2ipase5s2rz&dl=0",Cinema Lego Movies ⁽ᴴᴰ⁾
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318479
-#EXTINF:-1 group-title="✅ 24/7 Cine" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7yjqta6ggf396zdqhxrxv/marvelanim.png?rlkey=itggj9mpyp0zb1lctd3iyhagz&dl=0",Cinema Marvel Animated ⁽ᴴᴰ⁾
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318480
-#EXTINF:-1 group-title="✅ 24/7 Cine" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8lyzyc5knxogr3249c6gv/marvelstud.png?rlkey=kc2o9d79zc2lba63mavm0574i&dl=0",Cinema Marvel Studios ⁽ᴴᴰ⁾
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318481
 #EXTINF:-1 group-title="✅ 24/7 Cine" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU",cinema 00
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507619&extension=ts&play_token=T3HuVEXjrf
 #EXTINF:-1 group-title="✅ 24/7 Cine" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU",cinema  01
@@ -1188,200 +1141,246 @@ http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507612&
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507611&extension=ts&play_token=Mja1pamiAk
 #EXTINF:-1 group-title="✅ 24/7 Cine" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU",cinema 08
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507610&extension=ts&play_token=E4jzoJufIQ
-#EXTINF:-1 group-title="✅ 24/7 VIP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbp_2G_Ml-TtJW_mmebQTowaIcq42SOTtsFQ&usqp=CAU",CHESPIRITO
-http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlAxvZqH3oe09w7kyMU-d5Xk/ts
-#EXTINF:-1 group-title="✅ 24/7 VIP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzSPMfhty6fYUIxzp5ea048QnK5Pa2xyGK7A&usqp=CAU",EL CHAVO DEL 8
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/136624
-#EXTINF:-1 group-title="✅ 24/7 VIP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7tO8l1aYMkZl4bsvPDmzDxRBjhdmFb7yzYA&usqp=CAU",EL CHAPULÍN COLORADO
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/136623
-#EXTINF:-1 group-title="✅ 24/7 VIP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFevMuRropxjubGTFGo6uhm9-QxSrhwWDI3w&usqp=CAU",ALF
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318444
-#EXTINF:-1 group-title="✅ 24/7 VIP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-ONrz8PIQ58oziEeYva_VdF9jH4ghzFWdtQ&usqp=CAU",HECHISADA
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/136625
-#EXTINF:-1 group-title="✅ 24/7 VIP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsiDrKfWAzOoKVuR5yLT69i6uvFtMyWtFT3w&usqp=CAU",LA FAMILIA P.LUCHE
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/136584
-#EXTINF:-1 group-title="✅ 24/7 VIP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMGdCtamfv4jsO8vk55c2I4HVNFqtBLoXBlg&usqp=CAU",LA ROSA DE GUADALUPE
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/136601
-#EXTINF:-1 group-title="✅ 24/7 VIP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8l7XXxrA09Wf7s762Q0ilY71KOwZqxCn85A&usqp=CAU",MI BELLA GENIO
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/136630
-#EXTINF:-1 group-title="✅ 24/7 VIP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuQgdcQTOx52k-0Auoem1m5U_CBOAs9739mg&usqp=CAU",SUPER AGENTE 86
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/136587
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/6397e0a8c21ef6a4bac5a777a71e7f01.png",COL| Cablenoticias
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155805
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/cd4425427821cc583cfb026e619fa062.png",COL| Canal Uno
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1066863
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/9cf64731edc6d4c3323718c6eb8138cd.png",COL| CARACOL
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155787
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/9cf64731edc6d4c3323718c6eb8138cd.png",COL| CARACOL opc2
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155783
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/9fc22b232a8197e3e6b09ccc8c4846f2.png",COL| Caracol Internacional
+http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2120
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/3c9c23cf3b3110edd5de217492ba23bf.png",COL| CITY TV
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1092275
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/d94d3dedf5efcb70fd4c5ec164d62aaa.png",COL| NTN24
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/41815
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/734a5c146a57899f2e1a2dac311a747d.png",COL| RCN
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1087192
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/734a5c146a57899f2e1a2dac311a747d.png",COL| RCN opc2
+http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2121
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/734a5c146a57899f2e1a2dac311a747d.png",COL| RCN opc3
+http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHJkD-9dBuk0s2k0Pmn1RIOc
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/30e73c310da7d353d9a9bf46213c1135.png",COL| Señal Colombia
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155811
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/4e7ca7d40c3fcf1b23f76af0d9f7235a.png",COL| TeleAntioquia
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155801
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvLenEpqBsZoYkOFBD-XdENBTsz9CEwWrjqA&usqp=CAU",COL| cali tv
+https://5ab772334c39c.streamlock.net:443/live-calitv/_definst_/calitv1/chunklist_w44416927_tkd293emF0b2tlbmVuZHRpbWU9Jndvd3phdG9rZW5oYXNoPVM1S1BjVzM5WF9raWFzNllvanhGZERVX25RbG5kU0lSRGROUldvMk1MUlk9Jndvd3phdG9rZW5zdGFydHRpbWU9.m3u8?190.60.36.91
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/313344b792f2396df12c249f7d3812c9.png",COL| TeleCaribe
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/43625
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="http://streamgo.vip:8008/images/f661ac88786c79fb80ecb9bde42fa929.png",COL| Tele-pacifico
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/47693
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFstbzvymPkISwyrD51HIU-sHFVCen1oI1Sg&usqp=CAU",COL| tv agro
+http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2137
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE_966xABJ3qeFrVWPMkt9qDvNF1DC8O5wdA&usqp=CAU",COL| telecafe
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155810
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ZEiRQZQuiiMf5k3E6hPIdYofCzy5mlSwKA&usqp=CAU",COL| cosmovision
+http://magmas5.com:8000/Oscar86/40473/150372
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStMNj7E8rn56uWnstFxNSt_tt3412HyJ7Ulw&usqp=CAU",COL| canal trece
+https://canaltrece-live.logicideas.media:443/canaltrece-live/smil:livebk.smil/chunklist_w216528419_b2250000_sles.m3u8
+#EXTINF:-1 group-title="⭐️ Colombia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHjX-rL_ABmrFD6AVNf7IsSHbsa2dhJJ-NWg&usqp=CAU",COL| Eureka
+https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-HBO.png",CINE| HBO
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155792
+#EXTINF:-1  tvg-logo="http://descargas.podzone.net/logos/-HBO-2.png",CINE| HBO 2
+http://gotv.vip:8880/Angel2023/Angel2023/88
 #EXTINF:-1  tvg-logo="http://descargas.podzone.net/logos/-HBO-plus.png",CINE| HBO +
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102376.ts
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4109
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-HBO-family.png",CINE| HBO Family
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4017
 #EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-HBO-xtream.png",CINE| HBO Xtreme
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102382.ts
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/44341
 #EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-HBO-mundi.png",CINE| HBO Mundi
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102379.ts
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1143815
 #EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-HBO-pop.png",CINE| HBO POP
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102380.ts
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/47445
+#EXTINF:-1  tvg-logo="http://descargas.podzone.net/logos/-HBO-signature.png",CINE| HBO signature
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155796
 #EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-cinecanal.png",CINE| Cinecanal
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102356.ts
+http://gotv.vip:8880/Angel2023/Angel2023/36
 #EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-cine-latino.png",CINE| Cine Latino
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102354.ts
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4136
 #EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos2/-CINEMAX.png",CINE| Cinemax
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102358.ts
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1068350
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-claro-cinema.png",CINE| Claro Cinema
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4145
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-de-pelicula-plus.png",CINE| De Pelicula Clásico
+http://gotv.vip:8880/Angel2023/Angel2023/140039
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-DHE.png",CINE| DHE
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/24180
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-golden-edge.png",CINE| Golden EDGE
+http://gotv.vip:8880/Angel2023/Angel2023/85
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-golden-premiere.png",CINE| Golden Premier
+http://gotv.vip:8880/Angel2023/Angel2023/245
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-golden.png",CINE| Golden
+http://gotv.vip:8880/Angel2023/Angel2023/244
 #EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-golden.png",CINE| Golden Plus
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318700
+http://gotv.vip:8880/Angel2023/Angel2023/86
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-space.png",CINE| Space
+http://gotv.vip:8880/Angel2023/Angel2023/113
 #EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-universal-channel.png",CINE| universal channel
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318677
+http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHEocrZghRUsgEdfMCdx0PzA
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-universal-cinema.png",CINE| universal cinema
+http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHIQRxBYMBDsAYCSlYBFO_r4
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-universal-reality.png",CINE| universal reality
+http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHExvfJduc1WfdWeSwoqNflw
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-universal-premier.png",CINE| universal premier
+http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHI1phC-Npv73caM2Q53jCkc
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-paramount.png",CINE| Paramount+
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155799
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-AMC.png",CINE| amc
+http://gotv.vip:8880/Angel2023/Angel2023/16
 #EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-AyE.png",CINE| A&E
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318634
+http://gotv.vip:8880/Angel2023/Angel2023/6
 #EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-star-channel.png",CINE| START CHANNEL
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318640
+http://gotv.vip:8880/Angel2023/Angel2023/36282
 #EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-AXN.png",CINE| AXN
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318665
+http://gotv.vip:8880/Angel2023/Angel2023/19
 #EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-FX.png",CINE| FX
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318680
+http://gotv.vip:8880/Angel2023/Angel2023/80
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-warner.png",CINE| WARNER
+http://gotv.vip:8880/Angel2023/Angel2023/366
 #EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-TCM.png",CINE| TCM
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102390.ts
+http://gotv.vip:8880/Angel2023/Angel2023/120
 #EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-TNT.png",CINE| TNT
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102391.ts
+http://gotv.vip:8880/Angel2023/Angel2023/243
 #EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-TNT-series.png",CINE| TNT SERIES
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/125938.ts
+http://gotv.vip:8880/Angel2023/Angel2023/365
 #EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-SYFY.png",CINE| SYFY
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102389.ts
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/3958
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-cinema-dinamita.png",CINE| CINEMA DINAMITA
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4142
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-I-SAT.png",CINE| I-SAT
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155798
 #EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-sony.png",CINE| SONY
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/40734.ts
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/oqccogvw2k3tmpul6heb0/multipremier.png?rlkey=u954lcq1gn6d9zwwys5jhmlik&dl=0",CINE| Multipremier
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102383.ts
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/afpm5b8otls3vhxa3dvbt/Paramount.png?rlkey=lhkklb4kp13nf3nso6kl0x1wh&dl=0",CINE| Paramount Channel
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102385.ts
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1143816
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-europa-europa.png",CINE| EUROPA EUROPA
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/33359
 #EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/lrj2k8548eh7ug0ojf9b2/tucine.png?rlkey=e4o80v5ja2b8b6bq5d8u8e69c&dl=0",CINE| tu cine
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/184781.ts
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/7981
 #EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2uos7rleuxwdig6i5z23k/fmtv.png?rlkey=fyoa2s4fxlp4rmvd0zlcagokq&dl=0",CINE| fmtv fusion
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-lifetime.png",CINE| lifetime
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318632
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155873
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-sundance.png",CINE| SUNDANCE TV
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4101
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-morbid-tv.png",CINE| MORBID TV
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/33364
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-cine-estelar.png",CINE| CINE ESTELAR
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1156007
 #EXTINF:-1 group-title="⭐️ Cultura" tvg-logo="http://descargas.podzone.net/logos/-animal-planet.png",CUL| Animal Planet
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102114.ts
+http://gotv.vip:8880/Angel2023/Angel2023/17
+#EXTINF:-1 group-title="⭐️ Cultura" tvg-logo="http://descargas.podzone.net/logos/-discovery-channel.png",CUL| Discovery Channel
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155807
 #EXTINF:-1 group-title="⭐️ Cultura" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/m1xje3v01pn55zyn25lfe/Discoveryfami.png?rlkey=mwtraqj9ymtbflwsql7inctxc&dl=0",CUL| Discovery Familia
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102117.ts
+http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHPw6CcjW_tufp-8Sl2Tpg2M
 #EXTINF:-1 group-title="⭐️ Cultura" tvg-logo="http://descargas.podzone.net/logos/-discovery-home-&-health.png",CUL| Discovery. H&H
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102118.ts
+http://gotv.vip:8880/Angel2023/Angel2023/46
 #EXTINF:-1 group-title="⭐️ Cultura" tvg-logo="http://descargas.podzone.net/logos/-discovery-ID.png",CUL| Discovery Investigation
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318607
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4123
 #EXTINF:-1 group-title="⭐️ Cultura" tvg-logo="http://descargas.podzone.net/logos/-discovery-science.png",CUL| Discovery SCI
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318608
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155818
 #EXTINF:-1 group-title="⭐️ Cultura" tvg-logo="http://descargas.podzone.net/logos/-discovery-theater.png",CUL| Discovery Theater
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102121.ts
+http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHPEku5J9aTY-q9TQjwvCLkM
+#EXTINF:-1 group-title="⭐️ Cultura" tvg-logo="http://descargas.podzone.net/logos/-discovery-turbo.png",CUL| Discovery Turbo
+http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHMK9XTfxq78PuM2mEx2W0PU
 #EXTINF:-1 group-title="⭐️ Cultura" tvg-logo="http://descargas.podzone.net/logos/-discovery-world.png",CUL| Discovery World
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318612
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155812
 #EXTINF:-1 group-title="⭐️ Cultura" tvg-logo="http://descargas.podzone.net/logos/-el-gourmet.png",CUL| El Gourmet
-http://kiubo.biz:80/Nicolay@022/Nico@0223/102124.ts
+http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHJLaiSMKpcSRkr-Aye3mirA
 #EXTINF:-1 group-title="⭐️ Cultura" tvg-logo="http://descargas.podzone.net/logos/-history.png",CUL| History Channel
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/125925.ts
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155804
 #EXTINF:-1 group-title="⭐️ Cultura" tvg-logo="http://descargas.podzone.net/logos/-H2-(history2).png",CUL| History Channel 2
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102126.ts
+http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHIIjE2M4NdeKzMAtqcMb2vs
 #EXTINF:-1 group-title="⭐️ Cultura" tvg-logo="http://descargas.podzone.net/logos/-HGTV.png",CUL| HGTV
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318631
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155823
 #EXTINF:-1 group-title="⭐️ Cultura" tvg-logo="http://descargas.podzone.net/logos/-NATGEO.png",CUL| Nat Geo
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318621
-#EXTINF:-1 group-title="⭐️ Cultura" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ivw4nsgyq3zy1zatwrw40/natgeowild.png?rlkey=alayr8s0kxy5tty49fh7e7hxw&dl=0",CUL| Nat Geo wild
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102132.ts
-#EXTINF:-1 group-title="⭐️ Telenovelas" tvg-logo="http://descargas.podzone.net/logos/-el-canal-de-las-estrellas.png",NOV| Canal De Las Estrellas
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/135431
-#EXTINF:-1 group-title="⭐️ Telenovelas" tvg-logo="http://descargas.podzone.net/logos/-glitz.png",NOV| Glitz
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/135432
-#EXTINF:-1 group-title="⭐️ Telenovelas" tvg-logo="http://descargas.podzone.net/logos/-univision.png",NOV| TL OVELAS UNIVISION
-http://magmas5.com:8000/Oscar86/40473/126910
+http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHDATw_R1qBQM71MuRvu0j20
+#EXTINF:-1 group-title="⭐️ Cultura" tvg-logo="http://descargas.podzone.net/logos/-discovery-TLC.png",CUL| TLC
+http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHGy2ExMaLDi7Nz6qAwjAl_g
+#EXTINF:-1 group-title="⭐️ Cultura" tvg-logo="http://descargas.podzone.net/logos/-cocina.png",CUL| Cocina TV
+http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=612289&extension=ts&play_token=3zpQUO1DmQ
+#EXTINF:-1 group-title="⭐️ Telenovelas" tvg-logo="http://descargas.podzone.net/logos/-AZ-corazon.png",NOV| AZ CORAZON
+http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHLpKS9hqy-Ol-EoI3zmF-cI
+#EXTINF:-1 group-title="⭐️ Telenovelas" tvg-logo="http://descargas.podzone.net/logos/-pasiones.png",NOV| PASIONES
+http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2010
+#EXTINF:-1 group-title="⭐️ Telenovelas" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/gaa49c3r13f4s8b60qigr/1689817058186.png?rlkey=0k2khkzbkemwzseozd6bleimx&dl=0",NOV| TLNOVELAS
+http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2031
+#EXTINF:-1 group-title="⭐️ Telenovelas" tvg-logo="http://descargas.podzone.net/logos/-univision.png",NOV| TL NOVELAS UNIVISION
+http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2038
 #EXTINF:-1 group-title="⭐️ Telenovelas" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/irsa266j5haowlfsiubet/1689817086743.png?rlkey=j151hf0qxsr3a64dlz4nhurzi&dl=0",NOV| RCN Novelas
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318386
-#EXTINF:-1 group-title="⭐️ Telenovelas" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/930wnym65nsm3t3yon7ov/1689816966232.png?rlkey=f995i981ke95ud9o04y7i9zqi&dl=0",NOV| NOVELAS FAMILIAR
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/307249
+http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHBffrIqJsaoi8sNueGjk6cw
 #EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="http://descargas.podzone.net/logos/-cartoon-network.png",INF| CARTOON NETWORK
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/104075.ts
-#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP8WL-H7GO2Yv0DQFD8wBh7B50XCN9EDVpQw&usqp=CAU",INF| DISNEY XD
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/104072
-#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCed2abD5S4dAtWyzUe-Inj6cFe5WJ6IHaYQ&usqp=CAU",INF| etc tv
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/273684
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4063
+#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTutC_Caxt-F1P9n8tpParhZiEkSeUcLshzVg&usqp=CAU",INF| Tooncast
+http://gotv.vip:8880/Angel2023/Angel2023/376
+#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGVn-WlznbyD88VwS6mAgmBkRSCQ_hD2-v9g&usqp=CAU",INF| Nickelodeon
+http://gotv.vip:8880/Angel2023/Angel2023/105
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtpOxL3sDX9bz1UKuJUHw5fRrV1GUAVaWXwQ&usqp=CAU",INF| Nick Jr
+http://gotv.vip:8880/Angel2023/Angel2023/106
+#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSToaBRgehSgq1nbHkxKT86bqMANW2o9LUwSQ&usqp=CAU",INF| disney jr
+http://gotv.vip:8880/Angel2023/Angel2023/55
+#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRciCyrjS_Qe7hYYPNP6M0JtrAUBwAUcJJWGg&usqp=CAU",INF| Disney Channel
+http://gotv.vip:8880/Angel2023/Angel2023/54
+#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Z-HyjoMKkBEbU-sBz7pebeS6St4gHpoLpw&usqp =CAU",INF| Discovery kids
+http://gotv.vip:8880/Angel2023/Angel2023/48
+#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpgKH9kQv82NrlNieyLxyVZuvFxpCK9ozxnQ&usqp=CAU",INF| Baby First
+http://gotv.vip:8880/Angel2023/Angel2023/377
+#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk0fJUpGaiZlWWS4_bk3RXJaXRyNO41it7ig&usqp=CAU",INF| Nicktoons
+http://gotv.vip:8880/Angel2023/Angel2023/107
+#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSel4znkPtmHoMCvrjQy6qlJVspdxSbtn-p1Q&usqp=CAU",INF| paka paka
+http://gotv.vip:8880/Angel2023/Angel2023/20460
 #EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-TS7q6ii5E570ki-MXurqbh9AKonahFQ5g&usqp=CAU",INF| latino kids
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/chunklist_w112073847.m3u8
 #EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKbOsnQQVqj13Kj_awAC_exQQ_glLDoJ8pkQ&usqp=CAU",INF|los picapiedras
-http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlPmSIXMSnqVVPS3BymEzjcU/ts
+http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1349
 #EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXe1ZtobIX19VFVbKyg53xwlmsQrcqa9_A4w&usqp=CAU",INF|bob esponja
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/104100.ts
+http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1312
 #EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlW0f2siItaWBfHeSaTD6iBtJFHVy0JiSyIQ&usqp=CAU",INF|el pajaro loco
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/104108.ts
+http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1338
 #EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_La6kE6J93gv1hoZFGBZiw3gpYewqb_nHsg&usqp= CAU",INF|la pantera rosa
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/136627.ts
+http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1457
 #EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsSR8pJTonhITKLMUj84oR18dCkzqHWTSsDw&usqp=CAU",INF|thundercats
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/136629.ts
+http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1263
 #EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRssFTYcYQqiDTfG2LGzr6EQXXZ72_1pv8KHA&usqp=CAU",INF|pokemon
-http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlNXCm9imiRdtq-F7mj0MFcg/ts
+http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1201
 #EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWfkeg3_GMYwYpHghe_MIHu5SEZ08Lz8xKdQ&usqp=CAU",INF|futurama
-http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlAVRxNAWkCOIRgxiZ8xAczs/ts
-#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWq8clrLoNHBo_QbVTq7jA-fYm9j6eSgFjkg&usqp=CAU",INF|scooby doo
-http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlKoKa9sng6PJDTm2k7RJrms/ts
+http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1253
 #EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX4bvHd6j8n_n9rocdg6A2KFhsrp-fQsy_-Q&usqp=CAU",INF|tom & jerry
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/104096.ts
+http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1363
 #EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjnRcqxlC9COnbKXQKQg7QVdJjaMefyl-4ew&usqp=CAU",INF| spiderman
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/136636.ts
-#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgOyWbL0VXg28p-hcyGZWC_l1nboZW-xPcoQ&usqp=CAU",INF| teen titans go
-http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlN6GShUN152MjCbUrrNbXLo/ts
+http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1358
 #EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1IrDaVDRlEM7JJ89bfnAgaDwHamIqCamF6Q&usqp=CAU",INF|ben 10 fuerza alienígena
-http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlC_zwyEkPUIm5mdi7MuqKXU/ts
-#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM52Z8pMyeeqECbgQ1ivVN8VxTshFY11iJIA&usqp=CAU",INF| escandalosos
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/104111.ts
+http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1387
 #EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCGYhaEhS5h8Znw7EDpFqBe-KXFy5tcP2xLQ&usqp=CAU",INF| jimmy neutron
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/104113.ts
+http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1439
 #EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRieDw3zDGCKgVzUlZckrZVpCZTVkr9BGFwA&usqp=CAU",INF| pinky & cerebro
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/104079.ts
+http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1231
 #EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUl5HsDRyMmq38G6So4j36aJY3fnRqsM3sJQ&usqp=CAU",INF|los Simpsons
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/136602.ts
-#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRToBfMcw6lcAF_Ysyv9kADsnleveGmYc2CKg&usqp=CAU",INF|los simpsons la casita del horror
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/136603.ts
-#EXTINF:-1 group-title="⭐️ Tv Religiosos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_KzgEJS-czArwTAdRbZWtlMm3lHO0d_Mspw&usqp=CAU",REL| ejtv
-https://1-349-11554-1.b.cdn13.com:443/EJTV/smil:ejtv-hd.smil/chunklist_b2752000_sleng.m3u8
-#EXTINF:-1 group-title="⭐️ Tv Religiosos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB5GleB2MQ6s4DvuKly8Y3OnDguz3EF6hR0g&usqp=CAU",REL| enlace
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/111922.ts
-#EXTINF:-1 group-title="⭐️ Tv Religiosos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoxiwvDiSJWsj4TbXy-s5MfPEUrAbC6g0VzQ&usqp=CAU",REL| nubeh tv
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235223.ts
-#EXTINF:-1 group-title="⭐️ Tv Religiosos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRAYBRd5TeR1OkIaVxn9uK4tGpZI-mNza_1g&usqp=CAU",REL| maria vision
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/111919.ts
-#EXTINF:-1 group-title="⭐️ Tv Religiosos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmR04BIKtc263E3JV7PO-xE5cBYcHlxuvvnA&usqp=CAU",REL| vida tv
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/111924.ts
-#EXTINF:-1 group-title="⭐️ Musica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk4yDIbsqqrM-Je5LPaPZMG7M8ebTCH1LfWA&usqp=CAU",MUS| kpop
-https://srv1.zcast.com.br:443/kpoptv/kpoptv/chunklist_w1039977214.m3u8
+http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1305
+#EXTINF:-1 group-title="⭐️ Musica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_8esGxnB6cpVejUPQ4JfzeYCtzcGmoSKmVw&usqp=CAU",MUS| vclassic tv
+http://gotv.vip:8880/Angel2023/Angel2023/36677
+#EXTINF:-1 group-title="⭐️ Musica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVXRH588DRP5mYHC0HtH7DcxigsPGqMWea1Q&usqp=CAU",MUS| latin zona
+http://gotv.vip:8880/Angel2023/Angel2023/36657
+#EXTINF:-1 group-title="⭐️ Musica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk8TrHrdMcY-0R1r4YGN3N0mB84Yt3dO2OzQ&usqp=CAU",MUS| fabulosa fm
+http://gotv.vip:8880/Angel2023/Angel2023/36671
+#EXTINF:-1 group-title="⭐️ Musica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDBsibaYYBgicH-aG7UV2xJhv8cepw8nOViA&usqp=CAU",MUS| circuito pop
+https://cdapop.streaming.ws:443/circuitopoptv/live/chunklist_w1072026756.m3u8
+#EXTINF:-1 group-title="⭐️ Musica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJQlnF3qpdXR3X5v4ms3zeKR8TxSSxM05BxA&usqp=CAU",MUS| hits 360
+https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
+#EXTINF:-1 group-title="⭐️ Musica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQotv_igzlWi45ybDzX_1GalB_wH7PtKayicA&usqp=CAU",MUS| tocahits
+https://panel.miplay.cl:8081/mix247tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="⭐️ Musica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPGmPFnPOXU7bPbB0Esb49sPV3gn7bP2K4bA&usqp=CAU",MUS| la despechada tv
 https://servidordevideo.com:3077/live/despechadalive.m3u8
-#EXTINF:-1 group-title="⭐️ Musica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFUq7x0_xgeptrCP_HCMveyxxBL7OHfD01cQ&usqp=CAU",MUS| 88 stereo
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234808.ts
-#EXTINF:-1 group-title="⭐️ Musica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVC671tXxF9B5LTSrjCzl_rxA_YcrbGRNn1A&usqp=CAU",MUS| TELEHIT
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/111816.ts
-#EXTINF:-1 group-title="⭐️ Musica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZmTP06J4m7gCa5xooHOG6NLCALNZhRx89Sw&usqp=CAU",MUS| BANDAMAX
-http://kiubo.biz:80/Nicolay@022/Nico@0223/111817.ts
-#EXTINF:-1 group-title="⭐️ Musica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmuqhpm10ADXo-8L8OUpRXUROHlOIc6979jw&usqp=CAU",MUS| TELERITMO
-http://kiubo.biz:80/Nicolay@022/Nico@0223/111823.ts
-#EXTINF:-1 group-title="⭐️ Musica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrr_0eytiQqE188rlir-8w1yv143ncSxPXCg&usqp=CAU",MUS| FLASH TV
-http://kiubo.biz:80/Nicolay@022/Nico@0223/195736.ts
 #EXTINF:-1 group-title="⭐️ Musica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbrXQrXpP0FluOiLFtZMlvlnPMu-pYiMatkQ&usqp=CAU",MUS| top latino
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTi0lF0a1KL_pAcuUauJ7kZoxrVw4lf5caOA&usqp=CAU",CR| REPRETEL 6
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234822.ts
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQLfE2riQA9_rOAnfCXdANFOLwDyJFAHZRQ&usqp=CAU",CR| REPRETEL 2
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234812.ts
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAKcOdg2leHP6yrI0bssuvIzvHerfOVkQ8g&usqp=CAU",CR| REPRETEL 4
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234820.ts
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4bs3fXhgB0jK9qD0gqO3v4p3HgEzqzJAi1w&usqp=CAU",CR| limon Tv
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234838.ts
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSmMtwaot_x4CyP8_4iGEcio9aHrmK_R-HEA&usqp=CAU",CR| STV
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234839.ts
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0QEfWHe7Xf5GOSCz4VLtsBI-Gya9--GVLlw&usqp=CAU",CR| Tv Sur canal 14
-http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlGxBfPMGWa_96X1TajjXC7U/ts
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPRA3sFkiH04l8_YN53KEqSiMWSWtAmtv3Zw&usqp=CAU",CR| TELE UNO
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234833.ts
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrKy32Y3iI5Zi8yZ8RTk-Dv-i9oanmEuzUZw&usqp=CAU",CR| colosal
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234813.ts
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa9o8DBWfES2WcZ12IBUOvcNHDpENN11u00g&usqp=CAU",CR| Teletica 7
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234831.ts
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE--9EOA_H3vz5ix4Y-UIyrCrqGNCe-xu9pw&usqp=CAU",CR| extrema tv
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234814.ts
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS9REhLS4hjKN0DZ8wS9JT5z0d-XA7gD91pQ&usqp=CAU",CR| Multimedios Canal 8
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234817.ts
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgDkpyfDL4aVT_YseRom0PC1cTlbq_v2Mvig&usqp=CAU",CR| REPRETEL 11
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234819.ts
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkoRq757CbiO_PybhbLxyZDXkqrFSpT_tvcg&usqp=CAU",CR| TRIVISION
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234834.ts
+#EXTINF:-1 group-title="⭐️ Musica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoJAjqTdOWjFMG9CPs7w_HKkmhB2vx2_5rTg&usqp=CAU",MUS| tele musica
+https://canal.mediaserver.com.co/live/telemusica.m3u8
+#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevijdEFdSAV5BB5hgQwvfa8AqDJPMCqL4jQ&usqp=CAU",CR| TELESISTEMA
+https://video20.klm99.com:3621/hybrid/play.m3u8
+#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScU0IdCCCR2mtKHb7D9_A9ybiCC2cm1-EKgQ&usqp=CAU",CR| Tele red
+https://video20.klm99.com:3558/hybrid/play.m3u8
 #EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKPG5piatlxvTYlqm8-gdB6qOzJAPusjWRSw&usqp=CAU",CR| CANAL 1
 https://video20.klm99.com:3993/hybrid/play.m3u8
 #EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCUmg188E2X2bAX9Vj2B542ISVrz5D3LkgTg&usqp=CAU",CR| coto brus tv
@@ -1394,268 +1393,62 @@ https://5fd8fec96951d.streamlock.net:443/TVN/CH14.stream_720p/chunklist_w4257776
 https://59ef525c24caa.streamlock.net:443/garabitoTV/garabitotv/chunklist_w1463613344.m3u8
 #EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnkAHmCkkPzREUAjSuIcHtIxhLdD2QIFI9FQ&usqp=CAU",CR| los santos tv
 https://lstv.duckdns.org:449/hls/lstv.m3u8
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVLc-q6mb6P5Mp_UtK5GlZ0hz2pUCL088BLA&usqp=CAU",CR| antena seis
-http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlG_uFg79S9EnXs7eQp8vxnw/ts
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5VoP8SblVK8J8dPnYOxYce0v1WCUzdmZPbA&usqp=CAU",CR| opa tv
-http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlNSqkJuggLFt_Iphz7UormN27aMcCkmirFn1Pc_3ePka/ts
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT965k0Zc0t_-wHh5So3hQzxWFpGLGlx9fBDQ&usqp=CAU",CR| elite tv
-http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlNE2NoiLgdNxPgyBH6OVIx5PC3D0jc0-xfrB4m3T_PIL/ts
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUp40G7FXkmvZsfnv5ohaLv6heiMK7wXC6lg&usqp=CAU",CR| retrox tv
-http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlPjlMn1nGd6eajAR_qtTVBiSV1ugp54j-hT7bToiQcQS/ts
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw1bJxBhCtpZPJAwG2Cp15OJ7turfIu2kdlw&usqp=CAU",CR| crtv
-http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlKGD1cI_tP0Erkrj_PXm8xI/ts
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStnB_cbq2X1wNmTVecnawBLsDS77qXXCe5zA&usqp=CAU",CR| nicoya tv
-http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlCVLvHW9cw8EvHAcOuTevGM/ts
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQng-FOAcEsdPYyV_6Q-rlB9w9SUeRXfLC8lg&usqp=CAU",CR| santa cruz
-http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlKTGr9DHg7K6wT8efIN4Esw/ts
+#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qp48vAYubW5h4Tupl_Pzwfb7U-YQx0DOyA&usqp=CAU",CR| zurqui tv
+https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 #EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU4uLGOuQaNRSDK8lSiCjICHX0Ld_weJoskA&usqp=CAU",CR| telebrunca
 https://59ef525c24caa.streamlock.net:443/telebrunca/telebrunca/chunklist_w1244906677.m3u8
 #EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHBfQDrgA2AgPmHZaHHwtiDxGn3Wp1XnoI6g&usqp=CAU",CR| guatuso tv
 https://5cf4a2c2512a2.streamlock.net:443/8162/8162/chunklist_w1960322809.m3u8
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP8iD7__CFQj8ZebSiFXKZWCMXQeVcYeJCzw&usqp=CAU",CR| sinart canal 13
-http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlFn-FzIrokau8BysNQI7NOq5Vy7Uan2GvSBcH6U0nk0-/ts
 #EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmicNPv2oKTqz_SanYW6rhyFP-yNtbBMoJRw&usqp=CAU",CR| nosara tv
 https://stmv.streamingvip.click:443/tvnosara2/tvnosara2/chunklist_w846594311.m3u8
-#EXTINF:-1 group-title="⭐️ Argentina" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qM7GfDTvfBO-q63HLUW-QsbNWXiZEwqhkw&usqp=CAU",AR | TV PUBLICA
-http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlB8ILhoj5gUbDtQrHYs1sNE/ts
-#EXTINF:-1 group-title="⭐️ Argentina" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUxd6vjCPiTZWnhGdbdAMoqNTZGbzvCHO1A&usqp=CAU",AR | CANAL 13
-http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlIpIQooyxoG7iWznAeV4QQY/ts
-#EXTINF:-1 group-title="⭐️ Argentina" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA_lEoXrDbbfS766Lxhi4s2ajn97xDbuDwfA&usqp=CAU",AR | VOLVER
-http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlEn7_8oM-hsTJLvH_z-_-cE/ts
-#EXTINF:-1 group-title="⭐️ Argentina" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fgLDmFN8t0LWvb7rkI6ZCCiRJWEQheswpg&usqp=CAU",AR | AMERICA TV
-http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlAraSI6iYatGOYpgq5auGVs/ts
-#EXTINF:-1 group-title="⭐️ Argentina" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIuIbBfjVVZeSiAZKB2o9DqPOPesbv6Zlf_g&usqp=CAU",AR | CRONICA
-http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlGYqkkU0yTNHtR0o5Nlz5xs/ts
-#EXTINF:-1 group-title="⭐️ Ecuador" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTCUQbz8wWJAyuPsv5SJspVkH0ilNEK4Qb0A&usqp=CAU",ECU| TELERAMA
-http://kiubo.biz:80/Nicolay@022/Nico@0223/137024.ts
-#EXTINF:-1 group-title="⭐️ Ecuador" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToO9ckhHUoO6ehbwApDl1Ep7tanWxLuPl5bg&usqp=CAU",ECU| TVC
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318287
-#EXTINF:-1 group-title="⭐️ Ecuador" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi61HEZQWJIkNpHyM9GkqL4HcchMvJvntc6A&usqp=CAU",ECU| TC TELEVISION
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318276
-#EXTINF:-1 group-title="⭐️ Ecuador" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS3xef5ac0z3YL3jmbloMaQUT2tNddU1dS8A&usqp=CAU",ECU| ECUAVISA
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318263
-#EXTINF:-1 group-title="⭐️ Ecuador" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSngoNcXrZh9AsNOkI5GBefAfZWen9DlW7w-Q&usqp=CAU",ECU| TELEAMAZONAS
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318280
-#EXTINF:-1 group-title="⭐️ Ecuador" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXqp7EB9H6YQ60fXY_YJ6pWu2G9yS0ilMufA&usqp=CAU",ECU| GAMAVISION
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318266
-#EXTINF:-1 group-title="⭐️ Ecuador" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnG6_U4yiOVkvNQk66U94X8WixSgsWUWUEww&usqp=CAU",ECU| ECUADOR TV
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318259
-#EXTINF:-1 group-title="⭐️ Ecuador" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPBff-0QarCVUmKAjQ1VnK85hR_h-ZBcwefg&usqp=CAU",ECU| oromar
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318271
-#EXTINF:-1 group-title="⭐️ Ecuador" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkOgYTghyTdUDorQfAnNEbIre5F2V4Q-KLsg&usqp=CAU",ECU| rtu
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318275
-#EXTINF:-1 group-title="⭐️ CHILE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR255_wMEk4eecs8aGjUvu44l7ykWy06vj51g&usqp=CAU",CHI| Mega
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/28246
-#EXTINF:-1 group-title="⭐️ CHILE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdkvTL5aSiBUYzgD7e1TDlwP-Q0_lnINV9FQ&usqp=CAU",CHI| CHILEVISION
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/58287
-#EXTINF:-1 group-title="⭐️ CHILE" tvg-logo="http://streamgo.vip:8008/images/0b5879426e89dec80c851083f6a6b7d8.png",CHI| 13 ENTRETENCION
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/300288
-#EXTINF:-1 group-title="⭐️ CHILE" tvg-logo="http://streamgo.vip:8008/images/9b1dd26d1375fb5db2b6158c55e0a523.png",CHI| 13 PRIME
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/300289
-#EXTINF:-1 group-title="⭐️ CHILE" tvg-logo="http://streamgo.vip:8008/images/337e9d841d5d16a255204ef83a53d9da.png",CHI| 13 TELESERIES
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/300290
-#EXTINF:-1 group-title="⭐️ CHILE" tvg-logo="http://streamgo.vip:8008/images/9b28c06eae5ae3c92b2570c6eb8be23d.png",CHI| 13 CULTURA
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/300291
-#EXTINF:-1 group-title="⭐️ CHILE" tvg-logo="http://streamgo.vip:8008/images/50b794b3749e2e23b118c5b6416c73e4.png",CHI| CANAL 13 C
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/272242
-#EXTINF:-1 group-title="⭐️ CHILE" tvg-logo="http://streamgo.vip:8008/images/95ce89134c00bc95c9c8b016b6a36c92.png",CHI| 24 HORAS
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/272253
-#EXTINF:-1 group-title="⭐️ CHILE" tvg-logo="http://streamgo.vip:8008/images/bcfd743e350fccf33546292fffc48b26.png",CHI| LA RED
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/272254
-#EXTINF:-1 group-title="⭐️ CHILE" tvg-logo="http://streamgo.vip:8008/images/e869e5c28818e9af628420f84f3f2407.png",CHI| CNN
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/273683
-#EXTINF:-1 group-title="⭐️ CHILE" tvg-logo="http://streamgo.vip:8008/images/c45dd85f48789afdef7e43130f547366.png",CHI| UCV
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/273733
-#EXTINF:-1 group-title="⭐️ CHILE" tvg-logo="http://streamgo.vip:8008/images/1d9c1ad9b96033652920e9b643650477.png",CHI| VIA X
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/298545
-#EXTINF:-1 group-title="⭐️ México" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyY1OJ1KwvaKIZNE3Ekj07A-6q_-ZJftytyw&usqp=CAU",MEX| imagen tv
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/135400.ts
-#EXTINF:-1 group-title="⭐️ México" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4ebZNM5sbaGtcrfprkRwrI0COB3eIsEwtdQ&usqp=CAU",MEX| Multi-medios
-http://kiubo.biz:80/Nicolay@022/Nico@0223/135402.ts
-#EXTINF:-1 group-title="⭐️ México" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTieKN2fzPVR5Lr7AQ4JxaE8OwClx0r6hhvsQ&usqp=CAU",MEX| DISTRITO COMEDIA
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/40724
-#EXTINF:-1 group-title="⭐️ México" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTocTHQylAAs58YX4i7YiJ2whSmXL3WxinyQ&usqp=CAU",MEX| CANAL 5
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/135430
-#EXTINF:-1 group-title="⭐️ Paraguay" tvg-logo="http://streamgo.vip:8008/images/5cbc5d81810709c83a59885cde96046d.png",PY | C9N NOTICIAS
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235203.ts
-#EXTINF:-1 group-title="⭐️ Paraguay" tvg-logo="http://streamgo.vip:8008/images/36424b4dd1472490c4b2641256cf6531.png",PY| SNT
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235209.ts
-#EXTINF:-1 group-title="⭐️ Paraguay" tvg-logo="http://streamgo.vip:8008/images/f1b58541ad81630de4e0ea752f5166bd.png",PY | RPC
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235208.ts
-#EXTINF:-1 group-title="⭐️ Paraguay" tvg-logo="http://streamgo.vip:8008/images/4ae85478bf6d80795404c2c1c9342aa8.png",PY | LA TELE
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235204.ts
-#EXTINF:-1 group-title="⭐️ Paraguay" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkKcDIzTFCm53kX3GTXPI59U1el9tz-bNqPA&usqp=CAU",PY | radio venus
-http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlNTso9IFZLD7iowly816h6M/ts
-#EXTINF:-1 group-title="⭐️ Paraguay" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZxHbqDKHYnUvCeK9vxaKh2cqKI8IdDM_i0A&usqp=CAU",PY | UNICANAL
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235212.ts
-#EXTINF:-1 group-title="⭐️ Paraguay" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP-zl0xI7_RS1QwXxT1zkP28GtPWj0k9cabg&usqp=CAU",PY | TELEFUTURO
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235211.ts
-#EXTINF:-1 group-title="⭐️ Paraguay" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTL9H_AHrEvTx6TcG0yTWtfh4vNDgFt851gA&usqp=CAU",PY | EDU CANAL
-http://magmas5.com:8000/Oscar86/40473/150657
-#EXTINF:-1 group-title="⭐️ Guatemala" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbyG5nKG49NwtbdYtXcYGCPZ1Z7dxbIZxybw&usqp=CAU",GUA| Canal 11
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234846.ts
-#EXTINF:-1 group-title="⭐️ Guatemala" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1N-HxLSYuVZQTkgFTLm47bHlTnDDbLrt56Q&usqp=CAU",GUA| Canal 3
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234849.ts
-#EXTINF:-1 group-title="⭐️ Guatemala" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSafDVUnuu9A9O2572q0qpk2ilL9KVLYOwEJg&usqp=CAU",GUA| canal 13
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234847.ts
-#EXTINF:-1 group-title="⭐️ Guatemala" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9jnT2lSJ8p0F3QxsjdP8MRoKjTd1LbB6qqA&usqp=CAU",GUA| guatevision
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234853.ts
-#EXTINF:-1 group-title="⭐️ Guatemala" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEVgrFPIXxArhFdk4r5RGZD5J7uMFl-toLoA&usqp=CAU",GUA| canal antigua
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234851.ts
-#EXTINF:-1 group-title="⭐️ Guatemala" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVuSDalEnKm3bUbfV9QYbJwLqi8h6MXN5tRQ&usqp=CAU",GUA| televisiete
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234850.ts
-#EXTINF:-1 group-title="⭐️ El Salvador" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCxYFdT5gN0oLXERRRwDAFfFZspN76cPJshA&usqp=CAU",SAL|  CANAL 2
-http://magmas5.com:8000/Oscar86/40473/126544
-#EXTINF:-1 group-title="⭐️ El Salvador" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKaPmLfGuU_oIcLl3x2HcljW2Fk6gPYLp6Qg&usqp=CAU",SAL|  CANAL 4
-http://magmas5.com:8000/Oscar86/40473/126540
-#EXTINF:-1 group-title="⭐️ El Salvador" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9oJzKbrLEZiLwNXA4na74Rd8OAUeld4kPVw&usqp=CAU",SAL|  CANAL 6
-http://magmas5.com:8000/Oscar86/40473/126543
-#EXTINF:-1 group-title="⭐️ El Salvador" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSONPl5eMisGSzQHD-R71uUfGqvLYM50HU1GA&usqp=CAU",SAL|  CANAL 10
-http://magmas5.com:8000/Oscar86/40473/152577
-#EXTINF:-1 group-title="⭐️ El Salvador" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6R0sxydQwfH0b3eYAxHGDwuphuvPUZ59cQw&usqp=CAU",SAL|  CANAL 11
-http://magmas5.com:8000/Oscar86/40473/151809
-#EXTINF:-1 group-title="⭐️ El Salvador" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRcRFDNlWj_cQGUmJvK9q6RPRsqIj_L1JOJA&usqp=CAU",SAL|  CANAL 12
-http://magmas5.com:8000/Oscar86/40473/126545
-#EXTINF:-1 group-title="⭐️ El Salvador" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo7kV4fjqBLyFndJZeE3bKYJwamAXEsg3b_w&usqp=CAU",SAL|  CANAL 19 MEGAVISION
-http://magmas5.com:8000/Oscar86/40473/160930
-#EXTINF:-1 group-title="⭐️ El Salvador" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs90ZRB66rbHNNRd5eIEG5vOKDP2Mj3ii-TA&usqp=CAU",SAL|  CANAL 21
-http://magmas5.com:8000/Oscar86/40473/126548
-#EXTINF:-1 group-title="⭐️ El Salvador" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0183x3D2TsnhXLBYEe7bekTnexVQB3de8gg&usqp=CAU",SAL|  CANAL 23
-http://magmas5.com:8000/Oscar86/40473/152578
-#EXTINF:-1 group-title="⭐️ El Salvador" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq2bYkSP19KMmUijpDRRohmP41nLi2u6eO_g&usqp=CAU",SAL|  CANAL TVR 25
-http://magmas5.com:8000/Oscar86/40473/152949
-#EXTINF:-1 group-title="⭐️ El Salvador" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrMhJutFiFjo4aKaws1VR2AMv1r7zl221UoA&usqp=CAU",SAL|  WOW TV
-http://magmas5.com:8000/Oscar86/40473/145741
-#EXTINF:-1 group-title="⭐️ El Salvador" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9L_FY9OB_wen0_7VrrZlF3OCGDJcLWqilzg&usqp=CAU",SAL|  ELIM TV
-http://magmas5.com:8000/Oscar86/40473/151805
-#EXTINF:-1 group-title="⭐️ El Salvador" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx0ju5wPSAP5GqLdf8anyaI55QUanzqt-wUA&usqp=CAU",SAL|  TCS PLUS
-http://magmas5.com:8000/Oscar86/40473/126539
-#EXTINF:-1 group-title="⭐️ El Salvador" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoSYrLpJATLCFJiAId9B6Cg8U_FKsMZqEISg&usqp=CAU",SAL|  TELE UNO TV
-http://magmas5.com:8000/Oscar86/40473/151807
-#EXTINF:-1 group-title="⭐️ El Salvador" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6jlykqMPKXUbQbNo9oF16v5TS-3vYX8v4Xw&usqp=CAU",SAL|  TRIBUNA TV
-http://magmas5.com:8000/Oscar86/40473/151808
-#EXTINF:-1 group-title="⭐️ El Salvador" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXxhp8RfbjNRUC2iS-ylk_Neq1p-KziuDDMw&usqp=CAU",SAL|  CANAL TABER
-http://magmas5.com:8000/Oscar86/40473/152950
-#EXTINF:-1 group-title="⭐️ El Salvador" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThd6FnPu_1bZ0LG7Yb1FYWHa93rfYKv-dHcw&usqp=CAU",SAL|  Legislative Assembly Salvador
-http://magmas5.com:8000/Oscar86/40473/160931
+#EXTINF:-1 group-title="⭐️ Usa Latinos" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png",TELEMUNDO
+http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHBaGok1oX_0n3gxWAHVpjUw
 #EXTINF:-1 group-title="⭐️ Usa Latinos" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png",TELEMUNDO Philadelphia
 http://magmas5.com:8000/Oscar86/40473/148724
-#EXTINF:-1 group-title="⭐️ Usa Latinos" tvg-logo="http://descargas.podzone.net/logos/-unimas.png",UNIMAS HOUSTON
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/137181.ts
-#EXTINF:-1 group-title="⭐️ Usa Latinos" tvg-logo="http://descargas.podzone.net/logos/-unimas.png",UNIMAS NEW YORK
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/137183.ts
-#EXTINF:-1 group-title="⭐️ Usa Latinos" tvg-logo="http://descargas.podzone.net/logos/-unimas.png",UNIMAS FRESNO
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/137180.ts
 #EXTINF:-1 group-title="⭐️ Usa Latinos" tvg-logo="http://descargas.podzone.net/logos/-unimas.png",UNIMAS Philadelphia
 http://magmas5.com:8000/Oscar86/40473/148895
-#EXTINF:-1 group-title="⭐️ Usa Latinos" tvg-logo="http://descargas.podzone.net/logos/-univision.png",UNIVISION LOS ANGELES
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/203248.ts
-#EXTINF:-1 group-title="⭐️ Usa Latinos" tvg-logo="http://descargas.podzone.net/logos/-univision.png",UNIVISION MIAMI
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/203249.ts
 #EXTINF:-1 group-title="⭐️ Usa Latinos" tvg-logo="http://descargas.podzone.net/logos/-univision.png",UNIVISION NEW-YORK
 http://magmas5.com:8000/Oscar86/40473/148711
 #EXTINF:-1 group-title="⭐️ Usa Latinos" tvg-logo="http://descargas.podzone.net/logos/-univision.png",UNIVISION Philadelphia
 http://magmas5.com:8000/Oscar86/40473/148725
+#EXTINF:-1 group-title="⭐️ Deporte Colombia" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png",COL |  WIN SPORTS
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155795
+#EXTINF:-1 group-title="⭐️ Deporte Colombia" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png",COL |  WIN SPORTS opc 2
+http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHHotQKUSV4xe5dapO-xcudA
 #EXTINF:-1 group-title="⭐️ Deporte Colombia" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png",COL |  WIN SPORTS opc 3
-http://magmas5.com:8000/Oscar86/40473/131983
+http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHIpr75HhVZVzwCHA_MYaUCI
 #EXTINF:-1 group-title="⭐️ Deporte Colombia" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/frb4p3hyjori50ai7oh3f/win-sports.png?rlkey=hkluj62z2ihegojc24d08km87&dl=0",COL | WIN SPORT+
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/36139.ts
-#EXTINF:-1 group-title="⭐️ Deporte Colombia" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png",COL | ESPN SPORT 1
-http://kiubo.biz:80/Nicolay@022/Nico@0223/35260.ts
-#EXTINF:-1 group-title="⭐️ Chile Deporte" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-2.png",CH | FOX SPORTS 2
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/120546
-#EXTINF:-1 group-title="⭐️ Chile Deporte" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-3.png",CH | FOX SPORTS 3
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/120547
-#EXTINF:-1 group-title="⭐️ Chile Deporte" tvg-logo="http://descargas.podzone.net/logos/-Fox-Sports-premium.png",CH | FOX SPORTS PREMIUM
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167737
-#EXTINF:-1 group-title="⭐️ Chile Deporte" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png",CH | ESPN SPORTS 2
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167964
-#EXTINF:-1 group-title="⭐️ Chile Deporte" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png",CH | ESPN SPORTS 3
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167965
-#EXTINF:-1 group-title="⭐️ Chile Deporte" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png",CH | TNT SPORTS
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235043.ts
-#EXTINF:-1 group-title="⭐️ Chile Deporte" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png",CH | TNT SPORTS 2
-http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlFZ6Z0fnG-OnGUGmjF9iSl8/ts
-#EXTINF:-1 group-title="⭐️ Chile Deporte" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png",CH | TNT SPORTS 3
-http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlK7hneEDAMBZaBPwTllSPJk/ts
-#EXTINF:-1 group-title="⭐️ Chile Deporte" tvg-logo="http://descargas.podzone.net/logos/-CDO-premium.png",CH | CDO PREMIUN
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235021.ts
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/16723
+#EXTINF:-1 group-title="⭐️ Deporte Colombia" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/frb4p3hyjori50ai7oh3f/win-sports.png?rlkey=hkluj62z2ihegojc24d08km87&dl=0",COL | WIN SPORT+ opc 2
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/54738
+#EXTINF:-1 group-title="⭐️ Deporte Colombia" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/frb4p3hyjori50ai7oh3f/win-sports.png?rlkey=hkluj62z2ihegojc24d08km87&dl=0",COL | WIN SPORT+ opc 3
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/16724
+#EXTINF:-1 group-title="⭐️ Argentina Deporte" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png",AR | ESPN SPORTS 1
+http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1915
+#EXTINF:-1 group-title="⭐️ Argentina Deporte" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png",AR | ESPN SPORT 2
+http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1917
 #EXTINF:-1 group-title="⭐️ Argentina Deporte" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png",AR | ESPN SPORT 3
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/35254.ts
+http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1919
 #EXTINF:-1 group-title="⭐️ Argentina Deporte" tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png",AR | ESPN SPORTS 4
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167726
+http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1921
 #EXTINF:-1 group-title="⭐️ Argentina Deporte" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png",AR | DIREC TV SPORTS
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/125943.ts
-#EXTINF:-1 group-title="⭐️ Argentina Deporte" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png",AR | DIREC TV SPORTS PLUS
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167732
-#EXTINF:-1 group-title="⭐️ Deporte VIP" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png",FOX SPORTS  1 (mexico)
-http://kiubo.biz:80/Nicolay@022/Nico@0223/35274.ts
-#EXTINF:-1 group-title="⭐️ Deporte VIP" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-2.png",FOX SPORTS 2 (Mexico)
-http://kiubo.biz:80/Nicolay@022/Nico@0223/35275.ts
-#EXTINF:-1 group-title="⭐️ Deporte VIP" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-3.png",FOX SPORTS 3 (mexico)
-http://kiubo.biz:80/Nicolay@022/Nico@0223/35277.ts
-#EXTINF:-1 group-title="⭐️ Deporte VIP" tvg-logo="http://descargas.podzone.net/logos/-Fox-Sports-premium.png",FOX SPORTS premium (mexico)
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/35277.ts
-#EXTINF:-1 group-title="⭐️ Deporte VIP" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png",ESPN SPORT 1 (mexico)
-http://kiubo.biz:80/Nicolay@022/Nico@0223/35263.ts
-#EXTINF:-1 group-title="⭐️ Deporte VIP" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png",ESPN SPORT 2 (mexico)
-http://kiubo.biz:80/Nicolay@022/Nico@0223/35253.ts
-#EXTINF:-1 group-title="⭐️ Deporte VIP" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png",ESPN SPORT 3 (mexico)
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/35276.ts
-#EXTINF:-1 group-title="⭐️ Deporte VIP" tvg-logo="http://descargas.podzone.net/logos/-afizzionados.png",AFIZZIONADOS (mexico)
-http://kiubo.biz:80/Nicolay@022/Nico@0223/35219.ts
-#EXTINF:-1 group-title="⭐️ Deporte VIP" tvg-logo="http://descargas.podzone.net/logos/-adrenalina-sports-network.png",ADRENALINA (Mexico)
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/35218.ts
-#EXTINF:-1 group-title="⭐️ Deporte VIP" tvg-logo="http://descargas.podzone.net/logos/-TUDN.png",TUDN EXTRA (mexico)
-http://kiubo.biz:80/Nicolay@022/Nico@0223/35313.ts
-#EXTINF:-1 group-title="⭐️ Deporte VIP" tvg-logo="http://descargas.podzone.net/logos/-TUDN.png",TUDN (mexico)
-http://kiubo.biz:80/Nicolay@022/Nico@0223/35312.ts
-#EXTINF:-1 group-title="⭐️ Deporte VIP" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png",TUDN (Usa)
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/35313.ts
-#EXTINF:-1 group-title="⭐️ Deporte VIP" tvg-logo="http://descargas.podzone.net/logos/-tvc.png",TVC SPORTS (mexico)
-http://kiubo.biz:80/Nicolay@022/Nico@0223/35315.ts
+http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1912
+#EXTINF:-1 group-title="⭐️ Argentina Deporte" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png",AR | DIREC TV DEPORTES 2
+http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1913
 #EXTINF:-1 group-title="⭐️ Deporte VIP" tvg-logo="http://descargas.podzone.net/logos/-star+.png",STAR + opc1
 http://magmas5.com:8000/Oscar86/40473/160068
-#EXTINF:-1 group-title="⭐️ Deporte VIP" tvg-logo="group-title=",STAR + opc2
+#EXTINF:-1 group-title="⭐️ Deporte VIP" tvg-logo="http://descargas.podzone.net/logos/-star+.png",STAR + opc2
 http://magmas5.com:8000/Oscar86/40473/160071
 #EXTINF:-1 group-title="⭐️ Deporte VIP" tvg-logo="http://descargas.podzone.net/logos/-star+.png",STAR + opc3
 http://magmas5.com:8000/Oscar86/40473/152908
-#EXTINF:-1 group-title="⭐️ Deporte VIP" tvg-logo="http://descargas.podzone.net/logos/-TSN.png",TSN 1 (canada)
-http://magmas5.com:8000/Oscar86/40473/130472
-#EXTINF:-1 group-title="⭐️ Deporte VIP" tvg-logo="http://descargas.podzone.net/logos/-TSN.png",TSN 2 (canada)
-http://magmas5.com:8000/Oscar86/40473/130473
-#EXTINF:-1 group-title="⭐️ Deporte VIP" tvg-logo="http://descargas.podzone.net/logos/-TSN.png",TSN 3 (canada)
-http://magmas5.com:8000/Oscar86/40473/130474
-#EXTINF:-1 group-title="⭐️ Deporte VIP" tvg-logo="http://descargas.podzone.net/logos/-TSN.png",TSN 4 (canada)
-http://magmas5.com:8000/Oscar86/40473/130475
-#EXTINF:-1 group-title="⭐️ Deporte VIP" tvg-logo="http://descargas.podzone.net/logos/-TSN.png",TSN 5 (canada)
-http://magmas5.com:8000/Oscar86/40473/130476
-#EXTINF:-1 group-title="⭐️ Deporte VIP" tvg-logo="http://descargas.podzone.net/logos/-FUTV.png",FUTV (costa rica)
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/36170.ts
-#EXTINF:-1 group-title="⭐️ Deporte VIP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE_7-AfVbxaD0otp4yO-LnGfya4PljLuB2Yw&usqp=CAU",td+2 (costa rica)
-http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlHupxzsvyhXFQGMn6-n4A94/ts
-#EXTINF:-1 group-title="⭐️ Deporte VIP" tvg-logo="http://descargas.podzone.net/logos/-TENNIS-CHANNEL.png",TENNIS CHANNEL
-http://kiubo.biz:80/Nicolay@022/Nico@0223/36162.ts
-#EXTINF:-1 group-title="⭐️ Deporte VIP" tvg-logo="http://descargas.podzone.net/logos/-UFC-live.png",BOX NACION
-http://kiubo.biz:80/Nicolay@022/Nico@0223/137339.ts
-#EXTINF:-1 group-title="⭐️ Deporte VIP" tvg-logo="http://descargas.podzone.net/logos/-NFL.png",NFL NETWORK
-http://kiubo.biz:80/Nicolay@022/Nico@0223/36157.ts
-#EXTINF:-1 group-title="⭐️ Deporte VIP" tvg-logo="http://descargas.podzone.net/logos/-NBA.png",N.B.A TV (usa)
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167744
-#EXTINF:-1 group-title="⭐️ Deporte VIP" tvg-logo="http://descargas.podzone.net/logos/-MLB.png",M.L.B TV (usa)
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/307201
-#EXTINF:-1 group-title="⭐️ Deporte VIP" tvg-logo="http://descargas.podzone.net/logos/-tigo-sport.png",TIGO SPORTS (honduras)
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/35306.ts
-#EXTINF:-1 group-title="⭐️ Deporte VIP" tvg-logo="http://descargas.podzone.net/logos/-tigo-sport.png",TIGO SPORTS 3 (bolivia)
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/35304.ts
-#EXTINF:-1 group-title="⭐️ Deporte VIP" tvg-logo="http://descargas.podzone.net/logos/-tigo-sport.png",TIGO SPORTS (costa rica)
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/35305.ts
-#EXTINF:-1 group-title="⭐️ Deporte Perú" tvg-logo="http://descargas.podzone.net/logos/-liga-1.png",PE | LA LIGA 1 (Perú)
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/252156
-#EXTINF:-1 group-title="⭐️ Deporte Perú" tvg-logo="http://descargas.podzone.net/logos/-liga-1.png",PE | LA LIGA 1 MAX (Perú)
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/286827
-#EXTINF:-1 group-title="⭐️ Deporte Perú" tvg-logo="http://descargas.podzone.net/logos/-gol-peru.png",gol Perú
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/166609
+#EXTINF:-1 group-title="⭐️ Tv Dazn Eventos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZ5UTCOeWgHCSzTtzIG74Qrl-0duXJhd0Rg&usqp=CAU",DAZN MOVISTAR 1
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/159067
+#EXTINF:-1 group-title="⭐️ Tv Dazn Eventos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6s1BLWLYnoUikuNzPhbykMsM3PUsvIQyFLQ&usqp=CAU",DAZN MOVISTAR 2
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/151706
+#EXTINF:-1 group-title="⭐️ Tv Dazn Eventos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw0Q5HnlJ3eFkY1KKrgon15sJooJ_0CThmqg&usqp=CAU",DAZN MOVISTAR 3
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/151709
+#EXTINF:-1 group-title="⭐️ Tv Dazn Eventos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHZQBss3Wx6ilhokjaE_UuNhLotB8PsgV3Q&usqp=CAU",DAZN MOVISTAR F1
+http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/202655
 
 *****************************   https://raw.githubusercontent.com/atim2515/ATIM_BOSTON/main/TIM%20IPTV  ************************************************
 
