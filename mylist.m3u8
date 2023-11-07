@@ -142,6 +142,8 @@ https://d25v5vivhcrrh5.cloudfront.net/hls/canal11.m3u8
 http://181.189.243.254:8000/play/a0oh/index.m3u8
 #EXTINF:-1 group-title="Bics Extra", TICAVISION CR
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1  group-title="Bics Extra", PANAMERICANA PE
+https://cdn75.iblups.com/hls/stream.m3u8
 #EXTINF:-1  group-title="Bics Extra", GLOBAL PE
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=1377636187&_cdn_timestamp=1699407267&_cdn_token=b805aafd69ed2ad284f7ed99ba293b696ff344dd
 #EXTINF:-1  group-title="Bics Extra", PANAMERICANA PE
