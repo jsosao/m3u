@@ -1,89 +1,84 @@
 #EXTM3U
 
-************************  06/NOV/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  07/NOV/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ************************ HI THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", ACTUALIZADO EL 06 DE NOV 12:00 HRS
+#EXTINF:-1 group-title="Bics", ACTUALIZADO EL 07 DE NOV 12:00 HRS
 
 #EXTINF:-1 group-title="Bics", IMAGEN TV
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/634
 
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS LATAM
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
-https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS MX
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
 https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", AZTECA UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 group-title="Bics", AZTECA UNO -1 HR
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8
+#EXTINF:-1 group-title="Bics", MULTIMEDIOS MTY
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 group-title="Bics", MULTIMEDIOS LAGUNA
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 group-title="Bics", MULTIMEDIOS GDL
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 group-title="Bics", AZTECA 7
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 group-title="Bics", AZTECA 7 2
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 group-title="Bics", AZTECA 7 3
+https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 group-title="Bics", ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1  group-title="Bics", A+
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 group-title="Bics", ONCE
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:-1  group-title="Bics", MVS
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+#EXTINF:-1 group-title="Bics", MILENIO
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 group-title="Bics", 4 GDL
 https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
 #EXTINF:-1 group-title="Bics", 8 MTY
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8
-#EXTINF:-1 group-title="Bics", GOLDEN PLUS
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", EURO NEWS
 https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", ATV+ PE
 https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", TN23
 https://linear-259.frequency.stream/dist/vix/259/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", VIVO PLAY
-https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", NUESTRA VISION
-https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", N+
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", N+ MEDIA
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF:-1 group-title="Bics", GOLDEN PLUS
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", VIVO PLAY
+https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", NUESTRA VISION
+https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", TIGO SPORTS
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", REAL MADRID TV
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 
 *******************************************************************************************************************************************************************
-#EXTINF:-1 group-title="Bics Extra", LAS ESTRELLAS
-https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
-#EXTINF:-1 group-title="Bics Extra", LAS ESTRELLAS
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 group-title="Bics Extra", AZTECA UNO
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 group-title="Bics Extra", AZTECA UNO -1 HR
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8
-#EXTINF:-1 group-title="Bics Extra", AZTECA 7
-https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1 group-title="Bics Extra", AZTECA 7 2
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 group-title="Bics Extra", AZTECA 7 3
-https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1 group-title="Bics Extra", ADN 40
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1  group-title="Bics Extra", A+
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 group-title="Bics Extra", MILENIO
-https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:-1 group-title="Bics Extra", ONCE
-https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-#EXTINF:-1 group-title="Bics Extra", TELEMAX
-https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/.m3u8
-#EXTINF:-1 group-title="Bics Extra", MULTIMEDIOS MTY
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 group-title="Bics Extra", MULTIMEDIOS LAGUNA
-https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1 group-title="Bics Extra", MULTIMEDIOS GDL
-https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
-#EXTINF:-1  group-title="Bics Extra", MVS
-https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+
 #EXTINF:-1  group-title="Bics Extra", MARIA VISION
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 #EXTINF:-1  group-title="Bics Extra", MARIA VISION CAPILLA
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Privado2/playlist.m3u8
+
 #EXTINF:-1 group-title="Bics Extra", CANAL 57 USA
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Bics Extra", ESTRELLA TV USA
@@ -155,22 +150,15 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AMERIK/10-hls/live-media.m3u8
 https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp/playlist.m3u8
 #EXTINF:-1  group-title="Bics Extra", Ecuador TV EC
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_session=1368558923&_cdn_timestamp=1699274162&_cdn_token=0128bd789f723e9a414bc3ca314998b4796c7763
-#EXTINF:-1  group-title="Bics Extra", RTU EC
-http://177.234.230.226:8010/play/a029/index.m3u8
+
 #EXTINF:-1  group-title="Bics Extra", RTU EC
 https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
-#EXTINF:-1 group-title="Bics Extra", TELE 13 CL
-https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", 24 HORAS CL
 https://marine2.miplay.cl/24horas/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANAL CAPITAL CO
 https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-2500/index.m3u8
-#EXTINF:-1 group-title="Bics Extra", CANAL 2 CALI CO
-https://video13.virtualtronics.com/streamer/canal2.m3u8
 #EXTINF:-1 group-title="Bics Extra", SEÑAL COLOMBIA CO
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 group-title="Bics Extra", BBC AMERICA UK
-https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", CCTV-13 CH
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 #EXTINF:-1 group-title="Bics Extra", NHK WORLD JP
@@ -181,23 +169,20 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 group-title="Bics Extra", ABC PY
 https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
-#EXTINF:-1 group-title="Bics Extra", RAI NEWS IT
-https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
-#EXTINF:-1 group-title="Bics Extra", REUTERS NEWS
-https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ReutersNow/678e78de-ad71-4747-936a-55da37f68898/6.m3u8
 #EXTINF:-1 group-title="Bics Extra", CBS NEWS
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 group-title="Bics Extra", ABC NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 group-title="Bics Extra", NBC NEWS
-http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="Bics Extra", RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Bics Extra", ATRES CINE
-https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
+
+
+
+
+
 #EXTINF:-1 group-title="Bics Extra", USA | Paramount Network
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PARAMOUNT/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPARAMOUNTCHANNEL_stream_5p&_cdn_session=1364121411&_cdn_timestamp=1699198775&_cdn_token=a2eab56890e9cf1313c4225a1b5c3eb4b4f15606
 #EXTINF:-1 group-title="Bics Extra", USA | Sony Channel
@@ -256,17 +241,7 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/NICKELODEON/20-hls/live-media
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/NICKJR/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKJR_stream_y9&_cdn_session=1364846931&_cdn_timestamp=1699214876&_cdn_token=93ffcbd8d833da5accf8c021e33491b4fa87430f
 
 ******************************* DEPORTES **********************************************
-#EXTINF:-1  group-title="Bics Extra", TUDN MX
-http://190.61.102.67:31589/play/a08j/index.m3u8
-#EXTINF:-1  group-title="Bics Extra", TUDN MX
-http://181.209.173.10:9000/play/a05s/index.m3u8
-#EXTINF:-1  group-title="Bics Extra", TUDN MX
-http://181.189.243.217:8000/play/a0ud/index.m3u8
 
-#EXTINF:-1  group-title="Bics Extra", FOX SPORTS MX
-https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
-#EXTINF:-1  group-title="Bics Extra", FOX SPORTS 2 MX
-https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
 #EXTINF:-1  group-title="Bics Extra", FOX SPORTS 2 MX
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/87456
 #EXTINF:-1  group-title="Bics Extra", FOX SPORTS 3 MX
@@ -277,14 +252,10 @@ http://playhispano.org:8080/Legazy/t4IEVqKjvr/87446
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/87447
 #EXTINF:-1  group-title="Bics Extra", ESPN 3 
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/87448
-
-#EXTINF:-1  group-title="Bics Extra", Fox Sports Premium
-http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1  group-title="Bics Extra", Fox Sports Premium
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/56034
 #EXTINF:-1  group-title="Bics Extra", Fox Sports Premium
 http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/27857
-
 
 
 #EXTINF:-1  group-title="Bics Extra",  Fox Sports 2 USA
@@ -305,10 +276,9 @@ http://177.53.153.21:8001/play/a03a/index.m3u8
 http://190.6.202.162:8000/play/a014/index.m3u8
 #EXTINF:-1  group-title="Bics Extra", Claro Sports 2
 http://45.5.117.182:8000/play/a0e5/index.m3u8
-#EXTINF:-1  group-title="Bics Extra", Tigo Sports Guatemala
-https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 
 *** cocina pepe ****
+
 #EXTINF:-1  group-title="Bics Extra", Fox Sports Premium
 http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/27922
 #EXTINF:-1  group-title="Bics Extra", ESPN Deportes
@@ -334,119 +304,150 @@ http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12283
 http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12281
 #EXTINF:-1  group-title="Bics Extra", TUDN MX
 http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12197
-
 #EXTINF:-1  group-title="Bics Extra", M+ La Liga 
 http://515860080856165393.of23103.xyz:80/play/XDH31455298/664585696/165393.ts
 #EXTINF:-1  group-title="Bics Extra", ITV Deportes 
 https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
-#EXTINF:-1  group-title="Bics Extra", Tigo Sports
-https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 #EXTINF:-1  group-title="Bics Extra", Golazo Network 
 https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
 
-*******************************  https://raw.githubusercontent.com/jsosao/mortal251_ssiptvarg/main/jlm3uargentinaygratuita.m3u   *************************************************
-
-#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 1
-https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
-#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 2
-https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
-#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 3
-https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
-#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 4
-https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
-#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 5
-https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
-#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 6
-https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
-#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 7
-https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
-#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 8
-https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
-#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 9
-https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
-#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 10
-https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m3u8
-#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 11
-https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
-
-*********************************************  https://raw.githubusercontent.com/app2tv/M3U8/master/All.m3u ***************************************
-**************** https://github.com/cnluisiptv/nuevo.m3u/blob/main/premium2023.m3u *****************
-
 ************************ https://raw.githubusercontent.com/angel200881/C/main/C5.m3u8  ************************
 
-#EXTINF:-1 group-title="NACIONALES", AGU: Canal 26
-http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-#EXTINF:-1 group-title="NACIONALES", AGU: Canal 26
+#EXTINF:-1 group-title="Bics Regionales", AGU: Canal 26
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", GDL: Canal 4
-https://ythls.onrender.com/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
-#EXTINF:-1 group-title="NACIONALES", GDL: Canal 4
+#EXTINF:-1 group-title="Bics Regionales", GDL: Canal 4
 https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
-#EXTINF:-1 group-title="NACIONALES", CAM: TRC Television
+#EXTINF:-1 group-title="Bics Regionales", CAM: TRC Television
 https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", CHP: Canal 10
+#EXTINF:-1 group-title="Bics Regionales", CHP: Canal 10
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", CHH: Canal 28 Chihuahua
-https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", CHH: CANAL 44
+#EXTINF:-1 group-title="Bics Regionales", GTO: Canal 13 Bajío (720p) [Not 24/7]
+https://dbdfj5y8nz2u4.cloudfront.net/c13bajio/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales", CAM: Canal 13 Campeche (720p) [Not 24/7]
+https://dbdfj5y8nz2u4.cloudfront.net/c13campeche/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales", CHP: Canal 13 Chiapas (720p) [Not 24/7]
+https://dbdfj5y8nz2u4.cloudfront.net/c13chiapas/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales", MICH: Canal 13 Michoacán (720p) [Not 24/7]
+https://dbdfj5y8nz2u4.cloudfront.net/c13michoacan/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales", OAX: Canal 13 Oaxaca (720p) [Not 24/7]
+https://dbdfj5y8nz2u4.cloudfront.net/c13oaxaca/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales", PUE: Canal 13 Puebla (720p) [Not 24/7]
+https://dbdfj5y8nz2u4.cloudfront.net/c13puebla/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales", TAB: Canal 13 Tabasco (720p) [Not 24/7]
+https://dbdfj5y8nz2u4.cloudfront.net/c13tabasco/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales", CHP: Canal 13 Tapachula (720p) [Not 24/7]
+https://dbdfj5y8nz2u4.cloudfront.net/c13tapachula/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales", YUC: Canal 13 Yucatán (720p) [Not 24/7]
+https://dbdfj5y8nz2u4.cloudfront.net/c13yucatan/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales", CHH: CANAL 44
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", CMX: Efekto TV
-https://cdn.jwplayer.com/manifests/bez1terN.m3u8
-#EXTINF:-1 group-title="NACIONALES", COA: Canal 4 Saltillo
-http://162.241.190.126:1935/live/canal4/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", COA: 15TV Sabinas
+#EXTINF:-1 group-title="Bics Regionales", COA: 15TV Sabinas
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", DUR: Canal 10 Durango
-http://204.12.193.98:1935/TvHD/canal10/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", DUR: TV Lobo Durango
-http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", GUA: TV Cuatro 4.1 Noticias
-https://5f1af61612fb5.streamlock.net/tv4/videotv4_720p/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", GUA: TV Cuatro 4.2 Cultura
-https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", GUA: TV Cuatro 4.3 Deportes
-https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", JAL: Jalisco TV
+#EXTINF:-1 group-title="Bics Regionales", GTO: TV Cuatro 4.1 Noticias
+https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
+#EXTINF:-1 group-title="Bics Regionales", GTO: TV Cuatro 4.2 Cultura
+https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
+#EXTINF:-1 group-title="Bics Regionales", GTO: TV Cuatro 4.3 Deportes
+https://5f1af61612fb5.streamlock.net/tv43/tv43.smil/.m3u8
+#EXTINF:-1 group-title="Bics Regionales", GTO: TV Guanajuato (720p)
+https://stream.oursnetworktv.com/latin/tvguanajuato/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales", JAL: Jalisco TV
 https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", MIC: SMRTV Michoacan
-https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", MIC: Canal 13 Michoacan
+#EXTINF:-1 group-title="Bics Regionales", MIC: Canal 13 Michoacan
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
-#EXTINF:-1 group-title="NACIONALES", PUE: Canal 16.1
+#EXTINF:-1 group-title="Bics Regionales", PUE: Canal 16.1
 https://5d0d1d7a6be9e.streamlock.net/envivo/puecom/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", PUE: Canal 16.2
+#EXTINF:-1 group-title="Bics Regionales", PUE: Canal 16.2
 https://5d0d1d7a6be9e.streamlock.net/live/setpuebla/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", PUE: Canal 26.1
+#EXTINF:-1 group-title="Bics Regionales", PUE: Canal 26.1
 http://189.240.210.28:1935/envivo/puecom/chunklist_w166335976.m3u8
-#EXTINF:-1 group-title="NACIONALES", PUE: Canal 26.2
+#EXTINF:-1 group-title="Bics Regionales", PUE: Canal 26.2
 http://189.240.210.28:1935/envivo/puecom/chunklist_w745561738.m3u8
-#EXTINF:-1 group-title="NACIONALES", PUE: TV comunicaciones Puebla
-http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", ,QUE: RTQ Queretaro
+#EXTINF:-1 group-title="Bics Regionales", ,QUE: RTQ Queretaro
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
-#EXTINF:-1 group-title="NACIONALES", ROO: Canal 10 Cancun
+#EXTINF:-1 group-title="Bics Regionales", ROO: Canal 10 Cancun
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", SLP: Nueve TV
+#EXTINF:-1 group-title="Bics Regionales", SLP: Nueve TV
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/chunklist_w2067160029.m3u8
-#EXTINF:-1 group-title="NACIONALES", SIN: TVP Mazatlan
+#EXTINF:-1 group-title="Bics Regionales", SIN: TVP Mazatlan
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", SIN: TVP Culiacan
+#EXTINF:-1 group-title="Bics Regionales", SIN: TVP Culiacan
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", SIN: TVP Los Mochis
+#EXTINF:-1 group-title="Bics Regionales", SIN: TVP Los Mochis
 https://5ca3e84a76d30.streamlock.net/gpacifico2/smil:mochis.smil/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", SON: TVP Cd. Obregon
-https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w1903526755_b1428000_sleng.m3u8
-#EXTINF:-1 group-title="NACIONALES", SON: Telemax Sonora
+#EXTINF:-1 group-title="Bics Regionales", SON: TVP Cd. Obregon
+https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales", SON: Telemax Sonora
 http://s5.mexside.net:1935/telemax/telemax/chunklist_w586584359.m3u8
 https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", TLA: Tlaxcala Television
+#EXTINF:-1 group-title="Bics Regionales", TLA: Tlaxcala Television
 https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
-#EXTINF:-1 group-title="NACIONALES", VER: TVMAS Veracruz
+#EXTINF:-1 group-title="Bics Regionales", VER: TVMAS Veracruz
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", YUC: Teleplay Merida
+#EXTINF:-1 group-title="Bics Regionales", YUC: Teleplay Merida
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES", ZAC: Canal 24 Zacatecas
+#EXTINF:-1 group-title="Bics Regionales", ZAC: Canal 24 Zacatecas
 https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales", MX AMX Noticias
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales",CHIH: Canal 50.1 Juárez (XEJ-TDT) (614p)
+https://stream.oursnetworktv.com/latin/juarez50/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales",Canal Ocho TV (1080p)
+https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales",El 15 TV (720p)
+https://stream.oursnetworktv.com/latin/encoder32/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales", MOR: IMRyT (720p)
+https://stream8.mexiserver.com:1936/morelostv/morelostv/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales", MX: Mexiquense TV (720p)
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales",Monte Maria (1080p)
+https://616eee1852d6c.streamlock.net/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales",Noticias Canal 10 (360p) [Not 24/7]
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales",NRT México Canal 4 (720p)
+https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales", SLP: Nueve TV San Luís Potosí (720p)
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
+#EXTINF:-1 group-title="Bics Regionales", COA: RCG TV (1080p)
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales",QRO: RTQ Querétaro (360p) [Not 24/7]
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1 group-title="Bics Regionales", ZAC: SIZART Canal 24 (1080p)
+https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales",SQCS Canal 4 (720p)
+https://5fa5de1a545ae.streamlock.net/4982/4982/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales",Super Channel 12 (1080p)
+https://servilive.com:3263/live/channel12live.m3u8
+#EXTINF:-1 group-title="Bics Regionales", CAMP: Telemar Campeche (720p) [Not 24/7]
+https://5e50264bd6766.streamlock.net/telemarcampeche/videotelemarcampeche/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales", SON: Telemax (XEWH-TDT) (1080p)
+http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales",Teleplay Sureste (360p)
+https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales",Tlaxcala Televisión (360p) [Not 24/7]
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?token=null
+#EXTINF:-1 group-title="Bics Regionales",TRC Televisión (720p)
+https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales",TV Azteca Noroeste (Monterrey) (720p)
+https://live.info7.mx/info7/stream.m3u8
+#EXTINF:-1 group-title="Bics Regionales",TV Mar La Paz (1080p)
+https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales",TV Mar Los Cabos (1080p)
+https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales",TV Mar Puerto Vallarta (1080p)
+https://5ca3e84a76d30.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales",TV UJAT (XHUJAT-TDT) (720p) [Not 24/7]
+https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales",TVMás (720p)
+https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
+#EXTINF:-1 group-title="Bics Regionales",TVMÁS (XHGV-TDT) (360p) [Not 24/7]
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales",TVT Tabasco (720p) [Not 24/7]
+https://5e50264bd6766.streamlock.net/tabasco/videotabasco/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales",Ultra TV Puebla (720p) [Not 24/7]
+https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales",XHKG TV Nayarit (1080p)
+https://stream.oursnetworktv.com/latin/encoder73/playlist.m3u8
 
 *********************************  https://raw.githubusercontent.com/angel200881/C/main/CTWO.m3u8  *************************************************************
 
@@ -496,6 +497,7 @@ https://5ca3e84a76d30.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 group-title="NACIONALES" tvg-logo="https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg",Multimedios Laguna Web
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+https://mdstrm.com/live-stream/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 group-title="NACIONALES" tvg-logo="https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg",Multimedios GDL Web
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 #EXTINF:-1 group-title="NACIONALES" tvg-logo="https://pbs.twimg.com/profile_images/1066416010557837312/K_aJRxD6_400x400.jpg",Multimedios CDMX Web
@@ -1237,4 +1239,8 @@ http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/202655
 *****************************************  https://github.com/pcouillard/iptv/blob/main/iptv.m3u ***************************************
 *******************************  https://github.com/anthono12/rey1212/blob/360812912e6b26a99db05df05b7db59660a13a63/rony.m3u8   *************************************************
 *********************************************  https://github.com/iptv-org/iptv/discussions/10639 ***************************************
+
+*********************************************  https://raw.githubusercontent.com/app2tv/M3U8/master/All.m3u ***************************************
+**************** https://github.com/cnluisiptv/nuevo.m3u/blob/main/premium2023.m3u *****************
+
 
