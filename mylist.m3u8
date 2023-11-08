@@ -20,6 +20,8 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
 https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 group-title="Bics", AZTECA UNO
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8
 #EXTINF:-1 group-title="Bics", AZTECA UNO -1 HR
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8
 #EXTINF:-1 group-title="Bics", MULTIMEDIOS MTY
@@ -34,6 +36,12 @@ https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 group-title="Bics", AZTECA 7 3
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 group-title="Bics", NU9VE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719
+#EXTINF:-1 group-title="Bics", AFIZZIONADOS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/729
+
+
 #EXTINF:-1 group-title="Bics", ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1  group-title="Bics", A+
