@@ -98,6 +98,10 @@ https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master.m
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", RCN Mas+ CO
 https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra", CANAL 21 CL
+https://tv.clientetvstudio.net:3078/live/senal21tvlive.m3u8
+#EXTINF:-1 group-title="Bics Extra", PINPON TV HD 
+https://vdo2.streamgato.us:3613/live/pinpontvlive.m3u8
 
 *****#EXTINF:-1 group-title="Bics Extra", TELEFE AR
 *****http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/264
