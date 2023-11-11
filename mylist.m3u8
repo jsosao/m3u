@@ -30,6 +30,8 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 #EXTINF:-1 group-title="Bics", MULTIMEDIOS GDL
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 group-title="Bics", CANAL 5
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681
 #EXTINF:-1 group-title="Bics", AZTECA 7
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 group-title="Bics", AZTECA 7 2
@@ -418,9 +420,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/703
 #EXTINF:-1 group-title="Bics Extra MX", UNIVERSAL PREMIER
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/705
-#EXTINF:-1 group-title="Bics Extra", DISCOVERY FAMILIA
+#EXTINF:-1 group-title="Bics Extra MX", DISCOVERY FAMILIA
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/510
-#EXTINF:-1 group-title="Bics Extra", DISCOVERY FAMILIA
+#EXTINF:-1 group-title="Bics Extra MX", DISCOVERY FAMILIA
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/511
 #EXTINF:-1 group-title="Bics Extra MX", FX
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708
@@ -671,7 +673,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/483
 #EXTINF:-1 group-title="Bics Extra USA", ABC NEW YORK
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/728
-#EXTINF:-1 group-title="Bics Extr USAa", ABC MIAMI
+#EXTINF:-1 group-title="Bics Extra USA", ABC MIAMI
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1126
 
 #EXTINF:-1 group-title="Bics Extra USA", CBS 4 MIAMI
@@ -732,15 +734,15 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 group-title="Bics Extra USA", Fox-Sports-Kansas ???
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1180
 
-#EXTINF:-1 group-title="Bics Extra", NBC 4 NEW YORK
+#EXTINF:-1 group-title="Bics Extra USA", NBC 4 NEW YORK
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/601
-#EXTINF:-1 group-title="Bics Extra", NBC 5 CHICAGO
+#EXTINF:-1 group-title="Bics Extra USA", NBC 5 CHICAGO
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/602
-#EXTINF:-1 group-title="Bics Extra", NBC 6 MIAMI
+#EXTINF:-1 group-title="Bics Extra USA", NBC 6 MIAMI
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/603
-#EXTINF:-1 group-title="Bics Extra", NBC NEWS
+#EXTINF:-1 group-title="Bics Extra USA", NBC NEWS
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/604
-#EXTINF:-1 group-title="Bics Extra", NBCSN  HD (ENG)
+#EXTINF:-1 group-title="Bics Extra USA", NBCSN  HD (ENG)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/606
 #EXTINF:-1 group-title="Bics Extra USA", NBC-Kansas
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1179
