@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
-************************  10/NOV/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  16/NOV/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ************************ HI THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", ACTUALIZADO EL 10 DE NOV 12:00 HRS
+#EXTINF:-1 group-title="Bics", ACTUALIZADO EL 16 DE NOV 12:00 HRS
 
 #EXTINF:-1 group-title="Bics", AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
@@ -20,8 +20,10 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
 https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS LATAM
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", IMAGEN TV
-http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/634
+#EXTINF:-1 group-title="Bics", IMAGEN TV FHD
+http://185.155.103.50:8080/UzielLCH/UzielLCH/155181
+#EXTINF:-1 group-title="Bics", IMAGEN TV HD
+http://185.155.103.50:8080/UzielLCH/UzielLCH/155182
 #EXTINF:-1 group-title="Bics", CANAL 5
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681
 #EXTINF:-1 group-title="Bics", MULTIMEDIOS MTY
@@ -88,8 +90,6 @@ https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Bics Extra", CANAL 57 USA
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
-*****#EXTINF:-1 group-title="Bics Extra", ESTRELLA TV USA
-*****https://estrellatv-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", UNIVISION LATAM
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", TELEMUNDO LA
@@ -253,29 +253,30 @@ https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 ******************************* DEPORTES **********************************************
 
 #EXTINF:-1  group-title="Bics Extra",  Fox Sports 2 USA
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=1410827403&_cdn_timestamp=1699486405&_cdn_token=84949d2dc744b4d089f2f298bf8f412f6ed415bc
+http://190.187.154.156:8000/play/a06b/index.m3u8
 #EXTINF:-1  group-title="Bics Extra", Fox Sports 3 USA
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=1410827675&_cdn_timestamp=1699486411&_cdn_token=75bfdc0949f94a2b474ef6716b4c57ecf109ae9d
+http://190.187.154.156:8000/play/a05w/index.m3u8
 #EXTINF:-1  group-title="Bics Extra", ESPN USA
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=1410828867&_cdn_timestamp=1699486432&_cdn_token=3b7b63324b00aa1daf836a494de051fa29179b5b
+http://190.187.154.156:8000/play/a04w/index.m3u8
 #EXTINF:-1  group-title="Bics Extra", ESPN 2 USA
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=1410832323&_cdn_timestamp=1699486484&_cdn_token=f3fa9ff76c11778bf69e2f5a9a7df78d6d7b3af6
+http://190.187.154.156:8000/play/a06a/index.m3u8
 #EXTINF:-1  group-title="Bics Extra", ESPN 3 USA
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=1410832635&_cdn_timestamp=1699486489&_cdn_token=9d88aaef253b167066d6f4f2a021643a9c3ac173
+http://190.187.154.156:8000/play/a05v/index.m3u8
 #EXTINF:-1  group-title="Bics Extra", ESPN 4 USA
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN4/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=1410833691&_cdn_timestamp=1699486503&_cdn_token=586d44e7ea3c76490ee93dac15c097145cc6c7b5
+http://190.187.154.156:8000/play/a06c/index.m3u8
 #EXTINF:-1  group-title="Bics Extra", ESPN EXTRA USA
-http://170.82.37.21:8000/play/a012/index.m3u8
+http://190.187.154.156:8000/play/a06p/index.m3u8
 #EXTINF:-1  group-title="Bics Extra", Claro Sports
 http://190.6.202.162:8000/play/a014/index.m3u8
 #EXTINF:-1  group-title="Bics Extra", Claro Sports 2
 http://45.5.117.182:8000/play/a0e5/index.m3u8
 #EXTINF:-1  group-title="Bics Extra", TUDN MX
-http://181.209.173.10:9019/play/a05s/index.m3u8
+http://170.82.37.21:8000/play/a015/index.m3u8
 #EXTINF:-1  group-title="Bics Extra", AFIZZIONADOS MX
 http://livex.pop-app.live/s4n/poplive/ch548/playlist.m3u8
 
-
+#EXTINF:-1  group-title="Bics Extra", SKY SPORTS MX
+http://45.5.117.182:8000/play/ihf9/index.m3u8
 #EXTINF:-1  group-title="Bics Extra", FOX SPORTS 2 MX
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/87456
 #EXTINF:-1  group-title="Bics Extra", FOX SPORTS 3 MX
@@ -1212,336 +1213,7 @@ https://stream.oursnetworktv.com/latin/encoder73/playlist.m3u8
 
 *********************************  https://raw.githubusercontent.com/angel200881/C/main/CTWO.m3u8  *************************************************************
 *********************************  https://raw.githubusercontent.com/angel200881/C/main/FOUR KEI.m3u8  *************************************************************
-
-#EXTINF:-1 group-title="24/7 Cine", cinema 00
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507619&extension=ts&play_token=T3HuVEXjrf
-#EXTINF:-1 group-title="24/7 Cine" , cinema  01
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507617&extension=ts&play_token=GRq1kuwvbY
-#EXTINF:-1 group-title="24/7 Cine" , cinema 02
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507616&extension=ts&play_token=vhphKQbwnV
-#EXTINF:-1 group-title="24/7 Cine" , cinema 03
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507615&extension=ts&play_token=MDBjCPbHPn
-#EXTINF:-1 group-title="24/7 Cine" , cinema 04
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507614&extension=ts&play_token=Xim3PTfIJP
-#EXTINF:-1 group-title="24/7 Cine" , cinema 05
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507609&extension=ts&play_token=Uwexr4qpwy
-#EXTINF:-1 group-title="24/7 Cine" , cinema 06
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507612&extension=ts&play_token=dvsszwS27o
-#EXTINF:-1 group-title="24/7 Cine" , cinema 07
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507611&extension=ts&play_token=Mja1pamiAk
-#EXTINF:-1 group-title="24/7 Cine" , cinema 08
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507610&extension=ts&play_token=E4jzoJufIQ
-#EXTINF:-1 group-title="Colombia",COL| Cablenoticias
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155805
-#EXTINF:-1 group-title="Colombia",COL| Canal Uno
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1066863
-#EXTINF:-1 group-title="Colombia",COL| CARACOL
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155787
-#EXTINF:-1 group-title="Colombia",COL| CARACOL opc2
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155783
-#EXTINF:-1 group-title="Colombia",COL| Caracol Internacional
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2120
-#EXTINF:-1 group-title="Colombia",COL| CITY TV
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1092275
-#EXTINF:-1 group-title="Colombia" tvg-logo="http://streamgo.vip:8008/images/d94d3dedf5efcb70fd4c5ec164d62aaa.png",COL| NTN24
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/41815
-#EXTINF:-1 group-title="Colombia" tvg-logo="http://streamgo.vip:8008/images/734a5c146a57899f2e1a2dac311a747d.png",COL| RCN
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1087192
-#EXTINF:-1 group-title="Colombia" tvg-logo="http://streamgo.vip:8008/images/734a5c146a57899f2e1a2dac311a747d.png",COL| RCN opc2
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2121
-#EXTINF:-1 group-title="Colombia" tvg-logo="http://streamgo.vip:8008/images/734a5c146a57899f2e1a2dac311a747d.png",COL| RCN opc3
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHJkD-9dBuk0s2k0Pmn1RIOc
-#EXTINF:-1 group-title="Colombia" tvg-logo="http://streamgo.vip:8008/images/30e73c310da7d353d9a9bf46213c1135.png",COL| Señal Colombia
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155811
-#EXTINF:-1 group-title="Colombia" tvg-logo="http://streamgo.vip:8008/images/4e7ca7d40c3fcf1b23f76af0d9f7235a.png",COL| TeleAntioquia
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155801
-#EXTINF:-1 group-title="Colombia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvLenEpqBsZoYkOFBD-XdENBTsz9CEwWrjqA&usqp=CAU",COL| cali tv
-https://5ab772334c39c.streamlock.net:443/live-calitv/_definst_/calitv1/chunklist_w44416927_tkd293emF0b2tlbmVuZHRpbWU9Jndvd3phdG9rZW5oYXNoPVM1S1BjVzM5WF9raWFzNllvanhGZERVX25RbG5kU0lSRGROUldvMk1MUlk9Jndvd3phdG9rZW5zdGFydHRpbWU9.m3u8?190.60.36.91
-#EXTINF:-1 group-title="Colombia" tvg-logo="http://streamgo.vip:8008/images/313344b792f2396df12c249f7d3812c9.png",COL| TeleCaribe
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/43625
-#EXTINF:-1 group-title="Colombia" tvg-logo="http://streamgo.vip:8008/images/f661ac88786c79fb80ecb9bde42fa929.png",COL| Tele-pacifico
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/47693
-#EXTINF:-1 group-title="Colombia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFstbzvymPkISwyrD51HIU-sHFVCen1oI1Sg&usqp=CAU",COL| tv agro
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2137
-#EXTINF:-1 group-title="Colombia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE_966xABJ3qeFrVWPMkt9qDvNF1DC8O5wdA&usqp=CAU",COL| telecafe
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155810
-#EXTINF:-1 group-title="Colombia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ZEiRQZQuiiMf5k3E6hPIdYofCzy5mlSwKA&usqp=CAU",COL| cosmovision
-http://magmas5.com:8000/Oscar86/40473/150372
-#EXTINF:-1 group-title="Colombia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStMNj7E8rn56uWnstFxNSt_tt3412HyJ7Ulw&usqp=CAU",COL| canal trece
-https://canaltrece-live.logicideas.media:443/canaltrece-live/smil:livebk.smil/chunklist_w216528419_b2250000_sles.m3u8
-#EXTINF:-1 group-title="Colombia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHjX-rL_ABmrFD6AVNf7IsSHbsa2dhJJ-NWg&usqp=CAU",COL| Eureka
-https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
-#EXTINF:-1 group-title="Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-HBO.png",CINE| HBO
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155792
-#EXTINF:-1  group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-HBO-2.png",CINE| HBO 2
-http://gotv.vip:8880/Angel2023/Angel2023/88
-#EXTINF:-1  group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-HBO-plus.png",CINE| HBO +
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4109
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-HBO-family.png",CINE| HBO Family
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4017
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-HBO-xtream.png",CINE| HBO Xtreme
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/44341
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-HBO-mundi.png",CINE| HBO Mundi
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1143815
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-HBO-pop.png",CINE| HBO POP
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/47445
-#EXTINF:-1  tvg-logo="http://descargas.podzone.net/logos/-HBO-signature.png",CINE| HBO signature
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155796
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-cinecanal.png",CINE| Cinecanal
-http://gotv.vip:8880/Angel2023/Angel2023/36
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-cine-latino.png",CINE| Cine Latino
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4136
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos2/-CINEMAX.png",CINE| Cinemax
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1068350
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-claro-cinema.png",CINE| Claro Cinema
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4145
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-de-pelicula-plus.png",CINE| De Pelicula Clásico
-http://gotv.vip:8880/Angel2023/Angel2023/140039
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-DHE.png",CINE| DHE
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/24180
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-golden-edge.png",CINE| Golden EDGE
-http://gotv.vip:8880/Angel2023/Angel2023/85
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-golden-premiere.png",CINE| Golden Premier
-http://gotv.vip:8880/Angel2023/Angel2023/245
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-golden.png",CINE| Golden
-http://gotv.vip:8880/Angel2023/Angel2023/244
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-golden.png",CINE| Golden Plus
-http://gotv.vip:8880/Angel2023/Angel2023/86
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-space.png",CINE| Space
-http://gotv.vip:8880/Angel2023/Angel2023/113
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-universal-channel.png",CINE| universal channel
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHEocrZghRUsgEdfMCdx0PzA
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-universal-cinema.png",CINE| universal cinema
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHIQRxBYMBDsAYCSlYBFO_r4
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-universal-reality.png",CINE| universal reality
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHExvfJduc1WfdWeSwoqNflw
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-universal-premier.png",CINE| universal premier
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHI1phC-Npv73caM2Q53jCkc
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-paramount.png",CINE| Paramount+
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155799
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-AMC.png",CINE| amc
-http://gotv.vip:8880/Angel2023/Angel2023/16
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-AyE.png",CINE| A&E
-http://gotv.vip:8880/Angel2023/Angel2023/6
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-star-channel.png",CINE| START CHANNEL
-http://gotv.vip:8880/Angel2023/Angel2023/36282
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-AXN.png",CINE| AXN
-http://gotv.vip:8880/Angel2023/Angel2023/19
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-FX.png",CINE| FX
-http://gotv.vip:8880/Angel2023/Angel2023/80
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-warner.png",CINE| WARNER
-http://gotv.vip:8880/Angel2023/Angel2023/366
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-TCM.png",CINE| TCM
-http://gotv.vip:8880/Angel2023/Angel2023/120
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-TNT.png",CINE| TNT
-http://gotv.vip:8880/Angel2023/Angel2023/243
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-TNT-series.png",CINE| TNT SERIES
-http://gotv.vip:8880/Angel2023/Angel2023/365
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-SYFY.png",CINE| SYFY
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/3958
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-cinema-dinamita.png",CINE| CINEMA DINAMITA
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4142
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-I-SAT.png",CINE| I-SAT
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155798
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-sony.png",CINE| SONY
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1143816
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-europa-europa.png",CINE| EUROPA EUROPA
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/33359
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/lrj2k8548eh7ug0ojf9b2/tucine.png?rlkey=e4o80v5ja2b8b6bq5d8u8e69c&dl=0",CINE| tu cine
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/7981
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2uos7rleuxwdig6i5z23k/fmtv.png?rlkey=fyoa2s4fxlp4rmvd0zlcagokq&dl=0",CINE| fmtv fusion
-https://s2.tvdatta.com:3307/hybrid/play.m3u8
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-lifetime.png",CINE| lifetime
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155873
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-sundance.png",CINE| SUNDANCE TV
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4101
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-morbid-tv.png",CINE| MORBID TV
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/33364
-#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-cine-estelar.png",CINE| CINE ESTELAR
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1156007
-#EXTINF:-1 group-title="⭐️ Cultura" tvg-logo="http://descargas.podzone.net/logos/-animal-planet.png",CUL| Animal Planet
-http://gotv.vip:8880/Angel2023/Angel2023/17
-#EXTINF:-1 group-title="⭐️ Cultura" tvg-logo="http://descargas.podzone.net/logos/-discovery-channel.png",CUL| Discovery Channel
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155807
-#EXTINF:-1 group-title="⭐️ Cultura" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/m1xje3v01pn55zyn25lfe/Discoveryfami.png?rlkey=mwtraqj9ymtbflwsql7inctxc&dl=0",CUL| Discovery Familia
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHPw6CcjW_tufp-8Sl2Tpg2M
-#EXTINF:-1 group-title="⭐️ Cultura" tvg-logo="http://descargas.podzone.net/logos/-discovery-home-&-health.png",CUL| Discovery. H&H
-http://gotv.vip:8880/Angel2023/Angel2023/46
-#EXTINF:-1 group-title="⭐️ Cultura" tvg-logo="http://descargas.podzone.net/logos/-discovery-ID.png",CUL| Discovery Investigation
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4123
-#EXTINF:-1 group-title="⭐️ Cultura" tvg-logo="http://descargas.podzone.net/logos/-discovery-science.png",CUL| Discovery SCI
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155818
-#EXTINF:-1 group-title="⭐️ Cultura" tvg-logo="http://descargas.podzone.net/logos/-discovery-theater.png",CUL| Discovery Theater
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHPEku5J9aTY-q9TQjwvCLkM
-#EXTINF:-1 group-title="⭐️ Cultura" tvg-logo="http://descargas.podzone.net/logos/-discovery-turbo.png",CUL| Discovery Turbo
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHMK9XTfxq78PuM2mEx2W0PU
-#EXTINF:-1 group-title="⭐️ Cultura" tvg-logo="http://descargas.podzone.net/logos/-discovery-world.png",CUL| Discovery World
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155812
-#EXTINF:-1 group-title="⭐️ Cultura" tvg-logo="http://descargas.podzone.net/logos/-el-gourmet.png",CUL| El Gourmet
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHJLaiSMKpcSRkr-Aye3mirA
-#EXTINF:-1 group-title="⭐️ Cultura" tvg-logo="http://descargas.podzone.net/logos/-history.png",CUL| History Channel
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155804
-#EXTINF:-1 group-title="⭐️ Cultura" tvg-logo="http://descargas.podzone.net/logos/-H2-(history2).png",CUL| History Channel 2
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHIIjE2M4NdeKzMAtqcMb2vs
-#EXTINF:-1 group-title="⭐️ Cultura" tvg-logo="http://descargas.podzone.net/logos/-HGTV.png",CUL| HGTV
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155823
-#EXTINF:-1 group-title="⭐️ Cultura" tvg-logo="http://descargas.podzone.net/logos/-NATGEO.png",CUL| Nat Geo
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHDATw_R1qBQM71MuRvu0j20
-#EXTINF:-1 group-title="⭐️ Cultura" tvg-logo="http://descargas.podzone.net/logos/-discovery-TLC.png",CUL| TLC
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHGy2ExMaLDi7Nz6qAwjAl_g
-#EXTINF:-1 group-title="⭐️ Cultura" tvg-logo="http://descargas.podzone.net/logos/-cocina.png",CUL| Cocina TV
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=612289&extension=ts&play_token=3zpQUO1DmQ
-#EXTINF:-1 group-title="⭐️ Telenovelas" tvg-logo="http://descargas.podzone.net/logos/-AZ-corazon.png",NOV| AZ CORAZON
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHLpKS9hqy-Ol-EoI3zmF-cI
-#EXTINF:-1 group-title="⭐️ Telenovelas" tvg-logo="http://descargas.podzone.net/logos/-pasiones.png",NOV| PASIONES
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2010
-#EXTINF:-1 group-title="⭐️ Telenovelas" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/gaa49c3r13f4s8b60qigr/1689817058186.png?rlkey=0k2khkzbkemwzseozd6bleimx&dl=0",NOV| TLNOVELAS
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2031
-#EXTINF:-1 group-title="⭐️ Telenovelas" tvg-logo="http://descargas.podzone.net/logos/-univision.png",NOV| TL NOVELAS UNIVISION
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/2038
-#EXTINF:-1 group-title="⭐️ Telenovelas" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/irsa266j5haowlfsiubet/1689817086743.png?rlkey=j151hf0qxsr3a64dlz4nhurzi&dl=0",NOV| RCN Novelas
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHBffrIqJsaoi8sNueGjk6cw
-#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="http://descargas.podzone.net/logos/-cartoon-network.png",INF| CARTOON NETWORK
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4063
-#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTutC_Caxt-F1P9n8tpParhZiEkSeUcLshzVg&usqp=CAU",INF| Tooncast
-http://gotv.vip:8880/Angel2023/Angel2023/376
-#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGVn-WlznbyD88VwS6mAgmBkRSCQ_hD2-v9g&usqp=CAU",INF| Nickelodeon
-http://gotv.vip:8880/Angel2023/Angel2023/105
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtpOxL3sDX9bz1UKuJUHw5fRrV1GUAVaWXwQ&usqp=CAU",INF| Nick Jr
-http://gotv.vip:8880/Angel2023/Angel2023/106
-#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSToaBRgehSgq1nbHkxKT86bqMANW2o9LUwSQ&usqp=CAU",INF| disney jr
-http://gotv.vip:8880/Angel2023/Angel2023/55
-#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRciCyrjS_Qe7hYYPNP6M0JtrAUBwAUcJJWGg&usqp=CAU",INF| Disney Channel
-http://gotv.vip:8880/Angel2023/Angel2023/54
-#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Z-HyjoMKkBEbU-sBz7pebeS6St4gHpoLpw&usqp =CAU",INF| Discovery kids
-http://gotv.vip:8880/Angel2023/Angel2023/48
-#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpgKH9kQv82NrlNieyLxyVZuvFxpCK9ozxnQ&usqp=CAU",INF| Baby First
-http://gotv.vip:8880/Angel2023/Angel2023/377
-#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk0fJUpGaiZlWWS4_bk3RXJaXRyNO41it7ig&usqp=CAU",INF| Nicktoons
-http://gotv.vip:8880/Angel2023/Angel2023/107
-#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSel4znkPtmHoMCvrjQy6qlJVspdxSbtn-p1Q&usqp=CAU",INF| paka paka
-http://gotv.vip:8880/Angel2023/Angel2023/20460
-#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-TS7q6ii5E570ki-MXurqbh9AKonahFQ5g&usqp=CAU",INF| latino kids
-https://6362ca6f1fc28.streamlock.net:443/8062/8062/chunklist_w112073847.m3u8
-#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKbOsnQQVqj13Kj_awAC_exQQ_glLDoJ8pkQ&usqp=CAU",INF|los picapiedras
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1349
-#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXe1ZtobIX19VFVbKyg53xwlmsQrcqa9_A4w&usqp=CAU",INF|bob esponja
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1312
-#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlW0f2siItaWBfHeSaTD6iBtJFHVy0JiSyIQ&usqp=CAU",INF|el pajaro loco
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1338
-#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_La6kE6J93gv1hoZFGBZiw3gpYewqb_nHsg&usqp= CAU",INF|la pantera rosa
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1457
-#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsSR8pJTonhITKLMUj84oR18dCkzqHWTSsDw&usqp=CAU",INF|thundercats
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1263
-#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRssFTYcYQqiDTfG2LGzr6EQXXZ72_1pv8KHA&usqp=CAU",INF|pokemon
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1201
-#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWfkeg3_GMYwYpHghe_MIHu5SEZ08Lz8xKdQ&usqp=CAU",INF|futurama
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1253
-#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX4bvHd6j8n_n9rocdg6A2KFhsrp-fQsy_-Q&usqp=CAU",INF|tom & jerry
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1363
-#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjnRcqxlC9COnbKXQKQg7QVdJjaMefyl-4ew&usqp=CAU",INF| spiderman
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1358
-#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1IrDaVDRlEM7JJ89bfnAgaDwHamIqCamF6Q&usqp=CAU",INF|ben 10 fuerza alienígena
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1387
-#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCGYhaEhS5h8Znw7EDpFqBe-KXFy5tcP2xLQ&usqp=CAU",INF| jimmy neutron
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1439
-#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRieDw3zDGCKgVzUlZckrZVpCZTVkr9BGFwA&usqp=CAU",INF| pinky & cerebro
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1231
-#EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUl5HsDRyMmq38G6So4j36aJY3fnRqsM3sJQ&usqp=CAU",INF|los Simpsons
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1305
-#EXTINF:-1 group-title="⭐️ Musica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_8esGxnB6cpVejUPQ4JfzeYCtzcGmoSKmVw&usqp=CAU",MUS| vclassic tv
-http://gotv.vip:8880/Angel2023/Angel2023/36677
-#EXTINF:-1 group-title="⭐️ Musica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVXRH588DRP5mYHC0HtH7DcxigsPGqMWea1Q&usqp=CAU",MUS| latin zona
-http://gotv.vip:8880/Angel2023/Angel2023/36657
-#EXTINF:-1 group-title="⭐️ Musica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk8TrHrdMcY-0R1r4YGN3N0mB84Yt3dO2OzQ&usqp=CAU",MUS| fabulosa fm
-http://gotv.vip:8880/Angel2023/Angel2023/36671
-#EXTINF:-1 group-title="⭐️ Musica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDBsibaYYBgicH-aG7UV2xJhv8cepw8nOViA&usqp=CAU",MUS| circuito pop
-https://cdapop.streaming.ws:443/circuitopoptv/live/chunklist_w1072026756.m3u8
-#EXTINF:-1 group-title="⭐️ Musica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJQlnF3qpdXR3X5v4ms3zeKR8TxSSxM05BxA&usqp=CAU",MUS| hits 360
-https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
-#EXTINF:-1 group-title="⭐️ Musica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQotv_igzlWi45ybDzX_1GalB_wH7PtKayicA&usqp=CAU",MUS| tocahits
-https://panel.miplay.cl:8081/mix247tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="⭐️ Musica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPGmPFnPOXU7bPbB0Esb49sPV3gn7bP2K4bA&usqp=CAU",MUS| la despechada tv
-https://servidordevideo.com:3077/live/despechadalive.m3u8
-#EXTINF:-1 group-title="⭐️ Musica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbrXQrXpP0FluOiLFtZMlvlnPMu-pYiMatkQ&usqp=CAU",MUS| top latino
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
-#EXTINF:-1 group-title="⭐️ Musica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoJAjqTdOWjFMG9CPs7w_HKkmhB2vx2_5rTg&usqp=CAU",MUS| tele musica
-https://canal.mediaserver.com.co/live/telemusica.m3u8
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevijdEFdSAV5BB5hgQwvfa8AqDJPMCqL4jQ&usqp=CAU",CR| TELESISTEMA
-https://video20.klm99.com:3621/hybrid/play.m3u8
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScU0IdCCCR2mtKHb7D9_A9ybiCC2cm1-EKgQ&usqp=CAU",CR| Tele red
-https://video20.klm99.com:3558/hybrid/play.m3u8
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKPG5piatlxvTYlqm8-gdB6qOzJAPusjWRSw&usqp=CAU",CR| CANAL 1
-https://video20.klm99.com:3993/hybrid/play.m3u8
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCUmg188E2X2bAX9Vj2B542ISVrz5D3LkgTg&usqp=CAU",CR| coto brus tv
-https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwhqwBftSfMu15hwXmFloirFOU7GfzvhtSYw&usqp=CAU",CR| costa rica channel
-https://panel2.streamingtv-mediacp.online:1936/rudcmzwtnh/rudcmzwtnh/playlist.m3u8
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThuH2pNcjfEx1y0_sfIIg287VbEw-yJ5L6ig&usqp=CAU",CR| teve norte
-https://5fd8fec96951d.streamlock.net:443/TVN/CH14.stream_720p/chunklist_w425777611.m3u8
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAfLRTXz2TSfm1mnaockF7rWtYShJTJ8wMzQ&usqp=CAU",CR| garabito tv
-https://59ef525c24caa.streamlock.net:443/garabitoTV/garabitotv/chunklist_w1463613344.m3u8
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnkAHmCkkPzREUAjSuIcHtIxhLdD2QIFI9FQ&usqp=CAU",CR| los santos tv
-https://lstv.duckdns.org:449/hls/lstv.m3u8
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qp48vAYubW5h4Tupl_Pzwfb7U-YQx0DOyA&usqp=CAU",CR| zurqui tv
-https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU4uLGOuQaNRSDK8lSiCjICHX0Ld_weJoskA&usqp=CAU",CR| telebrunca
-https://59ef525c24caa.streamlock.net:443/telebrunca/telebrunca/chunklist_w1244906677.m3u8
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHBfQDrgA2AgPmHZaHHwtiDxGn3Wp1XnoI6g&usqp=CAU",CR| guatuso tv
-https://5cf4a2c2512a2.streamlock.net:443/8162/8162/chunklist_w1960322809.m3u8
-#EXTINF:-1 group-title="⭐️ Costa Rica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmicNPv2oKTqz_SanYW6rhyFP-yNtbBMoJRw&usqp=CAU",CR| nosara tv
-https://stmv.streamingvip.click:443/tvnosara2/tvnosara2/chunklist_w846594311.m3u8
-#EXTINF:-1 group-title="⭐️ Usa Latinos" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png",TELEMUNDO
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHBaGok1oX_0n3gxWAHVpjUw
-#EXTINF:-1 group-title="⭐️ Usa Latinos" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png",TELEMUNDO Philadelphia
-http://magmas5.com:8000/Oscar86/40473/148724
-#EXTINF:-1 group-title="⭐️ Usa Latinos" tvg-logo="http://descargas.podzone.net/logos/-unimas.png",UNIMAS Philadelphia
-http://magmas5.com:8000/Oscar86/40473/148895
-#EXTINF:-1 group-title="⭐️ Usa Latinos" tvg-logo="http://descargas.podzone.net/logos/-univision.png",UNIVISION NEW-YORK
-http://magmas5.com:8000/Oscar86/40473/148711
-#EXTINF:-1 group-title="⭐️ Usa Latinos" tvg-logo="http://descargas.podzone.net/logos/-univision.png",UNIVISION Philadelphia
-http://magmas5.com:8000/Oscar86/40473/148725
-#EXTINF:-1 group-title="⭐️ Deporte Colombia" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png",COL |  WIN SPORTS
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155795
-#EXTINF:-1 group-title="⭐️ Deporte Colombia" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png",COL |  WIN SPORTS opc 2
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHHotQKUSV4xe5dapO-xcudA
-#EXTINF:-1 group-title="⭐️ Deporte Colombia" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png",COL |  WIN SPORTS opc 3
-http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHIpr75HhVZVzwCHA_MYaUCI
-#EXTINF:-1 group-title="⭐️ Deporte Colombia" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/frb4p3hyjori50ai7oh3f/win-sports.png?rlkey=hkluj62z2ihegojc24d08km87&dl=0",COL | WIN SPORT+
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/16723
-#EXTINF:-1 group-title="⭐️ Deporte Colombia" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/frb4p3hyjori50ai7oh3f/win-sports.png?rlkey=hkluj62z2ihegojc24d08km87&dl=0",COL | WIN SPORT+ opc 2
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/54738
-#EXTINF:-1 group-title="⭐️ Deporte Colombia" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/frb4p3hyjori50ai7oh3f/win-sports.png?rlkey=hkluj62z2ihegojc24d08km87&dl=0",COL | WIN SPORT+ opc 3
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/16724
-#EXTINF:-1 group-title="⭐️ Argentina Deporte" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png",AR | ESPN SPORTS 1
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1915
-#EXTINF:-1 group-title="⭐️ Argentina Deporte" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png",AR | ESPN SPORT 2
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1917
-#EXTINF:-1 group-title="⭐️ Argentina Deporte" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png",AR | ESPN SPORT 3
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1919
-#EXTINF:-1 group-title="⭐️ Argentina Deporte" tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png",AR | ESPN SPORTS 4
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1921
-#EXTINF:-1 group-title="⭐️ Argentina Deporte" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png",AR | DIREC TV SPORTS
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1912
-#EXTINF:-1 group-title="⭐️ Argentina Deporte" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png",AR | DIREC TV DEPORTES 2
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/1913
-#EXTINF:-1 group-title="⭐️ Deporte VIP" tvg-logo="http://descargas.podzone.net/logos/-star+.png",STAR + opc1
-http://magmas5.com:8000/Oscar86/40473/160068
-#EXTINF:-1 group-title="⭐️ Deporte VIP" tvg-logo="http://descargas.podzone.net/logos/-star+.png",STAR + opc2
-http://magmas5.com:8000/Oscar86/40473/160071
-#EXTINF:-1 group-title="⭐️ Deporte VIP" tvg-logo="http://descargas.podzone.net/logos/-star+.png",STAR + opc3
-http://magmas5.com:8000/Oscar86/40473/152908
-#EXTINF:-1 group-title="⭐️ Tv Dazn Eventos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZ5UTCOeWgHCSzTtzIG74Qrl-0duXJhd0Rg&usqp=CAU",DAZN MOVISTAR 1
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/159067
-#EXTINF:-1 group-title="⭐️ Tv Dazn Eventos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6s1BLWLYnoUikuNzPhbykMsM3PUsvIQyFLQ&usqp=CAU",DAZN MOVISTAR 2
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/151706
-#EXTINF:-1 group-title="⭐️ Tv Dazn Eventos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw0Q5HnlJ3eFkY1KKrgon15sJooJ_0CThmqg&usqp=CAU",DAZN MOVISTAR 3
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/151709
-#EXTINF:-1 group-title="⭐️ Tv Dazn Eventos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHZQBss3Wx6ilhokjaE_UuNhLotB8PsgV3Q&usqp=CAU",DAZN MOVISTAR F1
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/202655
-
 *****************************   https://raw.githubusercontent.com/atim2515/ATIM_BOSTON/main/TIM%20IPTV  ************************************************
-
 * SEGUIR Y BUSCAR ****************************************  https://github.com/atim2515/ATIM_BOSTON/blob/main/CABLE%20KINGS   ****************************
 * SEGUIR Y BUSCAR *************************************  https://github.com/HermesNETgt/a/blob/main/hermesnettv.m3u ***************************************
 * SEGUIR Y BUSCAR ******************************** https://raw.githubusercontent.com/fantomannn/lista/f7995a4661e08f7bfab4cc175bcf289d86f93205/total%20play.m3u    **********
