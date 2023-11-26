@@ -21,9 +21,7 @@ https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS LATAM
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", IMAGEN TV
-http://iptvmedia.live:8080/F27091/3fb29cc1/9039
-#EXTINF:-1 group-title="Bics", IMAGEN TV
-https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/65
+http://tv.nousiptv.com:8080/Veronicafleitas/2528/4149
 #EXTINF:-1 group-title="Bics", CANAL 5
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681
 #EXTINF:-1 group-title="Bics", MULTIMEDIOS MTY
@@ -98,14 +96,12 @@ https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANAL 21 CL
 https://tv.clientetvstudio.net:3078/live/senal21tvlive.m3u8
-
 #EXTINF:-1 group-title="Bics Extra", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="Bics Extra", CÑÑ
+#EXTINF:-1 group-title="Bics Extra", CNN
 https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8
 #EXTINF:-1 group-title="Bics Extra", RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 group-title="Bics Extra", CARTOON NETWORK
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", TOON TUBERS
@@ -121,48 +117,7 @@ https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 
 ******************************* DEPORTES **********************************************
 
-#EXTINF:-1  group-title="Bics Extra",  Fox Sports 2 USA
-http://190.187.154.156:8000/play/a06b/index.m3u8
-#EXTINF:-1  group-title="Bics Extra", Fox Sports 3 USA
-http://190.187.154.156:8000/play/a05w/index.m3u8
-#EXTINF:-1  group-title="Bics Extra", ESPN USA
-http://190.187.154.156:8000/play/a04w/index.m3u8
-#EXTINF:-1  group-title="Bics Extra", ESPN 2 USA
-http://190.187.154.156:8000/play/a06a/index.m3u8
-#EXTINF:-1  group-title="Bics Extra", ESPN 3 USA
-http://190.187.154.156:8000/play/a05v/index.m3u8
-#EXTINF:-1  group-title="Bics Extra", ESPN 4 USA
-http://190.187.154.156:8000/play/a06c/index.m3u8
-#EXTINF:-1  group-title="Bics Extra", ESPN EXTRA USA
-http://190.187.154.156:8000/play/a06p/index.m3u8
-#EXTINF:-1  group-title="Bics Extra", Claro Sports
-http://190.6.202.162:8000/play/a014/index.m3u8
-#EXTINF:-1  group-title="Bics Extra", Claro Sports 2
-http://45.5.117.182:8000/play/a0e5/index.m3u8
-#EXTINF:-1  group-title="Bics Extra", TUDN MX
-http://170.82.37.21:8000/play/a015/index.m3u8
-#EXTINF:-1  group-title="Bics Extra", AFIZZIONADOS MX
-http://livex.pop-app.live/s4n/poplive/ch548/playlist.m3u8
-
-#EXTINF:-1  group-title="Bics Extra", SKY SPORTS MX
-http://45.5.117.182:8000/play/ihf9/index.m3u8
-#EXTINF:-1  group-title="Bics Extra", FOX SPORTS 2 MX
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87456
-#EXTINF:-1  group-title="Bics Extra", FOX SPORTS 3 MX
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87457
-#EXTINF:-1  group-title="Bics Extra", ESPN LatinoAmerica HD 
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87446
-#EXTINF:-1  group-title="Bics Extra", ESPN 2 LatinoAmerica HD
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87447
-#EXTINF:-1  group-title="Bics Extra", ESPN 3 
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87448
-#EXTINF:-1  group-title="Bics Extra", Fox Sports Premium
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/56034
-#EXTINF:-1  group-title="Bics Extra", Fox Sports Premium
-http://proiptvdigic.com:8080/wkpbbCt4zqwb/6rCdfdZBacY5/27857
-
 *** cocina pepe ****
-
 
 #EXTINF:-1  group-title="Bics Extra", ESPN Deportes
 http://sysadminhost.net:8080/F17425/8ffdb770/6446
@@ -193,8 +148,6 @@ https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
 https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
 
 ****************************************************************                    **********************************************************
-
-***********************************************************************************************************************
 #EXTINF:-1 group-title="Bics Extra MX", AZTECA UNO
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678
 #EXTINF:-1 group-title="Bics Extra MX", LAS ESTRELLAS
@@ -333,13 +286,14 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/767
 #EXTINF:-1 group-title="Bics Extra MX", FRANCE 24
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/775
-#EXTINF:-1 group-title="Bics Extra MX", 690
+
+#EXTINF:-1 group-title="Bics Extra SIN SEÑAL", 690
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/690
-#EXTINF:-1 group-title="Bics Extra MX", 693
+#EXTINF:-1 group-title="Bics Extra SIN SEÑAL", 693
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/693
-#EXTINF:-1 group-title="Bics Extra MX", 704
+#EXTINF:-1 group-title="Bics Extra SIN SEÑAL", 704
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/704
-#EXTINF:-1 group-title="Bics Extra MX", 715
+#EXTINF:-1 group-title="Bics Extra SIN SEÑAL", 715
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/715
 
 *********************************************************************************************************
@@ -432,6 +386,8 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/508
 #EXTINF:-1 group-title="Bics Extra USA", DISCOVERY FAMILY
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/509
+#EXTINF:-1 group-title="Bics Extra USA", NAT GEO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/599
 #EXTINF:-1 group-title="Bics Extra USA", Investigation Discovery ID
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/735
 #EXTINF:-1 group-title="Bics Extra USA", Discovery Channel US
@@ -693,87 +649,87 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 group-title="Bics Extra USA", ESPN GOAL LINE
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/771
 
-#EXTINF:-1 group-title="Bics Extra USA", 503
+#EXTINF:-1 group-title="Bics Extra SIN SEÑAL", 503
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/503
-#EXTINF:-1 group-title="Bics Extra USA", 506
+#EXTINF:-1 group-title="Bics Extra SIN SEÑAL", 506
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/506
-#EXTINF:-1 group-title="Bics Extra USA", 518
+#EXTINF:-1 group-title="Bics Extra SIN SEÑAL", 518
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/518
-#EXTINF:-1 group-title="Bics Extra USA", 521
+#EXTINF:-1 group-title="Bics Extra SIN SEÑAL", 521
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/521
-#EXTINF:-1 group-title="Bics Extra USA", 525
+#EXTINF:-1 group-title="Bics Extra SIN SEÑAL", 525
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/525
-#EXTINF:-1 group-title="Bics Extra USA", 527
+#EXTINF:-1 group-title="Bics Extra SIN SEÑAL", 527
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/527
-#EXTINF:-1 group-title="Bics Extra USA", 529
+#EXTINF:-1 group-title="Bics Extra SIN SEÑAL", 529
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/529
-#EXTINF:-1 group-title="Bics Extra USA", 532
+#EXTINF:-1 group-title="Bics Extra SIN SEÑAL", 532
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/532
-#EXTINF:-1 group-title="Bics Extra USA", 544
+#EXTINF:-1 group-title="Bics Extra SIN SEÑAL", 544
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/544
-#EXTINF:-1 group-title="Bics Extra USA", 599
+#EXTINF:-1 group-title="Bics Extra SIN SEÑAL", NAT GEO
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/599
-#EXTINF:-1 group-title="Bics Extra USA", 605
+#EXTINF:-1 group-title="Bics Extra SIN SEÑAL", 605
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/605
-#EXTINF:-1 group-title="Bics Extra USA", 638
+#EXTINF:-1 group-title="Bics Extra SIN SEÑAL", 638
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/638
-#EXTINF:-1 group-title="Bics Extra USA", 659
+#EXTINF:-1 group-title="Bics Extra SIN SEÑAL", 659
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/659
-#EXTINF:-1 group-title="Bics Extra USA", 764
+#EXTINF:-1 group-title="Bics Extra SIN SEÑAL", 764
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/764
 
 ********************************************************************************************************************************
 
-#EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 720
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/570
-#EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 721
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/571
-#EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 722
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/572
-#EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 723
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/573
-#EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 724
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/574
-#EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 725
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/575
-#EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 726
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/576
-#EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 727
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/577
-#EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 728
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/578
-#EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 729
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/579
-#EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 730
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/580
-#EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 731
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/581
-#EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 732
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/582
-#EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 733
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/583
-#EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 734
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/584
-#EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 735
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/585
-#EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 736
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/586
-#EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 737
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/587
-#EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 738
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/588
-#EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 739
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/589
-#EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 740
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/590
-#EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 741
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/591
-#EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 742
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/592
-#EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 743
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/593
-#EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 744
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/594
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 720
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/570
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 721
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/571
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 722
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/572
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 723
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/573
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 724
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/574
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 725
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/575
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 726
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/576
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 727
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/577
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 728
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/578
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 729
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/579
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 730
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/580
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 731
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/581
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 732
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/582
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 733
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/583
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 734
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/584
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 735
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/585
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 736
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/586
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 737
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/587
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 738
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/588
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 739
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/589
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 740
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/590
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 741
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/591
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 742
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/592
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 743
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/593
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", MLB 744
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/594
 #EXTINF:-1 group-title="Bics Extra DEPORTES", NFL GAMEPASS 01
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/739
 #EXTINF:-1 group-title="Bics Extra DEPORTES", NFL GAMEPASS 02
@@ -836,106 +792,106 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1141
 #EXTINF:-1 group-title="Bics Extra DEPORTES", NBA-1
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1142
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-21
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1144
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-20
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1145
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-19
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1146
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-18
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1147
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-17
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1148
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-16
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1149
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-15
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1150
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-14
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1151
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-13
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1152
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-12
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1153
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-11
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1154
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-10
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1155
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-9
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1156
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-8
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1157
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-7
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1158
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-6
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1159
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-5
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1160
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-4
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1161
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-3
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1162
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-2 ???? AXS TV
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1163
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-1
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1164
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NBA-30
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1165
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NBA-29
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1166
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NBA-28
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1167
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NBA-27
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1168
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NBA-26
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1169
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NBA-25
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1170
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NBA-24
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1171
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NBA-23
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1172
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NBA-22
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1173
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NBA-21
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1174
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NBA-20
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1175
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NBA-19
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1176
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NBA-18
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1177
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NBA-17
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1178
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NFL 16
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/607
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NFL 15
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/608
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NFL 14
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/609
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NFL 13
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/610
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NFL 12
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/611
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NFL 11
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/612
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NFL 10
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/613
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NFL 9
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/614
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NFL 8
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/615
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NFL 7
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/617
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NFL 6
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/618
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NFL 5
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/619
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NFL 4
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/620
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NFL 7
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/621
-#EXTINF:-1 group-title="Bics Extra DEPORTES", NFL 2
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/622
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-21
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1144
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-20
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1145
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-19
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1146
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-18
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1147
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-17
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1148
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-16
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1149
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-15
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1150
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-14
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1151
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-13
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1152
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-12
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1153
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-11
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1154
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-10
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1155
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-9
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1156
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-8
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1157
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-7
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1158
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-6
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1159
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-5
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1160
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-4
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1161
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-3
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1162
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-2 ???? AXS TV
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1163
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NHL-1
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1164
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NBA-30
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1165
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NBA-29
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1166
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NBA-28
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1167
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NBA-27
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1168
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NBA-26
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1169
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NBA-25
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1170
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NBA-24
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1171
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NBA-23
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1172
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NBA-22
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1173
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NBA-21
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1174
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NBA-20
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1175
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NBA-19
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1176
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NBA-18
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1177
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NBA-17
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1178
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NFL 16
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/607
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NFL 15
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/608
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NFL 14
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/609
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NFL 13
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/610
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NFL 12
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/611
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NFL 11
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/612
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NFL 10
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/613
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NFL 9
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/614
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NFL 8
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/615
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NFL 7
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/617
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NFL 6
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/618
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NFL 5
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/619
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NFL 4
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/620
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NFL 7
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/621
+***** #EXTINF:-1 group-title="Bics Extra DEPORTES", NFL 2
+***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/622
 
 *************************************************************************************************************************
 
