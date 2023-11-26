@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
-************************  24/NOV/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  26/NOV/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ************************ HI THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", ACTUALIZADO EL 24 DE NOV 12:00 HRS
+#EXTINF:-1 group-title="Bics", ACTUALIZADO EL 26 DE NOV 12:00 HRS
 
 #EXTINF:-1 group-title="Bics", AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
@@ -20,10 +20,10 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
 https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS LATAM
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", IMAGEN TV FHD
-http://185.155.103.50:8080/UzielLCH/UzielLCH/155181
-#EXTINF:-1 group-title="Bics", IMAGEN TV HD
-http://185.155.103.50:8080/UzielLCH/UzielLCH/155182
+#EXTINF:-1 group-title="Bics", IMAGEN TV
+http://iptvmedia.live:8080/F27091/3fb29cc1/9039
+#EXTINF:-1 group-title="Bics", IMAGEN TV
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/65
 #EXTINF:-1 group-title="Bics", CANAL 5
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681
 #EXTINF:-1 group-title="Bics", MULTIMEDIOS MTY
@@ -48,8 +48,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1  group-title="Bics", A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 group-title="Bics", ONCE
-https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1  group-title="Bics", MVS
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 group-title="Bics", MILENIO
