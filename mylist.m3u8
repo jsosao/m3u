@@ -24,6 +24,8 @@ https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/4149
 #EXTINF:-1 group-title="Bics", IMAGEN TV
 http://208.88.246.11:5473/103Imagen/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="Bics", IMAGEN TV
+http://th4.online:2095/jositosder/bDeGYPqwA8JR/21484
 #EXTINF:-1 group-title="Bics", CANAL 5
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/1155865
 #EXTINF:-1 group-title="Bics", MULTIMEDIOS MTY
@@ -39,7 +41,7 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 group-title="Bics", AZTECA 7 3
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 group-title="Bics", NU9VE
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719
+http://th4.online:2095/jositosder/bDeGYPqwA8JR/21482
 #EXTINF:-1 group-title="Bics", ONCE
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 group-title="Bics", AFIZZIONADOS
@@ -98,6 +100,13 @@ https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANAL 21 CL
 https://tv.clientetvstudio.net:3078/live/senal21tvlive.m3u8
+#EXTINF:-1 group-title="Bics Extra", TV MAX PA
+http://th4.online:2095/jositosder/bDeGYPqwA8JR/14894
+#EXTINF:-1 group-title="Bics Extra", RCN CO
+http://th4.online:2095/jositosder/bDeGYPqwA8JR/21164
+#EXTINF:-1 group-title="Bics Extra", TELEFE AR
+http://th4.online:2095/jositosder/bDeGYPqwA8JR/21228
+
 #EXTINF:-1 group-title="Bics Extra", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="Bics Extra", CNN
@@ -1065,8 +1074,6 @@ https://stream.oursnetworktv.com/latin/encoder73/playlist.m3u8
 *************************************  https://raw.githubusercontent.com/dann1110/GreatTV/master/TVBOX%202  ***************************************************
 **********************   https://raw.githubusercontent.com/4benteveos/Personal/main/Prueba1.m3u ****************************************
 ************************************************************************************************************************************************************
-****#EXTINF:-1 group-title="IZZI", AZTECA UNO
-****https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.m3u8
 
 *******************************  https://github.com/Danielopez744/loly/blob/main/Lista.m3u   *************************************************
 ***** #EXTINF:-1 group-title="RokuTV",  ESPN EXTRA PREMIUM HD
