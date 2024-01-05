@@ -65,9 +65,6 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 group-title="Bics", 4 GDL
 https://linear-402.frequency.stream/mt/studio/402/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", 8 MTY
-https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
-https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8
-#EXTINF:-1 group-title="Bics", 8 MTY
 https://linear-403.frequency.stream/mt/studio/403/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", UNICABLE
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
@@ -93,6 +90,9 @@ https://linear-301.frequency.stream/mt/studio/301/hls/master/playlist.m3u8
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", N+ GDL
 https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
+#EXTINF:-1 group-title="Bics", N+ MTY
+https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
+https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8
 #EXTINF:-1 group-title="Bics", GOLDEN
 https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", GOLDEN
