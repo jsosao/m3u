@@ -74,7 +74,8 @@ https://linear-403.frequency.stream/mt/studio/403/hls/master/playlist.m3u8
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", UNIVISION
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
-
+#EXTINF:-1 group-title="Bics", UNIVISION 24/7
+https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", EURO NEWS
 https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", ATV+ PE
@@ -108,13 +109,11 @@ https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", EDGE
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", DPELICULA
-https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", DPELICULA PLUS
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", DISTRITO COMEDIA
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
-
-
 #EXTINF:-1 group-title="Bics", VIVO PLAY
 https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", NUESTRA VISION
