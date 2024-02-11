@@ -9,23 +9,6 @@
 #EXTINF:-1 group-title="Bics", 11 DE FEB 12:00 HRS
 https://zzz.zzz
 
-
-#EXTINF:-1 group-title="Bics", US: ESPN 01 HD BACKUP HD
-http://936261971205770907.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770907.ts
-#EXTINF:-1 group-title="Bics", US: ESPN 1 VIP HD
-http://936261971205770908.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770908.ts
-#EXTINF:-1 group-title="Bics", US: ESPN 1 HD
-http://936261971205770909.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770909.ts
-#EXTINF:-1 group-title="Bics", US: ESPN 2 #BACKUP01 HD
-http://936261971205770910.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770910.ts
-#EXTINF:-1 group-title="Bics", US: ESPN 2 #BACKUP02 HD
-http://936261971205770911.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770911.ts
-#EXTINF:-1 group-title="Bics", US: ESPN 3 HD
-http://936261971205770912.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770912.ts
-
-
-
-
 #EXTINF:-1 group-title="Bics", AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 group-title="Bics", AZTECA UNO -1 HR
@@ -283,6 +266,123 @@ https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 
 ******************************* DEPORTES **********************************************
+
+
+*** emilio ****
+
+#EXTINF:-1  group-title="Bics Extra", US: ESPN 01 HD BACKUP HD
+http://936261971205770907.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770907.ts
+#EXTINF:-1  group-title="Bics Extra", US: ESPN 1 VIP HD
+http://936261971205770908.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770908.ts
+#EXTINF:-1  group-title="Bics Extra", US: ESPN 1 HD
+http://936261971205770909.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770909.ts
+#EXTINF:-1  group-title="Bics Extra", US: ESPN 2 #BACKUP01 HD
+http://936261971205770910.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770910.ts
+#EXTINF:-1  group-title="Bics Extra", US: ESPN 2 #BACKUP02 HD
+http://936261971205770911.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770911.ts
+#EXTINF:-1  group-title="Bics Extra", US: ESPN 3 HD
+http://936261971205770912.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770912.ts
+
+#EXTINF:-1  group-title="Bics Extra",US: ESPN PLUS 02 HD
+http://936261971205771890.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/771890.ts
+#EXTINF:-1  group-title="Bics Extra",US: ESPN DEPORTES HD
+http://936261971205774210.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/774210.ts
+
+#EXTINF:-1  group-title="Bics Extra",LA: ESPN 2 SD
+http://936261971205651384.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/651384.ts
+#EXTINF:-1  group-title="Bics Extra",LA: ESPN 3 SD
+http://936261971205651385.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/651385.ts
+#EXTINF:-1  group-title="Bics Extra",LA: ESPN SD
+http://936261971205736604.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/736604.ts
+
+#EXTINF:-1  group-title="Bics Extra",BR: ESPN2 SD
+http://936261971205328882.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/328882.ts
+#EXTINF:-1  group-title="Bics Extra",CO: ESPN VIP HD
+http://936261971205780645.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/780645.ts
+
+#EXTINF:-1  group-title="Bics Extra",MX: MEX: ESPN 2 VIP HD
+http://936261971205653246.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/653246.ts
+#EXTINF:-1  group-title="Bics Extra",MX: MEX: ESPN 3 VIP HD
+http://936261971205653247.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/653247.ts
+#EXTINF:-1  group-title="Bics Extra",MX: MEX: ESPN EXTRA VIP HD
+http://936261971205658532.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/658532.ts
+#EXTINF:-1  group-title="Bics Extra",MX: MEX: ESPN VIP HD
+http://936261971205777085.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/777085.ts
+
+#EXTINF:-1  group-title="Bics Extra",ARG: ESPN 2 VIP SD
+http://936261971205776661.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/776661.ts
+#EXTINF:-1  group-title="Bics Extra",ARG: ESPN 2 SD
+http://936261971205776662.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/776662.ts
+#EXTINF:-1  group-title="Bics Extra",ARG: ESPN 3 VIP HD
+http://936261971205776663.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/776663.ts
+#EXTINF:-1  group-title="Bics Extra",ARG: ESPN 3 HD
+http://936261971205776664.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/776664.ts
+#EXTINF:-1  group-title="Bics Extra",ARG: ESPN EXTRA VIP HD
+http://936261971205776665.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/776665.ts
+#EXTINF:-1  group-title="Bics Extra",ARG: ESPN PREMIUM VIP HD
+http://936261971205776666.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/776666.ts
+#EXTINF:-1  group-title="Bics Extra",ARG: ESPN PREMIUM HD
+http://936261971205776667.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/776667.ts
+#EXTINF:-1  group-title="Bics Extra",ARG: ESPN VIP HD
+http://936261971205776668.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/776668.ts
+#EXTINF:-1  group-title="Bics Extra",ARG: ESPN+ VIP SD
+http://936261971205776669.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/776669.ts
+#EXTINF:-1  group-title="Bics Extra",ARG: ESPN HD
+http://936261971205776670.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/776670.ts
+
+#EXTINF:-1  group-title="Bics Extra",US: FOX SPORTS WEST HD
+http://936261971205716911.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/716911.ts
+#EXTINF:-1  group-title="Bics Extra",USA: FOX SPORTS ARIZONA HD
+http://936261971205766781.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/766781.ts
+#EXTINF:-1  group-title="Bics Extra",USA: FOX SPORTS DETROIT HD
+http://936261971205766782.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/766782.ts
+#EXTINF:-1  group-title="Bics Extra",USA: FOX SPORTS OKLAHOMA HD
+http://936261971205766785.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/766785.ts
+#EXTINF:-1  group-title="Bics Extra",USA: FOX SPORTS PRIME TICKET HD
+http://936261971205766787.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/766787.ts
+#EXTINF:-1  group-title="Bics Extra",USA: FOX SPORTS SUN HD
+http://936261971205766789.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/766789.ts
+#EXTINF:-1  group-title="Bics Extra",USA: FOX SPORTS WEST HD
+http://936261971205766791.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/766791.ts
+#EXTINF:-1  group-title="Bics Extra",US: FOX SPORTS 1 HD
+http://936261971205780567.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/780567.ts
+#EXTINF:-1  group-title="Bics Extra",US: FOX SPORTS 2 HD
+http://936261971205780568.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/780568.ts
+#EXTINF:-1  group-title="Bics Extra",US: FOX SPORTS ARIZONA HD
+http://936261971205780569.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/780569.ts
+#EXTINF:-1  group-title="Bics Extra",US: FOX SPORTS MIDWEST HD
+http://936261971205780570.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/780570.ts
+#EXTINF:-1  group-title="Bics Extra",US: FOX SPORTS OHIO HD
+http://936261971205780571.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/780571.ts
+#EXTINF:-1  group-title="Bics Extra",US: FOX SPORTS OKLAHOMA HD
+http://936261971205780572.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/780572.ts
+#EXTINF:-1  group-title="Bics Extra",US: FOX SPORTS PRIME TICKET HD
+http://936261971205780573.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/780573.ts
+#EXTINF:-1  group-title="Bics Extra",US: FOX SPORTS SUN HD
+http://936261971205780574.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/780574.ts
+#EXTINF:-1  group-title="Bics Extra",US: FOX SPORTS PRIME TICKET HD
+http://936261971205667004.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/667004.ts
+#EXTINF:-1  group-title="Bics Extra",US: [ USA ] FOX SPORTS 1 HD
+http://936261971205771087.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/771087.ts
+#EXTINF:-1  group-title="Bics Extra",US: [ USA ] FOX SPORTS 2 HD
+http://936261971205771088.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/771088.ts
+
+#EXTINF:-1  group-title="Bics Extra",MX: MEX: FOX SPORTS 1 VIP HD
+http://936261971205669002.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/669002.ts
+
+#EXTINF:-1  group-title="Bics Extra",ARG: FOX SPORTS 1 VIP SD
+http://936261971205776674.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/776674.ts
+#EXTINF:-1  group-title="Bics Extra",ARG: FOX SPORTS 2 VIP SD
+http://936261971205776675.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/776675.ts
+#EXTINF:-1  group-title="Bics Extra",ARG: FOX SPORTS 3 VIP HD
+http://936261971205776676.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/776676.ts
+#EXTINF:-1  group-title="Bics Extra",ARG: FOX SPORTS PREMIUM VIP HD
+http://936261971205776677.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/776677.ts
+#EXTINF:-1  group-title="Bics Extra",ARG: FOX SPORTS PREMIUM HD
+http://936261971205776678.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/776678.ts
+
+#EXTINF:-1  group-title="Bics Extra",US: [ USA ] MLB NETWORK HD
+http://936261971205771089.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/771089.ts
 
 *** cocina pepe ****
 
