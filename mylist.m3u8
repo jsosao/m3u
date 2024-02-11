@@ -9,48 +9,6 @@
 #EXTINF:-1 group-title="Bics", 11 DE FEB 12:00 HRS
 https://zzzz.zzz
 
-
-#EXTINF:-1 group-title="Bics",DEP | ESPN Extra  MX
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/21229
-#EXTINF:-1 group-title="Bics",DEP | ESPN 1 PE
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/220727
-#EXTINF:-1 group-title="Bics",DEP | ESPN 1  SD ►℗
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/219173
-#EXTINF:-1 group-title="Bics",DEP | ESPN 1 PE HD ►℗
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/219172
-#EXTINF:-1 group-title="Bics",DEP | ESPN 1 HD
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/219171
-#EXTINF:-1 group-title="Bics",DEP | ESPN 1 MX HD
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/9380
-#EXTINF:-1 group-title="Bics",DEP | ESPN 1 MX SD
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/185154
-#EXTINF:-1 group-title="Bics",DEP | ESPN 2 AR
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/185666
-#EXTINF:-1 group-title="Bics",DEP | ESPN 2 MX HD
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/36391
-#EXTINF:-1 group-title="Bics",DEP | ESPN 3  AR HD
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/21220
-#EXTINF:-1 group-title="Bics",DEP | ESPN 3 MX HD  ►℗
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/186774
-#EXTINF:-1 group-title="Bics",DEP | ESPN Deportes SD
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/54094
-#EXTINF:-1 group-title="Bics",DEP | ESPN Extra BRA
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/168997
-
-#EXTINF:-1 group-title="Bics",DEP | FOX Deportes
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/36396
-#EXTINF:-1 group-title="Bics",DEP | FOX Sports 2 ARG HD ►℗
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/19652
-#EXTINF:-1 group-title="Bics",DEP | FOX Sports 2 HD BRA
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/48540
-#EXTINF:-1 group-title="Bics",DEP | FOX Sports 2 MEX HD
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/19495
-#EXTINF:-1 group-title="Bics",DEP | FOX Sports 3 ARG HD ►℗
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/19496
-#EXTINF:-1 group-title="Bics",DEP | FOX Sports 3 HD MEX
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/9538
-
-
 #EXTINF:-1 group-title="Bics", AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 group-title="Bics", AZTECA UNO -1 HR
@@ -308,6 +266,63 @@ https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 
 ******************************* DEPORTES **********************************************
+
+*** angel mundi ****
+
+#EXTINF:-1 group-title="Bics",DEP | ESPN Extra  MX
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/21229
+#EXTINF:-1 group-title="Bics",DEP | ESPN 1 PE
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/220727
+#EXTINF:-1 group-title="Bics",DEP | ESPN 1  SD ►℗
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/219173
+#EXTINF:-1 group-title="Bics",DEP | ESPN 1 PE HD ►℗
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/219172
+#EXTINF:-1 group-title="Bics",DEP | ESPN 1 HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/219171
+#EXTINF:-1 group-title="Bics",DEP | ESPN 1 MX HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/9380
+#EXTINF:-1 group-title="Bics",DEP | ESPN 1 MX SD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/185154
+#EXTINF:-1 group-title="Bics",DEP | ESPN 2 AR
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/185666
+#EXTINF:-1 group-title="Bics",DEP | ESPN 2 MX HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/36391
+#EXTINF:-1 group-title="Bics",DEP | ESPN 3  AR HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/21220
+#EXTINF:-1 group-title="Bics",DEP | ESPN 3 MX HD  ►℗
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/186774
+#EXTINF:-1 group-title="Bics",DEP | ESPN Deportes SD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/54094
+#EXTINF:-1 group-title="Bics",DEP | ESPN Extra BRA
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/168997
+#EXTINF:-1 group-title="Bics",DEP | FOX Deportes
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/36396
+#EXTINF:-1 group-title="Bics",DEP | FOX Sports 2 ARG HD ►℗
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/19652
+#EXTINF:-1 group-title="Bics",DEP | FOX Sports 2 HD BRA
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/48540
+#EXTINF:-1 group-title="Bics",DEP | FOX Sports 2 MEX HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/19495
+#EXTINF:-1 group-title="Bics",DEP | FOX Sports 3 ARG HD ►℗
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/19496
+#EXTINF:-1 group-title="Bics",DEP | FOX Sports 3 HD MEX
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/9538
+#EXTINF:-1 group-title="Bics",DEP | SKY Sports 16 HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/149063
+#EXTINF:-1 group-title="Bics",DEP | TNT Sports AR
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/211363
+#EXTINF:-1 group-title="Bics",DEP | TNT Sports ARG
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/36424
+#EXTINF:-1 group-title="Bics",DEP | TNT Sports 3 HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/19638
+#EXTINF:-1 group-title="Bics",DEP | TUDN HD USA  ►℗
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/185148
+#EXTINF:-1 group-title="Bics",DEP | TUDN USA FHD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/242045
+#EXTINF:-1 group-title="Bics",DEP | TUDN USA
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/166029
+#EXTINF:-1 group-title="Bics",DEP | TYC Sports Internacional HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/188939
 
 *** emilio ****
 
