@@ -9,6 +9,21 @@
 #EXTINF:-1 group-title="Bics", 11 DE FEB 12:00 HRS
 https://zzz.zzz
 
+
+#EXTINF:-1 group-title="Bics",DEP | FOX Deportes
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/36396
+#EXTINF:-1 group-title="Bics",DEP | FOX Sports 2 ARG HD ►℗
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/19652
+#EXTINF:-1 group-title="Bics",DEP | FOX Sports 2 HD BRA
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/48540
+#EXTINF:-1 group-title="Bics",DEP | FOX Sports 2 MEX HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/19495
+#EXTINF:-1 group-title="Bics",DEP | FOX Sports 3 ARG HD ►℗
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/19496
+#EXTINF:-1 group-title="Bics",DEP | FOX Sports 3 HD MEX
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/9538
+
+
 #EXTINF:-1 group-title="Bics", AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 group-title="Bics", AZTECA UNO -1 HR
@@ -267,7 +282,6 @@ https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 
 ******************************* DEPORTES **********************************************
 
-
 *** emilio ****
 
 #EXTINF:-1  group-title="Bics Extra", US: ESPN 01 HD BACKUP HD
@@ -315,65 +329,14 @@ https://r.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
 #EXTINF:-1  group-title="Bics Extra", LIGA M+ 
 http://515860080856165393.of23103.xyz:80/play/XDH31455298/664585696/165393.ts
 
-
 #EXTINF:-1  group-title="Bics Extra", TUDN US
 http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/177323
 #EXTINF:-1  group-title="Bics Extra", FOX SPORTS PREMIUM SD
 http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/252733
-#EXTINF:-1 #EXTINF:-1  group-title="Bics Extra", SUD | FOX SPORTS SD
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/100889
-#EXTINF:-1 #EXTINF:-1  group-title="Bics Extra", SUD | FOX SPORTS 2 SD
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/100890
+
 #EXTINF:-1 #EXTINF:-1  group-title="Bics Extra", SUD | FOX SPORTS 3 SD
 http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/981
-#EXTINF:-1  group-title="Bics Extra", MX | TUDN SD
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/19700
 
-#EXTINF:-1  group-title="Bics Extra", ESPN PREMIUM
-http://th4.online:2095/jositosder/bDeGYPqwA8JR/152306
-#EXTINF:-1  group-title="Bics Extra", ESPN PREMIUM
-http://nxt.plus:8080/pepespain/rytryrtytrytry/11476
-
-#EXTINF:-1  group-title="Bics Extra", ESPN DEPORTES 
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/86655
-#EXTINF:-1  group-title="Bics Extra", FOX DEPORTES
-http://th4.online:2095/jositosder/bDeGYPqwA8JR/153745
-
-
-#EXTINF:-1  group-title="Bics Extra", US: ESPN
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/1924
-#EXTINF:-1  group-title="Bics Extra", US: ESPN 2
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/3346
-#EXTINF:-1  group-title="Bics Extra", US: ESPN 2
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/1925
-#EXTINF:-1  group-title="Bics Extra", US: ESPN
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/1956
-
-#EXTINF:-1  group-title="Bics Extra", SP5 ESPN
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103186
-#EXTINF:-1  group-title="Bics Extra", SP5 ESPN  +
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103187
-#EXTINF:-1  group-title="Bics Extra", SP5 ESPN 2
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103188
-#EXTINF:-1  group-title="Bics Extra", SP5 ESPN 2 HD
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103189
-#EXTINF:-1  group-title="Bics Extra", SP5 ESPN 3 HD
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103190
-#EXTINF:-1  group-title="Bics Extra", SP5 ESPN 4  HD
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103191
-#EXTINF:-1  group-title="Bics Extra", SP5 ESPN HD
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103192
-
-#EXTINF:-1  group-title="Bics Extra", DEP ESPN | ESPN 2 HD
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103889
-#EXTINF:-1  group-title="Bics Extra", DEP ESPN | ESPN 3 HD
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103890
-#EXTINF:-1  group-title="Bics Extra", DEP ESPN | ESPN 4 HD
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103891
-#EXTINF:-1  group-title="Bics Extra", DEP ESPN | ESPN EXTRA HD
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103892
-#EXTINF:-1  group-title="Bics Extra", DEP ESPN | ESPN HD
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103893
 
 ****************************************************************                    **********************************************************
 
