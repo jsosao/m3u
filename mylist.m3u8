@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
-************************  06/FEB/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  11/FEB/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ************************ HI THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", 06 DE FEB 12:00 HRS
+#EXTINF:-1 group-title="Bics", 11 DE FEB 12:00 HRS
 https://zzz.zzz
 #EXTINF:-1 group-title="Bics", AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
@@ -30,9 +30,9 @@ https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", IMAGEN TV
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/3767
 #EXTINF:-1 group-title="Bics", IMAGEN TV
-http://th4.online:2095/jositosder/bDeGYPqwA8JR/21484
+http://1play.cool:25461/6097125921/a7d167b096/134304
 #EXTINF:-1 group-title="Bics", IMAGEN TV
-http://zonamovie.live:8080/CINEMA02/RKnhMX3Bhtbp/586268
+http://1play.cool:25461/6097125921/a7d167b096/60794
 
 #EXTINF:-1 group-title="Bics", CANAL 5
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/1155865
@@ -146,14 +146,10 @@ https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Bics", BANDAMAX
 https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", FUTBOL ESPAÑOL
-https://linear-489.frequency.stream/mt/studio/489/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", FUTBOL ESPAÑOL
-https://linear-490.frequency.stream/mt/studio/490/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", FUTBOL ESPAÑOL
-https://linear-506.frequency.stream/mt/studio/506/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", FUTBOL ESPAÑOL
-https://linear-507.frequency.stream/mt/studio/507/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Bics", MLB
+https://linear-508.frequency.stream/mt/studio/508/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="Bics", FUTBOL 1
 https://linear-438.frequency.stream/mt/studio/438/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", FUTBOL 2
@@ -230,13 +226,13 @@ http://magmas5.com:8000/sunlink/dFIdo0UaMM/3847
 #EXTINF:-1 group-title="Bics Extra", CANAL 57 USA
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Bics Extra", UNIVISION LATAM
-https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
+https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", TELEMUNDO LA
-https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master.m3u8
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 #EXTINF:-1 group-title="Bics Extra", RCN EXTRA CO
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", RCN Mas+ CO
-https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
+https://linear-286.frequency.stream/mt/studio/286/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANAL 21 CL
 https://tv.clientetvstudio.net:3078/live/senal21tvlive.m3u8
 
@@ -253,6 +249,8 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8
 #EXTINF:-1 group-title="Bics Extra", RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
+
+
 #EXTINF:-1 group-title="Bics Extra", CARTOON NETWORK
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", TOON TUBERS
@@ -261,6 +259,8 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANAL 8
 https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
+
+
 #EXTINF:-1 group-title="Bics Extra", LA 1 ES
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 group-title="Bics Extra", LA 2 ES
