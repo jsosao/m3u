@@ -1,16 +1,29 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
-************************  12/FEB/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  11/FEB/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ************************ HI THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", 12 DE FEB 12:00 HRS
+#EXTINF:-1 group-title="Bics", 11 DE FEB 12:00 HRS
 https://zzz.zzz
 
-#EXTINF:-1 group-title="Bics", ESPN US
+
+#EXTINF:-1 group-title="Bics", US: ESPN 01 HD BACKUP HD
 http://936261971205770907.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770907.ts
+#EXTINF:-1 group-title="Bics", US: ESPN 1 VIP HD
+http://936261971205770908.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770908.ts
+#EXTINF:-1 group-title="Bics", US: ESPN 1 HD
+http://936261971205770909.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770909.ts
+#EXTINF:-1 group-title="Bics", US: ESPN 2 #BACKUP01 HD
+http://936261971205770910.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770910.ts
+#EXTINF:-1 group-title="Bics", US: ESPN 2 #BACKUP02 HD
+http://936261971205770911.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770911.ts
+#EXTINF:-1 group-title="Bics", US: ESPN 3 HD
+http://936261971205770912.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770912.ts
+
+
 
 
 #EXTINF:-1 group-title="Bics", AZTECA UNO
