@@ -9,9 +9,6 @@
 #EXTINF:-1 group-title="Bics", 17 DE FEB 12:00 HRS
 https://zzzz.zzz
 
-#EXTINF:-1 group-title="Bics", TVN
-http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/16.m3u8
-
 
 #EXTINF:-1 group-title="Bics", AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
@@ -240,6 +237,16 @@ https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 https://linear-286.frequency.stream/mt/studio/286/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANAL 21 CL
 https://tv.clientetvstudio.net:3078/live/senal21tvlive.m3u8
+#EXTINF:-1 group-title="Bics", TVN CL
+http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/16.m3u8
+#EXTINF:-1 group-title="Bics", 707 | Mega | CL
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Bics", 708 | Chilevisión | CL
+http://201.222.44.220:4227/play/a00o/index.m3u8
+#EXTINF:-1 group-title="Bics", 709 | UChile TV | CL
+https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Bics", 710 | Canal 13 | CL
+http://201.222.44.220:4227/play/a02l/index.m3u8
 
 #EXTINF:-1 group-title="Bics Extra", TV MAX PA
 http://th4.online:2095/jositosder/bDeGYPqwA8JR/14894
