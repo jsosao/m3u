@@ -211,6 +211,9 @@ https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
+#EXTINF:-1 group-title="Bics Extra PA", TV  Max
+#EXTVLCOPT--http-reconnect=true
+http://138.59.177.34:8000/play/a064/index.m3u8
 
 #EXTINF:-1 group-title="Bics Extra CO", RCN EXTRA CO
 #EXTVLCOPT--http-reconnect=true
