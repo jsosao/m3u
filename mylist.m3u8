@@ -224,6 +224,9 @@ http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/53.m3u8
 #EXTINF:-1 group-title="Bics Extra CO", Canal RCN CO
 #EXTVLCOPT--http-reconnect=true
 http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/54.m3u8
+#EXTINF:-1 group-title="Bics Extra CO", RCN HD CO
+#EXTVLCOPT--http-reconnect=true
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4325.m3u8
 
 
 #EXTINF:-1 group-title="Bics Extra CL", CANAL 21 CL
