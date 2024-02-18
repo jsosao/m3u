@@ -43,9 +43,6 @@ http://936261971205766855.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/766855.ts
 #EXTINF:-1 group-title="Bics", IMAGEN TV
 #EXTVLCOPT--http-reconnect=true
 http://181.78.105.146:2000/play/a00h/index.m3u8
-#EXTINF:-1 group-title="Bics",  IMAGENTV FH
-#EXTVLCOPT--http-reconnect=true
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/117.m3u8
 #EXTINF:-1 group-title="Bics", CANAL 5
 #EXTVLCOPT--http-reconnect=true
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
@@ -221,7 +218,12 @@ https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra CO", RCN Mas+ CO
 #EXTVLCOPT--http-reconnect=true
 https://linear-286.frequency.stream/mt/studio/286/hls/master/playlist.m3u8
-
+#EXTINF:-1 group-title="Bics Extra CO", Canal Caracol CO
+#EXTVLCOPT--http-reconnect=true
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/53.m3u8
+#EXTINF:-1 group-title="Bics Extra CO", Canal RCN CO
+#EXTVLCOPT--http-reconnect=true
+http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/54.m3u8
 
 
 #EXTINF:-1 group-title="Bics Extra CL", CANAL 21 CL
