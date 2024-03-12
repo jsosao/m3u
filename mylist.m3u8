@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
-************************  10/MAR/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  11/MAR/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ************************ HI THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", UPDATED 10 DE MAR 12:00 HRS
+#EXTINF:-1 group-title="Bics", UPDATED 11 DE MAR 12:00 HRS
 https://zzzz.zzz
 
 #EXTINF:-1 group-title="Bics", AZTECA UNO
@@ -211,6 +211,9 @@ https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 #EXTINF:-1 group-title="Bics Extra US", TELEMUNDO US DENVER
 #EXTVLCOPT--http-reconnect=true
 http://fortv.cc:8080/7688407/9631242/120665
+#EXTINF:-1 group-title="Bics Extra US", TELEMUNDO US MIAMI
+#EXTVLCOPT--http-reconnect=true
+http://fortv.cc:8080/7688407/9631242/56410
 #EXTINF:-1 group-title="Bics Extra US", UNIVISION US
 #EXTVLCOPT--http-reconnect=true
 http://fortv.cc:8080/7688407/9631242/15336
@@ -229,9 +232,58 @@ http://fortv.cc:8080/7688407/9631242/120951
 #EXTINF:-1 group-title="Bics Extra US", ABC US
 #EXTVLCOPT--http-reconnect=true
 http://fortv.cc:8080/7688407/9631242/120952
+#EXTINF:-1 group-title="Bics Extra US", ABC US
+#EXTVLCOPT--http-reconnect=true
+http://fortv.cc:8080/7688407/9631242/22990
 #EXTINF:-1 group-title="Bics Extra US", CBS US
 #EXTVLCOPT--http-reconnect=true
 http://fortv.cc:8080/7688407/9631242/120953
+
+#EXTINF:-1 group-title="Bics Extra US", AZ | Phoenix | CBS KPHO
+#EXTVLCOPT--http-reconnect=true
+http://fortv.cc:8080/7688407/9631242/120648
+#EXTINF:-1 group-title="Bics Extra US", US FOX 10 (KSAZ) Phoenix
+#EXTVLCOPT--http-reconnect=true
+http://fortv.cc:8080/7688407/9631242/120649
+#EXTINF:-1 group-title="Bics Extra US", US FOX 11 (KMSB) Tucson (H)
+#EXTVLCOPT--http-reconnect=true
+http://fortv.cc:8080/7688407/9631242/120651
+#EXTINF:-1 group-title="Bics Extra US", US NBC 4 (KVOA) Tucson (H)
+#EXTVLCOPT--http-reconnect=true
+http://fortv.cc:8080/7688407/9631242/120652
+#EXTINF:-1 group-title="Bics Extra US", NBC: CA FRESNO KSEE
+#EXTVLCOPT--http-reconnect=true
+http://fortv.cc:8080/7688407/9631242/120653
+#EXTINF:-1 group-title="Bics Extra US", US CBS (KCAL) Los Angeles (F)
+#EXTVLCOPT--http-reconnect=true
+http://fortv.cc:8080/7688407/9631242/120654
+#EXTINF:-1 group-title="Bics Extra US", US FOX 11 (KTTV) Los Angeles 
+#EXTVLCOPT--http-reconnect=true
+http://fortv.cc:8080/7688407/9631242/120655
+#EXTINF:-1 group-title="Bics Extra US", US NBC (KNBC) Los Angeles (F)
+#EXTVLCOPT--http-reconnect=true
+http://fortv.cc:8080/7688407/9631242/120656
+#EXTINF:-1 group-title="Bics Extra US", CBS: CA SAN FRANCISCO KPIX
+#EXTVLCOPT--http-reconnect=true
+http://fortv.cc:8080/7688407/9631242/120657
+#EXTINF:-1 group-title="Bics Extra US", US Univision14 (KDTV) San Francisco
+#EXTVLCOPT--http-reconnect=true
+http://fortv.cc:8080/7688407/9631242/120658
+#EXTINF:-1 group-title="Bics Extra US", NBC: CA SAN JOSE KNTV
+#EXTVLCOPT--http-reconnect=true
+http://fortv.cc:8080/7688407/9631242/120659
+#EXTINF:-1 group-title="Bics Extra US", US CBS 2 (WCBS) NEW YORK 
+#EXTVLCOPT--http-reconnect=true
+http://fortv.cc:8080/7688407/9631242/120749
+#EXTINF:-1 group-title="Bics Extra US", US FOX (WNYW) New York (F)
+#EXTVLCOPT--http-reconnect=true
+http://fortv.cc:8080/7688407/9631242/120750
+#EXTINF:-1 group-title="Bics Extra US", US NBC (WNBC) New York (F)
+#EXTVLCOPT--http-reconnect=true
+http://fortv.cc:8080/7688407/9631242/120751
+#EXTINF:-1 group-title="Bics Extra US", US CBS WLNY 
+#EXTVLCOPT--http-reconnect=true
+http://fortv.cc:8080/7688407/9631242/120752
 
 
 #EXTINF:-1 group-title="Bics Extra PA", TV  Max
