@@ -206,6 +206,11 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65880
 
 ***************  emilio ***************
+#EXTINF:-1 group-title="Bics Extra US", TELEMUNDO 2 US
+#EXTVLCOPT--http-reconnect=true
+http://cineplay.vip:8080/Alejandro26/QKs9QgCEvE/97703
+
+
 #EXTINF:-1 group-title="Bics Extra US", TELEMUNDO US
 #EXTVLCOPT--http-reconnect=true
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
