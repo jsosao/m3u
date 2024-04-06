@@ -659,12 +659,77 @@ http://livex.pop-app.live/s4n/poplive/ch341/playlist.m3u8
 http://livex.pop-app.live/s4n/poplive/ch562/playlist.m3u8
 
 
-********************************************* CANALES YOUTUBE  ***************************************************************************************
+********************************************* CANALES YOUTUBE  ********************************************************************************
 
 #EXTINF:-1 group-title="Bics Youtube", TELEVISA ENSENADA
 https://ythls-v2.onrender.com/channel/UCFuWAM_YItwkHzDWDKtJULg.m3u8
+#EXTINF:-1 group-title="Bics Youtube", TELEVISA AGUASCALIENTES
+https://ythls-v2.onrender.com/channel/UC5ZtV3bu3bjSuOLoA6oCFIg.m3u8
+#EXTINF:-1 group-title="Bics Youtube", TELEVISA CHIHUAHUA
+https://ythls-v2.onrender.com/channel/UCjfxDe7In59Jbfw2HmIh_Vg.m3u8
+#EXTINF:-1 group-title="Bics Youtube", TELEVISA CD. JUAREZ
+https://ythls-v2.onrender.com/channel/UCot4t8PVKz8TT5xVM8Eb00w.m3u8
+#EXTINF:-1 group-title="Bics Youtube", TELEVISA DEL BAJIO
+https://ythls-v2.onrender.com/channel/UC-uYy4_jIvDoJ4wigEv1S5A.m3u8
+#EXTINF:-1 group-title="Bics Youtube", TELEVISA DEL GOLFO
+https://ythls-v2.onrender.com/channel/UCQ08tNTPiBn44c975S81ftg.m3u8
+#EXTINF:-1 group-title="Bics Youtube", TELEVISA DURANGO
+https://ythls-v2.onrender.com/channel/UCON7DvLd5N8tXivc9WqILxQ.m3u8
+#EXTINF:-1 group-title="Bics Youtube", TELEVISA EDO. MEX.
+https://ythls-v2.onrender.com/channel/UC9DH82HVSf4katwMeUpY80w.m3u8
+#EXTINF:-1 group-title="Bics Youtube", TELEVISA GUADALAJARA
+https://ythls-v2.onrender.com/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
+#EXTINF:-1 group-title="Bics Youtube", TELEVISA GUADALAJARA
+https://ythls-v2.onrender.com/video/F7lE8i-5epo.m3u8
+#EXTINF:-1 group-title="Bics Youtube", TELEVISA GUERRERO
+https://ythls-v2.onrender.com/channel/UCnxTRk2K1iNsQkgpWXxyj4w.m3u8
+#EXTINF:-1 group-title="Bics Youtube", TELEVISA LAGUNA
+https://ythls-v2.onrender.com/channel/UC_mwCcsKDJLSWjply5s0h8w.m3u8
+#EXTINF:-1 group-title="Bics Youtube", TELEVISA MEXICALI
+https://ythls-v2.onrender.com/channel/UCcmuFsMIIIHO3LBqeBVfm8Q.m3u8
+#EXTINF:-1 group-title="Bics Youtube", TELEVISA MEXICALI
+https://ythls-v2.onrender.com/video/8E0orulcyBE.m3u8
+#EXTINF:-1 group-title="Bics Youtube", TELEVISA MONTERREY
+https://ythls-v2.onrender.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg.m3u8
+#EXTINF:-1 group-title="Bics Youtube", TELEVISA MORELOS
+https://ythls-v2.onrender.com/channel/UCcC9ykApQrgl4UxbKg2U4zw.m3u8
+#EXTINF:-1 group-title="Bics Youtube", TELEVISA NORESTE
+https://ythls-v2.onrender.com/channel/UC752DYv5vPlTSMrvEjfZXcw.m3u8
+#EXTINF:-1 group-title="Bics Youtube", TELEVISA PIEDRAS NEGRAS
+https://ythls-v2.onrender.com/channel/UCxK8C1E8UZ5RipNXIBYEvTA.m3u8
+#EXTINF:-1 group-title="Bics Youtube", TELEVISA PUEBLA
+https://ythls-v2.onrender.com/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
+#EXTINF:-1 group-title="Bics Youtube", TELEVISA QUERERTARO
+https://ythls-v2.onrender.com/channel/UC9QNz6VS3gGz55dzxAQtgtA.m3u8
+#EXTINF:-1 group-title="Bics Youtube", TELEVISA QUINTANA ROO
+https://ythls-v2.onrender.com/channel/UC37V2K5_sXWqOhoc5WgiXhw.m3u8
+#EXTINF:-1 group-title="Bics Youtube", TELEVISA SAN LUIS POTOSI
+https://ythls-v2.onrender.com/channel/UCaRuyaHshLdq462E9_pLzdA.m3u8
+#EXTINF:-1 group-title="Bics Youtube", TELEVISA SINALOA
+https://ythls-v2.onrender.com/channel/UCtm1LvYEIQ_NrfOUVJ08YhQ.m3u8
+#EXTINF:-1 group-title="Bics Youtube", TELEVISA SONORA
+https://ythls-v2.onrender.com/channel/UCyzWMHGS7bs0sot6KZk5EZg.m3u8
+#EXTINF:-1 group-title="Bics Youtube", TELEVISA TIJUANA
+https://ythls-v2.onrender.com/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
+#EXTINF:-1 group-title="Bics Youtube", TELEVISA TIJUANA
+https://ythls-v2.onrender.com/video/zBKcWIfGJZo.m3u8
+#EXTINF:-1 group-title="Bics Youtube", TELEVISA TIJUANA
+https://ythls-v2.onrender.com/video/oBgzqbARnow.m3u8
+#EXTINF:-1 group-title="Bics Youtube", TELEVISA TIJUANA
+https://ythls-v2.onrender.com/video/M00f1DKbcoE.m3u8
+#EXTINF:-1 group-title="Bics Youtube", TELEVISA SALTILLO
+https://ythls-v2.onrender.com/channel/UCpeD73Gb4KjKUL2gyoJ4gLw.m3u8
+#EXTINF:-1 group-title="Bics Youtube", TELEVISA VERACRUZ
+https://ythls-v2.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
+#EXTINF:-1 group-title="Bics Youtube", TELEVISA VICTORIA
+https://ythls-v2.onrender.com/channel/UCIqGddpV4flOlK3b-hgu9pQ.m3u8
+#EXTINF:-1 group-title="Bics Youtube", TELEVISA YUCATAN
+https://ythls-v2.onrender.com/channel/UCMIYaH2cLoPS8Hcb.m3u8
+#EXTINF:-1 group-title="Bics Youtube", TELEVISA ZACATECAS
+https://ythls-v2.onrender.com/channel/UCQb3i7gu9J8A4zzQU7j6C1Q.m3u8
 
-************************************************************        ***************************************************************************************
+
+*********************************************************************************************************************************************
 
 ******************************* DEPORTES **********************************************
 
