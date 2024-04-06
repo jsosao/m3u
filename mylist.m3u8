@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
-************************  001/ABR/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  06/ABR/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ************************ HI, THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", UPDATED 01 DE ABR 12:00 HRS
+#EXTINF:-1 group-title="Bics", UPDATED 06 DE ABR 12:00 HRS
 https://zzzz.zzz
 
 #EXTINF:-1 group-title="Bics", AZTECA UNO
@@ -658,6 +658,11 @@ http://livex.pop-app.live/s4n/poplive/ch341/playlist.m3u8
 #EXTINF:-1 group-title="Bics Variados",WINSPORT
 http://livex.pop-app.live/s4n/poplive/ch562/playlist.m3u8
 
+
+********************************************* CANALES YOUTUBE  ***************************************************************************************
+
+#EXTINF:-1 group-title="Bics Youtube", TELEVISA ENSENADA
+https://ythls-v2.onrender.com/channel/UCFuWAM_YItwkHzDWDKtJULg.m3u8
 
 ************************************************************        ***************************************************************************************
 
