@@ -174,9 +174,13 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 #EXTINF:-1  group-title="Bics", MARIA VISION CAPILLA
 #EXTVLCOPT--http-reconnect=true
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Privado2/playlist.m3u8
-#EXTINF:-1  group-title="Bics",EWTN
+#EXTINF:-1  group-title="Bics", EWTN
 #EXTVLCOPT--http-reconnect=true
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+
+#EXTINF:-1  group-title="Bics", MUNDO CATOLICO
+#EXTVLCOPT--http-reconnect=true
+https://ythls-v2.onrender.com/channel/UCjhq1eY5Ce1TGOn2JbGnHsw.m3u8
 
 #EXTINF:-1 group-title="Bics", CÑÑ
 #EXTVLCOPT--http-reconnect=true
@@ -945,6 +949,9 @@ https://ythls-v2.onrender.com/channel/UCxK8C1E8UZ5RipNXIBYEvTA.m3u8
 https://ythls-v2.onrender.com/channel/UCpeD73Gb4KjKUL2gyoJ4gLw.m3u8
 #EXTINF:-1 group-title="Bics Youtube", COA RCG MEDIA
 https://ythls-v2.onrender.com/channel/UChvo-5DAh8H1MNRPgfrSTdw.m3u8
+#EXTINF:-1 group-title="Bics Youtube", COA MULTIMEDIO LAGUNA
+https://ythls-v2.onrender.com/channel/UCR1aiCpU4PdNg-wCDiuDCcg.m3u8
+
 
 
 #EXTINF:-1 group-title="Bics Youtube", DGO TELEVISA DURANGO
@@ -959,7 +966,6 @@ https://ythls-v2.onrender.com/channel/UC-uYy4_jIvDoJ4wigEv1S5A.m3u8
 #EXTINF:-1 group-title="Bics Youtube", JAL TELEVISA GUADALAJARA
 https://ythls-v2.onrender.com/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
 
-
 #EXTINF:-1 group-title="Bics Youtube", MEX TELEVISA EDO. MEX.
 https://ythls-v2.onrender.com/channel/UC9DH82HVSf4katwMeUpY80w.m3u8
 
@@ -970,6 +976,9 @@ https://ythls-v2.onrender.com/channel/UCcC9ykApQrgl4UxbKg2U4zw.m3u8
 https://ythls-v2.onrender.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg.m3u8
 #EXTINF:-1 group-title="Bics Youtube", NL TELEVISA NORESTE
 https://ythls-v2.onrender.com/channel/UC752DYv5vPlTSMrvEjfZXcw.m3u8
+#EXTINF:-1 group-title="Bics Youtube", NL MULTIMEDIOS
+https://ythls-v2.onrender.com/channel/UCo1nfa1JKNqtcUyLjLwTiIw.m3u8
+
 
 #EXTINF:-1 group-title="Bics Youtube", PUE TELEVISA PUEBLA
 https://ythls-v2.onrender.com/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
@@ -1000,6 +1009,13 @@ https://ythls-v2.onrender.com/channel/UCMIYaH2cLoPS8Hcb-9AA2ZA.m3u8
 
 #EXTINF:-1 group-title="Bics Youtube", ZAC TELEVISA ZACATECAS
 https://ythls-v2.onrender.com/channel/UCQb3i7gu9J8A4zzQU7j6C1Q.m3u8
+
+#EXTINF:-1 group-title="Bics Youtube", DEP INTERNETV DEPORTES
+https://ythls-v2.onrender.com/channel/UC68A6fW402TePXuLsumOjYQ.m3u8
+#EXTINF:-1 group-title="Bics Youtube", DEP CLARO SPORTS
+https://ythls-v2.onrender.com/channel/UCqfCJBfrFSO4tZM1LNZTBFQ.m3u8
+
+
 
 ****************************************************************************************************************************
 *************************** https://raw.githubusercontent.com/angel200881/C/main/C5.m3u8  **********************************
