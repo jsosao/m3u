@@ -255,95 +255,117 @@ http://138.59.177.34:8000/play/a064/index.m3u8
 
 ********************************************* CANALES REGIONALES Y YOUTUBE  ********************************************************************************
 
-#EXTINF:-1 group-title="Bics Regionales", AGS TELEVISA AGUASCALIENTES
+#EXTINF:-1 group-title="Bics Regionales", AGS: TELEVISA AGUASCALIENTES
 https://ythls-v2.onrender.com/channel/UC5ZtV3bu3bjSuOLoA6oCFIg.m3u8
+#EXTINF:-1 group-title="Bics Regionales", AGS: CANAL 26
+https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Bics Regionales", BAJA TELEVISA ENSENADA
+#EXTINF:-1 group-title="Bics Regionales", BAJA: TELEVISA ENSENADA
 https://ythls-v2.onrender.com/channel/UCFuWAM_YItwkHzDWDKtJULg.m3u8
-#EXTINF:-1 group-title="Bics Regionales", BAJA TELEVISA MEXICALI
+#EXTINF:-1 group-title="Bics Regionales", BAJA: TELEVISA MEXICALI
 https://ythls-v2.onrender.com/channel/UCcmuFsMIIIHO3LBqeBVfm8Q.m3u8
-#EXTINF:-1 group-title="Bics Regionales", BAJA TELEVISA TIJUANA
+#EXTINF:-1 group-title="Bics Regionales", BAJA: TELEVISA TIJUANA
 https://ythls-v2.onrender.com/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
-#EXTINF:-1 group-title="Bics Regionales", BAJA CANAL 66 MEXICALI
+#EXTINF:-1 group-title="Bics Regionales", BAJA: CANAL 66 MEXICALI
 https://ythls-v2.onrender.com/channel/UCgu4v4HAioB0N5K6aq_H-WQ.m3u8
+#EXTINF:-1 group-title="Bics Regionales", BAJA: CANAL 33 TIJUANA
+https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
 
-#EXTINF:-1 group-title="Bics Regionales", CUA TELEVISA CHIHUAHUA
+#EXTINF:-1 group-title="Bics Regionales", CUA: TELEVISA CHIHUAHUA
 https://ythls-v2.onrender.com/channel/UCjfxDe7In59Jbfw2HmIh_Vg.m3u8
-#EXTINF:-1 group-title="Bics Regionales", CUA TELEVISA CD. JUAREZ
+#EXTINF:-1 group-title="Bics Regionales", CUA: TELEVISA CD. JUAREZ
 https://ythls-v2.onrender.com/channel/UCot4t8PVKz8TT5xVM8Eb00w.m3u8
+#EXTINF:-1 group-title="Bics Regionales", CUA: CANAL 44 Chihuahua
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales", CUA: CANAL 44 Ciudad Juárez
+https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales", CUA: CANAL 50 Ciudad Juárez
+https://stream.oursnetworktv.com/latin/juarez50/playlist.m3u8
 
-#EXTINF:-1 group-title="Bics Regionales", COA TELEVISA LAGUNA
+#EXTINF:-1 group-title="Bics Regionales", COA: TELEVISA LAGUNA
 https://ythls-v2.onrender.com/channel/UC_mwCcsKDJLSWjply5s0h8w.m3u8
-#EXTINF:-1 group-title="Bics Regionales", COA TELEVISA PIEDRAS NEGRAS
+#EXTINF:-1 group-title="Bics Regionales", COA: TELEVISA PIEDRAS NEGRAS
 https://ythls-v2.onrender.com/channel/UCxK8C1E8UZ5RipNXIBYEvTA.m3u8
-#EXTINF:-1 group-title="Bics Regionales", COA TELEVISA SALTILLO
+#EXTINF:-1 group-title="Bics Regionales", COA: TELEVISA SALTILLO
 https://ythls-v2.onrender.com/channel/UCpeD73Gb4KjKUL2gyoJ4gLw.m3u8
-#EXTINF:-1 group-title="Bics Regionales", COA RCG MEDIA
-https://ythls-v2.onrender.com/channel/UChvo-5DAh8H1MNRPgfrSTdw.m3u8
-#EXTINF:-1 group-title="Bics Regionales", COA MULTIMEDIO LAGUNA
+#EXTINF:-1 group-title="Bics Regionales", COA: RCG MEDIA
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales", COA: RCG MEDIA
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+#EXTINF:-1 group-title="Bics Regionales", COA: MULTIMEDIOS LAGUNA
 https://ythls-v2.onrender.com/channel/UCR1aiCpU4PdNg-wCDiuDCcg.m3u8
+#EXTINF:-1 group-title="Bics Regionales", COA: CANAL 15 SABINAS
+https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Bics Regionales", DGO TELEVISA DURANGO
+#EXTINF:-1 group-title="Bics Regionales", CHIAP: CANAL 10
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+
+#EXTINF:-1 group-title="Bics Regionales", DGO: TELEVISA DURANGO
 https://ythls-v2.onrender.com/channel/UCON7DvLd5N8tXivc9WqILxQ.m3u8
 
-#EXTINF:-1 group-title="Bics Regionales", GRO TELEVISA GUERRERO
+#EXTINF:-1 group-title="Bics Regionales", GRO: TELEVISA GUERRERO
 https://ythls-v2.onrender.com/channel/UCnxTRk2K1iNsQkgpWXxyj4w.m3u8
 
-#EXTINF:-1 group-title="Bics Regionales", GTO TELEVISA DEL BAJIO
+#EXTINF:-1 group-title="Bics Regionales", GTO: TELEVISA DEL BAJIO
 https://ythls-v2.onrender.com/channel/UC-uYy4_jIvDoJ4wigEv1S5A.m3u8
 
-#EXTINF:-1 group-title="Bics Regionales", JAL TELEVISA GUADALAJARA
+#EXTINF:-1 group-title="Bics Regionales", JAL: TELEVISA GUADALAJARA
 https://ythls-v2.onrender.com/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
 
 #EXTINF:-1 group-title="Bics Regionales", MEX TELEVISA EDO. MEX.
 https://ythls-v2.onrender.com/channel/UC9DH82HVSf4katwMeUpY80w.m3u8
-#EXTINF:-1 group-title="Bics Regionales", MEX IMAGEN TV
+#EXTINF:-1 group-title="Bics Regionales", MEX: IMAGEN TV
 https://ythls-v2.onrender.com/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 
-#EXTINF:-1 group-title="Bics Regionales", MOR TELEVISA MORELOS
+#EXTINF:-1 group-title="Bics Regionales", MOR: TELEVISA MORELOS
 https://ythls-v2.onrender.com/channel/UCcC9ykApQrgl4UxbKg2U4zw.m3u8
 
-#EXTINF:-1 group-title="Bics Regionales", NL TELEVISA MONTERREY
+#EXTINF:-1 group-title="Bics Regionales", NL: TELEVISA MONTERREY
 https://ythls-v2.onrender.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg.m3u8
-#EXTINF:-1 group-title="Bics Regionales", NL TELEVISA NORESTE
+#EXTINF:-1 group-title="Bics Regionales", NL: TELEVISA NORESTE
 https://ythls-v2.onrender.com/channel/UC752DYv5vPlTSMrvEjfZXcw.m3u8
-#EXTINF:-1 group-title="Bics Regionales", NL MULTIMEDIOS
+#EXTINF:-1 group-title="Bics Regionales", NL: MULTIMEDIOS
 https://ythls-v2.onrender.com/channel/UCo1nfa1JKNqtcUyLjLwTiIw.m3u8
 
-#EXTINF:-1 group-title="Bics Regionales", PUE TELEVISA PUEBLA
+#EXTINF:-1 group-title="Bics Regionales", PUE: TELEVISA PUEBLA
 https://ythls-v2.onrender.com/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
 
-#EXTINF:-1 group-title="Bics Regionales", QRO TELEVISA QUERERTARO
+#EXTINF:-1 group-title="Bics Regionales", QRO: TELEVISA QUERERTARO
 https://ythls-v2.onrender.com/channel/UC9QNz6VS3gGz55dzxAQtgtA.m3u8
 
-#EXTINF:-1 group-title="Bics Regionales", QRR TELEVISA QUINTANA ROO
+#EXTINF:-1 group-title="Bics Regionales", QRR: TELEVISA QUINTANA ROO
 https://ythls-v2.onrender.com/channel/UC37V2K5_sXWqOhoc5WgiXhw.m3u8
+#EXTINF:-1 group-title="Bics Regionales", QRR: CANAL 10 CANCUN
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 
-#EXTINF:-1 group-title="Bics Regionales", SIN TELEVISA SINALOA
+#EXTINF:-1 group-title="Bics Regionales", SIN: TELEVISA SINALOA
 https://ythls-v2.onrender.com/channel/UCtm1LvYEIQ_NrfOUVJ08YhQ.m3u8
-#EXTINF:-1 group-title="Bics Regionales", SLP TELEVISA SAN LUIS POTOSI
+#EXTINF:-1 group-title="Bics Regionales", SLP: TELEVISA SAN LUIS POTOSI
 https://ythls-v2.onrender.com/channel/UCaRuyaHshLdq462E9_pLzdA.m3u8
-#EXTINF:-1 group-title="Bics Regionales", SON TELEVISA SONORA
+#EXTINF:-1 group-title="Bics Regionales", SON: TELEVISA SONORA
 https://ythls-v2.onrender.com/channel/UCyzWMHGS7bs0sot6KZk5EZg.m3u8
 
-#EXTINF:-1 group-title="Bics Regionales", TAM TELEVISA DEL GOLFO
+#EXTINF:-1 group-title="Bics Regionales", TAM: TELEVISA DEL GOLFO
 https://ythls-v2.onrender.com/channel/UCQ08tNTPiBn44c975S81ftg.m3u8
-#EXTINF:-1 group-title="Bics Regionales", TAM TELEVISA VICTORIA
+#EXTINF:-1 group-title="Bics Regionales", TAM: TELEVISA VICTORIA
 https://ythls-v2.onrender.com/channel/UCIqGddpV4flOlK3b-hgu9pQ.m3u8
 
-#EXTINF:-1 group-title="Bics Regionales", VER TELEVISA VERACRUZ
+#EXTINF:-1 group-title="Bics Regionales", VER: TELEVISA VERACRUZ
 https://ythls-v2.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 
-#EXTINF:-1 group-title="Bics Regionales", YUC TELEVISA YUCATAN
+#EXTINF:-1 group-title="Bics Regionales", YUC: TELEVISA YUCATAN
 https://ythls-v2.onrender.com/channel/UCMIYaH2cLoPS8Hcb-9AA2ZA.m3u8
+#EXTINF:-1 group-title="Bics Regionales", YUC: NRT SURESTE
+https://59e88b197fb16.streamlock.net:4443/live/canal6/playlist.m3u8
 
-#EXTINF:-1 group-title="Bics Regionales", ZAC TELEVISA ZACATECAS
+
+#EXTINF:-1 group-title="Bics Regionales", ZAC: TELEVISA ZACATECAS
 https://ythls-v2.onrender.com/channel/UCQb3i7gu9J8A4zzQU7j6C1Q.m3u8
 
 ********************************************* CANALES DEPORTES Y YOUTUBE  ********************************************************************************
 
 #EXTINF:-1 group-title="Bics Youtube", DEP INTERNETV DEPORTES
-https://ythls-v2.onrender.com/channel/UC68A6fW402TePXuLsumOjYQ.m3u8
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 group-title="Bics Youtube", DEP CLARO SPORTS
 https://ythls-v2.onrender.com/channel/UCqfCJBfrFSO4tZM1LNZTBFQ.m3u8
 #EXTINF:-1 group-title="Bics Youtube", DEP AZTECA DEPORTES
@@ -351,143 +373,6 @@ https://ythls-v2.onrender.com/channel/UCe3Ev4a4Sm9L5aO9sJJ_WXw.m3u8
 
 ****************************************************************************************************************************
 *************************** https://raw.githubusercontent.com/angel200881/C/main/C5.m3u8  **********************************
-
-#EXTINF:-1 group-title="Bics Regionales", AGU: Canal 26
-https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales", GDL: Canal 4
-https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
-#EXTINF:-1 group-title="Bics Regionales", CAM: TRC Television
-https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales", CHP: Canal 10
-https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales", GTO: Canal 13 Bajío (720p) [Not 24/7]
-https://dbdfj5y8nz2u4.cloudfront.net/c13bajio/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales", CAM: Canal 13 Campeche (720p) [Not 24/7]
-https://dbdfj5y8nz2u4.cloudfront.net/c13campeche/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales", CHP: Canal 13 Chiapas (720p) [Not 24/7]
-https://dbdfj5y8nz2u4.cloudfront.net/c13chiapas/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales", MICH: Canal 13 Michoacán (720p) [Not 24/7]
-https://dbdfj5y8nz2u4.cloudfront.net/c13michoacan/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales", OAX: Canal 13 Oaxaca (720p) [Not 24/7]
-https://dbdfj5y8nz2u4.cloudfront.net/c13oaxaca/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales", PUE: Canal 13 Puebla (720p) [Not 24/7]
-https://dbdfj5y8nz2u4.cloudfront.net/c13puebla/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales", TAB: Canal 13 Tabasco (720p) [Not 24/7]
-https://dbdfj5y8nz2u4.cloudfront.net/c13tabasco/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales", CHP: Canal 13 Tapachula (720p) [Not 24/7]
-https://dbdfj5y8nz2u4.cloudfront.net/c13tapachula/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales", YUC: Canal 13 Yucatán (720p) [Not 24/7]
-https://dbdfj5y8nz2u4.cloudfront.net/c13yucatan/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales", CHH: CANAL 44
-https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales", COA: 15TV Sabinas
-https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales", GTO: TV Cuatro 4.1 Noticias
-https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
-#EXTINF:-1 group-title="Bics Regionales", GTO: TV Cuatro 4.2 Cultura
-https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
-#EXTINF:-1 group-title="Bics Regionales", GTO: TV Cuatro 4.3 Deportes
-https://5f1af61612fb5.streamlock.net/tv43/tv43.smil/.m3u8
-#EXTINF:-1 group-title="Bics Regionales", GTO: TV Guanajuato (720p)
-https://stream.oursnetworktv.com/latin/tvguanajuato/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales", JAL: Jalisco TV
-https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales", MIC: Canal 13 Michoacan
-https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
-#EXTINF:-1 group-title="Bics Regionales", PUE: Canal 16.1
-https://5d0d1d7a6be9e.streamlock.net/envivo/puecom/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales", PUE: Canal 16.2
-https://5d0d1d7a6be9e.streamlock.net/live/setpuebla/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales", PUE: Canal 26.1
-http://189.240.210.28:1935/envivo/puecom/chunklist_w166335976.m3u8
-#EXTINF:-1 group-title="Bics Regionales", PUE: Canal 26.2
-http://189.240.210.28:1935/envivo/puecom/chunklist_w745561738.m3u8
-#EXTINF:-1 group-title="Bics Regionales", ,QUE: RTQ Queretaro
-http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
-#EXTINF:-1 group-title="Bics Regionales", ROO: Canal 10 Cancun
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales", SLP: Nueve TV
-https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/chunklist_w2067160029.m3u8
-#EXTINF:-1 group-title="Bics Regionales", SIN: TVP Mazatlan
-https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales", SIN: TVP Culiacan
-https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales", SIN: TVP Los Mochis
-https://5ca3e84a76d30.streamlock.net/gpacifico2/smil:mochis.smil/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales", SON: TVP Cd. Obregon
-https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales", SON: Telemax Sonora
-http://s5.mexside.net:1935/telemax/telemax/chunklist_w586584359.m3u8
-https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales", TLA: Tlaxcala Television
-https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
-#EXTINF:-1 group-title="Bics Regionales", VER: TVMAS Veracruz
-https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales", YUC: Teleplay Merida
-https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales", ZAC: Canal 24 Zacatecas
-https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales", MX AMX Noticias
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales",CHIH: Canal 50.1 Juárez (XEJ-TDT) (614p)
-https://stream.oursnetworktv.com/latin/juarez50/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales",Canal Ocho TV (1080p)
-https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales",El 15 TV (720p)
-https://stream.oursnetworktv.com/latin/encoder32/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales", MOR: IMRyT (720p)
-https://stream8.mexiserver.com:1936/morelostv/morelostv/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales", MX: Mexiquense TV (720p)
-https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales",Monte Maria (1080p)
-https://616eee1852d6c.streamlock.net/live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales",Noticias Canal 10 (360p) [Not 24/7]
-https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales",NRT México Canal 4 (720p)
-https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales", SLP: Nueve TV San Luís Potosí (720p)
-https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
-#EXTINF:-1 group-title="Bics Regionales", COA: RCG TV (1080p)
-https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales",QRO: RTQ Querétaro (360p) [Not 24/7]
-http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
-#EXTINF:-1 group-title="Bics Regionales", ZAC: SIZART Canal 24 (1080p)
-https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales",SQCS Canal 4 (720p)
-https://5fa5de1a545ae.streamlock.net/4982/4982/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales",Super Channel 12 (1080p)
-https://servilive.com:3263/live/channel12live.m3u8
-#EXTINF:-1 group-title="Bics Regionales", CAMP: Telemar Campeche (720p) [Not 24/7]
-https://5e50264bd6766.streamlock.net/telemarcampeche/videotelemarcampeche/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales", SON: Telemax (XEWH-TDT) (1080p)
-http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales",Teleplay Sureste (360p)
-https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales",Tlaxcala Televisión (360p) [Not 24/7]
-https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?token=null
-#EXTINF:-1 group-title="Bics Regionales",TRC Televisión (720p)
-https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales",TV Azteca Noroeste (Monterrey) (720p)
-https://live.info7.mx/info7/stream.m3u8
-#EXTINF:-1 group-title="Bics Regionales",TV Mar La Paz (1080p)
-https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales",TV Mar Los Cabos (1080p)
-https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales",TV Mar Puerto Vallarta (1080p)
-https://5ca3e84a76d30.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales",TV UJAT (XHUJAT-TDT) (720p) [Not 24/7]
-https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales",TVMás (720p)
-https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
-#EXTINF:-1 group-title="Bics Regionales",TVMÁS (XHGV-TDT) (360p) [Not 24/7]
-https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales",TVT Tabasco (720p) [Not 24/7]
-https://5e50264bd6766.streamlock.net/tabasco/videotabasco/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales",Ultra TV Puebla (720p) [Not 24/7]
-https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Bics Regionales",XHKG TV Nayarit (1080p)
-https://stream.oursnetworktv.com/latin/encoder73/playlist.m3u8
-
 *********************************  https://raw.githubusercontent.com/angel200881/C/main/CTWO.m3u8  *************************************************************
 *********************************  https://raw.githubusercontent.com/angel200881/C/main/FOUR KEI.m3u8  *************************************************************
 *****************************   https://raw.githubusercontent.com/atim2515/ATIM_BOSTON/main/TIM%20IPTV  ************************************************
