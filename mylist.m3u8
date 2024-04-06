@@ -191,9 +191,7 @@ https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 
 *******************************************************************************************************************************************************************
 
-#EXTINF:-1 group-title="Bics Extra Internacional", CANAL 57 USA
-#EXTVLCOPT--http-reconnect=true
-https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 group-title="Bics Extra Internacional", UNIVISION LATAM
 #EXTVLCOPT--http-reconnect=true
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
@@ -208,6 +206,9 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 #EXTVLCOPT--http-reconnect=true
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65880
 
+#EXTINF:-1 group-title="Bics Extra US", CANAL 57
+#EXTVLCOPT--http-reconnect=true
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Bics Extra US", CNN
 #EXTVLCOPT--http-reconnect=true
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -218,9 +219,15 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTVLCOPT--http-reconnect=true
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
-#EXTINF:-1 group-title="Bics Extra Internacional", TV  Max
+#EXTINF:-1 group-title="Bics Extra Internacional", PAN: TV  Max
 #EXTVLCOPT--http-reconnect=true
 http://138.59.177.34:8000/play/a064/index.m3u8
+#EXTINF:-1 group-title="Bics Extra Internacional", ARG: TELEFE
+#EXTVLCOPT--http-reconnect=true
+https://ythls-v2.onrender.com/channel/UCHc3el42hXKKhjs_1vzWk9A.m3u8
+#EXTINF:-1 group-title="Bics Extra Internacional", ECU: ECUAVISA
+#EXTVLCOPT--http-reconnect=true
+https://ythls-v2.onrender.com/channel/UC0okuxxQzjTFtdV3koO_Tjw.m3u8
 
 ********************************************* CANALES REGIONALES Y YOUTUBE  ********************************************************************************
 
