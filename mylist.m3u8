@@ -348,6 +348,12 @@ https://ythls-v2.onrender.com/channel/UCQb3i7gu9J8A4zzQU7j6C1Q.m3u8
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: CLARO SPORTS
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", MX: CLARO SPORTS 2
+https://ythls-v2.onrender.com/video/gdDUsNZSLJ8.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", MX: CLARO SPORTS 3
+https://ythls-v2.onrender.com/video/gdDUsNZSLJ8.m3u8
+
+
 #EXTINF:-1 group-title="Bics DEPORTES", MX: AZTECA DEPORTES
 https://ythls-v2.onrender.com/channel/UCe3Ev4a4Sm9L5aO9sJJ_WXw.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: AYM SPORTS
@@ -583,9 +589,9 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/59
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/61
 #EXTINF:-1 group-title="Bics DEPORTES",AYM
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/62
-#EXTINF:-1 group-title="Bics DEPORTES",UK| BT SPORTS 1 HD
+#EXTINF:-1 group-title="Bics DEPORTES",UK: BT SPORTS 1 HD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/63
-#EXTINF:-1 group-title="Bics DEPORTES",UK| BT SPORTS 2 HD
+#EXTINF:-1 group-title="Bics DEPORTES",UK: BT SPORTS 2 HD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/64
 #EXTINF:-1 group-title="Bics Extra FANTASTIC",AMC
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/67
@@ -597,61 +603,61 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/69
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/70
 #EXTINF:-1 group-title="Bics Extra FANTASTIC",CLIC
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/71
-#EXTINF:-1 group-title="Bics 24/7",PPV | 002
+#EXTINF:-1 group-title="Bics 24/7",PPV: 002
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/95
-#EXTINF:-1 group-title="Bics 24/7",PPV | 003
+#EXTINF:-1 group-title="Bics 24/7",PPV: 003
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/96
-#EXTINF:-1 group-title="Bics 24/7",PPV | 004
+#EXTINF:-1 group-title="Bics 24/7",PPV: 004
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/97
-#EXTINF:-1 group-title="Bics 24/7",PPV | 005
+#EXTINF:-1 group-title="Bics 24/7",PPV: 005
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/98
-#EXTINF:-1 group-title="Bics 24/7",PPV | 006
+#EXTINF:-1 group-title="Bics 24/7",PPV: 006
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/99
-#EXTINF:-1 group-title="Bics 24/7",PPV | 007
+#EXTINF:-1 group-title="Bics 24/7",PPV: 007
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/100
-#EXTINF:-1 group-title="Bics 24/7",PPV | 008
+#EXTINF:-1 group-title="Bics 24/7",PPV: 008
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/101
-#EXTINF:-1 group-title="Bics 24/7",PPV | 009
+#EXTINF:-1 group-title="Bics 24/7",PPV: 009
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/102
-#EXTINF:-1 group-title="Bics 24/7",PPV | 010
+#EXTINF:-1 group-title="Bics 24/7",PPV: 010
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/103
-#EXTINF:-1 group-title="Bics 24/7",PPV | 011
+#EXTINF:-1 group-title="Bics 24/7",PPV: 011
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/104
-#EXTINF:-1 group-title="Bics 24/7",PPV | 012
+#EXTINF:-1 group-title="Bics 24/7",PPV: 012
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/105
-#EXTINF:-1 group-title="Bics 24/7",PPV | 013
+#EXTINF:-1 group-title="Bics 24/7",PPV: 013
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/106
-#EXTINF:-1 group-title="Bics 24/7",PPV | 014
+#EXTINF:-1 group-title="Bics 24/7",PPV: 014
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/107
-#EXTINF:-1 group-title="Bics 24/7",PPV | 015
+#EXTINF:-1 group-title="Bics 24/7",PPV: 015
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/108
-#EXTINF:-1 group-title="Bics 24/7",PPV | 016
+#EXTINF:-1 group-title="Bics 24/7",PPV: 016
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/109
-#EXTINF:-1 group-title="Bics 24/7",PPV | 017
+#EXTINF:-1 group-title="Bics 24/7",PPV: 017
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/110
-#EXTINF:-1 group-title="Bics 24/7",PPV | 018
+#EXTINF:-1 group-title="Bics 24/7",PPV: 018
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/111
-#EXTINF:-1 group-title="Bics 24/7",PPV | 019
+#EXTINF:-1 group-title="Bics 24/7",PPV: 019
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/112
-#EXTINF:-1 group-title="Bics 24/7",PPV | 020
+#EXTINF:-1 group-title="Bics 24/7",PPV: 020
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/113
-#EXTINF:-1 group-title="Bics 24/7",PPV | 021
+#EXTINF:-1 group-title="Bics 24/7",PPV: 021
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/114
-#EXTINF:-1 group-title="Bics 24/7",PPV | 022
+#EXTINF:-1 group-title="Bics 24/7",PPV: 022
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/115
-#EXTINF:-1 group-title="Bics 24/7",PPV | 023
+#EXTINF:-1 group-title="Bics 24/7",PPV: 023
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/116
-#EXTINF:-1 group-title="Bics 24/7",PPV | 024
+#EXTINF:-1 group-title="Bics 24/7",PPV: 024
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/117
-#EXTINF:-1 group-title="Bics 24/7",PPV | 025
+#EXTINF:-1 group-title="Bics 24/7",PPV: 025
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/118
-#EXTINF:-1 group-title="Bics 24/7",PPV | 026
+#EXTINF:-1 group-title="Bics 24/7",PPV: 026
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/119
-#EXTINF:-1 group-title="Bics 24/7",PPV | 027
+#EXTINF:-1 group-title="Bics 24/7",PPV: 027
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/120
-#EXTINF:-1 group-title="Bics 24/7",PPV | 028
+#EXTINF:-1 group-title="Bics 24/7",PPV: 028
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/121
-#EXTINF:-1 group-title="Bics 24/7",PPV | 029
+#EXTINF:-1 group-title="Bics 24/7",PPV: 029
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/122
 #EXTINF:-1 group-title="Bics DEPORTES",US: MLB Network
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/126
@@ -677,7 +683,7 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/136
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/137
 #EXTINF:-1 group-title="Bics Extra FANTASTIC",E!
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/138
-#EXTINF:-1 group-title="Bics DEPORTES",MX| EUROSPORTS 1
+#EXTINF:-1 group-title="Bics DEPORTES",MX: EUROSPORTS 1
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/139
 #EXTINF:-1 group-title="Bics DEPORTES",EUROSPORTS 2
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/140
@@ -703,9 +709,9 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/153
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/155
 #EXTINF:-1 group-title="Bics", MX:IMAGEN TV
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/156
-#EXTINF:-1 group-title="Bics DEPORTES",ES | LA LIGA
+#EXTINF:-1 group-title="Bics DEPORTES",ES: LA LIGA
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/157
-#EXTINF:-1 group-title="Bics Extra Internacional",ES | LA SEXTA
+#EXTINF:-1 group-title="Bics Extra Internacional",ES: LA SEXTA
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/158
 #EXTINF:-1 group-title="Bics Extra FANTASTIC",LIFETIME
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/159
@@ -1191,25 +1197,25 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/580
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/581
 #EXTINF:-1 group-title="Bics Extra US",US: FXX
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/582
-#EXTINF:-1 group-title="Bics 24/7",PPV | 030
+#EXTINF:-1 group-title="Bics 24/7",PPV: 030
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/585
-#EXTINF:-1 group-title="Bics 24/7",PPV | 031
+#EXTINF:-1 group-title="Bics 24/7",PPV: 031
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/586
-#EXTINF:-1 group-title="Bics 24/7",PPV | 032
+#EXTINF:-1 group-title="Bics 24/7",PPV: 032
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/587
-#EXTINF:-1 group-title="Bics 24/7",PPV | 033
+#EXTINF:-1 group-title="Bics 24/7",PPV: 033
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/588
-#EXTINF:-1 group-title="Bics 24/7",PPV | 034
+#EXTINF:-1 group-title="Bics 24/7",PPV: 034
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/589
-#EXTINF:-1 group-title="Bics 24/7",PPV | 035
+#EXTINF:-1 group-title="Bics 24/7",PPV: 035
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/590
-#EXTINF:-1 group-title="Bics 24/7",PPV | 036
+#EXTINF:-1 group-title="Bics 24/7",PPV: 036
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/591
-#EXTINF:-1 group-title="Bics 24/7",PPV | 037
+#EXTINF:-1 group-title="Bics 24/7",PPV: 037
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/592
-#EXTINF:-1 group-title="Bics 24/7",PPV | 038
+#EXTINF:-1 group-title="Bics 24/7",PPV: 038
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/593
-#EXTINF:-1 group-title="Bics 24/7",PPV | 039
+#EXTINF:-1 group-title="Bics 24/7",PPV: 039
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/594
 #EXTINF:-1 group-title="Bics DEPORTES",ES | MOVISTAR GOLF
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/596
@@ -1759,7 +1765,7 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/889
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/891
 #EXTINF:-1 group-title="Bics", MX: Canal 22
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/894
-#EXTINF:-1 group-title="Bics 24/7",PPV | 001
+#EXTINF:-1 group-title="Bics 24/7",PPV: 001
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/895
 #EXTINF:-1 group-title="Bics DEPORTES",R_Caribe 01
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/896
