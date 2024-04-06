@@ -10,15 +10,6 @@
 #EXTINF:-1 group-title="Bics", UPDATED 06 DE ABR 12:00 HRS
 https://zzzz.zzz
 
-#EXTINF:-1 group-title="CANALES VARIADOS",13 C
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/600
-#EXTINF:-1 group-title="CANALES VARIADOS",14 C
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/425
-
-#EXTINF:-1 group-title="CANALES VARIADOS",15 C
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/21229
-
-
 #EXTINF:-1 group-title="Bics", AZTECA UNO
 #EXTVLCOPT--http-reconnect=true
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
@@ -500,7 +491,1559 @@ https://linear-385.frequency.stream/mt/studio/385/hls/master/playlist.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://linear-386.frequency.stream/mt/studio/386/hls/master/playlist.m3u8
 
-
+**********************************************************************************************************************************************************
+#EXTINF:-1 group-title="CONOCIMIENTO",ANIMAL PLANET
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/2
+#EXTINF:-1 group-title="LOCALES",AZTECA 7
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/4
+#EXTINF:-1 group-title="KIDS",CARTOONITO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/5
+#EXTINF:-1 group-title="LOCALES",Canal 5
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/7
+#EXTINF:-1 group-title="LOCALES",CANAL 9
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/8
+#EXTINF:-1 group-title="KIDS",CARTOON NETWORK
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/9
+#EXTINF:-1 group-title="CINE",CINECANAL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/10
+#EXTINF:-1 group-title="CINE",CINEMAX
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/11
+#EXTINF:-1 group-title="INFORMACIÓN",CNN
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/12
+#EXTINF:-1 group-title="ENTRETENIMIENTO",COMEDY CENTRAL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/13
+#EXTINF:-1 group-title="CINE",DE PELICULA
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/14
+#EXTINF:-1 group-title="CONOCIMIENTO",DISCOVERY CHANNEL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/15
+#EXTINF:-1 group-title="ENTRETENIMIENTO",DISCOVERY HOME AND HEALTH
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/16
+#EXTINF:-1 group-title="ENTRETENIMIENTO",DISCOVERY ID
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/17
+#EXTINF:-1 group-title="KIDS",DISCOVERY KIDS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/18
+#EXTINF:-1 group-title="CONOCIMIENTO",DISCOVERY SCIENCE
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/19
+#EXTINF:-1 group-title="CONOCIMIENTO",DISCOVERY THEATER
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/20
+#EXTINF:-1 group-title="CONOCIMIENTO",DISCOVERY TURBO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/21
+#EXTINF:-1 group-title="CONOCIMIENTO",DISCOVERY WORLD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/22
+#EXTINF:-1 group-title="KIDS",DISNEY JR
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/23
+#EXTINF:-1 group-title="DEPORTES",ESPN 2
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/25
+#EXTINF:-1 group-title="DEPORTES",ESPN 3
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/26
+#EXTINF:-1 group-title="DEPORTES",ESPN
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/27
+#EXTINF:-1 group-title="DEPORTES",ESPN 4
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/28
+#EXTINF:-1 group-title="LOCALES",ESTRELLAS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/29
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 1
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/31
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 2
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/32
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS  3
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/33
+#EXTINF:-1 group-title="ENTRETENIMIENTO",GOURMET
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/35
+#EXTINF:-1 group-title="CONOCIMIENTO",HISTORY CHANNEL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/36
+#EXTINF:-1 group-title="LOCALES REGIONALES",CANAL 6 MTY
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/37
+#EXTINF:-1 group-title="CONOCIMIENTO",NATGEO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/40
+#EXTINF:-1 group-title="KIDS",NICK JR
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/41
+#EXTINF:-1 group-title="ENTRETENIMIENTO",SONY
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/42
+#EXTINF:-1 group-title="ENTRETENIMIENTO",SPACE
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/43
+#EXTINF:-1 group-title="CINE",STUDIO UNIVERSAL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/44
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TLNOVELAS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/45
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TLC
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/46
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TLNOVELAS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/47
+#EXTINF:-1 group-title="KIDS",TOONCAST
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/48
+#EXTINF:-1 group-title="DEPORTES",TUDN
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/49
+#EXTINF:-1 group-title="DEPORTES",TVC DEPORTES
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/50
+#EXTINF:-1 group-title="ENTRETENIMIENTO",UNICABLE
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/51
+#EXTINF:-1 group-title="ENTRETENIMIENTO",WARNER
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/52
+#EXTINF:-1 group-title="ENTRETENIMIENTO",PR | MEGA TV
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/54
+#EXTINF:-1 group-title="ENTRETENIMIENTO",PR 1 PUNTO 2
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/55
+#EXTINF:-1 group-title="ENTRETENIMIENTO",PR | Telemundo
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/56
+#EXTINF:-1 group-title="ENTRETENIMIENTO",PR | UNIVISION TELEONCE
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/57
+#EXTINF:-1 group-title="ENTRETENIMIENTO",PR | WAPA 2
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/58
+#EXTINF:-1 group-title="ENTRETENIMIENTO",PR | WAPA
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/59
+#EXTINF:-1 group-title="ENTRETENIMIENTO",A&E
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/61
+#EXTINF:-1 group-title="DEPORTES",AYM
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/62
+#EXTINF:-1 group-title="DEPORTES",UK| BT SPORTS 1 HD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/63
+#EXTINF:-1 group-title="DEPORTES",UK| BT SPORTS 2 HD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/64
+#EXTINF:-1 group-title="CINE",AMC
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/67
+#EXTINF:-1 group-title="INTERNACIONAL",ANTENA 3
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/68
+#EXTINF:-1 group-title="ENTRETENIMIENTO",AXN
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/69
+#EXTINF:-1 group-title="CINE",CINEMA
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/70
+#EXTINF:-1 group-title="ENTRETENIMIENTO",CLIC
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/71
+#EXTINF:-1 group-title="24/7",PPV | 002
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/95
+#EXTINF:-1 group-title="24/7",PPV | 003
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/96
+#EXTINF:-1 group-title="24/7",PPV | 004
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/97
+#EXTINF:-1 group-title="24/7",PPV | 005
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/98
+#EXTINF:-1 group-title="24/7",PPV | 006
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/99
+#EXTINF:-1 group-title="24/7",PPV | 007
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/100
+#EXTINF:-1 group-title="24/7",PPV | 008
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/101
+#EXTINF:-1 group-title="24/7",PPV | 009
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/102
+#EXTINF:-1 group-title="24/7",PPV | 010
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/103
+#EXTINF:-1 group-title="24/7",PPV | 011
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/104
+#EXTINF:-1 group-title="24/7",PPV | 012
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/105
+#EXTINF:-1 group-title="24/7",PPV | 013
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/106
+#EXTINF:-1 group-title="24/7",PPV | 014
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/107
+#EXTINF:-1 group-title="24/7",PPV | 015
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/108
+#EXTINF:-1 group-title="24/7",PPV | 016
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/109
+#EXTINF:-1 group-title="24/7",PPV | 017
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/110
+#EXTINF:-1 group-title="24/7",PPV | 018
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/111
+#EXTINF:-1 group-title="24/7",PPV | 019
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/112
+#EXTINF:-1 group-title="24/7",PPV | 020
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/113
+#EXTINF:-1 group-title="24/7",PPV | 021
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/114
+#EXTINF:-1 group-title="24/7",PPV | 022
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/115
+#EXTINF:-1 group-title="24/7",PPV | 023
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/116
+#EXTINF:-1 group-title="24/7",PPV | 024
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/117
+#EXTINF:-1 group-title="24/7",PPV | 025
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/118
+#EXTINF:-1 group-title="24/7",PPV | 026
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/119
+#EXTINF:-1 group-title="24/7",PPV | 027
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/120
+#EXTINF:-1 group-title="24/7",PPV | 028
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/121
+#EXTINF:-1 group-title="24/7",PPV | 029
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/122
+#EXTINF:-1 group-title="DEPORTES",US | MLB Network
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/126
+#EXTINF:-1 group-title="DEPORTES",US | FOX DEPORTES
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/128
+#EXTINF:-1 group-title="DEPORTES",US| ESPN 1
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/129
+#EXTINF:-1 group-title="DEPORTES",US| TSN Sports 4
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/130
+#EXTINF:-1 group-title="ENTRETENIMIENTO",CORAZON
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/131
+#EXTINF:-1 group-title="ENTRETENIMIENTO",AZTECA INTERNACIONAL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/132
+#EXTINF:-1 group-title="LOCALES",AZTECA 1
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/133
+#EXTINF:-1 group-title="KIDS",BABY TV
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/134
+#EXTINF:-1 group-title="MUSICA",BANDAMAX
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/135
+#EXTINF:-1 group-title="CONOCIMIENTO",US | DISCOVERY EN ESPANOL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/136
+#EXTINF:-1 group-title="ENTRETENIMIENTO",US | DISCOVERY FAMILIA
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/137
+#EXTINF:-1 group-title="ENTRETENIMIENTO",E!
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/138
+#EXTINF:-1 group-title="DEPORTES",MX| EUROSPORTS 1
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/139
+#EXTINF:-1 group-title="DEPORTES",EUROSPORTS 2
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/140
+#EXTINF:-1 group-title="LOCALES",FORO TV
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/141
+#EXTINF:-1 group-title="DEPORTES",DAZN | F1
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/146
+#EXTINF:-1 group-title="ENTRETENIMIENTO",STAR - FOX
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/147
+#EXTINF:-1 group-title="ENTRETENIMIENTO",FX
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/148
+#EXTINF:-1 group-title="ENTRETENIMIENTO",US | GALAVISION
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/149
+#EXTINF:-1 group-title="USA",US | Hallmark MOVIES & MYSTERIES
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/151
+#EXTINF:-1 group-title="USA",US | HALLMARK
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/150
+#EXTINF:-1 group-title="PREMIUM",HBO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/152
+#EXTINF:-1 group-title="PREMIUM",HBO 2
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/153
+#EXTINF:-1 group-title="ENTRETENIMIENTO",HOLA TV
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/155
+#EXTINF:-1 group-title="LOCALES",IMAGEN TV
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/156
+#EXTINF:-1 group-title="DEPORTES",ES | LA LIGA
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/157
+#EXTINF:-1 group-title="INTERNACIONAL",ES | LA SEXTA
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/158
+#EXTINF:-1 group-title="ENTRETENIMIENTO",LIFETIME
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/159
+#EXTINF:-1 group-title="ENTRETENIMIENTO",MAS CHIC
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/160
+#EXTINF:-1 group-title="INFORMACIÓN",MILENIO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/161
+#EXTINF:-1 group-title="ENTRETENIMIENTO",MTV
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/162
+#EXTINF:-1 group-title="KIDS",NICK
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/163
+#EXTINF:-1 group-title="ENTRETENIMIENTO",PASIONES
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/164
+#EXTINF:-1 group-title="INTERNACIONAL",COL | RCN
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/165
+#EXTINF:-1 group-title="ENTRETENIMIENTO",COL | RCN NOVELAS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/166
+#EXTINF:-1 group-title="INFORMACIÓN",TELEFORMULA
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/167
+#EXTINF:-1 group-title="MUSICA",TELEHIT MUSICA PLUS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/168
+#EXTINF:-1 group-title="MUSICA",TELERITMO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/169
+#EXTINF:-1 group-title="LOCALES REGIONALES",CANAL 4 MTY
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/170
+#EXTINF:-1 group-title="CINE",TNT
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/171
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TNT SERIES
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/172
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ADULT SWIM
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/174
+#EXTINF:-1 group-title="DEPORTES",AR | TYC SPORTS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/175
+#EXTINF:-1 group-title="ENTRETENIMIENTO",UNIVERSAL TV
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/176
+#EXTINF:-1 group-title="USA",US| TruTV
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/177
+#EXTINF:-1 group-title="USA",US | Sportsnet West
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/179
+#EXTINF:-1 group-title="USA",US| Sportsnet World
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/180
+#EXTINF:-1 group-title="USA",TSN SPORTS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/181
+#EXTINF:-1 group-title="USA",TSN SPORTS 2
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/182
+#EXTINF:-1 group-title="USA",TSN SPORTS 3
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/183
+#EXTINF:-1 group-title="USA",TSN SPORTS 5
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/184
+#EXTINF:-1 group-title="USA",US|FU|TENISHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/306
+#EXTINF:-1 group-title="USA",US|FU|ATTSPORTSNETSW
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/307
+#EXTINF:-1 group-title="USA",US|FU|HGTVEAST
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/308
+#EXTINF:-1 group-title="INFORMACIÓN",US|FU|FOROTV
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/309
+#EXTINF:-1 group-title="USA",US|FU|FS2
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/310
+#EXTINF:-1 group-title="USA",US|FU|BEINSPAHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/312
+#EXTINF:-1 group-title="USA",US|FU|FOX_BUSINESS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/313
+#EXTINF:-1 group-title="USA",US|FU|MSNBC
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/314
+#EXTINF:-1 group-title="USA",US|FU|KSWB FOX Network
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/315
+#EXTINF:-1 group-title="USA",US|FU|KWKT FOX Network
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/316
+#EXTINF:-1 group-title="USA",US|FU|CNBCWORLD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/317
+#EXTINF:-1 group-title="USA",US|FU|BBCWN
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/318
+#EXTINF:-1 group-title="USA",US|FU|DIYNETWORKUSA
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/319
+#EXTINF:-1 group-title="USA",US|FU|HALLMARK
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/320
+#EXTINF:-1 group-title="USA",US|FU|WNBC
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/321
+#EXTINF:-1 group-title="USA",US|FU|NFLNET
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/322
+#EXTINF:-1 group-title="USA",US|FU|ENTERTAINMENT
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/323
+#EXTINF:-1 group-title="USA",US|FU|DSCE
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/324
+#EXTINF:-1 group-title="USA",US|FU|RAII
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/325
+#EXTINF:-1 group-title="USA",US|FU|CSNNORTHEAST
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/326
+#EXTINF:-1 group-title="USA",US|FU|CSNCHICAGO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/327
+#EXTINF:-1 group-title="USA",US|FU|CSNPHILLY
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/328
+#EXTINF:-1 group-title="USA",US|FU|BEIN2
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/329
+#EXTINF:-1 group-title="USA",US|FU|BETHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/330
+#EXTINF:-1 group-title="USA",US|FU|MSG
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/331
+#EXTINF:-1 group-title="ENTRETENIMIENTO",US|FU|UNIHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/332
+#EXTINF:-1 group-title="USA",US|FU|GOLTVSHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/333
+#EXTINF:-1 group-title="USA",US|FU|MAVTVHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/334
+#EXTINF:-1 group-title="USA",US|FU|MTVHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/335
+#EXTINF:-1 group-title="USA",US|FU|MTVLIVE
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/336
+#EXTINF:-1 group-title="DEPORTES",US|FU|TUDN
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/337
+#EXTINF:-1 group-title="USA",US|FU|SMITH_HD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/338
+#EXTINF:-1 group-title="USA",US|FU|SPMNHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/339
+#EXTINF:-1 group-title="USA",US|FU|SUNDANCE
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/340
+#EXTINF:-1 group-title="USA",US|FU|TNCKHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/341
+#EXTINF:-1 group-title="USA",US|FU|BHERHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/342
+#EXTINF:-1 group-title="USA",US|FU|DFCHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/343
+#EXTINF:-1 group-title="USA",US|FU|IDHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/344
+#EXTINF:-1 group-title="USA",US|FU|LA2
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/345
+#EXTINF:-1 group-title="USA",US|FU|OUTHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/346
+#EXTINF:-1 group-title="USA",US|FU|OWNHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/347
+#EXTINF:-1 group-title="USA",US|FU|FNHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/348
+#EXTINF:-1 group-title="USA",US|FU|TRAVELCHANNELEAST
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/349
+#EXTINF:-1 group-title="USA",US|FU|USANETWORK
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/350
+#EXTINF:-1 group-title="USA",US|FU|COZI
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/351
+#EXTINF:-1 group-title="USA",US|FU|GSN
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/352
+#EXTINF:-1 group-title="USA",US|FU|UNIMHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/353
+#EXTINF:-1 group-title="USA",US|FU|UNIVERSO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/354
+#EXTINF:-1 group-title="USA",US|FU|NIKHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/355
+#EXTINF:-1 group-title="USA",US|FU|CMTVHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/356
+#EXTINF:-1 group-title="USA",US|FU|TUDNX2
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/360
+#EXTINF:-1 group-title="USA",US|FU|FNETTV
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/365
+#EXTINF:-1 group-title="USA",US|FU|AMC
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/366
+#EXTINF:-1 group-title="USA",US|FU|GOLFCHANNEL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/367
+#EXTINF:-1 group-title="USA",US|FU|BRAVO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/368
+#EXTINF:-1 group-title="USA",US|FU|FS1
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/369
+#EXTINF:-1 group-title="USA",US|FU|CBSSN
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/370
+#EXTINF:-1 group-title="USA",US|FU|NBATV
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/371
+#EXTINF:-1 group-title="USA",US|FU|APLHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/372
+#EXTINF:-1 group-title="USA",US|FU|FOX_NEWS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/373
+#EXTINF:-1 group-title="USA",US|FU|WEATHHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/374
+#EXTINF:-1 group-title="USA",US|FU|WXXA FOX Network
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/375
+#EXTINF:-1 group-title="USA",US|FU|CNBC
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/376
+#EXTINF:-1 group-title="USA",US|FU|BBCA
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/377
+#EXTINF:-1 group-title="USA",US|FU|COOKINGCHANNEL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/378
+#EXTINF:-1 group-title="USA",US|FU|CCHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/379
+#EXTINF:-1 group-title="USA",US|FU|KPRC
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/380
+#EXTINF:-1 group-title="USA",US|FU|KNBC
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/381
+#EXTINF:-1 group-title="USA",US|FU|BEINENHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/382
+#EXTINF:-1 group-title="USA",US|FU|DSCHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/383
+#EXTINF:-1 group-title="USA",US|FU|FOODNETWORKEAST
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/384
+#EXTINF:-1 group-title="USA",US|FU|CSNBAYAREA
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/385
+#EXTINF:-1 group-title="USA",US|FU|CSNCALIFORNIA
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/386
+#EXTINF:-1 group-title="USA",US|FU|CSNWASHINGTONDC
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/388
+#EXTINF:-1 group-title="USA",US|FU|ANT3HD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/389
+#EXTINF:-1 group-title="USA",US|FU|GALAHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/390
+#EXTINF:-1 group-title="USA",US|FU|NHL-Network
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/391
+#EXTINF:-1 group-title="USA",US|FU|GOLTVEH
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/393
+#EXTINF:-1 group-title="USA",US|FU|MTHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/394
+#EXTINF:-1 group-title="USA",US|FU|MTVCLHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/395
+#EXTINF:-1 group-title="USA",US|FU|MTV2HD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/396
+#EXTINF:-1 group-title="USA",US|FU|PARHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/397
+#EXTINF:-1 group-title="USA",US|FU|SONYHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/398
+#EXTINF:-1 group-title="USA",US|FU|SNY
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/399
+#EXTINF:-1 group-title="USA",US|FU|SYFY
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/400
+#EXTINF:-1 group-title="ENTRETENIMIENTO",US|FU|TELEMUNDO US
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/401
+#EXTINF:-1 group-title="USA",US|FU|BTN
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/402
+#EXTINF:-1 group-title="USA",US|FU|DLCHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/403
+#EXTINF:-1 group-title="USA",US|FU|LA1
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/404
+#EXTINF:-1 group-title="USA",US|FU|LASX
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/405
+#EXTINF:-1 group-title="USA",US|FU|OUTSIDE
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/406
+#EXTINF:-1 group-title="USA",US|FU|SCIHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/407
+#EXTINF:-1 group-title="USA",US|FU|TLCHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/408
+#EXTINF:-1 group-title="USA",US|FU|TYCINTL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/409
+#EXTINF:-1 group-title="USA",US|FU|VH1HD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/410
+#EXTINF:-1 group-title="USA",US|FU|OWSPNHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/411
+#EXTINF:-1 group-title="USA",US|FU|WFNUSHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/412
+#EXTINF:-1 group-title="USA",US|FU|SPROUT
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/413
+#EXTINF:-1 group-title="USA",US|FU|NICJPHD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/414
+#EXTINF:-1 group-title="USA",US|FU|NIKTON
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/415
+#EXTINF:-1 group-title="USA",US|FU|NMZK
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/416
+#EXTINF:-1 group-title="USA",US| ABC Los Angeles
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/425
+#EXTINF:-1 group-title="USA",US| ABC New York
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/426
+#EXTINF:-1 group-title="USA",US| ABC Houston
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/427
+#EXTINF:-1 group-title="USA",US| A&E
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/428
+#EXTINF:-1 group-title="USA",US| CBS Houston
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/429
+#EXTINF:-1 group-title="USA",US| CBS Los Angeles
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/430
+#EXTINF:-1 group-title="USA",US| CBS NY
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/431
+#EXTINF:-1 group-title="USA",US| ESPN ACC Network
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/432
+#EXTINF:-1 group-title="USA",Bally Sports Arizona
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/433
+#EXTINF:-1 group-title="USA",US| Bally Sports West
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/434
+#EXTINF:-1 group-title="USA",US| ESPN Deportes
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/435
+#EXTINF:-1 group-title="USA",US| ESPN U
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/436
+#EXTINF:-1 group-title="USA",US| ESPN 2
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/437
+#EXTINF:-1 group-title="DEPORTES",ES| Eurosport 1
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/438
+#EXTINF:-1 group-title="USA",US| Fox Soccer Plus
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/439
+#EXTINF:-1 group-title="USA",US| SEC ESPN Network
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/440
+#EXTINF:-1 group-title="DEPORTES",UK| F1 Formula 1
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/441
+#EXTINF:-1 group-title="USA",US| YES Network
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/442
+#EXTINF:-1 group-title="USA",US| CNN
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/443
+#EXTINF:-1 group-title="USA",US| Cartoon Network
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/444
+#EXTINF:-1 group-title="USA",US| Disney Jr
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/445
+#EXTINF:-1 group-title="USA",US| Disney Channel
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/446
+#EXTINF:-1 group-title="USA",US| Disney XD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/447
+#EXTINF:-1 group-title="CONOCIMIENTO",HISTORY 2
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/154
+#EXTINF:-1 group-title="USA",US| History
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/448
+#EXTINF:-1 group-title="USA",US| FYI
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/449
+#EXTINF:-1 group-title="USA",US| Lifetime
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/450
+#EXTINF:-1 group-title="USA",US| Nat Geo Wild
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/451
+#EXTINF:-1 group-title="USA",US| PBS Network
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/452
+#EXTINF:-1 group-title="CONOCIMIENTO",US | NATGEO MUNDO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/453
+#EXTINF:-1 group-title="INTERNACIONAL",COL | CANAL CAPITAL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/454
+#EXTINF:-1 group-title="INTERNACIONAL",COL | CARACOL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/455
+#EXTINF:-1 group-title="INTERNACIONAL",COL | CARACOL INTERNACIONAL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/456
+#EXTINF:-1 group-title="INTERNACIONAL",COL| TELECAFE
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/457
+#EXTINF:-1 group-title="KIDS",DISNEY
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/458
+#EXTINF:-1 group-title="ENTRETENIMIENTO", ESTRELLATV
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/459
+#EXTINF:-1 group-title="USA",US | HALLMARK DRAMA
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/460
+#EXTINF:-1 group-title="CONOCIMIENTO",HISTORY EN ESPAÃ‘OL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/461
+#EXTINF:-1 group-title="DEPORTES",CLARO SPORTS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/462
+#EXTINF:-1 group-title="DEPORTES",COL | WIN SPORTS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/463
+#EXTINF:-1 group-title="DEPORTES",AR | GARAGE TV
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/464
+#EXTINF:-1 group-title="USA",US | FOX OHIO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/465
+#EXTINF:-1 group-title="USA",US | WWE
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/466
+#EXTINF:-1 group-title="DEPORTES",COL | DIRECTV SPORTS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/467
+#EXTINF:-1 group-title="DEPORTES",DIRECTV SPORTS PLUS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/469
+#EXTINF:-1 group-title="USA",US | NFL RED ZONE
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/470
+#EXTINF:-1 group-title="USA",US | NESN
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/471
+#EXTINF:-1 group-title="USA",US | NESN PLUS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/472
+#EXTINF:-1 group-title="USA",US | RED BULL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/473
+#EXTINF:-1 group-title="USA",US | SPECTRUM LA
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/474
+#EXTINF:-1 group-title="USA",US | SPORTSNET 360
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/475
+#EXTINF:-1 group-title="USA",|US | UFC FIGHT PASS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/479
+#EXTINF:-1 group-title="USA",US | TELEMUNDO LOS ANGELES
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/480
+#EXTINF:-1 group-title="USA",US 1 TLEEMUNDO LOS ANGELES
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/481
+#EXTINF:-1 group-title="USA",US | TLEEMUNDO MIAMI
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/485
+#EXTINF:-1 group-title="USA",US 1 TELEMUNDO NY
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/486
+#EXTINF:-1 group-title="USA",US | TELEMUNDO TEXAS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/487
+#EXTINF:-1 group-title="USA",US | TELEMUNDO CHICAGO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/483
+#EXTINF:-1 group-title="USA",US | TELEMUNDO DENVER
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/484
+#EXTINF:-1 group-title="USA",US | TELEMUNDO MIAMI
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/488
+#EXTINF:-1 group-title="USA",US | TELEMUNDO SAN FRANCISCO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/482
+#EXTINF:-1 group-title="USA",US | SPORTSNET NY
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/478
+#EXTINF:-1 group-title="USA",US | SPORTSNET ONTARIO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/477
+#EXTINF:-1 group-title="USA",US | SPORTSNET ONE
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/476
+#EXTINF:-1 group-title="USA",US | NATGEO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/490
+#EXTINF:-1 group-title="USA",US | NATIONAL GEOGRAPHIC
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/491
+#EXTINF:-1 group-title="CONOCIMIENTO",NATIONAL GEOGRAPHIC
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/492
+#EXTINF:-1 group-title="USA",US NATGEO WILD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/493
+#EXTINF:-1 group-title="USA",US | UNIVISION ATLANTA
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/494
+#EXTINF:-1 group-title="USA",US | UNIVISION CHICAGO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/495
+#EXTINF:-1 group-title="USA",US | UNIVISION LA
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/497
+#EXTINF:-1 group-title="USA",US 1 UNIVISION NY
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/498
+#EXTINF:-1 group-title="USA",US 1 UNIVISION TEXAS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/499
+#EXTINF:-1 group-title="USA",US | UNIVISION PHONIX
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/500
+#EXTINF:-1 group-title="USA",US | UNIVISION MIAMI
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/496
+#EXTINF:-1 group-title="DEPORTES",US | FOX DEPORTES
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/501
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/502
+#EXTINF:-1 group-title="INTERNACIONAL",FR| TV5 France
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/503
+#EXTINF:-1 group-title="USA",US | HBO COMEDY
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/504
+#EXTINF:-1 group-title="USA",US | HBO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/505
+#EXTINF:-1 group-title="USA",US | HBO ZONE
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/506
+#EXTINF:-1 group-title="USA",US | HBO 2
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/507
+#EXTINF:-1 group-title="USA",US | HBO FAMILY
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/508
+#EXTINF:-1 group-title="USA",US | HBO SIGNATURE
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/509
+#EXTINF:-1 group-title="USA",US | HBO LATINO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/510
+#EXTINF:-1 group-title="USA",US | STARZ ENCORE CLASSIC
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/511
+#EXTINF:-1 group-title="USA",US | STARZ ENCORE WEST
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/512
+#EXTINF:-1 group-title="USA",US | STARZ ENCORE WESTERNS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/513
+#EXTINF:-1 group-title="USA",US | STARZ ENCORE SUSPENSE
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/514
+#EXTINF:-1 group-title="USA",US | STARZ KIDS FAMILY
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/515
+#EXTINF:-1 group-title="USA",US | STARZ ENCORE ACTION
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/516
+#EXTINF:-1 group-title="USA",US | STARZ ENCORE BLACK
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/517
+#EXTINF:-1 group-title="USA",US | STARZ EAST
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/518
+#EXTINF:-1 group-title="USA",US | STARZ ENCORE FAMILY
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/519
+#EXTINF:-1 group-title="USA",US | STARZ CINEMA
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/520
+#EXTINF:-1 group-title="USA",US | STARZ WEST
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/521
+#EXTINF:-1 group-title="USA",US | STARZ ENCORE ESPANOL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/522
+#EXTINF:-1 group-title="USA",US | STARZ ENCORE EAST
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/523
+#EXTINF:-1 group-title="USA",US | STARZ COMEDY
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/524
+#EXTINF:-1 group-title="USA",US| Bloomberg
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/525
+#EXTINF:-1 group-title="INTERNACIONAL",ES| TVE
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/526
+#EXTINF:-1 group-title="USA",US | DISCOVERY FAMILY
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/527
+#EXTINF:-1 group-title="USA",US| TNT
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/528
+#EXTINF:-1 group-title="USA",US | THRILLERMAX
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/570
+#EXTINF:-1 group-title="CINE",GOLDEN
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/571
+#EXTINF:-1 group-title="USA",USA | FXM
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/572
+#EXTINF:-1 group-title="PREMIUM",HBO SIGNATURE
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/573
+#EXTINF:-1 group-title="USA",USA | MOVIEMAX
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/574
+#EXTINF:-1 group-title="USA",USA| SHOWTIME
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/575
+#EXTINF:-1 group-title="USA",USA | SHOWTIME EXTREME
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/576
+#EXTINF:-1 group-title="USA",USA | STARZ ENCORE EDGE
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/578
+#EXTINF:-1 group-title="USA",USA | TBS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/579
+#EXTINF:-1 group-title="USA",USA | STARMAX
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/580
+#EXTINF:-1 group-title="USA",USA | OUTERMAX
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/581
+#EXTINF:-1 group-title="USA",USA | FXX
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/582
+#EXTINF:-1 group-title="24/7",PPV | 030
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/585
+#EXTINF:-1 group-title="24/7",PPV | 031
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/586
+#EXTINF:-1 group-title="24/7",PPV | 032
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/587
+#EXTINF:-1 group-title="24/7",PPV | 033
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/588
+#EXTINF:-1 group-title="24/7",PPV | 034
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/589
+#EXTINF:-1 group-title="24/7",PPV | 035
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/590
+#EXTINF:-1 group-title="24/7",PPV | 036
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/591
+#EXTINF:-1 group-title="24/7",PPV | 037
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/592
+#EXTINF:-1 group-title="24/7",PPV | 038
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/593
+#EXTINF:-1 group-title="24/7",PPV | 039
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/594
+#EXTINF:-1 group-title="DEPORTES",ES | MOVISTAR GOLF
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/596
+#EXTINF:-1 group-title="INTERNACIONAL",PR | WIPR
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/598
+#EXTINF:-1 group-title="INTERNACIONAL",IT | canale 5
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/599
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS PREMIUM MX
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/600
+#EXTINF:-1 group-title="DEPORTES",R_LMB 03
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/601
+#EXTINF:-1 group-title="DEPORTES",LMB Guerreros de Oaxaca
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/602
+#EXTINF:-1 group-title="DEPORTES",LMB Pericos de Puebla
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/603
+#EXTINF:-1 group-title="DEPORTES",R_LMB 07
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/604
+#EXTINF:-1 group-title="DEPORTES",R_LMB 08
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/605
+#EXTINF:-1 group-title="DEPORTES",R_LMB 06
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/606
+#EXTINF:-1 group-title="DEPORTES",R_LMB 09
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/607
+#EXTINF:-1 group-title="DEPORTES",LMB Diablos Rojos del Mexico
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/608
+#EXTINF:-1 group-title="DEPORTES",LMB Aceros de Monclova
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/609
+#EXTINF:-1 group-title="DEPORTES",LMB Generales de Durango
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/610
+#EXTINF:-1 group-title="DEPORTES",R_LMB 04
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/611
+#EXTINF:-1 group-title="DEPORTES",LMB Mariachis de Guadalajara
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/612
+#EXTINF:-1 group-title="DEPORTES",LMB Leones de Yucatan
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/613
+#EXTINF:-1 group-title="DEPORTES",R_LMB 05
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/614
+#EXTINF:-1 group-title="DEPORTES",LMB Algodoneros de Union Laguna
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/615
+#EXTINF:-1 group-title="INTERNACIONAL",BBC UK
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/616
+#EXTINF:-1 group-title="CINE",GOLDEN EDGE
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/617
+#EXTINF:-1 group-title="KIDS",Bit ME
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/618
+#EXTINF:-1 group-title="USA",WETV
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/619
+#EXTINF:-1 group-title="USA",TELEMUNDO LAS VEGAS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/621
+#EXTINF:-1 group-title="USA",TELEMUNDO BOSTON
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/622
+#EXTINF:-1 group-title="USA",TELEMUNDO SACRAMENTO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/623
+#EXTINF:-1 group-title="USA",Lifetime Movie Network
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/624
+#EXTINF:-1 group-title="USA",Paramount
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/625
+#EXTINF:-1 group-title="INTERNACIONAL",RSI Italia La1
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/628
+#EXTINF:-1 group-title="INTERNACIONAL",Tv5 Monde
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/629
+#EXTINF:-1 group-title="INTERNACIONAL",BBC TWO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/630
+#EXTINF:-1 group-title="INFORMACIÓN",cnn internacional
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/631
+#EXTINF:-1 group-title="DEPORTES",LIBRE
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/635
+#EXTINF:-1 group-title="DEPORTES",Liga MX 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/636
+#EXTINF:-1 group-title="DEPORTES",Liga MX 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/637
+#EXTINF:-1 group-title="DEPORTES",Liga MX 03
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/638
+#EXTINF:-1 group-title="DEPORTES",Liga MX 04
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/639
+#EXTINF:-1 group-title="DEPORTES",Liga MX 05
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/640
+#EXTINF:-1 group-title="DEPORTES",Liga MX 07
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/642
+#EXTINF:-1 group-title="DEPORTES",Liga MX 08
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/643
+#EXTINF:-1 group-title="DEPORTES",Liga MX 09
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/644
+#EXTINF:-1 group-title="DEPORTES",Liga MX 10
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/645
+#EXTINF:-1 group-title="DEPORTES",PPVR F1 01 EN
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/646
+#EXTINF:-1 group-title="DEPORTES",PPVR F1 02 ES
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/647
+#EXTINF:-1 group-title="DEPORTES",R_TENNIS 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/648
+#EXTINF:-1 group-title="DEPORTES",R_TENNIS 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/649
+#EXTINF:-1 group-title="DEPORTES",R_EUROPALEAGUE 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/650
+#EXTINF:-1 group-title="DEPORTES",R_EUROPALEAGUE 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/651
+#EXTINF:-1 group-title="DEPORTES",R_EUROPALEAGUE 03
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/652
+#EXTINF:-1 group-title="DEPORTES",R_EUROPALEAGUE 04
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/653
+#EXTINF:-1 group-title="DEPORTES",R_EUROPALEAGUE 05
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/654
+#EXTINF:-1 group-title="DEPORTES",R_EUROPALEAGUE 06
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/655
+#EXTINF:-1 group-title="DEPORTES",R_EUROPALEAGUE 07
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/656
+#EXTINF:-1 group-title="DEPORTES",R_EUROPALEAGUE 08
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/657
+#EXTINF:-1 group-title="DEPORTES",R_EUROPALEAGUE 09
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/658
+#EXTINF:-1 group-title="DEPORTES",R_EUROPALEAGUE 10
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/659
+#EXTINF:-1 group-title="DEPORTES",R_WWE 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/660
+#EXTINF:-1 group-title="DEPORTES",R_MLB 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/661
+#EXTINF:-1 group-title="DEPORTES",R_MLB 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/662
+#EXTINF:-1 group-title="DEPORTES",R_MLB 03
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/663
+#EXTINF:-1 group-title="DEPORTES",R_MLB 04
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/664
+#EXTINF:-1 group-title="DEPORTES",R_MLB 05
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/665
+#EXTINF:-1 group-title="DEPORTES",R_MLB 06
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/666
+#EXTINF:-1 group-title="DEPORTES",R_MLB 07
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/667
+#EXTINF:-1 group-title="DEPORTES",R_MLB 08
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/668
+#EXTINF:-1 group-title="DEPORTES",R_MLB 09
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/669
+#EXTINF:-1 group-title="DEPORTES",R_MLB 10
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/670
+#EXTINF:-1 group-title="DEPORTES",R_MLB 11
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/671
+#EXTINF:-1 group-title="DEPORTES",R_MLB 12
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/672
+#EXTINF:-1 group-title="DEPORTES",R_MLB 13
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/673
+#EXTINF:-1 group-title="DEPORTES",R_MLB 14
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/674
+#EXTINF:-1 group-title="DEPORTES",R_MLB 15
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/675
+#EXTINF:-1 group-title="DEPORTES",R_MLB 16
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/676
+#EXTINF:-1 group-title="DEPORTES",R_MLB 17
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/677
+#EXTINF:-1 group-title="DEPORTES",R_LMB 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/678
+#EXTINF:-1 group-title="DEPORTES",PPVR NFL01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/679
+#EXTINF:-1 group-title="DEPORTES",PPVR NFL02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/680
+#EXTINF:-1 group-title="DEPORTES",R_LaLiga 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/681
+#EXTINF:-1 group-title="DEPORTES",R_LaLiga 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/682
+#EXTINF:-1 group-title="DEPORTES",R_LaLiga 03
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/683
+#EXTINF:-1 group-title="DEPORTES",R_LaLiga 04
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/684
+#EXTINF:-1 group-title="DEPORTES",R_LaLiga 05
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/685
+#EXTINF:-1 group-title="DEPORTES",R_LaLiga 06
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/686
+#EXTINF:-1 group-title="DEPORTES",R_LaLiga 07
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/687
+#EXTINF:-1 group-title="DEPORTES",R_LaLiga 08
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/688
+#EXTINF:-1 group-title="DEPORTES",R_LaLiga 09
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/689
+#EXTINF:-1 group-title="DEPORTES",R_LaLiga 10
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/690
+#EXTINF:-1 group-title="DEPORTES",R_Bundesliga 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/691
+#EXTINF:-1 group-title="DEPORTES",R_Bundesliga 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/692
+#EXTINF:-1 group-title="DEPORTES",R_Bundesliga 03
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/693
+#EXTINF:-1 group-title="DEPORTES",R_Bundesliga 04
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/694
+#EXTINF:-1 group-title="DEPORTES",R_Bundesliga 05
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/695
+#EXTINF:-1 group-title="DEPORTES",R_Bundesliga 06
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/696
+#EXTINF:-1 group-title="DEPORTES",R_Bundesliga 07
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/697
+#EXTINF:-1 group-title="DEPORTES",R_Bundesliga 08
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/698
+#EXTINF:-1 group-title="DEPORTES",R_Bundesliga 09
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/699
+#EXTINF:-1 group-title="DEPORTES",R_Bundesliga 10
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/700
+#EXTINF:-1 group-title="DEPORTES",R_LigaMXFemenil 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/701
+#EXTINF:-1 group-title="DEPORTES",R_LigaMXFemenil 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/702
+#EXTINF:-1 group-title="DEPORTES",R_LigaMXFemenil 03
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/703
+#EXTINF:-1 group-title="DEPORTES",R_LigaMXFemenil 04
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/704
+#EXTINF:-1 group-title="DEPORTES",R_LigaMXFemenil 05
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/705
+#EXTINF:-1 group-title="DEPORTES",R_LigaMXFemenil 06
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/706
+#EXTINF:-1 group-title="DEPORTES",R_NCAA 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/707
+#EXTINF:-1 group-title="DEPORTES",R_NCAA 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/708
+#EXTINF:-1 group-title="DEPORTES",R_NCAA 03
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/709
+#EXTINF:-1 group-title="DEPORTES",R_NCAA 04
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/710
+#EXTINF:-1 group-title="DEPORTES",R_NCAA 05
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/711
+#EXTINF:-1 group-title="DEPORTES",R_NCAA 06
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/712
+#EXTINF:-1 group-title="DEPORTES",R_NCAA 07
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/713
+#EXTINF:-1 group-title="DEPORTES",R_NCAA 08
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/714
+#EXTINF:-1 group-title="DEPORTES",R_NCAA 09
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/715
+#EXTINF:-1 group-title="DEPORTES",R_NCAA 10
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/716
+#EXTINF:-1 group-title="DEPORTES",R_NCAA 11
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/717
+#EXTINF:-1 group-title="DEPORTES",R_NCAA 12
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/718
+#EXTINF:-1 group-title="DEPORTES",R_NCAA 13
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/719
+#EXTINF:-1 group-title="DEPORTES",R_NCAA 14
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/720
+#EXTINF:-1 group-title="DEPORTES",R_NCAA 15
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/721
+#EXTINF:-1 group-title="DEPORTES",PPVR MMA 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/722
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 ARG
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/723
+#EXTINF:-1 group-title="DEPORTES",PPVR UFC
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/724
+#EXTINF:-1 group-title="DEPORTES",PPVR UFC 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/725
+#EXTINF:-1 group-title="DEPORTES",R_SerieA 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/726
+#EXTINF:-1 group-title="DEPORTES",R_SerieA 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/727
+#EXTINF:-1 group-title="DEPORTES",R_SerieA 03
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/728
+#EXTINF:-1 group-title="DEPORTES",R_SerieA 04
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/729
+#EXTINF:-1 group-title="DEPORTES",R_SerieA 05
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/730
+#EXTINF:-1 group-title="DEPORTES",R_SerieA 06
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/731
+#EXTINF:-1 group-title="DEPORTES",R_SerieA 07
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/732
+#EXTINF:-1 group-title="DEPORTES",R_SerieA 08
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/733
+#EXTINF:-1 group-title="DEPORTES",R_SerieA 09
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/734
+#EXTINF:-1 group-title="DEPORTES",R_SerieA 10
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/735
+#EXTINF:-1 group-title="DEPORTES",R_SerieA 11
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/736
+#EXTINF:-1 group-title="DEPORTES",R_Eurocopa 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/737
+#EXTINF:-1 group-title="DEPORTES",R_Ligue 1 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/738
+#EXTINF:-1 group-title="DEPORTES",PPVR_UFC 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/739
+#EXTINF:-1 group-title="DEPORTES",PPVR NFL03
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/740
+#EXTINF:-1 group-title="DEPORTES",PPVR NFL04
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/741
+#EXTINF:-1 group-title="DEPORTES",PPVR NFL05
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/742
+#EXTINF:-1 group-title="DEPORTES",PPVR NFL06
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/743
+#EXTINF:-1 group-title="DEPORTES",PPVR NFL07
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/744
+#EXTINF:-1 group-title="DEPORTES",PPVR NFL08
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/745
+#EXTINF:-1 group-title="DEPORTES",PPVR NFL09
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/746
+#EXTINF:-1 group-title="DEPORTES",PPVR NFL10
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/747
+#EXTINF:-1 group-title="DEPORTES",PPVR NFL11
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/748
+#EXTINF:-1 group-title="DEPORTES",PPVR NFL12
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/749
+#EXTINF:-1 group-title="DEPORTES",PPVR NFL14
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/751
+#EXTINF:-1 group-title="DEPORTES",PPVR NFL15
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/752
+#EXTINF:-1 group-title="DEPORTES",PPVR NFL16
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/753
+#EXTINF:-1 group-title="DEPORTES",PPVR NFL17
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/754
+#EXTINF:-1 group-title="DEPORTES",PPVR NFL RED ZONE HD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/755
+#EXTINF:-1 group-title="DEPORTES",R_Nascar 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/756
+#EXTINF:-1 group-title="DEPORTES",PPVR NFL13
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/750
+#EXTINF:-1 group-title="DEPORTES",R_Champions 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/757
+#EXTINF:-1 group-title="DEPORTES",R_Champions 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/758
+#EXTINF:-1 group-title="DEPORTES",R_Champions 03
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/759
+#EXTINF:-1 group-title="DEPORTES",R_Champions 04
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/760
+#EXTINF:-1 group-title="DEPORTES",R_Champions 05
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/761
+#EXTINF:-1 group-title="DEPORTES",R_Champions 06
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/762
+#EXTINF:-1 group-title="DEPORTES",R_Champions 07
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/763
+#EXTINF:-1 group-title="DEPORTES",R_Champions 08
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/764
+#EXTINF:-1 group-title="DEPORTES",Premier League 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/765
+#EXTINF:-1 group-title="DEPORTES",Premier League 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/766
+#EXTINF:-1 group-title="DEPORTES",PPVR Box 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/767
+#EXTINF:-1 group-title="DEPORTES",PPVR Box 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/768
+#EXTINF:-1 group-title="DEPORTES",R_NCAA 16
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/769
+#EXTINF:-1 group-title="DEPORTES",Premier League 03
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/770
+#EXTINF:-1 group-title="DEPORTES",Premier League 04
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/771
+#EXTINF:-1 group-title="DEPORTES",Premier League 05
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/772
+#EXTINF:-1 group-title="DEPORTES",Premier League 06
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/773
+#EXTINF:-1 group-title="DEPORTES",Premier League 08
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/775
+#EXTINF:-1 group-title="DEPORTES",Premier League 09
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/776
+#EXTINF:-1 group-title="DEPORTES",Premier League 10
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/777
+#EXTINF:-1 group-title="DEPORTES",Premier League 11
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/778
+#EXTINF:-1 group-title="DEPORTES",Premier League 12
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/779
+#EXTINF:-1 group-title="DEPORTES",LongHorn Network
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/780
+#EXTINF:-1 group-title="DEPORTES",R_EXPANSION 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/781
+#EXTINF:-1 group-title="DEPORTES",R_EXPANSION 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/782
+#EXTINF:-1 group-title="DEPORTES",R_EXPANSION 03
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/783
+#EXTINF:-1 group-title="DEPORTES",R_Leagues Cup 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/784
+#EXTINF:-1 group-title="DEPORTES",R_Leagues Cup 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/785
+#EXTINF:-1 group-title="DEPORTES",R_UEFA NATIONS 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/786
+#EXTINF:-1 group-title="DEPORTES",R_UEFA NATIONS 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/787
+#EXTINF:-1 group-title="DEPORTES",R_UEFA NATIONS 03
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/788
+#EXTINF:-1 group-title="DEPORTES",R_UEFA NATIONS 04
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/789
+#EXTINF:-1 group-title="DEPORTES",R_UEFA NATIONS 05
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/790
+#EXTINF:-1 group-title="DEPORTES",R_NCAA 17
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/791
+#EXTINF:-1 group-title="DEPORTES",R_NCAA 18
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/792
+#EXTINF:-1 group-title="DEPORTES",R_NCAA 19
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/793
+#EXTINF:-1 group-title="DEPORTES",R_NCAA 20
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/794
+#EXTINF:-1 group-title="DEPORTES",R_NCAA 21
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/795
+#EXTINF:-1 group-title="DEPORTES",R_GOLF 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/796
+#EXTINF:-1 group-title="DEPORTES",R_NCAA 22
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/797
+#EXTINF:-1 group-title="DEPORTES",R_NCAA 23
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/798
+#EXTINF:-1 group-title="DEPORTES",R_NCAA 24
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/799
+#EXTINF:-1 group-title="DEPORTES",R_NCAA 25
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/800
+#EXTINF:-1 group-title="DEPORTES",R_NCAA 26
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/801
+#EXTINF:-1 group-title="DEPORTES",R_NCAA 27
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/802
+#EXTINF:-1 group-title="DEPORTES",R_NCAA 28
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/803
+#EXTINF:-1 group-title="DEPORTES",R_NCAA 29
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/804
+#EXTINF:-1 group-title="DEPORTES",R_NCAA 30
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/805
+#EXTINF:-1 group-title="DEPORTES",R_Amistoso 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/806
+#EXTINF:-1 group-title="DEPORTES",R_AMISTOSO 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/807
+#EXTINF:-1 group-title="DEPORTES",R_AMISTOSO 03
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/808
+#EXTINF:-1 group-title="DEPORTES",R_AMISTOSO 04
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/809
+#EXTINF:-1 group-title="DEPORTES",R_AMISTOSO 05
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/810
+#EXTINF:-1 group-title="DEPORTES",R_NHL 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/811
+#EXTINF:-1 group-title="DEPORTES",R_NHL 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/812
+#EXTINF:-1 group-title="DEPORTES",R_NHL 03
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/813
+#EXTINF:-1 group-title="DEPORTES",R_NHL 04
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/814
+#EXTINF:-1 group-title="DEPORTES",R_NHL 05
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/815
+#EXTINF:-1 group-title="DEPORTES",R_NHL 06
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/816
+#EXTINF:-1 group-title="DEPORTES",R_NHL 07
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/817
+#EXTINF:-1 group-title="DEPORTES",R_NHL 08
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/818
+#EXTINF:-1 group-title="DEPORTES",R_NHL 09
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/819
+#EXTINF:-1 group-title="DEPORTES",R_NHL 10
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/820
+#EXTINF:-1 group-title="DEPORTES",R_NHL 11
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/821
+#EXTINF:-1 group-title="DEPORTES",R_NHL 12
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/822
+#EXTINF:-1 group-title="DEPORTES",R_NHL 13
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/823
+#EXTINF:-1 group-title="DEPORTES",R_NHL 14
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/824
+#EXTINF:-1 group-title="DEPORTES",R_NHL 15
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/825
+#EXTINF:-1 group-title="DEPORTES",R_NHL 16
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/826
+#EXTINF:-1 group-title="DEPORTES",R_NBA 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/827
+#EXTINF:-1 group-title="DEPORTES",R_NBA 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/828
+#EXTINF:-1 group-title="DEPORTES",R_NBA 03
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/829
+#EXTINF:-1 group-title="DEPORTES",R_NBA 04
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/830
+#EXTINF:-1 group-title="DEPORTES",R_Conference League 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/831
+#EXTINF:-1 group-title="DEPORTES",R_LMP 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/832
+#EXTINF:-1 group-title="DEPORTES",R_LMP 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/833
+#EXTINF:-1 group-title="DEPORTES",R_LMP 03
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/834
+#EXTINF:-1 group-title="DEPORTES",AR | ESPN
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/835
+#EXTINF:-1 group-title="DEPORTES",AR | ESPN 2
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/836
+#EXTINF:-1 group-title="DEPORTES",AR | ESPN 3
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/837
+#EXTINF:-1 group-title="DEPORTES",AR | ESPN +
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/838
+#EXTINF:-1 group-title="DEPORTES",R_LMP 04
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/839
+#EXTINF:-1 group-title="DEPORTES",AR | TNT Sports
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/840
+#EXTINF:-1 group-title="DEPORTES",R_NBA 05
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/841
+#EXTINF:-1 group-title="DEPORTES",R_NBA 06
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/842
+#EXTINF:-1 group-title="DEPORTES",R_NBA 07
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/843
+#EXTINF:-1 group-title="DEPORTES",R_NBA 08
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/844
+#EXTINF:-1 group-title="DEPORTES",R_NBA 09
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/845
+#EXTINF:-1 group-title="DEPORTES",R_NBA 10
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/846
+#EXTINF:-1 group-title="DEPORTES",R_NBA 11
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/847
+#EXTINF:-1 group-title="DEPORTES",R_NBA 12
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/848
+#EXTINF:-1 group-title="DEPORTES",R_AEW 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/849
+#EXTINF:-1 group-title="DEPORTES",R_MLS 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/850
+#EXTINF:-1 group-title="DEPORTES",R_MLS 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/851
+#EXTINF:-1 group-title="DEPORTES",TVG
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/852
+#EXTINF:-1 group-title="DEPORTES",R_NBA 13
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/853
+#EXTINF:-1 group-title="DEPORTES",R_NBA 14
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/854
+#EXTINF:-1 group-title="DEPORTES",R_NBA 15
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/855
+#EXTINF:-1 group-title="DEPORTES",R_Copadelrey 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/868
+#EXTINF:-1 group-title="DEPORTES",R_Copadelrey 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/869
+#EXTINF:-1 group-title="DEPORTES",R_Copadelrey 03
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/870
+#EXTINF:-1 group-title="DEPORTES",R_Copadelrey 04
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/871
+#EXTINF:-1 group-title="DEPORTES",R_Copadelrey 05
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/872
+#EXTINF:-1 group-title="DEPORTES",R_Copadelrey 06
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/873
+#EXTINF:-1 group-title="DEPORTES",R_LMP 05
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/874
+#EXTINF:-1 group-title="DEPORTES",R_AMISTOSO 06
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/875
+#EXTINF:-1 group-title="USA",EPIX EAST HD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/876
+#EXTINF:-1 group-title="USA",US Cinemax
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/877
+#EXTINF:-1 group-title="USA",US FX
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/878
+#EXTINF:-1 group-title="ENTRETENIMIENTO",MX USA
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/879
+#EXTINF:-1 group-title="DEPORTES",AR | FOX SPORTS 1
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/880
+#EXTINF:-1 group-title="DEPORTES",AR | FOX SPORTS 2
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/881
+#EXTINF:-1 group-title="DEPORTES",AR | FOX SPORTS 3
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/882
+#EXTINF:-1 group-title="CONOCIMIENTO",FOOD Network
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/883
+#EXTINF:-1 group-title="ENTRETENIMIENTO",E! Enterteiment
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/884
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Distrito Comedia
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/885
+#EXTINF:-1 group-title="DEPORTES",COL | DIRECTV SPORTS 2
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/468
+#EXTINF:-1 group-title="DEPORTES",R_SupercopaespaÃ±a 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/888
+#EXTINF:-1 group-title="DEPORTES",R_SupercopaespaÃ±a 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/889
+#EXTINF:-1 group-title="DEPORTES",R_ligasaudi 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/891
+#EXTINF:-1 group-title="LOCALES",MX Canal 22
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/894
+#EXTINF:-1 group-title="24/7",PPV | 001
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/895
+#EXTINF:-1 group-title="DEPORTES",R_Caribe 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/896
+#EXTINF:-1 group-title="DEPORTES",R_Caribe 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/897
+#EXTINF:-1 group-title="DEPORTES",R_Caribe 03
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/898
+#EXTINF:-1 group-title="DEPORTES",R_Libertadores 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/899
+#EXTINF:-1 group-title="DEPORTES",R_CONCACAF 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/900
+#EXTINF:-1 group-title="DEPORTES",R_CONCACAF 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/901
+#EXTINF:-1 group-title="DEPORTES",Premier League 07
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/774
+#EXTINF:-1 group-title="DEPORTES",R_FA Cup 04
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/905
+#EXTINF:-1 group-title="DEPORTES",R_FA Cup 03
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/904
+#EXTINF:-1 group-title="DEPORTES",R_FA Cup 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/903
+#EXTINF:-1 group-title="DEPORTES",R_FA Cup 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/902
+#EXTINF:-1 group-title="DEPORTES",R_CONCACAF 03
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/906
+#EXTINF:-1 group-title="DEPORTES",R_Eurocopa 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/907
+#EXTINF:-1 group-title="DEPORTES",R_Eurocopa 03
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/908
+#EXTINF:-1 group-title="DEPORTES",R_EXPANSION 04
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/909
+#EXTINF:-1 group-title="DEPORTES",R_Padel 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/910
+#EXTINF:-1 group-title="DEPORTES",R_INDYCAR 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/911
+#EXTINF:-1 group-title="DEPORTES",bally sports florida
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/912
+#EXTINF:-1 group-title="DEPORTES",bally sports sun
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/913
+#EXTINF:-1 group-title="DEPORTES",bally sports socal
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/914
+#EXTINF:-1 group-title="DEPORTES",bally sports san diego
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/915
+#EXTINF:-1 group-title="DEPORTES",bally sports wisconsin
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/916
+#EXTINF:-1 group-title="DEPORTES",bally sports wisconsin plus
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/917
+#EXTINF:-1 group-title="DEPORTES",bally sports detroit
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/918
+#EXTINF:-1 group-title="DEPORTES",bally sports detroit plus
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/919
+#EXTINF:-1 group-title="DEPORTES",bally sports ohio
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/920
+#EXTINF:-1 group-title="DEPORTES",bally sports ohio plus
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/921
+#EXTINF:-1 group-title="DEPORTES",bally sports southwest
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/922
+#EXTINF:-1 group-title="DEPORTES",bally sports southwest plus
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/923
+#EXTINF:-1 group-title="DEPORTES",bally sports south
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/924
+#EXTINF:-1 group-title="DEPORTES",bally sports southeast
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/925
+#EXTINF:-1 group-title="DEPORTES",bally sports south plus
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/926
+#EXTINF:-1 group-title="DEPORTES",bally sports new orleans
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/927
+#EXTINF:-1 group-title="DEPORTES",bally sports southwest
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/928
+#EXTINF:-1 group-title="DEPORTES",bally sports oklahoma
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/929
+#EXTINF:-1 group-title="DEPORTES",bally sports oklahoma plus
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/930
+#EXTINF:-1 group-title="DEPORTES",bally sports indiana
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/931
+#EXTINF:-1 group-title="DEPORTES",bally sports midwest
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/932
+#EXTINF:-1 group-title="DEPORTES",bally sports midwest plus
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/933
+#EXTINF:-1 group-title="DEPORTES",bally sports north
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/934
+#EXTINF:-1 group-title="DEPORTES",bally sports north plus
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/935
+#EXTINF:-1 group-title="DEPORTES",bally sports arizona
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/936
+#EXTINF:-1 group-title="DEPORTES",bally sports arizona plus
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/937
+#EXTINF:-1 group-title="DEPORTES",bally sports san diego
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/938
+#EXTINF:-1 group-title="DEPORTES",bally sports kansas city
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/939
+#EXTINF:-1 group-title="DEPORTES",bally sports kansas city plus
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/940
+#EXTINF:-1 group-title="DEPORTES",R_LMB 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/941
+#EXTINF:-1 group-title="DEPORTES",FMLB LA Angels
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/942
+#EXTINF:-1 group-title="DEPORTES",FMLB Chicago cubs
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/943
+#EXTINF:-1 group-title="DEPORTES",FMLB Arizona Diamonds
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/944
+#EXTINF:-1 group-title="DEPORTES",FMLB Baltimore Orioles
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/945
+#EXTINF:-1 group-title="DEPORTES",FMLB Boston red sox
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/946
+#EXTINF:-1 group-title="DEPORTES",FMLB Chicago White sox
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/947
+#EXTINF:-1 group-title="DEPORTES",FMLB Cleveland Guardians
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/948
+#EXTINF:-1 group-title="DEPORTES",FMLB Colorado Rockies
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/949
+#EXTINF:-1 group-title="DEPORTES",FMLB Washington Nationals
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/950
+#EXTINF:-1 group-title="DEPORTES",FMLB Detroit Tigers
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/951
+#EXTINF:-1 group-title="DEPORTES",FMLB Miami Marlins
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/952
+#EXTINF:-1 group-title="DEPORTES",FMLB Houston Astros
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/953
+#EXTINF:-1 group-title="DEPORTES",FMLB LA Dodgers
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/954
+#EXTINF:-1 group-title="DEPORTES",FMLB New York mets
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/955
+#EXTINF:-1 group-title="DEPORTES",FMLB Minnesota Twins
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/956
+#EXTINF:-1 group-title="DEPORTES",FMLB New York Yankees
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/957
+#EXTINF:-1 group-title="DEPORTES",FMLB Oakland Athletics
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/958
+#EXTINF:-1 group-title="DEPORTES",FMLB Pittsburgh Pirates
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/959
+#EXTINF:-1 group-title="DEPORTES",FMLB San Diego Padres
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/960
+#EXTINF:-1 group-title="DEPORTES",FMLB San Francisco Giants
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/961
+#EXTINF:-1 group-title="DEPORTES",FMLB Seattle Mariners
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/962
+#EXTINF:-1 group-title="DEPORTES",FMLB St. Louis Cardinals
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/963
+#EXTINF:-1 group-title="DEPORTES",FMLB Tampa Bay Rays
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/964
+#EXTINF:-1 group-title="DEPORTES",FMLB Texas Rangers
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/965
+#EXTINF:-1 group-title="DEPORTES",FMLB Toronto Blue Jays
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/966
+#EXTINF:-1 group-title="DEPORTES",FMLB Cincinnati Reds
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/967
+#EXTINF:-1 group-title="DEPORTES",FMLB Philadelphia Phillies
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/968
+#EXTINF:-1 group-title="DEPORTES",FMLB Kansas City Royals
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/969
+#EXTINF:-1 group-title="DEPORTES",FMLB Milwaukee Brewers
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/970
+#EXTINF:-1 group-title="DEPORTES",FMLB Atlanta Braves
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/971
+#EXTINF:-1 group-title="DEPORTES",R_Ciclismo 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/973
+#EXTINF:-1 group-title="DEPORTES",R_MLS 03
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/981
+#EXTINF:-1 group-title="DEPORTES",R_MLS 04
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/982
+#EXTINF:-1 group-title="DEPORTES",R_MLS 05
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/983
+#EXTINF:-1 group-title="DEPORTES",R_MLS 06
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/984
+#EXTINF:-1 group-title="DEPORTES",R_MLS 07
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/985
+#EXTINF:-1 group-title="DEPORTES",R_MLS 08
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/986
+#EXTINF:-1 group-title="DEPORTES",R_MLS 09
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/987
+#EXTINF:-1 group-title="DEPORTES",R_MLS 10
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/988
+#EXTINF:-1 group-title="DEPORTES",R_MLS 11
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/989
+#EXTINF:-1 group-title="DEPORTES",R_MLS 12
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/990
+#EXTINF:-1 group-title="DEPORTES",Liga mx 06
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/991
+#EXTINF:-1 group-title="DEPORTES",R_CONCACAF 04
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/998
+#EXTINF:-1 group-title="LOCALES",MX - ADN 40
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1000
+#EXTINF:-1 group-title="LOCALES REGIONALES",MX - Azteca Noreste
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1001
+#EXTINF:-1 group-title="INTERNACIONAL",DW Latino
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1002
+#EXTINF:-1 group-title="INFORMACIÓN",NMas Media
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1003
+#EXTINF:-1 group-title="LOCALES",Canal once
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1004
+#EXTINF:-1 group-title="LOCALES REGIONALES",Canal 28 Nuevo Leon
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1015
+#EXTINF:-1 group-title="DEPORTES",R_Primeiraliga 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1016
+#EXTINF:-1 group-title="USA",The CW - San Francisco KBCW
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1017
+#EXTINF:-1 group-title="USA",The CW - Detroit WKBD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1018
+#EXTINF:-1 group-title="USA",The CW - Philadelphia WPSG
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1019
+#EXTINF:-1 group-title="DEPORTES",ESPN PLUS 001
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1042
+#EXTINF:-1 group-title="DEPORTES",ESPN PLUS 002
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1043
+#EXTINF:-1 group-title="DEPORTES",ESPN PLUS 003
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1044
+#EXTINF:-1 group-title="DEPORTES",ESPN PLUS 004
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1045
+#EXTINF:-1 group-title="DEPORTES",ESPN PLUS 005
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1046
+#EXTINF:-1 group-title="DEPORTES",ESPN PLUS 006
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1047
+#EXTINF:-1 group-title="DEPORTES",ESPN PLUS 007
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1048
+#EXTINF:-1 group-title="DEPORTES",ESPN PLUS 008
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1049
+#EXTINF:-1 group-title="DEPORTES",ESPN PLUS 009
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1050
+#EXTINF:-1 group-title="DEPORTES",ESPN PLUS 010
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1051
+#EXTINF:-1 group-title="DEPORTES",ESPN PLUS 011
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1052
+#EXTINF:-1 group-title="DEPORTES",ESPN PLUS 012
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1053
+#EXTINF:-1 group-title="DEPORTES",ESPN PLUS 013
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1054
+#EXTINF:-1 group-title="DEPORTES",ESPN PLUS 014
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1055
+#EXTINF:-1 group-title="DEPORTES",ESPN PLUS 015
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1056
+#EXTINF:-1 group-title="DEPORTES",R_Conmebol 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1057
+#EXTINF:-1 group-title="DEPORTES",R_Conmebol 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1058
+#EXTINF:-1 group-title="DEPORTES",R_Conmebol 03
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1059
+#EXTINF:-1 group-title="DEPORTES",R_Conmebol 05
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1061
+#EXTINF:-1 group-title="DEPORTES",Great American Country
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1062
+#EXTINF:-1 group-title="DEPORTES",ESPN PLUS 016
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1063
+#EXTINF:-1 group-title="DEPORTES",ESPN PLUS 017
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1064
+#EXTINF:-1 group-title="DEPORTES",ESPN PLUS 018
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1065
+#EXTINF:-1 group-title="DEPORTES",ESPN PLUS 019
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1066
+#EXTINF:-1 group-title="DEPORTES",ESPN PLUS 020
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1067
+#EXTINF:-1 group-title="DEPORTES",ESPN PLUS 021
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1068
+#EXTINF:-1 group-title="DEPORTES",ESPN PLUS 022
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1069
+#EXTINF:-1 group-title="DEPORTES",ESPN PLUS 023
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1070
+#EXTINF:-1 group-title="DEPORTES",ESPN PLUS 024
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1071
+#EXTINF:-1 group-title="DEPORTES",ESPN PLUS 025
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1072
+#EXTINF:-1 group-title="DEPORTES",ESPN PLUS 026
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1073
+#EXTINF:-1 group-title="DEPORTES",ESPN PLUS 027
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1074
+#EXTINF:-1 group-title="DEPORTES",ESPN PLUS 028
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1075
+#EXTINF:-1 group-title="DEPORTES",ESPN PLUS 029
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1076
+#EXTINF:-1 group-title="DEPORTES",ESPN PLUS 030
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1077
+#EXTINF:-1 group-title="DEPORTES",FOX Deportes FUBO
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1078
+#EXTINF:-1 group-title="DEPORTES",fuente fubo US|FU|SMITH_HD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/1094
 
 
 
