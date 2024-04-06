@@ -227,6 +227,14 @@ https://ythls-v2.onrender.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
 #EXTINF:-1 group-title="Bics Extra Internacional", CL: CANAL 13
 #EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg.m3u8
+************* pepe *******************
+#EXTINF:-1 group-title="Bics Extra Internacional", EC: ECUAVISA
+#EXTVLCOPT--http-reconnect=true
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
+************ bodega *******************
+#EXTINF:-1 group-title="Bics Extra Internacional", PE: PANAMERICANA
+#EXTVLCOPT--http-reconnect=true
+https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 
 ********************************************* CANALES REGIONALES Y YOUTUBE  ********************************************************************************
 
