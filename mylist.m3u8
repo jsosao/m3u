@@ -222,12 +222,12 @@ https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 #EXTINF:-1 group-title="Bics Extra Internacional", PAN: TV  Max
 #EXTVLCOPT--http-reconnect=true
 http://138.59.177.34:8000/play/a064/index.m3u8
-#EXTINF:-1 group-title="Bics Extra Internacional", ARG: TELEFE
+#EXTINF:-1 group-title="Bics Extra Internacional", ARG: TELEFE ROSARIO
 #EXTVLCOPT--http-reconnect=true
-https://ythls-v2.onrender.com/channel/UCHc3el42hXKKhjs_1vzWk9A.m3u8
-#EXTINF:-1 group-title="Bics Extra Internacional", ECU: ECUAVISA
+https://ythls-v2.onrender.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
+#EXTINF:-1 group-title="Bics Extra Internacional", CL: CANAL 13
 #EXTVLCOPT--http-reconnect=true
-https://ythls-v2.onrender.com/channel/UC0okuxxQzjTFtdV3koO_Tjw.m3u8
+https://ythls-v2.onrender.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg.m3u8
 
 ********************************************* CANALES REGIONALES Y YOUTUBE  ********************************************************************************
 
@@ -345,6 +345,13 @@ https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 https://ythls-v2.onrender.com/channel/UCe3Ev4a4Sm9L5aO9sJJ_WXw.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", AYM SPORTS
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", CO: WIN SPORTS
+#EXTVLCOPT--http-reconnect=true
+https://ythls-v2.onrender.com/channel/UCZjpA3YBPXvJv3pg4SPEjfw.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", MX: DIABLOS ROJOS
+#EXTVLCOPT--http-reconnect=true
+https://ythls-v2.onrender.com/channel/UCbPTmPbmSO-BYGCMHm77RUg.m3u8
+
 
 #EXTINF:-1 group-title="Bics DEPORTES", BEiN SPORT
 #EXTVLCOPT--http-reconnect=true
