@@ -18,18 +18,18 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8
 ***** https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS MX
+#EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 ***** https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 ***** https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
 ***** https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS MX
+#EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS
 #EXTVLCOPT--http-reconnect=true
 https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS MX -1HR
+#EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS -1HR
 #EXTVLCOPT--http-reconnect=true
 https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS MX -2HR
+#EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS -2HR
 #EXTVLCOPT--http-reconnect=true
 https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS LATAM
@@ -471,15 +471,15 @@ https://linear-386.frequency.stream/mt/studio/386/hls/master/playlist.m3u8
 
 *************************************************   rasta   *********************************************************************************************
 
-#EXTINF:-1 group-title="Bics Extra FANTASTIC",ANIMAL PLANET
+#EXTINF:-1 group-title="Bics Extra FANTASTIC", ANIMAL PLANET
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/2
-#EXTINF:-1 group-title="Bics", MX:AZTECA 7
+#EXTINF:-1 group-title="Bics", MX: AZTECA 7
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/4
 #EXTINF:-1 group-title="Bics Extra FANTASTIC",CARTOONITO
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/5
-#EXTINF:-1 group-title="Bics", MX:Canal 5
+#EXTINF:-1 group-title="Bics", MX: Canal 5
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/7
-#EXTINF:-1 group-title="Bics", MX:CANAL 9
+#EXTINF:-1 group-title="Bics", MX: CANAL 9
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/8
 #EXTINF:-1 group-title="Bics Extra FANTASTIC",CARTOON NETWORK
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/9
@@ -747,207 +747,207 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/182
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/183
 #EXTINF:-1 group-title="Bics Extra US",TSN SPORTS 5
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/184
-#EXTINF:-1 group-title="Bics Extra US",US:FU|TENISHD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | TENISHD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/306
-#EXTINF:-1 group-title="Bics Extra US",US:FU|ATTSPORTSNETSW
+#EXTINF:-1 group-title="Bics Extra US",US: FU | ATTSPORTSNETSW
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/307
-#EXTINF:-1 group-title="Bics Extra US",US:FU|HGTVEAST
+#EXTINF:-1 group-title="Bics Extra US",US: FU | HGTVEAST
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/308
-#EXTINF:-1 group-title="Bics Extra FANTASTIC",US:FU|FOROTV
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",US: FU | FOROTV
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/309
-#EXTINF:-1 group-title="Bics Extra US",US:FU|FS2
+#EXTINF:-1 group-title="Bics Extra US",US: FU | FS2
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/310
-#EXTINF:-1 group-title="Bics Extra US",US:FU|BEINSPAHD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | BEINSPAHD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/312
-#EXTINF:-1 group-title="Bics Extra US",US:FU|FOX_BUSINESS
+#EXTINF:-1 group-title="Bics Extra US",US: FU | FOX_BUSINESS
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/313
-#EXTINF:-1 group-title="Bics Extra US",US:FU|MSNBC
+#EXTINF:-1 group-title="Bics Extra US",US: FU | MSNBC
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/314
-#EXTINF:-1 group-title="Bics Extra US",US:FU|KSWB FOX Network
+#EXTINF:-1 group-title="Bics Extra US",US: FU | KSWB FOX Network
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/315
-#EXTINF:-1 group-title="Bics Extra US",US:FU|KWKT FOX Network
+#EXTINF:-1 group-title="Bics Extra US",US: FU | KWKT FOX Network
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/316
-#EXTINF:-1 group-title="Bics Extra US",US:FU|CNBCWORLD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | CNBCWORLD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/317
-#EXTINF:-1 group-title="Bics Extra US",US:FU|BBCWN
+#EXTINF:-1 group-title="Bics Extra US",US: FU | BBCWN
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/318
-#EXTINF:-1 group-title="Bics Extra US",US:FU|DIYNETWORKUSA
+#EXTINF:-1 group-title="Bics Extra US",US: FU | DIYNETWORKUSA
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/319
-#EXTINF:-1 group-title="Bics Extra US",US:FU|HALLMARK
+#EXTINF:-1 group-title="Bics Extra US",US: FU | HALLMARK
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/320
-#EXTINF:-1 group-title="Bics Extra US",US:FU|WNBC
+#EXTINF:-1 group-title="Bics Extra US",US: FU | WNBC
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/321
-#EXTINF:-1 group-title="Bics Extra US",US:FU|NFLNET
+#EXTINF:-1 group-title="Bics Extra US",US: FU | NFLNET
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/322
-#EXTINF:-1 group-title="Bics Extra US",US:FU|ENTERTAINMENT
+#EXTINF:-1 group-title="Bics Extra US",US: FU | ENTERTAINMENT
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/323
-#EXTINF:-1 group-title="Bics Extra US",US:FU|DSCE
+#EXTINF:-1 group-title="Bics Extra US",US: FU | DSCE
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/324
-#EXTINF:-1 group-title="Bics Extra US",US:FU|RAII
+#EXTINF:-1 group-title="Bics Extra US",US: FU | RAII
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/325
-#EXTINF:-1 group-title="Bics Extra US",US:FU|CSNNORTHEAST
+#EXTINF:-1 group-title="Bics Extra US",US: FU | CSNNORTHEAST
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/326
-#EXTINF:-1 group-title="Bics Extra US",US:FU|CSNCHICAGO
+#EXTINF:-1 group-title="Bics Extra US",US: FU | CSNCHICAGO
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/327
-#EXTINF:-1 group-title="Bics Extra US",US:FU|CSNPHILLY
+#EXTINF:-1 group-title="Bics Extra US",US: FU | CSNPHILLY
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/328
-#EXTINF:-1 group-title="Bics Extra US",US:FU|BEIN2
+#EXTINF:-1 group-title="Bics Extra US",US: FU | BEIN2
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/329
-#EXTINF:-1 group-title="Bics Extra US",US:FU|BETHD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | BETHD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/330
-#EXTINF:-1 group-title="Bics Extra US",US:FU|MSG
+#EXTINF:-1 group-title="Bics Extra US",US: FU | MSG
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/331
-#EXTINF:-1 group-title="Bics Extra FANTASTIC",US:FU|UNIHD
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",US: FU | UNIHD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/332
-#EXTINF:-1 group-title="Bics Extra US",US:FU|GOLTVSHD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | GOLTVSHD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/333
-#EXTINF:-1 group-title="Bics Extra US",US:FU|MAVTVHD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | MAVTVHD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/334
-#EXTINF:-1 group-title="Bics Extra US",US:FU|MTVHD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | MTVHD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/335
-#EXTINF:-1 group-title="Bics Extra US",US:FU|MTVLIVE
+#EXTINF:-1 group-title="Bics Extra US",US: FU | MTVLIVE
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/336
-#EXTINF:-1 group-title="Bics DEPORTES",US:FU|TUDN
+#EXTINF:-1 group-title="Bics DEPORTES",US: FU | TUDN
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/337
-#EXTINF:-1 group-title="Bics Extra US",US:FU|SMITH_HD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | SMITH_HD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/338
-#EXTINF:-1 group-title="Bics Extra US",US:FU|SPMNHD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | SPMNHD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/339
-#EXTINF:-1 group-title="Bics Extra US",US:FU|SUNDANCE
+#EXTINF:-1 group-title="Bics Extra US",US: FU | SUNDANCE
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/340
-#EXTINF:-1 group-title="Bics Extra US",US:FU|TNCKHD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | TNCKHD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/341
-#EXTINF:-1 group-title="Bics Extra US",US:FU|BHERHD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | BHERHD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/342
-#EXTINF:-1 group-title="Bics Extra US",US:FU|DFCHD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | DFCHD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/343
-#EXTINF:-1 group-title="Bics Extra US",US:FU|IDHD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | IDHD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/344
-#EXTINF:-1 group-title="Bics Extra US",US:FU|LA2
+#EXTINF:-1 group-title="Bics Extra US",US: FU | LA2
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/345
-#EXTINF:-1 group-title="Bics Extra US",US:FU|OUTHD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | OUTHD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/346
-#EXTINF:-1 group-title="Bics Extra US",US:FU|OWNHD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | OWNHD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/347
-#EXTINF:-1 group-title="Bics Extra US",US:FU|FNHD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | FNHD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/348
-#EXTINF:-1 group-title="Bics Extra US",US:FU|TRAVELCHANNELEAST
+#EXTINF:-1 group-title="Bics Extra US",US: FU | TRAVELCHANNELEAST
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/349
-#EXTINF:-1 group-title="Bics Extra US",US:FU|USANETWORK
+#EXTINF:-1 group-title="Bics Extra US",US: FU | USANETWORK
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/350
-#EXTINF:-1 group-title="Bics Extra US",US:FU|COZI
+#EXTINF:-1 group-title="Bics Extra US",US: FU | COZI
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/351
-#EXTINF:-1 group-title="Bics Extra US",US:FU|GSN
+#EXTINF:-1 group-title="Bics Extra US",US: FU | GSN
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/352
-#EXTINF:-1 group-title="Bics Extra US",US:FU|UNIMHD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | UNIMHD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/353
-#EXTINF:-1 group-title="Bics Extra US",US:FU|UNIVERSO
+#EXTINF:-1 group-title="Bics Extra US",US: FU | UNIVERSO
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/354
-#EXTINF:-1 group-title="Bics Extra US",US:FU|NIKHD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | NIKHD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/355
-#EXTINF:-1 group-title="Bics Extra US",US:FU|CMTVHD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | CMTVHD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/356
-#EXTINF:-1 group-title="Bics Extra US",US:FU|TUDNX2
+#EXTINF:-1 group-title="Bics Extra US",US: FU | TUDNX2
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/360
-#EXTINF:-1 group-title="Bics Extra US",US:FU|FNETTV
+#EXTINF:-1 group-title="Bics Extra US",US: FU | FNETTV
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/365
-#EXTINF:-1 group-title="Bics Extra US",US:FU|AMC
+#EXTINF:-1 group-title="Bics Extra US",US: FU | AMC
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/366
-#EXTINF:-1 group-title="Bics Extra US",US:FU|GOLFCHANNEL
+#EXTINF:-1 group-title="Bics Extra US",US: FU | GOLFCHANNEL
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/367
-#EXTINF:-1 group-title="Bics Extra US",US:FU|BRAVO
+#EXTINF:-1 group-title="Bics Extra US",US: FU | BRAVO
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/368
-#EXTINF:-1 group-title="Bics Extra US",US:FU|FS1
+#EXTINF:-1 group-title="Bics Extra US",US: FU | FS1
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/369
-#EXTINF:-1 group-title="Bics Extra US",US:FU|CBSSN
+#EXTINF:-1 group-title="Bics Extra US",US: FU | CBSSN
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/370
-#EXTINF:-1 group-title="Bics Extra US",US:FU|NBATV
+#EXTINF:-1 group-title="Bics Extra US",US: FU | NBATV
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/371
-#EXTINF:-1 group-title="Bics Extra US",US:FU|APLHD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | APLHD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/372
-#EXTINF:-1 group-title="Bics Extra US",US:FU|FOX_NEWS
+#EXTINF:-1 group-title="Bics Extra US",US: FU | FOX_NEWS
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/373
-#EXTINF:-1 group-title="Bics Extra US",US:FU|WEATHHD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | WEATHHD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/374
-#EXTINF:-1 group-title="Bics Extra US",US:FU|WXXA FOX Network
+#EXTINF:-1 group-title="Bics Extra US",US: FU | WXXA FOX Network
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/375
-#EXTINF:-1 group-title="Bics Extra US",US:FU|CNBC
+#EXTINF:-1 group-title="Bics Extra US",US: FU | CNBC
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/376
-#EXTINF:-1 group-title="Bics Extra US",US:FU|BBCA
+#EXTINF:-1 group-title="Bics Extra US",US: FU | BBCA
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/377
-#EXTINF:-1 group-title="Bics Extra US",US:FU|COOKINGCHANNEL
+#EXTINF:-1 group-title="Bics Extra US",US: FU | COOKINGCHANNEL
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/378
-#EXTINF:-1 group-title="Bics Extra US",US:FU|CCHD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | CCHD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/379
-#EXTINF:-1 group-title="Bics Extra US",US:FU|KPRC
+#EXTINF:-1 group-title="Bics Extra US",US: FU | KPRC
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/380
-#EXTINF:-1 group-title="Bics Extra US",US:FU|KNBC
+#EXTINF:-1 group-title="Bics Extra US",US: FU | KNBC
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/381
-#EXTINF:-1 group-title="Bics Extra US",US:FU|BEINENHD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | BEINENHD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/382
-#EXTINF:-1 group-title="Bics Extra US",US:FU|DSCHD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | DSCHD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/383
-#EXTINF:-1 group-title="Bics Extra US",US:FU|FOODNETWORKEAST
+#EXTINF:-1 group-title="Bics Extra US",US: FU | FOODNETWORKEAST
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/384
-#EXTINF:-1 group-title="Bics Extra US",US:FU|CSNBAYAREA
+#EXTINF:-1 group-title="Bics Extra US",US: FU | CSNBAYAREA
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/385
-#EXTINF:-1 group-title="Bics Extra US",US:FU|CSNCALIFORNIA
+#EXTINF:-1 group-title="Bics Extra US",US: FU | CSNCALIFORNIA
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/386
-#EXTINF:-1 group-title="Bics Extra US",US:FU|CSNWASHINGTONDC
+#EXTINF:-1 group-title="Bics Extra US",US: FU | CSNWASHINGTONDC
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/388
-#EXTINF:-1 group-title="Bics Extra US",US:FU|ANT3HD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | ANT3HD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/389
-#EXTINF:-1 group-title="Bics Extra US",US:FU|GALAHD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | GALAHD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/390
-#EXTINF:-1 group-title="Bics Extra US",US:FU|NHL-Network
+#EXTINF:-1 group-title="Bics Extra US",US: FU | NHL-Network
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/391
-#EXTINF:-1 group-title="Bics Extra US",US:FU|GOLTVEH
+#EXTINF:-1 group-title="Bics Extra US",US: FU | GOLTVEH
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/393
-#EXTINF:-1 group-title="Bics Extra US",US:FU|MTHD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | MTHD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/394
-#EXTINF:-1 group-title="Bics Extra US",US:FU|MTVCLHD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | MTVCLHD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/395
-#EXTINF:-1 group-title="Bics Extra US",US:FU|MTV2HD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | MTV2HD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/396
-#EXTINF:-1 group-title="Bics Extra US",US:FU|PARHD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | PARHD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/397
-#EXTINF:-1 group-title="Bics Extra US",US:FU|SONYHD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | SONYHD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/398
-#EXTINF:-1 group-title="Bics Extra US",US:FU|SNY
+#EXTINF:-1 group-title="Bics Extra US",US: FU | SNY
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/399
-#EXTINF:-1 group-title="Bics Extra US",US:FU|SYFY
+#EXTINF:-1 group-title="Bics Extra US",US: FU | SYFY
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/400
-#EXTINF:-1 group-title="Bics Extra FANTASTIC",US:FU|TELEMUNDO US
+#EXTINF:-1 group-title="Bics Extra FANTASTIC",US: FU | TELEMUNDO US
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/401
-#EXTINF:-1 group-title="Bics Extra US",US:FU|BTN
+#EXTINF:-1 group-title="Bics Extra US",US: FU | BTN
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/402
-#EXTINF:-1 group-title="Bics Extra US",US:FU|DLCHD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | DLCHD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/403
-#EXTINF:-1 group-title="Bics Extra US",US:FU|LA1
+#EXTINF:-1 group-title="Bics Extra US",US: FU | LA1
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/404
-#EXTINF:-1 group-title="Bics Extra US",US:FU|LASX
+#EXTINF:-1 group-title="Bics Extra US",US: FU | LASX
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/405
-#EXTINF:-1 group-title="Bics Extra US",US:FU|OUTSIDE
+#EXTINF:-1 group-title="Bics Extra US",US: FU | OUTSIDE
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/406
-#EXTINF:-1 group-title="Bics Extra US",US:FU|SCIHD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | SCIHD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/407
-#EXTINF:-1 group-title="Bics Extra US",US:FU|TLCHD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | TLCHD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/408
-#EXTINF:-1 group-title="Bics Extra US",US:FU|TYCINTL
+#EXTINF:-1 group-title="Bics Extra US",US: FU | TYCINTL
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/409
-#EXTINF:-1 group-title="Bics Extra US",US:FU|VH1HD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | VH1HD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/410
-#EXTINF:-1 group-title="Bics Extra US",US:FU|OWSPNHD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | OWSPNHD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/411
-#EXTINF:-1 group-title="Bics Extra US",US:FU|WFNUSHD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | WFNUSHD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/412
-#EXTINF:-1 group-title="Bics Extra US",US:FU|SPROUT
+#EXTINF:-1 group-title="Bics Extra US",US: FU | SPROUT
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/413
-#EXTINF:-1 group-title="Bics Extra US",US:FU|NICJPHD
+#EXTINF:-1 group-title="Bics Extra US",US: FU | NICJPHD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/414
-#EXTINF:-1 group-title="Bics Extra US",US:FU|NIKTON
+#EXTINF:-1 group-title="Bics Extra US",US: FU | NIKTON
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/415
-#EXTINF:-1 group-title="Bics Extra US",US:FU|NMZK
+#EXTINF:-1 group-title="Bics Extra US",US: FU | NMZK
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/416
 #EXTINF:-1 group-title="Bics Extra US",US: ABC Los Angeles
 https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/425
