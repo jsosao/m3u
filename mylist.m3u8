@@ -191,20 +191,20 @@ https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 
 *******************************************************************************************************************************************************************
 
-#EXTINF:-1 group-title="Bics Extra LAT", CANAL 57 USA
+#EXTINF:-1 group-title="Bics Extra Internacional", CANAL 57 USA
 #EXTVLCOPT--http-reconnect=true
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Bics Extra LAT", UNIVISION LATAM
+#EXTINF:-1 group-title="Bics Extra Internacional", UNIVISION LATAM
 #EXTVLCOPT--http-reconnect=true
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 ************  pepe **************************
-#EXTINF:-1 group-title="Bics Extra LAT", UNIVISION PR
+#EXTINF:-1 group-title="Bics Extra Internacional", UNIVISION PR
 #EXTVLCOPT--http-reconnect=true
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
-#EXTINF:-1 group-title="Bics Extra LAT", TELEMUNDO PR
+#EXTINF:-1 group-title="Bics Extra Internacional", TELEMUNDO PR
 #EXTVLCOPT--http-reconnect=true
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-#EXTINF:-1 group-title="Bics Extra LAT", TELEMUNDO LATAM
+#EXTINF:-1 group-title="Bics Extra Internacional", TELEMUNDO LATAM
 #EXTVLCOPT--http-reconnect=true
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65880
 
@@ -213,44 +213,10 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65880
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 ***************  emilio ***************
-#EXTINF:-1 group-title="Bics Extra US", TELEMUNDO 2 US
-#EXTVLCOPT--http-reconnect=true
-http://cineplay.vip:8080/Alejandro26/QKs9QgCEvE/97703
-
 
 #EXTINF:-1 group-title="Bics Extra US", TELEMUNDO US
 #EXTVLCOPT--http-reconnect=true
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
-
-#EXTINF:-1 group-title="Bics Extra US", TELEMUNDO US (East)
-#EXTVLCOPT--http-reconnect=true
-http://supersonictv.live:8080/Eddie8523/Whitehead83/10548
-#EXTINF:-1 group-title="Bics Extra US", TELEMUNDO US (West)
-#EXTVLCOPT--http-reconnect=true
-http://supersonictv.live:8080/Eddie8523/Whitehead83/10549
-#EXTINF:-1 group-title="Bics Extra US", NBC TELEMUNDO US
-#EXTVLCOPT--http-reconnect=true
-http://supersonictv.live:8080/Eddie8523/Whitehead83/10550
-
-#EXTINF:-1 group-title="Bics Extra US", UNIVISION US Network
-#EXTVLCOPT--http-reconnect=true
-http://supersonictv.live:8080/Eddie8523/Whitehead83/10584
-#EXTINF:-1 group-title="Bics Extra US", UNIVISION US West
-#EXTVLCOPT--http-reconnect=true
-http://supersonictv.live:8080/Eddie8523/Whitehead83/10585
-
-#EXTINF:-1 group-title="Bics Extra US", ABC Atlanta WSB
-#EXTVLCOPT--http-reconnect=true
-http://supersonictv.live:8080/Eddie8523/Whitehead83/71290
-#EXTINF:-1 group-title="Bics Extra US", CBS Atlanta
-#EXTVLCOPT--http-reconnect=true
-http://supersonictv.live:8080/Eddie8523/Whitehead83/71291
-#EXTINF:-1 group-title="Bics Extra US", Fox Atlanta WAGA
-#EXTVLCOPT--http-reconnect=true
-http://supersonictv.live:8080/Eddie8523/Whitehead83/71292
-#EXTINF:-1 group-title="Bics Extra US", NBC Atlanta WXIA#EXTVLCOPT--http-reconnect=true
-http://supersonictv.live:8080/Eddie8523/Whitehead83/71293
-
 
 #EXTINF:-1 group-title="Bics Extra Internacional", TV  Max
 #EXTVLCOPT--http-reconnect=true
