@@ -26,6 +26,10 @@ https://csm-e-cetubiausw2live204-034c6ab58f0258ded.csm.tubi.video/csm/live/63295
 #EXTVLCOPT--http-reconnect=true
 https://csm-e-cetubiausw2live204-03216cdcad4f76b17.csm.tubi.video/csm/live/653193176/1.m3u8;jsessionid=91BCC2BA561141F9E4C2969A08814EA4.csm-e-cetubiausw2live204-03216cdcad4f76b17.csm.tubi.video?playback_start_ts=1712513758&yo.ap=https://lna.tubi.video/prd-yospace/&yo.t.jt=1000&app_id=tubitv&app_mode=DEFAULT_MODE&content_id=613695&content_type=mp4&device_id=944012bf-4505-4cbf-9eef-9ca62eeb8e59&language=en&now_pos=0&platform=WEB&pub_id=8b1d1d56f624b05850f2e4514d080bf1&vpaid_enabled=true&yo.eb.fb=aHR0cHM6Ly9saXZlLW1hbmlmZXN0LnByb2R1Y3Rpb24tcHVibGljLnR1YmkuaW8vbGl2ZS9kMTcyNWQ5ZS00Njg3LTRiOTktOWU3MS0yNGM1NjJjMGY5YWEvcGxheWxpc3QubTN1OD90b2tlbj1leUpoYkdjaU9pSklVelV4TWlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamIzVnVkSEo1SWpvaVZVNUxUazlYVGw5RFQxVk9WRkpaSWl3aVpHVjJhV05sWDJsa0lqb2lPVFEwTURFeVltWXRORFV3TlMwMFkySm1MVGxsWldZdE9XTmhOakpsWldJNFpUVTVJaXdpWlhod0lqb3hOekV5TnpjeU9USXpMQ0pwYzNNaU9pSnNhWFpsWDI1bGQzTmZiV0Z1YVdabGMzUWlMQ0p3YkdGMFptOXliU0k2SWxkRlFpSXNJbkp6Y3lJNkluSmpJaXdpZFhObGNsOXBaQ0k2TUgwLndNc0ZPdi04SGZWR2l5NDV1QUEtVVNRdmx5ZjA5eGFqMHBkdW5WZHJsTVcydXhpLXZULWM1MjhyYmg1UVJxcGI2bVlETFNDX0diRU1lckFRNGdSV0xB&ss.exp=20240410181558&ss.sig=78675a3c0ccef186f34d944bc8cc8eef77b4b400.m3u8
 
+#EXTINF:-1 group-title="Bics", MX: PLEX FOX SPORTS
+#EXTVLCOPT--http-reconnect=true
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=mqEqgoyqQ3s88qnkYf1u
+
 #EXTINF:-1 group-title="Bics", MX: AZTECA UNO
 #EXTVLCOPT--http-reconnect=true
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
