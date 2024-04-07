@@ -218,6 +218,13 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTVLCOPT--http-reconnect=true
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
+#EXTINF:-1 group-title="Bics Extra US", US: NASA TV 2
+#EXTVLCOPT--http-reconnect=true
+https://ythls-v2.onrender.com/channel/UCLA_DiR1FfKNvjuUpBHmylQ.m3u8
+
+#EXTINF:-1 group-title="Bics Extra US", US: NASA TV 3
+#EXTVLCOPT--http-reconnect=true
+https://ythls-v2.onrender.com/video/jPTD2gnZFUw.m3u8
 
 ***************  emilio ***************
 #EXTINF:-1 group-title="Bics Extra US", US: TELEMUNDO
