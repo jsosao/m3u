@@ -10,15 +10,6 @@
 #EXTINF:-1 group-title="Bics", UPDATED 07 DE ABR 12:00 HRS
 https://zzzz.zzz
 
-#EXTINF:-1 group-title="Bics", MX: NBC
-#EXTVLCOPT--http-reconnect=true
-https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
-
-#EXTINF:-1 group-title="Bics", MX: TEL
-#EXTVLCOPT--http-reconnect=true
-https://telemundolive.akamaized.net/hls/live/2093200/GEN/master_main1.m3u8
-
-
 #EXTINF:-1 group-title="Bics", MX: AZTECA UNO
 #EXTVLCOPT--http-reconnect=true
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
