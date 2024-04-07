@@ -10,7 +10,7 @@
 #EXTINF:-1 group-title="Bics", UPDATED 07 DE ABR 12:00 HRS
 https://zzzz.zzz
 
-#EXTINF:-1 group-title="Bics", MX: NBCC
+#EXTINF:-1 group-title="Bics", MX: NB
 #EXTVLCOPT--http-reconnect=true
 https://nbculocallive.akamaized.net/hls/live/2035366/philadelphia/stream5/master.m3u8
 
