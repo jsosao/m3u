@@ -10,10 +10,6 @@
 #EXTINF:-1 group-title="Bics", UPDATED 07 DE ABR 12:00 HRS
 https://zzzz.zzz
 
-#EXTINF:-1 group-title="Bics", MX: 3
-#EXTVLCOPT--http-reconnect=true
-http://pe.shortgod.com/volvimos2024/tv7.php?id=1080
-
 #EXTINF:-1 group-title="Bics", MX: AZTECA UNO
 #EXTVLCOPT--http-reconnect=true
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
@@ -497,6 +493,109 @@ https://linear-385.frequency.stream/mt/studio/385/hls/master/playlist.m3u8
 https://linear-386.frequency.stream/mt/studio/386/hls/master/playlist.m3u8
 
 ****************************************************************************************************************************
+
+#EXTINF:-1 group-title="Bics Extra INFINITV",Sony
+http://167.114.156.136:25461/INFINITV/ZX89NM22/53
+#EXTINF:-1 group-title="Bics Extra INFINITV",TNT
+http://167.114.156.136:25461/INFINITV/ZX89NM22/57
+#EXTINF:-1 group-title="Bics Extra INFINITV",Nick Jr
+http://167.114.156.136:25461/INFINITV/ZX89NM22/64
+#EXTINF:-1 group-title="Bics Extra INFINITV",Baby TV
+http://167.114.156.136:25461/INFINITV/ZX89NM22/60
+#EXTINF:-1 group-title="Bics Extra INFINITV",Warner Channel
+http://167.114.156.136:25461/INFINITV/ZX89NM22/59
+#EXTINF:-1 group-title="Bics Extra INFINITV",FX
+http://167.114.156.136:25461/INFINITV/ZX89NM22/70
+#EXTINF:-1 group-title="Bics Extra INFINITV",Animal Planet
+http://167.114.156.136:25461/INFINITV/ZX89NM22/75
+#EXTINF:-1 group-title="Bics",Azteca Uno
+http://167.114.156.136:25461/INFINITV/ZX89NM22/82
+#EXTINF:-1 group-title="Bics Extra INFINITV",SYFY
+http://167.114.156.136:25461/INFINITV/ZX89NM22/80
+#EXTINF:-1 group-title="Bics",Milenio TV
+http://167.114.156.136:25461/INFINITV/ZX89NM22/88
+#EXTINF:-1 group-title="Bics",Multimedios MTY
+http://167.114.156.136:25461/INFINITV/ZX89NM22/89
+#EXTINF:-1 group-title="Bics Extra Internacionales",ES: Antena 3
+http://167.114.156.136:25461/INFINITV/ZX89NM22/96
+#EXTINF:-1 group-title="Bics",Telehit
+http://167.114.156.136:25461/INFINITV/ZX89NM22/95
+#EXTINF:-1 group-title="Bics",MTV Live
+http://167.114.156.136:25461/INFINITV/ZX89NM22/108
+#EXTINF:-1 group-title="Bics Extra US",ABC News
+http://167.114.156.136:25461/INFINITV/ZX89NM22/110
+#EXTINF:-1 group-title="Bics",Once TV
+http://167.114.156.136:25461/INFINITV/ZX89NM22/111
+#EXTINF:-1 group-title="Bics",A+
+http://167.114.156.136:25461/INFINITV/ZX89NM22/113
+#EXTINF:-1 group-title="Bics Extra INFINITV",AZ Corazon
+http://167.114.156.136:25461/INFINITV/ZX89NM22/117
+#EXTINF:-1 group-title="Bics Extra INFINITV",Discovery TLC
+http://167.114.156.136:25461/INFINITV/ZX89NM22/124
+#EXTINF:-1 group-title="Pendientes",Televisa MTY
+http://167.114.156.136:25461/INFINITV/ZX89NM22/143
+#EXTINF:-1 group-title="Internacionales",ES: Movistar Drama
+http://167.114.156.136:25461/INFINITV/ZX89NM22/146
+#EXTINF:-1 group-title="Bics Extra INFINITV",Baby First
+http://167.114.156.136:25461/INFINITV/ZX89NM22/150
+#EXTINF:-1 group-title="Bics Extra INFINITV",Telemundo
+http://167.114.156.136:25461/INFINITV/ZX89NM22/155
+#EXTINF:-1 group-title="Internacionales",CO: Caracol
+http://167.114.156.136:25461/INFINITV/ZX89NM22/157
+#EXTINF:-1 group-title="Bics Extra US",ABC (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/159
+#EXTINF:-1 group-title="Bics Extra US",CBS Sports Network (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/161
+#EXTINF:-1 group-title="Bics Extra US",BBC America (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/166
+#EXTINF:-1 group-title="Bics Extra US",Tennis Channel (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/171
+#EXTINF:-1 group-title="Bics Extra US",TNT (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/172
+#EXTINF:-1 group-title="Bics Extra US",Galavision (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/174
+#EXTINF:-1 group-title="Bics Extra INFINITV",A and E
+http://167.114.156.136:25461/INFINITV/ZX89NM22/178
+#EXTINF:-1 group-title="Bics Extra INFINITV",Golden
+http://167.114.156.136:25461/INFINITV/ZX89NM22/181
+#EXTINF:-1 group-title="Bics Extra INFINITV",Garage TV
+http://167.114.156.136:25461/INFINITV/ZX89NM22/184
+#EXTINF:-1 group-title="Bics Extra US",MLB NETWORK (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/188
+#EXTINF:-1 group-title="Bics Extra US",Showtime (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/189
+#EXTINF:-1 group-title="Bics Extra US",Starz (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/190
+#EXTINF:-1 group-title="Bics Extra US",USA Network (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/191
+#EXTINF:-1 group-title="Bics Extra US",Bravo (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/192
+#EXTINF:-1 group-title="Bics Extra US",Lifetime (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/193
+#EXTINF:-1 group-title="Internacionales",Telecinco
+http://167.114.156.136:25461/INFINITV/ZX89NM22/203
+#EXTINF:-1 group-title="Bics Deportes",DAZN 3
+http://167.114.156.136:25461/INFINITV/ZX89NM22/205
+#EXTINF:-1 group-title="Bics Extra INFINITV",WWE network
+http://167.114.156.136:25461/INFINITV/ZX89NM22/209
+#EXTINF:-1 group-title="Bics Extra INFINITV",Discovery Kids
+http://167.114.156.136:25461/INFINITV/ZX89NM22/210
+#EXTINF:-1 group-title="Bics Extra INFINITV",Discovery Science
+http://167.114.156.136:25461/INFINITV/ZX89NM22/216
+#EXTINF:-1 group-title="Bics Extra INFINITV",El Gourmet
+http://167.114.156.136:25461/INFINITV/ZX89NM22/219
+#EXTINF:-1 group-title="Bics Extra INFINITV",Investigation Discovery
+http://167.114.156.136:25461/INFINITV/ZX89NM22/220
+#EXTINF:-1 group-title="Bics Extra US",HBO 2 (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/223
+#EXTINF:-1 group-title="Internacionales",CO: Caracol Op2
+http://167.114.156.136:25461/INFINITV/ZX89NM22/226
+#EXTINF:-1 group-title="Bics Extra INFINITV",Discovery Turbo OP2
+http://167.114.156.136:25461/INFINITV/ZX89NM22/229
+#EXTINF:-1 group-title="Bics Extra INFINITV",Dicovery Turbo
+http://167.114.156.136:25461/INFINITV/ZX89NM22/230
+
+
 *************************** https://raw.githubusercontent.com/angel200881/C/main/C5.m3u8  **********************************
 *********************************  https://raw.githubusercontent.com/angel200881/C/main/CTWO.m3u8  *************************************************************
 *********************************  https://raw.githubusercontent.com/angel200881/C/main/FOUR KEI.m3u8  *************************************************************
