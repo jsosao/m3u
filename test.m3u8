@@ -10,6 +10,10 @@
 #EXTINF:-1 group-title="Bics", UPDATED 07 DE ABR 12:00 HRS
 https://zzzz.zzz
 
+#EXTINF:-1 group-title="Bics", MX: FOX
+#EXTVLCOPT--http-reconnect=true
+https://livevideo01.myfoxzone.com/hls/live/2017381/elvs/live.m3u8
+
 #EXTINF:-1 group-title="Bics", MX: AZTECA UNO
 #EXTVLCOPT--http-reconnect=true
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
