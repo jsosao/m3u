@@ -1,13 +1,13 @@
 #EXTM3U
 
-************************  07/ABR/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  09/ABR/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ************************ HI, THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", UPDATED 07 DE ABR 12:00 HRS
+#EXTINF:-1 group-title="Bics", UPDATED 09 DE ABR 12:00 HRS
 https://zzzz.zzz
 
 #EXTINF:-1 group-title="Bics", MX: AZTECA UNO
@@ -214,10 +214,6 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTVLCOPT--http-reconnect=true
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
-#EXTINF:-1 group-title="Bics Extra US", US: NASA TV 2
-#EXTVLCOPT--http-reconnect=true
-https://ythls-v2.onrender.com/channel/UCLA_DiR1FfKNvjuUpBHmylQ.m3u8
-
 ***************  emilio ***************
 #EXTINF:-1 group-title="Bics Extra US", US: TELEMUNDO
 #EXTVLCOPT--http-reconnect=true
@@ -237,9 +233,6 @@ http://138.59.177.34:8000/play/a064/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
-#EXTINF:-1 group-title="Bics Extra Internacional", CL: CANAL 13
-#EXTVLCOPT--http-reconnect=true
-https://ythls-v2.onrender.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg.m3u8
 ************* pepe *******************
 #EXTINF:-1 group-title="Bics Extra Internacional", EC: ECUAVISA
 #EXTVLCOPT--http-reconnect=true
@@ -496,6 +489,179 @@ https://linear-385.frequency.stream/mt/studio/385/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 32
 #EXTVLCOPT--http-reconnect=true
 https://linear-386.frequency.stream/mt/studio/386/hls/master/playlist.m3u8
+
+****************************************************************************************************************************
+
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",A&E
+http://167.114.156.136:25461/INFINITV/ZX89NM22/178
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",A+
+http://167.114.156.136:25461/INFINITV/ZX89NM22/113
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",ABC (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/159
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",ABC News
+http://167.114.156.136:25461/INFINITV/ZX89NM22/110
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Adrenalina Sport
+http://167.114.156.136:25461/INFINITV/ZX89NM22/140
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Animal Planet
+http://167.114.156.136:25461/INFINITV/ZX89NM22/75
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",AZ Corazon
+http://167.114.156.136:25461/INFINITV/ZX89NM22/117
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Baby First
+http://167.114.156.136:25461/INFINITV/ZX89NM22/150
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Baby TV
+http://167.114.156.136:25461/INFINITV/ZX89NM22/60
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",BBC America (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/166
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Bein Sports Esp
+http://167.114.156.136:25461/INFINITV/ZX89NM22/176
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Blue Hustler
+http://167.114.156.136:25461/INFINITV/ZX89NM22/199
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Bravo (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/192
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",CBS Sports Network (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/161
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",CNN Internacional
+http://167.114.156.136:25461/INFINITV/ZX89NM22/92
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",CO: Caracol
+http://167.114.156.136:25461/INFINITV/ZX89NM22/157
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",CO: Caracol Op2
+http://167.114.156.136:25461/INFINITV/ZX89NM22/226
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",DAZN 3
+http://167.114.156.136:25461/INFINITV/ZX89NM22/205
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",DAZN 4
+http://167.114.156.136:25461/INFINITV/ZX89NM22/211
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",DESCARGA VOX PLAYER M3U DESDE PLAYSTORE
+https://dl.dropboxusercontent.com/s/vbbf23iud82xqks/voxplayerm3u.mp4
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Dicovery Turbo
+http://167.114.156.136:25461/INFINITV/ZX89NM22/230
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Discovery Kids
+http://167.114.156.136:25461/INFINITV/ZX89NM22/210
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Discovery Science
+http://167.114.156.136:25461/INFINITV/ZX89NM22/216
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Discovery Theater
+http://167.114.156.136:25461/INFINITV/ZX89NM22/217
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Discovery TLC
+http://167.114.156.136:25461/INFINITV/ZX89NM22/124
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Discovery Turbo OP2
+http://167.114.156.136:25461/INFINITV/ZX89NM22/229
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",El Gourmet
+http://167.114.156.136:25461/INFINITV/ZX89NM22/219
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",ES: Antena 3
+http://167.114.156.136:25461/INFINITV/ZX89NM22/96
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",ES: Movistar Drama
+http://167.114.156.136:25461/INFINITV/ZX89NM22/146
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",ESPN (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/167
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",ESPN 1 MX
+http://167.114.156.136:25461/INFINITV/ZX89NM22/35
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",ESPN 2 MX
+http://167.114.156.136:25461/INFINITV/ZX89NM22/36
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",ESPN 2 US
+http://167.114.156.136:25461/INFINITV/ZX89NM22/37
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Eurosport 2
+http://167.114.156.136:25461/INFINITV/ZX89NM22/141
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Eurosports 1
+http://167.114.156.136:25461/INFINITV/ZX89NM22/206
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",F1 DAZN
+http://167.114.156.136:25461/INFINITV/ZX89NM22/45
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Formula 1 DAZN 2
+http://167.114.156.136:25461/INFINITV/ZX89NM22/196
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",FOX (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/168
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Fox Deportes
+http://167.114.156.136:25461/INFINITV/ZX89NM22/38
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Fox Premium
+http://167.114.156.136:25461/INFINITV/ZX89NM22/69
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Fox Sport 1 (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/221
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Fox Sport 2 (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/222
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Fox Sports 1 MX
+http://167.114.156.136:25461/INFINITV/ZX89NM22/40
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Fox Sports MX
+http://167.114.156.136:25461/INFINITV/ZX89NM22/42
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",FX
+http://167.114.156.136:25461/INFINITV/ZX89NM22/70
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Galavision (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/174
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Garage TV
+http://167.114.156.136:25461/INFINITV/ZX89NM22/184
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Golden
+http://167.114.156.136:25461/INFINITV/ZX89NM22/181
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",GolTV
+http://167.114.156.136:25461/INFINITV/ZX89NM22/208
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",GolTV (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/187
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",HBO 2
+http://167.114.156.136:25461/INFINITV/ZX89NM22/72
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",HBO 2 (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/223
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",HBO Family
+http://167.114.156.136:25461/INFINITV/ZX89NM22/73
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",HBO Family (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/224
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",HBO Plus
+http://167.114.156.136:25461/INFINITV/ZX89NM22/215
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",HBO Signature
+http://167.114.156.136:25461/INFINITV/ZX89NM22/182
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",HGTV (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/225
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Investigation Discovery
+http://167.114.156.136:25461/INFINITV/ZX89NM22/220
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Lifetime (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/193
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Milenio TV
+http://167.114.156.136:25461/INFINITV/ZX89NM22/88
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",MLB NETWORK (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/188
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",MTV Live
+http://167.114.156.136:25461/INFINITV/ZX89NM22/108
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Multimedios MTY
+http://167.114.156.136:25461/INFINITV/ZX89NM22/89
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",NBC NY (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/164
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",NBC Universo (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/165
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Nick Jr
+http://167.114.156.136:25461/INFINITV/ZX89NM22/64
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Once TV
+http://167.114.156.136:25461/INFINITV/ZX89NM22/111
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",PELEA Canelo
+http://167.114.156.136:25461/INFINITV/ZX89NM22/214
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",PELEA CANELO OP2
+http://167.114.156.136:25461/INFINITV/ZX89NM22/177
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Showtime (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/189
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Sony
+http://167.114.156.136:25461/INFINITV/ZX89NM22/53
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Starz (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/190
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",SYFY
+http://167.114.156.136:25461/INFINITV/ZX89NM22/80
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Telecinco
+http://167.114.156.136:25461/INFINITV/ZX89NM22/203
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Telecinco 2
+http://167.114.156.136:25461/INFINITV/ZX89NM22/207
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Telehit
+http://167.114.156.136:25461/INFINITV/ZX89NM22/95
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Telemundo
+http://167.114.156.136:25461/INFINITV/ZX89NM22/155
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Televisa MTY
+http://167.114.156.136:25461/INFINITV/ZX89NM22/143
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Tennis Channel (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/171
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",TNT
+http://167.114.156.136:25461/INFINITV/ZX89NM22/57
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",TNT (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/172
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Toros TV
+http://167.114.156.136:25461/INFINITV/ZX89NM22/46
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",UFC TV
+http://167.114.156.136:25461/INFINITV/ZX89NM22/47
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",USA Network (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/191
+#EXTINF:-1 group-title="Bics Extra INFINITV EMILIO",Warner Channel
+http://167.114.156.136:25461/INFINITV/ZX89NM22/59
 
 ****************************************************************************************************************************
 
