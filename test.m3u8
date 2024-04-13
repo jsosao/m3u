@@ -68,9 +68,9 @@ https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 group-title="Bics", MX: NU9VE
 #EXTVLCOPT--http-reconnect=true
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: NU9VE
-***** #EXTVLCOPT--http-reconnect=true
-***** https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", MX: NU9VE
+#EXTVLCOPT--http-reconnect=true
+https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: ONCE
 #EXTVLCOPT--http-reconnect=true
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
@@ -110,7 +110,6 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", MX: FORO TV
 #EXTVLCOPT--http-reconnect=true
 https://linear-300.frequency.stream/mt/studio/300/hls/master/playlist.m3u8
-
 #EXTINF:-1 group-title="Bics", MX: N+ MEDIA
 #EXTVLCOPT--http-reconnect=true
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
@@ -121,7 +120,6 @@ https://linear-301.frequency.stream/mt/studio/301/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: N+
 #EXTVLCOPT--http-reconnect=true
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
-
 #EXTINF:-1 group-title="Bics", MX: N+ GDL
 #EXTVLCOPT--http-reconnect=true
 https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
@@ -186,10 +184,6 @@ https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 
 *******************************************************************************************************************************************************************
 
-#EXTINF:-1 group-title="Bics Extra Latino", LATAM: UNIVISION
-#EXTVLCOPT--http-reconnect=true
-https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
-
 #EXTINF:-1 group-title="Bics Extra Latino", PR: UNIVISION
 #EXTVLCOPT--http-reconnect=true
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
@@ -199,14 +193,12 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 group-title="Bics Extra Latino", PR: TELEMUNDO 2
 #EXTVLCOPT--http-reconnect=true
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-
 #EXTINF:-1 group-title="Bics Extra Latino", US: CANAL 57
 #EXTVLCOPT--http-reconnect=true
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Bics Extra US", US: CNN
 #EXTVLCOPT--http-reconnect=true
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-
 #EXTINF:-1 group-title="Bics Extra US", US: NASA TV
 #EXTVLCOPT--http-reconnect=true
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
@@ -238,7 +230,6 @@ https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", PE: PANAMERICANA
 #EXTVLCOPT--http-reconnect=true
 https://cdnhd.iblups.com/hls/ptv5.m3u8
-
 #EXTINF:-1 group-title="Bics Extra Latino", COL: RCN
 #EXTVLCOPT--http-reconnect=true
 http://c24u.xyz:8080/GUILLERMO/GUILLERMO/332487
@@ -249,7 +240,6 @@ http://c24u.xyz:8080/GUILLERMO/GUILLERMO/332487
 https://ythls-v2.onrender.com/channel/UC5ZtV3bu3bjSuOLoA6oCFIg.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", AGS: CANAL 26
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="Bics REGIONALES", BAJA: TELEVISA ENSENADA
 https://ythls-v2.onrender.com/channel/UCFuWAM_YItwkHzDWDKtJULg.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", BAJA: TELEVISA MEXICALI
@@ -260,7 +250,6 @@ https://ythls-v2.onrender.com/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
 https://ythls-v2.onrender.com/channel/UCgu4v4HAioB0N5K6aq_H-WQ.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", BAJA: CANAL 33 TIJUANA
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
-
 #EXTINF:-1 group-title="Bics REGIONALES", CUA: TELEVISA CHIHUAHUA
 https://ythls-v2.onrender.com/channel/UCjfxDe7In59Jbfw2HmIh_Vg.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", CUA: TELEVISA CD. JUAREZ
@@ -271,7 +260,6 @@ https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", CUA: CANAL 50 Ciudad Juárez
 https://stream.oursnetworktv.com/latin/juarez50/playlist.m3u8
-
 #EXTINF:-1 group-title="Bics REGIONALES", COA: TELEVISA LAGUNA
 https://ythls-v2.onrender.com/channel/UC_mwCcsKDJLSWjply5s0h8w.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", COA: TELEVISA PIEDRAS NEGRAS
@@ -284,7 +272,6 @@ https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 https://ythls-v2.onrender.com/channel/UCR1aiCpU4PdNg-wCDiuDCcg.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", COA: CANAL 15 SABINAS
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="Bics REGIONALES", CHIAP: CANAL 10
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 
@@ -359,9 +346,6 @@ https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 https://ythls-v2.onrender.com/channel/UCe3Ev4a4Sm9L5aO9sJJ_WXw.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: AYM SPORTS
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", CO: WIN SPORTS
-#EXTVLCOPT--http-reconnect=true
-https://ythls-v2.onrender.com/channel/UCZjpA3YBPXvJv3pg4SPEjfw.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: DIABLOS ROJOS
 #EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UCbPTmPbmSO-BYGCMHm77RUg.m3u8
@@ -492,13 +476,13 @@ https://linear-508.frequency.stream/mt/studio/508/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Bics Extra FANTASTIC",ANIMAL PLANET
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/2
-#EXTINF:-1 group-title="Bics",AZTECA 7
+#EXTINF:-1 group-title="Bics",MX: AZTECA 7
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/4
 #EXTINF:-1 group-title="Bics Extra FANTASTIC",CARTOONITO
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/5
-#EXTINF:-1 group-title="Bics",Canal 5
+#EXTINF:-1 group-title="Bics",MX: Canal 5
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/7
-#EXTINF:-1 group-title="Bics",CANAL 9
+#EXTINF:-1 group-title="Bics",MX: CANAL 9
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/8
 #EXTINF:-1 group-title="Bics Extra FANTASTIC",CARTOON NETWORK
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/9
@@ -676,7 +660,7 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/130
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/131
 #EXTINF:-1 group-title="Bics Extra FANTASTIC",AZTECA INTERNACIONAL
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/132
-#EXTINF:-1 group-title="Bics",AZTECA 1
+#EXTINF:-1 group-title="Bics",MX: AZTECA 1
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/133
 #EXTINF:-1 group-title="Bics Extra FANTASTIC",BABY TV
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/134
@@ -692,7 +676,7 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/138
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/139
 #EXTINF:-1 group-title="Bics DEPORTES",EUROSPORTS 2
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/140
-#EXTINF:-1 group-title="Bics",FORO TV
+#EXTINF:-1 group-title="Bics",MX: FORO TV
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/141
 #EXTINF:-1 group-title="Bics DEPORTES",DAZN F1
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/146
@@ -714,7 +698,7 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/153
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/155
 #EXTINF:-1 group-title="Bics",IMAGEN TV
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/156
-#EXTINF:-1 group-title="Bics DEPORTES",ES LA LIGA
+#EXTINF:-1 group-title="Bics DEPORTES",ES: LA LIGA
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/157
 #EXTINF:-1 group-title="Bics Extra Internacional",ES LA SEXTA
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/158
@@ -1710,7 +1694,7 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/846
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/847
 #EXTINF:-1 group-title="Bics DEPORTES",DEP_NBA 12
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/848
-#EXTINF:-1 group-title="Bics DEPORTES",R_AEW 01
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_AEW 01
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/849
 #EXTINF:-1 group-title="Bics DEPORTES",DEP_MLS 01
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/850
@@ -1762,49 +1746,49 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/884
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/885
 #EXTINF:-1 group-title="Bics DEPORTES",COL DIRECTV SPORTS 2
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/468
-#EXTINF:-1 group-title="Bics DEPORTES",R_SupercopaespaÃ±a 01
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_SupercopaespaÃ±a 01
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/888
-#EXTINF:-1 group-title="Bics DEPORTES",R_SupercopaespaÃ±a 02
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_SupercopaespaÃ±a 02
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/889
-#EXTINF:-1 group-title="Bics DEPORTES",R_ligasaudi 01
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_ligasaudi 01
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/891
 #EXTINF:-1 group-title="Bics",MX Canal 22
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/894
 #EXTINF:-1 group-title="Bics Extra FANTASTIC",PPV 001
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/895
-#EXTINF:-1 group-title="Bics DEPORTES",R_Caribe 01
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_Caribe 01
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/896
-#EXTINF:-1 group-title="Bics DEPORTES",R_Caribe 02
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_Caribe 02
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/897
-#EXTINF:-1 group-title="Bics DEPORTES",R_Caribe 03
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_Caribe 03
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/898
-#EXTINF:-1 group-title="Bics DEPORTES",R_Libertadores 01
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_Libertadores 01
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/899
-#EXTINF:-1 group-title="Bics DEPORTES",R_CONCACAF 01
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_CONCACAF 01
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/900
-#EXTINF:-1 group-title="Bics DEPORTES",R_CONCACAF 02
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_CONCACAF 02
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/901
 #EXTINF:-1 group-title="Bics DEPORTES",DEP_Premier League 07
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/774
-#EXTINF:-1 group-title="Bics DEPORTES",R_FA Cup 04
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_FA Cup 04
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/905
-#EXTINF:-1 group-title="Bics DEPORTES",R_FA Cup 03
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_FA Cup 03
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/904
-#EXTINF:-1 group-title="Bics DEPORTES",R_FA Cup 02
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_FA Cup 02
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/903
-#EXTINF:-1 group-title="Bics DEPORTES",R_FA Cup 01
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_FA Cup 01
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/902
-#EXTINF:-1 group-title="Bics DEPORTES",R_CONCACAF 03
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_CONCACAF 03
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/906
-#EXTINF:-1 group-title="Bics DEPORTES",R_Eurocopa 02
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_Eurocopa 02
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/907
-#EXTINF:-1 group-title="Bics DEPORTES",R_Eurocopa 03
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_Eurocopa 03
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/908
 #EXTINF:-1 group-title="Bics DEPORTES",DEP_EXPANSION 04
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/909
-#EXTINF:-1 group-title="Bics DEPORTES",R_Padel 01
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_Padel 01
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/910
-#EXTINF:-1 group-title="Bics DEPORTES",R_INDYCAR 01
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_INDYCAR 01
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/911
 #EXTINF:-1 group-title="Bics DEPORTES",bally sports florida
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/912
@@ -1926,7 +1910,7 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/969
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/970
 #EXTINF:-1 group-title="Bics DEPORTES",FMLB Atlanta Braves
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/971
-#EXTINF:-1 group-title="Bics DEPORTES",R_Ciclismo 01
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_Ciclismo 01
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/973
 #EXTINF:-1 group-title="Bics DEPORTES",DEP_MLS 03
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/981
@@ -1950,13 +1934,13 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/989
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/990
 #EXTINF:-1 group-title="Bics DEPORTES",DEP_Liga MX 06
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/991
-#EXTINF:-1 group-title="Bics DEPORTES",R_CONCACAF 04
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_CONCACAF 04
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/998
-#EXTINF:-1 group-title="Bics",MX - ADN 40
+#EXTINF:-1 group-title="Bics", MX: ADN 40
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1000
-#EXTINF:-1 group-title="Bics REGIONALES",MX - Azteca Noreste
+#EXTINF:-1 group-title="Bics REGIONALES", MX: Azteca Noreste
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1001
-#EXTINF:-1 group-title="Bics Extra Internacional",DW Latino
+#EXTINF:-1 group-title="Bics Extra Latino",DW Latino
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1002
 #EXTINF:-1 group-title="Bics Extra FANTASTIC",NMas Media
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1003
@@ -1964,7 +1948,7 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1003
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1004
 #EXTINF:-1 group-title="Bics REGIONALES",Canal 28 Nuevo Leon
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1015
-#EXTINF:-1 group-title="Bics DEPORTES",R_Primeiraliga 01
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_Primeiraliga 01
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1016
 #EXTINF:-1 group-title="Bics Extra US",The CW - San Francisco KBCW
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1017
@@ -2002,13 +1986,13 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1054
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1055
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN PLUS 015
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1056
-#EXTINF:-1 group-title="Bics DEPORTES",R_Conmebol 01
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_Conmebol 01
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1057
-#EXTINF:-1 group-title="Bics DEPORTES",R_Conmebol 02
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_Conmebol 02
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1058
-#EXTINF:-1 group-title="Bics DEPORTES",R_Conmebol 03
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_Conmebol 03
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1059
-#EXTINF:-1 group-title="Bics DEPORTES",R_Conmebol 05
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_Conmebol 05
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1061
 #EXTINF:-1 group-title="Bics DEPORTES",Great American Country
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1062
