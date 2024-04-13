@@ -1,13 +1,13 @@
 #EXTM3U
 
-************************  11/ABR/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  13/ABR/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ************************ HI, THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", UPDATED 11 DE ABR 12:00 HRS
+#EXTINF:-1 group-title="Bics", UPDATED 13 DE ABR 12:00 HRS
 https://zzzz.zzz
 
 #EXTINF:-1 group-title="Bics", MX: AZTECA UNO
@@ -194,21 +194,21 @@ https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
 
 *******************************************************************************************************************************************************************
 
-#EXTINF:-1 group-title="Bics Extra Internacional", LATAM: UNIVISION
+#EXTINF:-1 group-title="Bics Extra Latino", LATAM: UNIVISION
 #EXTVLCOPT--http-reconnect=true
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Bics Extra Internacional", PR: UNIVISION
+#EXTINF:-1 group-title="Bics Extra Latino", PR: UNIVISION
 #EXTVLCOPT--http-reconnect=true
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
-#EXTINF:-1 group-title="Bics Extra Internacional", PR: TELEMUNDO 1
+#EXTINF:-1 group-title="Bics Extra Latino", PR: TELEMUNDO 1
 #EXTVLCOPT--http-reconnect=true
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 group-title="Bics Extra Internacional", PR: TELEMUNDO 2
+#EXTINF:-1 group-title="Bics Extra Latino", PR: TELEMUNDO 2
 #EXTVLCOPT--http-reconnect=true
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
-#EXTINF:-1 group-title="Bics Extra US", US: CANAL 57
+#EXTINF:-1 group-title="Bics Extra Latino", US: CANAL 57
 #EXTVLCOPT--http-reconnect=true
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Bics Extra US", US: CNN
@@ -220,37 +220,34 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 ***************  emilio ***************
-#EXTINF:-1 group-title="Bics Extra US", US: TELEMUNDO
+#EXTINF:-1 group-title="Bics Extra Latino", US: TELEMUNDO
 #EXTVLCOPT--http-reconnect=true
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
-#EXTINF:-1 group-title="Bics Extra US", US: TELEMUNDO -1 HR
+#EXTINF:-1 group-title="Bics Extra Latino", US: TELEMUNDO -1 HR
 #EXTVLCOPT--http-reconnect=true
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=3600
-#EXTINF:-1 group-title="Bics Extra US", US: TELEMUNDO -2 HR
+#EXTINF:-1 group-title="Bics Extra Latino", US: TELEMUNDO -2 HR
 #EXTVLCOPT--http-reconnect=true
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=7200
-
-#EXTINF:-1 group-title="Bics Extra Internacional", PA: TV  Max
+#EXTINF:-1 group-title="Bics Extra Latino", PA: TV  Max
 #EXTVLCOPT--http-reconnect=true
 http://138.59.177.34:8000/play/a064/index.m3u8
-
-#EXTINF:-1 group-title="Bics Extra Internacional", AR: TN
+#EXTINF:-1 group-title="Bics Extra Latino", AR: TN
 #EXTVLCOPT--http-reconnect=true
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-
 ************* pepe *******************
-#EXTINF:-1 group-title="Bics Extra Internacional", EC: ECUAVISA
+#EXTINF:-1 group-title="Bics Extra Latino", EC: ECUAVISA
 #EXTVLCOPT--http-reconnect=true
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
 ************ bodega *******************
-#EXTINF:-1 group-title="Bics Extra Internacional", PE: PANAMERICANA
+#EXTINF:-1 group-title="Bics Extra Latino", PE: PANAMERICANA
 #EXTVLCOPT--http-reconnect=true
 https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
-#EXTINF:-1 group-title="Bics Extra Internacional", PE: PANAMERICANA
+#EXTINF:-1 group-title="Bics Extra Latino", PE: PANAMERICANA
 #EXTVLCOPT--http-reconnect=true
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 
-#EXTINF:-1 group-title="Bics Extra Internacional", COL: RCN
+#EXTINF:-1 group-title="Bics Extra Latino", COL: RCN
 #EXTVLCOPT--http-reconnect=true
 http://c24u.xyz:8080/GUILLERMO/GUILLERMO/332487
 
@@ -385,8 +382,6 @@ https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
 
-
-
 #EXTINF:-1 group-title="Bics DEPORTES", MX: MLB
 #EXTVLCOPT--http-reconnect=true
 https://linear-508.frequency.stream/mt/studio/508/hls/master/playlist.m3u8
@@ -489,9 +484,9 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/52
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/54
 #EXTINF:-1 group-title="Bics Extra FANTASTIC",PR 1 PUNTO 2
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/55
-#EXTINF:-1 group-title="Bics Extra FANTASTIC",PR Telemundo
+#EXTINF:-1 group-title="Bics Extra Latino",PR Telemundo
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/56
-#EXTINF:-1 group-title="Bics Extra FANTASTIC",PR UNIVISION TELEONCE
+#EXTINF:-1 group-title="Bics Extra Latino",PR UNIVISION TELEONCE
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/57
 #EXTINF:-1 group-title="Bics Extra FANTASTIC",PR WAPA 2
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/58
@@ -607,7 +602,7 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/146
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/147
 #EXTINF:-1 group-title="Bics Extra FANTASTIC",FX
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/148
-#EXTINF:-1 group-title="Bics Extra FANTASTIC",US GALAVISION
+#EXTINF:-1 group-title="Bics Extra Latino",US GALAVISION
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/149
 #EXTINF:-1 group-title="Bics Extra US",US Hallmark MOVIES & MYSTERIES
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/151
@@ -637,7 +632,7 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/162
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/163
 #EXTINF:-1 group-title="Bics Extra FANTASTIC",PASIONES
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/164
-#EXTINF:-1 group-title="Bics Extra Internacional",COL RCN
+#EXTINF:-1 group-title="Bics Extra Latino",COL RCN
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/165
 #EXTINF:-1 group-title="Bics Extra FANTASTIC",COL RCN NOVELAS
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/166
@@ -647,7 +642,7 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/167
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/168
 #EXTINF:-1 group-title="Bics Extra FANTASTIC",TELERITMO
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/169
-#EXTINF:-1 group-title="Bics REGIONALES",CANAL 4 MTY
+#EXTINF:-1 group-title="Bics REGIONALES", MX: CANAL 4 MTY
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/170
 #EXTINF:-1 group-title="Bics Extra FANTASTIC",TNT
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/171
@@ -843,7 +838,7 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/398
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/399
 #EXTINF:-1 group-title="Bics Extra US",US|FU|SYFY
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/400
-#EXTINF:-1 group-title="Bics Extra FANTASTIC",US|FU|TELEMUNDO US
+#EXTINF:-1 group-title="Bics Extra Latino",US|FU|TELEMUNDO US
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/401
 #EXTINF:-1 group-title="Bics Extra US",US|FU|BTN
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/402
@@ -941,7 +936,7 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/454
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/455
 #EXTINF:-1 group-title="Bics Extra Internacional",COL CARACOL INTERNACIONAL
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/456
-#EXTINF:-1 group-title="Bics Extra Internacional",COL TELECAFE
+#EXTINF:-1 group-title="Bics Extra Latino",COL TELECAFE
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/457
 #EXTINF:-1 group-title="Bics Extra FANTASTIC",DISNEY
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/458
@@ -981,11 +976,11 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/475
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/479
 #EXTINF:-1 group-title="Bics Extra US",US TELEMUNDO LOS ANGELES
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/480
-#EXTINF:-1 group-title="Bics Extra US",US 1 TLEEMUNDO LOS ANGELES
+#EXTINF:-1 group-title="Bics Extra US",US TELEMUNDO LOS ANGELES
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/481
-#EXTINF:-1 group-title="Bics Extra US",US TLEEMUNDO MIAMI
+#EXTINF:-1 group-title="Bics Extra US",US TELEMUNDO MIAMI
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/485
-#EXTINF:-1 group-title="Bics Extra US",US 1 TELEMUNDO NY
+#EXTINF:-1 group-title="Bics Extra US",US TELEMUNDO NY
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/486
 #EXTINF:-1 group-title="Bics Extra US",US TELEMUNDO TEXAS
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/487
@@ -1017,9 +1012,9 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/494
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/495
 #EXTINF:-1 group-title="Bics Extra US",US UNIVISION LA
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/497
-#EXTINF:-1 group-title="Bics Extra US",US 1 UNIVISION NY
+#EXTINF:-1 group-title="Bics Extra US",US UNIVISION NY
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/498
-#EXTINF:-1 group-title="Bics Extra US",US 1 UNIVISION TEXAS
+#EXTINF:-1 group-title="Bics Extra US",US UNIVISION TEXAS
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/499
 #EXTINF:-1 group-title="Bics Extra US",US UNIVISION PHONIX
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/500
@@ -1137,35 +1132,35 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/598
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/599
 #EXTINF:-1 group-title="Bics DEPORTES",FOX SPORTS PREMIUM MX
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/600
-#EXTINF:-1 group-title="Bics DEPORTES",R_LMB 03
+#EXTINF:-1 group-title="Bics DEPORTES",R_LMB 01
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/601
-#EXTINF:-1 group-title="Bics DEPORTES",LMB Guerreros de Oaxaca
+#EXTINF:-1 group-title="Bics DEPORTES",R_LMB 02
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/602
-#EXTINF:-1 group-title="Bics DEPORTES",LMB Pericos de Puebla
+#EXTINF:-1 group-title="Bics DEPORTES",R_LMB 03
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/603
-#EXTINF:-1 group-title="Bics DEPORTES",R_LMB 07
+#EXTINF:-1 group-title="Bics DEPORTES",R_LMB 04
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/604
-#EXTINF:-1 group-title="Bics DEPORTES",R_LMB 08
+#EXTINF:-1 group-title="Bics DEPORTES",R_LMB 05
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/605
 #EXTINF:-1 group-title="Bics DEPORTES",R_LMB 06
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/606
-#EXTINF:-1 group-title="Bics DEPORTES",R_LMB 09
+#EXTINF:-1 group-title="Bics DEPORTES",R_LMB 07
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/607
-#EXTINF:-1 group-title="Bics DEPORTES",LMB Diablos Rojos del Mexico
+#EXTINF:-1 group-title="Bics DEPORTES",R_LMB 08
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/608
-#EXTINF:-1 group-title="Bics DEPORTES",LMB Aceros de Monclova
+#EXTINF:-1 group-title="Bics DEPORTES",R_LMB 09
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/609
-#EXTINF:-1 group-title="Bics DEPORTES",LMB Generales de Durango
+#EXTINF:-1 group-title="Bics DEPORTES",R_LMB 10
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/610
-#EXTINF:-1 group-title="Bics DEPORTES",R_LMB 04
+#EXTINF:-1 group-title="Bics DEPORTES",R_LMB 11
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/611
-#EXTINF:-1 group-title="Bics DEPORTES",LMB Mariachis de Guadalajara
+#EXTINF:-1 group-title="Bics DEPORTES",R_LMB 12
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/612
-#EXTINF:-1 group-title="Bics DEPORTES",LMB Leones de Yucatan
+#EXTINF:-1 group-title="Bics DEPORTES",R_LMB 13
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/613
-#EXTINF:-1 group-title="Bics DEPORTES",R_LMB 05
+#EXTINF:-1 group-title="Bics DEPORTES",R_LMB 14
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/614
-#EXTINF:-1 group-title="Bics DEPORTES",LMB Algodoneros de Union Laguna
+#EXTINF:-1 group-title="Bics DEPORTES",R_LMB 15
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/615
 #EXTINF:-1 group-title="Bics Extra Internacional",BBC UK
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/616
@@ -2231,7 +2226,7 @@ http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759448
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759449
 #EXTINF:-1  tvg-logo="http://www.rickgevers.com/wp-content/uploads/2013/07/Kmid-Logo-300x259.jpg group-title="Bics US ABC", ABC: KMID 2 Midland/Odessa TX
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759450
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.EZv0L6E3GpxuQfvxkJvaBQHaEC&pid=Api&P=0",ABC: KSAT 12 San Antonio TX
+#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.EZv0L6E3GpxuQfvxkJvaBQHaEC&pid=Api&P=0" group-title="Bics US ABC",ABC: KSAT 12 San Antonio TX
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759451
 #EXTINF:-1  tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/4/4e/KTXS_abc_2015_logo_web.jpg group-title="Bics US ABC", ABC: KTXS 12 Abilene/Sweetwater TX
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759452
@@ -2243,7 +2238,7 @@ http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759454
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759455
 #EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.h4-828i7aINFQE98ZbQDRQHaFI&pid=Api&P=0 group-title="Bics US ABC", ABC: WVEC 13 Norfolk/Hampton Roads VA
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759456
-#EXTINF:-1  tvg-logo="https://wchstv.com/resources/defaults/wchs/medium16x9.jpg",WV/Huntington VA
+#EXTINF:-1  tvg-logo="https://wchstv.com/resources/defaults/wchs/medium16x9.jpg" group-title="Bics US ABC",WV/Huntington VA
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759457
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/WHSV-TV_2006_ABC_logo.JPG group-title="Bics US ABC", ABC: WHSV 3 Harrisonburg/Luray VA
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759458
@@ -3205,159 +3200,123 @@ http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/5937
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742621
 #EXTINF:-1  tvg-logo="http://puddintap.click/ico/IPTVLogo/sec_network.png"group-title="Bics DEPORTES", ESPN:  SEC NETWORK
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/743074
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: GALAVISION LOS ANGELES
+
+#EXTINF:-1 group-title="Bics Extra Latino",USL: GALAVISION LOS ANGELES
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760597
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: UNIVISION NY(WXTV)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIVISION NY(WXTV)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760604
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: UNIVISION PHILADELPHIA(WUVP)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIVISION PHILADELPHIA(WUVP)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760605
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: UNIVISION PHOENIX(KTVW)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIVISION PHOENIX(KTVW)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760606
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: UNIVISION PUERTO RICO(WLII)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIVISION PUERTO RICO(WLII)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760607
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: TELEMUNDO SAN ANTONIO(KVDA)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO SAN ANTONIO(KVDA)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760608
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: TELEMUNDO LOS ANGELES(KVEA)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO LOS ANGELES(KVEA)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760609
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: TELEMUNDO WASHINGTON DC(WZDC)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO WASHINGTON DC(WZDC)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760610
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: TELEMUNDO TUCSON(KHRR)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO TUCSON(KHRR)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760611
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: TELEMUNDO TAMPA(WRMD)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO TAMPA(WRMD)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760612
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: TELEMUNDO SAN JOSE(KSTS)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO SAN JOSE(KSTS)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760613
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: TELEMUNDO SALT LAKE CITY(KTMW)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO SALT LAKE CITY(KTMW)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760614
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: TELEMUNDO SACRAMENTO(KCSO)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO SACRAMENTO(KCSO)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760615
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: TELEMUNDO RIO GRANDE(KTLM)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO RIO GRANDE(KTLM)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760616
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: TELEMUNDO PHILADELPHIA(WWSI)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO PHILADELPHIA(WWSI)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760617
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: TELEMUNDO ORLANDO(WTMO)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO ORLANDO(WTMO)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760618
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: TELEMUNDO OKLAHOMA CITY(KTUZ)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO OKLAHOMA CITY(KTUZ)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760619
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: TELEMUNDO NEW ORLEANS(KGLA)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO NEW ORLEANS(KGLA)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760620
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: TELEMUNDO NEW JERSEY(WNJU)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO NEW JERSEY(WNJU)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760621
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: TELEMUNDO MIAMI(WSCV)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO MIAMI(WSCV)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760622
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: TELEMUNDO LAS VEGAS(KBLR)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO LAS VEGAS(KBLR)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760623
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: TELEMUNDO HARTFORD(WRDM)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO HARTFORD(WRDM)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760624
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: TELEMUNDO DENVER(KDEN)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO DENVER(KDEN)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760625
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: TELEMUNDO CHICAGO(WSNS)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO CHICAGO(WSNS)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760626
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: TELEMUNDO BOSTON(WNEU)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO BOSTON(WNEU)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760627
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: TELEMUNDO ATLANTA(WKTB)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO ATLANTA(WKTB)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760628
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: TELEMUNDO ARIZONA(KTAZ)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO ARIZONA(KTAZ)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760629
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: TELEMUNDO PUERTO RICO(WKAQ)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO PUERTO RICO(WKAQ)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760630
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: UNIMAS SAN FRANCISCO(KFSF)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS SAN FRANCISCO(KFSF)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760631
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: UNIMAS FORT LAUDERDALE(WAMI)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS FORT LAUDERDALE(WAMI)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760632
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: UNIMAS SAN ANTONIO(KNIC)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS SAN ANTONIO(KNIC)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760633
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: UNIMAS SACRAMENTO(KTFK)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS SACRAMENTO(KTFK)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760634
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: UNIMAS PHOENIX(KFPH)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS PHOENIX(KFPH)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760636
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: UNIMAS ORLANDO(WOTF)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS ORLANDO(WOTF)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760638
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: UNIMAS NEW JERSEY(WFUT)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS NEW JERSEY(WFUT)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760640
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: UNIMAS LOS ANGELES(KFTR)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS LOS ANGELES(KFTR)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760641
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: UNIMAS LAS VEGAS(KNTL)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS LAS VEGAS(KNTL)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760642
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: UNIMAS IRVING(KSTR)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS IRVING(KSTR)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760643
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: UNIMAS HOUSTON(KFTH)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS HOUSTON(KFTH)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760644
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: UNIMAS FRESNO(KTFF)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS FRESNO(KTFF)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760645
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: UNIMAS FLAGSTAFF(KFPH)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS FLAGSTAFF(KFPH)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760646
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: UNIMAS DENVER(KTFD)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS DENVER(KTFD)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760647
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: UNIMAS CLEVELAND(WUTF)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS CLEVELAND(WUTF)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760648
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: UNIMAS BOSTON(WUTF)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS BOSTON(WUTF)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760649
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: UNIMAS AUSTIN(KTFO)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS AUSTIN(KTFO)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760650
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: UNIMAS ALBUQUERQUE(KTFQ)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS ALBUQUERQUE(KTFQ)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760651
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: UNIVISION HOUSTON(KXLN)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIVISION HOUSTON(KXLN)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760652
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: UNIVISION CHICAGO(WGBO)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIVISION CHICAGO(WGBO)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760653
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: TELEMUNDO HOUSTON(KTMD)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO HOUSTON(KTMD)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760654
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: TELEMUNDO INTERNACIONAL
+#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO INTERNACIONAL
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760655
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: TELEMUNDO EAST
+#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO EAST
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760656
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: TELEMUNDO WEST
+#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO WEST
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760657
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: UNIMAS EAST
+#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS EAST
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760658
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: UNIVISION EAST
+#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIVISION EAST
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760659
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: UNIVISION WEST
+#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIVISION WEST
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760660
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: GALAVISION EAST
+#EXTINF:-1 group-title="Bics Extra Latino",USL: GALAVISION EAST
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760661
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: GALAVISION WEST
+#EXTINF:-1 group-title="Bics Extra Latino",USL: GALAVISION WEST
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760662
-#EXTINF:-1 group-title="TELEMUNDO / UNIMAS",USL: UNIVISION MIAMI (WLTV)
+#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIVISION MIAMI (WLTV)
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/780601
 
 ****************************************************************************************************************************************************************
-*************************** https://raw.githubusercontent.com/angel200881/C/main/C5.m3u8  **********************************
-*********************************  https://raw.githubusercontent.com/angel200881/C/main/CTWO.m3u8  *************************************************************
-*********************************  https://raw.githubusercontent.com/angel200881/C/main/FOUR KEI.m3u8  *************************************************************
-*****************************   https://raw.githubusercontent.com/atim2515/ATIM_BOSTON/main/TIM%20IPTV  ************************************************
-* SEGUIR Y BUSCAR ****************************************  https://github.com/atim2515/ATIM_BOSTON/blob/main/CABLE%20KINGS   ****************************
-* SEGUIR Y BUSCAR *************************************  https://github.com/HermesNETgt/a/blob/main/hermesnettv.m3u ***************************************
-* SEGUIR Y BUSCAR ******************************** https://raw.githubusercontent.com/fantomannn/lista/f7995a4661e08f7bfab4cc175bcf289d86f93205/total%20play.m3u    **********
-* SEGUIR Y BUSCAR ***************************  https://github.com/Taher838/IPTV/blob/fb7ae31b9258406ec6b481fcd8ce80eddd41dc0b/TV2022 **********************************
-*********************************************  https://raw.githubusercontent.com/la22lo/sports/main/futbol.m3u ***************************************
-*****************************  https://raw.githubusercontent.com/badshave/xVocoUK3/main/VocoUK3.txt *************************
-****************************  https://raw.githubusercontent.com/MrGmaw/enlaces/23314219af19afea9b0fea8339edfd5a47c47ad2/playlist.m3u ************************
-**********************************  https://github.com/angel200881/chann/blob/main/TP.m3u8 ******************************
-******************************* https://raw.githubusercontent.com/cesarivan2310/Lista/main/Canales ********************************************************************************
-******************************* https://raw.githubusercontent.com/newton181/dATA/main/_mx.m3u8 **********************************************************************
-******************************* https://github.com/PhoenixDreamsCompany/TV_PREMIUM_TOLUCA/blob/main/LAGUERA.m3u  *************************************************
-******************************************************  https://github.com/ccr2310/MX/blob/main/Prueba  *****************************************************
-*********************************************** https://raw.githubusercontent.com/ednar33/newton/main/androtv.m3u *****************************************************
-*************************************  https://raw.githubusercontent.com/ednar33/newton/main/AMLO.m3u  ***************************************************
-*************************************  https://raw.githubusercontent.com/ednar33/newton/main/v1x.m3u  ***************************************************
-*************************************  https://raw.githubusercontent.com/dann1110/GreatTV/master/TVBOX%202  ***************************************************
-**********************   https://raw.githubusercontent.com/4benteveos/Personal/main/Prueba1.m3u ****************************************
-************************************************************************************************************************************************************
 
-*******************************  https://github.com/Danielopez744/loly/blob/main/Lista.m3u   *************************************************
-***** #EXTINF:-1 group-title="RokuTV",  ESPN EXTRA PREMIUM HD
-***** http://moontools.me:8080/Lupe001/yQxKLr3DAz4w/81684
-*******************************    https://raw.githubusercontent.com/jsosao/dann1110_GreatTV/master/TVBOX 2    *****************************************
-************************  https://raw.githubusercontent.com/dann1110/GreatTV/0e14dcf7106f6eb89651fa9bbb03b2780a378b7c/RokuTV  ***************************
-**********************************   https://raw.githubusercontent.com/bodegaacuenta/Moyobambaastral/main/TVCable  ***********************
-******************************************************  https://github.com/waldmtr3s/waldmtr3s.github.io   **********************************************
-*****************************************  https://github.com/pcouillard/iptv/blob/main/iptv.m3u ***************************************
-*******************************  https://github.com/anthono12/rey1212/blob/360812912e6b26a99db05df05b7db59660a13a63/rony.m3u8   *************************************************
-*********************************************  https://github.com/iptv-org/iptv/discussions/10639 ***************************************
-
-*********************************************  https://raw.githubusercontent.com/app2tv/M3U8/master/All.m3u ***************************************
-**************** https://github.com/cnluisiptv/nuevo.m3u/blob/main/premium2023.m3u *****************
-
-***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/622
