@@ -23,15 +23,15 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 ***** https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 ***** https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
 ***** https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS
-***** #EXTVLCOPT--http-reconnect=true
-***** https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS -1HR
-***** #EXTVLCOPT--http-reconnect=true
-***** https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS -2HR
-***** #EXTVLCOPT--http-reconnect=true
-***** https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS
+#EXTVLCOPT--http-reconnect=true
+https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS -1HR
+#EXTVLCOPT--http-reconnect=true
+https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS -2HR
+#EXTVLCOPT--http-reconnect=true
+https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS LATAM
 #EXTVLCOPT--http-reconnect=true
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
@@ -44,9 +44,9 @@ http://181.78.105.146:2000/play/a00h/index.m3u8
 #EXTINF:-1 group-title="Bics", MX: CANAL 5
 #EXTVLCOPT--http-reconnect=true
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: CANAL 5
-***** #EXTVLCOPT--http-reconnect=true
-***** https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", MX: CANAL 5
+#EXTVLCOPT--http-reconnect=true
+https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: MULTIMEDIOS MTY
 #EXTVLCOPT--http-reconnect=true
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
@@ -83,51 +83,44 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1  group-title="Bics", MX: MVS
 #EXTVLCOPT--http-reconnect=true
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: MILENIO
-***** #EXTVLCOPT--http-reconnect=true
-***** https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: 4 GDL
-***** #EXTVLCOPT--http-reconnect=true
-***** https://linear-402.frequency.stream/mt/studio/402/hls/master/playlist.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: 8 MTY
-***** #EXTVLCOPT--http-reconnect=true
-***** https://linear-403.frequency.stream/mt/studio/403/hls/master/playlist.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: UNICABLE
-***** #EXTVLCOPT--http-reconnect=true
-***** https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: UNIVISION
-***** #EXTVLCOPT--http-reconnect=true
-***** https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: UNIVISION 24/7
-***** #EXTVLCOPT--http-reconnect=true
-***** https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: EURO NEWS
-***** #EXTVLCOPT--http-reconnect=true
-***** https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: ATV+ PE
-***** #EXTVLCOPT--http-reconnect=true
-***** https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: TN23
-***** #EXTVLCOPT--http-reconnect=true
-***** https://linear-259.frequency.stream/dist/vix/259/hls/master/playlist.m3u8
-
+#EXTINF:-1 group-title="Bics", MX: MILENIO
+#EXTVLCOPT--http-reconnect=true
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1 group-title="Bics", MX: 4 GDL
+#EXTVLCOPT--http-reconnect=true
+https://linear-402.frequency.stream/mt/studio/402/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", MX: 8 MTY
+#EXTVLCOPT--http-reconnect=true
+https://linear-403.frequency.stream/mt/studio/403/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", MX: UNICABLE
+#EXTVLCOPT--http-reconnect=true
+https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", MX: UNIVISION
+#EXTVLCOPT--http-reconnect=true
+https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", MX: UNIVISION 24/7
+#EXTVLCOPT--http-reconnect=true
+https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", MX: EURO NEWS
+#EXTVLCOPT--http-reconnect=true
+https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: FORO TV
 #EXTVLCOPT--http-reconnect=true
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: FORO TV
-***** #EXTVLCOPT--http-reconnect=true
-***** https://linear-300.frequency.stream/mt/studio/300/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", MX: FORO TV
+#EXTVLCOPT--http-reconnect=true
+https://linear-300.frequency.stream/mt/studio/300/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Bics", MX: N+ MEDIA
 #EXTVLCOPT--http-reconnect=true
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 
-***** #EXTINF:-1 group-title="Bics", MX: N+ MEDIA
-***** #EXTVLCOPT--http-reconnect=true
-***** https://linear-301.frequency.stream/mt/studio/301/hls/master/playlist.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: N+
-***** #EXTVLCOPT--http-reconnect=true
-***** https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
+#EXTINF:-1 group-title="Bics", MX: N+ MEDIA
+#EXTVLCOPT--http-reconnect=true
+https://linear-301.frequency.stream/mt/studio/301/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", MX: N+
+#EXTVLCOPT--http-reconnect=true
+https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 
 #EXTINF:-1 group-title="Bics", MX: N+ GDL
 #EXTVLCOPT--http-reconnect=true
@@ -135,44 +128,43 @@ https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
 #EXTINF:-1 group-title="Bics", MX: N+ MTY
 #EXTVLCOPT--http-reconnect=true
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
-
 ***** https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: GOLDEN
-***** #EXTVLCOPT--http-reconnect=true
-***** https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: GOLDEN
-***** #EXTVLCOPT--http-reconnect=true
-***** https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: GOLDEN
-***** #EXTVLCOPT--http-reconnect=true
-***** https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: GOLDEN PLUS
-***** #EXTVLCOPT--http-reconnect=true
-***** https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: GOLDEN PLUS
-***** #EXTVLCOPT--http-reconnect=true
-***** https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: GOLDEN PREMIER
-***** #EXTVLCOPT--http-reconnect=true
-***** https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: EDGE
-***** #EXTVLCOPT--http-reconnect=true
-***** https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: DPELICULA
-***** #EXTVLCOPT--http-reconnect=true
-***** https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: DPELICULA PLUS
-***** #EXTVLCOPT--http-reconnect=true
-***** https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: DISTRITO COMEDIA
-***** #EXTVLCOPT--http-reconnect=true
-***** https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: VIVO PLAY
-***** #EXTVLCOPT--http-reconnect=true
-***** https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: NUESTRA VISION
-***** #EXTVLCOPT--http-reconnect=true
-***** https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", MX: GOLDEN
+#EXTVLCOPT--http-reconnect=true
+https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", MX: GOLDEN
+#EXTVLCOPT--http-reconnect=true
+https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", MX: GOLDEN
+#EXTVLCOPT--http-reconnect=true
+https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", MX: GOLDEN PLUS
+#EXTVLCOPT--http-reconnect=true
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", MX: GOLDEN PLUS
+#EXTVLCOPT--http-reconnect=true
+https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", MX: GOLDEN PREMIER
+#EXTVLCOPT--http-reconnect=true
+https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", MX: EDGE
+#EXTVLCOPT--http-reconnect=true
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", MX: DPELICULA
+#EXTVLCOPT--http-reconnect=true
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", MX: DPELICULA PLUS
+#EXTVLCOPT--http-reconnect=true
+https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", MX: DISTRITO COMEDIA
+#EXTVLCOPT--http-reconnect=true
+https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", MX: VIVO PLAY
+#EXTVLCOPT--http-reconnect=true
+https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", MX: NUESTRA VISION
+#EXTVLCOPT--http-reconnect=true
+https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 #EXTINF:-1  group-title="Bics", MX: MARIA VISION
 #EXTVLCOPT--http-reconnect=true
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
@@ -188,9 +180,9 @@ https://ythls-v2.onrender.com/channel/UCjhq1eY5Ce1TGOn2JbGnHsw.m3u8
 #EXTINF:-1 group-title="Bics", MX: CÑÑ
 #EXTVLCOPT--http-reconnect=true
 https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: BANDAMAX
-***** #EXTVLCOPT--http-reconnect=true
-***** https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", MX: BANDAMAX
+#EXTVLCOPT--http-reconnect=true
+https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 
 *******************************************************************************************************************************************************************
 
