@@ -219,6 +219,7 @@ http://138.59.177.34:8000/play/a064/index.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", AR: TN
 #EXTVLCOPT--http-reconnect=true
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+
 ************* pepe *******************
 #EXTINF:-1 group-title="Bics Extra Latino", EC: ECUAVISA
 #EXTVLCOPT--http-reconnect=true
@@ -233,6 +234,20 @@ https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", COL: RCN
 #EXTVLCOPT--http-reconnect=true
 http://c24u.xyz:8080/GUILLERMO/GUILLERMO/332487
+
+#EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 4
+#EXTVLCOPT--http-reconnect=true
+http://168.227.22.18:1935/live/mobile-036/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 10
+#EXTVLCOPT--http-reconnect=true
+http://168.227.22.18:1935/live/mobile-037/playlist.m3u8
+
+#EXTINF:-1 group-title="Bics Extra Inter", AL JAZEERA EN
+#EXTVLCOPT--http-reconnect=true
+https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
+#EXTINF:-1 group-title="Bics Extra Inter", AL JAZEERA ARAB
+#EXTVLCOPT--http-reconnect=true
+https://live-hls-web-aja-fa.getaj.net/AJA/05.m3u8
 
 ********************************************* CANALES REGIONALES Y YOUTUBE  ********************************************************************************
 
