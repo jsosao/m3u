@@ -365,9 +365,23 @@ https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 https://ythls-v2.onrender.com/channel/UCe3Ev4a4Sm9L5aO9sJJ_WXw.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: AYM SPORTS
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: DIABLOS ROJOS
+
+#EXTINF:-1 group-title="Bics DEPORTES", LMB: DIABLOS ROJOS
 #EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UCbPTmPbmSO-BYGCMHm77RUg.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", LMB: ACEREROS
+#EXTVLCOPT--http-reconnect=true
+https://ythls-v2.onrender.com/channel/UCsRvUjq4j4LvHxNdHLUbydw.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", LMB: DORADOS
+#EXTVLCOPT--http-reconnect=true
+https://ythls-v2.onrender.com/channel/UCQOSwVDBx6UDeM0v66zQjAg.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", LMB: TOROS
+#EXTVLCOPT--http-reconnect=true
+https://ythls-v2.onrender.com/channel/UCcjoyEQK5cAuYlw78v4GCuA.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", LMB: OLMECAS
+#EXTVLCOPT--http-reconnect=true
+https://ythls-v2.onrender.com/channel/UCskCU9jRXOXrouFcJZSJc1w.m3u8
+
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FOX SPORTS DIGITAL
 #EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UCUf4RLsG_TsjinvtL2jT-VA.m3u8
