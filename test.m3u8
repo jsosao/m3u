@@ -368,6 +368,16 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: DIABLOS ROJOS
 #EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UCbPTmPbmSO-BYGCMHm77RUg.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", MX: FOX SPORTS DIGITAL
+#EXTVLCOPT--http-reconnect=true
+https://ythls-v2.onrender.com/channel/UCUf4RLsG_TsjinvtL2jT-VA.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", MX: TU CANAL EDUCATIVO
+#EXTVLCOPT--http-reconnect=true
+https://ythls-v2.onrender.com/channel/UC4mSfK49CGFZPrRK50xPS6w.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", MX: MADO REPORT DEPORTES
+#EXTVLCOPT--http-reconnect=true
+https://ythls-v2.onrender.com/channel/UCB8Tv4_FgS5-JYezqShFDKQ.m3u8
+
 
 #EXTINF:-1 group-title="Bics DEPORTES", MX: BEiN SPORT
 #EXTVLCOPT--http-reconnect=true
