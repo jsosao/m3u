@@ -7,7 +7,7 @@
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", UPDATED 19 DE ABR 12:00 HRS
+#EXTINF:-1 group-title="Bics", MX: 190420241200
 https://raw.githubusercontent.com/jsosao/m3u/main/patron.mp4
 
 #EXTINF:-1 group-title="Bics", MX: AZTECA UNO
@@ -246,10 +246,10 @@ https://cdnhd.iblups.com/hls/ptv5.m3u8
 http://c24u.xyz:8080/GUILLERMO/GUILLERMO/332487
 
 
-#EXTINF:-1 group-title="Bics Extra Inter", AL JAZEERA EN
+#EXTINF:-1 group-title="Bics Extra US", AL JAZEERA EN
 #EXTVLCOPT--http-reconnect=true
 https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
-#EXTINF:-1 group-title="Bics Extra Inter", AL JAZEERA ARAB
+#EXTINF:-1 group-title="Bics Extra US", AL JAZEERA ARAB
 #EXTVLCOPT--http-reconnect=true
 https://live-hls-web-aja-fa.getaj.net/AJA/05.m3u8
 
@@ -2897,6 +2897,7 @@ http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759354
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759355
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/WVLT-TV_logo.svg/180px-WVLT-TV_logo.svg.png" group-title="Bics US CBS", CBS: WVLT 8 Knoxville TN
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759789
+
 #EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.YbMVfEGXVdhUUwU0fh29TwHaEL&pid=Api&P=0" group-title="Bics Extra US", BASICS: A&E
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/776274
 #EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/AHC.png" group-title="Bics Extra US", BASICS: AHC/AMERICAN HEROES CHANNEL
@@ -3302,122 +3303,59 @@ http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742621
 #EXTINF:-1  tvg-logo="http://puddintap.click/ico/IPTVLogo/sec_network.png"group-title="Bics DEPORTES", ESPN:  SEC NETWORK
 http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/743074
 
-#EXTINF:-1 group-title="Bics Extra Latino",USL: GALAVISION LOS ANGELES
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760597
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIVISION NY(WXTV)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760604
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIVISION PHILADELPHIA(WUVP)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760605
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIVISION PHOENIX(KTVW)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760606
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIVISION PUERTO RICO(WLII)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760607
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO SAN ANTONIO(KVDA)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760608
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO LOS ANGELES(KVEA)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760609
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO WASHINGTON DC(WZDC)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760610
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO TUCSON(KHRR)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760611
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO TAMPA(WRMD)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760612
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO SAN JOSE(KSTS)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760613
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO SALT LAKE CITY(KTMW)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760614
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO SACRAMENTO(KCSO)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760615
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO RIO GRANDE(KTLM)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760616
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO PHILADELPHIA(WWSI)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760617
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO ORLANDO(WTMO)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760618
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO OKLAHOMA CITY(KTUZ)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760619
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO NEW ORLEANS(KGLA)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760620
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO NEW JERSEY(WNJU)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760621
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO MIAMI(WSCV)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760622
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO LAS VEGAS(KBLR)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760623
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO HARTFORD(WRDM)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760624
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO DENVER(KDEN)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760625
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO CHICAGO(WSNS)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760626
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO BOSTON(WNEU)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760627
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO ATLANTA(WKTB)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760628
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO ARIZONA(KTAZ)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760629
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO PUERTO RICO(WKAQ)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760630
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS SAN FRANCISCO(KFSF)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760631
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS FORT LAUDERDALE(WAMI)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760632
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS SAN ANTONIO(KNIC)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760633
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS SACRAMENTO(KTFK)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760634
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS PHOENIX(KFPH)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760636
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS ORLANDO(WOTF)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760638
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS NEW JERSEY(WFUT)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760640
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS LOS ANGELES(KFTR)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760641
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS LAS VEGAS(KNTL)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760642
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS IRVING(KSTR)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760643
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS HOUSTON(KFTH)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760644
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS FRESNO(KTFF)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760645
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS FLAGSTAFF(KFPH)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760646
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS DENVER(KTFD)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760647
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS CLEVELAND(WUTF)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760648
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS BOSTON(WUTF)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760649
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS AUSTIN(KTFO)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760650
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS ALBUQUERQUE(KTFQ)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760651
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIVISION HOUSTON(KXLN)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760652
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIVISION CHICAGO(WGBO)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760653
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO HOUSTON(KTMD)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760654
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO INTERNACIONAL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760655
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO EAST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760656
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760657
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS EAST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760658
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIVISION EAST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760659
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIVISION WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760660
-#EXTINF:-1 group-title="Bics Extra Latino",USL: GALAVISION EAST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760661
-#EXTINF:-1 group-title="Bics Extra Latino",USL: GALAVISION WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760662
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIVISION MIAMI (WLTV)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/780601
+
+
+#EXTINF:-1 group-title="Bics Extra Latino",USL Telemundo  KNSO Fresno
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/74481
+#EXTINF:-1 group-title="Bics Extra Latino",USL Telemundo (Tampa)
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/103625
+#EXTINF:-1 group-title="Bics Extra Latino",USL Telemundo 20 Salt Lake
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/76312
+#EXTINF:-1 group-title="Bics Extra Latino",USL Telemundo 47 Newyork
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/30692
+#EXTINF:-1 group-title="Bics Extra Latino",USL TELEMUNDO 48 SAN FRANCISCO
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/206
+#EXTINF:-1 group-title="Bics Extra Latino",USL Telemundo 51 Miami
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/30513
+#EXTINF:-1 group-title="Bics Extra Latino",USL Telemundo Charlotte
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/135425
+#EXTINF:-1 group-title="Bics Extra Latino",USL Telemundo Orlando
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/74471
+#EXTINF:-1 group-title="Bics Extra Latino",USL TELEMUNDO WASHINGTON 44
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/50867
+#EXTINF:-1 group-title="Bics Extra Latino",USL Univision 40 WUVC Raleigh
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/71567
+#EXTINF:-1 group-title="Bics Extra Latino",USL Univision 42 WLLC NASHVILLE
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/49265
+#EXTINF:-1 group-title="Bics Extra Latino",USL Univision Atlanta WUVG
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/2020
+#EXTINF:-1 group-title="Bics Extra Latino",USL Univision Dallas KUVN
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/64885
+#EXTINF:-1 group-title="Bics Extra Latino",USL Univision KDTV SAN FRANCISCO
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/52381
+#EXTINF:-1 group-title="Bics Extra Latino",USL Univision KUTH Salt Lake
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/142998
+#EXTINF:-1 group-title="Bics Extra Latino",USL Univision KXLN Houston
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/228
+#EXTINF:-1 group-title="Bics Extra Latino",USL Univision LA KMEX
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/30370
+#EXTINF:-1 group-title="Bics Extra Latino",USL Univision Las Vegas KINC
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/96548
+#EXTINF:-1 group-title="Bics Extra Latino",USL Univision MIAMI
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/102
+#EXTINF:-1 group-title="Bics Extra Latino",USL Univision Sacramento KUVS
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/118200
+#EXTINF:-1 group-title="Bics Extra Latino",USL Univision WGBO Chicago
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/15893
+#EXTINF:-1 group-title="Bics Extra Latino",USL Univision WXTV  NEW YORK
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/15894
+#EXTINF:-1 group-title="Bics Extra Latino",USL Unimas 46 KFTR LA
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/34112
+#EXTINF:-1 group-title="Bics Extra Latino",USL Univision KFTV Fresno
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/74482
+#EXTINF:-1 group-title="Bics Extra Latino",USL Univision WVEN Orlando
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/74472
+
 
 ****************************************************************************************************************************************************************
 
