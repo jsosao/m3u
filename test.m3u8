@@ -1,13 +1,13 @@
 #EXTM3U
 
-************************  19/ABR/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  20/ABR/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ************************ HI, THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", UPDATED 19 DE ABR 12:00 HRS
+#EXTINF:-1 group-title="Bics", UPDATED 20 DE ABR 12:00 HRS
 https://zzzz.zzz
 
 #EXTINF:-1 group-title="Bics", MX: AZTECA UNO
@@ -361,34 +361,35 @@ https://ythls-v2.onrender.com/channel/UCQb3i7gu9J8A4zzQU7j6C1Q.m3u8
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: CLARO SPORTS
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: AZTECA DEPORTES
-https://ythls-v2.onrender.com/channel/UCe3Ev4a4Sm9L5aO9sJJ_WXw.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: AYM SPORTS
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", HI! SPORTS TV
+#EXTVLCOPT--http-reconnect=true
+https://ythls-v2.onrender.com/channel/UCpWPnP8s0YbVpzhzg6Pk2iA.m3u8
 
-#EXTINF:-1 group-title="Bics DEPORTES", LMB: DIABLOS ROJOS
+
+#EXTINF:-1 group-title="Bics REGIONALES", LMB: SARAPEROS
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", LMB: DIABLOS ROJOS (SOLO EN PARTIDO)
 #EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UCbPTmPbmSO-BYGCMHm77RUg.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", LMB: ACEREROS
+#EXTINF:-1 group-title="Bics DEPORTES", LMB: ACEREROS (SOLO EN PARTIDO)
 #EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UCsRvUjq4j4LvHxNdHLUbydw.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", LMB: DORADOS
+#EXTINF:-1 group-title="Bics DEPORTES", LMB: DORADOS (SOLO EN PARTIDO)
 #EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UCQOSwVDBx6UDeM0v66zQjAg.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", LMB: TOROS
+#EXTINF:-1 group-title="Bics DEPORTES", LMB: TOROS (SOLO EN PARTIDO)
 #EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UCcjoyEQK5cAuYlw78v4GCuA.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", LMB: OLMECAS
+#EXTINF:-1 group-title="Bics DEPORTES", LMB: OLMECAS (SOLO EN PARTIDO)
 #EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UCskCU9jRXOXrouFcJZSJc1w.m3u8
 
-#EXTINF:-1 group-title="Bics DEPORTES", MX: FOX SPORTS DIGITAL
-#EXTVLCOPT--http-reconnect=true
-https://ythls-v2.onrender.com/channel/UCUf4RLsG_TsjinvtL2jT-VA.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: TU CANAL EDUCATIVO
+#EXTINF:-1 group-title="Bics DEPORTES", MX: TU CANAL EDUCATIVO (SOLO EN PARTIDO)
 #EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UC4mSfK49CGFZPrRK50xPS6w.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: MADO REPORT DEPORTES
+#EXTINF:-1 group-title="Bics DEPORTES", MX: MADO REPORT DEPORTES (SOLO EN PARTIDO)
 #EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UCB8Tv4_FgS5-JYezqShFDKQ.m3u8
 
@@ -694,7 +695,7 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/122
 #EXTINF:-1 group-title="Bics DEPORTES",US MLB Network
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/126
 #EXTINF:-1 group-title="Bics DEPORTES",US FOX DEPORTES
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/128
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/501
 #EXTINF:-1 group-title="Bics DEPORTES",US ESPN 1
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/129
 #EXTINF:-1 group-title="Bics DEPORTES",US TSN Sports 4
@@ -2176,4 +2177,25 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1078
 ***** http://167.114.156.136:25461/INFINITV/ZX89NM22/230
 
 ****************************************************************************************************************************************************************
+
+#EXTINF:-1 group-title="Bics Extra TEST",1
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1
+#EXTINF:-1 group-title="Bics Extra TEST",2
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/2
+#EXTINF:-1 group-title="Bics Extra TEST",3
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/3
+#EXTINF:-1 group-title="Bics Extra TEST",4
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/4
+#EXTINF:-1 group-title="Bics Extra TEST",5
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/5
+#EXTINF:-1 group-title="Bics Extra TEST",6
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/6
+#EXTINF:-1 group-title="Bics Extra TEST",7
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/7
+#EXTINF:-1 group-title="Bics Extra TEST",8
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/8
+#EXTINF:-1 group-title="Bics Extra TEST",9
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/9
+#EXTINF:-1 group-title="Bics Extra TEST",10
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/10
 
