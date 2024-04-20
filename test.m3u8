@@ -1,14 +1,14 @@
 #EXTM3U
 
-************************  13/ABR/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  19/ABR/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ************************ HI, THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", UPDATED 13 DE ABR 12:00 HRS
-https://zzzz.zzz
+#EXTINF:-1 group-title="Bics", UPDATED 19 DE ABR 12:00 HRS
+https://raw.githubusercontent.com/jsosao/m3u/main/patron.mp4
 
 #EXTINF:-1 group-title="Bics", MX: AZTECA UNO
 #EXTVLCOPT--http-reconnect=true
@@ -224,6 +224,16 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", EC: ECUAVISA
 #EXTVLCOPT--http-reconnect=true
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
+#EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 4
+#EXTVLCOPT--http-reconnect=true
+https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
+#EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 6
+#EXTVLCOPT--http-reconnect=true
+https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/.m3u8
+#EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 12
+#EXTVLCOPT--http-reconnect=true
+https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+
 ************ bodega *******************
 #EXTINF:-1 group-title="Bics Extra Latino", PE: PANAMERICANA
 #EXTVLCOPT--http-reconnect=true
@@ -235,12 +245,6 @@ https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://c24u.xyz:8080/GUILLERMO/GUILLERMO/332487
 
-#EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 4
-#EXTVLCOPT--http-reconnect=true
-http://168.227.22.18:1935/live/mobile-036/playlist.m3u8
-#EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 10
-#EXTVLCOPT--http-reconnect=true
-http://168.227.22.18:1935/live/mobile-037/playlist.m3u8
 
 #EXTINF:-1 group-title="Bics Extra Inter", AL JAZEERA EN
 #EXTVLCOPT--http-reconnect=true
