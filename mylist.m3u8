@@ -1,13 +1,13 @@
 #EXTM3U
 
-************************  13/ABR/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  19/ABR/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ************************ HI, THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", UPDATED 13 DE ABR 12:00 HRS
+#EXTINF:-1 group-title="Bics", UPDATED 19 DE ABR 12:00 HRS
 https://zzzz.zzz
 
 #EXTINF:-1 group-title="Bics", MX: AZTECA UNO
@@ -68,9 +68,9 @@ https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 group-title="Bics", MX: NU9VE
 #EXTVLCOPT--http-reconnect=true
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: NU9VE
-***** #EXTVLCOPT--http-reconnect=true
-***** https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", MX: NU9VE
+#EXTVLCOPT--http-reconnect=true
+https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: ONCE
 #EXTVLCOPT--http-reconnect=true
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
@@ -110,7 +110,6 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", MX: FORO TV
 #EXTVLCOPT--http-reconnect=true
 https://linear-300.frequency.stream/mt/studio/300/hls/master/playlist.m3u8
-
 #EXTINF:-1 group-title="Bics", MX: N+ MEDIA
 #EXTVLCOPT--http-reconnect=true
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
@@ -121,7 +120,6 @@ https://linear-301.frequency.stream/mt/studio/301/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: N+
 #EXTVLCOPT--http-reconnect=true
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
-
 #EXTINF:-1 group-title="Bics", MX: N+ GDL
 #EXTVLCOPT--http-reconnect=true
 https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
@@ -186,10 +184,6 @@ https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 
 *******************************************************************************************************************************************************************
 
-#EXTINF:-1 group-title="Bics Extra Latino", LATAM: UNIVISION
-#EXTVLCOPT--http-reconnect=true
-https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
-
 #EXTINF:-1 group-title="Bics Extra Latino", PR: UNIVISION
 #EXTVLCOPT--http-reconnect=true
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
@@ -199,14 +193,12 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 group-title="Bics Extra Latino", PR: TELEMUNDO 2
 #EXTVLCOPT--http-reconnect=true
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-
 #EXTINF:-1 group-title="Bics Extra Latino", US: CANAL 57
 #EXTVLCOPT--http-reconnect=true
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Bics Extra US", US: CNN
 #EXTVLCOPT--http-reconnect=true
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-
 #EXTINF:-1 group-title="Bics Extra US", US: NASA TV
 #EXTVLCOPT--http-reconnect=true
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
@@ -227,10 +219,21 @@ http://138.59.177.34:8000/play/a064/index.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", AR: TN
 #EXTVLCOPT--http-reconnect=true
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+
 ************* pepe *******************
 #EXTINF:-1 group-title="Bics Extra Latino", EC: ECUAVISA
 #EXTVLCOPT--http-reconnect=true
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
+#EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 4
+#EXTVLCOPT--http-reconnect=true
+https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
+#EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 6
+#EXTVLCOPT--http-reconnect=true
+https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/.m3u8
+#EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 12
+#EXTVLCOPT--http-reconnect=true
+https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+
 ************ bodega *******************
 #EXTINF:-1 group-title="Bics Extra Latino", PE: PANAMERICANA
 #EXTVLCOPT--http-reconnect=true
@@ -238,10 +241,17 @@ https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", PE: PANAMERICANA
 #EXTVLCOPT--http-reconnect=true
 https://cdnhd.iblups.com/hls/ptv5.m3u8
-
 #EXTINF:-1 group-title="Bics Extra Latino", COL: RCN
 #EXTVLCOPT--http-reconnect=true
 http://c24u.xyz:8080/GUILLERMO/GUILLERMO/332487
+
+
+#EXTINF:-1 group-title="Bics Extra US", AL JAZEERA EN
+#EXTVLCOPT--http-reconnect=true
+https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
+#EXTINF:-1 group-title="Bics Extra US", AL JAZEERA ARAB
+#EXTVLCOPT--http-reconnect=true
+https://live-hls-web-aja-fa.getaj.net/AJA/05.m3u8
 
 ********************************************* CANALES REGIONALES Y YOUTUBE  ********************************************************************************
 
@@ -249,7 +259,6 @@ http://c24u.xyz:8080/GUILLERMO/GUILLERMO/332487
 https://ythls-v2.onrender.com/channel/UC5ZtV3bu3bjSuOLoA6oCFIg.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", AGS: CANAL 26
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="Bics REGIONALES", BAJA: TELEVISA ENSENADA
 https://ythls-v2.onrender.com/channel/UCFuWAM_YItwkHzDWDKtJULg.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", BAJA: TELEVISA MEXICALI
@@ -260,7 +269,6 @@ https://ythls-v2.onrender.com/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
 https://ythls-v2.onrender.com/channel/UCgu4v4HAioB0N5K6aq_H-WQ.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", BAJA: CANAL 33 TIJUANA
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
-
 #EXTINF:-1 group-title="Bics REGIONALES", CUA: TELEVISA CHIHUAHUA
 https://ythls-v2.onrender.com/channel/UCjfxDe7In59Jbfw2HmIh_Vg.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", CUA: TELEVISA CD. JUAREZ
@@ -271,7 +279,6 @@ https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", CUA: CANAL 50 Ciudad Juárez
 https://stream.oursnetworktv.com/latin/juarez50/playlist.m3u8
-
 #EXTINF:-1 group-title="Bics REGIONALES", COA: TELEVISA LAGUNA
 https://ythls-v2.onrender.com/channel/UC_mwCcsKDJLSWjply5s0h8w.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", COA: TELEVISA PIEDRAS NEGRAS
@@ -284,7 +291,6 @@ https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 https://ythls-v2.onrender.com/channel/UCR1aiCpU4PdNg-wCDiuDCcg.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", COA: CANAL 15 SABINAS
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="Bics REGIONALES", CHIAP: CANAL 10
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 
@@ -359,9 +365,6 @@ https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 https://ythls-v2.onrender.com/channel/UCe3Ev4a4Sm9L5aO9sJJ_WXw.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: AYM SPORTS
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", CO: WIN SPORTS
-#EXTVLCOPT--http-reconnect=true
-https://ythls-v2.onrender.com/channel/UCZjpA3YBPXvJv3pg4SPEjfw.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: DIABLOS ROJOS
 #EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UCbPTmPbmSO-BYGCMHm77RUg.m3u8
@@ -492,13 +495,13 @@ https://linear-508.frequency.stream/mt/studio/508/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Bics Extra FANTASTIC",ANIMAL PLANET
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/2
-#EXTINF:-1 group-title="Bics",AZTECA 7
+#EXTINF:-1 group-title="Bics",MX: AZTECA 7
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/4
 #EXTINF:-1 group-title="Bics Extra FANTASTIC",CARTOONITO
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/5
-#EXTINF:-1 group-title="Bics",Canal 5
+#EXTINF:-1 group-title="Bics",MX: Canal 5
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/7
-#EXTINF:-1 group-title="Bics",CANAL 9
+#EXTINF:-1 group-title="Bics",MX: CANAL 9
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/8
 #EXTINF:-1 group-title="Bics Extra FANTASTIC",CARTOON NETWORK
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/9
@@ -538,7 +541,7 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/26
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/27
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN 4
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/28
-#EXTINF:-1 group-title="Bics",ESTRELLAS
+#EXTINF:-1 group-title="Bics",MX: LAS ESTRELLAS
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/29
 #EXTINF:-1 group-title="Bics DEPORTES",FOX SPORTS 1
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/31
@@ -676,7 +679,7 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/130
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/131
 #EXTINF:-1 group-title="Bics Extra FANTASTIC",AZTECA INTERNACIONAL
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/132
-#EXTINF:-1 group-title="Bics",AZTECA 1
+#EXTINF:-1 group-title="Bics",MX: AZTECA 1
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/133
 #EXTINF:-1 group-title="Bics Extra FANTASTIC",BABY TV
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/134
@@ -692,7 +695,7 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/138
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/139
 #EXTINF:-1 group-title="Bics DEPORTES",EUROSPORTS 2
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/140
-#EXTINF:-1 group-title="Bics",FORO TV
+#EXTINF:-1 group-title="Bics",MX: FORO TV
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/141
 #EXTINF:-1 group-title="Bics DEPORTES",DAZN F1
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/146
@@ -714,7 +717,7 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/153
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/155
 #EXTINF:-1 group-title="Bics",IMAGEN TV
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/156
-#EXTINF:-1 group-title="Bics DEPORTES",ES LA LIGA
+#EXTINF:-1 group-title="Bics DEPORTES",ES: LA LIGA
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/157
 #EXTINF:-1 group-title="Bics Extra Internacional",ES LA SEXTA
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/158
@@ -1230,35 +1233,35 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/598
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/599
 #EXTINF:-1 group-title="Bics DEPORTES",FOX SPORTS PREMIUM MX
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/600
-#EXTINF:-1 group-title="Bics DEPORTES",DEP_LMP 01
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_LMB 01
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/601
-#EXTINF:-1 group-title="Bics DEPORTES",DEP_LMP 02
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_LMB 02
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/602
-#EXTINF:-1 group-title="Bics DEPORTES",DEP_LMP 03
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_LMB 03
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/603
-#EXTINF:-1 group-title="Bics DEPORTES",DEP_LMP 04
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_LMB 04
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/604
-#EXTINF:-1 group-title="Bics DEPORTES",DEP_LMP 05
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_LMB 05
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/605
-#EXTINF:-1 group-title="Bics DEPORTES",DEP_LMP 06
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_LMB 06
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/606
-#EXTINF:-1 group-title="Bics DEPORTES",DEP_LMP 07
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_LMB 07
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/607
-#EXTINF:-1 group-title="Bics DEPORTES",DEP_LMP 08
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_LMB 08
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/608
-#EXTINF:-1 group-title="Bics DEPORTES",DEP_LMP 09
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_LMB 09
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/609
-#EXTINF:-1 group-title="Bics DEPORTES",DEP_LMP 10
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_LMB 10
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/610
-#EXTINF:-1 group-title="Bics DEPORTES",DEP_LMP 11
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_LMB 11
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/611
-#EXTINF:-1 group-title="Bics DEPORTES",DEP_LMP 12
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_LMB 12
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/612
-#EXTINF:-1 group-title="Bics DEPORTES",DEP_LMP 13
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_LMB 13
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/613
-#EXTINF:-1 group-title="Bics DEPORTES",DEP_LMP 14
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_LMB 14
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/614
-#EXTINF:-1 group-title="Bics DEPORTES",DEP_LMP 15
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_LMB 15
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/615
 #EXTINF:-1 group-title="Bics Extra Internacional",BBC UK
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/616
@@ -1710,7 +1713,7 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/846
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/847
 #EXTINF:-1 group-title="Bics DEPORTES",DEP_NBA 12
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/848
-#EXTINF:-1 group-title="Bics DEPORTES",R_AEW 01
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_AEW 01
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/849
 #EXTINF:-1 group-title="Bics DEPORTES",DEP_MLS 01
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/850
@@ -1762,49 +1765,49 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/884
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/885
 #EXTINF:-1 group-title="Bics DEPORTES",COL DIRECTV SPORTS 2
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/468
-#EXTINF:-1 group-title="Bics DEPORTES",R_SupercopaespaÃ±a 01
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_SupercopaespaÃ±a 01
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/888
-#EXTINF:-1 group-title="Bics DEPORTES",R_SupercopaespaÃ±a 02
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_SupercopaespaÃ±a 02
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/889
-#EXTINF:-1 group-title="Bics DEPORTES",R_ligasaudi 01
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_ligasaudi 01
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/891
 #EXTINF:-1 group-title="Bics",MX Canal 22
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/894
 #EXTINF:-1 group-title="Bics Extra FANTASTIC",PPV 001
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/895
-#EXTINF:-1 group-title="Bics DEPORTES",R_Caribe 01
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_Caribe 01
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/896
-#EXTINF:-1 group-title="Bics DEPORTES",R_Caribe 02
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_Caribe 02
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/897
-#EXTINF:-1 group-title="Bics DEPORTES",R_Caribe 03
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_Caribe 03
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/898
-#EXTINF:-1 group-title="Bics DEPORTES",R_Libertadores 01
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_Libertadores 01
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/899
-#EXTINF:-1 group-title="Bics DEPORTES",R_CONCACAF 01
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_CONCACAF 01
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/900
-#EXTINF:-1 group-title="Bics DEPORTES",R_CONCACAF 02
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_CONCACAF 02
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/901
 #EXTINF:-1 group-title="Bics DEPORTES",DEP_Premier League 07
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/774
-#EXTINF:-1 group-title="Bics DEPORTES",R_FA Cup 04
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_FA Cup 04
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/905
-#EXTINF:-1 group-title="Bics DEPORTES",R_FA Cup 03
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_FA Cup 03
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/904
-#EXTINF:-1 group-title="Bics DEPORTES",R_FA Cup 02
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_FA Cup 02
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/903
-#EXTINF:-1 group-title="Bics DEPORTES",R_FA Cup 01
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_FA Cup 01
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/902
-#EXTINF:-1 group-title="Bics DEPORTES",R_CONCACAF 03
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_CONCACAF 03
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/906
-#EXTINF:-1 group-title="Bics DEPORTES",R_Eurocopa 02
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_Eurocopa 02
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/907
-#EXTINF:-1 group-title="Bics DEPORTES",R_Eurocopa 03
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_Eurocopa 03
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/908
 #EXTINF:-1 group-title="Bics DEPORTES",DEP_EXPANSION 04
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/909
-#EXTINF:-1 group-title="Bics DEPORTES",R_Padel 01
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_Padel 01
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/910
-#EXTINF:-1 group-title="Bics DEPORTES",R_INDYCAR 01
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_INDYCAR 01
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/911
 #EXTINF:-1 group-title="Bics DEPORTES",bally sports florida
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/912
@@ -1926,7 +1929,7 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/969
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/970
 #EXTINF:-1 group-title="Bics DEPORTES",FMLB Atlanta Braves
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/971
-#EXTINF:-1 group-title="Bics DEPORTES",R_Ciclismo 01
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_Ciclismo 01
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/973
 #EXTINF:-1 group-title="Bics DEPORTES",DEP_MLS 03
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/981
@@ -1950,13 +1953,13 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/989
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/990
 #EXTINF:-1 group-title="Bics DEPORTES",DEP_Liga MX 06
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/991
-#EXTINF:-1 group-title="Bics DEPORTES",R_CONCACAF 04
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_CONCACAF 04
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/998
-#EXTINF:-1 group-title="Bics",MX - ADN 40
+#EXTINF:-1 group-title="Bics", MX: ADN 40
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1000
-#EXTINF:-1 group-title="Bics REGIONALES",MX - Azteca Noreste
+#EXTINF:-1 group-title="Bics REGIONALES", MX: Azteca Noreste
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1001
-#EXTINF:-1 group-title="Bics Extra Internacional",DW Latino
+#EXTINF:-1 group-title="Bics Extra Latino",DW Latino
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1002
 #EXTINF:-1 group-title="Bics Extra FANTASTIC",NMas Media
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1003
@@ -1964,7 +1967,7 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1003
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1004
 #EXTINF:-1 group-title="Bics REGIONALES",Canal 28 Nuevo Leon
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1015
-#EXTINF:-1 group-title="Bics DEPORTES",R_Primeiraliga 01
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_Primeiraliga 01
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1016
 #EXTINF:-1 group-title="Bics Extra US",The CW - San Francisco KBCW
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1017
@@ -2002,13 +2005,13 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1054
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1055
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN PLUS 015
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1056
-#EXTINF:-1 group-title="Bics DEPORTES",R_Conmebol 01
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_Conmebol 01
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1057
-#EXTINF:-1 group-title="Bics DEPORTES",R_Conmebol 02
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_Conmebol 02
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1058
-#EXTINF:-1 group-title="Bics DEPORTES",R_Conmebol 03
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_Conmebol 03
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1059
-#EXTINF:-1 group-title="Bics DEPORTES",R_Conmebol 05
+#EXTINF:-1 group-title="Bics DEPORTES",DEP_Conmebol 05
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1061
 #EXTINF:-1 group-title="Bics DEPORTES",Great American Country
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1062
@@ -2148,1270 +2151,4 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1078
 ***** #EXTINF:-1 group-title="Bics Extra INFINITV",Discovery Turbo
 ***** http://167.114.156.136:25461/INFINITV/ZX89NM22/230
 
-*************************************************************************************************************************************************************
-
-#EXTINF:-1  tvg-logo="https://www.field59.com/wp-content/uploads/2015/12/kyur-480x360.png group-title="Bics US ABC", ABC: KYUR 13 Anchorage AK
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759356
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/WBMA-LD_Station_Logo.png group-title="Bics US ABC", ABC: WBMA 33/40 Birmingham AL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759358
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.W5kWhX-RhiOTD4nkLabU1AHaHa&pid=Api&P=0 group-title="Bics US ABC", ABC: WAAY 31 Huntsville AL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759359
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.TNXR-u0hKG6ydOvYg_F8oQAAAA&pid=Api&P=0 group-title="Bics US ABC", ABC: KHBS 40/29 Ft. Smith AR
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759360
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/KATV-7.png group-title="Bics US ABC", ABC: KATV 7 Little Rock AR
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759361
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.bF476uhD1jyLNsIdGii0zAHaE_&pid=Api&P=0 group-title="Bics US ABC", ABC: KNXV 15 Phoenix AZ
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759362
-#EXTINF:-1  tvg-logo="https://ewscripps.brightspotcdn.com/dims4/default/f48087a/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https:%2F%2Fewscripps.brightspotcdn.com%2F2b%2Fef%2Ff27eb6af414795616128c9d7e41f%2Fcorp-digital-default-image-1280x720-kgun.png group-title="Bics US ABC", ABC: KGUN 9 Tucson AZ
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759363
-#EXTINF:-1  tvg-logo="https://seeklogo.com/images/K/KERO_ABC_23_TV_Bakersfield-logo-0E8D9B226E-seeklogo.com.gif group-title="Bics US ABC", ABC: KERO 23 Bakersfield CA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759364
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.0Erxz52qqgAR5k3VSSuUKgAAAA&pid=Api&P=0 group-title="Bics US ABC", ABC: KAEF 23 Eureka CA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759365
-#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d9/KFSN_ABC_30_HD.png group-title="Bics US ABC", ABC: KFSN 30 Fresno CA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759366
-#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/01/ABC7_LosAngeles2012.png group-title="Bics US ABC", ABC: KABC 7 Los Angeles CA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759367
-#EXTINF:-1  tvg-logo="https://thedesk.matthewkeys.net/wp-content/uploads/2019/06/abc10-new.png group-title="Bics US ABC", ABC: KXTV 10 Sacramento CA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759368
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.EMAjjC7AyftgJeXYJ58h3wHaHa&pid=Api&P=0 group-title="Bics US ABC", ABC: KGTV 10 San Diego CA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759369
-#EXTINF:-1  tvg-logo="http://img1.wikia.nocookie.net/__cb20120316235502/logopedia/images/4/43/2011_kgo-tv_color_logo.jpg group-title="Bics US ABC", ABC: KGO 7 San Francisco CA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759370
-#EXTINF:-1  tvg-logo="https://www.livenewsworld.com/wp-content/uploads/2019/04/KMGH-TV-Denver-CO-1024x538.png group-title="Bics US ABC", ABC: KMGH 7 Denver CO
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759371
-#EXTINF:-1  tvg-logo="http://images3.wikia.nocookie.net/__cb20120107223536/logopedia/images/d/d2/KJCT_2004.png group-title="Bics US ABC", ABC: KJCT 8 Grand Junction CO
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759372
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.FdPjor1VHA8RSWuM14BaNAHaIs&pid=Api&P=0 group-title="Bics US ABC", ABC: WTNH 8 Hartford/New Haven CT
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759373
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.CIpZvq94fJybYCc4ANw-8AAAAA&pid=Api&P=0 group-title="Bics US ABC", ABC: WJLA 7 Washington DC
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759374
-#EXTINF:-1  tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/d/da/WZVN-logo_2013.png group-title="Bics US ABC", ABC: WZVN 7 Naples/Ft. Myers FL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759375
-#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7b/WJXX_25_1997.png group-title="Bics US ABC", ABC: WJXX 25 Jacksonville FL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759377
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/WPLGlogo.png group-title="Bics US ABC", ABC: WPLG 10 Miami FL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759378
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.z95ud37qQXafaSb5bzj_8gAAAA&pid=Api&P=0 group-title="Bics US ABC", ABC: WFTV 9 Orlando FL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759379
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.VxyPogp-_BFJ4mUQK1HvqgHaFj&pid=Api&P=0 group-title="Bics US ABC", ABC: WEAR 3 Pensacola FL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759380
-#EXTINF:-1  tvg-logo="https://circusarts.org/wp-content/uploads/2017/08/ABC_WWSB_LOGO_CMYK_NO_WEB.jpg group-title="Bics US ABC", ABC: WWSB 7 Sarasota FL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759381
-#EXTINF:-1  tvg-logo="http://img2.wikia.nocookie.net/__cb20130512185328/logopedia/images/7/71/WFTS-ABC28-1996.png group-title="Bics US ABC", ABC: WFTS 28 Tampa FL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759382
-#EXTINF:-1  tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2022/04/WPBF-ABC-Channel-25.png group-title="Bics US ABC", ABC: WPBF 25 West Palm Beach FL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759383
-#EXTINF:-1  tvg-logo="http://img2.wikia.nocookie.net/__cb20110925222810/logopedia/images/0/03/WJBF_6_logo.jpg group-title="Bics US ABC", ABC: WJBF 6 Augusta GA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759385
-#EXTINF:-1  tvg-logo="https://d2uykijsw1jrmd.cloudfront.net/media/cache/cc/20/cc209266446ee79aaec9589c58534f1b.jpg group-title="Bics US ABC", ABC: KITV 4 Honolulu HI
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759386
-#EXTINF:-1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/04/New_kcrg_2012_logo.jpg group-title="Bics US ABC", ABC: KCRG 9 Cedar Rapids IA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759387
-#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/annex/images/b/b8/ABC7-Chicago-3000px-BLK-TYPE-j.jpg group-title="Bics US ABC", ABC: WLS 7 Chicago IL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759389
-#EXTINF:-1  tvg-logo="https://www.hscripts.com/freeimages/logos/tv-logos/wsil-tv-logo/wsil-tv-logo-clipart-256.gif group-title="Bics US ABC", ABC: WSIL 3 Carterville/Harrisburg IL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759390
-#EXTINF:-1  tvg-logo="http://img4.wikia.nocookie.net/__cb20120710034527/logopedia/images/d/d3/WRTV1980s.png group-title="Bics US ABC", ABC: WRTV 6 Indianapolis IN
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759391
-#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/7AEdQPRSzGQ/hqdefault.jpg group-title="Bics US ABC", ABC: WTVQ 36 Lexington KY
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759392
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.IHKeRxwhqGDzZSEud4lOwwAAAA&pid=Api&P=0 group-title="Bics US ABC", ABC: WHAS 11 Louisville KY
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759393
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.EvLhYDWqaniAwaschahKFgAAAA&pid=Api&P=0 group-title="Bics US ABC", ABC: WBRZ 2 Baton Rouge LA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759394
-#EXTINF:-1  tvg-logo="https://livenewsglobe.com/wp-content/uploads/2021/10/KTBS_News_Logo.jpg group-title="Bics US ABC", ABC: KTBS 3 Shreveport LA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759395
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/3f/fb/b6/3ffbb627950f9c059c4bf549006262ec.png group-title="Bics US ABC", ABC: WCVB 5 Boston MA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759396
-#EXTINF:-1  tvg-logo="http://img3.wikia.nocookie.net/__cb20150422044628/logopedia/images/thumb/1/19/WMAR1984.png/150px-WMAR1984.png group-title="Bics US ABC", ABC: WMAR 2 Baltimore MD
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759397
-#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/USQ9d8TlUko/hqdefault.jpg group-title="Bics US ABC", ABC: WOTV 41 Kalamazoo/Battle Creek MI
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759398
-#EXTINF:-1  tvg-logo="http://media.mlive.com/entertainment/detroit_impact/photo/11609276-large.jpg group-title="Bics US ABC", ABC: WXYZ 7 Detroit MI
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759399
-#EXTINF:-1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/f9/Wzzmabc13.png group-title="Bics US ABC", ABC: WZZM 13 Grand Rapids MI
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759400
-#EXTINF:-1  tvg-logo="http://static4.wikia.nocookie.net/__cb20110820125422/logopedia/images/2/20/KAAL_2004.jpg group-title="Bics US ABC", ABC: KAAL 6 Austin/Rose Creek MN
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759401
-#EXTINF:-1  tvg-logo="http://www.goimi.com/5kstp.jpg group-title="Bics US ABC", ABC: KSTP 5 St. Paul MN
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759403
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.MHNylsy_26BMoKqyUBzrhgAAAA&pid=Api&P=0 group-title="Bics US ABC", ABC: KMIZ 17 Columbia/Jefferson City MO
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759404
-#EXTINF:-1  tvg-logo="http://images.wikia.com/logopedia/images/4/4e/Kmbc1999.jpg group-title="Bics US ABC", ABC: KMBC 9 Kansas City MO
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759405
-#EXTINF:-1  tvg-logo="http://img3.wikia.nocookie.net/__cb20140507005928/logopedia/images/5/50/KTVO_2013_Logo.png group-title="Bics US ABC", ABC: KTVO 3 Kirksville MO
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759406
-#EXTINF:-1  tvg-logo="http://static3.wikia.nocookie.net/__cb20120917030952/logopedia/images/7/7e/538520_367919673278098_1530288336_n.jpg group-title="Bics US ABC", ABC: KDNL 30 St. Louis MO
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759407
-#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b2/WABG_ABC_6_2013.png group-title="Bics US ABC", ABC: WABG 6 Greenwood MS
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759408
-#EXTINF:-1  tvg-logo="http://static4.wikia.nocookie.net/__cb20111202213037/logopedia/images/2/25/WTOK.jpg group-title="Bics US ABC", ABC: WTOK 11 Meridian MS
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759409
-#EXTINF:-1  tvg-logo="https://d2c0db5b8fb27c1c9887-9b32efc83a6b298bb22e7a1df0837426.ssl.cf2.rackcdn.com/9959457-drive-download-20220825t183118z-300x300.png group-title="Bics US ABC", ABC: KSVI 6 Billings MT
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759410
-#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/convictionabc/images/3/3b/ABC_logo.png group-title="Bics US ABC", ABC: KBFF 5 Great Falls/Helena MT
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759411
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.VZtswWaXV1GyzE9klqKvZAHaEK&pid=Api&P=0 group-title="Bics US ABC", ABC: KTMF 23 Missoula MT
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759412
-#EXTINF:-1  tvg-logo="http://www.newstaco.com/wp-content/uploads/2016/06/WLOS.jpg group-title="Bics US ABC", ABC: WLOS 13 Asheville NC
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759413
-#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1119066294/9_LOGO.JPG group-title="Bics US ABC", ABC: WSOC 9 Charlotte NC
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759414
-#EXTINF:-1  tvg-logo="http://img2.wikia.nocookie.net/__cb20120814055830/logopedia/images/8/86/WCTI_1990s.jpg group-title="Bics US ABC", ABC: WCTI 12 New Bern NC
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759415
-#EXTINF:-1  tvg-logo="https://yt3.ggpht.com/-fYk8hSFpm_M/AAAAAAAAAAI/AAAAAAAAAAA/UmiakC5SG7Y/s900-c-k-no/photo.jpg group-title="Bics US ABC", ABC: WTVD 11 Raleigh NC
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759416
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.DxF3qtulooPmV3-PsuZUNgHaF2&pid=Api&P=0 group-title="Bics US ABC", ABC: WXLV 45 Winston/Salem NC
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759417
-#EXTINF:-1  tvg-logo="https://www.livenewsworld.com/wp-content/uploads/2019/01/KTNV-ABC-13-Las-Vegas-NV.jpg group-title="Bics US ABC", ABC: KTNV 13 Las Vegas NV
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759418
-#EXTINF:-1  tvg-logo="https://cannaprovisionsgroup.com/wp-content/uploads/2021/06/wten-abc-logo.png group-title="Bics US ABC", ABC: WTEN 10 Albany NY
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759419
-#EXTINF:-1  tvg-logo="http://s3.amazonaws.com/scripps-com/ample_admin/attachments/files/000/000/096/original/WKBW%207%20ABC%20with%20WKBW.jpg group-title="Bics US ABC", ABC: WKBW 7 Buffalo NY
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759420
-#EXTINF:-1  tvg-logo="https://www.logolynx.com/images/logolynx/2a/2a189ab038f2811ceb97f2a3cea9a9d1.jpeg group-title="Bics US ABC", ABC: WABC 7 New York NY
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759421
-#EXTINF:-1  tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/b/b4/WHAM-TV_logo.png group-title="Bics US ABC", ABC: WHAM 13 Rochester NY
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759422
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/b2/33/50/b23350b3dc3bab38d7ba6e54a0e0ce05.png group-title="Bics US ABC", ABC: WSYR 9 Syracuse NY
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759423
-#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5b/WCPO_1996.png group-title="Bics US ABC", ABC: WCPO 9 Cincinnati OH
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759425
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.Z6G4DfLyfwPZkr8Xamv-AgHaGI&pid=Api&P=0 group-title="Bics US ABC", ABC: WEWS 5 Cleveland OH
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759426
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.ka9SiqQz6b-y3AseHpoc6AAAAA&pid=Api&P=0 group-title="Bics US ABC", ABC: WKEF 22 Dayton OH
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759428
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.FOFKgvEw69PsSyb8wlmt_gAAAA&pid=Api&P=0 group-title="Bics US ABC", ABC: KOCO 5 Oklahoma City OK
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759429
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.wakj0r4bdzeVwf78S06kNQHaC8&pid=Api&P=0 group-title="Bics US ABC", ABC: KATU 2 Portland OR
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759431
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.kCD1DYvhosErmuIOZya-YAHaGG&pid=Api&P=0 group-title="Bics US ABC", ABC: WHTM 27 Harrisburg PA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759432
-#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/19/Images_(2).jpg group-title="Bics US ABC", ABC: WPVI 6 Philadelphia PA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759433
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.eNslQ4_w04B_0bU9qqFSPQHaF5&pid=Api&P=0 group-title="Bics US ABC", ABC: WTAE 4 Pittsburg PA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759434
-#EXTINF:-1  tvg-logo="http://images4.wikia.nocookie.net/__cb20111109002944/logopedia/images/5/55/WCHS_Ch._8.jpg group-title="Bics US ABC", ABC: WCHS 8 Charleston WV
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759435
-#EXTINF:-1  tvg-logo="http://img2.wikia.nocookie.net/__cb20120411010731/logopedia/images/4/41/Wolo_1996.jpg group-title="Bics US ABC", ABC: WOLO 25 Columbia SC
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759436
-#EXTINF:-1  tvg-logo="http://www.rickgevers.com/wp-content/uploads/2012/12/WBBJ-Logo-2-300x146.jpg group-title="Bics US ABC", ABC: WBBJ 7 Jackson TN
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759437
-#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/02/Local24logo.png group-title="Bics US ABC", ABC: WATN 24 Memphis TN
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759438
-#EXTINF:-1  tvg-logo="http://2.bp.blogspot.com/_VPDcXFqw_GY/TUI-mbMlrpI/AAAAAAAAASQ/G8Ehk2lMsd4/s1600/wkrn_channel2LOGO.jpg group-title="Bics US ABC", ABC: WKRN 2 Nashville TN
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759439
-#EXTINF:-1  tvg-logo="http://images3.wikia.nocookie.net/__cb20110823212439/logopedia/images/c/ce/KVII-1995.jpg group-title="Bics US ABC", ABC: KVII 7 Amarillo TX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759440
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.-BI04t0_AqujAyDcosDogwHaFS&pid=Api&P=0 group-title="Bics US ABC", ABC: KVUE 24 Austin TX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759441
-#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/26/12_KBMT_ABC.jpg group-title="Bics US ABC", ABC: KBMT 12 Beaumont TX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759442
-#EXTINF:-1  tvg-logo="https://ewscripps.brightspotcdn.com/dims4/default/512f4a2/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http:%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd8%2F8b%2Fa0e157cd49e2a255ab203c60404c%2Fkxxv-krhd-default-image-1280x720.png group-title="Bics US ABC", ABC: KXXV 25 Waco/Bryan TX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759443
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Tqlw3s9kxTNJh5QX2tNTwgHaCx&pid=Api&P=0 group-title="Bics US ABC", ABC: KIII 3 Corpus Christi TX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759444
-#EXTINF:-1  tvg-logo="http://dallassummermusicals.org/wp-content/uploads/2018/05/WFAA-Primary-One-Color.jpg group-title="Bics US ABC", ABC: WFAA 8 Dallas TX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759445
-#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/739835432674811904/RnCHIzXd.jpg group-title="Bics US ABC", ABC: KVIA 7 El Paso TX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759446
-#EXTINF:-1  tvg-logo="https://www.cabletv.com/app/uploads/KTRKTV_ABC-Default-Color.png group-title="Bics US ABC", ABC: KTRK 13 Houston TX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759447
-#EXTINF:-1  tvg-logo="http://images1.wikia.nocookie.net/__cb20110906221660/logopedia/images/6/69/KAMC-ABC28.png group-title="Bics US ABC", ABC: KAMC 28 Lubbock TX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759448
-#EXTINF:-1  tvg-logo="http://static2.wikia.nocookie.net/__cb20111107022734/logopedia/images/f/fc/KRGV_5.jpg group-title="Bics US ABC", ABC: KRGV 5 Welasco/McAllen TX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759449
-#EXTINF:-1  tvg-logo="http://www.rickgevers.com/wp-content/uploads/2013/07/Kmid-Logo-300x259.jpg group-title="Bics US ABC", ABC: KMID 2 Midland/Odessa TX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759450
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.EZv0L6E3GpxuQfvxkJvaBQHaEC&pid=Api&P=0" group-title="Bics US ABC",ABC: KSAT 12 San Antonio TX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759451
-#EXTINF:-1  tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/4/4e/KTXS_abc_2015_logo_web.jpg group-title="Bics US ABC", ABC: KTXS 12 Abilene/Sweetwater TX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759452
-#EXTINF:-1  tvg-logo="http://ftpcontent.worldnow.com/wncustom/custom/kltv/2015/images/kltv-footer-logo.png group-title="Bics US ABC", ABC: KLTV 7 Tyler TX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759453
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP._Hr_OxvlHC6PKFK_MSdQhgAAAA&pid=Api&P=0 group-title="Bics US ABC", ABC: KAVU 25 Victoria TX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759454
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.jJ93_ZD2rCHRVqQL4MDeNgAAAA&pid=Api&P=0 group-title="Bics US ABC", ABC: KTVX 4 Salt Lake City UT
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759455
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.h4-828i7aINFQE98ZbQDRQHaFI&pid=Api&P=0 group-title="Bics US ABC", ABC: WVEC 13 Norfolk/Hampton Roads VA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759456
-#EXTINF:-1  tvg-logo="https://wchstv.com/resources/defaults/wchs/medium16x9.jpg" group-title="Bics US ABC",WV/Huntington VA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759457
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/WHSV-TV_2006_ABC_logo.JPG group-title="Bics US ABC", ABC: WHSV 3 Harrisonburg/Luray VA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759458
-#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/tvstations/images/7/7e/Wset-tv.jpg group-title="Bics US ABC", ABC: WSET 13 Lynchburg VA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759459
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.8emjtGXlUkPppxuw_C0jnQAAAA&pid=Api&P=0 group-title="Bics US ABC", ABC: WRIC 8 Richmond VA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759460
-#EXTINF:-1  tvg-logo="https://www.livenewsworld.com/wp-content/uploads/2019/08/KOMO-TV-Seattle.jpeg group-title="Bics US ABC", ABC: KOMO Seattle WA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759461
-#EXTINF:-1  tvg-logo="http://img4.wikia.nocookie.net/__cb20111204233423/logopedia/images/8/8f/Kxly4.jpg group-title="Bics US ABC", ABC: KXLY 4 Spokane WA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759462
-#EXTINF:-1  tvg-logo="http://img2.wikia.nocookie.net/__cb20111205215712/logopedia/images/7/7a/KAPP_35.jpg group-title="Bics US ABC", ABC: KAPP 35 Yakima WA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759463
-#EXTINF:-1  tvg-logo="http://img2.wikia.nocookie.net/__cb20111218093604/logopedia/images/4/4e/WBAY_2011.png group-title="Bics US ABC", ABC: WBAY 2 Green Bay/Fox Cities WI
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759464
-#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0f/Sponsor-Wxow.jpg group-title="Bics US ABC", ABC: WXOW 19 La Crosse WI
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759465
-#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d8/WKOW_logo.png group-title="Bics US ABC", ABC: WKOW Madison WI
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759466
-#EXTINF:-1  tvg-logo="http://www.newscaststudio.com/wp-content/uploads/2016/12/wisn-logo.png group-title="Bics US ABC", ABC: WISN 12 Milwaukee WI
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759467
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.Z2ae3ZQfT21oRCOddoWEoQHaHa&pid=Api&P=0 group-title="Bics US ABC", ABC: WAOW 9 Wausau WI
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759468
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/WNEP16.png group-title="Bics US ABC", ABC: WNEP 16 Scranton/Wilkes-Barre PA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759470
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/KOAT_7_logo.png group-title="Bics US ABC", ABC: KOAT 7 Albuquerque NM
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759471
-#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Wate-logo.jpg group-title="Bics US ABC", ABC: WATE 6 Knoxville TN
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759788
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.g3sW47fpNp5gjkM4B3Bb7gHaEK&pid=Api&P=0 group-title="Bics US ABC", ABC: WAPT 16 Jackson MS
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/761653
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.MQUBKa-48T1N-294lupgXQHaEL&pid=Api&P=0" group-title="Bics US NBC", NBC: WXII 12 Winston/Salem NC
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759572
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.XXoYCeMsCk9YLBC3y_rhOwHaHa&pid=Api&P=0" group-title="Bics US NBC", NBC: KNOP 2 North Platte NE
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759574
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.SV0JYFrS7qRqcFtQQFDRPwAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: KSNB 4 Hastings/Superior NE
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759576
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.nXTQCryt7zDgGuyBBguhzwAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: KRNV 4 Reno NV
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759579
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.uWbwSa6coIFavpVMGTxDQwHaDy&pid=Api&P=0" group-title="Bics US NBC", NBC: WNYT 13 Albany NY
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759580
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.U_c4rwa2UNDFHSXAieFQKQAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: WNBC 4 New York NY
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759584
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.5l84tSMaB5eeQaLf1gnZ6wAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: WPTZ 5 Plattsburgh NY
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759585
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.7FqBot2reBW4SysXRe7uDAHaEx&pid=Api&P=0" group-title="Bics US NBC", NBC: WHEC 10 Rochester NY
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759586
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.nTimBUlixA0_l1FmTMF57QHaFj&pid=Api&P=0" group-title="Bics US NBC", NBC: WKYC 3 Cleveland OH
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759591
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.uFRhyyXy6bW3939F0dtxSwHaCs&pid=Api&P=0" group-title="Bics US NBC", NBC: WDTN 2 Dayton OH
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759593
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.mgV2rMPLuK3uJKNiNgOWtQHaFj&pid=Api&P=0" group-title="Bics US NBC", NBC: WNWO 24 Toledo OH
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759596
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.bRFpe4C71GHQuW9DIdgQnAAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: KTEN 10 Ada OK
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759599
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.z-SPtv1GWdSoTNYAI-rF2QHaFj&pid=Api&P=0" group-title="Bics US NBC", NBC: WGAL 8 Lancaster PA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759605
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.fnRf0_xFJZ-nVTKbS7dIJAHaEd&pid=Api&P=0" group-title="Bics US NBC", NBC: WCAU 10 Philadelphia PA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759606
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.7REPuwV6Gy4al5dY6-H76wHaFj&pid=Api&P=0" group-title="Bics US NBC", NBC: WPXI 11 Pittsburg PA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759607
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.xSeHkQ6jrJtYxsJGvbmIkwAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: WIS 10 Columbia SC
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759611
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.SHjvRZCYAkE00es4znoUNAHaHa&pid=Api&P=0" group-title="Bics US NBC", NBC: WMBF 32 Myrtle Beach SC
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759613
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.YbW2grnnDMO4uNuXBWTP_gHaGr&pid=Api&P=0" group-title="Bics US NBC", NBC: KNBN 21 Rapid City SD
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759614
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.m5KVZXS6XkMrpERytfHgyAHaCi&pid=Api&P=0" group-title="Bics US NBC", NBC: WRCB 3 Chattanooga TN
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759616
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.UTuvwQpGloAEu1nYSvrUMQHaEL&pid=Api&P=0" group-title="Bics US NBC", NBC: WBIR 10 Knoxville TN
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759618
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.StxvtcYxn4MFPFdjme5VAQHaDF&pid=Api&P=0" group-title="Bics US NBC", NBC: WMC 5 Memphis TN
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759619
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.DcGc65R-eXqboMTlOHbMWQHaHa&pid=Api&P=0" group-title="Bics US NBC", NBC: WSMV 4 Nashville TN
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759620
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.vy0inhPKelRGuUXJvjU7dwAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: KXAN 36 Austin TX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759621
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.E2XC8NJUWet31OKrKz7MkQAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: KRIS 6 Corpus Christi TX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759623
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.UILWIdcSFTNCxVyiYAnOlwAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: KZAS 5 Dallas/Ft. Worth TX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759624
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.H-wZ9CTSTFOh3mNXDIzB8gAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: KPRC 2 Houston TX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759625
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.VH128lP9l7sE-fNl-D0LTwHaHj&pid=Api&P=0" group-title="Bics US NBC", NBC: KCEN 6 Temple TX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759628
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.zq9REkECAA3A5tTGUfSiRQAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: WSLS 10 Roanoke VA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759631
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.C2Ss60vuJzakgwbo50kpEAAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: KING 5 Seattle WA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759633
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.S07kOuXk00trJMwZ5UBbiwHaCz&pid=Api&P=0" group-title="Bics US NBC", NBC: WRC 4 Washington DC
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759634
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.p5CEGrHS76C7N_oaE3ySFAHaEq&pid=Api&P=0" group-title="Bics US NBC", NBC: WGBA 26 Green Bay/Fox Cities WI
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759636
-#EXTINF:-1  group-title="Bics US NBC", NBC: WCYB 5 Tri Cities TN VA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759907
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.FvePdvCEDGG0tkEpNYwuAwAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: WVTM 13 Birmingham AL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759472
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.dBsCoY86QgMrFt4DFkWaaAAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: WAFF 48 Huntsville AL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759473
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.oFxwRahJQ7nd_JiZ20NqzAAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: WPMI 15 Mobile AL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759474
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.bTYkAE69z0fHVqiOcaqC2gHaEK&pid=Api&P=0" group-title="Bics US NBC", NBC: WSFA 12 Montgomery AL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759475
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.Lri9v6Wtc9l1q1-02ptHfgAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: KARK 4 Little Rock AR
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759476
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.BIFYcorRNO9_hyVJkk-K0wHaIZ&pid=Api&P=0" group-title="Bics US NBC", NBC: KVOA 4 Tucson AZ
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759477
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.EIkMRkHeHaxUQafiqRbpIQHaFp&pid=Api&P=0" group-title="Bics US NBC", NBC: KYMA 11 Yuma AZ
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759478
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.rbZfIvVu-I77TJsfWoP6AAAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: KGET 17 Bakersfield CA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759479
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.Fryz6Ecz6UPPlJY7OEJWHgAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: KIEM 3 Eureka CA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759481
-#EXTINF:-1  tvg-logo="https://tse3.explicit.bing.net/th?id=OIP.v-3J0mPF2efiAYEf6omeQwHaGM&pid=Api&P=0" group-title="Bics US NBC", NBC: KSEE 24 Fresno CA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759482
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.SIF6fv0pWTEnt5LoogHuYwAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: KNBC 4 Los Angeles CA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759483
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.uX3h6kJc5NeUvc9ZK7wLdgHaK3&pid=Api&P=0" group-title="Bics US NBC", NBC: KMIR 6 Palm Springs CA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759484
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.734LrVx4rzeTiTsUYpK8pAAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: KCRA 3 Sacramento CA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759485
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.59z2qNAhJIa1qjfZyGwmFwAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: KSBW 8 Monterey/Salinas CA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759486
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.JyKV8pG9szfbtSwaT-sKDgHaIE&pid=Api&P=0" group-title="Bics US NBC", NBC: KNSD 7 San Diego CA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759487
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.NCcd7TZz4Kf3mdcbB5r3NAHaCy&pid=Api&P=0" group-title="Bics US NBC", NBC: KNTV 11 San Francisco CA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759488
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.OKyTtX-rkXKslpzOt0NuOgHaC3&pid=Api&P=0" group-title="Bics US NBC", NBC: KUSA 9 Denver CO
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759489
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.7rWjHecEf7abN02boMDXzwAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: KKCO 11 Grand Junction CO
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759490
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.TqWRUcKXFAfU0vHPq_E9uQHaDR&pid=Api&P=0" group-title="Bics US NBC", NBC: WVIT 30 Hartford CT
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759492
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.S07kOuXk00trJMwZ5UBbiwHaCz&pid=Api&P=0" group-title="Bics US NBC", NBC: WRC 4 Washington DC
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759493
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.qi6jQTBTCGdynKOQyUCF2QHaHM&pid=Api&P=0" group-title="Bics US NBC", NBC: WBBH 2 Ft. Myers FL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759494
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.avIpssZt74uGpjUg6G3N5QAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: WNBW 9 Gainesville FL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759495
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.6scq9pXCvvySQuk6LmBjsQAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: WTLV 12 Jacksonville FL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759496
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.0Nb1ul0cGi_m__8P3UzYVwHaFk&pid=Api&P=0" group-title="Bics US NBC", NBC: WTVJ 4 Miami FL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759497
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.OsoamegF9LnW_fZDRfVfCgAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: WESH 2 Orlando FL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759498
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.RYQMUjzTQCB-Zyn5ecJ5VAAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: WJHG 7 Panama City FL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759499
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.BWAez4kAlgRXyeHb8GiPPQAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: WTWC 40 Tallahassee FL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759500
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.D7nqZ9cAmKCEUf_jYZpz-wAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: WFLA 8 Tampa FL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759501
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.JwZNuHdOAFVwJOkaARGyBwHaH0&pid=Api&P=0" group-title="Bics US NBC", NBC: WPTV 5 West Palm Beach FL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759502
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.rjup1EFm1rS2zwoAI18piwHaIk&pid=Api&P=0" group-title="Bics US NBC", NBC: WXIA 11 Atlanta GA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759504
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.O8QC9pTttwchPdG-9244tAAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: WAGT 26 Augusta GA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759505
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.j5px0lWjgXX5LtEyHYJH6AHaFu&pid=Api&P=0" group-title="Bics US NBC", NBC: WLTZ 38 Columbus GA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759506
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.7AQEkOL9Z_RWet-9m9zjHgHaCq&pid=Api&P=0" group-title="Bics US NBC", NBC: WMGT 41 Macon GA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759507
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.odC_C69LJxgBK0nELI1YYQHaHa&pid=Api&P=0" group-title="Bics US NBC", NBC: KHQ 6 Spokane WA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759509
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.WOeDALjlO4zX4dKnnBi8rQAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: KWQC 6 Davenport IA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759510
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.TF5493ABa4HybNXw5Rk1EAAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: WHO 13 Des Moines IA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759511
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.hLzNcu1PgChTotI6qjAB-wAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: KYOU 15 Ottumwa IA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759512
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.6Z-auuZ1HvYNord9JeRy-wHaC1&pid=Api&P=0" group-title="Bics US NBC", NBC: KTVB 7 Boise ID
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759514
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.XI2MvmoYByBIUT1zsOhg4wHaCP&pid=Api&P=0" group-title="Bics US NBC", NBC: KTFT 7 Twin Falls ID
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759516
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.2Zj2ukgan6XPa1HmOOnhZwHaE_&pid=Api&P=0" group-title="Bics US NBC", NBC: WMAQ 5 Chicago IL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759517
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.0UoxkFyzDqFVtlVKNGmYLwHaEn&pid=Api&P=0" group-title="Bics US NBC", NBC: WAND 17 Decatur IL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759518
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.OL22KDn8QbcFxd23Gum2tgHaGH&pid=Api&P=0" group-title="Bics US NBC", NBC: WEEK 25 Peoria/Bloomington IL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759519
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.O-JGEjmKhCDEwaFZuTUahAHaBi&pid=Api&P=0" group-title="Bics US NBC", NBC: WGEM 10 Quincy IL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759520
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.pdxqkw8_rt-gFzpmO-CyiAHaEp&pid=Api&P=0" group-title="Bics US NBC", NBC: WREX 13 Rockford IL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759521
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.dA80FvEjaGi6R6QTACPlawAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: WPTA 21 Ft. Wayne IN
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759523
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.PtpG8yVEWuCgQgETPqyWtgHaH2&pid=Api&P=0" group-title="Bics US NBC", NBC: WTHR 13 Indianapolis IN
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759524
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.owNTTkJxhqf2PpvVtzUS3gAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: WPBI Lafayette IN
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759525
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.SkIKKIFO64s5lAbGcMuBKwAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: KSNT 27 Topeka KS
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759528
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.82U1ftVkzBiIMSwNBwU5cAAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: KSNW 3 Wichita KS
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759529
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.D_vgvgMHuZ6RYx8ZGg63LwHaHa&pid=Api&P=0" group-title="Bics US NBC", NBC: WNKY 40 Bowling Green KY
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759530
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.NhN6h717w9C4g9Eb4FCTtQHaFL&pid=Api&P=0" group-title="Bics US NBC", NBC: WLEX 18 Lexington KY
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759531
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.78OZ3whF3Aq-XCVtyD4zQgAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: WAVE 3 Louisville KY
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759532
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.OBrncIV9WmPyqIYcnaJFBQAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: WPSD 6 Paducah KY
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759533
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.j0TwMfHCD4GfhYg4x0K9UwAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: WVLA 33 Baton Rouge LA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759535
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.1NORSa7qzINcZ1KEZHP2rwHaDd&pid=Api&P=0" group-title="Bics US NBC", NBC: KLAF 15 Lafayette LA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759536
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.utnIP2Dsiay4Utu-hsoI-QHaCf&pid=Api&P=0" group-title="Bics US NBC", NBC: KPLC 7 Lake Charles LA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759537
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.O4M0RpBoJ8SvFAThSEb4ggHaHO&pid=Api&P=0" group-title="Bics US NBC", NBC: WDSU 6 New Orleans LA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759538
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.MJ5hvhwWjhYlwzFe4VRzpgHaEI&pid=Api&P=0" group-title="Bics US NBC", NBC: KSL 5 Salt Lake City UT
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759539
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.6t1s1opZvKoKP6AhrhAO5gAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: WBTS 10 Boston MA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759540
-#EXTINF:-1  tvg-logo="https://tse1.explicit.bing.net/th?id=OIP.GjpChHknYYYyCSkWGHE82gAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: WWLP 22 Springfield MA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759541
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.cZRQ9abefrlDR1FdhPIrigHaHa&pid=Api&P=0" group-title="Bics US NBC", NBC: WBAL 11 Baltimore MD
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759542
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.Pmx6CHdHYKquWnF3AYjG4wAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: WRDE 31 Salisbury MD
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759543
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.DSGd0yZjqxAPn6b46-VM7AAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: WLBZ 2 Bangor ME
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759544
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.juOBNB3nHpXmiqcD-8NhlwHaFj&pid=Api&P=0" group-title="Bics US NBC", NBC: WCSH 6 Portland ME
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759545
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.btZAh5f3uQJ3suj-MEgmwwAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: WDIV 4 Detroit MI
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759546
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.yz_M8Eu2gFeWhYbR0Q-a1gHaC_&pid=Api&P=0" group-title="Bics US NBC", NBC: WOOD 8 Grand Rapids MI
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759547
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.BinH4TaAeAexw59ewqWclAHaFC&pid=Api&P=0" group-title="Bics US NBC", NBC: WLUC 6 Marquette MI
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759548
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.-S9dOv3JZk4DoN5UWxDLQwHaHc&pid=Api&P=0" group-title="Bics US NBC", NBC: WILX 10 Lansing MI
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759549
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.RQVjc8DaNWdswSzyFazexAAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: WPBN 7 Traverse City MI
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759551
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.rKpkO8Jq2Cz7Vc5H_anWnQEsDh&pid=Api&P=0" group-title="Bics US NBC", NBC: KARE 11 Minneapolis MN
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759552
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.HztPSIKlW6mmHjK6XM2jugHaGQ&pid=Api&P=0" group-title="Bics US NBC", NBC: KOMU 8 Columbia MO
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759553
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.EKtr6Zs9Ao8Dd_6g_sVbZgHaGF&pid=Api&P=0" group-title="Bics US NBC", NBC: KSHB 41 Kansas City MO
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759554
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.AMsM__3TfVFHlU4hz8KepgHaEK&pid=Api&P=0" group-title="Bics US NBC", NBC: KYTV 2 Springfield MO
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759555
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.8iXcjn2N1BpM6lbHFTL--gHaEK&pid=Api&P=0" group-title="Bics US NBC", NBC: KNPG 21 St. Joseph MO
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759556
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.0gocQpOyXY-rlNsuGRrDYwHaFj&pid=Api&P=0" group-title="Bics US NBC", NBC: KSDK 5 St. Louis MO
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759557
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.eS8r-9A-gXO0RxmpJUkXZgAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: WTVA 9 Columbus MS
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759558
-#EXTINF:-1  tvg-logo="https://tse3.explicit.bing.net/th?id=OIP.__ZVXRumn8e4jTWhjQrjDAHaGL&pid=Api&P=0" group-title="Bics US NBC", NBC: WXXV 25 Gulfport MS
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759559
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP._5QLG0XJny8xnqjIIYh0hAHaC_&pid=Api&P=0" group-title="Bics US NBC", NBC: WLBT 3 Jackson MS
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759560
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.dce_Ed6q0yQO1rfXbrB3DwHaHa&pid=Api&P=0" group-title="Bics US NBC", NBC: WDAM 7 Laurel MS
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759561
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.yKo_LfNZSv19brfjgNWq3wHaFQ&pid=Api&P=0" group-title="Bics US NBC", NBC: WGBC 4 Meridian MS
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759562
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.C3IApVC7q8Xxwm-3H0_ogAAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: KTVM 6 Butte MT
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759564
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.IVU6USu7AN7EiiNkXftF3wAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: KBGF 50 Great Falls MT
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759565
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.DqiyFBEj7fTGivI62dk_lwAAAA&pid=Api&P=0" group-title="Bics US NBC", NBC: KTVH 12 Helena MT
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759566
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.HzXs8aCxzOP4KoZp__1OFQHaGv&pid=Api&P=0" group-title="Bics US NBC", NBC: WCNC 36 Charlotte NC
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759568
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.CS3C1peJVWTBhDQqv70HzQHaFj&pid=Api&P=0" group-title="Bics US NBC", NBC: WRAL 5 Raleigh NC
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759569
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.nNDiSjNDAfjzRrPjbUy9SAHaGS&pid=Api&P=0" group-title="Bics US NBC", NBC: WITN 7 Greenville/Washington NC
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759570
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.F5HUf8NhoV-l9_xn4CVgsgHaD8&pid=Api&P=0" group-title="Bics US NBC", NBC: WECT 6 Wilmington NC
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759571
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.bgJNibBsWK2Ygvr5VJtrfgHaD7&pid=Api&P=0" group-title="Bics US FOX", FOX: WBRC 6 Birmingham AL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759653
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.6b5bCiwcKT3Hp7XwcH0NPAHaEK&pid=Api&P=0" group-title="Bics US FOX", FOX: WZDX 54 Huntsville AL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759654
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.elsJCChRycwmsWc-Lt2--AHaFj&pid=Api&P=0" group-title="Bics US FOX", FOX: KSAZ 10 Phoenix AZ
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759656
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.N2w7uyH1tUpX5PkTWWAnMAHaEL&pid=Api&P=0" group-title="Bics US FOX", FOX: KMSB 11 Tucson AZ
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759657
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.fpMGYDyzJApSoS5vWZBIBQAAAA&pid=Api&P=0" group-title="Bics US FOX", FOX: KBVU 28 Eureka CA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759660
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.ZMLphcd6CL5zn28qZe5GxwHaC8&pid=Api&P=0" group-title="Bics US FOX", FOX: KCBA 35 Salinas CA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759664
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.sbWN-yufRzoYL1r58QXhWQHaCl&pid=Api&P=0" group-title="Bics US FOX", FOX: KDVR 31 Denver CO
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759667
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.qSapP9I4Gvg0P89PU9w0pwHaD2&pid=Api&P=0" group-title="Bics US FOX", FOX: WSVN 7 Miami FL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759673
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP._pEfIBYPgWLRMvpUryswXgHaC4&pid=Api&P=0" group-title="Bics US FOX", FOX: WOFL 35 Orlando FL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759675
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.Of3eC3zqPbdJNa-v633aegHaC3&pid=Api&P=0" group-title="Bics US FOX", FOX: WTVT 13 Tampa FL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759677
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.563yGZAgtUb9guQTqRAIUgHaDf&pid=Api&P=0" group-title="Bics US FOX", FOX: WFXG 54 Augusta GA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759679
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.lhga-QtmjnOQjidAWAP5bgAAAA&pid=Api&P=0" group-title="Bics US FOX", FOX: WXGA 24 Macon GA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759681
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.uOrjpC-ObYuUIr7H2gpSygHaDJ&pid=Api&P=0" group-title="Bics US FOX", FOX: WAGA 5 Atlanta GA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759683
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.oBG3duWEAWUl9VtqunIRBQAAAA&pid=Api&P=0" group-title="Bics US FOX", FOX: WFLD 32 Chicago IL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759687
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.v1KohyeMVQtDbDbxBIs7jAAAAA&pid=Api&P=0" group-title="Bics US FOX", FOX: WRSP 55 Springfield IL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759688
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.fhcH2isFbqIeadjdybL2IwAAAA&pid=Api&P=0" group-title="Bics US FOX", FOX: WXIN 59 Indianapolis IN
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759690
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.qy23o1IGkkRFSqCUALPBMwHaDs&pid=Api&P=0" group-title="Bics US FOX", FOX: KSAS 24 Wichita KS
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759696
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.mt1NW9sHiUNmR7_mWdL7XAHaDu&pid=Api&P=0" group-title="Bics US FOX", FOX: WDKY 56 Lexington KY
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759697
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.TfrueT-56u1GFA3QG2BL2wAAAA&pid=Api&P=0" group-title="Bics US FOX", FOX: WVUE 8 New Orleans LA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759701
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.gQTQseRTE9dcCoD2LodXRwAAAA&pid=Api&P=0" group-title="Bics US FOX", FOX: WBFF 45 Baltimore MD
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759704
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.PXBf8Ti-y-O7_n14PtONigHaC5&pid=Api&P=0" group-title="Bics US FOX", FOX: WFXT 25 Boston MA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759705
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.shYrzDQD8eI_hqoPJWvziwHaEK&pid=Api&P=0" group-title="Bics US FOX", FOX: WJBK 2 Detroit MI
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759707
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.g-R6fkm2QV6Cblnwc-jCxAHaC8&pid=Api&P=0" group-title="Bics US FOX", FOX: WDAF 4 Kansas City MO
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759712
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.as3G3nDebk9p4syj8OgS8gHaDI&pid=Api&P=0" group-title="Bics US FOX", FOX: KTVI 2 St. Louis MO
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759715
-#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Wghp-logo.jpg" group-title="Bics US FOX", FOX: WGHP 8 Greensboro NC
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759731
-#EXTINF:-1  tvg-logo="https://www.tv-address.com/wp-content/uploads/2021/03/wraz_raleigh.jpg" group-title="Bics US FOX", FOX: WRAZ 50 Raleigh NC
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759732
-#EXTINF:-1  tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/7/7d/WXIX_FOX_19.jpeg" group-title="Bics US FOX", FOX: WXIX 19 Cincinnati OH
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759734
-#EXTINF:-1  tvg-logo="https://everipedia-storage.s3-accelerate.amazonaws.com/ProfilePics/69692332305.PNG" group-title="Bics US FOX", FOX: WJW 8 Cleveland OH
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759735
-#EXTINF:-1  tvg-logo="http://img2.wikia.nocookie.net/__cb20130301181130/logopedia/images/7/76/Fox23clr.jpg" group-title="Bics US FOX", FOX: KOKI 23 Tulsa OK
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759737
-#EXTINF:-1  tvg-logo="http://static.lakana.com/lakana-fox-global/theme/images/wtxf/placeholder-square.jpg" group-title="Bics US FOX", FOX: WTXF 29 Philadelphia PA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759740
-#EXTINF:-1  tvg-logo="http://img1.wikia.nocookie.net/__cb20141128215031/logopedia/images/1/10/WACH_FOX_57_2014.jpg" group-title="Bics US FOX", FOX: WACH 57 Columbia SC
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759744
-#EXTINF:-1  tvg-logo="http://img1.wikia.nocookie.net/__cb20110428003253/logopedia/images/3/38/Whns_logo.png" group-title="Bics US FOX", FOX: WHNS 21 Greenville SC
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759745
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/Wtnz_2014.png" group-title="Bics US FOX", FOX: WTNZ 43 Knoxville TN
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759747
-#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bc/WHBQ_(1995-1998).PNG" group-title="Bics US FOX", FOX: WHBQ 13 Memphis TN
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759748
-#EXTINF:-1  tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/9c/KTBC_FOX.png" group-title="Bics US FOX", FOX: KTBC 7 Austin TX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759750
-#EXTINF:-1  tvg-logo="http://img2.wikia.nocookie.net/__cb20130116231831/logopedia/images/4/4e/Kdfw-legal-color_385w.jpg" group-title="Bics US FOX", FOX: KDFW 4 Dallas TX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759751
-#EXTINF:-1  tvg-logo="https://s3-media2.fl.yelpcdn.com/bphoto/hdUtO247hkrElxvUXzL-PA/ls.jpg" group-title="Bics US FOX", FOX: KRIV 26 Houston TX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759752
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.Du9713xqY-UZSqS3Ydtp1wAAAA&pid=Api&P=0" group-title="Bics US FOX", FOX: KABB 29 San Antonio TX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759753
-#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/41/KSTU-fox13now-horizontal-TM.jpg" group-title="Bics US FOX", FOX: KSTU 13 Salt Lake City UT
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759755
-#EXTINF:-1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/96/Wttg_horizontal_logo.jpg" group-title="Bics US FOX", FOX: WTTG 5 Washington DC
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759762
-#EXTINF:-1  tvg-logo="https://eatlocalfirst.org/wp-content/uploads/2020/11/KCPQ_Q13_FOX_SIGNATURE_LOGO_STACKED_WHITE_ON_BLUE_BOX_RGB_BNF-1513x1536.jpg" group-title="Bics US FOX", FOX: KCPQ 13 Seattle/Tacoma WA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759763
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/WITI-MyFox.png" group-title="Bics US FOX", FOX: WITI 6 Milwaukee WI
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759769
-#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/05/Wkrg4.png" group-title="Bics US CBS", CBS: WKRG 5 Mobile AL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759243
-#EXTINF:-1  tvg-logo="https://livenewsglobe.com/wp-content/uploads/2020/12/WAKA_CBS_8_Montgomery_logo.png" group-title="Bics US CBS", CBS: WAKA 8 Montgomery/Selma AL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759244
-#EXTINF:-1  tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/2/2b/THV_Logo_B5.png" group-title="Bics US CBS", CBS: KTHV 11 Little Rock AR
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759245
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.6fndeJ51OygRyGPQwfkYFAHaHa&pid=Api&P=0" group-title="Bics US CBS", CBS: KPHO 5 Phoenix AZ
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759246
-#EXTINF:-1  tvg-logo="https://deptmedicine.arizona.edu/sites/default/files/kold-13-teardrop-logo_square.png" group-title="Bics US CBS", CBS: KOLD 13 Tucson AZ
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759247
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/KBAK-TV_29.JPG" group-title="Bics US CBS", CBS: KBAK 29 Bakersfield CA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759248
-#EXTINF:-1  tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/KGPE__d54769/KGPE_2013_Logo.png__31417.png" group-title="Bics US CBS", CBS: KGPE 47 Fresno CA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759249
-#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/81/KCAL_9_logo.png" group-title="Bics US CBS", CBS: KCAL 9 Los Angeles CA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759250
-#EXTINF:-1  tvg-logo="http://static2.wikia.nocookie.net/__cb20110801203758/logopedia/images/7/75/KCBS_1998.png" group-title="Bics US CBS", CBS: KCBS 2 Los Angeles CA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759251
-#EXTINF:-1  tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2016/10/kion-logo-social.jpg" group-title="Bics US CBS", CBS: KION 5/46 Salinas/Monterey CA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759252
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.V0Y9ADlCJFuAisPJ4k7WdAHaHa&pid=Api&P=0" group-title="Bics US CBS", CBS: KFMB 8 San Diego CA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759253
-#EXTINF:-1  tvg-logo="https://tehama.io/wp-content/uploads/2020/07/kpix-CBS.jpg" group-title="Bics US CBS", CBS: KPIX 5 San Francisco CA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759254
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.VMFipS58o9GNrkjR9SDZmQHaHa&pid=Api&P=0" group-title="Bics US CBS", CBS: KCOY 12 Santa Maria CA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759255
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.vVZeb0ks5MqSZyFgHJftnAAAAA&pid=Api&P=0" group-title="Bics US CBS", CBS: KOVR 13 Stockton/Sacramento CA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759256
-#EXTINF:-1  tvg-logo="https://www.casappr.org/wp-content/uploads/2018/12/KKTV-Logo.jpg" group-title="Bics US CBS", CBS: KKTV 11 Colorado Springs CO
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759257
-#EXTINF:-1  tvg-logo="https://www.livenewsworld.com/wp-content/uploads/2019/04/CBS4-Denver-CO.jpg" group-title="Bics US CBS", CBS: KCNC 4 Denver CO
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759258
-#EXTINF:-1  tvg-logo="https://img.new.livestream.com/events/0000000000278eee/7f00cfe7-e57d-4ccc-9980-a5f803ff0d4a.png" group-title="Bics US CBS", CBS: WFSB 3 Hartford CT
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759259
-#EXTINF:-1  tvg-logo="https://susanmccorkindale.com/wp-content/uploads/WUSA_9_logo2-800x675.jpg" group-title="Bics US CBS", CBS: WUSA 9 Washington DC
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759260
-#EXTINF:-1  tvg-logo="https://i1.wp.com/deafnetwork.com/wordpress/wp-content/uploads/2013/09/wink-logo.png" group-title="Bics US CBS", CBS: WINK 11 Ft. Myers FL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759261
-#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/513349668332240896/Sh8RjMBE_400x400.png" group-title="Bics US CBS", CBS: WJAX 47 Jacksonville FL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759262
-#EXTINF:-1  tvg-logo="http://img4.wikia.nocookie.net/__cb20131223203221/logopedia/images/4/4a/Wfor_new_2010.png" group-title="Bics US CBS", CBS: WFOR 4 Miami FL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759263
-#EXTINF:-1  tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2022/04/WKMG-Channel-6.png" group-title="Bics US CBS", CBS: WKMG 6 Orlando FL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759264
-#EXTINF:-1  tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs-wtsp.png" group-title="Bics US CBS", CBS: WTSP 10 Tampa/St. Petersburg FL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759265
-#EXTINF:-1  tvg-logo="http://img4.wikia.nocookie.net/__cb20120408184012/logopedia/images/e/eb/WPEC_CBS_12.png" group-title="Bics US CBS", CBS: WPEC 12 West Palm Beach FL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759266
-#EXTINF:-1  tvg-logo="https://s3.amazonaws.com/static.mobilelocalnews.com/images/app_3274/branding/3274_icon_1024_app_icon_1473454361.PNG" group-title="Bics US CBS", CBS: WGCL 46 Atlanta GA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759267
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/46/d6/8a/46d68aa75af2bd9ae1effb025154e869.jpg" group-title="Bics US CBS", CBS: WRDW 12 Augusta GA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759268
-#EXTINF:-1  tvg-logo="https://www.savannahchamber.com/wp-content/uploads/simpleview/19xtf5is.jpg" group-title="Bics US CBS", CBS: WTOC 11 Savannah GA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759270
-#EXTINF:-1  tvg-logo="https://drcharlesarakaki.com/wp-content/uploads/2021/07/logo-kgmb.jpg" group-title="Bics US CBS", CBS: KGMB 9 Honolulu HI
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759272
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.n4N6-rB9wejgbe4tiH_wHQAAAA&pid=Api&P=0" group-title="Bics US CBS", CBS: KGAN 2 Cedar Rapids IA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759273
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.sy4lX1Ew_RUDJ9L7-Pot6AHaGg&pid=Api&P=0" group-title="Bics US CBS", CBS: WHBF 4 Rock Island IL/Davenport IA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759274
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.gFy_AdZZpJ9EojkZY8IF_AHaHo&pid=Api&P=0" group-title="Bics US CBS", CBS: KCCI 8 Des Moines IA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759275
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.x_Q5bK6C8Ql3rX22ta2-1wHaEK&pid=Api&P=0" group-title="Bics US CBS", CBS: KBOI 2 Boise ID
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759276
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.4C92VcsaEDl8Zq-SHxPXzQHaEX&pid=Api&P=0" group-title="Bics US CBS", CBS: WBBM 2 Chicago IL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759277
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.ydHwEsauzhzx9lnendc9AwHaCK&pid=Api&P=0" group-title="Bics US CBS", CBS: WMBD 31 Peoria IL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759278
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.QKR-gto-EF6g6-kAfCTSbwHaEK&pid=Api&P=0" group-title="Bics US CBS", CBS: WEVV 44 Evansville IN
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759279
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.KKWXaa1Cb86QwX0DRWmg6AHaEK&pid=Api&P=0" group-title="Bics US CBS", CBS: WSBT 22 South Bend IN
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759281
-#EXTINF:-1  tvg-logo="https://www.joncartervoiceovers.com/images/client-logos/client-logo-wkyt-cbs.jpg" group-title="Bics US CBS", CBS: WKYT 27 Lexington KY
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759283
-#EXTINF:-1  tvg-logo="http://img3.wikia.nocookie.net/__cb20101129181952/logopedia/images/9/95/WLKY_32.png" group-title="Bics US CBS", CBS: WLKY 32 Louisville KY
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759284
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Wafb_2008.png" group-title="Bics US CBS", CBS: WAFB 9 Baton Rouge LA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759285
-#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7a/KLFY_2011_vertical.jpg" group-title="Bics US CBS", CBS: KLFY 10 Lafayette LA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759286
-#EXTINF:-1  tvg-logo="http://content.wwltv.com/photo/2016/05/03/WWLTV%20logo_1462309908460_2084321_ver1.0.JPG" group-title="Bics US CBS", CBS: WWL 4 New Orleans LA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759287
-#EXTINF:-1  tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/de/KSLA_station_ID_1963.jpg" group-title="Bics US CBS", CBS: KSLA Shreveport LA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759288
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.2YxPoxfPseJynpETTq2EhAAAAA&pid=Api&P=0" group-title="Bics US CBS", CBS: WBZ 4 Boston MA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759289
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/474x/08/0c/f8/080cf8044a7904b1fe9e82011653164e.jpg" group-title="Bics US CBS", CBS: WSHM 3 Springfield MA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759290
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.Yrnxv0wrdVfikeGUkcen-QAAAA&pid=Api&P=0" group-title="Bics US CBS", CBS: WJZ 13 Baltimore MD
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759291
-#EXTINF:-1  tvg-logo="http://www.doobert.com/wp-content/uploads/2016/11/WNEM_logo-1.jpg" group-title="Bics US CBS", CBS: WNEM 5 Flint/Bay City MI
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759293
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.aLUalpCpfKdaxezskEnjVgAAAA&pid=Api&P=0" group-title="Bics US CBS", CBS: WWTV 9/10 Cadillac MI
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759294
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.xu19dr7-9bbCjs62mv00GQHaEv&pid=Api&P=0" group-title="Bics US CBS", CBS: WWJ 62 Detroit MI
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759295
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.TeKjNkPOSCBzmV1jiOjJDAAAAA&pid=Api&P=0" group-title="Bics US CBS", CBS: WWMT 3 Kalamazoo MI
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759296
-#EXTINF:-1  tvg-logo="https://www.wlns.com/wp-content/uploads/sites/50/2019/06/WLNS20CBS20TV20Lansing20Jackson_1559245478709-1.png_89917885_ver1.0-1.png" group-title="Bics US CBS", CBS: WLNS 6 Lansing MI
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759297
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/WCCO_CBS_4_logo.png" group-title="Bics US CBS", CBS: WCCO 4 Minneapolis MN
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759298
-#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6f/KFVS_CBS_12.png" group-title="Bics US CBS", CBS: KFVS 12 Cape Girardeau MO
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759299
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.isgksjpNOsyJN9n9Yg9SMAAAAA&pid=Api&P=0" group-title="Bics US CBS", CBS: KCTV 5 Kansas City MO
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759300
-#EXTINF:-1  tvg-logo="https://www.springfieldlittletheatre.org/wp-content/uploads/2014/09/KOLR-10-Logo-300-dpi.jpg" group-title="Bics US CBS", CBS: KOLR 10 Springfield MO
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759301
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.5ujxMBCkoknROPA__4wmMAHaEK&pid=Api&P=0" group-title="Bics US CBS", CBS: KMOV 4 St. Louis MO
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759302
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.7CaoZLJuAwN6CmLAaxhmKwAAAA&pid=Api&P=0" group-title="Bics US CBS", CBS: WCBI 4 Columbus MS
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759303
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.P2UPc3R1YhTKShlkyqgRtQHaG-&pid=Api&P=0" group-title="Bics US CBS", CBS: WJTV 12 Jackson MS
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759304
-#EXTINF:-1  tvg-logo="https://livenewsglobe.com/wp-content/uploads/2021/02/WBTV_News_logo.jpg" group-title="Bics US CBS", CBS: WBTV 3 Charlotte NC
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759305
-#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/annex/images/0/01/CBS17.jpg" group-title="Bics US CBS", CBS: WNCN 17 Raleigh NC
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759306
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.pMCzIyPkBFQsNh_AbidwjwHaHa&pid=Api&P=0" group-title="Bics US CBS", CBS: WFMY 2 Greensboro NC
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759307
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.DYF92ci0pASxxqAn6QWGIwHaFj&pid=Api&P=0" group-title="Bics US CBS", CBS: WNCT 9 Greenville NC
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759308
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.KA20aTw5IUMCLO16NXDtvAHaFj&pid=Api&P=0" group-title="Bics US CBS", CBS: WWAY 3 Wilmington NC
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759309
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.vBIr39WTC_Ne_tFKp1vLUAHaDk&pid=Api&P=0" group-title="Bics US CBS", CBS: KOLN 10 Lincoln NE
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759310
-#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5d/Klas-old-logo-6.jpg" group-title="Bics US CBS", CBS: KLAS 8 Las Vegas NV
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759312
-#EXTINF:-1  tvg-logo="https://journalism.unr.edu/wp-content/uploads/job-manager-uploads/company_logo/2020/08/2KTVN-logo.jpg" group-title="Bics US CBS", CBS: KTVN 2 Reno NV
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759313
-#EXTINF:-1  tvg-logo="https://www.nexstar.tv/wp-content/uploads/2016/09/wivb-09292016.jpg" group-title="Bics US CBS", CBS: WIVB 4 Buffalo NY
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759314
-#EXTINF:-1  tvg-logo="http://img3.wikia.nocookie.net/__cb20130924210913/logopedia/images/b/bf/CBS2NewYork2013.jpg" group-title="Bics US CBS", CBS: WCBS 2 New York NY
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759315
-#EXTINF:-1  tvg-logo="http://static1.wikia.nocookie.net/__cb20121014160126/logopedia/images/8/83/WROC_8_logo.jpg" group-title="Bics US CBS", CBS: WROC 8 Rochester NY
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759316
-#EXTINF:-1  tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/WRGB__311cb2/WRGB_CBS6_2016_logo.png__94777.png" group-title="Bics US CBS", CBS: WRGB 6 Albany/Schenectady NY
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759317
-#EXTINF:-1  tvg-logo="http://img3.wikia.nocookie.net/__cb20111002140149/logopedia/images/6/61/WTVH_5.png" group-title="Bics US CBS", CBS: WTVH 5 Syracuse NY
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759318
-#EXTINF:-1  tvg-logo="http://img2.wikia.nocookie.net/__cb20120913022012/logopedia/images/f/f1/WKRC_2004.jpg" group-title="Bics US CBS", CBS: WKRC 12 Cincinnati OH
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759319
-#EXTINF:-1  tvg-logo="https://lisapanos.com/wp-content/uploads/2018/10/WBNS-Logo.png" group-title="Bics US CBS", CBS: WBNS 10 Columbus OH
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759320
-#EXTINF:-1  tvg-logo="http://www.rickgevers.com/wp-content/uploads/2015/12/Whio-Logo-e1450071320756.jpg" group-title="Bics US CBS", CBS: WHIO Dayton OH
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759321
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/WOIO_logo.png" group-title="Bics US CBS", CBS: WOIO 19 Cleveland/Shaker Heights OH
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759322
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.IF1W7IPmfn86dtYTBwzfvAHaFX&pid=Api&P=0" group-title="Bics US CBS", CBS: KVAL 13 Eugene OR
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759325
-#EXTINF:-1  tvg-logo="https://plantaseedfoundation.org/wp-content/uploads/2014/07/kyw2003.jpg" group-title="Bics US CBS", CBS: KYW 3 Philadelphia PA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759326
-#EXTINF:-1  tvg-logo="https://patch.com/img/cdn20/users/22920172/20190123/022636/styles/T800x600/public/processed_images/kdka-logo-1548271389-2525.jpg" group-title="Bics US CBS", CBS: KDKA 12 Pittsburgh PA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759327
-#EXTINF:-1  tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/c/cc/WYOU_1996.png" group-title="Bics US CBS", CBS: WYOU 22 Scranton/Wilkes-Barre PA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759328
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.7WJhYg0lOONu_rtcR0hBFQHaHa&pid=Api&P=0" group-title="Bics US CBS", CBS: WPRI 12 Providence RI
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759329
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.dgrVnizA4m1Bk-vSlFJYwwHaEE&pid=Api&P=0" group-title="Bics US CBS", CBS: WCSC 5 Charleston SC
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759330
-#EXTINF:-1  tvg-logo="https://assets.simpleviewinc.com/simpleview/image/fetch/c_limit,h_1200,q_75,w_1200/https://assets.simpleviewinc.com/simpleview/image/upload/crm/columbia/wltx_6671d7c5-5056-a36a-06a01095be5c9e60.jpg" group-title="Bics US CBS", CBS: WLTX 19 Columbia SC
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759331
-#EXTINF:-1  tvg-logo="http://static2.wikia.nocookie.net/__cb20111205010946/logopedia/images/d/db/Wspa_logo_2011.png" group-title="Bics US CBS", CBS: WSPA 7 Spartanburg SC
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759332
-#EXTINF:-1  tvg-logo="https://www.nexstar.tv/wp-content/uploads/2016/09/kelo-a09282016.jpg" group-title="Bics US CBS", CBS: KELO 11 Sioux Falls SD
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759333
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.pB56DNqXanyXuCvWgiop0gAAAA&pid=Api&P=0" group-title="Bics US CBS", CBS: WTVF 5 Nashville TN
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759334
-#EXTINF:-1  tvg-logo="http://static2.wikia.nocookie.net/__cb20110414225650/logopedia/images/7/79/CBS42Logo.jpg" group-title="Bics US CBS", CBS: KEYE 42 Austin TX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759335
-#EXTINF:-1  tvg-logo="http://static4.wikia.nocookie.net/__cb20101101140118/logopedia/images/1/15/CBS11_KTVT.png" group-title="Bics US CBS", CBS: KTVT 11 Fort Worth TX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759337
-#EXTINF:-1  tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/c/c3/KTXA80a.png" group-title="Bics US CBS", CBS: KTXA 21 Fort Worth/Dallas TX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759338
-#EXTINF:-1  tvg-logo="https://media.khou.com/assets/KHOU/images/599259183/599259183_750x422.jpg" group-title="Bics US CBS", CBS: KHOU 11 Houston TX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759339
-#EXTINF:-1  tvg-logo="https://safoodbank.org/wp-content/uploads/2019/07/KENS-5-CBS-San-Antonio-logo-blue-1024x328.png" group-title="Bics US CBS", CBS: KENS 5 San Antonio TX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759340
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.TW1XYoIrSvUwySCIuF-zIAAAAA&pid=Api&P=0" group-title="Bics US CBS", CBS: KUTV 2 Salt Lake City UT
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759341
-#EXTINF:-1  tvg-logo="https://4.bp.blogspot.com/-SY4R7JuFTiU/VZZdAVC7YvI/AAAAAAABFPY/iQl_MwSGQ-0/s1600/wdbj_logo.png" group-title="Bics US CBS", CBS: WDBJ 7 Roanoke VA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759342
-#EXTINF:-1  tvg-logo="https://s3.amazonaws.com/media.muckrack.com/groups/icons/wcax.jpeg" group-title="Bics US CBS", CBS: WCAX 3 Burlington VT
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759343
-#EXTINF:-1  tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2014/12/kiro304.jpg" group-title="Bics US CBS", CBS: KIRO 7 Seattle WA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759344
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/29/64/5b/29645b8cd4d9da4907119792c76266f8.jpg" group-title="Bics US CBS", CBS: WFRV 5 Green Bay WI
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759347
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.bpaDTiGlRfB2l7-EWxD1fAHaEK&pid=Api&P=0" group-title="Bics US CBS", CBS: WISC 3 Madison WI
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759349
-#EXTINF:-1  tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/e/e5/Wdjt_footer_logo.jpg" group-title="Bics US CBS", CBS: WDJT 58 Milwaukee WI
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759350
-#EXTINF:-1  tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/88/87/c5/8887c53c-9005-9ae0-e009-0e04cca78b5e/source/256x256bb.jpg" group-title="Bics US CBS", CBS: WOWK 13 Huntington WV
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759351
-#EXTINF:-1  tvg-logo="http://4.bp.blogspot.com/_9XUCls9G9ZI/TD9jQGbmXPI/AAAAAAAAAHk/fVPNR-4w6eY/S330/kxjb08171998.jpg" group-title="Bics US CBS", CBS: KXJB 4 Fargo ND
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759352
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.xX8CjASGQfVJL6VqZ9yTcgHaHa&pid=Api&P=0" group-title="Bics US CBS", CBS: WJHL 11 Tri-Cities TN VA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759353
-#EXTINF:-1  tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/CBS_7_Logo_3D.png/200px-CBS_7_Logo_3D.png" group-title="Bics US CBS", CBS: KOSA 7 Midland/Odessa TX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759354
-#EXTINF:-1  tvg-logo="http://en.wikipedia.org/wiki/Special:FilePath/KRQE_Primary_Logo_2018.png" group-title="Bics US CBS", CBS: KRQE 13 Albuquerque NM
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759355
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/WVLT-TV_logo.svg/180px-WVLT-TV_logo.svg.png" group-title="Bics US CBS", CBS: WVLT 8 Knoxville TN
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/759789
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th?id=OIP.YbMVfEGXVdhUUwU0fh29TwHaEL&pid=Api&P=0" group-title="Bics Extra US", BASICS: A&E
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/776274
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/AHC.png" group-title="Bics Extra US", BASICS: AHC/AMERICAN HEROES CHANNEL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/285
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.wF1IHDDwXW15XGOA3uGcEgHaDt&pid=Api&P=0&h=180" group-title="Bics Extra US", BASICS: AMC
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/779736
-#EXTINF:-1  tvg-logo="https://i.imgur.com/mnwnXlI.png" group-title="Bics Extra US", BASICS: AMC PLUS
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/649280
-#EXTINF:-1  tvg-logo="https://static.epg.best/us/AMGTV.us.png" group-title="Bics Extra US", BASICS: AMG TV
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/114647
-#EXTINF:-1  tvg-logo="https://puddintap.click/ico/USA-Color/animalplanet.png" group-title="Bics Extra US", BASICS: ANIMAL PLANET
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/753777
-#EXTINF:-1 ,BASICS ANTENNA TV
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/788898
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/ASPIRETV.png" group-title="Bics Extra US", BASICS: ASPIRE
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/288
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/awe.png" group-title="Bics Extra US", BASICS: AWE
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/289
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/AXSTV.png" group-title="Bics Extra US", BASICS: AXS TV
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/290
-#EXTINF:-1  tvg-logo="https://www.groundedreason.com/wp-content/uploads/2019/01/bbc_logo_1280x720.jpg" group-title="Bics Extra US", BASICS: BBC AMERICA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/292
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/BET.png" group-title="Bics Extra US", BASICS: BET
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/293
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/BETHER.png" group-title="Bics Extra US", BASICS: BET HER
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/295
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/betjams.png" group-title="Bics Extra US", BASICS: BET JAMS
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/296
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/betsoul.png" group-title="Bics Extra US", BASICS: BET SOUL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/297
-#EXTINF:-1  tvg-logo="https://puddintap.click/ico/USA-Color/BOUNCE.png" group-title="Bics Extra US", BASICS: BOUNCE TV
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/746356
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/BRAVO.png" group-title="Bics Extra US", BASICS: BRAVO
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/302
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/BRAVO.png" group-title="Bics Extra US", BASICS: BRAVO WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/303
-#EXTINF:-1  tvg-logo="https://i.imgur.com/xdBTSNj.png" group-title="Bics Extra US", BASICS: BUZZR
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/304
-#EXTINF:-1  tvg-logo="https://dlk6b8vukv9rf.cloudfront.net/uploads/2021/07/Charge_Yellow-1.png" group-title="Bics Extra US", BASICS: CHARGE!
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/779553
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.jijFrW2bT5OLSM1ksctdIwAAAA&pid=Api&P=0&h=180" group-title="Bics Extra US", BASICS: CHIVE
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/649283
-#EXTINF:-1  tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.a3fU7EBn_6Hrrf-gfKsumAHaET%26pid%3DApi&f=1" group-title="Bics Extra US", BASICS: CIRCLE
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/649282
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com//logo/tv/cc/cleo-tv-us.png" group-title="Bics Extra US", BASICS: CLEO TV
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/738044
-#EXTINF:-1  tvg-logo="https://www.wate.com/wp-content/uploads/sites/42/2020/04/CMT.jpg?w=640&h=360&crop=1&resize=1280,720" group-title="Bics Extra US", BASICS: CMT
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/308
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/COMEDYCENTRAL.png" group-title="Bics Extra US", BASICS: COMEDY CENTRAL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/312
-#EXTINF:-1  tvg-logo="https://imgx.fubo.tv/station_logos/comet_c.png" group-title="Bics Extra US", BASICS: COMET
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/313
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/COOKINGCHANNEL.png" group-title="Bics Extra US", BASICS: COOKING CHANNEL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/314
-#EXTINF:-1  tvg-logo="https://i.imgur.com/EiAtvhM.png" group-title="Bics Extra US", BASICS: COURT TV
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/649287
-#EXTINF:-1  tvg-logo="https://i.imgur.com/zvSOy1a.png" group-title="Bics Extra US", BASICS: COZI TV
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/315
-#EXTINF:-1  tvg-logo="https://i.imgur.com/hrZb5oO.png" group-title="Bics Extra US", BASICS: CRIME & INVESTIGATION
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/649288
-#EXTINF:-1  tvg-logo="https://tmsimg.fancybits.co/assets/s112157_h3_aa.png" group-title="Bics Extra US", BASICS: DABL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/649289
-#EXTINF:-1  tvg-logo="https://i.ibb.co/y0ddrWc/decades.png" group-title="Bics Extra US", BASICS: CATCHY COMEDY (FORMERLY DECADES)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/649290
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/DESTINATIONCHANNEL.png" group-title="Bics Extra US", BASICS: DESTINATION AMERICA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/316
-#EXTINF:-1  tvg-logo="https://puddintap.click/ico/USA-Color/DISCOVERY.png" group-title="Bics Extra US", BASICS: DISCOVERY CHANNEL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/317
-#EXTINF:-1  tvg-logo="https://imgx.fubo.tv/station_logos/discovery-family-channel_c.png" group-title="Bics Extra US", BASICS: DISCOVERY FAMILY
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/318
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/DISCOVERYLIFE.png" group-title="Bics Extra US", BASICS: DISCOVERY LIFE
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/320
-#EXTINF:-1  tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/us/Science.us.png" group-title="Bics Extra US", BASICS: DISCOVERY SCIENCE
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/649291
-#EXTINF:-1  tvg-logo="https://2.bp.blogspot.com/-38J-E8WyIuY/WfDlIprRxPI/AAAAAAABAjA/xNUVyvuSYsYdl9rcIvgGn0AUHhCKmC0tgCLcBGAs/s700-p-k-no-nu/Dog%2Btv%2Bouniversodatv.png" group-title="Bics Extra US", BASICS: DOG TV
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/114301
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/EENTERTAINMENT.png" group-title="Bics Extra US", BASICS: E! ENTERTAINMENT
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/325
-#EXTINF:-1  tvg-logo="https://holycitysinner.com/wp-content/uploads/2022/07/fetv-black.jpg" group-title="Bics Extra US", BASICS: FETV
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/743792
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/FOODNETWORK.png" group-title="Bics Extra US", BASICS: FOOD NETWORK
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/328
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/FREEFORM.png" group-title="Bics Extra US", BASICS: FREEFORM
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/329
-#EXTINF:-1  tvg-logo="https://imgx.fubo.tv/station_logos/fuse_c.png" group-title="Bics Extra US", BASICS: FUSE
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/330
-#EXTINF:-1  tvg-logo="https://i.ibb.co/NyMQtrY/fx.png" group-title="Bics Extra US", BASICS: FX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/332
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/FXM.png" group-title="Bics Extra US", BASICS: FXM
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/333
-#EXTINF:-1  tvg-logo="https://i.ibb.co/ZBqfWQ8/fxx.png" group-title="Bics Extra US", BASICS: FXX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/334
-#EXTINF:-1  tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/us/FYI.us.png" group-title="Bics Extra US", BASICS: FYI
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/335
-#EXTINF:-1  tvg-logo="https://i.ibb.co/G0Ct1dp/great-american-country-us.png" group-title="Bics Extra US", BASICS: GAC FAMILY
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/649294
-#EXTINF:-1  tvg-logo="https://fans.tmsimg.com/assets/s82563_ll_h3_aa.png" group-title="Bics Extra US", BASICS: GET TV
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/649293
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/GRIT.png" group-title="Bics Extra US", BASICS: GRIT
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/337
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/GAMESHOWNEWORK.png" group-title="Bics Extra US", BASICS: GSN/GAME SHOW NETWORK
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/338
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/HALLMARK.png" group-title="Bics Extra US", BASICS: HALLMARK
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/340
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA/HallmarkDrama.png" group-title="Bics Extra US", BASICS: HALLMARK DRAMA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/339
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/HALLMARKMOVIESMYSTERY.png" group-title="Bics Extra US", BASICS: HALLMARK MOVIES & MYSTERIES
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/341
-#EXTINF:-1  tvg-logo="https://i.ibb.co/MszWLKk/heroes-and-icons-us.png" group-title="Bics Extra US", BASICS: HEROES & ICONS
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/649295
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/HGTV.png" group-title="Bics Extra US", BASICS: HGTV
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/342
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/HISTORY.png" group-title="Bics Extra US", BASICS: HISTORY CHANNEL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/343
-#EXTINF:-1  tvg-logo="https://thegraysoncompany.com/wp-content/uploads/2019/02/HSN-logo-567BD74DA7-seeklogo.com_.jpg" group-title="Bics Extra US", BASICS: HSN/HOME SHOPPING NETWORK
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/345
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/ID.png" group-title="Bics Extra US", BASICS: IDTV/INVESTIGATION DISCOVERY
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/319
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/IFC.png" group-title="Bics Extra US", BASICS: IFC
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/346
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/insplogo.jpg" group-title="Bics Extra US", BASICS: INSP
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/347
-#EXTINF:-1  tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/us/ION.us.png" group-title="Bics Extra US", BASICS: ION
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/348
-#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/3343381775/86b9811a36c2108168d9a21fd6af3752_400x400.jpeg" group-title="Bics Extra US", BASICS: JUSTICE CENTRAL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/316338
-#EXTINF:-1  tvg-logo="https://i.ibb.co/hgfg04S/laff-tv.png" group-title="Bics Extra US", BASICS: LAFF TV
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/649298
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/LIFETIME.png" group-title="Bics Extra US", BASICS: LIFETIME
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/349
-#EXTINF:-1  tvg-logo="https://puddintap.click/ico/USA-Color/LMN.png" group-title="Bics Extra US", BASICS: LMN/LIFETIME MOVIE NETWORK
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/746380
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/LOGOTV.png" group-title="Bics Extra US", BASICS: LOGO
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/351
-#EXTINF:-1  tvg-logo="https://hotdog.com/wp-content/uploads/magnolia-network-768x465.png" group-title="Bics Extra US", BASICS: MAGNOLIA NETWORK
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/324
-#EXTINF:-1  tvg-logo="https://i.imgur.com/2eT7fKz.png" group-title="Bics Extra US", BASICS: MAV TV
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/353
-#EXTINF:-1  tvg-logo="https://cdnmetv.metv.com/K7XBG-1567718383-142-uploader-FB_MeTV.jpg" group-title="Bics Extra US", BASICS: ME TV
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/354
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com//logo/tv/hh/history_military_history_us.png" group-title="Bics Extra US", BASICS: MILITARY HISTORY
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/738045
-#EXTINF:-1  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81Ni4iNV2KL._RI_.jpg" group-title="Bics Extra US", BASICS: MOTORTREND
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/355
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/MTV.png" group-title="Bics Extra US", BASICS: MTV
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/358
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/mtv2.png" group-title="Bics Extra US", BASICS: MTV 2
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/360
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/mtvclassic.png" group-title="Bics Extra US", BASICS: MTV CLASSIC
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/357
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/mtvlive.png" group-title="Bics Extra US", BASICS: MTV LIVE
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/359
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vDQWWDC/nasa-tv.png" group-title="Bics Extra US", BASICS: NASA TV
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/649299
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/NATGEO.png" group-title="Bics Extra US", BASICS: NAT GEO
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/363
-#EXTINF:-1  tvg-logo="https://nationalgeographicpartners.com/app/uploads/2020/11/nat-geo-wild.jpg" group-title="Bics Extra US", BASICS: NAT GEO WILD
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/362
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/outdoor.png" group-title="Bics Extra US", BASICS: OUTDOOR CHANNEL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/371
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/OUTSIDETV.png" group-title="Bics Extra US", BASICS: OUTSIDE TV
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/372
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/ovation.png" group-title="Bics Extra US", BASICS: OVATION
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/649301
-#EXTINF:-1  tvg-logo="https://streamdiag.com/wp-content/uploads/OWN-Network-768x384.jpg" group-title="Bics Extra US", BASICS: OWN/OPRAH WINFREY NETWORK
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/373
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/OXYGEN.png" group-title="Bics Extra US", BASICS: OXYGEN
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/374
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/PARAMOUNTNETWORK.png" group-title="Bics Extra US", BASICS: PARAMOUNT NETWORK
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/376
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/pbs.png" group-title="Bics Extra US", BASICS: PBS
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/377
-#EXTINF:-1  tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/us/PixLTV.us.png" group-title="Bics Extra US", BASICS: PIXL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/649302
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/POPTV.png" group-title="Bics Extra US", BASICS: POP
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/379
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/pursuit.png" group-title="Bics Extra US", BASICS: PURSUIT CHANNEL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/380
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/QVC.png" group-title="Bics Extra US", BASICS: QVC
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/47355
-#EXTINF:-1  tvg-logo="https://uploads.dailydot.com/2020/08/reelz_live_stream.jpg?auto=compress&fm=pjpg" group-title="Bics Extra US", BASICS: REELZ
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/743791
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/REVOLT.png" group-title="Bics Extra US", BASICS: REVOLT
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/382
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/rfdtv.png" group-title="Bics Extra US", BASICS: RFD TV
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/47039
-#EXTINF:-1  tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2011/04/05/MORPH_Color.jpg" group-title="Bics Extra US", BASICS: SCIENCE
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/383
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/Smithsonianchannel.png" group-title="Bics Extra US", BASICS: SMITHSONIAN CHANNEL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/384
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com//logo/tv/ss/sportsman-channel-us.png" group-title="Bics Extra US", BASICS: SPORTSMAN
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/738065
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/starttv.png" group-title="Bics Extra US", BASICS: START TV
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/649394
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/SUNDANCETV.png" group-title="Bics Extra US", BASICS: SUNDANCE TV
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/387
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/syfy.png" group-title="Bics Extra US", BASICS: SYFY
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/388
-#EXTINF:-1  tvg-logo="https://showbizjobsblobcdn.azureedge.net/logos/t/tastemade/tastemade-logo-2020-14631-thumb.png" group-title="Bics Extra US", BASICS: TASTEMADE
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/389
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/TBS.png" group-title="Bics Extra US", BASICS: TBS
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/390
-#EXTINF:-1  tvg-logo="https://i.imgur.com/H1m7hVJ.png" group-title="Bics Extra US", BASICS: THE COWBOY CHANNEL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/649304
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/TLC.png" group-title="Bics Extra US", BASICS: TLC
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/393
-#EXTINF:-1  tvg-logo="https://www.creativeloop.co.zw/wp-content/uploads/2013/05/Logo-TNT.jpg" group-title="Bics Extra US", BASICS: TNT
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/394
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/TRAVELCHANNEL.png" group-title="Bics Extra US", BASICS: TRAVEL CHANNEL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/395
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/TRUTV.png" group-title="Bics Extra US", BASICS: TRU TV
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/397
-#EXTINF:-1  tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/us/TVLandWest.us.png" group-title="Bics Extra US", BASICS: TV LAND
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/400
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/tvone.png" group-title="Bics Extra US", BASICS: TV ONE
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/401
-#EXTINF:-1  tvg-logo="https://i.ibb.co/YPbbvNM/up-tv-us.png" group-title="Bics Extra US", BASICS: UP TV
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/649305
-#EXTINF:-1  tvg-logo="https://i.ibb.co/0YWwd2B/usa.png" group-title="Bics Extra US", BASICS: USA NETWORK
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/404
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/VH1.png" group-title="Bics Extra US", BASICS: VH1
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/406
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA/VICELAND.png" group-title="Bics Extra US", BASICS: VICELAND
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/649306
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color/WE.png" group-title="Bics Extra US", BASICS: WE TV
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/407
-#EXTINF:-1  group-title="Bics Extra US", BASICS: BET WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/779893
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuaPvAT3N7apM-5BCUkWRYR3z-kCvAdxKTCQ&usqp=CAUxVA.png" group-title="Bics Extra US", PREMIUM: ScreenPix Action US
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742631
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/5starmax.png" group-title="Bics Extra US", PREMIUM: CINEMAX 5 STARMAX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742632
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/actionmax.png" group-title="Bics Extra US", PREMIUM: CINEMAX ACTION MAX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742633
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/cinemaxeast.png" group-title="Bics Extra US", PREMIUM: CINEMAX EAST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742634
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/cinemaxwest.png" group-title="Bics Extra US", PREMIUM: CINEMAX WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742635
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/outermax.png" group-title="Bics Extra US", PREMIUM: CINEMAX OUTERMAX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742636
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/moremax.png" group-title="Bics Extra US", PREMIUM: CINEMAX MOREMAX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742637
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/thrillermax.png" group-title="Bics Extra US", PREMIUM: CINEMAX THRILLERMAX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742638
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/epix.png" group-title="Bics Extra US", PREMIUM: MGM+
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742639
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/epix_2.png" group-title="Bics Extra US", PREMIUM: MGM+ HITS
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742640
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/epix_drive_in.png" group-title="Bics Extra US", PREMIUM: MGM+ DRIVE IN
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742641
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/epix_hits.png" group-title="Bics Extra US", PREMIUM: MGM+ MARQUEE
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742642
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/hbo_east.png" group-title="Bics Extra US", PREMIUM: HBO EAST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742643
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/hbo2.png" group-title="Bics Extra US", PREMIUM: HBO 2
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742644
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/hbocomedy.png" group-title="Bics Extra US", PREMIUM: HBO COMEDY
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742645
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/hbofamily.png" group-title="Bics Extra US", PREMIUM: HBO FAMILY
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742646
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/hbosignature.png" group-title="Bics Extra US", PREMIUM: HBO SIGNATURE
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742647
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/hbo_west.png" group-title="Bics Extra US", PREMIUM: HBO WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742649
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/hbo_zone.png" group-title="Bics Extra US", PREMIUM: HBO ZONE
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742650
-#EXTINF:-1  tvg-logo="http://www.hdnetmovies.com/wp-content/uploads/HDNM-Halloween-wShadow.png" group-title="Bics Extra US", PREMIUM: HDNET MOVIES
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742651
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/movieplex.png" group-title="Bics Extra US", PREMIUM: MOVIE PLEX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742652
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/indieplex.png" group-title="Bics Extra US", PREMIUM: INDIE PLEX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742653
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/retroplex.png" group-title="Bics Extra US", PREMIUM: RETRO PLEX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742654
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/showtime_east.png" group-title="Bics Extra US", PREMIUM: SHOWTIME EAST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742655
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/showtime_west.png" group-title="Bics Extra US", PREMIUM: SHOWTIME WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742656
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/showcase.png" group-title="Bics Extra US", PREMIUM: SHOWTIME SHOWCASE
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742657
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/shoextereme.png" group-title="Bics Extra US", PREMIUM: SHOWTIME EXTREME
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742658
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/showtime_family.png" group-title="Bics Extra US", PREMIUM: SHOWTIME FAMILY ZONE
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742659
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/shonext.png" group-title="Bics Extra US", PREMIUM: SHOWTIME NEXT
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742660
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/showomen.png" group-title="Bics Extra US", PREMIUM: SHOWTIME WOMEN
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742661
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/starz_cinema.png" group-title="Bics Extra US", PREMIUM: STARZ CINEMA
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742662
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/starz_cinema.png" group-title="Bics Extra US", PREMIUM: STARZ CINEMA WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/571797
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/starz_east.png" group-title="Bics Extra US", PREMIUM: STARZ EAST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742663
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/starz_west.png" group-title="Bics Extra US", PREMIUM: STARZ WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742664
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/starz_comedy.png" group-title="Bics Extra US", PREMIUM: STARZ COMEDY
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742665
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/starz_edge.png" group-title="Bics Extra US", PREMIUM: STARZ EDGE
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742666
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/starz_encore_east.png" group-title="Bics Extra US", PREMIUM: STARZENCORE EAST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742667
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/starz_encore_west.png" group-title="Bics Extra US", PREMIUM: STARZ ENCORE WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742668
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/starz_encore_action.png" group-title="Bics Extra US", PREMIUM: STARZ ENCORE ACTION
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742669
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/starz_encore_classic.png" group-title="Bics Extra US", PREMIUM: STARZ ENCORE CLASSIC
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742670
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/starz_encore_family.png" group-title="Bics Extra US", PREMIUM: STARZ ENCORE FAMILY
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742671
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/starz_encore_suspense.png" group-title="Bics Extra US", PREMIUM: STARZ ENCORE SUSPENSE
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742672
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/starz_encore_westerns.png" group-title="Bics Extra US", PREMIUM: STARZENCORE WESTERNS
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742673
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/starz_in_black.png" group-title="Bics Extra US", PREMIUM: STARZ IN BLACK
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742674
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/Starzkidsandfamily.png" group-title="Bics Extra US", PREMIUM: STARZ KIDS & FAMILY
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742675
-#EXTINF:-1  tvg-logo="https://wtcks.com/images/channels/logos/T9WpYrHzAALm8Agj.png" group-title="Bics Extra US", PREMIUM: SHOxBET
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742677
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/showtime2.png" group-title="Bics Extra US", PREMIUM: SHOWTIME 2
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742678
-#EXTINF:-1  tvg-logo="https://www.sonypictures.com/sites/default/files/styles/max_430_width/public/2021-02/sm_networks_thumb_374x266.png" group-title="Bics Extra US", PREMIUM: SONY MOVIES
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742679
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/moviemax.png" group-title="Bics Extra US", PREMIUM: CINEMAX MOVIEMAX
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742680
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/showtime2.png" group-title="Bics Extra US", PREMIUM: SHOWTIME 2 WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742681
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/showcase.png" group-title="Bics Extra US", PREMIUM: SHOWTIME SHOWCASE WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742682
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/shoextereme.png" group-title="Bics Extra US", PREMIUM: SHOWTIME EXTREME WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742683
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/showtime_family.png" group-title="Bics Extra US", PREMIUM: SHOWTIME FAMILY ZONE WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742684
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/shonext.png" group-title="Bics Extra US", PREMIUM: SHOWTIME NEXT WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742685
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/showomen.png" group-title="Bics Extra US", PREMIUM: SHOWTIME WOMEN WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742686
-#EXTINF:-1  tvg-logo="https://wtcks.com/images/channels/logos/T9WpYrHzAALm8Agj.png" group-title="Bics Extra US", PREMIUM: SHOxBET WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742687
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/actionmax.png" group-title="Bics Extra US", PREMIUM: CINEMAX ACTIONMAX WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742688
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/moremax.png" group-title="Bics Extra US", PREMIUM: MOREMAX WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742689
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/thrillermax.png" group-title="Bics Extra US", PREMIUM: THRILLERMAX WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742690
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/hbo2.png" group-title="Bics Extra US", PREMIUM: HBO 2 WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742691
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/hbocomedy.png" group-title="Bics Extra US", PREMIUM: HBO COMEDY WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742692
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/hbofamily.png" group-title="Bics Extra US", PREMIUM: HBO FAMILY WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742693
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/hbosignature.png" group-title="Bics Extra US", PREMIUM: HBO SIGNATURE WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742694
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/hbo_zone.png" group-title="Bics Extra US", PREMIUM: HBO ZONE WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742695
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/indieplex.png" group-title="Bics Extra US", PREMIUM: INDIEPLEX WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742696
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/movieplex.png" group-title="Bics Extra US", PREMIUM: MOVIEPLEX WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742697
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/retroplex.png" group-title="Bics Extra US", PREMIUM: RETROPLEX WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742698
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/starz_comedy.png" group-title="Bics Extra US", PREMIUM: STARZ COMEDY WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742700
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/USA-Color-Movies/starz_edge.png" group-title="Bics Extra US", PREMIUM: STARZ EDGE WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742701
-#EXTINF:-1  tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/03/starz-encore-action.png" group-title="Bics Extra US", PREMIUM: STARZENCORE ACTION WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742702
-#EXTINF:-1  tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/03/starz-encore-black.png" group-title="Bics Extra US", PREMIUM: STARZENCORE BLACK WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742703
-#EXTINF:-1  tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/03/starz-encore-classic.png" group-title="Bics Extra US", PREMIUM: STARZENCORE CLASSIC WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742704
-#EXTINF:-1  tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/03/starz-encore-family.png" group-title="Bics Extra US", PREMIUM: STARZENCORE FAMILY WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742705
-#EXTINF:-1  tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/03/starz-encore-suspense.png" group-title="Bics Extra US", PREMIUM: STARZENCORE SUSPENSE WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742706
-#EXTINF:-1  tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/03/starz-encore-westerns.png" group-title="Bics Extra US", PREMIUM: STARZENCORE WESTERN WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742707
-#EXTINF:-1  tvg-logo="https://cms.shadowandact.com/wp-content/uploads/2016/05/starz_in_black-1.jpg" group-title="Bics Extra US", PREMIUM: STARZINBLACK WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742708
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Starz_kidz.png/revision/latest/scale-to-width-down/249?cb=20161230165712" group-title="Bics Extra US", PREMIUM: STARZ for KIDS WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742709
-#EXTINF:-1  tvg-logo="https://seeklogo.com/images/T/TCM-logo-2867FAA7F2-seeklogo.com.png" group-title="Bics Extra US", PREMIUM: TCM
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742710
-#EXTINF:-1  tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9e823352-276b-49b7-8c01-1a8add1af5e2/deaom2q-42baa628-e975-4bd5-b11f-c3bc3726a8f9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzllODIzMzUyLTI3NmItNDliNy04YzAxLTFhOGFkZDFhZjVlMlwvZGVhb20ycS00MmJhYTYyOC1lOTc1LTRiZDUtYjExZi1jM2JjMzcyNmE4ZjkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.FhLqKcJYAUOuIK_0hzkqjOOclfjL7dvJAYwyOYG3T_w" group-title="Bics Extra US", PREMIUM: ScreenPix US
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742711
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmrhxCGgkkJUNQK6QyL2WYMPEytrRmgIWhYg&usqp=CAU7-Q.png" group-title="Bics Extra US", PREMIUM: ScreenPix Voices US
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742712
-#EXTINF:-1  tvg-logo="https://media.discordapp.net/attachments/992849971881713684/998066084039118858/87263497_146613180139289_6633490268987326464_n.jpg" group-title="Bics Extra US", PREMIUM: ScreenPix Westerns US
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742713
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/IPTVLogo/espn.png"group-title="Bics DEPORTES", ESPN:  ESPN
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/5930
-#EXTINF:-1  tvg-logo="https://cdn.discgolf.ultiworld.com/wp-content/uploads/2020/10/ESPN2-1024x576.png"group-title="Bics DEPORTES", ESPN:  ESPN 2
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/5931
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/IPTVLogo/espn_U.png"group-title="Bics DEPORTES", ESPN:  ESPN U
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/5934
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/IPTVLogo/Espn_deportes.png"group-title="Bics DEPORTES", ESPN:  ESPN DEPORTES
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/5935
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/IPTVLogo/espn_news.png"group-title="Bics DEPORTES", ESPN:  ESPN NEWS
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/5937
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/IPTVLogo/espn3.png"group-title="Bics DEPORTES", ESPN:  ESPN 3
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/742621
-#EXTINF:-1  tvg-logo="http://puddintap.click/ico/IPTVLogo/sec_network.png"group-title="Bics DEPORTES", ESPN:  SEC NETWORK
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/743074
-
-#EXTINF:-1 group-title="Bics Extra Latino",USL: GALAVISION LOS ANGELES
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760597
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIVISION NY(WXTV)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760604
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIVISION PHILADELPHIA(WUVP)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760605
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIVISION PHOENIX(KTVW)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760606
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIVISION PUERTO RICO(WLII)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760607
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO SAN ANTONIO(KVDA)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760608
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO LOS ANGELES(KVEA)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760609
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO WASHINGTON DC(WZDC)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760610
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO TUCSON(KHRR)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760611
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO TAMPA(WRMD)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760612
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO SAN JOSE(KSTS)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760613
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO SALT LAKE CITY(KTMW)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760614
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO SACRAMENTO(KCSO)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760615
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO RIO GRANDE(KTLM)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760616
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO PHILADELPHIA(WWSI)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760617
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO ORLANDO(WTMO)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760618
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO OKLAHOMA CITY(KTUZ)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760619
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO NEW ORLEANS(KGLA)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760620
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO NEW JERSEY(WNJU)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760621
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO MIAMI(WSCV)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760622
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO LAS VEGAS(KBLR)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760623
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO HARTFORD(WRDM)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760624
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO DENVER(KDEN)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760625
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO CHICAGO(WSNS)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760626
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO BOSTON(WNEU)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760627
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO ATLANTA(WKTB)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760628
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO ARIZONA(KTAZ)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760629
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO PUERTO RICO(WKAQ)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760630
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS SAN FRANCISCO(KFSF)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760631
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS FORT LAUDERDALE(WAMI)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760632
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS SAN ANTONIO(KNIC)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760633
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS SACRAMENTO(KTFK)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760634
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS PHOENIX(KFPH)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760636
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS ORLANDO(WOTF)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760638
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS NEW JERSEY(WFUT)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760640
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS LOS ANGELES(KFTR)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760641
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS LAS VEGAS(KNTL)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760642
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS IRVING(KSTR)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760643
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS HOUSTON(KFTH)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760644
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS FRESNO(KTFF)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760645
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS FLAGSTAFF(KFPH)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760646
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS DENVER(KTFD)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760647
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS CLEVELAND(WUTF)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760648
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS BOSTON(WUTF)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760649
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS AUSTIN(KTFO)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760650
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS ALBUQUERQUE(KTFQ)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760651
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIVISION HOUSTON(KXLN)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760652
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIVISION CHICAGO(WGBO)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760653
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO HOUSTON(KTMD)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760654
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO INTERNACIONAL
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760655
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO EAST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760656
-#EXTINF:-1 group-title="Bics Extra Latino",USL: TELEMUNDO WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760657
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIMAS EAST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760658
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIVISION EAST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760659
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIVISION WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760660
-#EXTINF:-1 group-title="Bics Extra Latino",USL: GALAVISION EAST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760661
-#EXTINF:-1 group-title="Bics Extra Latino",USL: GALAVISION WEST
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/760662
-#EXTINF:-1 group-title="Bics Extra Latino",USL: UNIVISION MIAMI (WLTV)
-http://likea8bitboss.xyz:80/raton/DKz5rX2LFZ/780601
+****************************************************************************************************************************************************************
