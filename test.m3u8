@@ -270,9 +270,6 @@ https://ythls-v2.onrender.com/channel/UCgu4v4HAioB0N5K6aq_H-WQ.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", BAJA: CANAL 33 TIJUANA
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
 
-#EXTINF:-1 group-title="Bics REGIONALES", CAMP: TRC TV
-https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
-
 #EXTINF:-1 group-title="Bics REGIONALES", CUA: TELEVISA CD. JUAREZ
 https://ythls-v2.onrender.com/channel/UCot4t8PVKz8TT5xVM8Eb00w.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", CUA: CANAL 44 Chihuahua
@@ -287,24 +284,9 @@ https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 https://ythls-v2.onrender.com/channel/UCR1aiCpU4PdNg-wCDiuDCcg.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", COA: CANAL 15 SABINAS
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bics REGIONALES", COA: NRT
-https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8
-
-#EXTINF:-1 group-title="Bics REGIONALES", COL: CANAL 10
-https://5ca9af4645e15.streamlock.net:443/canal11/videocanal11/playlist.m3u8
-
-#EXTINF:-1 group-title="Bics REGIONALES", CHIAP: CANAL 10
-https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
-
-#EXTINF:-1 group-title="Bics REGIONALES", CDMX: CANAL 21
-https://video.cdmx.gob.mx/redes/stream.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", DGO: TELEVISA DURANGO
 https://ythls-v2.onrender.com/channel/UCON7DvLd5N8tXivc9WqILxQ.m3u8
-#EXTINF:-1 group-title="Bics REGIONALES", DGO: CANAL 10
-http://204.12.193.98:1935/TvHD/canal10/playlist.m3u8
-#EXTINF:-1 group-title="Bics REGIONALES", DGO: TV LOBO
-http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", EDOMEX: MEXIQUENSE
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
@@ -377,6 +359,30 @@ https://ythls-v2.onrender.com/channel/UCQb3i7gu9J8A4zzQU7j6C1Q.m3u8
 
 ********************************************* CANALES DEPORTES Y YOUTUBE  ********************************************************************************
 
+***************************************************************   **************************************************************************************
+
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/97
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/157
+
+#EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 01
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/480
+#EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 03
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/481
+#EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 04
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/482
+#EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 05
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/483
+#EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 06
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/879
+#EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 07
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1153
+
+***************************************************************   **************************************************************************************
+
 #EXTINF:-1 group-title="Bics DEPORTES", MX: INTERNETV DEPORTES
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: CLARO SPORTS
@@ -423,14 +429,6 @@ https://ythls-v2.onrender.com/channel/UC4mSfK49CGFZPrRK50xPS6w.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UCB8Tv4_FgS5-JYezqShFDKQ.m3u8
 
-***************************************************************      **************************************************************************************
-
-#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 01
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/97
-#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 02
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/157
-
-**************************************************        ******************************************
 
 #EXTINF:-1 group-title="Bics DEPORTES", MX: BEiN SPORT
 #EXTVLCOPT--http-reconnect=true
@@ -1920,26 +1918,26 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/678
 ***** #EXTINF:-1 group-title="Bics DEPORTES NFL", NFL 02
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/680
 
-#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 01
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/681
-#EXTINF:-1 group-title="Bics DEPORTES LA LIGA",LA LIGA 02
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/682
-#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 03
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/683
-#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 04
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/684
-#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 05
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/685
-#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 06
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/686
-#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 07
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/687
-#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 08
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/688
-#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 09
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/689
-#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 10
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/690
+***** #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 01
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/681
+***** #EXTINF:-1 group-title="Bics DEPORTES LA LIGA",LA LIGA 02
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/682
+***** #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 03
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/683
+***** #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 04
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/684
+***** #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 05
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/685
+***** #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 06
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/686
+***** #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 07
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/687
+***** #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 08
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/688
+***** #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 09
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/689
+***** #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 10
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/690
 
 ***** #EXTINF:-1 group-title="Bics DEPORTES BUNDESLIGA",691	
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/691
@@ -2100,10 +2098,10 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/763
 #EXTINF:-1 group-title="Bics DEPORTES CHAMPIONS", CHAMPIONS 08	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/764
 
-#EXTINF:-1 group-title="Bics DEPORTES PREMIER LEAGUE", PREMIER 01	
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/765
-#EXTINF:-1 group-title="Bics DEPORTES PREMIER LEAGUE", PREMIER 02
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/766
+***** #EXTINF:-1 group-title="Bics DEPORTES PREMIER LEAGUE", PREMIER 01	
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/765
+***** #EXTINF:-1 group-title="Bics DEPORTES PREMIER LEAGUE", PREMIER 02
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/766
 
 ***** #EXTINF:-1 group-title="Bics Extra TEST",767	
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/767
@@ -2113,26 +2111,26 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/766
 ***** #EXTINF:-1 group-title="Bics Extra TEST",769	
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/769
 
-#EXTINF:-1 group-title="Bics DEPORTES PREMIER LEAGUE", PREMIER 03	
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/770
-#EXTINF:-1 group-title="Bics DEPORTES PREMIER LEAGUE", PREMIER 04	
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/771
-#EXTINF:-1 group-title="Bics DEPORTES PREMIER LEAGUE", PREMIER 05	
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/772
-#EXTINF:-1 group-title="Bics DEPORTES PREMIER LEAGUE", PREMIER 06	
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/773
-#EXTINF:-1 group-title="Bics DEPORTES PREMIER LEAGUE", PREMIER 07	
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/774
-#EXTINF:-1 group-title="Bics DEPORTES PREMIER LEAGUE", PREMIER 08	
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/775
-#EXTINF:-1 group-title="Bics DEPORTES PREMIER LEAGUE", PREMIER 09	
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/776
-#EXTINF:-1 group-title="Bics DEPORTES PREMIER LEAGUE", PREMIER 10	
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/777
-#EXTINF:-1 group-title="Bics DEPORTES PREMIER LEAGUE", PREMIER 11	
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/778
-#EXTINF:-1 group-title="Bics DEPORTES PREMIER LEAGUE", PREMIER 12	
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/779
+***** #EXTINF:-1 group-title="Bics DEPORTES PREMIER LEAGUE", PREMIER 03	
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/770
+***** #EXTINF:-1 group-title="Bics DEPORTES PREMIER LEAGUE", PREMIER 04	
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/771
+***** #EXTINF:-1 group-title="Bics DEPORTES PREMIER LEAGUE", PREMIER 05	
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/772
+***** #EXTINF:-1 group-title="Bics DEPORTES PREMIER LEAGUE", PREMIER 06	
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/773
+***** #EXTINF:-1 group-title="Bics DEPORTES PREMIER LEAGUE", PREMIER 07	
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/774
+***** #EXTINF:-1 group-title="Bics DEPORTES PREMIER LEAGUE", PREMIER 08	
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/775
+***** #EXTINF:-1 group-title="Bics DEPORTES PREMIER LEAGUE", PREMIER 09	
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/776
+***** #EXTINF:-1 group-title="Bics DEPORTES PREMIER LEAGUE", PREMIER 10	
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/777
+***** #EXTINF:-1 group-title="Bics DEPORTES PREMIER LEAGUE", PREMIER 11	
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/778
+***** #EXTINF:-1 group-title="Bics DEPORTES PREMIER LEAGUE", PREMIER 12	
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/779
 
 #EXTINF:-1 group-title="Bics DEPORTES", LONGHORN NET	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/780
