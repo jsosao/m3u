@@ -1,13 +1,13 @@
 #EXTM3U
 
-************************  20/ABR/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  21/ABR/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ************************ HI, THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", UPDATED 20 DE ABR 12:00 HRS
+#EXTINF:-1 group-title="Bics", UPDATED 21 DE ABR 12:00 HRS
 https://zzzz.zzz
 
 #EXTINF:-1 group-title="Bics", MX: AZTECA UNO
@@ -363,38 +363,38 @@ https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: AYM SPORTS
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", HI! SPORTS TV
-#EXTVLCOPT--http-reconnect=true
-https://ythls-v2.onrender.com/channel/UCpWPnP8s0YbVpzhzg6Pk2iA.m3u8
 
-#EXTINF:-1 group-title="Bics DEPORTES", LMB: SARAPEROS
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: SARAPEROS
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", LMB: DIABLOS ROJOS (SOLO EN PARTIDO)
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: DIABLOS ROJOS (SOLO EN PARTIDO)
 #EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UCbPTmPbmSO-BYGCMHm77RUg.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", LMB: ACEREROS (SOLO EN PARTIDO)
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: ACEREROS (SOLO EN PARTIDO)
 #EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UCsRvUjq4j4LvHxNdHLUbydw.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", LMB: DORADOS (SOLO EN PARTIDO)
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: DORADOS (SOLO EN PARTIDO)
 #EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UCQOSwVDBx6UDeM0v66zQjAg.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", LMB: TOROS (SOLO EN PARTIDO)
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: TOROS (SOLO EN PARTIDO)
 #EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UCcjoyEQK5cAuYlw78v4GCuA.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", LMB: OLMECAS (SOLO EN PARTIDO)
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: OLMECAS (SOLO EN PARTIDO)
 #EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UCskCU9jRXOXrouFcJZSJc1w.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", LMB: TIGRES DE QRR (SOLO EN PARTIDO)
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: TIGRES DE QRR (SOLO EN PARTIDO)
 #EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UCmI3b9y_83CF39GBvBEnkUw.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: CALIENTE DGO (SOLO EN PARTIDO)
+#EXTVLCOPT--http-reconnect=true
+https://ythls-v2.onrender.com/channel/UC4OsFuy6GS9l0beb6MLbblA.m3u8
 
-#EXTINF:-1 group-title="Bics DEPORTES", MX: SIPSE DEPORTES (SOLO EN PARTIDO)
+#EXTINF:-1 group-title="Bics DEPORTES LMB", MX: SIPSE DEPORTES (SOLO EN PARTIDO)
 #EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UCrfVrlT7wtN3gqZJYq8WnYg.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: TU CANAL EDUCATIVO (SOLO EN PARTIDO)
+#EXTINF:-1 group-title="Bics DEPORTES LMB", MX: TU CANAL EDUCATIVO (SOLO EN PARTIDO)
 #EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UC4mSfK49CGFZPrRK50xPS6w.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: MADO REPORT DEPORTES (SOLO EN PARTIDO)
+#EXTINF:-1 group-title="Bics DEPORTES LMB", MX: MADO REPORT DEPORTES (SOLO EN PARTIDO)
 #EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UCB8Tv4_FgS5-JYezqShFDKQ.m3u8
 
@@ -547,9 +547,9 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/12
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/13
 #EXTINF:-1 group-title="Bics FANTASTIC", DPELICULA	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/14
-#EXTINF:-1 group-title="Bics FANTASTIC", DISCOVERY
+#EXTINF:-1 group-title="Bics FANTASTIC", DISCOVERY CHANNEL
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/15
-#EXTINF:-1 group-title="Bics FANTASTIC", H&H	
+#EXTINF:-1 group-title="Bics FANTASTIC", DISCOVERY H&H	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/16
 #EXTINF:-1 group-title="Bics FANTASTIC", DISCOVERY ID	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/17
@@ -609,7 +609,7 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/44
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/45
 #EXTINF:-1 group-title="Bics FANTASTIC", TLC	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/46
-#EXTINF:-1 group-title="Bics FANTASTIC", TELENOVELAS	
+#EXTINF:-1 group-title="Bics FANTASTIC", TLNOVELAS	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/47
 #EXTINF:-1 group-title="Bics FANTASTIC", TOONCAST	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/48
@@ -625,11 +625,11 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/52
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/53
 ***** #EXTINF:-1 group-title="Bics Extra TEST",54	
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/54
-#EXTINF:-1 group-title="Bics FANTASTIC", PR: TELEMUNDO 2	
+#EXTINF:-1 group-title="Bics FANTASTIC", PR: 1 PUNTO 2	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/55
 #EXTINF:-1 group-title="Bics FANTASTIC", PR: TELEMUNDO
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/56
-#EXTINF:-1 group-title="Bics FANTASTIC", PR: UNIVISION	
+#EXTINF:-1 group-title="Bics FANTASTIC", PR: UNIVISION TELEONCE	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/57
 #EXTINF:-1 group-title="Bics FANTASTIC", PR: WAPA 2	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/58
@@ -1165,7 +1165,7 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/322
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/323
 #EXTINF:-1 group-title="Bics FANTASTIC", DISCOVERY EN ESPAÑOL	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/324
-#EXTINF:-1 group-title="Bics FANTASTIC", RAI	
+#EXTINF:-1 group-title="Bics FANTASTIC", IT: RAI	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/325
 #EXTINF:-1 group-title="Bics DEPORTES", NBC SPORTS BOSTON	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/326
@@ -1818,269 +1818,290 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/647
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/648
 #EXTINF:-1 group-title="Bics DEPORTES", T 2	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/649
-#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS	
+
+#EXTINF:-1 group-title="Bics DEPORTES EUROPA LEAGUE", FOX SPORTS	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/650
-#EXTINF:-1 group-title="Bics Extra TEST",651	
+#EXTINF:-1 group-title="Bics DEPORTES EUROPA LEAGUE",651	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/651
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN	
+#EXTINF:-1 group-title="Bics DEPORTES EUROPA LEAGUE", ESPN	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/652
-#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS 2	
+#EXTINF:-1 group-title="Bics DEPORTES EUROPA LEAGUE", FOX SPORTS 2	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/653
-***** #EXTINF:-1 group-title="Bics Extra TEST",654	
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/654
-#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS	
+#EXTINF:-1 group-title="Bics DEPORTES EUROPA LEAGUE",654	
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/654
+#EXTINF:-1 group-title="Bics DEPORTES EUROPA LEAGUE", FOX SPORTS	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/655
-***** #EXTINF:-1 group-title="Bics Extra TEST",656	
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/656
-***** #EXTINF:-1 group-title="Bics Extra TEST",657	
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/657
-***** #EXTINF:-1 group-title="Bics Extra TEST",658	
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/658
-***** #EXTINF:-1 group-title="Bics Extra TEST",659	
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/659
-#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS 2	
+#EXTINF:-1 group-title="Bics DEPORTES EUROPA LEAGUE",656	
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/656
+#EXTINF:-1 group-title="Bics DEPORTES EUROPA LEAGUE",657	
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/657
+#EXTINF:-1 group-title="Bics DEPORTES EUROPA LEAGUE",658	
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/658
+#EXTINF:-1 group-title="Bics DEPORTES EUROPA LEAGUE",659	
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/659
+
+#EXTINF:-1 group-title="Bics DEPORTES WWE", FOX SPORTS 2	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/660
-#EXTINF:-1 group-title="Bics DEPORTES", MLB 01	
+
+#EXTINF:-1 group-title="Bics DEPORTES MLB", MLB 01	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/661
-#EXTINF:-1 group-title="Bics DEPORTES", MLB 02	
+#EXTINF:-1 group-title="Bics DEPORTES MLB", MLB 02	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/662
-#EXTINF:-1 group-title="Bics DEPORTES", MLB 03	
+#EXTINF:-1 group-title="Bics DEPORTES MLB", MLB 03	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/663
-#EXTINF:-1 group-title="Bics DEPORTES", MLB 04	
+#EXTINF:-1 group-title="Bics DEPORTES MLB", MLB 04	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/664
-#EXTINF:-1 group-title="Bics DEPORTES", MLB 05	
+#EXTINF:-1 group-title="Bics DEPORTES MLB", MLB 05	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/665
-#EXTINF:-1 group-title="Bics DEPORTES", MLB 06	
+#EXTINF:-1 group-title="Bics DEPORTES MLB", MLB 06	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/666
-#EXTINF:-1 group-title="Bics DEPORTES", MLB 07	
+#EXTINF:-1 group-title="Bics DEPORTES MLB", MLB 07	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/667
-#EXTINF:-1 group-title="Bics DEPORTES", MLB 08	
+#EXTINF:-1 group-title="Bics DEPORTES MLB", MLB 08	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/668
-#EXTINF:-1 group-title="Bics DEPORTES", MLB 09	
+#EXTINF:-1 group-title="Bics DEPORTES MLB", MLB 09	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/669
-#EXTINF:-1 group-title="Bics DEPORTES", MLB 10	
+#EXTINF:-1 group-title="Bics DEPORTES MLB", MLB 10	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/670
-#EXTINF:-1 group-title="Bics DEPORTES", MLB 11	
+#EXTINF:-1 group-title="Bics DEPORTES MLB", MLB 11	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/671
-#EXTINF:-1 group-title="Bics DEPORTES", MLB 12	
+#EXTINF:-1 group-title="Bics DEPORTES MLB", MLB 12	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/672
-#EXTINF:-1 group-title="Bics DEPORTES", MLB 13	
+#EXTINF:-1 group-title="Bics DEPORTES MLB", MLB 13	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/673
-#EXTINF:-1 group-title="Bics DEPORTES", MLB 14	
+#EXTINF:-1 group-title="Bics DEPORTES MLB", MLB 14	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/674
-#EXTINF:-1 group-title="Bics DEPORTES", MLB 15	
+#EXTINF:-1 group-title="Bics DEPORTES MLB", MLB 15	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/675
-#EXTINF:-1 group-title="Bics DEPORTES", MLB 16
+#EXTINF:-1 group-title="Bics DEPORTES MLB", MLB 16
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/676
-#EXTINF:-1 group-title="Bics DEPORTES", MLB 17
+#EXTINF:-1 group-title="Bics DEPORTES MLB", MLB 17
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/677
-#EXTINF:-1 group-title="Bics DEPORTES", LMB 01
+#EXTINF:-1 group-title="Bics DEPORTES MLB", LMB 01
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/678
-***** #EXTINF:-1 group-title="Bics Extra TEST",679	
+
+***** #EXTINF:-1 group-title="Bics DEPORTES NFL",679	
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/679
-#EXTINF:-1 group-title="Bics Extra TEST",680	
+#EXTINF:-1 group-title="Bics DEPORTES NFL",680	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/680
-#EXTINF:-1 group-title="Bics Extra TEST",681	
+
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA",681	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/681
-#EXTINF:-1 group-title="Bics Extra TEST",682	
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA",682	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/682
-#EXTINF:-1 group-title="Bics Extra TEST",683	
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA",683	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/683
-#EXTINF:-1 group-title="Bics Extra TEST",684	
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA",684	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/684
-***** #EXTINF:-1 group-title="Bics Extra TEST",685	
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/685
-***** #EXTINF:-1 group-title="Bics Extra TEST",686	
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/686
-***** #EXTINF:-1 group-title="Bics Extra TEST",687	
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/687
-***** #EXTINF:-1 group-title="Bics Extra TEST",688	
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/688
-***** #EXTINF:-1 group-title="Bics Extra TEST",689	
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/689
-***** #EXTINF:-1 group-title="Bics Extra TEST",690	
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/690
-***** #EXTINF:-1 group-title="Bics Extra TEST",691	
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA",685	
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/685
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA",686	
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/686
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA",687	
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/687
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA",688	
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/688
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA",689	
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/689
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA",690	
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/690
+
+***** #EXTINF:-1 group-title="Bics DEPORTES BUNDESLIGA",691	
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/691
-***** #EXTINF:-1 group-title="Bics Extra TEST",692	
+***** #EXTINF:-1 group-title="Bics DEPORTES BUNDESLIGA",692	
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/692
-***** #EXTINF:-1 group-title="Bics Extra TEST",693	
+***** #EXTINF:-1 group-title="Bics DEPORTES BUNDESLIGA",693	
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/693
-***** #EXTINF:-1 group-title="Bics Extra TEST",694	
+***** #EXTINF:-1 group-title="Bics DEPORTES BUNDESLIGA",694	
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/694
-***** #EXTINF:-1 group-title="Bics Extra TEST",695	
+***** #EXTINF:-1 group-title="Bics DEPORTES BUNDESLIGA",695	
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/695
-***** #EXTINF:-1 group-title="Bics Extra TEST",696	
+***** #EXTINF:-1 group-title="Bics DEPORTES BUNDESLIGA",696	
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/696
-***** #EXTINF:-1 group-title="Bics Extra TEST",697	
+***** #EXTINF:-1 group-title="Bics DEPORTES BUNDESLIGA",697	
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/697
-***** #EXTINF:-1 group-title="Bics Extra TEST",698	
+***** #EXTINF:-1 group-title="Bics DEPORTES BUNDESLIGA",698	
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/698
-***** #EXTINF:-1 group-title="Bics Extra TEST",699	
+***** #EXTINF:-1 group-title="Bics DEPORTES BUNDESLIGA",699	
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/699
 
-#EXTINF:-1 group-title="Bics Extra TEST",700	
+#EXTINF:-1 group-title="Bics DEPORTES LIGA MX FEMENIL",700	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/700
-#EXTINF:-1 group-title="Bics Extra TEST",701	
+#EXTINF:-1 group-title="Bics DEPORTES LIGA MX FEMENIL",701	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/701
-#EXTINF:-1 group-title="Bics Extra TEST",702	
+#EXTINF:-1 group-title="Bics DEPORTES LIGA MX FEMENIL",702	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/702
-#EXTINF:-1 group-title="Bics Extra TEST",703	
+#EXTINF:-1 group-title="Bics DEPORTES LIGA MX FEMENIL",703	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/703
-#EXTINF:-1 group-title="Bics Extra TEST",704	
+#EXTINF:-1 group-title="Bics DEPORTES LIGA MX FEMENIL",704	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/704
-#EXTINF:-1 group-title="Bics Extra TEST",705	
+#EXTINF:-1 group-title="Bics DEPORTES LIGA MX FEMENIL",705	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/705
-#EXTINF:-1 group-title="Bics Extra TEST",706	
+#EXTINF:-1 group-title="Bics DEPORTES LIGA MX FEMENIL",706	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/706
-#EXTINF:-1 group-title="Bics Extra TEST",707	
+
+#EXTINF:-1 group-title="Bics DEPORTES NCAA",707	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/707
-#EXTINF:-1 group-title="Bics Extra TEST",708	
+#EXTINF:-1 group-title="Bics DEPORTES NCAA",708	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/708
-#EXTINF:-1 group-title="Bics Extra TEST",709	
+#EXTINF:-1 group-title="Bics DEPORTES NCAA",709	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/709
-#EXTINF:-1 group-title="Bics Extra TEST",710	
+#EXTINF:-1 group-title="Bics DEPORTES NCAA",710	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/710
-#EXTINF:-1 group-title="Bics Extra TEST",711	
+#EXTINF:-1 group-title="Bics DEPORTES NCAA",711	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/711
-#EXTINF:-1 group-title="Bics Extra TEST",712	
+#EXTINF:-1 group-title="Bics DEPORTES NCAA",712	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/712
-#EXTINF:-1 group-title="Bics Extra TEST",713	
+#EXTINF:-1 group-title="Bics DEPORTES NCAA",713	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/713
-#EXTINF:-1 group-title="Bics Extra TEST",714	
+#EXTINF:-1 group-title="Bics DEPORTES NCAA",714	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/714
-#EXTINF:-1 group-title="Bics Extra TEST",715	
+#EXTINF:-1 group-title="Bics DEPORTES NCAA",715	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/715
-#EXTINF:-1 group-title="Bics Extra TEST",716	
+#EXTINF:-1 group-title="Bics DEPORTES NCAA",716	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/716
-#EXTINF:-1 group-title="Bics Extra TEST",717	
+#EXTINF:-1 group-title="Bics DEPORTES NCAA",717	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/717
-#EXTINF:-1 group-title="Bics Extra TEST",718	
+#EXTINF:-1 group-title="Bics DEPORTES NCAA",718	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/718
-#EXTINF:-1 group-title="Bics Extra TEST",719	
+#EXTINF:-1 group-title="Bics DEPORTES NCAA",719	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/719
-#EXTINF:-1 group-title="Bics Extra TEST",720	
+#EXTINF:-1 group-title="Bics DEPORTES NCAA",720	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/720
-#EXTINF:-1 group-title="Bics Extra TEST",721	
+#EXTINF:-1 group-title="Bics DEPORTES NCAA",721	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/721
+
 #EXTINF:-1 group-title="Bics Extra TEST",722	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/722
-#EXTINF:-1 group-title="Bics Extra TEST",723	
+#EXTINF:-1 group-title="Bics Extra TEST",AR: ESPN 2	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/723
 #EXTINF:-1 group-title="Bics Extra TEST",724	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/724
 #EXTINF:-1 group-title="Bics Extra TEST",725	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/725
-#EXTINF:-1 group-title="Bics Extra TEST",726	
+
+#EXTINF:-1 group-title="Bics DEPORTES SERIE A",726	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/726
-#EXTINF:-1 group-title="Bics Extra TEST",727	
+#EXTINF:-1 group-title="Bics DEPORTES SERIE A",727	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/727
-#EXTINF:-1 group-title="Bics Extra TEST",728	
+#EXTINF:-1 group-title="Bics DEPORTES SERIE A",728	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/728
-#EXTINF:-1 group-title="Bics Extra TEST",729	
+#EXTINF:-1 group-title="Bics DEPORTES SERIE A",729	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/729
-#EXTINF:-1 group-title="Bics Extra TEST",730	
+#EXTINF:-1 group-title="Bics DEPORTES SERIE A",730	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/730
-#EXTINF:-1 group-title="Bics Extra TEST",731	
+#EXTINF:-1 group-title="Bics DEPORTES SERIE A",731	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/731
-#EXTINF:-1 group-title="Bics Extra TEST",732	
+#EXTINF:-1 group-title="Bics DEPORTES SERIE A",732	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/732
-#EXTINF:-1 group-title="Bics Extra TEST",733	
+#EXTINF:-1 group-title="Bics DEPORTES SERIE A",733	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/733
-#EXTINF:-1 group-title="Bics Extra TEST",734	
+#EXTINF:-1 group-title="Bics DEPORTES SERIE A",734	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/734
-#EXTINF:-1 group-title="Bics Extra TEST",735	
+#EXTINF:-1 group-title="Bics DEPORTES SERIE A",735	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/735
-#EXTINF:-1 group-title="Bics Extra TEST",736	
+#EXTINF:-1 group-title="Bics DEPORTES SERIE A",736	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/736
-#EXTINF:-1 group-title="Bics Extra TEST",737	
+
+#EXTINF:-1 group-title="Bics DEPORTES EUROCOPA",737	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/737
-#EXTINF:-1 group-title="Bics Extra TEST",738	
+
+#EXTINF:-1 group-title="Bics DEPORTES LIGUE 1",738	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/738
+
 #EXTINF:-1 group-title="Bics Extra TEST",739	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/739
-#EXTINF:-1 group-title="Bics Extra TEST",740	
+
+#EXTINF:-1 group-title="Bics DEPORTES NFL",740	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/740
-#EXTINF:-1 group-title="Bics Extra TEST",741	
+#EXTINF:-1 group-title="Bics DEPORTES NFL",741	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/741
-#EXTINF:-1 group-title="Bics Extra TEST",742	
+#EXTINF:-1 group-title="Bics DEPORTES NFL",742	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/742
-#EXTINF:-1 group-title="Bics Extra TEST",743	
+#EXTINF:-1 group-title="Bics DEPORTES NFL",743	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/743
-#EXTINF:-1 group-title="Bics Extra TEST",744	
+#EXTINF:-1 group-title="Bics DEPORTES NFL",744	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/744
-#EXTINF:-1 group-title="Bics Extra TEST",745	
+#EXTINF:-1 group-title="Bics DEPORTES NFL",745	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/745
-#EXTINF:-1 group-title="Bics Extra TEST",746	
+#EXTINF:-1 group-title="Bics DEPORTES NFL",746	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/746
-#EXTINF:-1 group-title="Bics Extra TEST",747	
+#EXTINF:-1 group-title="Bics DEPORTES NFL",747	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/747
-#EXTINF:-1 group-title="Bics Extra TEST",748	
+#EXTINF:-1 group-title="Bics DEPORTES NFL",748	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/748
-#EXTINF:-1 group-title="Bics Extra TEST",749	
+#EXTINF:-1 group-title="Bics DEPORTES NFL",749	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/749
-#EXTINF:-1 group-title="Bics Extra TEST",750	
+#EXTINF:-1 group-title="Bics DEPORTES NFL",750	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/750
-#EXTINF:-1 group-title="Bics Extra TEST",751	
+#EXTINF:-1 group-title="Bics DEPORTES NFL",751	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/751
-#EXTINF:-1 group-title="Bics Extra TEST",752	
+#EXTINF:-1 group-title="Bics DEPORTES NFL",752	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/752
-#EXTINF:-1 group-title="Bics Extra TEST",753	
+#EXTINF:-1 group-title="Bics DEPORTES NFL",753	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/753
-#EXTINF:-1 group-title="Bics Extra TEST",754	
+#EXTINF:-1 group-title="Bics DEPORTES NFL",754	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/754
-#EXTINF:-1 group-title="Bics Extra TEST",755	
+#EXTINF:-1 group-title="Bics DEPORTES NFL",755	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/755
+
 #EXTINF:-1 group-title="Bics Extra TEST",756	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/756
-#EXTINF:-1 group-title="Bics Extra TEST",757	
+
+#EXTINF:-1 group-title="Bics DEPORTES CHAMPIONS",757	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/757
-#EXTINF:-1 group-title="Bics Extra TEST",758	
+#EXTINF:-1 group-title="Bics DEPORTES CHAMPIONS",758	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/758
-#EXTINF:-1 group-title="Bics Extra TEST",759	
+#EXTINF:-1 group-title="Bics DEPORTES CHAMPIONS",759	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/759
-#EXTINF:-1 group-title="Bics Extra TEST",760	
+#EXTINF:-1 group-title="Bics DEPORTES CHAMPIONS",760	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/760
-#EXTINF:-1 group-title="Bics Extra TEST",761	
+#EXTINF:-1 group-title="Bics DEPORTES CHAMPIONS",761	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/761
-#EXTINF:-1 group-title="Bics Extra TEST",762	
+#EXTINF:-1 group-title="Bics DEPORTES CHAMPIONS",762	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/762
-#EXTINF:-1 group-title="Bics Extra TEST",763	
+#EXTINF:-1 group-title="Bics DEPORTES CHAMPIONS",763	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/763
-#EXTINF:-1 group-title="Bics Extra TEST",764	
+#EXTINF:-1 group-title="Bics DEPORTES CHAMPIONS",764	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/764
-#EXTINF:-1 group-title="Bics Extra TEST",765	
+
+#EXTINF:-1 group-title="Bics DEPORTES PREMIER LEAGUE",765	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/765
-#EXTINF:-1 group-title="Bics Extra TEST",766	
+#EXTINF:-1 group-title="Bics DEPORTES PREMIER LEAGUE",766	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/766
+
 #EXTINF:-1 group-title="Bics Extra TEST",767	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/767
 #EXTINF:-1 group-title="Bics Extra TEST",768	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/768
+
 #EXTINF:-1 group-title="Bics Extra TEST",769	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/769
-#EXTINF:-1 group-title="Bics Extra TEST",770	
+
+#EXTINF:-1 group-title="Bics DEPORTES PREMIER LEAGUE",770	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/770
-#EXTINF:-1 group-title="Bics Extra TEST",771	
+#EXTINF:-1 group-title="Bics DEPORTES PREMIER LEAGUE",771	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/771
-#EXTINF:-1 group-title="Bics Extra TEST",772	
+#EXTINF:-1 group-title="Bics DEPORTES PREMIER LEAGUE",772	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/772
-#EXTINF:-1 group-title="Bics Extra TEST",773	
+#EXTINF:-1 group-title="Bics DEPORTES PREMIER LEAGUE",773	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/773
-#EXTINF:-1 group-title="Bics Extra TEST",774	
+#EXTINF:-1 group-title="Bics DEPORTES PREMIER LEAGUE",774	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/774
-#EXTINF:-1 group-title="Bics Extra TEST",775	
+#EXTINF:-1 group-title="Bics DEPORTES PREMIER LEAGUE",775	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/775
-#EXTINF:-1 group-title="Bics Extra TEST",776	
+#EXTINF:-1 group-title="Bics DEPORTES PREMIER LEAGUE",776	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/776
-#EXTINF:-1 group-title="Bics Extra TEST",777	
+#EXTINF:-1 group-title="Bics DEPORTES PREMIER LEAGUE",777	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/777
-#EXTINF:-1 group-title="Bics Extra TEST",778	
+#EXTINF:-1 group-title="Bics DEPORTES PREMIER LEAGUE",778	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/778
-#EXTINF:-1 group-title="Bics Extra TEST",779	
+#EXTINF:-1 group-title="Bics DEPORTES PREMIER LEAGUE",779	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/779
-#EXTINF:-1 group-title="Bics Extra TEST",780	
+
+#EXTINF:-1 group-title="Bics DEPORTES", LONGHORN NET	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/780
+
 #EXTINF:-1 group-title="Bics Extra TEST",781	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/781
 #EXTINF:-1 group-title="Bics Extra TEST",782	
@@ -2101,37 +2122,39 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/788
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/789
 #EXTINF:-1 group-title="Bics Extra TEST",790	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/790
-#EXTINF:-1 group-title="Bics Extra TEST",791	
+
+#EXTINF:-1 group-title="Bics DEPORTES NCAA",791	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/791
-#EXTINF:-1 group-title="Bics Extra TEST",792	
+#EXTINF:-1 group-title="Bics DEPORTES NCAA",792	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/792
-#EXTINF:-1 group-title="Bics Extra TEST",793	
+#EXTINF:-1 group-title="Bics DEPORTES NCAA",793	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/793
-#EXTINF:-1 group-title="Bics Extra TEST",794	
+#EXTINF:-1 group-title="Bics DEPORTES NCAA",794	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/794
-#EXTINF:-1 group-title="Bics Extra TEST",795	
+#EXTINF:-1 group-title="Bics DEPORTES NCAA",795	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/795
-#EXTINF:-1 group-title="Bics Extra TEST",796	
+#EXTINF:-1 group-title="Bics DEPORTES NCAA",796	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/796
-#EXTINF:-1 group-title="Bics Extra TEST",797	
+#EXTINF:-1 group-title="Bics DEPORTES NCAA",797	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/797
-#EXTINF:-1 group-title="Bics Extra TEST",798	
+#EXTINF:-1 group-title="Bics DEPORTES NCAA",798	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/798
-#EXTINF:-1 group-title="Bics Extra TEST",799	
+#EXTINF:-1 group-title="Bics DEPORTES NCAA",799	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/799
 
-***** #EXTINF:-1 group-title="Bics Extra TEST",800	
+***** #EXTINF:-1 group-title="Bics DEPORTES NCAA",800	
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/800
-***** #EXTINF:-1 group-title="Bics Extra TEST",801	
+***** #EXTINF:-1 group-title="Bics DEPORTES NCAA",801	
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/801
-***** #EXTINF:-1 group-title="Bics Extra TEST",802	
+***** #EXTINF:-1 group-title="Bics DEPORTES NCAA",802	
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/802
-***** #EXTINF:-1 group-title="Bics Extra TEST",803	
+***** #EXTINF:-1 group-title="Bics DEPORTES NCAA",803	
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/803
-***** #EXTINF:-1 group-title="Bics Extra TEST",804	
+***** #EXTINF:-1 group-title="Bics DEPORTES NCAA",804	
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/804
-***** #EXTINF:-1 group-title="Bics Extra TEST",805	
+***** #EXTINF:-1 group-title="Bics DEPORTES NCAA",805	
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/805
+
 #EXTINF:-1 group-title="Bics DEPORTES", TUDN	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/806
 ***** #EXTINF:-1 group-title="Bics Extra TEST",807	
@@ -2142,43 +2165,44 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/806
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/809
 ***** #EXTINF:-1 group-title="Bics Extra TEST",810	
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/810
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN	
+#EXTINF:-1 group-title="Bics DEPORTES NHL", ESPN	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/811
-***** #EXTINF:-1 group-title="Bics Extra TEST",812	
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/812
-***** #EXTINF:-1 group-title="Bics Extra TEST",813	
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/813
+#EXTINF:-1 group-title="Bics DEPORTES NHL",812	
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/812
+#EXTINF:-1 group-title="Bics DEPORTES NHL",813	
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/813
 #EXTINF:-1 group-title="Bics DEPORTES", ESPN	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/814
-***** #EXTINF:-1 group-title="Bics Extra TEST",815	
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/815
-***** #EXTINF:-1 group-title="Bics Extra TEST",816	
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/816
-***** #EXTINF:-1 group-title="Bics Extra TEST",817	
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/817
-***** #EXTINF:-1 group-title="Bics Extra TEST",818	
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/818
-***** #EXTINF:-1 group-title="Bics Extra TEST",819	
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/819
-***** #EXTINF:-1 group-title="Bics Extra TEST",820	
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/820
-***** #EXTINF:-1 group-title="Bics Extra TEST",821	
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/821
-#EXTINF:-1 group-title="Bics DEPORTES", BALLY SPORTS	
+#EXTINF:-1 group-title="Bics DEPORTES NHL",815	
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/815
+#EXTINF:-1 group-title="Bics DEPORTES NHL",816	
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/816
+#EXTINF:-1 group-title="Bics DEPORTES NHL",817	
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/817
+#EXTINF:-1 group-title="Bics DEPORTES NHL",818	
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/818
+#EXTINF:-1 group-title="Bics DEPORTES NHL",819	
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/819
+#EXTINF:-1 group-title="Bics DEPORTES NHL",820	
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/820
+#EXTINF:-1 group-title="Bics DEPORTES NHL",821	
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/821
+#EXTINF:-1 group-title="Bics DEPORTES NHL", BALLY SPORTS	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/822
-#EXTINF:-1 group-title="Bics DEPORTES", BALLY SPORTS	
+#EXTINF:-1 group-title="Bics DEPORTES NHL", BALLY SPORTS	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/823
-***** #EXTINF:-1 group-title="Bics Extra TEST",824	
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/824
-***** #EXTINF:-1 group-title="Bics Extra TEST",825	
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/825
+#EXTINF:-1 group-title="Bics DEPORTES NHL",824	
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/824
+#EXTINF:-1 group-title="Bics DEPORTES NHL",825	
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/825
+
 ***** #EXTINF:-1 group-title="Bics Extra TEST",826	
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/826
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN	
+#EXTINF:-1 group-title="Bics DEPORTES NBA", ESPN	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/827
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN	
+#EXTINF:-1 group-title="Bics DEPORTES NBA", ESPN	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/828
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN	
+#EXTINF:-1 group-title="Bics DEPORTES NBA", ESPN	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/829
 ***** #EXTINF:-1 group-title="Bics Extra TEST",830	
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/830
@@ -2190,11 +2214,11 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/831
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/833
 ***** #EXTINF:-1 group-title="Bics Extra TEST",834	
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/834
-***** #EXTINF:-1 group-title="Bics Extra TEST",835	
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/835
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN PREMIUM
+#EXTINF:-1 group-title="Bics Extra TEST", AR: ESPN	
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/835
+#EXTINF:-1 group-title="Bics DEPORTES", AR: ESPN 2
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/836
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN 3	
+#EXTINF:-1 group-title="Bics DEPORTES", AR: ESPN 3	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/837
 ***** #EXTINF:-1 group-title="Bics Extra TEST",838	
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/838
@@ -2204,34 +2228,38 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/837
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/840
 ***** #EXTINF:-1 group-title="Bics Extra TEST",841	
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/841
-#EXTINF:-1 group-title="Bics FANTASTIC", ABC	
+#EXTINF:-1 group-title="Bics DEPORTES NBA", ABC	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/842
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN	
+#EXTINF:-1 group-title="Bics DEPORTES NBA", ESPN	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/843
-#EXTINF:-1 group-title="Bics DEPORTES", NBA LEAGUE PASS	
+#EXTINF:-1 group-title="Bics DEPORTES NBA", NBA LEAGUE PASS	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/844
-#EXTINF:-1 group-title="Bics DEPORTES", NBA LEAGUE PASS	
+#EXTINF:-1 group-title="Bics DEPORTES NBA", NBA LEAGUE PASS	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/845
-#EXTINF:-1 group-title="Bics DEPORTES", NBA LEAGUE PASS		
+#EXTINF:-1 group-title="Bics DEPORTES NBA", NBA LEAGUE PASS		
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/846
-#EXTINF:-1 group-title="Bics DEPORTES", NBA LEAGUE PASS	
+#EXTINF:-1 group-title="Bics DEPORTES NBA", NBA LEAGUE PASS	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/847
-***** #EXTINF:-1 group-title="Bics Extra TEST",848	
+***** #EXTINF:-1 group-title="Bics DEPORTES NBA",848	
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/848
+
 #EXTINF:-1 group-title="Bics DEPORTES", TNT SPORTS	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/849
-***** #EXTINF:-1 group-title="Bics Extra TEST",850	
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/850
-***** #EXTINF:-1 group-title="Bics Extra TEST",851	
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/851
+
+#EXTINF:-1 group-title="Bics DEPORTES MLS",850	
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/850
+#EXTINF:-1 group-title="Bics DEPORTES MLS",851	
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/851
+
 ***** #EXTINF:-1 group-title="Bics Extra TEST",852	
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/852
-#EXTINF:-1 group-title="Bics DEPORTES", NBA LEAGUE PASS	
+#EXTINF:-1 group-title="Bics DEPORTES NBA", NBA LEAGUE PASS	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/853
-#EXTINF:-1 group-title="Bics DEPORTES", NBA LEAGUE PASS	
+#EXTINF:-1 group-title="Bics DEPORTES NBA", NBA LEAGUE PASS	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/854
-#EXTINF:-1 group-title="Bics DEPORTES", NBA LEAGUE PASS	
+#EXTINF:-1 group-title="Bics DEPORTES NBA", NBA LEAGUE PASS	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/855
+
 ***** #EXTINF:-1 group-title="Bics Extra TEST",856	
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/856
 ***** #EXTINF:-1 group-title="Bics Extra TEST",857	
@@ -2272,19 +2300,19 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/855
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/874
 ***** #EXTINF:-1 group-title="Bics Extra TEST",875	
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/875
-#EXTINF:-1 group-title="Bics Extra TEST",876	
+#EXTINF:-1 group-title="Bics FANTASTIC", EPIX EAST	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/876
 ***** #EXTINF:-1 group-title="Bics Extra TEST",877	
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/877
-#EXTINF:-1 group-title="Bics Extra TEST",878	
+#EXTINF:-1 group-title="Bics FANTASTIC", US: FX	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/878
 #EXTINF:-1 group-title="Bics FANTASTIC", USA NETWORK	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/879
-#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS	
+#EXTINF:-1 group-title="Bics DEPORTES", AR: FOX SPORTS	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/880
-***** #EXTINF:-1 group-title="Bics Extra TEST",881	
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/881
-#EXTINF:-1 group-title="Bics DEPORTES",FOX SPORTS	
+#EXTINF:-1 group-title="Bics DEPORTES", AR: FOX SPORTS 2	
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/881
+#EXTINF:-1 group-title="Bics DEPORTES",AR: FOX SPORTS 3
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/882
 #EXTINF:-1 group-title="Bics FANTASTIC", FOOD NETWORK	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/883
@@ -2753,6 +2781,7 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1182
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1183
 #EXTINF:-1 group-title="Bics DEPORTES", NBA LEAGUE PASS
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1184
+
 
 ****************************************************************************************************************************
 
