@@ -367,7 +367,6 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UCpWPnP8s0YbVpzhzg6Pk2iA.m3u8
 
-
 #EXTINF:-1 group-title="Bics DEPORTES", LMB: SARAPEROS
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", LMB: DIABLOS ROJOS (SOLO EN PARTIDO)
@@ -385,7 +384,13 @@ https://ythls-v2.onrender.com/channel/UCcjoyEQK5cAuYlw78v4GCuA.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", LMB: OLMECAS (SOLO EN PARTIDO)
 #EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UCskCU9jRXOXrouFcJZSJc1w.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", LMB: TIGRES DE QRR (SOLO EN PARTIDO)
+#EXTVLCOPT--http-reconnect=true
+https://ythls-v2.onrender.com/channel/UCmI3b9y_83CF39GBvBEnkUw.m3u8
 
+#EXTINF:-1 group-title="Bics DEPORTES", MX: SIPSE DEPORTES (SOLO EN PARTIDO)
+#EXTVLCOPT--http-reconnect=true
+https://ythls-v2.onrender.com/channel/UCrfVrlT7wtN3gqZJYq8WnYg.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: TU CANAL EDUCATIVO (SOLO EN PARTIDO)
 #EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UC4mSfK49CGFZPrRK50xPS6w.m3u8
