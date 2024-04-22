@@ -253,6 +253,73 @@ https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://live-hls-web-aja-fa.getaj.net/AJA/05.m3u8
 
+***************************************************************   **************************************************************************************
+
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/97
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/157
+
+#EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 01
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/480
+#EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 03
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/481
+#EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 04
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/482
+#EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 05
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/483
+#EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 06
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1130
+
+#EXTINF:-1 group-title="Bics DEPORTES LMB", MX: INTERNETV DEPORTES
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", MX: CLARO SPORTS
+https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", MX: AYM SPORTS
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS 2	
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/32
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: SARAPEROS
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: DIABLOS ROJOS (SOLO EN PARTIDO)
+#EXTVLCOPT--http-reconnect=true
+https://ythls-v2.onrender.com/channel/UCbPTmPbmSO-BYGCMHm77RUg.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: ACEREROS (SOLO EN PARTIDO)
+#EXTVLCOPT--http-reconnect=true
+https://ythls-v2.onrender.com/channel/UCsRvUjq4j4LvHxNdHLUbydw.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: DORADOS (SOLO EN PARTIDO)
+#EXTVLCOPT--http-reconnect=true
+https://ythls-v2.onrender.com/channel/UCQOSwVDBx6UDeM0v66zQjAg.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: TOROS (SOLO EN PARTIDO)
+#EXTVLCOPT--http-reconnect=true
+https://ythls-v2.onrender.com/channel/UCcjoyEQK5cAuYlw78v4GCuA.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: OLMECAS (SOLO EN PARTIDO)
+#EXTVLCOPT--http-reconnect=true
+https://ythls-v2.onrender.com/channel/UCskCU9jRXOXrouFcJZSJc1w.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: TIGRES DE QRR (SOLO EN PARTIDO)
+#EXTVLCOPT--http-reconnect=true
+https://ythls-v2.onrender.com/channel/UCmI3b9y_83CF39GBvBEnkUw.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: CALIENTE DGO (SOLO EN PARTIDO)
+#EXTVLCOPT--http-reconnect=true
+https://ythls-v2.onrender.com/channel/UC4OsFuy6GS9l0beb6MLbblA.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", MX: SIPSE DEPORTES (SOLO EN PARTIDO)
+#EXTVLCOPT--http-reconnect=true
+https://ythls-v2.onrender.com/channel/UCrfVrlT7wtN3gqZJYq8WnYg.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", MX: TU CANAL EDUCATIVO (SOLO EN PARTIDO)
+#EXTVLCOPT--http-reconnect=true
+https://ythls-v2.onrender.com/channel/UC4mSfK49CGFZPrRK50xPS6w.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", MX: MADO REPORT DEPORTES (SOLO EN PARTIDO)
+#EXTVLCOPT--http-reconnect=true
+https://ythls-v2.onrender.com/channel/UCB8Tv4_FgS5-JYezqShFDKQ.m3u8
+
+#EXTINF:-1 group-title="Bics DEPORTES MLS", FOX DEPORTES	
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1078
+
+***************************************************************   **************************************************************************************
+
+
 ********************************************* CANALES REGIONALES Y YOUTUBE  ********************************************************************************
 
 #EXTINF:-1 group-title="Bics REGIONALES", AGS: TELEVISA AGUASCALIENTES
@@ -357,29 +424,8 @@ https://59e88b197fb16.streamlock.net:4443/live/canal6/playlist.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", ZAC: TELEVISA ZACATECAS
 https://ythls-v2.onrender.com/channel/UCQb3i7gu9J8A4zzQU7j6C1Q.m3u8
 
+
 ********************************************* CANALES DEPORTES Y YOUTUBE  ********************************************************************************
-
-***************************************************************   **************************************************************************************
-
-#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 01
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/97
-#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 02
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/157
-
-#EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 01
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 02
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/480
-#EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 03
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/481
-#EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 04
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/482
-#EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 05
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/483
-#EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 06
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1130
-
-***************************************************************   **************************************************************************************
 
 #EXTINF:-1 group-title="Bics DEPORTES", MX: INTERNETV DEPORTES
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
@@ -387,46 +433,6 @@ https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: AYM SPORTS
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
-
-#EXTINF:-1 group-title="Bics DEPORTES LMB", MX: INTERNETV DEPORTES
-https://thm-it-roku.otteravision.com/thm/it/it.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LMB", MX: CLARO SPORTS
-https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LMB", MX: AYM SPORTS
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: SARAPEROS
-https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: DIABLOS ROJOS (SOLO EN PARTIDO)
-#EXTVLCOPT--http-reconnect=true
-https://ythls-v2.onrender.com/channel/UCbPTmPbmSO-BYGCMHm77RUg.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: ACEREROS (SOLO EN PARTIDO)
-#EXTVLCOPT--http-reconnect=true
-https://ythls-v2.onrender.com/channel/UCsRvUjq4j4LvHxNdHLUbydw.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: DORADOS (SOLO EN PARTIDO)
-#EXTVLCOPT--http-reconnect=true
-https://ythls-v2.onrender.com/channel/UCQOSwVDBx6UDeM0v66zQjAg.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: TOROS (SOLO EN PARTIDO)
-#EXTVLCOPT--http-reconnect=true
-https://ythls-v2.onrender.com/channel/UCcjoyEQK5cAuYlw78v4GCuA.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: OLMECAS (SOLO EN PARTIDO)
-#EXTVLCOPT--http-reconnect=true
-https://ythls-v2.onrender.com/channel/UCskCU9jRXOXrouFcJZSJc1w.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: TIGRES DE QRR (SOLO EN PARTIDO)
-#EXTVLCOPT--http-reconnect=true
-https://ythls-v2.onrender.com/channel/UCmI3b9y_83CF39GBvBEnkUw.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: CALIENTE DGO (SOLO EN PARTIDO)
-#EXTVLCOPT--http-reconnect=true
-https://ythls-v2.onrender.com/channel/UC4OsFuy6GS9l0beb6MLbblA.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LMB", MX: SIPSE DEPORTES (SOLO EN PARTIDO)
-#EXTVLCOPT--http-reconnect=true
-https://ythls-v2.onrender.com/channel/UCrfVrlT7wtN3gqZJYq8WnYg.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LMB", MX: TU CANAL EDUCATIVO (SOLO EN PARTIDO)
-#EXTVLCOPT--http-reconnect=true
-https://ythls-v2.onrender.com/channel/UC4mSfK49CGFZPrRK50xPS6w.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LMB", MX: MADO REPORT DEPORTES (SOLO EN PARTIDO)
-#EXTVLCOPT--http-reconnect=true
-https://ythls-v2.onrender.com/channel/UCB8Tv4_FgS5-JYezqShFDKQ.m3u8
-
 
 #EXTINF:-1 group-title="Bics DEPORTES", MX: BEiN SPORT
 #EXTVLCOPT--http-reconnect=true
@@ -2277,10 +2283,10 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/847
 #EXTINF:-1 group-title="Bics DEPORTES", TNT SPORTS	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/849
 
-#EXTINF:-1 group-title="Bics DEPORTES MLS",850	
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/850
-#EXTINF:-1 group-title="Bics DEPORTES MLS",851	
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/851
+***** #EXTINF:-1 group-title="Bics DEPORTES MLS",850	
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/850
+***** #EXTINF:-1 group-title="Bics DEPORTES MLS",851	
+***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/851
 
 ***** #EXTINF:-1 group-title="Bics Extra TEST",852	
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/852
