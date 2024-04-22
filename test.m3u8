@@ -10,9 +10,6 @@
 #EXTINF:-1 group-title="Bics", 220420241200
 https://raw.githubusercontent.com/jsosao/m3u/main/patron.m3u8
 
-#EXTINF:-1 group-title="Bics", MX: AZTECA UNO abc
-http://clubtv.link/Feb1702/key4513/geomex.php?c=27969&token=tecnotvCLUBTV&f=.m3u8
-
 #EXTINF:-1 group-title="Bics", MX: AZTECA UNO
 #EXTVLCOPT--http-reconnect=true
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
