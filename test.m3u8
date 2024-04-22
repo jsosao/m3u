@@ -1,13 +1,13 @@
 #EXTM3U
 
-************************  21/ABR/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  22/ABR/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ************************ HI, THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", UPDATED 21 DE ABR 12:00 HRS
+#EXTINF:-1 group-title="Bics", UPDATED 22 DE ABR 12:00 HRS
 https://zzzz.zzz
 
 #EXTINF:-1 group-title="Bics", MX: AZTECA UNO
@@ -190,7 +190,7 @@ https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cf
 #EXTINF:-1 group-title="Bics Extra Latino", PR: TELEMUNDO 1
 #EXTVLCOPT--http-reconnect=true
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 group-title="Bics Extra Latino", PR: TELEMUNDO 2
+#EXTINF:-1 group-title="Bics Extra Latino", PR: PUNTO 2
 #EXTVLCOPT--http-reconnect=true
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", US: CANAL 57
@@ -215,15 +215,27 @@ https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=3
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=7200
 #EXTINF:-1 group-title="Bics Extra Latino", PA: TV  Max
 #EXTVLCOPT--http-reconnect=true
-http://138.59.177.34:8000/play/a064/index.m3u8
+http://rasaiptv.com:8080/Mikela0412/HrbrZnqqeerB/135618
+#EXTINF:-1 group-title="Bics Extra Latino", PA: TV  Max
+#EXTVLCOPT--http-reconnect=true
+http://rasaiptv.com:8080/Mikela0412/HrbrZnqqeerB/135619
 #EXTINF:-1 group-title="Bics Extra Latino", AR: TN
 #EXTVLCOPT--http-reconnect=true
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 10
+#EXTVLCOPT--http-reconnect=true
+http://rasaiptv.com:8080/Mikela0412/HrbrZnqqeerB/76650
+#EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 12
+#EXTVLCOPT--http-reconnect=true
+http://rasaiptv.com:8080/Mikela0412/HrbrZnqqeerB/50481
 
-************* pepe *******************
 #EXTINF:-1 group-title="Bics Extra Latino", EC: ECUAVISA
 #EXTVLCOPT--http-reconnect=true
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
+http://rasaiptv.com:8080/Mikela0412/HrbrZnqqeerB/309
+
+
+************* pepe *******************
+
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 4
 #EXTVLCOPT--http-reconnect=true
 https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
@@ -244,6 +256,8 @@ https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", COL: RCN
 #EXTVLCOPT--http-reconnect=true
 http://c24u.xyz:8080/GUILLERMO/GUILLERMO/332487
+
+
 
 
 #EXTINF:-1 group-title="Bics Extra US", AL JAZEERA EN
