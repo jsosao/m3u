@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MDSTRM-CDN-VERSION:2
+#EXT-X-STREAM-INF:BANDWIDTH=545600,RESOLUTION=426x240,CODECS="avc1.42001f,mp4a.40.2"
+https://raw.githubusercontent.com/jsosao/m3u/main/test.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=875600,RESOLUTION=640x360,CODECS="avc1.42001f,mp4a.40.2"
+https://raw.githubusercontent.com/jsosao/m3u/main/test.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1095600,RESOLUTION=854x480,CODECS="avc1.42001f,mp4a.40.2"
+https://raw.githubusercontent.com/jsosao/m3u/main/test.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1755600,RESOLUTION=1280x720,CODECS="avc1.42001f,mp4a.40.2"
+https://raw.githubusercontent.com/jsosao/m3u/main/test.m3u8
