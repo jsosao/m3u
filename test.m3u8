@@ -233,7 +233,6 @@ http://rasaiptv.com:8080/Mikela0412/HrbrZnqqeerB/50481
 #EXTVLCOPT--http-reconnect=true
 http://rasaiptv.com:8080/Mikela0412/HrbrZnqqeerB/309
 
-
 ************* pepe *******************
 
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 4
@@ -333,6 +332,11 @@ https://ythls-v2.onrender.com/channel/UCB8Tv4_FgS5-JYezqShFDKQ.m3u8
 
 #EXTINF:-1 group-title="Bics DEPORTES MLS", FOX DEPORTES	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1078
+
+************* emilio ************
+#EXTINF:-1 group-title="Bics DEPORTES MLS", FOX DEPORTES
+http://rasaiptv.com:8080/Mikela0412/HrbrZnqqeerB/227642
+
 
 ***************************************************************   **************************************************************************************
 
