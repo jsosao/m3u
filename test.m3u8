@@ -204,6 +204,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 ***************  emilio ***************
+
 #EXTINF:-1 group-title="Bics Extra Latino", US: TELEMUNDO
 #EXTVLCOPT--http-reconnect=true
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
@@ -246,6 +247,7 @@ https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
 ************ bodega *******************
+
 #EXTINF:-1 group-title="Bics Extra Latino", PE: PANAMERICANA
 #EXTVLCOPT--http-reconnect=true
 https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
@@ -256,8 +258,7 @@ https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://c24u.xyz:8080/GUILLERMO/GUILLERMO/332487
 
-
-
+***************************************************************   **************************************************************************************
 
 #EXTINF:-1 group-title="Bics Extra US", AL JAZEERA EN
 #EXTVLCOPT--http-reconnect=true
@@ -269,9 +270,18 @@ https://live-hls-web-aja-fa.getaj.net/AJA/05.m3u8
 ***************************************************************   **************************************************************************************
 
 #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 01
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/97
+https://linear-489.frequency.stream/mt/studio/489/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 02
+https://linear-489.frequency.stream/mt/studio/489/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 03
+https://linear-506.frequency.stream/mt/studio/506/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 04
+https://linear-507.frequency.stream/mt/studio/507/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 05
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/97
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 06
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/157
+
 
 #EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 01
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
@@ -294,9 +304,6 @@ https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: FOX SPORTS 2	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/32
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: FOX SPORTS DIGITAL
-https://ythls-v2.onrender.com/channel/UCUf4RLsG_TsjinvtL2jT-VA.m3u8
-
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: SARAPEROS
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: DIABLOS ROJOS (SOLO EN PARTIDO)
@@ -329,6 +336,7 @@ https://ythls-v2.onrender.com/channel/UC4mSfK49CGFZPrRK50xPS6w.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", MX: MADO REPORT DEPORTES (SOLO EN PARTIDO)
 #EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UCB8Tv4_FgS5-JYezqShFDKQ.m3u8
+
 
 #EXTINF:-1 group-title="Bics DEPORTES MLS", FOX DEPORTES	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1078
@@ -476,6 +484,7 @@ https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: MLB
 #EXTVLCOPT--http-reconnect=true
 https://linear-508.frequency.stream/mt/studio/508/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 1
 #EXTVLCOPT--http-reconnect=true
 https://linear-438.frequency.stream/mt/studio/438/hls/master/playlist.m3u8
