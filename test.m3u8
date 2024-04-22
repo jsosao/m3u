@@ -273,13 +273,13 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/483
 #EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 06
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1130
 
-#EXTINF:-1 group-title="Bics DEPORTES LMB", MX: INTERNETV DEPORTES
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: INTERNETV DEPORTES
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LMB", MX: CLARO SPORTS
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: CLARO SPORTS
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LMB", MX: AYM SPORTS
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: AYM SPORTS
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LMB", FOX SPORTS 2	
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: FOX SPORTS 2	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/32
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: SARAPEROS
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
