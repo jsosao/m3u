@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1
-patron.mp4
+https://raw.githubusercontent.com/jsosao/m3u/main/patron.mp4
 #EXT-X-ENDLIST
