@@ -1,13 +1,13 @@
 #EXTM3U
 
-************************  22/ABR/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  23/ABR/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ************************ HI, THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", 220420241100
+#EXTINF:-1 group-title="Bics", 230420241100
 https://raw.githubusercontent.com/jsosao/m3u/main/patron.m3u8
 
 #EXTINF:-1 group-title="Bics", MX: AZTECA UNO
@@ -338,9 +338,17 @@ https://ythls-v2.onrender.com/channel/UC4mSfK49CGFZPrRK50xPS6w.m3u8
 https://ythls-v2.onrender.com/channel/UCB8Tv4_FgS5-JYezqShFDKQ.m3u8
 
 
-#EXTINF:-1 group-title="Bics DEPORTES MLS", FOX DEPORTES	
+#EXTINF:-1 group-title="Bics DEPORTES MLS", MLS 01	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1078
 
+#EXTINF:-1 group-title="Bics DEPORTES CONCACAF", CONCACAF 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/31
+#EXTINF:-1 group-title="Bics DEPORTES CONCACAF", CONCACAF 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/32
+#EXTINF:-1 group-title="Bics DEPORTES CONCACAF", CONCACAF 03
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/900
+#EXTINF:-1 group-title="Bics DEPORTES CONCACAF", CONCACAF 04
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/901
 
 ***************************************************************   **************************************************************************************
 
