@@ -1,14 +1,14 @@
 #EXTM3U
 
-************************  21/ABR/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  23/ABR/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ************************ HI, THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", UPDATED 21 DE ABR 12:00 HRS
-https://zzzz.zzz
+#EXTINF:-1 group-title="Bics", 230420241100
+https://raw.githubusercontent.com/jsosao/m3u/main/patron.m3u8
 
 #EXTINF:-1 group-title="Bics", MX: AZTECA UNO
 #EXTVLCOPT--http-reconnect=true
@@ -187,10 +187,10 @@ https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", PR: UNIVISION
 #EXTVLCOPT--http-reconnect=true
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
-#EXTINF:-1 group-title="Bics Extra Latino", PR: TELEMUNDO 1
+#EXTINF:-1 group-title="Bics Extra Latino", PR: TELEMUNDO
 #EXTVLCOPT--http-reconnect=true
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 group-title="Bics Extra Latino", PR: TELEMUNDO 2
+#EXTINF:-1 group-title="Bics Extra Latino", PR: PUNTO 2
 #EXTVLCOPT--http-reconnect=true
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", US: CANAL 57
@@ -204,6 +204,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 ***************  emilio ***************
+
 #EXTINF:-1 group-title="Bics Extra Latino", US: TELEMUNDO
 #EXTVLCOPT--http-reconnect=true
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
@@ -215,15 +216,26 @@ https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=3
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=7200
 #EXTINF:-1 group-title="Bics Extra Latino", PA: TV  Max
 #EXTVLCOPT--http-reconnect=true
-http://138.59.177.34:8000/play/a064/index.m3u8
+http://rasaiptv.com:8080/Mikela0412/HrbrZnqqeerB/135618
+#EXTINF:-1 group-title="Bics Extra Latino", PA: TV  Max
+#EXTVLCOPT--http-reconnect=true
+http://rasaiptv.com:8080/Mikela0412/HrbrZnqqeerB/135619
 #EXTINF:-1 group-title="Bics Extra Latino", AR: TN
 #EXTVLCOPT--http-reconnect=true
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 10
+#EXTVLCOPT--http-reconnect=true
+http://rasaiptv.com:8080/Mikela0412/HrbrZnqqeerB/76650
+#EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 12
+#EXTVLCOPT--http-reconnect=true
+http://rasaiptv.com:8080/Mikela0412/HrbrZnqqeerB/50481
 
-************* pepe *******************
 #EXTINF:-1 group-title="Bics Extra Latino", EC: ECUAVISA
 #EXTVLCOPT--http-reconnect=true
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
+http://rasaiptv.com:8080/Mikela0412/HrbrZnqqeerB/309
+
+************* pepe *******************
+
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 4
 #EXTVLCOPT--http-reconnect=true
 https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
@@ -235,6 +247,7 @@ https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
 ************ bodega *******************
+
 #EXTINF:-1 group-title="Bics Extra Latino", PE: PANAMERICANA
 #EXTVLCOPT--http-reconnect=true
 https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
@@ -245,6 +258,7 @@ https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://c24u.xyz:8080/GUILLERMO/GUILLERMO/332487
 
+***************************************************************   **************************************************************************************
 
 #EXTINF:-1 group-title="Bics Extra US", AL JAZEERA EN
 #EXTVLCOPT--http-reconnect=true
@@ -256,9 +270,18 @@ https://live-hls-web-aja-fa.getaj.net/AJA/05.m3u8
 ***************************************************************   **************************************************************************************
 
 #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 01
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/97
+https://linear-489.frequency.stream/mt/studio/489/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 02
+https://linear-490.frequency.stream/mt/studio/490/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 03
+https://linear-506.frequency.stream/mt/studio/506/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 04
+https://linear-507.frequency.stream/mt/studio/507/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 05
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/435
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 06
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/157
+
 
 #EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 01
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
@@ -314,8 +337,18 @@ https://ythls-v2.onrender.com/channel/UC4mSfK49CGFZPrRK50xPS6w.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UCB8Tv4_FgS5-JYezqShFDKQ.m3u8
 
-#EXTINF:-1 group-title="Bics DEPORTES MLS", FOX DEPORTES	
+
+#EXTINF:-1 group-title="Bics DEPORTES MLS", MLS 01	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1078
+
+#EXTINF:-1 group-title="Bics DEPORTES CONCACAF", CONCACAF 01
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/31
+#EXTINF:-1 group-title="Bics DEPORTES CONCACAF", CONCACAF 02
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/32
+#EXTINF:-1 group-title="Bics DEPORTES CONCACAF", CONCACAF 03
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/900
+#EXTINF:-1 group-title="Bics DEPORTES CONCACAF", CONCACAF 04
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/901
 
 ***************************************************************   **************************************************************************************
 
@@ -455,6 +488,7 @@ https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: MLB
 #EXTVLCOPT--http-reconnect=true
 https://linear-508.frequency.stream/mt/studio/508/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 1
 #EXTVLCOPT--http-reconnect=true
 https://linear-438.frequency.stream/mt/studio/438/hls/master/playlist.m3u8
