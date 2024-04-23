@@ -10,9 +10,6 @@
 #EXTINF:-1 group-title="Bics", 230420241100
 https://raw.githubusercontent.com/jsosao/m3u/main/patron.m3u8
 
-#EXTINF:-1 group-title="Bics", test
-https://www.clarovideo.com/mexico/watch/1042215
-
 #EXTINF:-1 group-title="Bics", MX: AZTECA UNO
 #EXTVLCOPT--http-reconnect=true
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
