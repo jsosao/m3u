@@ -187,7 +187,7 @@ https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", PR: UNIVISION
 #EXTVLCOPT--http-reconnect=true
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
-#EXTINF:-1 group-title="Bics Extra Latino", PR: TELEMUNDO 1
+#EXTINF:-1 group-title="Bics Extra Latino", PR: TELEMUNDO
 #EXTVLCOPT--http-reconnect=true
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", PR: PUNTO 2
@@ -272,7 +272,7 @@ https://live-hls-web-aja-fa.getaj.net/AJA/05.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 01
 https://linear-489.frequency.stream/mt/studio/489/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 02
-https://linear-489.frequency.stream/mt/studio/489/hls/master/playlist.m3u8
+https://linear-490.frequency.stream/mt/studio/490/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 03
 https://linear-506.frequency.stream/mt/studio/506/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 04
@@ -340,10 +340,6 @@ https://ythls-v2.onrender.com/channel/UCB8Tv4_FgS5-JYezqShFDKQ.m3u8
 
 #EXTINF:-1 group-title="Bics DEPORTES MLS", FOX DEPORTES	
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1078
-
-************* emilio ************
-#EXTINF:-1 group-title="Bics DEPORTES MLS", FOX DEPORTES
-http://rasaiptv.com:8080/Mikela0412/HrbrZnqqeerB/227642
 
 
 ***************************************************************   **************************************************************************************
