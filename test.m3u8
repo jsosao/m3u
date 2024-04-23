@@ -387,6 +387,9 @@ https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", DGO: TELEVISA DURANGO
 https://ythls-v2.onrender.com/channel/UCON7DvLd5N8tXivc9WqILxQ.m3u8
+#EXTINF:-1 group-title="Bics REGIONALES", DGO: canal 10
+https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Bics REGIONALES", EDOMEX: MEXIQUENSE
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
