@@ -627,6 +627,9 @@ http://131.161.53.2:8000/play/a06j/index.m3u8
 http://131.161.53.2:8000/play/a06v/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", ESPN 3 MX HD
 http://131.161.53.2:8000/play/a070/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN 6
+http://131.161.53.2:8000/play/a02h/index.m3u8
+
 
 ****************************************************************************************************************************
 
