@@ -311,6 +311,9 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/32
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: CANAL ONCE
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:-1 group-title="Bics REGIONALES", YUC: NRT MEXICO
+https://59e88b197fb16.streamlock.net:4443/live/canal6/playlist.m3u8
+
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: SARAPEROS
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: BRAVOS
@@ -472,8 +475,10 @@ https://ythls-v2.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", YUC: TELEVISA YUCATAN
 https://ythls-v2.onrender.com/channel/UCMIYaH2cLoPS8Hcb-9AA2ZA.m3u8
-#EXTINF:-1 group-title="Bics REGIONALES", YUC: NRT SURESTE
+#EXTINF:-1 group-title="Bics REGIONALES", YUC: NRT MEXICO
 https://59e88b197fb16.streamlock.net:4443/live/canal6/playlist.m3u8
+#EXTINF:-1 group-title="Bics REGIONALES", YUC: NRT SURESTE
+https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", ZAC: TELEVISA ZACATECAS
 https://ythls-v2.onrender.com/channel/UCQb3i7gu9J8A4zzQU7j6C1Q.m3u8
