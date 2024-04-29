@@ -314,6 +314,9 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", YUC: NRT MEXICO
 https://59e88b197fb16.streamlock.net:4443/live/canal6/playlist.m3u8
 
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: PIRATAS
+#EXTVLCOPT--http-reconnect=true
+https://ythls-v2.onrender.com/channel/UCNdXA4Pwn62ODvfZ7S93Y6w.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: SARAPEROS
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: BRAVOS
@@ -345,10 +348,6 @@ https://ythls-v2.onrender.com/channel/UC4OsFuy6GS9l0beb6MLbblA.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: DOS LAREDOS (SOLO EN PARTIDO)
 #EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UCc_Ql73KzxzsJJD8jhU52dg.m3u8
-
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: TRC (SOLO EN PARTIDO)
-#EXTVLCOPT--http-reconnect=true
-https://ythls-v2.onrender.com/channel/UCNdXA4Pwn62ODvfZ7S93Y6w.m3u8
 
 #EXTINF:-1 group-title="Bics DEPORTES LMB", MX: SIPSE DEPORTES (SOLO EN PARTIDO)
 #EXTVLCOPT--http-reconnect=true
