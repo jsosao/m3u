@@ -41,6 +41,9 @@ http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/634
 #EXTINF:-1 group-title="Bics", MX: IMAGEN TV
 #EXTVLCOPT--http-reconnect=true
 http://181.78.105.146:2000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Bics", MX: IMAGEN TV
+#EXTVLCOPT--http-reconnect=true
+http://rasaiptv.com:8080/Mikela0412/HrbrZnqqeerB/226240
 #EXTINF:-1 group-title="Bics", MX: CANAL 5
 #EXTVLCOPT--http-reconnect=true
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
@@ -254,9 +257,9 @@ https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", PE: PANAMERICANA
 #EXTVLCOPT--http-reconnect=true
 https://cdnhd.iblups.com/hls/ptv5.m3u8
-#EXTINF:-1 group-title="Bics Extra Latino", COL: RCN
-#EXTVLCOPT--http-reconnect=true
-http://c24u.xyz:8080/GUILLERMO/GUILLERMO/332487
+***** #EXTINF:-1 group-title="Bics Extra Latino", COL: RCN
+***** #EXTVLCOPT--http-reconnect=true
+***** http://c24u.xyz:8080/GUILLERMO/GUILLERMO/332487
 
 ***************************************************************   **************************************************************************************
 
@@ -284,8 +287,6 @@ https://linear-507.frequency.stream/mt/studio/507/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 05
 http://181.78.105.146:2000/play/a08m/index.m3u8
 
-
-
 #EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 01
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
@@ -308,9 +309,8 @@ https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
 ***** #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: FOX SPORTS 2	
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/32
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: ONCE
-http://181.78.105.146:2000/play/a03a/index.m3u8
-
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: CANAL ONCE
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: SARAPEROS
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: BRAVOS
