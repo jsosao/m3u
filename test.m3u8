@@ -329,9 +329,15 @@ https://ythls-v2.onrender.com/channel/UCmI3b9y_83CF39GBvBEnkUw.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UC4OsFuy6GS9l0beb6MLbblA.m3u8
 
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: AZTEK LIVE (SOLO EN PARTIDO)
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: DOS LAREDOS (SOLO EN PARTIDO)
 #EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UCc_Ql73KzxzsJJD8jhU52dg.m3u8
+
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: TRC (SOLO EN PARTIDO)
+#EXTVLCOPT--http-reconnect=true
+https://ythls-v2.onrender.com/channel/UCNdXA4Pwn62ODvfZ7S93Y6w.m3u8
+
+
 #EXTINF:-1 group-title="Bics DEPORTES LMB", MX: SIPSE DEPORTES (SOLO EN PARTIDO)
 #EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UCrfVrlT7wtN3gqZJYq8WnYg.m3u8
