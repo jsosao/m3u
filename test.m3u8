@@ -408,6 +408,8 @@ https://ythls-v2.onrender.com/channel/UCyzWMHGS7bs0sot6KZk5EZg.m3u8
 https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", TAB: TVT
 https://5fe2654d6127d.streamlock.net/tabasco/videotabasco/chunklist_w1608012127.m3u8?wmsAuthSign=null
+#EXTINF:-1 group-title="Bics REGIONALES", TAB: TVT
+https://5fe2654d6127d.streamlock.net/tabasco/videotabasco/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjQgNzowODoxMyBQTSZoYXNoX3ZhbHVlPUNLYzZsRzVYdHpyTmxFL25kWEZ3TGc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9&DVR
 
 #EXTINF:-1 group-title="Bics REGIONALES", TAM: TELEVISA DEL GOLFO
 https://ythls-v2.onrender.com/channel/UCQ08tNTPiBn44c975S81ftg.m3u8
