@@ -264,7 +264,7 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 https://5fe2654d6127d.streamlock.net/tabasco/videotabasco/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: LEONES
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: LEONES YUC
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
 
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: TIGRES DE QRR
@@ -279,8 +279,8 @@ https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
 
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: SARAPEROS
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: BRAVOS
-https://5f1af61612fb5.streamlock.net:443/tv4/videotv4/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: BRAVOS LEON
+https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: OLMECAS
 https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
 
@@ -380,14 +380,17 @@ https://ythls-v2.onrender.com/channel/UC-uYy4_jIvDoJ4wigEv1S5A.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", GTO: TV 4.1
 https://5f1af61612fb5.streamlock.net:443/tv4/videotv4/playlist.m3u8
-#EXTINF:-1 group-title="Bics REGIONALES", GTO: TV 4.1 Noticias
+#EXTINF:-1 group-title="Bics REGIONALES", GTO: TV 4.1
+https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Bics REGIONALES", GTO: TV 4.1
 https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/chunklist_w2069453657_b1428000_sleng.m3u8
-#EXTINF:-1 group-title="Bics REGIONALES", GTO: TV 4.2 Cultura
+#EXTINF:-1 group-title="Bics REGIONALES", GTO: TV 4.2
 https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
-#EXTINF:-1 group-title="Bics REGIONALES", GTO: TV 4.2 Cultura
-https://5f2c1b0d880e5.streamlock.net/tv42/smil:tv42.smil/chunklist_w2048905456_b3428000_sleng.m3u8
-#EXTINF:-1 group-title="Bics REGIONALES", GTO: TV 4.3 Deportes
-https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8
+#EXTINF:-1 group-title="Bics REGIONALES", GTO: TV 4.2
+https://5f2c1b0d880e5.streamlock.net/tv42/smil:tv42.smil/chunklist_w273498781_b3428000_sleng.m3u8
+#EXTINF:-1 group-title="Bics REGIONALES", GTO: TV 4.3
+https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", JAL: TELEVISA GUADALAJARA
 https://ythls-v2.onrender.com/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
