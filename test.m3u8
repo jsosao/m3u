@@ -1,13 +1,13 @@
 #EXTM3U
 
-************************  01/MAY/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  02/MAY/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ************************ HI, THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", CANAL01_010520241100
+#EXTINF:-1 group-title="Bics", CANAL_020520241100
 https://raw.githubusercontent.com/jsosao/m3u/main/patron.m3u8
 
 #EXTINF:-1 group-title="Bics", MX: AZTECA UNO
@@ -54,14 +54,6 @@ https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", MX: NU9VE
 https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", MX: ONCE
-https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: CANAL ONCE.3 DIGITAL
-https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
-#EXTINF:-1 group-title="Bics", MX: CANAL 22
-https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDExOjQ2OjAzIFBNJmhhc2hfdmFsdWU9WmpCTERYMHh6UVVzcTJ0cmtNd25mQT09JnZhbGlkbWludXRlcz01JmlkPQ==
-#EXTINF:-1 group-title="Bics", MX: CANAL 22.2
-https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDExOjQ5OjA5IFBNJmhhc2hfdmFsdWU9dmZ0MEZRMTMwZ3J6V3hXNndXeDFIUT09JnZhbGlkbWludXRlcz01JmlkPQ==
 #EXTINF:-1 group-title="Bics", MX: ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1  group-title="Bics", MX: A+
@@ -235,7 +227,6 @@ https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 ***** #EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 06
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1130
 
-
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: LMB OFICIAL
 https://ythls-v2.onrender.com/channel/UCK2zXiKpzbIrooNi6oRBLvg.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: AZTECA DEPORTES
@@ -258,36 +249,13 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDExOjQ2OjAzIFBNJmhhc2hfdmFsdWU9WmpCTERYMHh6UVVzcTJ0cmtNd25mQT09JnZhbGlkbWludXRlcz01JmlkPQ==
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: NRT MEXICO
 https://59e88b197fb16.streamlock.net:4443/live/canal6/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: RTV  VERACRUZ
-https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: TVT  OLMECAS
-***** https://5fe2654d6127d.streamlock.net/tabasco/videotabasco/playlist.m3u8
-https://5fe2654d6127d.streamlock.net/tabasco/videotabasco/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMjQgMjoyNjo1MSBBTSZoYXNoX3ZhbHVlPXljN1NHU004SElTQXRZWUF2QXJrc1E9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9&DVR
 
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: LEONES YUC
-https://webprod.sipse.com.mx:8080/show/merida.m3u8
-
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: TIGRES DE QRR
-https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: TIGRES DE QRR (SOLO EN PARTIDO)
-https://ythls-v2.onrender.com/channel/UCmI3b9y_83CF39GBvBEnkUw.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: ALGODONEROS UL
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: PIRATAS
-https://ythls-v2.onrender.com/channel/UCNdXA4Pwn62ODvfZ7S93Y6w.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: PIRATAS
-https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
-
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: SARAPEROS
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: BRAVOS LEON
 https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: OLMECAS
-https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
-
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: DIABLOS ROJOS (SOLO EN PARTIDO)
-https://ythls-v2.onrender.com/channel/UCbPTmPbmSO-BYGCMHm77RUg.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: ACEREROS (SOLO EN PARTIDO)
 https://ythls-v2.onrender.com/channel/UCsRvUjq4j4LvHxNdHLUbydw.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: DORADOS (SOLO EN PARTIDO)
@@ -298,11 +266,32 @@ https://ythls-v2.onrender.com/channel/UCcjoyEQK5cAuYlw78v4GCuA.m3u8
 https://ythls-v2.onrender.com/channel/UC4OsFuy6GS9l0beb6MLbblA.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: DOS LAREDOS (SOLO EN PARTIDO)
 https://ythls-v2.onrender.com/channel/UCc_Ql73KzxzsJJD8jhU52dg.m3u8
+
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: RTV  VERACRUZ
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: TVT  OLMECAS
+https://5fe2654d6127d.streamlock.net/tabasco/videotabasco/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: LEONES YUC
+https://webprod.sipse.com.mx:8080/show/merida.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: TIGRES DE QRR
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: TIGRES DE QRR (SOLO EN PARTIDO)
+https://ythls-v2.onrender.com/channel/UCmI3b9y_83CF39GBvBEnkUw.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: PIRATAS
+https://ythls-v2.onrender.com/channel/UCNdXA4Pwn62ODvfZ7S93Y6w.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: PIRATAS
+https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: GUERREROS
+https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: OLMECAS
+https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: DIABLOS ROJOS (SOLO EN PARTIDO)
+https://ythls-v2.onrender.com/channel/UCbPTmPbmSO-BYGCMHm77RUg.m3u8
+
 #EXTINF:-1 group-title="Bics DEPORTES LMB", MX: TU CANAL EDUCATIVO (SOLO EN PARTIDO)
 https://ythls-v2.onrender.com/channel/UC4mSfK49CGFZPrRK50xPS6w.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", MX: MADO REPORT DEPORTES (SOLO EN PARTIDO)
 https://ythls-v2.onrender.com/channel/UCB8Tv4_FgS5-JYezqShFDKQ.m3u8
-
 
 ***** #EXTINF:-1 group-title="Bics DEPORTES MLS", MLS 01	
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1078
@@ -317,7 +306,6 @@ https://ythls-v2.onrender.com/channel/UCB8Tv4_FgS5-JYezqShFDKQ.m3u8
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/901
 
 ***************************************************************   **************************************************************************************
-
 
 ********************************************* CANALES REGIONALES Y YOUTUBE  ********************************************************************************
 
@@ -337,13 +325,22 @@ https://ythls-v2.onrender.com/channel/UCgu4v4HAioB0N5K6aq_H-WQ.m3u8
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", CAM: TRC
-https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
+https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMjQgMjoxMTowMCBQTSZoYXNoX3ZhbHVlPU4wVjQzbXkrS3J5ZUF0ZmIvWWsyQWc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9&DVR
 #EXTINF:-1 group-title="Bics REGIONALES", CAM: TRC
-https://stream.oursnetworktv.com/latin/SRTC/chunklist_w626706625.m3u8
-
+https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", CAM: TRC
 https://ythls-v2.onrender.com/channel/UCNdXA4Pwn62ODvfZ7S93Y6w.m3u8
 
+#EXTINF:-1 group-title="Bics REGIONALES", CDMX: CANAL UNAM
+https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMjQgMjoxMTowMCBQTSZoYXNoX3ZhbHVlPU4wVjQzbXkrS3J5ZUF0ZmIvWWsyQWc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9&DVR
+#EXTINF:-1 group-title="Bics REGIONALES", CDMX: ONCE
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:-1 group-title="Bics REGIONALES", CDMX: CANAL ONCE.3 DIGITAL
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
+#EXTINF:-1 group-title="Bics REGIONALES", CDMX: CANAL 22
+https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDExOjQ2OjAzIFBNJmhhc2hfdmFsdWU9WmpCTERYMHh6UVVzcTJ0cmtNd25mQT09JnZhbGlkbWludXRlcz01JmlkPQ==
+#EXTINF:-1 group-title="Bics REGIONALES", CDMX: CANAL 22.2
+https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDExOjQ5OjA5IFBNJmhhc2hfdmFsdWU9dmZ0MEZRMTMwZ3J6V3hXNndXeDFIUT09JnZhbGlkbWludXRlcz01JmlkPQ==
 
 #EXTINF:-1 group-title="Bics REGIONALES", CUA: TELEVISA CD. JUAREZ
 https://ythls-v2.onrender.com/channel/UCot4t8PVKz8TT5xVM8Eb00w.m3u8
@@ -362,12 +359,14 @@ https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", COA: NRT MEXICO
 https://59e88b197fb16.streamlock.net:4443/live/canal6/playlist.m3u8
 
+#EXTINF:-1 group-title="Bics REGIONALES", CHIAP: CANAL 10
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+
 #EXTINF:-1 group-title="Bics REGIONALES", DGO: TELEVISA DURANGO
 https://ythls-v2.onrender.com/channel/UCON7DvLd5N8tXivc9WqILxQ.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", DGO: CANAL 10
 https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
-#EXTINF:-1 group-title="Bics REGIONALES", DGO: TV LOBO
-https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Bics REGIONALES", EDOMEX: MEXIQUENSE
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
