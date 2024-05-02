@@ -253,6 +253,8 @@ https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: CANAL ONCE
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", MX: SIPSE DEPORTES
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: CANAL 22
 https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDExOjQ2OjAzIFBNJmhhc2hfdmFsdWU9WmpCTERYMHh6UVVzcTJ0cmtNd25mQT09JnZhbGlkbWludXRlcz01JmlkPQ==
@@ -289,8 +291,6 @@ https://ythls-v2.onrender.com/channel/UCmI3b9y_83CF39GBvBEnkUw.m3u8
 https://ythls-v2.onrender.com/channel/UC4OsFuy6GS9l0beb6MLbblA.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: DOS LAREDOS (SOLO EN PARTIDO)
 https://ythls-v2.onrender.com/channel/UCc_Ql73KzxzsJJD8jhU52dg.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LMB", MX: SIPSE DEPORTES (SOLO EN PARTIDO)
-https://ythls-v2.onrender.com/channel/UCrfVrlT7wtN3gqZJYq8WnYg.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", MX: TU CANAL EDUCATIVO (SOLO EN PARTIDO)
 https://ythls-v2.onrender.com/channel/UC4mSfK49CGFZPrRK50xPS6w.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", MX: MADO REPORT DEPORTES (SOLO EN PARTIDO)
