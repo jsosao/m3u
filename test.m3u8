@@ -313,6 +313,7 @@ https://ythls-v2.onrender.com/channel/UCB8Tv4_FgS5-JYezqShFDKQ.m3u8
 https://ythls-v2.onrender.com/channel/UC5ZtV3bu3bjSuOLoA6oCFIg.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", AGS: CANAL 26
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="Bics REGIONALES", BAJA: TELEVISA ENSENADA
 https://ythls-v2.onrender.com/channel/UCFuWAM_YItwkHzDWDKtJULg.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", BAJA: TELEVISA MEXICALI
@@ -356,8 +357,14 @@ https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 https://ythls-v2.onrender.com/channel/UCR1aiCpU4PdNg-wCDiuDCcg.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", COA: CANAL 15 SABINAS
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bics REGIONALES", COA: NRT MEXICO
+#EXTINF:-1 group-title="Bics REGIONALES", COA: NRT INTERNACIONAL
+https://59e88b197fb16.streamlock.net:4443/live/canal24/playlist.m3u8
+#EXTINF:-1 group-title="Bics REGIONALES", COA: NRT REGION CARBONIFERA
+https://59e88b197fb16.streamlock.net:4443/live/canal10/playlist.m3u8
+#EXTINF:-1 group-title="Bics REGIONALES", COA: NRT REGION SURESTE
 https://59e88b197fb16.streamlock.net:4443/live/canal6/playlist.m3u8
+#EXTINF:-1 group-title="Bics REGIONALES", COA: NRT REGION CENTRO
+https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", CHIAP: CANAL 10
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
