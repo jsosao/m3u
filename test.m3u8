@@ -7,7 +7,7 @@
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", 010520241100
+#EXTINF:-1 group-title="Bics", CANAL01_010520241100
 https://raw.githubusercontent.com/jsosao/m3u/main/patron.m3u8
 
 #EXTINF:-1 group-title="Bics", MX: AZTECA UNO
@@ -254,7 +254,6 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: CANAL ONCE
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
-
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: CANAL 22
 https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDExOjQ2OjAzIFBNJmhhc2hfdmFsdWU9WmpCTERYMHh6UVVzcTJ0cmtNd25mQT09JnZhbGlkbWludXRlcz01JmlkPQ==
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: NRT MEXICO
@@ -262,14 +261,12 @@ https://59e88b197fb16.streamlock.net:4443/live/canal6/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: RTV  VERACRUZ
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: TVT  OLMECAS
-https://5fe2654d6127d.streamlock.net/tabasco/videotabasco/chunklist_w1608012127.m3u8?wmsAuthSign=null
+https://5fe2654d6127d.streamlock.net/tabasco/videotabasco/playlist.m3u8
 
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: PIRATAS
 https://ythls-v2.onrender.com/channel/UCNdXA4Pwn62ODvfZ7S93Y6w.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: PIRATAS
 https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: PIRATAS
-https://stream.oursnetworktv.com/latin/SRTC/chunklist_w2115500140.m3u8
 
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: SARAPEROS
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
@@ -290,11 +287,8 @@ https://ythls-v2.onrender.com/channel/UCcjoyEQK5cAuYlw78v4GCuA.m3u8
 https://ythls-v2.onrender.com/channel/UCmI3b9y_83CF39GBvBEnkUw.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: CALIENTE DGO (SOLO EN PARTIDO)
 https://ythls-v2.onrender.com/channel/UC4OsFuy6GS9l0beb6MLbblA.m3u8
-
-
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: DOS LAREDOS (SOLO EN PARTIDO)
 https://ythls-v2.onrender.com/channel/UCc_Ql73KzxzsJJD8jhU52dg.m3u8
-
 #EXTINF:-1 group-title="Bics DEPORTES LMB", MX: SIPSE DEPORTES (SOLO EN PARTIDO)
 https://ythls-v2.onrender.com/channel/UCrfVrlT7wtN3gqZJYq8WnYg.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", MX: TU CANAL EDUCATIVO (SOLO EN PARTIDO)
