@@ -34,6 +34,8 @@ http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/634
 http://181.78.105.146:2000/play/a00h/index.m3u8
 #EXTINF:-1 group-title="Bics", MX: IMAGEN TV
 http://rasaiptv.com:8080/Mikela0412/HrbrZnqqeerB/226240
+#EXTINF:-1 group-title="Bics", MX: IMAGEN TV
+https://dmxleo.dailymotion.com/cdn/manifest/video/x82z4if.m3u8?auth=1714789160-2688-znvlko72-8ad2ca56db8403e10234648ce6993c75GXpX2OjLizQ5Y2nbRd4u0K4yPfU1ULoV2CygPWfDXla-pY_W0puIMFPeE4tGtWGRkokSqwGoZvdP1u98uvVYSHgd8yMwVPafw56r67d_6hPQ_Mm3M-wLYzu78DNyjGvz7oOJ81fuOVxqa6miEiTt7JEpDiSQPxEy0Ij9TO2DNMneUH-lPcsujRypkfRiQXnayV42sH3ydyqOiriONR9_O3gPbTbOiigWHReT5-91Ma_5W0ohoRKH3nEVxpx93eSto4H2_7kgli8JSwOWl86QQ5rJXeCsMMsI5lbSnf9xF-URsYMlIleb6FO_iOvt2Hylqploh_bNOJEO-sLmSCGYorxJFjkZyOmST9oxOF6GrReuwMUM1RiP0G4uBWd4g5nHuwOboCI_C-caDQ4LiapJoHz_-fCI6oWttFeGdT33vBkXdYAFMxzDw1fsF5pdpG4eNGToQ-oU4bcK27gDOFzfpCAPlEKgkKAZbGIdYvVstTvFEjc3q-FE1B1Y_PTOT4fMcQEFPj82x6NLA-JtqA1ABHP4P3UgSEIxMwui8SjimBzsNoHrDgrQaMJdsQLniYqs8sUo965FCKPv57v2sHwEiQAI_DxTl-Ghr4lztE1IY8x5dZ0iFyswPMBiJBK-wG4K2XpAEogeLJ-V5PupeCbO5jbqlnWvIF4aMH0eaVDROSRlL8UAKy_zv8AgjCwoJljq1fzar-MYV18yAg68SNCGhp2acigNLn5O24fCiG5foNLk-cnlhLqhRPrt9G0P6SqW5FYDlm6sEtst067jGhLNgIsVzUS_NLNIONBPLmV34fmrrGEzRJ31r3xQVjEPiaVxGTacjEYDoV_6GMOvsGropzhvxcsRaAmos4vyxu5jPu7nALd9o3gzWhfz6zStStOmYGcHfGVif2_qnFFi2o4LB-VJnG_o_86m04MKajNeU00SGA5p1HQWwKjskoh-YrpLe7NwGHDjb3oyI-OABUqFx79kRZu7V0mPqJ_Y1GMO3uqtZ2_itMKCWRQ_xid8ICW9Rc7PotgAY9NkjjZ8WkusbC9pu3LtrJEo1B5vnaXxAFOg&af=[APIFRAMEWORKS]&bs=1&cookie_sync_ab_gk=1&reader_gdpr_flag=0&reader_gdpr_consent=&gdpr_binary_consent=opt-out&gdpr_comes_from_infopack=0&reader_us_privacy=1---
 #EXTINF:-1 group-title="Bics", MX: CANAL 5
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", MX: CANAL 5
@@ -378,17 +380,16 @@ https://ythls-v2.onrender.com/channel/UCnxTRk2K1iNsQkgpWXxyj4w.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", GTO: TELEVISA DEL BAJIO
 https://ythls-v2.onrender.com/channel/UC-uYy4_jIvDoJ4wigEv1S5A.m3u8
 
-#EXTINF:-1 group-title="Bics REGIONALES", GTO: TV 4.1
-https://5f1af61612fb5.streamlock.net:443/tv4/videotv4/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics REGIONALES", GTO: TV 4.1
+***** https://5f1af61612fb5.streamlock.net:443/tv4/videotv4/playlist.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", GTO: TV 4.1
 https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Bics REGIONALES", GTO: TV 4.1
-https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/chunklist_w2069453657_b1428000_sleng.m3u8
+***** #EXTINF:-1 group-title="Bics REGIONALES", GTO: TV 4.1
+***** https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/chunklist_w2069453657_b1428000_sleng.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", GTO: TV 4.2
 https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
-#EXTINF:-1 group-title="Bics REGIONALES", GTO: TV 4.2
-https://5f2c1b0d880e5.streamlock.net/tv42/smil:tv42.smil/chunklist_w273498781_b3428000_sleng.m3u8
+***** #EXTINF:-1 group-title="Bics REGIONALES", GTO: TV 4.2
+***** https://5f2c1b0d880e5.streamlock.net/tv42/smil:tv42.smil/chunklist_w273498781_b3428000_sleng.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", GTO: TV 4.3
 https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
 
