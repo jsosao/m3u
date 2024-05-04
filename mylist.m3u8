@@ -1,273 +1,212 @@
 #EXTM3U
 
-************************  29/ABR/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  02/MAY/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ************************ HI, THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", 290420241100
+#EXTINF:-1 group-title="Bics", CANAL_020520241100
 https://raw.githubusercontent.com/jsosao/m3u/main/patron.m3u8
 
 #EXTINF:-1 group-title="Bics", MX: AZTECA UNO
-#EXTVLCOPT--http-reconnect=true
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 group-title="Bics", MX: AZTECA UNO -1 HR
-#EXTVLCOPT--http-reconnect=true
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8
 ***** https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8
-#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 ***** https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 ***** https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
 ***** https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS
-#EXTVLCOPT--http-reconnect=true
 https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS -1HR
-#EXTVLCOPT--http-reconnect=true
 https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS -2HR
-#EXTVLCOPT--http-reconnect=true
 https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS LATAM
-#EXTVLCOPT--http-reconnect=true
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: IMAGEN TV
-#EXTVLCOPT--http-reconnect=true
 http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/634
 #EXTINF:-1 group-title="Bics", MX: IMAGEN TV
-#EXTVLCOPT--http-reconnect=true
 http://181.78.105.146:2000/play/a00h/index.m3u8
 #EXTINF:-1 group-title="Bics", MX: IMAGEN TV
-#EXTVLCOPT--http-reconnect=true
 http://rasaiptv.com:8080/Mikela0412/HrbrZnqqeerB/226240
 #EXTINF:-1 group-title="Bics", MX: CANAL 5
-#EXTVLCOPT--http-reconnect=true
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", MX: CANAL 5
-#EXTVLCOPT--http-reconnect=true
 https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: MULTIMEDIOS MTY
-#EXTVLCOPT--http-reconnect=true
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 group-title="Bics", MX: MULTIMEDIOS LAGUNA
-#EXTVLCOPT--http-reconnect=true
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 #EXTINF:-1 group-title="Bics", MX: MULTIMEDIOS GDL
-#EXTVLCOPT--http-reconnect=true
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 #EXTINF:-1 group-title="Bics", MX: AZTECA 7
-#EXTVLCOPT--http-reconnect=true
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 group-title="Bics", MX: AZTECA 7 2
-#EXTVLCOPT--http-reconnect=true
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 group-title="Bics", MX: AZTECA 7 3
-#EXTVLCOPT--http-reconnect=true
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 group-title="Bics", MX: NU9VE
-#EXTVLCOPT--http-reconnect=true
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", MX: NU9VE
-#EXTVLCOPT--http-reconnect=true
 https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", MX: ONCE
-#EXTVLCOPT--http-reconnect=true
-https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: ADN 40
-#EXTVLCOPT--http-reconnect=true
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1  group-title="Bics", MX: A+
-#EXTVLCOPT--http-reconnect=true
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1  group-title="Bics", MX: MVS
-#EXTVLCOPT--http-reconnect=true
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 group-title="Bics", MX: MILENIO
-#EXTVLCOPT--http-reconnect=true
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 group-title="Bics", MX: 4 GDL
-#EXTVLCOPT--http-reconnect=true
 https://linear-402.frequency.stream/mt/studio/402/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: 8 MTY
-#EXTVLCOPT--http-reconnect=true
 https://linear-403.frequency.stream/mt/studio/403/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: UNICABLE
-#EXTVLCOPT--http-reconnect=true
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: UNIVISION
-#EXTVLCOPT--http-reconnect=true
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: UNIVISION 24/7
-#EXTVLCOPT--http-reconnect=true
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: EURO NEWS
-#EXTVLCOPT--http-reconnect=true
 https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: FORO TV
-#EXTVLCOPT--http-reconnect=true
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", MX: FORO TV
-#EXTVLCOPT--http-reconnect=true
 https://linear-300.frequency.stream/mt/studio/300/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: N+ MEDIA
-#EXTVLCOPT--http-reconnect=true
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 
 #EXTINF:-1 group-title="Bics", MX: N+ MEDIA
-#EXTVLCOPT--http-reconnect=true
 https://linear-301.frequency.stream/mt/studio/301/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: N+
-#EXTVLCOPT--http-reconnect=true
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", MX: N+ GDL
-#EXTVLCOPT--http-reconnect=true
 https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
 #EXTINF:-1 group-title="Bics", MX: N+ MTY
-#EXTVLCOPT--http-reconnect=true
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
 ***** https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8
 #EXTINF:-1 group-title="Bics", MX: GOLDEN
-#EXTVLCOPT--http-reconnect=true
 https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: GOLDEN
-#EXTVLCOPT--http-reconnect=true
 https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: GOLDEN
-#EXTVLCOPT--http-reconnect=true
 https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: GOLDEN PLUS
-#EXTVLCOPT--http-reconnect=true
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: GOLDEN PLUS
-#EXTVLCOPT--http-reconnect=true
 https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: GOLDEN PREMIER
-#EXTVLCOPT--http-reconnect=true
 https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: EDGE
-#EXTVLCOPT--http-reconnect=true
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: DPELICULA
-#EXTVLCOPT--http-reconnect=true
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: DPELICULA PLUS
-#EXTVLCOPT--http-reconnect=true
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: DISTRITO COMEDIA
-#EXTVLCOPT--http-reconnect=true
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: VIVO PLAY
-#EXTVLCOPT--http-reconnect=true
 https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: NUESTRA VISION
-#EXTVLCOPT--http-reconnect=true
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 #EXTINF:-1  group-title="Bics", MX: MARIA VISION
-#EXTVLCOPT--http-reconnect=true
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 #EXTINF:-1  group-title="Bics", MX: MARIA VISION CAPILLA
-#EXTVLCOPT--http-reconnect=true
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Privado2/playlist.m3u8
 #EXTINF:-1  group-title="Bics", MX: EWTN
-#EXTVLCOPT--http-reconnect=true
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1  group-title="Bics", MX: MUNDO CATOLICO
-#EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UCjhq1eY5Ce1TGOn2JbGnHsw.m3u8
 #EXTINF:-1 group-title="Bics", MX: CÑÑ
-#EXTVLCOPT--http-reconnect=true
 https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: BANDAMAX
-#EXTVLCOPT--http-reconnect=true
 https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 
 *******************************************************************************************************************************************************************
 
 #EXTINF:-1 group-title="Bics Extra Latino", PR: UNIVISION
-#EXTVLCOPT--http-reconnect=true
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", PR: TELEMUNDO
-#EXTVLCOPT--http-reconnect=true
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", PR: PUNTO 2
-#EXTVLCOPT--http-reconnect=true
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", US: CANAL 57
-#EXTVLCOPT--http-reconnect=true
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Bics Extra US", US: CNN
-#EXTVLCOPT--http-reconnect=true
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="Bics Extra US", US: NASA TV
-#EXTVLCOPT--http-reconnect=true
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 ***************  emilio ***************
 
 #EXTINF:-1 group-title="Bics Extra Latino", US: TELEMUNDO
-#EXTVLCOPT--http-reconnect=true
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", US: TELEMUNDO -1 HR
-#EXTVLCOPT--http-reconnect=true
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=3600
 #EXTINF:-1 group-title="Bics Extra Latino", US: TELEMUNDO -2 HR
-#EXTVLCOPT--http-reconnect=true
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=7200
 #EXTINF:-1 group-title="Bics Extra Latino", PA: TV  Max
-#EXTVLCOPT--http-reconnect=true
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Bics Extra Latino", PA: TV  Max
 http://rasaiptv.com:8080/Mikela0412/HrbrZnqqeerB/135618
 #EXTINF:-1 group-title="Bics Extra Latino", PA: TV  Max
-#EXTVLCOPT--http-reconnect=true
 http://rasaiptv.com:8080/Mikela0412/HrbrZnqqeerB/135619
 #EXTINF:-1 group-title="Bics Extra Latino", AR: TN
-#EXTVLCOPT--http-reconnect=true
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+
+#EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 2
+http://rasaiptv.com:8080/Mikela0412/HrbrZnqqeerB/50478
+#EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 4
+http://rasaiptv.com:8080/Mikela0412/HrbrZnqqeerB/50474
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 10
-#EXTVLCOPT--http-reconnect=true
 http://rasaiptv.com:8080/Mikela0412/HrbrZnqqeerB/76650
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 12
-#EXTVLCOPT--http-reconnect=true
 http://rasaiptv.com:8080/Mikela0412/HrbrZnqqeerB/50481
 
 #EXTINF:-1 group-title="Bics Extra Latino", EC: ECUAVISA
-#EXTVLCOPT--http-reconnect=true
 http://rasaiptv.com:8080/Mikela0412/HrbrZnqqeerB/309
+
+#EXTINF:-1 group-title="Bics Extra Latino", CO: CARACOL
+http://rasaiptv.com:8080/KleverJumbo/KJ2354fg/69251
+#EXTINF:-1 group-title="Bics Extra Latino", CO: CARACOL
+http://rasaiptv.com:8080/KleverJumbo/KJ2354fg/69253
+#EXTINF:-1 group-title="Bics Extra Latino", CO: CARACOL INTERNACIONAL
+http://rasaiptv.com:8080/KleverJumbo/KJ2354fg/69257
+#EXTINF:-1 group-title="Bics Extra Latino", CO: RCN
+http://rasaiptv.com:8080/KleverJumbo/KJ2354fg/69266
+#EXTINF:-1 group-title="Bics Extra Latino", CO: RCN INTERNACIONAL
+http://rasaiptv.com:8080/KleverJumbo/KJ2354fg/69269
+
+
 
 ************* pepe *******************
 
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 4
-#EXTVLCOPT--http-reconnect=true
 https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 6
-#EXTVLCOPT--http-reconnect=true
 https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 12
-#EXTVLCOPT--http-reconnect=true
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
 ************ bodega *******************
 
 #EXTINF:-1 group-title="Bics Extra Latino", PE: PANAMERICANA
-#EXTVLCOPT--http-reconnect=true
 https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", PE: PANAMERICANA
-#EXTVLCOPT--http-reconnect=true
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 ***** #EXTINF:-1 group-title="Bics Extra Latino", COL: RCN
-***** #EXTVLCOPT--http-reconnect=true
 ***** http://c24u.xyz:8080/GUILLERMO/GUILLERMO/332487
 
 ***************************************************************   **************************************************************************************
 
 #EXTINF:-1 group-title="Bics Extra US", AL JAZEERA EN
-#EXTVLCOPT--http-reconnect=true
 https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
 #EXTINF:-1 group-title="Bics Extra US", AL JAZEERA ARAB
-#EXTVLCOPT--http-reconnect=true
 https://live-hls-web-aja-fa.getaj.net/AJA/05.m3u8
 
 ***************************************************************   **************************************************************************************
@@ -301,68 +240,71 @@ https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 ***** #EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 06
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1130
 
-
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: LMB OFICIAL
-#EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UCK2zXiKpzbIrooNi6oRBLvg.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: AZTECA DEPORTES
+https://ythls-v2.onrender.com/channel/UCe3Ev4a4Sm9L5aO9sJJ_WXw.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: FOX SPORTS DIGITAL
+https://ythls-v2.onrender.com/channel/UCUf4RLsG_TsjinvtL2jT-VA.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: Hi SPORTS TV
+https://ythls-v2.onrender.com/channel/UCpWPnP8s0YbVpzhzg6Pk2iA.m3u8
+
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: INTERNETV DEPORTES
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: CLARO SPORTS
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: AYM SPORTS
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
-***** #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: FOX SPORTS 2	
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/32
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: CANAL ONCE
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-#EXTINF:-1 group-title="Bics REGIONALES", YUC: NRT MEXICO
-https://59e88b197fb16.streamlock.net:4443/live/canal6/playlist.m3u8
 
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: PIRATAS
-#EXTVLCOPT--http-reconnect=true
-https://ythls-v2.onrender.com/channel/UCNdXA4Pwn62ODvfZ7S93Y6w.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: CANAL 22
+https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDExOjQ2OjAzIFBNJmhhc2hfdmFsdWU9WmpCTERYMHh6UVVzcTJ0cmtNd25mQT09JnZhbGlkbWludXRlcz01JmlkPQ==
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: NRT MEXICO
+https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
+
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: ALGODONEROS UL
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: SARAPEROS
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: BRAVOS
-https://5f1af61612fb5.streamlock.net:443/tv4/videotv4/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: OLMECAS
-#EXTVLCOPT--http-reconnect=true
-https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
-
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: DIABLOS ROJOS (SOLO EN PARTIDO)
-#EXTVLCOPT--http-reconnect=true
-https://ythls-v2.onrender.com/channel/UCbPTmPbmSO-BYGCMHm77RUg.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: BRAVOS LEON
+https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: ACEREROS (SOLO EN PARTIDO)
-#EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UCsRvUjq4j4LvHxNdHLUbydw.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: DORADOS (SOLO EN PARTIDO)
-#EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UCQOSwVDBx6UDeM0v66zQjAg.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: TOROS (SOLO EN PARTIDO)
-#EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UCcjoyEQK5cAuYlw78v4GCuA.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: TIGRES DE QRR (SOLO EN PARTIDO)
-#EXTVLCOPT--http-reconnect=true
-https://ythls-v2.onrender.com/channel/UCmI3b9y_83CF39GBvBEnkUw.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: CALIENTE DGO (SOLO EN PARTIDO)
-#EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UC4OsFuy6GS9l0beb6MLbblA.m3u8
-
-
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: DOS LAREDOS (SOLO EN PARTIDO)
-#EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UCc_Ql73KzxzsJJD8jhU52dg.m3u8
 
-#EXTINF:-1 group-title="Bics DEPORTES LMB", MX: SIPSE DEPORTES (SOLO EN PARTIDO)
-#EXTVLCOPT--http-reconnect=true
-https://ythls-v2.onrender.com/channel/UCrfVrlT7wtN3gqZJYq8WnYg.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: RTV  VERACRUZ
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: TVT  OLMECAS
+https://5fe2654d6127d.streamlock.net/tabasco/videotabasco/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: LEONES YUC
+https://webprod.sipse.com.mx:8080/show/merida.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: TIGRES DE QOO
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: TIGRES DE QOO (SOLO EN PARTIDO)
+https://ythls-v2.onrender.com/channel/UCmI3b9y_83CF39GBvBEnkUw.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: PIRATAS
+https://ythls-v2.onrender.com/channel/UCNdXA4Pwn62ODvfZ7S93Y6w.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: PIRATAS
+https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: GUERREROS
+https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: OLMECAS
+https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: DIABLOS ROJOS (SOLO EN PARTIDO)
+https://ythls-v2.onrender.com/channel/UCbPTmPbmSO-BYGCMHm77RUg.m3u8
+
 #EXTINF:-1 group-title="Bics DEPORTES LMB", MX: TU CANAL EDUCATIVO (SOLO EN PARTIDO)
-#EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UC4mSfK49CGFZPrRK50xPS6w.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", MX: MADO REPORT DEPORTES (SOLO EN PARTIDO)
-#EXTVLCOPT--http-reconnect=true
 https://ythls-v2.onrender.com/channel/UCB8Tv4_FgS5-JYezqShFDKQ.m3u8
-
 
 ***** #EXTINF:-1 group-title="Bics DEPORTES MLS", MLS 01	
 ***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1078
@@ -378,13 +320,13 @@ https://ythls-v2.onrender.com/channel/UCB8Tv4_FgS5-JYezqShFDKQ.m3u8
 
 ***************************************************************   **************************************************************************************
 
-
 ********************************************* CANALES REGIONALES Y YOUTUBE  ********************************************************************************
 
 #EXTINF:-1 group-title="Bics REGIONALES", AGS: TELEVISA AGUASCALIENTES
 https://ythls-v2.onrender.com/channel/UC5ZtV3bu3bjSuOLoA6oCFIg.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", AGS: CANAL 26
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="Bics REGIONALES", BAJA: TELEVISA ENSENADA
 https://ythls-v2.onrender.com/channel/UCFuWAM_YItwkHzDWDKtJULg.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", BAJA: TELEVISA MEXICALI
@@ -397,8 +339,22 @@ https://ythls-v2.onrender.com/channel/UCgu4v4HAioB0N5K6aq_H-WQ.m3u8
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", CAM: TRC
+https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMjQgMjoxMTowMCBQTSZoYXNoX3ZhbHVlPU4wVjQzbXkrS3J5ZUF0ZmIvWWsyQWc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9&DVR
+#EXTINF:-1 group-title="Bics REGIONALES", CAM: TRC
 https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
+#EXTINF:-1 group-title="Bics REGIONALES", CAM: TRC
+https://ythls-v2.onrender.com/channel/UCNdXA4Pwn62ODvfZ7S93Y6w.m3u8
 
+#EXTINF:-1 group-title="Bics REGIONALES", CDMX: CANAL UNAM
+https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMjQgMjoxMTowMCBQTSZoYXNoX3ZhbHVlPU4wVjQzbXkrS3J5ZUF0ZmIvWWsyQWc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9&DVR
+#EXTINF:-1 group-title="Bics REGIONALES", CDMX: ONCE
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:-1 group-title="Bics REGIONALES", CDMX: CANAL ONCE.3 DIGITAL
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
+#EXTINF:-1 group-title="Bics REGIONALES", CDMX: CANAL 22
+https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDExOjQ2OjAzIFBNJmhhc2hfdmFsdWU9WmpCTERYMHh6UVVzcTJ0cmtNd25mQT09JnZhbGlkbWludXRlcz01JmlkPQ==
+#EXTINF:-1 group-title="Bics REGIONALES", CDMX: CANAL 22.2
+https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDExOjQ5OjA5IFBNJmhhc2hfdmFsdWU9dmZ0MEZRMTMwZ3J6V3hXNndXeDFIUT09JnZhbGlkbWludXRlcz01JmlkPQ==
 
 #EXTINF:-1 group-title="Bics REGIONALES", CUA: TELEVISA CD. JUAREZ
 https://ythls-v2.onrender.com/channel/UCot4t8PVKz8TT5xVM8Eb00w.m3u8
@@ -414,8 +370,17 @@ https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 https://ythls-v2.onrender.com/channel/UCR1aiCpU4PdNg-wCDiuDCcg.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", COA: CANAL 15 SABINAS
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bics REGIONALES", COA: NRT MEXICO
+#EXTINF:-1 group-title="Bics REGIONALES", COA: NRT INTERNACIONAL
+https://59e88b197fb16.streamlock.net:4443/live/canal24/playlist.m3u8
+#EXTINF:-1 group-title="Bics REGIONALES", COA: NRT REGION CARBONIFERA
+https://59e88b197fb16.streamlock.net:4443/live/canal10/playlist.m3u8
+#EXTINF:-1 group-title="Bics REGIONALES", COA: NRT REGION SURESTE
 https://59e88b197fb16.streamlock.net:4443/live/canal6/playlist.m3u8
+#EXTINF:-1 group-title="Bics REGIONALES", COA: NRT REGION CENTRO
+https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
+
+#EXTINF:-1 group-title="Bics REGIONALES", CHIAP: CANAL 10
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", DGO: TELEVISA DURANGO
 https://ythls-v2.onrender.com/channel/UCON7DvLd5N8tXivc9WqILxQ.m3u8
@@ -434,16 +399,18 @@ https://ythls-v2.onrender.com/channel/UCnxTRk2K1iNsQkgpWXxyj4w.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", GTO: TELEVISA DEL BAJIO
 https://ythls-v2.onrender.com/channel/UC-uYy4_jIvDoJ4wigEv1S5A.m3u8
 
+***** #EXTINF:-1 group-title="Bics REGIONALES", GTO: TV 4.1
+***** https://5f1af61612fb5.streamlock.net:443/tv4/videotv4/playlist.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", GTO: TV 4.1
-https://5f1af61612fb5.streamlock.net:443/tv4/videotv4/playlist.m3u8
-#EXTINF:-1 group-title="Bics REGIONALES", GTO: TV 4.1 Noticias
-https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/chunklist_w2069453657_b1428000_sleng.m3u8
-#EXTINF:-1 group-title="Bics REGIONALES", GTO: TV 4.2 Cultura
+https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics REGIONALES", GTO: TV 4.1
+***** https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/chunklist_w2069453657_b1428000_sleng.m3u8
+#EXTINF:-1 group-title="Bics REGIONALES", GTO: TV 4.2
 https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
-#EXTINF:-1 group-title="Bics REGIONALES", GTO: TV 4.2 Cultura
-https://5f2c1b0d880e5.streamlock.net/tv42/smil:tv42.smil/chunklist_w2048905456_b3428000_sleng.m3u8
-#EXTINF:-1 group-title="Bics REGIONALES", GTO: TV 4.3 Deportes
-https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics REGIONALES", GTO: TV 4.2
+***** https://5f2c1b0d880e5.streamlock.net/tv42/smil:tv42.smil/chunklist_w273498781_b3428000_sleng.m3u8
+#EXTINF:-1 group-title="Bics REGIONALES", GTO: TV 4.3
+https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", JAL: TELEVISA GUADALAJARA
 https://ythls-v2.onrender.com/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
@@ -467,21 +434,27 @@ https://ythls-v2.onrender.com/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", QRO: TELEVISA QUERETARO
 https://ythls-v2.onrender.com/channel/UC9QNz6VS3gGz55dzxAQtgtA.m3u8
 
-#EXTINF:-1 group-title="Bics REGIONALES", QRR: TELEVISA QUINTANA ROO
+#EXTINF:-1 group-title="Bics REGIONALES", QOO: TELEVISA QUINTANA QOO
 https://ythls-v2.onrender.com/channel/UC37V2K5_sXWqOhoc5WgiXhw.m3u8
-#EXTINF:-1 group-title="Bics REGIONALES", QRR: CANAL 10 CANCUN
+#EXTINF:-1 group-title="Bics REGIONALES", QOO: CANAL 10 CANCUN
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+#EXTINF:-1 group-title="Bics REGIONALES", QOO: SIPSE
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", SIN: TELEVISA SINALOA
 https://ythls-v2.onrender.com/channel/UCtm1LvYEIQ_NrfOUVJ08YhQ.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", SLP: TELEVISA SAN LUIS POTOSI
 https://ythls-v2.onrender.com/channel/UCaRuyaHshLdq462E9_pLzdA.m3u8
+
 #EXTINF:-1 group-title="Bics REGIONALES", SON: TELEVISA SONORA
 https://ythls-v2.onrender.com/channel/UCyzWMHGS7bs0sot6KZk5EZg.m3u8
+#EXTINF:-1 group-title="Bics REGIONALES", SON: TELEMAX
+https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", TAB: TV UJAT
-#EXTVLCOPT--http-reconnect=true
 https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
+#EXTINF:-1 group-title="Bics REGIONALES", TAB: TVT
+https://5fe2654d6127d.streamlock.net/tabasco/videotabasco/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjQgMTE6MjY6NTAgUE0maGFzaF92YWx1ZT1haFg0VC9VY3lkVmhya0xPZktqdEpBPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==&DVR
 
 #EXTINF:-1 group-title="Bics REGIONALES", TAM: TELEVISA DEL GOLFO
 https://ythls-v2.onrender.com/channel/UCQ08tNTPiBn44c975S81ftg.m3u8
@@ -490,14 +463,16 @@ https://ythls-v2.onrender.com/channel/UCIqGddpV4flOlK3b-hgu9pQ.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", VER: TELEVISA VERACRUZ
 https://ythls-v2.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
+#EXTINF:-1 group-title="Bics REGIONALES", VER: RTV  VERACRUZ
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Bics REGIONALES", YUC: TELEVISA YUCATAN
 https://ythls-v2.onrender.com/channel/UCMIYaH2cLoPS8Hcb-9AA2ZA.m3u8
-#EXTINF:-1 group-title="Bics REGIONALES", YUC: NRT SURESTE
-https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", YUC: TELEPLAY
-https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
-
+https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
+#EXTINF:-1 group-title="Bics REGIONALES", YUC: SIPSE
+https://webprod.sipse.com.mx:8080/show/merida.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", ZAC: TELEVISA ZACATECAS
 https://ythls-v2.onrender.com/channel/UCQb3i7gu9J8A4zzQU7j6C1Q.m3u8
@@ -511,134 +486,103 @@ https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: AYM SPORTS
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", MX: CALIENTE TV
+https://ythls-v2.onrender.com/channel/UCpJN_3WCOtfICbsKKxZcBsg.m3u8
 
 #EXTINF:-1 group-title="Bics DEPORTES", MX: BEiN SPORT
-#EXTVLCOPT--http-reconnect=true
 https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: TUDN
-#EXTVLCOPT--http-reconnect=true
 https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: AFIZZIONADOS
-#EXTVLCOPT--http-reconnect=true
 https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: TUDN
-#EXTVLCOPT--http-reconnect=true
 https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: TUDN
-#EXTVLCOPT--http-reconnect=true
 https://linear-357.frequency.stream/mt/studio/357/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: ADRENALINA
-#EXTVLCOPT--http-reconnect=true
 https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: MLB
-#EXTVLCOPT--http-reconnect=true
 https://linear-508.frequency.stream/mt/studio/508/hls/master/playlist.m3u8
 
+
+************************** emilio ************************************************************************
+
+#EXTINF:-1 group-title="Bics DEPORTES", MX: FOX SPORTS 1
+https://vivo.lamtv.tv:8081/a/0175/playlist.m3u8
+
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 1
-#EXTVLCOPT--http-reconnect=true
 https://linear-438.frequency.stream/mt/studio/438/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 2
-#EXTVLCOPT--http-reconnect=true
 https://linear-439.frequency.stream/mt/studio/439/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 3
-#EXTVLCOPT--http-reconnect=true
 https://linear-440.frequency.stream/mt/studio/440/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 4
-#EXTVLCOPT--http-reconnect=true
 https://linear-441.frequency.stream/mt/studio/441/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 5
-#EXTVLCOPT--http-reconnect=true
 https://linear-442.frequency.stream/mt/studio/442/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 6
-#EXTVLCOPT--http-reconnect=true
 https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 7
-#EXTVLCOPT--http-reconnect=true
 https://linear-361.frequency.stream/mt/studio/361/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 8
-#EXTVLCOPT--http-reconnect=true
 https://linear-362.frequency.stream/mt/studio/362/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 9
-#EXTVLCOPT--http-reconnect=true
 https://linear-363.frequency.stream/mt/studio/363/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 10
-#EXTVLCOPT--http-reconnect=true
 https://linear-364.frequency.stream/mt/studio/364/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 11
-#EXTVLCOPT--http-reconnect=true
 https://linear-365.frequency.stream/mt/studio/365/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 12
-#EXTVLCOPT--http-reconnect=true
 https://linear-366.frequency.stream/mt/studio/366/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 13
-#EXTVLCOPT--http-reconnect=true
 https://linear-367.frequency.stream/mt/studio/367/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 14
-#EXTVLCOPT--http-reconnect=true
 https://linear-368.frequency.stream/mt/studio/368/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 15
-#EXTVLCOPT--http-reconnect=true
 https://linear-369.frequency.stream/mt/studio/369/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 16
-#EXTVLCOPT--http-reconnect=true
 https://linear-370.frequency.stream/mt/studio/370/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 17
-#EXTVLCOPT--http-reconnect=true
 https://linear-371.frequency.stream/mt/studio/371/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 18
-#EXTVLCOPT--http-reconnect=true
 https://linear-372.frequency.stream/mt/studio/372/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 19
-#EXTVLCOPT--http-reconnect=true
 https://linear-373.frequency.stream/mt/studio/373/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 20
-#EXTVLCOPT--http-reconnect=true
 https://linear-374.frequency.stream/mt/studio/374/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 21
-#EXTVLCOPT--http-reconnect=true
 https://linear-375.frequency.stream/mt/studio/375/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 22
-#EXTVLCOPT--http-reconnect=true
 https://linear-376.frequency.stream/mt/studio/376/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 23
-#EXTVLCOPT--http-reconnect=true
 https://linear-377.frequency.stream/mt/studio/377/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 24
-#EXTVLCOPT--http-reconnect=true
 https://linear-378.frequency.stream/mt/studio/378/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 25
-#EXTVLCOPT--http-reconnect=true
 https://linear-379.frequency.stream/mt/studio/379/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 26
-#EXTVLCOPT--http-reconnect=true
 https://linear-380.frequency.stream/mt/studio/380/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 27
-#EXTVLCOPT--http-reconnect=true
 https://linear-381.frequency.stream/mt/studio/381/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 28
-#EXTVLCOPT--http-reconnect=true
 https://linear-382.frequency.stream/mt/studio/382/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 29
-#EXTVLCOPT--http-reconnect=true
 https://linear-383.frequency.stream/mt/studio/383/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 30
-#EXTVLCOPT--http-reconnect=truel
 https://linear-384.frequency.stream/mt/studio/384/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 31
-#EXTVLCOPT--http-reconnect=true
 https://linear-385.frequency.stream/mt/studio/385/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 32
-#EXTVLCOPT--http-reconnect=true
 https://linear-386.frequency.stream/mt/studio/386/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Bics DEPORTES", MX: MLB
-#EXTVLCOPT--http-reconnect=true
 https://linear-508.frequency.stream/mt/studio/508/hls/master/playlist.m3u8
 
 ******************************************* rasta  ******************************************************************************
 
 #EXTINF:-1 group-title="Bics DEPORTES",Claro Sport
 http://181.78.105.146:2000/play/a053/index.m3u8
+
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN 2
 http://181.78.105.146:2000/play/a063/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN
