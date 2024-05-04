@@ -614,8 +614,8 @@ http://131.161.53.2:8000/play/a02h/index.m3u8
 
 ****************************************************************************************************************************
 
-***** #EXTINF:-1 group-title="Bics Extra INFINITV",Sony
-***** http://167.114.156.136:25461/INFINITV/ZX89NM22/53
+#EXTINF:-1 group-title="Bics Extra INFINITV",Sony
+http://167.114.156.136:25461/INFINITV/ZX89NM22/53
 ***** #EXTINF:-1 group-title="Bics Extra INFINITV",TNT
 ***** http://167.114.156.136:25461/INFINITV/ZX89NM22/57
 ***** #EXTINF:-1 group-title="Bics Extra INFINITV",Nick Jr
