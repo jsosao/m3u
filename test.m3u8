@@ -1,13 +1,13 @@
 #EXTM3U
 
-************************  07/MAY/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  08/MAY/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ************************ HI, THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", CANAL_070520241100
+#EXTINF:-1 group-title="Bics", CANAL_080520241100
 https://raw.githubusercontent.com/jsosao/m3u/main/patron.m3u8
 
 #EXTINF:-1 group-title="Bics", MX: AZTECA UNO
@@ -29,16 +29,10 @@ https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS LATAM
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: IMAGEN TV
-http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/634
-#EXTINF:-1 group-title="Bics", MX: IMAGEN TV
 http://181.78.105.146:2000/play/a00h/index.m3u8
 #EXTINF:-1 group-title="Bics", MX: IMAGEN TV
-http://offshore.lat:8080/play/bq1kcP4wdruyKPjdxr4WQmgOSpfYaH-hlpEAapLYzOTt4d42WzLrTPfjm8GpQetu
-#EXTINF:-1 group-title="Bics", MX: IMAGEN TV
-http://offshore.lat:8080/play/Zu9aemvltwDpgcDabpCYgFSeBlQ63MxPIKKTQ4fKHKE
-#EXTINF:-1 group-title="Bics", MX: IMAGEN TV
 http://offshore.lat:8080/play/Zu9aemvltwDpgcDabpCYgEtiYiPV0okojPY1U0s6GG4
-#EXTINF:-1 group-title="Bics", MX: IMAGEN TV
+#EXTINF:-1 group-title="Bics", MX: IMAGEN TV -1 HR
 https://r.mjh.nz/PlutoTV/64e35aff6b1fdb0008ea8441-alt.m3u8
 
 #EXTINF:-1 group-title="Bics", MX: CANAL 5
@@ -202,6 +196,13 @@ https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 ***** #EXTINF:-1 group-title="Bics Extra Latino", COL: RCN
 ***** http://c24u.xyz:8080/GUILLERMO/GUILLERMO/332487
+
+
+#EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 12
+https://alba-sv-c12-c12.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 21
+https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
 
 ***************************************************************   **************************************************************************************
 
