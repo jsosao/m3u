@@ -1,13 +1,13 @@
 #EXTM3U
 
-************************  02/MAY/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  08/MAY/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ************************ HI, THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", CANAL_020520241100
+#EXTINF:-1 group-title="Bics", CANAL_080520241100
 https://raw.githubusercontent.com/jsosao/m3u/main/patron.m3u8
 
 #EXTINF:-1 group-title="Bics", MX: AZTECA UNO
@@ -29,11 +29,12 @@ https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS LATAM
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: IMAGEN TV
-http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/634
-#EXTINF:-1 group-title="Bics", MX: IMAGEN TV
 http://181.78.105.146:2000/play/a00h/index.m3u8
 #EXTINF:-1 group-title="Bics", MX: IMAGEN TV
-http://rasaiptv.com:8080/Mikela0412/HrbrZnqqeerB/226240
+http://offshore.lat:8080/play/Zu9aemvltwDpgcDabpCYgEtiYiPV0okojPY1U0s6GG4
+#EXTINF:-1 group-title="Bics", MX: IMAGEN TV -1 HR
+https://r.mjh.nz/PlutoTV/64e35aff6b1fdb0008ea8441-alt.m3u8
+
 #EXTINF:-1 group-title="Bics", MX: CANAL 5
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", MX: CANAL 5
@@ -152,37 +153,31 @@ https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=3
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=7200
 #EXTINF:-1 group-title="Bics Extra Latino", PA: TV  Max
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-#EXTINF:-1 group-title="Bics Extra Latino", PA: TV  Max
-http://rasaiptv.com:8080/Mikela0412/HrbrZnqqeerB/135618
-#EXTINF:-1 group-title="Bics Extra Latino", PA: TV  Max
-http://rasaiptv.com:8080/Mikela0412/HrbrZnqqeerB/135619
 #EXTINF:-1 group-title="Bics Extra Latino", AR: TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 2
-http://rasaiptv.com:8080/Mikela0412/HrbrZnqqeerB/50478
+http://offshore.lat:8080/play/bq1kcP4wdruyKPjdxr4WQmPYoGL_ZtM3ajF0k-Z9zDvJkV2eRv2XTaSuuDRQTfuw
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 4
-http://rasaiptv.com:8080/Mikela0412/HrbrZnqqeerB/50474
+http://offshore.lat:8080/play/bq1kcP4wdruyKPjdxr4WQgcTVutEZPqQx13BuGzk5mCrgcQF08peXBmDm54mgL6E
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 10
-http://rasaiptv.com:8080/Mikela0412/HrbrZnqqeerB/76650
+http://offshore.lat:8080/play/bq1kcP4wdruyKPjdxr4WQgcTVutEZPqQx13BuGzk5mCaklAVAU74HvHxwLQteL5U
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 12
-http://rasaiptv.com:8080/Mikela0412/HrbrZnqqeerB/50481
+http://offshore.lat:8080/play/bq1kcP4wdruyKPjdxr4WQgcTVutEZPqQx13BuGzk5mB7qWsku2aS8bdqR6dO4UfE
 
 #EXTINF:-1 group-title="Bics Extra Latino", EC: ECUAVISA
-http://rasaiptv.com:8080/Mikela0412/HrbrZnqqeerB/309
+http://offshore.lat:8080/play/bq1kcP4wdruyKPjdxr4WQrS4tZxhQFmHiarkD2_fGsz9n-rJrDWWJ1XMzZ8d0TRm
 
 #EXTINF:-1 group-title="Bics Extra Latino", CO: CARACOL
-http://rasaiptv.com:8080/KleverJumbo/KJ2354fg/69251
+http://offshore.lat:8080/play/bq1kcP4wdruyKPjdxr4WQv3-LynuF66pQqN8XdK05LHwhA9jjQHCkdrTZVdP-BgE
 #EXTINF:-1 group-title="Bics Extra Latino", CO: CARACOL
-http://rasaiptv.com:8080/KleverJumbo/KJ2354fg/69253
+http://offshore.lat:8080/play/bq1kcP4wdruyKPjdxr4WQv3-LynuF66pQqN8XdK05LGK1y__GEzXRq7mlcZpr7RP
 #EXTINF:-1 group-title="Bics Extra Latino", CO: CARACOL INTERNACIONAL
-http://rasaiptv.com:8080/KleverJumbo/KJ2354fg/69257
+http://offshore.lat:8080/play/bq1kcP4wdruyKPjdxr4WQqN7ViU9Xl4Gx9whbcbtS9Zwrvedzykf7NgZyBW_-GJF
 #EXTINF:-1 group-title="Bics Extra Latino", CO: RCN
-http://rasaiptv.com:8080/KleverJumbo/KJ2354fg/69266
-#EXTINF:-1 group-title="Bics Extra Latino", CO: RCN INTERNACIONAL
-http://rasaiptv.com:8080/KleverJumbo/KJ2354fg/69269
-
-
+http://offshore.lat:8080/play/bq1kcP4wdruyKPjdxr4WQibV7z9141DI4v4WYtG2f6HKYvnfWHw5uArtLtVnXyRH
+#EXTINF:-1 group-title="Bics Extra Latino", CO: RCN
+http://offshore.lat:8080/play/bq1kcP4wdruyKPjdxr4WQv3-LynuF66pQqN8XdK05LHa36S2tsLI_L6thpD27jQe
 
 ************* pepe *******************
 
@@ -201,6 +196,13 @@ https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 ***** #EXTINF:-1 group-title="Bics Extra Latino", COL: RCN
 ***** http://c24u.xyz:8080/GUILLERMO/GUILLERMO/332487
+
+
+#EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 12
+https://alba-sv-c12-c12.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 21
+https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
 
 ***************************************************************   **************************************************************************************
 
@@ -349,6 +351,8 @@ https://ythls-v2.onrender.com/channel/UCNdXA4Pwn62ODvfZ7S93Y6w.m3u8
 https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMjQgMjoxMTowMCBQTSZoYXNoX3ZhbHVlPU4wVjQzbXkrS3J5ZUF0ZmIvWWsyQWc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9&DVR
 #EXTINF:-1 group-title="Bics REGIONALES", CDMX: ONCE
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:-1 group-title="Bics REGIONALES", CDMX: ONCE
+http://offshore.lat:8080/play/mw1jQF04XfZyVNF4AWnYbHZplT5smn-cMzmZ7l5koQY
 #EXTINF:-1 group-title="Bics REGIONALES", CDMX: CANAL ONCE.3 DIGITAL
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", CDMX: CANAL 22
@@ -466,7 +470,6 @@ https://ythls-v2.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", VER: RTV  VERACRUZ
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
-
 #EXTINF:-1 group-title="Bics REGIONALES", YUC: TELEVISA YUCATAN
 https://ythls-v2.onrender.com/channel/UCMIYaH2cLoPS8Hcb-9AA2ZA.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", YUC: TELEPLAY
@@ -479,6 +482,11 @@ https://ythls-v2.onrender.com/channel/UCQb3i7gu9J8A4zzQU7j6C1Q.m3u8
 
 
 ********************************************* CANALES DEPORTES Y YOUTUBE  ********************************************************************************
+******** emilio *********
+#EXTINF:-1 group-title="Bics DEPORTES", MX: TVC
+http://offshore.lat:8080/play/mw1jQF04XfZyVNF4AWnYbIYL4P7nutKO0OcMBGz2woY
+#EXTINF:-1 group-title="Bics DEPORTES", MX: FOX SPORTS ESPAÑOL
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
 #EXTINF:-1 group-title="Bics DEPORTES", MX: INTERNETV DEPORTES
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
