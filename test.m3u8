@@ -204,6 +204,11 @@ https://alba-sv-c12-c12.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
 
+#EXTINF:-1 group-title="Bics Extra Latino", CL: TVN 3
+https://us-b4-p-e-pb13.cdn.mdstrm.com/live-stream-dai/d2b036979dea4d2ab514dfdbb98598af/manifest/f624fec49dadc88894ebeff1d974eab019af7757/5653641561b4eba30a7e4929/d652fe85-771d-4975-8484-490b1a715800/1.m3u8
+#EXTINF:-1 group-title="Bics Extra Latino", CL: 24 HRS
+https://us-b4-p-e-pb13.cdn.mdstrm.com/live-stream-dai/89a610ef8f184c9397193267ff661ee2/manifest/f624fec49dadc88894ebeff1d974eab019af7757/57d1a22064f5d85712b20dab/77ad66dc-31e8-4f4b-84d2-07316f78d9d1/1.m3u8
+
 ***************************************************************   **************************************************************************************
 
 #EXTINF:-1 group-title="Bics Extra US", AL JAZEERA EN
