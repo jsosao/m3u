@@ -225,16 +225,18 @@ https://ythls-v2.onrender.com/channel/UCe3Ev4a4Sm9L5aO9sJJ_WXw.m3u8
 https://ythls-v2.onrender.com/channel/UCUf4RLsG_TsjinvtL2jT-VA.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: Hi SPORTS TV
 https://ythls-v2.onrender.com/channel/UCpWPnP8s0YbVpzhzg6Pk2iA.m3u8
-
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: INTERNETV DEPORTES
-https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: CLARO SPORTS
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: INTERNETV DEPORTES
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: INTERNETV DEPORTES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: AYM SPORTS
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: AYM SPORTS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: CANAL ONCE
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: CANAL 22
 https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDExOjQ2OjAzIFBNJmhhc2hfdmFsdWU9WmpCTERYMHh6UVVzcTJ0cmtNd25mQT09JnZhbGlkbWludXRlcz01JmlkPQ==
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: NRT MEXICO
@@ -390,8 +392,13 @@ https://ythls-v2.onrender.com/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", MEX: IMAGEN TV
 https://ythls-v2.onrender.com/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 
+#EXTINF:-1 group-title="Bics REGIONALES", MICH: SMRT
+https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
+
 #EXTINF:-1 group-title="Bics REGIONALES", MOR: TELEVISA MORELOS
 https://ythls-v2.onrender.com/channel/UCcC9ykApQrgl4UxbKg2U4zw.m3u8
+#EXTINF:-1 group-title="Bics REGIONALES", MOR: 15.1
+https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", NL: TELEVISA MONTERREY
 https://ythls-v2.onrender.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg.m3u8
