@@ -1,13 +1,13 @@
 #EXTM3U
 
-************************  11/MAY/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  13/MAY/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ************************ HI, THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", CANAL_110520241100
+#EXTINF:-1 group-title="Bics", CANAL_130520241100
 https://raw.githubusercontent.com/jsosao/m3u/main/patron.m3u8
 
 #EXTINF:-1 group-title="Bics", MX: AZTECA UNO
@@ -34,7 +34,6 @@ http://181.78.105.146:2000/play/a00h/index.m3u8
 http://offshore.lat:8080/play/Zu9aemvltwDpgcDabpCYgEtiYiPV0okojPY1U0s6GG4
 #EXTINF:-1 group-title="Bics", MX: IMAGEN TV -1 HR
 https://r.mjh.nz/PlutoTV/64e35aff6b1fdb0008ea8441-alt.m3u8
-
 #EXTINF:-1 group-title="Bics", MX: CANAL 5
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", MX: CANAL 5
@@ -81,7 +80,6 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 https://linear-300.frequency.stream/mt/studio/300/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: N+ MEDIA
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
-
 #EXTINF:-1 group-title="Bics", MX: N+ MEDIA
 https://linear-301.frequency.stream/mt/studio/301/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: N+
@@ -165,9 +163,6 @@ http://offshore.lat:8080/play/bq1kcP4wdruyKPjdxr4WQgcTVutEZPqQx13BuGzk5mCaklAVAU
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 12
 http://offshore.lat:8080/play/bq1kcP4wdruyKPjdxr4WQgcTVutEZPqQx13BuGzk5mB7qWsku2aS8bdqR6dO4UfE
 
-#EXTINF:-1 group-title="Bics Extra Latino", EC: ECUAVISA
-http://offshore.lat:8080/play/bq1kcP4wdruyKPjdxr4WQrS4tZxhQFmHiarkD2_fGsz9n-rJrDWWJ1XMzZ8d0TRm
-
 #EXTINF:-1 group-title="Bics Extra Latino", CO: CARACOL
 http://offshore.lat:8080/play/bq1kcP4wdruyKPjdxr4WQv3-LynuF66pQqN8XdK05LHwhA9jjQHCkdrTZVdP-BgE
 #EXTINF:-1 group-title="Bics Extra Latino", CO: CARACOL
@@ -181,12 +176,16 @@ http://offshore.lat:8080/play/bq1kcP4wdruyKPjdxr4WQv3-LynuF66pQqN8XdK05LHa36S2ts
 
 ************* pepe *******************
 
+#EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 2
+https://telecorporacion.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/live-video=144960.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 4
 https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 6
 https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 12
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 57
+https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 
 ************ bodega *******************
 
@@ -194,20 +193,14 @@ https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", PE: PANAMERICANA
 https://cdnhd.iblups.com/hls/ptv5.m3u8
-***** #EXTINF:-1 group-title="Bics Extra Latino", COL: RCN
-***** http://c24u.xyz:8080/GUILLERMO/GUILLERMO/332487
 
+
+***************************************************************   **************************************************************************************
 
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 12
 https://alba-sv-c12-c12.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
-
-#EXTINF:-1 group-title="Bics Extra Latino", CL: TVN 3
-https://us-b4-p-e-pb13.cdn.mdstrm.com/live-stream-dai/d2b036979dea4d2ab514dfdbb98598af/manifest/f624fec49dadc88894ebeff1d974eab019af7757/5653641561b4eba30a7e4929/d652fe85-771d-4975-8484-490b1a715800/1.m3u8
-#EXTINF:-1 group-title="Bics Extra Latino", CL: 24 HRS
-https://us-b4-p-e-pb13.cdn.mdstrm.com/live-stream-dai/89a610ef8f184c9397193267ff661ee2/manifest/f624fec49dadc88894ebeff1d974eab019af7757/57d1a22064f5d85712b20dab/77ad66dc-31e8-4f4b-84d2-07316f78d9d1/1.m3u8
 
 ***************************************************************   **************************************************************************************
 
@@ -223,17 +216,6 @@ http://181.78.105.146:2000/play/a08m/index.m3u8
 
 #EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 01
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
-
-***** #EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 02
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/480
-***** #EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 03
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/481
-***** #EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 04
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/482
-***** #EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 05
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/483
-***** #EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 06
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1130
 
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: LMB OFICIAL
 https://ythls-v2.onrender.com/channel/UCK2zXiKpzbIrooNi6oRBLvg.m3u8
@@ -305,17 +287,6 @@ https://ythls-v2.onrender.com/channel/UC4mSfK49CGFZPrRK50xPS6w.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", MX: MADO REPORT DEPORTES (SOLO EN PARTIDO)
 https://ythls-v2.onrender.com/channel/UCB8Tv4_FgS5-JYezqShFDKQ.m3u8
 
-***** #EXTINF:-1 group-title="Bics DEPORTES MLS", MLS 01	
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1078
-
-***** #EXTINF:-1 group-title="Bics DEPORTES CONCACAF", CONCACAF 01
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/31
-***** #EXTINF:-1 group-title="Bics DEPORTES CONCACAF", CONCACAF 02
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/32
-***** #EXTINF:-1 group-title="Bics DEPORTES CONCACAF", CONCACAF 03
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/900
-***** #EXTINF:-1 group-title="Bics DEPORTES CONCACAF", CONCACAF 04
-***** https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/901
 
 ***************************************************************   **************************************************************************************
 
@@ -388,7 +359,6 @@ https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 https://ythls-v2.onrender.com/channel/UCON7DvLd5N8tXivc9WqILxQ.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", DGO: CANAL 10
 https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
-
 
 #EXTINF:-1 group-title="Bics REGIONALES", EDOMEX: MEXIQUENSE
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
@@ -516,68 +486,69 @@ https://linear-508.frequency.stream/mt/studio/508/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FOX SPORTS 1
 https://vivo.lamtv.tv:8081/a/0175/playlist.m3u8
 
-#EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 2
+#EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 1
 https://linear-439.frequency.stream/mt/studio/439/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 3
-https://linear-440.frequency.stream/mt/studio/440/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 4
-https://linear-441.frequency.stream/mt/studio/441/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 5
-https://linear-442.frequency.stream/mt/studio/442/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 6
-https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 7
-https://linear-361.frequency.stream/mt/studio/361/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 8
-https://linear-362.frequency.stream/mt/studio/362/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 9
-https://linear-363.frequency.stream/mt/studio/363/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 10
-https://linear-364.frequency.stream/mt/studio/364/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 11
-https://linear-365.frequency.stream/mt/studio/365/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 12
-https://linear-366.frequency.stream/mt/studio/366/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 13
-https://linear-367.frequency.stream/mt/studio/367/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 14
-https://linear-368.frequency.stream/mt/studio/368/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 15
-https://linear-369.frequency.stream/mt/studio/369/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 16
-https://linear-370.frequency.stream/mt/studio/370/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 17
-https://linear-371.frequency.stream/mt/studio/371/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 18
-https://linear-372.frequency.stream/mt/studio/372/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 19
-https://linear-373.frequency.stream/mt/studio/373/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 20
-https://linear-374.frequency.stream/mt/studio/374/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 21
-https://linear-375.frequency.stream/mt/studio/375/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 22
-https://linear-376.frequency.stream/mt/studio/376/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 23
-https://linear-377.frequency.stream/mt/studio/377/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 24
-https://linear-378.frequency.stream/mt/studio/378/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 25
-https://linear-379.frequency.stream/mt/studio/379/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 26
-https://linear-380.frequency.stream/mt/studio/380/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 27
-https://linear-381.frequency.stream/mt/studio/381/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 28
-https://linear-382.frequency.stream/mt/studio/382/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 29
-https://linear-383.frequency.stream/mt/studio/383/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 30
-https://linear-384.frequency.stream/mt/studio/384/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 31
-https://linear-385.frequency.stream/mt/studio/385/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 32
-https://linear-386.frequency.stream/mt/studio/386/hls/master/playlist.m3u8
+
+***** #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 3
+***** https://linear-440.frequency.stream/mt/studio/440/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 4
+***** https://linear-441.frequency.stream/mt/studio/441/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 5
+***** https://linear-442.frequency.stream/mt/studio/442/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 6
+***** https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 7
+***** https://linear-361.frequency.stream/mt/studio/361/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 8
+***** https://linear-362.frequency.stream/mt/studio/362/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 9
+***** https://linear-363.frequency.stream/mt/studio/363/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 10
+***** https://linear-364.frequency.stream/mt/studio/364/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 11
+***** https://linear-365.frequency.stream/mt/studio/365/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 12
+***** https://linear-366.frequency.stream/mt/studio/366/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 13
+***** https://linear-367.frequency.stream/mt/studio/367/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 14
+***** https://linear-368.frequency.stream/mt/studio/368/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 15
+***** https://linear-369.frequency.stream/mt/studio/369/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 16
+***** https://linear-370.frequency.stream/mt/studio/370/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 17
+***** https://linear-371.frequency.stream/mt/studio/371/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 18
+***** https://linear-372.frequency.stream/mt/studio/372/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 19
+***** https://linear-373.frequency.stream/mt/studio/373/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 20
+***** https://linear-374.frequency.stream/mt/studio/374/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 21
+***** https://linear-375.frequency.stream/mt/studio/375/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 22
+***** https://linear-376.frequency.stream/mt/studio/376/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 23
+***** https://linear-377.frequency.stream/mt/studio/377/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 24
+***** https://linear-378.frequency.stream/mt/studio/378/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 25
+***** https://linear-379.frequency.stream/mt/studio/379/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 26
+***** https://linear-380.frequency.stream/mt/studio/380/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 27
+***** https://linear-381.frequency.stream/mt/studio/381/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 28
+***** https://linear-382.frequency.stream/mt/studio/382/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 29
+***** https://linear-383.frequency.stream/mt/studio/383/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 30
+***** https://linear-384.frequency.stream/mt/studio/384/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 31
+***** https://linear-385.frequency.stream/mt/studio/385/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 32
+***** https://linear-386.frequency.stream/mt/studio/386/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Bics DEPORTES", MX: MLB
 https://linear-508.frequency.stream/mt/studio/508/hls/master/playlist.m3u8
