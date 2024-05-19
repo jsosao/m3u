@@ -1,17 +1,14 @@
 #EXTM3U
 
-************************  13/MAY/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  19/MAY/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ************************ HI, THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", CANAL_130520241100
+#EXTINF:-1 group-title="Bics", CANAL_190520241100
 https://raw.githubusercontent.com/jsosao/m3u/main/patron.m3u8
-
-#EXTINF:-1 group-title="Bics", CANALee
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195
 
 #EXTINF:-1 group-title="Bics", MX: AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
@@ -129,6 +126,7 @@ https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: BANDAMAX
 https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 
+
 *******************************************************************************************************************************************************************
 
 #EXTINF:-1 group-title="Bics Extra Latino", PR: UNIVISION
@@ -143,6 +141,14 @@ https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca5029201
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="Bics Extra US", US: NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+***************  rasta ***************
+#EXTINF:-1 group-title="Bics Extra US", UNIVERSO
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195
+#EXTINF:-1 group-title="Bics Extra US", ESPN DEPORTES
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158831
+#EXTINF:-1 group-title="Bics Extra US", FOX DEPORTES
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158838
 
 ***************  emilio ***************
 
