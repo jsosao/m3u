@@ -22,12 +22,12 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 ***** https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS
 https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS -1HR
-https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS -2HR
-https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS LATAM
-https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS -1HR
+***** https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS -2HR
+***** https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS LATAM
+***** https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: IMAGEN TV
 http://181.78.105.146:2000/play/a00h/index.m3u8
 #EXTINF:-1 group-title="Bics", MX: IMAGEN TV
@@ -36,8 +36,8 @@ http://offshore.lat:8080/play/Zu9aemvltwDpgcDabpCYgEtiYiPV0okojPY1U0s6GG4
 https://r.mjh.nz/PlutoTV/64e35aff6b1fdb0008ea8441-alt.m3u8
 #EXTINF:-1 group-title="Bics", MX: CANAL 5
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
-#EXTINF:-1 group-title="Bics", MX: CANAL 5
-https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics", MX: CANAL 5
+***** https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: MULTIMEDIOS MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 group-title="Bics", MX: MULTIMEDIOS LAGUNA
@@ -52,8 +52,8 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 group-title="Bics", MX: NU9VE
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
-#EXTINF:-1 group-title="Bics", MX: NU9VE
-https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics", MX: NU9VE
+***** https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1  group-title="Bics", MX: A+
@@ -62,26 +62,26 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 group-title="Bics", MX: MILENIO
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:-1 group-title="Bics", MX: 4 GDL
-https://linear-402.frequency.stream/mt/studio/402/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", MX: 8 MTY
-https://linear-403.frequency.stream/mt/studio/403/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", MX: UNICABLE
-https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", MX: UNIVISION
-https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", MX: UNIVISION 24/7
-https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics", MX: 4 GDL
+***** https://linear-402.frequency.stream/mt/studio/402/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics", MX: 8 MTY
+***** https://linear-403.frequency.stream/mt/studio/403/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics", MX: UNICABLE
+***** https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics", MX: UNIVISION
+***** https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics", MX: UNIVISION 24/7
+***** https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: EURO NEWS
 https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-#EXTINF:-1 group-title="Bics", MX: FORO TV
-https://linear-300.frequency.stream/mt/studio/300/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics", MX: FORO TV
+***** https://linear-300.frequency.stream/mt/studio/300/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: N+ MEDIA
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
-#EXTINF:-1 group-title="Bics", MX: N+ MEDIA
-https://linear-301.frequency.stream/mt/studio/301/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics", MX: N+ MEDIA
+***** https://linear-301.frequency.stream/mt/studio/301/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: N+
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", MX: N+ GDL
@@ -89,26 +89,26 @@ https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
 #EXTINF:-1 group-title="Bics", MX: N+ MTY
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
 ***** https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8
-#EXTINF:-1 group-title="Bics", MX: GOLDEN
-https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", MX: GOLDEN
-https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", MX: GOLDEN
-https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", MX: GOLDEN PLUS
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", MX: GOLDEN PLUS
-https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", MX: GOLDEN PREMIER
-https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", MX: EDGE
-https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", MX: DPELICULA
-https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", MX: DPELICULA PLUS
-https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", MX: DISTRITO COMEDIA
-https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics", MX: GOLDEN
+***** https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics", MX: GOLDEN
+***** https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics", MX: GOLDEN
+***** https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics", MX: GOLDEN PLUS
+***** https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics", MX: GOLDEN PLUS
+***** https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics", MX: GOLDEN PREMIER
+***** https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics", MX: EDGE
+***** https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics", MX: DPELICULA
+***** https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics", MX: DPELICULA PLUS
+***** https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics", MX: DISTRITO COMEDIA
+***** https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: VIVO PLAY
 https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: NUESTRA VISION
@@ -123,8 +123,8 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 https://ythls-v2.onrender.com/channel/UCjhq1eY5Ce1TGOn2JbGnHsw.m3u8
 #EXTINF:-1 group-title="Bics", MX: CÑÑ
 https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", MX: BANDAMAX
-https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics", MX: BANDAMAX
+***** https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 
 
 *******************************************************************************************************************************************************************
@@ -202,7 +202,6 @@ https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", PE: PANAMERICANA
 https://cdnhd.iblups.com/hls/ptv5.m3u8
-
 
 ***************************************************************   **************************************************************************************
 
