@@ -1,13 +1,13 @@
 #EXTM3U
 
-************************  19/MAY/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  27/MAY/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ************************ HI, THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", CANAL_190520241100
+#EXTINF:-1 group-title="Bics", CANAL_270520241100
 https://raw.githubusercontent.com/jsosao/m3u/main/patron.m3u8
 
 #EXTINF:-1 group-title="Bics", MX: AZTECA UNO
@@ -19,15 +19,14 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 ***** https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 ***** https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
-***** https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS
-https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
+https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
 ***** #EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS -1HR
 ***** https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
 ***** #EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS -2HR
 ***** https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS LATAM
-***** https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", MX: LAS ESTRELLAS LATAM
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: IMAGEN TV
 http://181.78.105.146:2000/play/a00h/index.m3u8
 #EXTINF:-1 group-title="Bics", MX: IMAGEN TV
@@ -35,8 +34,8 @@ http://offshore.lat:8080/play/Zu9aemvltwDpgcDabpCYgEtiYiPV0okojPY1U0s6GG4
 #EXTINF:-1 group-title="Bics", MX: IMAGEN TV -1 HR
 https://r.mjh.nz/PlutoTV/64e35aff6b1fdb0008ea8441-alt.m3u8
 #EXTINF:-1 group-title="Bics", MX: CANAL 5
-https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: CANAL 5
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
+***** https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 ***** https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: MULTIMEDIOS MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
@@ -164,24 +163,24 @@ https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/60580
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 2
-http://offshore.lat:8080/play/bq1kcP4wdruyKPjdxr4WQmPYoGL_ZtM3ajF0k-Z9zDvJkV2eRv2XTaSuuDRQTfuw
+http://galaxypro.online:8080/X2u6jNqEqKq5/x8s2yZHn2W45/226828
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 4
-http://offshore.lat:8080/play/bq1kcP4wdruyKPjdxr4WQgcTVutEZPqQx13BuGzk5mCrgcQF08peXBmDm54mgL6E
+http://galaxypro.online:8080/X2u6jNqEqKq5/x8s2yZHn2W45/226832
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 10
-http://offshore.lat:8080/play/bq1kcP4wdruyKPjdxr4WQgcTVutEZPqQx13BuGzk5mCaklAVAU74HvHxwLQteL5U
+http://galaxypro.online:8080/X2u6jNqEqKq5/x8s2yZHn2W45/374597
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 12
-http://offshore.lat:8080/play/bq1kcP4wdruyKPjdxr4WQgcTVutEZPqQx13BuGzk5mB7qWsku2aS8bdqR6dO4UfE
+http://galaxypro.online:8080/X2u6jNqEqKq5/x8s2yZHn2W45/79036
 
 #EXTINF:-1 group-title="Bics Extra Latino", CO: CARACOL
-http://offshore.lat:8080/play/bq1kcP4wdruyKPjdxr4WQv3-LynuF66pQqN8XdK05LHwhA9jjQHCkdrTZVdP-BgE
+http://galaxypro.online:8080/X2u6jNqEqKq5/x8s2yZHn2W45/93767
 #EXTINF:-1 group-title="Bics Extra Latino", CO: CARACOL
-http://offshore.lat:8080/play/bq1kcP4wdruyKPjdxr4WQv3-LynuF66pQqN8XdK05LGK1y__GEzXRq7mlcZpr7RP
+http://galaxypro.online:8080/X2u6jNqEqKq5/x8s2yZHn2W45/93746
 #EXTINF:-1 group-title="Bics Extra Latino", CO: CARACOL INTERNACIONAL
-http://offshore.lat:8080/play/bq1kcP4wdruyKPjdxr4WQqN7ViU9Xl4Gx9whbcbtS9Zwrvedzykf7NgZyBW_-GJF
+http://galaxypro.online:8080/X2u6jNqEqKq5/x8s2yZHn2W45/93747
 #EXTINF:-1 group-title="Bics Extra Latino", CO: RCN
-http://offshore.lat:8080/play/bq1kcP4wdruyKPjdxr4WQibV7z9141DI4v4WYtG2f6HKYvnfWHw5uArtLtVnXyRH
-#EXTINF:-1 group-title="Bics Extra Latino", CO: RCN
-http://offshore.lat:8080/play/bq1kcP4wdruyKPjdxr4WQv3-LynuF66pQqN8XdK05LHa36S2tsLI_L6thpD27jQe
+http://galaxypro.online:8080/X2u6jNqEqKq5/x8s2yZHn2W45/90151
+#EXTINF:-1 group-title="Bics Extra Latino", CO: RCN INTERACIONAL
+http://galaxypro.online:8080/X2u6jNqEqKq5/x8s2yZHn2W45/93751
 
 ************* pepe *******************
 
@@ -325,6 +324,8 @@ https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", CAM: TRC
 https://ythls-v2.onrender.com/channel/UCNdXA4Pwn62ODvfZ7S93Y6w.m3u8
 
+#EXTINF:-1 group-title="Bics REGIONALES", CDMX: A+
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", CDMX: CANAL UNAM
 https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMjQgMjoxMTowMCBQTSZoYXNoX3ZhbHVlPU4wVjQzbXkrS3J5ZUF0ZmIvWWsyQWc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9&DVR
 #EXTINF:-1 group-title="Bics REGIONALES", CDMX: ONCE
