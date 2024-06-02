@@ -1,13 +1,13 @@
 #EXTM3U
 
-************************  27/MAY/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  02/JUN/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ************************ HI, THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", CANAL_270520241100
+#EXTINF:-1 group-title="Bics", CANAL_020620241100
 https://raw.githubusercontent.com/jsosao/m3u/main/patron.m3u8
 
 #EXTINF:-1 group-title="Bics", MX: AZTECA UNO
@@ -37,6 +37,20 @@ https://r.mjh.nz/PlutoTV/64e35aff6b1fdb0008ea8441-alt.m3u8
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
 ***** https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 ***** https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Bics", MX: MULTIMEDIOS CDMX
+https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream-dai/fd14abc7469044808acf8cd0eb9ae9e2/manifest/f624fec49dadc88894ebeff1d974eab019af7757/5f2d9d6ff17144074bd8a284/e2c185f3-7742-4a27-bddb-71c8d2e13942/0.m3u8
+#EXTINF:-1 group-title="Bics", MX: MULTIMEDIOS MTY
+https://us-b4-p-e-cg11.cdn.mdstrm.com/live-stream-dai/56a3e60cbd7f4933b1c97937668b884d/manifest/f624fec49dadc88894ebeff1d974eab019af7757/57b4dbf5dbbfc8f16bb63ce1/d4ccd42c-31e5-493e-a5b7-e3d1c703580c/0.m3u8
+
+#EXTINF:-1 group-title="Bics", MX: MULTIMEDIOS LAGUNA
+https://us-b4-p-e-mg17.cdn.mdstrm.com/live-stream/57bf686a61ff39e1085d43e1/publish/media_2000.m3u8
+#EXTINF:-1 group-title="Bics", MX: MULTIMEDIOS PUEBLA
+https://us-b4-p-e-mg17.cdn.mdstrm.com/live-stream/5d56ed29c92dd106ff01543b/publish/media_1200.m3u8
+#EXTINF:-1 group-title="Bics", MX: MULTIMEDIOS GDL
+https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream/5c54d38ca392a5119bb0aa0d/publish/media_2000.m3u8
+
 #EXTINF:-1 group-title="Bics", MX: MULTIMEDIOS MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 group-title="Bics", MX: MULTIMEDIOS LAGUNA
