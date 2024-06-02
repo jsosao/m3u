@@ -54,6 +54,8 @@ https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 #EXTINF:-1 group-title="Bics", MX: MULTIMEDIOS PUEBLA
 https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 #EXTINF:-1 group-title="Bics", MX: AZTECA 7
+https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 group-title="Bics", MX: AZTECA 7 1
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 group-title="Bics", MX: AZTECA 7 2
 https://mdstrm.com/live-stream-gdai/609ad46a7a441137107d7a81/linear/hls/pa/event/PNEbbcJZRAaP4wDlQMW2LA/stream/426b7dd5-4435-405d-84ed-ab47f92898ef:MRN2/master.m3u8
@@ -340,15 +342,16 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMjQgMjoxMTowMCBQTSZoYXNoX3ZhbHVlPU4wVjQzbXkrS3J5ZUF0ZmIvWWsyQWc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9&DVR
 #EXTINF:-1 group-title="Bics REGIONALES", CDMX: ONCE
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-#EXTINF:-1 group-title="Bics REGIONALES", CDMX: ONCE
-http://offshore.lat:8080/play/mw1jQF04XfZyVNF4AWnYbHZplT5smn-cMzmZ7l5koQY
+#EXTINF:-1 group-title="Bics REGIONALES", CDMX: ONCE DOS
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", CDMX: CANAL ONCE.3 DIGITAL
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
+#EXTINF:-1 group-title="Bics REGIONALES", CDMX: CANAL 14
+https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/mono.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", CDMX: CANAL 22
-https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDExOjQ2OjAzIFBNJmhhc2hfdmFsdWU9WmpCTERYMHh6UVVzcTJ0cmtNd25mQT09JnZhbGlkbWludXRlcz01JmlkPQ==
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", CDMX: CANAL 22.2
-https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDExOjQ5OjA5IFBNJmhhc2hfdmFsdWU9dmZ0MEZRMTMwZ3J6V3hXNndXeDFIUT09JnZhbGlkbWludXRlcz01JmlkPQ==
-
+https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", CUA: TELEVISA CD. JUAREZ
 https://ythls-v2.onrender.com/channel/UCot4t8PVKz8TT5xVM8Eb00w.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", CUA: CANAL 44 Chihuahua
@@ -357,8 +360,12 @@ https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 https://ythls-v2.onrender.com/channel/UCxK8C1E8UZ5RipNXIBYEvTA.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", COA: TELEVISA SALTILLO
 https://ythls-v2.onrender.com/channel/UCpeD73Gb4KjKUL2gyoJ4gLw.m3u8
-#EXTINF:-1 group-title="Bics REGIONALES", COA: RCG MEDIA
+#EXTINF:-1 group-title="Bics REGIONALES", COA: RCG
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+#EXTINF:-1 group-title="Bics REGIONALES", COA: RCG .2
+https://video1.getstreamhosting.com:1936/8246/8246/playlist.m3u8
+#EXTINF:-1 group-title="Bics REGIONALES", COA: RCG .3
+https://video1.getstreamhosting.com:1936/8032/8032/playlist.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", COA: MULTIMEDIOS LAGUNA
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 
@@ -375,6 +382,8 @@ https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", CHIAP: CANAL 10
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+#EXTINF:-1 group-title="Bics REGIONALES", CHIAP: CANAL 13
+https://alba-mx-c13mexico-c13tapachula.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", DGO: TELEVISA DURANGO
 https://ythls-v2.onrender.com/channel/UCON7DvLd5N8tXivc9WqILxQ.m3u8
@@ -392,16 +401,10 @@ https://ythls-v2.onrender.com/channel/UCnxTRk2K1iNsQkgpWXxyj4w.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", GTO: TELEVISA DEL BAJIO
 https://ythls-v2.onrender.com/channel/UC-uYy4_jIvDoJ4wigEv1S5A.m3u8
 
-***** #EXTINF:-1 group-title="Bics REGIONALES", GTO: TV 4.1
-***** https://5f1af61612fb5.streamlock.net:443/tv4/videotv4/playlist.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", GTO: TV 4.1
 https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
-***** #EXTINF:-1 group-title="Bics REGIONALES", GTO: TV 4.1
-***** https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/chunklist_w2069453657_b1428000_sleng.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", GTO: TV 4.2
 https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
-***** #EXTINF:-1 group-title="Bics REGIONALES", GTO: TV 4.2
-***** https://5f2c1b0d880e5.streamlock.net/tv42/smil:tv42.smil/chunklist_w273498781_b3428000_sleng.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", GTO: TV 4.3
 https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
 
@@ -413,6 +416,8 @@ https://ythls-v2.onrender.com/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", MICH: SMRT
 https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
+#EXTINF:-1 group-title="Bics REGIONALES", MICH: CANAL 13
+https://alba-mx-c13mexico-c13michoacan.stream.mediatiquestream.com/480p.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", MOR: TELEVISA MORELOS
 https://ythls-v2.onrender.com/channel/UCcC9ykApQrgl4UxbKg2U4zw.m3u8
@@ -430,6 +435,8 @@ https://ythls-v2.onrender.com/channel/UCo1nfa1JKNqtcUyLjLwTiIw.m3u8
 https://ythls-v2.onrender.com/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", PUE: MULTIMEDIOS PUEBLA
 https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
+#EXTINF:-1 group-title="Bics REGIONALES", PUE: CANAL 13
+https://alba-mx-c13mexico-c13puebla.stream.mediatiquestream.com/live2/alba-mx-c13mexico-c13puebla_240p/chunks.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", QRO: TELEVISA QUERETARO
 https://ythls-v2.onrender.com/channel/UC9QNz6VS3gGz55dzxAQtgtA.m3u8
@@ -455,6 +462,9 @@ https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", TAB: TVT
 https://5fe2654d6127d.streamlock.net/tabasco/videotabasco/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjQgMTE6MjY6NTAgUE0maGFzaF92YWx1ZT1haFg0VC9VY3lkVmhya0xPZktqdEpBPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==&DVR
+
+#EXTINF:-1 group-title="Bics REGIONALES", TAB: CANAL 13
+https://alba-mx-c13mexico-c13tabasco.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", TAM: TELEVISA DEL GOLFO
 https://ythls-v2.onrender.com/channel/UCQ08tNTPiBn44c975S81ftg.m3u8
