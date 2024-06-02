@@ -51,6 +51,8 @@ https://us-b4-p-e-mg17.cdn.mdstrm.com/live-stream/5d56ed29c92dd106ff01543b/publi
 #EXTINF:-1 group-title="Bics", MX: MULTIMEDIOS GDL
 https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream/5c54d38ca392a5119bb0aa0d/publish/media_2000.m3u8
 
+#EXTINF:-1 group-title="Bics", MX: MULTIMEDIOS CDMX
+https://mdstrm.com/live-stream-playlist/fd14abc7469044808acf8cd0eb9ae9e2.m3u8
 #EXTINF:-1 group-title="Bics", MX: MULTIMEDIOS MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 group-title="Bics", MX: MULTIMEDIOS LAGUNA
