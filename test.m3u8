@@ -1,13 +1,13 @@
 #EXTM3U
 
-************************  03/JUN/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  04/JUN/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ************************ HI, THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", CANAL_030620241100
+#EXTINF:-1 group-title="Bics", CANAL_040620241100
 https://raw.githubusercontent.com/jsosao/m3u/main/patron.m3u8
 #EXTINF:-1 group-title="Bics", MX: FIA AZTECA 
 https://mdstrm.com/live-stream-playlist/5ff462cc0c34b9420400e834.m3u8
@@ -511,12 +511,15 @@ http://131.161.53.2:8000/play/a070/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", ESPN 6
 http://131.161.53.2:8000/play/a02h/index.m3u8
 
-#EXTINF:-1 group-title="Bics Extra Latino", UNIVISION
-http://177.53.153.20:8001/play/a0au/index.m3u8
-#EXTINF:-1 group-title="Bics Extra Latino", UNIVISION
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/127.m3u8
-#EXTINF:-1 group-title="Bics Extra Latino", UNIVISION
+
+#EXTINF:-1 group-title="Bics Extra Latino", UNIVISION EAST
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
+#EXTINF:-1 group-title="Bics Extra Latino", UNIVISION MIAMI
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
+
+#EXTINF:-1 group-title="Bics Extra Latino", UNIVISION CHICAGO
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/157029.m3u8
+
 
 
 
