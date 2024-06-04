@@ -490,6 +490,14 @@ http://181.78.105.146:2000/play/a064/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN3
 http://181.78.105.146:2000/play/a03n/index.m3u8
 
+#EXTINF:-1 group-title="DEPORTES", Claro Sports 1 HD
+http://131.161.53.2:8000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", Claro Sports 1 SD
+http://131.161.53.2:8000/play/a06h/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", Claro Sports 2 HD
+http://131.161.53.2:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", Claro Sports 2 SD
+http://131.161.53.2:8000/play/a045/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", ESPN
 http://131.161.53.2:8000/play/a058/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", ESPN 4
@@ -512,17 +520,12 @@ http://131.161.53.2:8000/play/a070/index.m3u8
 http://131.161.53.2:8000/play/a02h/index.m3u8
 
 
+#EXTINF:-1 group-title="Bics Extra Latino", UNIVISION WEAST
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONWEAST&calidad=sd&.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", UNIVISION EAST
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", UNIVISION MIAMI
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
-
-#EXTINF:-1 group-title="Bics Extra Latino", UNIVISION CHICAGO
-http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/157029.m3u8
-
-#EXTINF:-1 group-title="Bics Extra Latino", CBS 2 WTVF
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/25777
-
 
 
 
