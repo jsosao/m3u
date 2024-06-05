@@ -1,13 +1,13 @@
 #EXTM3U
 
-************************  04/JUN/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  05/JUN/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ************************ HI, THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", CANAL_040620241100
+#EXTINF:-1 group-title="Bics", CANAL_050620241100
 https://raw.githubusercontent.com/jsosao/m3u/main/patron.m3u8
 #EXTINF:-1 group-title="Bics", MX: FIA AZTECA 
 https://mdstrm.com/live-stream-playlist/5ff462cc0c34b9420400e834.m3u8
@@ -38,7 +38,6 @@ https://r.mjh.nz/PlutoTV/64e35aff6b1fdb0008ea8441-alt.m3u8
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
 ***** https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 ***** https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
-
 #EXTINF:-1 group-title="Bics", MX: MULTIMEDIOS CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 group-title="Bics", MX: MULTIMEDIOS MTY
@@ -59,8 +58,6 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 group-title="Bics", MX: NU9VE
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: NU9VE
-***** https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1  group-title="Bics", MX: A+
@@ -69,26 +66,12 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 group-title="Bics", MX: MILENIO
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: 4 GDL
-***** https://linear-402.frequency.stream/mt/studio/402/hls/master/playlist.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: 8 MTY
-***** https://linear-403.frequency.stream/mt/studio/403/hls/master/playlist.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: UNICABLE
-***** https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: UNIVISION
-***** https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: UNIVISION 24/7
-***** https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: EURO NEWS
 https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: FORO TV
-***** https://linear-300.frequency.stream/mt/studio/300/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: N+ MEDIA
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: N+ MEDIA
-***** https://linear-301.frequency.stream/mt/studio/301/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: N+
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", MX: N+ GDL
@@ -133,37 +116,74 @@ http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158831
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158838
 
 ***************  emilio ***************
+#EXTINF:-1 group-title="Bics Extra US", CBS CAL
+http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/335887
+#EXTINF:-1 group-title="Bics Extra US", CBS MIAMI
+http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/335906
+#EXTINF:-1 group-title="Bics Extra US", NBC CAL
+http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/335865
+#EXTINF:-1 group-title="Bics Extra US", NBC FLORIDA
+http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/335854
 
-#EXTINF:-1 group-title="Bics Extra Latino", US: TELEMUNDO
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
-#EXTINF:-1 group-title="Bics Extra Latino", US: TELEMUNDO -1 HR
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=3600
-#EXTINF:-1 group-title="Bics Extra Latino", US: TELEMUNDO -2 HR
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=7200
+#EXTINF:-1 group-title="Bics Extra US", UNIVERSO
+http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/69572
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN DEPORTES
+http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/1544
+
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN 1
+http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/26817
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN 2
+http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/1534
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN 3
+http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/1536
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN 4
+http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/1525
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN 5
+http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/374051
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN 6
+http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/374053
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN 7
+http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/979
+
+#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS PREMIUM
+http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/252733
+#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS 1
+http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/26814
+#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS 2
+http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/1902
+#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS 3
+http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/1523
+
+#EXTINF:-1 group-title="Bics Extra Latino", US: TELEMUNDO EAST
+http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/156993
+#EXTINF:-1 group-title="Bics Extra Latino", US: TELEMUNDO WEAST
+http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/156992
+
 #EXTINF:-1 group-title="Bics Extra Latino", PA: TV  Max
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", AR: TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 2
-http://galaxypro.online:8080/X2u6jNqEqKq5/x8s2yZHn2W45/226828
+http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/3739
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 4
-http://galaxypro.online:8080/X2u6jNqEqKq5/x8s2yZHn2W45/226832
+http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/3743
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 10
-http://galaxypro.online:8080/X2u6jNqEqKq5/x8s2yZHn2W45/374597
+http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/67443
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 12
-http://galaxypro.online:8080/X2u6jNqEqKq5/x8s2yZHn2W45/79036
+http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/3738
 
 #EXTINF:-1 group-title="Bics Extra Latino", CO: CARACOL
-http://galaxypro.online:8080/X2u6jNqEqKq5/x8s2yZHn2W45/93767
+http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/59848
 #EXTINF:-1 group-title="Bics Extra Latino", CO: CARACOL
-http://galaxypro.online:8080/X2u6jNqEqKq5/x8s2yZHn2W45/93746
+http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/115772
 #EXTINF:-1 group-title="Bics Extra Latino", CO: CARACOL INTERNACIONAL
-http://galaxypro.online:8080/X2u6jNqEqKq5/x8s2yZHn2W45/93747
+http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/53535
 #EXTINF:-1 group-title="Bics Extra Latino", CO: RCN
-http://galaxypro.online:8080/X2u6jNqEqKq5/x8s2yZHn2W45/90151
+http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/59852
 #EXTINF:-1 group-title="Bics Extra Latino", CO: RCN INTERACIONAL
-http://galaxypro.online:8080/X2u6jNqEqKq5/x8s2yZHn2W45/93751
+http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/118354
+
 
 ************* pepe *******************
 
