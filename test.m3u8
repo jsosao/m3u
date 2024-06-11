@@ -100,6 +100,8 @@ https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cf
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", PR: PUNTO 2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+#EXTINF:-1 group-title="Bics Extra Latino", US: TELEMUNDO NORESTE
+https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/fe10bbd4-e35f-4ed0-a68e-0647a89cbfac/2.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", US: CANAL 57
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Bics Extra US", US: CNN
@@ -249,6 +251,10 @@ http://177.53.153.20:8001/play/a0em/index.m3u8
 ***************************************************************   **************************************************************************************
 #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 01
 http://181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 02
+https://linear-507.frequency.stream/mt/studio/507/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 03
+https://linear-506.frequency.stream/mt/studio/506/hls/master/playlist.m3u8
 
 ***************************************************************   **************************************************************************************
 
@@ -569,14 +575,10 @@ http://131.161.53.2:8000/play/a02h/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", TUDN
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
-#EXTINF:-1 group-title="Bics Extra Latino", UNIVISION WEAST
-http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONWEAST&calidad=sd&.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", UNIVISION EAST
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", UNIVISION MIAMI
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
-
-
 
 
 ****************************************************************************************************************************
