@@ -179,15 +179,38 @@ https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 02
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 03
+http://164.68.124.111/fs1.m3u8
+
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA XX
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 04
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA XXXX
 https://78549.pricesaskeloadsc.com/winplus/tracks-v1a1/mono.m3u8?token=f94307dc0c837f6ab98e3c5b4f7832a5a4a110b4-bd-1718034146-1718023346
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 05
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 06
 https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 07
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA XXXXX
 http://177.53.153.20:8001/play/a0em/index.m3u8
+
+
+#EXTINF:-1,tvg-logo="  https://static.wikia.nocookie.net/the-football-database/images/3/36/Copa_America_2024_Logo.png/revision/latest/scale-to-width-down/230?cb=20231206090404 ", evento 1
+http://20957968804646234.otjb0606.xyz:80/play/XJAGG3528/KA855743254/646234.ts
+
+#EXTINF:-1,tvg-logo=" https://static.wikia.nocookie.net/the-football-database/images/3/36/Copa_America_2024_Logo.png/revision/latest/scale-to-width-down/230?cb=20231206090404 ", evento 2
+http://394127477385855513.otjb0606.xyz:80/play/vi930121/pjApv4C8Sg/855513.ts
+
+#EXTINF:-1,tvg-logo="  https://static.wikia.nocookie.net/the-football-database/images/3/36/Copa_America_2024_Logo.png/revision/latest/scale-to-width-down/230?cb=20231206090404 ", evento 3
+http://394127477385816648.otjb0606.xyz:80/play/vi930121/pjApv4C8Sg/816648.ts
+
+#EXTINF:-1,tvg-logo=" https://static.wikia.nocookie.net/the-football-database/images/3/36/Copa_America_2024_Logo.png/revision/latest/scale-to-width-down/230?cb=20231206090404 ", evento 4
+http://502663436616856809.otjb0606.xyz:80/live/fe715725/3pTCaErhC6/856809.ts
+
+#EXTINF:-1,tvg-logo=" https://static.wikia.nocookie.net/the-football-database/images/3/36/Copa_America_2024_Logo.png/revision/latest/scale-to-width-down/230?cb=20231206090404 ", evento 5
+http://xyz.lattv.com.co:8080/play/Q12GJAllEl6XF3JCHmoEPYTvgFWt_s5-l1gYSFHbXzXIQ44e3FJLxqKdO0oG3odc/ts
+
+#EXTINF:-1,tvg-logo=" https://static.wikia.nocookie.net/the-football-database/images/3/36/Copa_America_2024_Logo.png/revision/latest/scale-to-width-down/230?cb=20231206090404 ", evento 6
+http://xyz.lattv.com.co:8080/play/Q12GJAllEl6XF3JCHmoEPYTvgFWt_s5-l1gYSFHbXzVH0ReIYly0aup0e-e8sIAt/ts
+
 
 ***************************************************************   **************************************************************************************
 ******************** sports ****************
@@ -208,6 +231,8 @@ http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 08
 https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 09
+https://homeip.biz/livso/index.m3u8
 
 ***************************************************************   **************************************************************************************
 #EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 01
