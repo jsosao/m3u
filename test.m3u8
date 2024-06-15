@@ -201,7 +201,26 @@ http://200.60.124.19:29000/play/a016/index.m3u8
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 04
 https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 05
-http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/335876
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+
+
+
+
+#EXTINF:-1, TSN 1 🇨🇦
+http://45.41.213.34:70/TSN1/index.m3u8
+
+#EXTINF:-1, TSN 2 🇨🇦
+http://45.41.213.34:70/TSN2/index.m3u8
+
+#EXTINF:-1, TSN 3 🇨🇦
+http://45.41.213.34:70/TSN3/index.m3u8
+
+#EXTINF:-1, TSN 4 🇨🇦
+http://45.41.213.34:70/TSN4/index.m3u8
+
+#EXTINF:-1, TSN 5 🇨🇦
+http://45.41.213.34:70/TSN5/index.m3u8
+
 
 ***************************************************************   **************************************************************************************
 #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 01
