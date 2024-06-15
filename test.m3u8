@@ -174,6 +174,42 @@ https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
 https://live-hls-web-aja-fa.getaj.net/AJA/05.m3u8
 
 ***************************************************************   **************************************************************************************
+******************** sports ****************
+
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 01
+http://170.82.37.21:8000/play/a04g/index.m3u8
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 02
+http://181.78.8.90:16123/play/ch16
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 03
+http://200.60.124.19:29000/play/a016/index.m3u8
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 04
+https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 05
+http://45.41.213.34:70/TSN1/index.m3u8
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 06
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 07
+https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 08
+https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 09
+http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/117156
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 10
+https://homeip.biz/livso/index.m3u8
+
+***************************************************************   **************************************************************************************
+#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 01
+http://45.41.213.34:70/TSN1/index.m3u8
+#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 02
+https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 03
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195
+#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 04
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 05
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+
+***************************************************************   **************************************************************************************
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 01
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 02
@@ -339,6 +375,7 @@ https://dashtvcloud.online:8443/josealbrook/panama121/146532
 https://dashtvcloud.online:8443/josealbrook/panama121/223552
 
 ***************************************************************   **************************************************************************************
+
 ******************** sports ****************
 
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 01
