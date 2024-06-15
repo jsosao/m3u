@@ -198,176 +198,145 @@ http://xyz.lattv.com.co:8080/play/Q12GJAllEl6XF3JCHmoEPYTvgFWt_s5-l1gYSFHbXzXIQ4
 http://xyz.lattv.com.co:8080/play/Q12GJAllEl6XF3JCHmoEPYTvgFWt_s5-l1gYSFHbXzVH0ReIYly0aup0e-e8sIAt/ts
 
 
-
-#EXTINF:-1,tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ds2mvcHZjimZ6QfJjDU4ULYxe5mcjCL3Cg&usqp=CAU ", italia-albania   
-http://266845068891321277.ofk0601.xyz:80/live/XJAGG3528/KA855743254/321277.ts
-
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ds2mvcHZjimZ6QfJjDU4ULYxe5mcjCL3Cg&usqp=CAU ",  italia-albania
-http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/92573.m3u8
-
-#EXTINF:-1, tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ds2mvcHZjimZ6QfJjDU4ULYxe5mcjCL3Cg&usqp=CAU", italia-albania
-http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/410665
-
-#EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ds2mvcHZjimZ6QfJjDU4ULYxe5mcjCL3Cg&usqp=CAU", eslovenia-dinamarca       ⚽️ domingo ⚽️
-http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/117156
-
-#EXTINF:-1,tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ds2mvcHZjimZ6QfJjDU4ULYxe5mcjCL3Cg&usqp=CAU ", UEFA evento 5
-http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/117135
-
-#EXTINF:-1,tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ds2mvcHZjimZ6QfJjDU4ULYxe5mcjCL3Cg&usqp=CAU ", italia-albania
-http://daleplay.club:80/play/5r6aT5WQMpM9T7RdHOxEa6AKxO5L142_cJJhtF41L1gCDvq5FQpAhrl8J21TQwdx/ts
-
-#EXTINF:-1,tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ds2mvcHZjimZ6QfJjDU4ULYxe5mcjCL3Cg&usqp=CAU ", UEFA evento 7 
-http://daleplay.club:80/play/s5twV73gZxZkijVm27GvciO6Yo24jCzQ2dvLMuOyDahYmIJXVe9NEsBVSkU0XhMB/ts
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORT " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="⚽ Deportes ",WIN SPORTS (colombia)
+#EXTINF:-1 group-title="Bics DEPORTES", WIN SPORTS (colombia)
 http://zuiowy.net:8080/live/Paola2023/7ThHZTUFn8ze/464.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORT +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa9iUKf7e6EdC0sGXXNhraCLOo77y0YWMamQ&usqp=CAU" group-title="⚽ Deportes", WIN SPORT+ (colombia)
+#EXTINF:-1 group-title="Bics DEPORTES", WIN SPORT+ (colombia)
 http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/76703.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORT +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa9iUKf7e6EdC0sGXXNhraCLOo77y0YWMamQ&usqp=CAU" group-title="⚽ Deportes", WIN SPORT+ opc.2 (colombia)
+#EXTINF:-1 group-title="Bics DEPORTES", WIN SPORT+ opc.2 (colombia)
 http://galaxypro.online:8080/LuisiBarra/CVZ3cEFX2024/555690
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLt4RZ_1QOupYwN8NGj1d3lrWZ58y94i1Abg&usqp=CAU " group-title=" ⚽ Deportes ", vtv plus (uruguay)
+#EXTINF:-1 group-title="Bics DEPORTES", vtv plus (uruguay)
 http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/181758
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBQCNx8Mcyjs2Nrmc5JChTfbGNcnV7hiyFjQ&usqp=CAU " group-title="⚽ Deportes ",  direc tv sports (argentina)
+#EXTINF:-1 group-title="Bics DEPORTES",  direc tv sports (argentina)
 http://tv.proyectox.vip:8080/userfruto1/H2m3De4aMA/358817
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsl8or_Oto1vobff4XCUBHofL2uDkvpTr9Hw&usqp=CAU " group-title="⚽ Deportes ",  direc tv sport 2 (argentina)
+#EXTINF:-1 group-title="Bics DEPORTES",  direc tv sport 2 (argentina)
 http://home-playtv.com:8080/powertv/W8LULsPWL9by/456658
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQwHeLnMs3YHa5BgBywGnhhZhhK5G1uKPR3w&usqp=CAU " group-title="⚽ Deportes ",  espn (argentina)
+#EXTINF:-1 group-title="Bics DEPORTES",  espn (argentina)
 http://mstrtv.com:25461/live/3N1gma2/4h51akrHnt/50087.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSwWIvd6k63Amy4juhuAJvKh7tkX_Ca7apbQ&usqp=CAU " group-title="⚽ Deportes",  espn 2 (argentina)
+#EXTINF:-1 group-title="Bics DEPORTES",  espn 2 (argentina)
 http://tvbross.com:8090/mBEic2w7BZ/nuDwNNJLE8/18192
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbCnorejxWH1BID3ZLCbUboqyO1-vjhBMgQw&usqp=CAU " group-title="⚽ Deportes",  espn 3 (argentina)
+#EXTINF:-1 group-title="Bics DEPORTES",  espn 3 (argentina)
 http://217.182.213.252:8080/play/hls/eyJpdiI6IkpHSE9TOVVyUFZLSnlHUEl3RHcxc0E9PSIsInZhbHVlIjoiVjdDTDZGREtIdGJUTHVrczUvRVMyUVJ0Z2JMUDZjemlNN0pZcSt0M0Z6WEVXaGhpTXowenJsUVpIK1VrcVZ2byIsIm1hYyI6ImYzZWZkNTI5MWE2Y2I3ODg1Njc5OGEwNTVmNGVmODJlYjdiYTJjNmY4YzcxZDJmOTc0MWU3ZDIwY2IxZGQ1ODIiLCJ0YWciOiIifQ==/6d068831-b2ec-4dee-b555-bcfc801b32f0.m3u8?lvtoken=eyJpdiI6InZENzlGNDFvejdoT0VsOS9MMzV5OHc9PSIsInZhbHVlIjoibzFzNGZ5L09uYkd5a2NsK2hYSTBOSmdBc1NqRzdvaG9VWHZYQ1hZSFNzWkZaRlF4UkRnTFhGV1lhZ1JSWGJWdEtUUFlkckR2RlM5a3hxSjVhNW1kclhURHFHMlB3dkZOWnBZM2NDWldyMzcrVzc1QllUUmtjUzhEWTJNTDFpUDBFNWhWUCtDNUxBMVRTTUFZZGxEMDZXd3pjbDZnYnhyb3B1elY1OVd2TlBpd2RrUkpjK29paUZlak1md3A1OWkxVXhiWlVDUFRiRWFZNTJDRFlTUnBKUT09IiwibWFjIjoiNzIwMjk2ZThkNzVkNmY3MjZmMTNlNjE5YzRjYjEzNjYxZTU4OTZkMDBhOTZmMDFiMzkzNGM4NjRmYjEyZDFmNCIsInRhZyI6IiJ9&r=693940&rt=d4f1f59876ba91f22fdf65c72064c53c
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2bYlpkE5-tqhYrNatyYCuVdNpV5F5-YdGZA&usqp=CAU " group-title="⚽ Deportes ,  espn premium (argentina)
+#EXTINF:-1 group-title="Bics DEPORTES",  espn premium (argentina)
 http://tvbross.com:8090/mBEic2w7BZ/nuDwNNJLE8/47185
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrmhJ54lwP3vGJZjhrpdsfHviOmknw1JMAkQ&usqp=CAU " group-title="⚽ Deportes ",  fox sport (argentina)
+#EXTINF:-1 group-title="Bics DEPORTES",  fox sport (argentina)
 http://maiolve.club:8080/GalaxyQQQ6987/fR4W3NQ35DSs/2090080
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiK6YFYatR_bqQWe0x62EewJ2SQsoDYWySbA&usqp=CAU " group-title="⚽ Deportes ",  fox sport 2 (argentina)
+#EXTINF:-1 group-title="Bics DEPORTES",  fox sport 2 (argentina)
 http://lobo-tv.live:8080/rhin0xCPwow/yXtqbNNtmzaqU/10957
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNYL0s4wVkOl0XOSkcS0UgEPguLc-_WxZMFg&usqp=CAU " group-title="⚽ Deportes ", fox 3 (argentina)
+#EXTINF:-1 group-title="Bics DEPORTES", fox 3 (argentina)
 http://tv.soccerplus.link:8000/andresmiranda/DTp1CZJ98f/34589
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcZHIRY87FCdZ78fmGdSHN1zIRApUP-Le_uw&usqp=CAU"  group-title="⚽ Deportes ", tyc SPORTS (argentina)
+#EXTINF:-1 group-title="Bics DEPORTES", tyc SPORTS (argentina)
 http://mstrtv.com:25461/live/3N1gma2/4h51akrHnt/127555.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdJC5xBIRwcpgZS-cpdXcVTOowFGDSqhxzrw&usqp=CAU" group-title="⚽ Deportes ", TyC sports play (argentina)
+#EXTINF:-1 group-title="Bics DEPORTES", TyC sports play (argentina)
 https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk56fDBqBbFatAYrQLG9XNQXSdSehcqUpndg&usqp=CAU" group-title="⚽ Deportes ",  TNT Sports (argentina)
+#EXTINF:-1 group-title="Bics DEPORTES",  TNT Sports (argentina)
 http://tvbross.com:8090/mBEic2w7BZ/nuDwNNJLE8/37542
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsDmpWpg6IgDzCc0QzHfvxLGjWHy_66Q5yIQ&usqp=CAU " group-title="⚽ Deportes ", Tnt sports (chile)
+#EXTINF:-1 group-title="Bics DEPORTES", Tnt sports (chile)
 http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/57160
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeW1-tqTXE17GxRU46kSqZTYauLUIAARODoA&usqp=CAU" group-title="⚽ Deportes ", TNT SPORTS 2 (chile)
+#EXTINF:-1 group-title="Bics DEPORTES", TNT SPORTS 2 (chile)
 http://854028012115848149.ofk0601.xyz:80/live/MFCiptv2023.7/dFxQTA3KYGWX/848149.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZfjVZSq-hhIydqH-JlvQG4VLwrSG3K64gTg&usqp=CAU" group-title="⚽ Deportes ", Tnt sports 3 (chile)
+#EXTINF:-1 group-title="Bics DEPORTES", Tnt sports 3 (chile)
 http://maiolve.club:8080/GalaxyQQQ6987/fR4W3NQ35DSs/25366
-#EXTINF:-1 tvg-logo=" https://downloadr2.apkmirror.com/wp-content/uploads/2022/12/67/639cf6223c8b6-384x384.png " group-title="⚽ Deportes ", Tnt estadio sports (chile)
+#EXTINF:-1 group-title="Bics DEPORTES", Tnt estadio sports (chile)
 http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/57154
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc1pYruQplSvO-9AsGudXGGqT4Ww0Fik2TPw&usqp=CAU" group-title="⚽ Deportes ", CDO PREMIUM (chile)
+#EXTINF:-1 group-title="Bics DEPORTES", CDO PREMIUM (chile)
 http://maiolve.club:8080/GalaxyQQQ6987/fR4W3NQ35DSs/25371
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRla_xTmynjPtqy0q36a_GlzU6weJyirsI3xA&usqp=CAU" group-title="⚽ Deportes ", contacto deportivo (peru)
+#EXTINF:-1 group-title="Bics DEPORTES", contacto deportivo (peru)
 https://live.obslivestream.com/cdeportivo/index.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQc6KYOae8Xzv_kiZa_1WmfGqONQ7fqDxO_A&usqp=CAU " group-title="⚽ Deportes ", gol peru (peru)
+#EXTINF:-1 group-title="Bics DEPORTES", gol peru (peru)
 http://alfatv.lat:2082/diego270903/diego270903/234942
- #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMebl_S3gveLZScHsRj-k1ga8vSztmXl4v8A&usqp=CAU " group-title="⚽ Deportes ", liga 1
+#EXTINF:-1 group-title="Bics DEPORTES", liga 1
 http://tvbross.com:8090/comandoalmache/almache2022../140577
- #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeJiK8PhVRpAUSenKIIf8LkmpXQvjQC9nneA&usqp=CAU " group-title="⚽ Deportes ", liga 1 max
+#EXTINF:-1 group-title="Bics DEPORTES", liga 1 max
 http://galaxypro.online:8080/GingerAndrade1311/0984789890GA/103257
-  #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ9YRw66ecgfSH3BgALnjXkPcRaWiMJW5Lfg&usqp=CAU " group-title="⚽ Deportes ",  movistar (peru)
+#EXTINF:-1 group-title="Bics DEPORTES",  movistar (peru)
 http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/181756
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOzUbC3TwMglW0YBja9vOPLa9HhrJo4pBTAw&usqp=CAU" group-title="⚽ Deportes ",  FOX SPORTS  1 (México)
+#EXTINF:-1 group-title="Bics DEPORTES",  FOX SPORTS  1 (México)
 http://home-playtv.com:8080/powertv/W8LULsPWL9by/36396
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZhooTjS95cU_5z6UWVIJh-0DBHy-aA7RIoQ&usqp=CAU" group-title="⚽ Deportes ",  FOX SPORTS 2 (México)
+#EXTINF:-1 group-title="Bics DEPORTES",  FOX SPORTS 2 (México)
 http://tilinki.com:25461/caqo5939/2g7xS/24
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCosoBzW18TLTPkvgRBWThJdi-iVUZamVi2Q&usqp=CAU" group-title="⚽ Deportes ",  FOX SPORTS 3 (México)
+#EXTINF:-1 group-title="Bics DEPORTES",  FOX SPORTS 3 (México)
 http://home-playtv.com:8080/powertv/W8LULsPWL9by/9538
-#EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_C-KVwUa_O4w_6mmkqjI7H6HaLYNWVT1Rcw&usqp=CAU" group-title="⚽ Deportes ",  ESPN SPORT 1 (México)
+#EXTINF:-1 group-title="Bics DEPORTES",  ESPN SPORT 1 (México)
 https://sdmx.vip:443/belpley/sYqKZQrTZa/155472.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSwWIvd6k63Amy4juhuAJvKh7tkX_Ca7apbQ&usqp=CAU" group-title="⚽ Deportes ",  ESPN SPORT 2 (mexico)
+#EXTINF:-1 group-title="Bics DEPORTES",  ESPN SPORT 2 (mexico)
 http://elperrotv.online:80/OSCARNOE/VXF6vmcXYH/1069852
-#EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbCnorejxWH1BID3ZLCbUboqyO1-vjhBMgQw&usqp=CAU" group-title="⚽ Deportes ",  ESPN SPORT 3 (México)
+#EXTINF:-1 group-title="Bics DEPORTES",  ESPN SPORT 3 (México)
 http://elperrotv.online:80/OSCARNOE/VXF6vmcXYH/1069859
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlxRsJGmWmJSzt5q8FuCYTBAnTBuAgVEFCiQ&usqp=CAU" group-title="⚽ Deportes ",  espn 4 (México)
+#EXTINF:-1 group-title="Bics DEPORTES",  espn 4 (México)
 http://elperrotv.online:80/OSCARNOE/VXF6vmcXYH/1069865
-#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="http://descargas.podzone.net/logos/-tvc.png"  group-title="⚽ Deportes ",TVC SPORTS 
+#EXTINF:-1 group-title="Bics DEPORTES",TVC SPORTS 
 http://budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159097
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCRORK9Plo3gIbcz0C4b5h4FeCJoSUSRk6XQ&usqp=CAU" group-title="⚽ Deportes ", fox sport premiun (mexico)
+#EXTINF:-1 group-title="Bics DEPORTES", fox sport premiun (mexico)
 http://home-playtv.com:8080/powertv/W8LULsPWL9by/158454
-#EXTINF:-1 tvg-id="" tvg-name="AFIZZIONADOS" tvg-logo="http://descargas.podzone.net/logos/-afizzionados.png"  group-title="⚽ Deportes ",  AFIZZIONADOS 
-http://elperrotv.online:80/OSCARNOE/VXF6vmcXYH/1069782
-#EXTINF:-1 tvg-id="" tvg-name="TUDN SPORTS" tvg-logo="http://descargas.podzone.net/logos/-TUDN.png"  group-title="⚽ Deportes ",  TUDN
+#EXTINF:-1 group-title="Bics DEPORTES",  TUDN
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TUDN SPORTS" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png"  group-title="⚽ Deportes ",  TUDN usa
+#EXTINF:-1 group-title="Bics DEPORTES", TUDN usa
 http://tvmate.icu:8080/Alan/Alan1234/82241
- EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1T-Hpcixb1LVj3Wa8IaqUIc89a3o4y5B3dRNW5uir-g&s " group-title="⚽ Deportes ", sky sport (México)
+ #EXTINF:-1 group-title="Bics DEPORTES", sky sport (México)
 https://dashtvcloud.online:8443/josealbrook/panama121/144286
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRXyzrdFhlQ9R2FeJdnFf6ZG-8f71y7pq81uQ8_RyceA&s " group-title="⚽ Deportes ", azteca deportes (México)
+#EXTINF:-1 group-title="Bics DEPORTES", azteca deportes (México)
 http://tv.proyectox.vip:8080/Hidr13odemsww/nTAuRWcTmD/180062
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1dBIigdVLzlfRRAIBISkf7k0k4E_3KvU_bw&usqp=CAU" group-title="⚽ Deportes ", deportes ufc (México)
+#EXTINF:-1 group-title="Bics DEPORTES", deportes ufc (México)
 http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/8918
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2PDd15iainrYWPWE12TlckTQy0MexK7ZouQ&usqp=CAU" group-title="⚽ Deportes ", deportes itv (México)
+#EXTINF:-1 group-title="Bics DEPORTES", deportes itv (México)
 https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSazdB6chE4ha6HFJRha7Pcm8anxGbyESmxLg&usqp=CAU" group-title="⚽ Deportes ", futbol network tv (México)
+#EXTINF:-1 group-title="Bics DEPORTES", futbol network tv (México)
 https://59d39900ebfb8.streamlock.net/8312/8312/.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZmKQI8SlwO72K00HYjSM-PaCgSulJ-kZ4Zg&usqp=CAU" group-title="⚽ deportes", faceta tv (bolivia)
+#EXTINF:-1 group-title="Bics DEPORTES", faceta tv (bolivia)
 https://master.tucableip.com/ftv/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0NlvZqfcxq5v5zov8CO0JvAy5bExv5KZbsYaYPV4At7D_g4Kyi-BqBDiunQ&s" group-title="⚽ deportes", tigo sports (bolivia)
+#EXTINF:-1 group-title="Bics DEPORTES", tigo sports (bolivia)
 http://tilinki.com:25461/caqo5939/2g7xS/98583
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAeBOTDiQH1c8Hgn-4FlsRP1zzbrel6AsbqQ&usqp=CAU" group-title=" ⚽ Deportes ", td + (costa rica)
+#EXTINF:-1 group-title="Bics DEPORTES", td + (costa rica)
 https://cdn02.teletica.com/StreamTDMas1/Streamtdmas_1_04122023/playlist.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ5DCwqwumvaddhj_uHZb6WC07NYqPodspRQ&usqp=CAU" group-title=" ⚽ Deportes ", td + 2 (costa rica)
+#EXTINF:-1 group-title="Bics DEPORTES", td + 2 (costa rica)
 https://cdn02.teletica.com/StreamTDMas2/Streamtdmas_2_04122023/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt1cdvzYdpfyzWy1wzYFOzS7HQlrk8XIkWrA&usqp=CAU " group-title=" ⚽ Deportes ", futv (costa rica)
+#EXTINF:-1 group-title="Bics DEPORTES", futv (costa rica)
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162220
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0NlvZqfcxq5v5zov8CO0JvAy5bExv5KZbsYaYPV4At7D_g4Kyi-BqBDiunQ&s=CAU " group-title=" ⚽ Deportes", tigo sports (costa rica)
+#EXTINF:-1 group-title="Bics DEPORTES", tigo sports (costa rica)
 http://201.159.113.219:49000/play/a04x/index.m3u8
- #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0NlvZqfcxq5v5zov8CO0JvAy5bExv5KZbsYaYPV4At7D_g4Kyi-BqBDiunQ&s=CAU " group-title=" ⚽ Deportes", tigo sports (panama)
+ #EXTINF:-1 group-title="Bics DEPORTES", tigo sports (panama)
 https://dashtvcloud.online:8443/josealbrook/panama121/144349
- #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGE1IasS3MH5wEyjje2uYg8WwvSr5pZiEk9A&usqp=CAU"group-title="⚽ Deportes", ser tv (panama)
+ #EXTINF:-1 group-title="Bics DEPORTES", ser tv (panama)
 https://dashtvcloud.online:8443/josealbrook/panama121/126568
- #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUWJ-fQIyC1K8XENV5K7lvTFsck7RDKkbhzg&usqp=CAU"group-title="⚽ Deportes", cos fc (panama)
+ #EXTINF:-1 group-title="Bics DEPORTES", cos fc (panama)
 https://dashtvcloud.online:8443/josealbrook/panama121/213622
- #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuOIyXeA-83ooGSVgbQPTdKxF_6-ssT7BDRw&usqp=CAU group-title="⚽ Deportes ", SportTv Premiere Uno
+ #EXTINF:-1 group-title="Bics DEPORTES", SportTv Premiere Uno
 http://wabot.win:8080/RAX42434hh/RAX42434hh/667119
- #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuOIyXeA-83ooGSVgbQPTdKxF_6-ssT7BDRw&usqp=CAU group-title="⚽ Deportes ", SportTv Premiere dos
+ #EXTINF:-1 group-title="Bics DEPORTES", SportTv Premiere dos
 http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/562
- #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuOIyXeA-83ooGSVgbQPTdKxF_6-ssT7BDRw&usqp=CAU group-title="⚽ Deportes ", SportTv Premiere tres
+ #EXTINF:-1 group-title="Bics DEPORTES", SportTv Premiere tres
 http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/563
- #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuOIyXeA-83ooGSVgbQPTdKxF_6-ssT7BDRw&usqp=CAU group-title="⚽ Deportes ", SportTv Premiere cuatro
+ #EXTINF:-1 group-title="Bics DEPORTES", SportTv Premiere cuatro
 http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/564
- #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuOIyXeA-83ooGSVgbQPTdKxF_6-ssT7BDRw&usqp=CAU group-title="⚽ Deportes ", SportTv Premiere cinco
+ #EXTINF:-1 group-title="Bics DEPORTES", SportTv Premiere cinco
 http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/565
- #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ0HEFRVhMqlQ9jqW2D8P9C-jrI5Y7PLOOHnhNKkxbMA&s=CAU group-title="⚽ Deportes ", BAND SPORTS
+ #EXTINF:-1 group-title="Bics DEPORTES", BAND SPORTS
 http://magmas5.com:8000/live/Y78PIVSQGY/ZTY3Y2FNXB/5099.m3u8
- #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnsR-DSHnQ7A0EJmxq5qVyvIyRg02hl6DJjw&usqp=CAU group-title="⚽ Deportes ", WAPA BEISBOL
+ #EXTINF:-1 group-title="Bics DEPORTES", WAPA BEISBOL
 https://live.field59.com/wapa/wapa2/playlist.m3u8
-#EXTINF:-"1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn_klzMG2mwocimkQuRcv5Oa54FePBc8YozQ&usqp=CAU  "group-title"⚽️ Deportes", Canal 13 nicaragua
+#EXTINF:-1 group-title="Bics DEPORTES", Canal 13 nicaragua
 http://tvlatino.live:8080/play/_A1diXa2YXbIu98UrBQoM9CFoCCxS-MNbukUrvdLOUB0IQGh8M7qvrrK6_2OKABd/ts
 
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpJHAO57nTafydZYiYRNlIwI4p25aoPLngvw&usqp=CAU " group-title=" ⚽ Deporte VIP", nba tv
+#EXTINF:-1 group-title="Bics DEPORTES", nba tv
 http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEXn4MLNstO02YGaIQk7Vj7_
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqAin7NEwByZteT-a2hwyMyMhC0QoIIRzTAg&usqp=CAU " group-title=" ⚽ Deporte VIP", mlb network 
+#EXTINF:-1 group-title="Bics DEPORTES", mlb network 
 http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEXuEvcE6ncGKEYRubAc_MXo
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHxiTdiFIlda7E_rQbemUwOHs4wudO9zNl_w&usqp=CAU " group-title=" ⚽ Deporte VIP", nfl network 
+#EXTINF:-1 group-title="Bics DEPORTES", nfl network 
 http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEVYJW-Q5gl89q2J5sBjKlEZ
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1pejXpGwHdbSzt4QaoVkj4ZIfQKRqQr1-aA&usqp=CAU " group-title=" ⚽ Deporte VIP", tennis channels
+#EXTINF:-1 group-title="Bics DEPORTES", tennis channels
 http://tvlatino.club:2082/devil40/VkCBMYP78uZn/243903
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT907hCv_QxjR-xgZUYiD5h-PZFJFBdQJrxQ&usqp=CAU   " group-title=" ⚽ Deporte VIP", golf channels
+#EXTINF:-1 group-title="Bics DEPORTES", golf channels
 http://tvlatino.club:2082/devil40/VkCBMYP78uZn/190695
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEGaDF6QDi_GPvSIhhSB5qW3B7PzR_QU18pw&usqp=CAU " group-title=" ⚽ Deporte VIP", wwe network
+#EXTINF:-1 group-title="Bics DEPORTES", wwe network
 http://tvlatino.club:2082/devil40/VkCBMYP78uZn/243910
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBp3OPRpJunzsuoAKVyQp_1wofDENFzMim2g&usqp=CAU " group-title=" ⚽ Deporte VIP", willow cricket network 
+#EXTINF:-1 group-title="Bics DEPORTES", willow cricket network 
 http://tvlatino.club:2082/devil40/VkCBMYP78uZn/243908
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLsrXuleANWRrvg8rlWszCz9yfQBXV_GYy4w&usqp=CAU " group-title=" ⚽ Deporte VIP", nhl network
+#EXTINF:-1 group-title="Bics DEPORTES", nhl network
 http://home-playtv.com:8080/ArianLatino/HmzUpdy26e/36435
- #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTl7jEKd8l5AX6h7UBVNPIgjGtaD12vtnrgPiBU88xzg&s" group-title=" ⚽ Deporte VIP", yes network (usa)
+#EXTINF:-1 group-title="Bics DEPORTES", yes network (usa)
 https://dashtvcloud.online:8443/josealbrook/panama121/146532
- #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9xzi4ClN1ZAAZsD1Sc2fKXIv5FnbxH1QGoTH31Qv5Hw&s " group-title=" ⚽ Deporte VIP", gol tv (usa)
+#EXTINF:-1 group-title="Bics DEPORTES", gol tv (usa)
 https://dashtvcloud.online:8443/josealbrook/panama121/223552
-
-
-
-
-
 
 ***************************************************************   **************************************************************************************
 ******************** sports ****************
@@ -389,7 +358,10 @@ https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 08
 https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 09
+http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/117156
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 10
 https://homeip.biz/livso/index.m3u8
+
 
 ***************************************************************   **************************************************************************************
 #EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 01
@@ -404,12 +376,12 @@ https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 
 ***************************************************************   **************************************************************************************
-#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 01
-http://181.78.105.146:2000/play/a08m/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 02
-https://linear-507.frequency.stream/mt/studio/507/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 03
-https://linear-506.frequency.stream/mt/studio/506/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 01
+***** http://181.78.105.146:2000/play/a08m/index.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 02
+***** https://linear-507.frequency.stream/mt/studio/507/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 03
+***** https://linear-506.frequency.stream/mt/studio/506/hls/master/playlist.m3u8
 
 
 ***************************************************************   **************************************************************************************
