@@ -1,13 +1,13 @@
 #EXTM3U
 
-************************  11/JUN/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  15/JUN/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ************************ HI, THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", CANAL_110620241100
+#EXTINF:-1 group-title="Bics", CANAL_150620241100
 https://raw.githubusercontent.com/jsosao/m3u/main/patron.m3u8
 #EXTINF:-1 group-title="Bics", MX: FIA AZTECA 
 https://mdstrm.com/live-stream-playlist/5ff462cc0c34b9420400e834.m3u8
@@ -247,6 +247,89 @@ https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 07
 http://177.53.153.20:8001/play/a0em/index.m3u8
+
+***************************************************************   **************************************************************************************
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 01
+http://181.78.105.146:2000/play/a08m/index.m3u8
+
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 02
+http://181.78.105.146:2000/play/a08m/index.m3u8?Marcosdos
+
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 03
+http://190.92.10.66:4000/play/a001/index.m3u8
+
+#EXTINF:-1, SKY SPORT MAINT EVENT 🇬🇧
+https://eu02.dmca.run/247-skymain/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ESPN VIVO 🇦🇷
+http://170.82.37.21:8000/play/a04g/index.m3u8
+
+#EXTINF:-1,ESPN VIVO 🇦🇷
+http://181.78.8.90:16123/play/ch16
+
+#EXTINF:-1,ESPN VIVO HD 🇦🇷
+http://190.61.43.117:45000/play/a01l
+
+#EXTINF:-1,ESPN VIVO HD 🇦🇷
+http://200.60.124.19:29000/play/a016/index.m3u8
+
+#EXTINF:-1,ESPN 2 HD 🇦🇷
+http://190.61.43.117:45000/play/a053
+
+#EXTINF:-1,ESPN 2 HD 🇦🇷
+http://181.78.8.90:16123/play/ch17
+
+#EXTINF:-1,ESPN 2 HD 🇦🇷
+http://200.60.124.19:29000/play/a015/index.m3u8
+
+#EXTINF:-1,ESPN 3 HD 🇦🇷
+http://190.61.43.117:45000/play/a051
+
+#EXTINF:-1,ESPN 3 HD 🇦🇷
+http://204.199.122.4:8000/play/b033/index.m3u8
+
+#EXTINF:-1,ESPN 3 HD 🇦🇷
+http://181.78.8.90:16123/play/ch18
+
+#EXTINF:-1,ESPN 3 HD 🇦🇷
+http://200.60.124.19:29000/play/a02e/index.m3u8
+
+#EXTINF:-1,ESPN 4 HD 🇦🇷
+http://190.61.43.117:45000/play/a01v
+
+#EXTINF:-1,ESPN 5 🇦🇷
+http://181.78.8.90:16123/play/ch19
+
+#EXTINF:-1,ESPN 5 🇦🇷
+http://190.61.43.117:45000/play/a06w
+
+#EXTINF:-1,ESPN 5 🇦🇷
+http://204.199.122.4:8000/play/b028/index.m3u8
+
+#EXTINF:-1,ESPN 5 🇦🇷
+http://200.60.124.19:29000/play/a04y/index.m3u8
+
+#EXTINF:-1,ESPN 6 🇦🇷
+http://204.199.122.4:8000/play/b030/index.m3u8
+
+#EXTINF:-1, ESPN 6 🇦🇷
+http://190.61.43.117:45000/play/a060
+
+#EXTINF:-1, ESPN 6 🇦🇷
+http://200.60.124.19:29000/play/a01f/index.m3u8
+
+#EXTINF:-1,ESPN 7 🇦🇷
+http://204.199.122.4:8000/play/b029/index.m3u8
+
+#EXTINF:-1,ESPN 7 🇦🇷
+http://190.61.43.117:45000/play/a01g
+
+#EXTINF:-1,ESPN 7 🇦🇷
+http://200.60.124.19:29000/play/a01e/index.m3u8
+
+#EXTINF:-1,ESPN PREMIUM 🇦🇷
+http://170.81.241.222:31589/play/a063/index.m3u8
+
 
 ***************************************************************   **************************************************************************************
 #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 01
