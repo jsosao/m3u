@@ -201,26 +201,25 @@ http://200.60.124.19:29000/play/a016/index.m3u8
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 04
 https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 05
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
-
-
-
-
-#EXTINF:-1, TSN 1 🇨🇦
 http://45.41.213.34:70/TSN1/index.m3u8
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 06
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 07
+https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 08
+https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
 
-#EXTINF:-1, TSN 2 🇨🇦
-http://45.41.213.34:70/TSN2/index.m3u8
-
-#EXTINF:-1, TSN 3 🇨🇦
-http://45.41.213.34:70/TSN3/index.m3u8
-
-#EXTINF:-1, TSN 4 🇨🇦
-http://45.41.213.34:70/TSN4/index.m3u8
-
-#EXTINF:-1, TSN 5 🇨🇦
-http://45.41.213.34:70/TSN5/index.m3u8
-
+***************************************************************   **************************************************************************************
+#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 01
+http://45.41.213.34:70/TSN1/index.m3u8
+#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 02
+https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 03
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195
+#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 04
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 05
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 
 ***************************************************************   **************************************************************************************
 #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 01
@@ -230,10 +229,11 @@ https://linear-507.frequency.stream/mt/studio/507/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 03
 https://linear-506.frequency.stream/mt/studio/506/hls/master/playlist.m3u8
 
+
 ***************************************************************   **************************************************************************************
 
-#EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 01
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 01
+***** https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
 ***************************************************************   **************************************************************************************
 
@@ -477,6 +477,7 @@ https://ythls-v2.onrender.com/channel/UCQb3i7gu9J8A4zzQU7j6C1Q.m3u8
 
 
 ********************************************* CANALES DEPORTES Y YOUTUBE  ********************************************************************************
+
 ******** emilio *********
 #EXTINF:-1 group-title="Bics DEPORTES", MX: TVC
 http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26966
@@ -497,8 +498,6 @@ https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: CALIENTE TV
 https://ythls-v2.onrender.com/channel/UCpJN_3WCOtfICbsKKxZcBsg.m3u8
-
-************************** emilio ************************************************************************
 
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FOX SPORTS 1
 https://vivo.lamtv.tv:8081/a/0175/playlist.m3u8
@@ -576,6 +575,17 @@ http://200.60.124.19:29000/play/a04y/index.m3u8
 http://200.60.124.19:29000/play/a01f/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN 7 🇦🇷
 http://200.60.124.19:29000/play/a01e/index.m3u8
+
+#EXTINF:-1 group-title="Bics DEPORTES", TSN 1 🇨🇦
+http://45.41.213.34:70/TSN1/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", TSN 2 🇨🇦
+http://45.41.213.34:70/TSN2/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", TSN 3 🇨🇦
+http://45.41.213.34:70/TSN3/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", TSN 4 🇨🇦
+http://45.41.213.34:70/TSN4/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", TSN 5 🇨🇦
+http://45.41.213.34:70/TSN5/index.m3u8
 
 
 ****************************************************************************************************************************
