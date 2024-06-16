@@ -239,7 +239,10 @@ https://vxlive.cdn.antel.net.uy/auth_V__TV_Ciudad,vxttoken=cGF0aFVSST0lMkZhdXRoX
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 11
 https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/chunklist_w984880022.m3u8?k=6980c82cf2f8826ebe702b27cedaa8378ce91c44410783288cd05392ba49f8e1&exp=1718557383
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 12
-http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/164.m3u8
+http://177.53.153.20:8001/play/a040/index.m3u8
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 12
+http://tv.soccerplus.link:8000/julia35a/anticona34/868
+
 
 ********************  https://github.com/proyecto04/club-tv/blob/main/.m3u ***************
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 13
@@ -752,7 +755,7 @@ http://45.41.213.34:70/TSN1/index.m3u8
 http://45.41.213.34:70/TSN2/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", TSN 3 
 http://45.41.213.34:70/TSN3/index.m3u8
-#EXTINF:-1 group-title=y"Bics DEPORTES", TSN 4 
+#EXTINF:-1 group-title="Bics DEPORTES", TSN 4 
 http://45.41.213.34:70/TSN4/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", TSN 5 
 http://45.41.213.34:70/TSN5/index.m3u8
