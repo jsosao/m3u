@@ -1,13 +1,13 @@
 #EXTM3U
 
-************************  15/JUN/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  16/JUN/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ************************ HI, THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", CANAL_150620241100
+#EXTINF:-1 group-title="Bics", CANAL_160620241100
 https://raw.githubusercontent.com/jsosao/m3u/main/patron.m3u8
 #EXTINF:-1 group-title="Bics", MX: FIA AZTECA 
 https://mdstrm.com/live-stream-playlist/5ff462cc0c34b9420400e834.m3u8
@@ -227,31 +227,29 @@ https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 05
 https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 06
-https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 07
 http://tvlatino.live:8080/play/_A1diXa2YXbIu98UrBQoM9CFoCCxS-MNbukUrvdLOUB0IQGh8M7qvrrK6_2OKABd/ts
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 08
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 07
 http://zuiowy.net:8080/live/Paola2023/7ThHZTUFn8ze/464.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 09
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 08
 http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/76703.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 10
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 09
 https://ch1-tva.duin.dev/hls/stream.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 11
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 10
 https://vxlive.cdn.antel.net.uy/auth_V__TV_Ciudad,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfX1RWX0NpdWRhZCUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzE4NTcwNjE3JnJhbmRvbT1WM0lzeHBhcFY5JmMtaXA9MjAxLjE0MS4xMTQuMTIxJmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTI4MCZwdWJsaWNfaWQ9MnNnc20sMmQ5ODlmZDg1NzJhZmJhNzkyNDAzN2Y3MzdiMTY0YzhlODVlNmZjNjc2NzE2YmRlNDVhNzE3MzUxNDFkZDYxMA==/vxfmt=hls/h_90ea08d700b9abffa951ea608e121f20/var3950000/playlist.m3u8
 
 
 ********************  https://github.com/proyecto04/club-tv/blob/main/.m3u ***************
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 05
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 11
 http://20957968804646234.otjb0606.xyz:80/play/XJAGG3528/KA855743254/646234.ts
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 06
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 12
 http://394127477385855513.otjb0606.xyz:80/play/vi930121/pjApv4C8Sg/855513.ts
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 07
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 13
 http://394127477385816648.otjb0606.xyz:80/play/vi930121/pjApv4C8Sg/816648.ts
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 08
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 14
 http://502663436616856809.otjb0606.xyz:80/live/fe715725/3pTCaErhC6/856809.ts
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 09
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 15
 http://xyz.lattv.com.co:8080/play/Q12GJAllEl6XF3JCHmoEPYTvgFWt_s5-l1gYSFHbXzXIQ44e3FJLxqKdO0oG3odc/ts
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 10
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 16
 http://xyz.lattv.com.co:8080/play/Q12GJAllEl6XF3JCHmoEPYTvgFWt_s5-l1gYSFHbXzVH0ReIYly0aup0e-e8sIAt/ts
 
 
