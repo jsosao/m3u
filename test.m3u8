@@ -186,7 +186,7 @@ http://200.60.124.19:29000/play/a016/index.m3u8
 https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 05
 http://45.41.213.34:70/TSN1/index.m3u8
-#EXTINF:-1 group-title=y"Bics COPA EURO", COPA EURO 06
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 06
 http://45.41.213.34:70/TSN4/index.m3u8
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 07
 http://45.41.213.34:70/TSN5/index.m3u8
