@@ -102,6 +102,8 @@ https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cf
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", PR: PUNTO 2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+#EXTINF:-1 group-title="Bics Extra Latino", GT: TV AZTECA GUATE
+https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", US: CANAL 57
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Bics Extra US", US: CNN
@@ -120,6 +122,8 @@ http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158838
 
 #EXTINF:-1 group-title="Bics Extra Latino", PA: TV  Max
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Bics Extra Latino", PA: RPC
+https://live-c2.cf.dmcdn.net/sec2(ejBWN_KARqzTGVSONN4_8uGkY48kusy5_D_ODZ0nt_aC46CLXvSnAn4PDHZFaXjve9te_lxIQCj3PLK9a5asdzDj0Z_3X5I2YUxkpBWi_mU)/cloud/3/x8lwrcd/s/live-2.m3u8#cell=lcfc2
 #EXTINF:-1 group-title="Bics Extra Latino", AR: TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
@@ -217,9 +221,24 @@ https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 02
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 03
-https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+https://live-c2.cf.dmcdn.net/sec2(ejBWN_KARqzTGVSONN4_8uGkY48kusy5_D_ODZ0nt_aC46CLXvSnAn4PDHZFaXjve9te_lxIQCj3PLK9a5asdzDj0Z_3X5I2YUxkpBWi_mU)/cloud/3/x8lwrcd/s/live-2.m3u8#cell=lcfc2
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 04
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 05
 https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 06
+https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 07
+http://tvlatino.live:8080/play/_A1diXa2YXbIu98UrBQoM9CFoCCxS-MNbukUrvdLOUB0IQGh8M7qvrrK6_2OKABd/ts
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 08
+http://zuiowy.net:8080/live/Paola2023/7ThHZTUFn8ze/464.m3u8
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 09
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/76703.m3u8
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 10
+https://ch1-tva.duin.dev/hls/stream.m3u8
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 11
+https://vxlive.cdn.antel.net.uy/auth_V__TV_Ciudad,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfX1RWX0NpdWRhZCUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzE4NTcwNjE3JnJhbmRvbT1WM0lzeHBhcFY5JmMtaXA9MjAxLjE0MS4xMTQuMTIxJmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTI4MCZwdWJsaWNfaWQ9MnNnc20sMmQ5ODlmZDg1NzJhZmJhNzkyNDAzN2Y3MzdiMTY0YzhlODVlNmZjNjc2NzE2YmRlNDVhNzE3MzUxNDFkZDYxMA==/vxfmt=hls/h_90ea08d700b9abffa951ea608e121f20/var3950000/playlist.m3u8
+
 
 ********************  https://github.com/proyecto04/club-tv/blob/main/.m3u ***************
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 05
@@ -674,14 +693,6 @@ http://181.78.105.146:2000/play/a064/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN3
 http://181.78.105.146:2000/play/a03n/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", Claro Sports 1 HD
-http://131.161.53.2:8000/play/a01i/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", Claro Sports 1 SD
-http://131.161.53.2:8000/play/a06h/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", Claro Sports 2 HD
-http://131.161.53.2:8000/play/a01j/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", Claro Sports 2 SD
-http://131.161.53.2:8000/play/a045/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", ESPN
 http://131.161.53.2:8000/play/a058/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", ESPN 4
