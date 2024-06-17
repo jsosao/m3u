@@ -136,10 +136,6 @@ https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
 #EXTINF:-1 group-title="Bics Extra US", AL JAZEERA ARAB
 https://live-hls-web-aja-fa.getaj.net/AJA/05.m3u8
 
-#EXTINF:-1 group-title="Bics Extra US", KTLA
-https://dcs-live-uw1.mp.lura.live/server/play/50ZGbepT8XD8SGRA/rendition.m3u8?track=video-1&anvsid=m177610542-nd7f151f7b23970e480f6bf8ec8c4f1e7&ts=1718648788
-
-
 #EXTINF:-1 group-title="Bics Extra Internacional", IT: LA 7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 #EXTINF:-1 group-title="Bics Extra Internacional", IT: LA 7D
