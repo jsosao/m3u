@@ -1,13 +1,13 @@
 #EXTM3U
 
-************************  16/JUN/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  17/JUN/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ************************ HI, THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", CANAL_160620241100
+#EXTINF:-1 group-title="Bics", CANAL_170620241100
 https://raw.githubusercontent.com/jsosao/m3u/main/patron.m3u8
 #EXTINF:-1 group-title="Bics", MX: FIA AZTECA 
 https://mdstrm.com/live-stream-playlist/5ff462cc0c34b9420400e834.m3u8
@@ -105,7 +105,9 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 #EXTINF:-1 group-title="Bics Extra Latino", GT: TV AZTECA GUATE
 https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", US: CANAL 57
-https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
+***** https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.fmp4.m3u8
+
 #EXTINF:-1 group-title="Bics Extra US", US: CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="Bics Extra US", US: NASA TV
@@ -170,6 +172,15 @@ https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
 
+#EXTINF:-1 group-title="Bics Extra Latino", CR: CANAL 2
+https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="Bics Extra Latino", CR: CANAL 4
+https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="Bics Extra Latino", CR: CANAL 6
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="Bics Extra Latino", CR: CANAL 11
+https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
+
 ***************************************************************   **************************************************************************************
 
 #EXTINF:-1 group-title="Bics Extra US", AL JAZEERA EN
@@ -204,6 +215,8 @@ http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/117156
 https://homeip.biz/livso/index.m3u8
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 12
 https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 13
+https://d1u68oyra9spme.cloudfront.net/master.m3u8
 
 ***************************************************************   **************************************************************************************
 #EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 01
@@ -220,6 +233,13 @@ https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/60580
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 07
 https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 08
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 09
+https://d1u68oyra9spme.cloudfront.net/master.m3u8
+
+https://trt.daioncdn.net/trt-1/master_480p.m3u8?&sid=6hvkc6z7lo8b&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+
 
 ***************************************************************   **************************************************************************************
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 01
