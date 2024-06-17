@@ -1,13 +1,13 @@
 #EXTM3U
 
-************************  15/JUN/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  17/JUN/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ************************ HI, THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", CANAL_150620241100
+#EXTINF:-1 group-title="Bics", CANAL_170620241100
 https://raw.githubusercontent.com/jsosao/m3u/main/patron.m3u8
 #EXTINF:-1 group-title="Bics", MX: FIA AZTECA 
 https://mdstrm.com/live-stream-playlist/5ff462cc0c34b9420400e834.m3u8
@@ -70,6 +70,8 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", MX: FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF:-1 group-title="Bics", MX: TELEVISA GLD
+https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_6.m3u8
 #EXTINF:-1 group-title="Bics", MX: N+ MEDIA
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", MX: N+
@@ -90,9 +92,11 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Privado2/playlist.m3u8
 #EXTINF:-1  group-title="Bics", MX: EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1  group-title="Bics", MX: MUNDO CATOLICO
-https://ythls-v2.onrender.com/channel/UCjhq1eY5Ce1TGOn2JbGnHsw.m3u8
+https://ythls-v3.onrender.com/channel/UCjhq1eY5Ce1TGOn2JbGnHsw.m3u8
 
 *******************************************************************************************************************************************************************
+
+*************************************************************** propio  **************************************************************************************
 
 #EXTINF:-1 group-title="Bics Extra Latino", PR: UNIVISION
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
@@ -100,12 +104,40 @@ https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cf
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", PR: PUNTO 2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+#EXTINF:-1 group-title="Bics Extra Latino", GT: TV AZTECA GUATE
+https://ch1-tva.duin.dev/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Bics Extra Latino", PE: PANAMERICANA
+https://cdnhd.iblups.com/hls/ptv5.m3u8
+
+#EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 21
+https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
+
+#EXTINF:-1 group-title="Bics Extra Latino", HN: VTV
+https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 group-title="Bics Extra Latino", CR: CANAL 2
+https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="Bics Extra Latino", CR: CANAL 4
+https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="Bics Extra Latino", CR: CANAL 6
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="Bics Extra Latino", CR: CANAL 11
+https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
+
 #EXTINF:-1 group-title="Bics Extra Latino", US: CANAL 57
-https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
+***** https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.fmp4.m3u8
+
 #EXTINF:-1 group-title="Bics Extra US", US: CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="Bics Extra US", US: NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:-1 group-title="Bics Extra US", AL JAZEERA EN
+https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
+#EXTINF:-1 group-title="Bics Extra US", AL JAZEERA ARAB
+https://live-hls-web-aja-fa.getaj.net/AJA/05.m3u8
 
 ***************  rasta ***************
 
@@ -118,6 +150,8 @@ http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158838
 
 #EXTINF:-1 group-title="Bics Extra Latino", PA: TV  Max
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Bics Extra Latino", PA: RPC
+https://live-c2.cf.dmcdn.net/sec2(ejBWN_KARqzTGVSONN4_8uGkY48kusy5_D_ODZ0nt_aC46CLXvSnAn4PDHZFaXjve9te_lxIQCj3PLK9a5asdzDj0Z_3X5I2YUxkpBWi_mU)/cloud/3/x8lwrcd/s/live-2.m3u8#cell=lcfc2
 #EXTINF:-1 group-title="Bics Extra Latino", AR: TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
@@ -159,35 +193,6 @@ https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 
 ***************************************************************   **************************************************************************************
-#EXTINF:-1 group-title="Bics Extra Latino", PE: PANAMERICANA
-https://cdnhd.iblups.com/hls/ptv5.m3u8
-#EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 21
-https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
-
-***************************************************************   **************************************************************************************
-
-#EXTINF:-1 group-title="Bics Extra US", AL JAZEERA EN
-https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
-#EXTINF:-1 group-title="Bics Extra US", AL JAZEERA ARAB
-https://live-hls-web-aja-fa.getaj.net/AJA/05.m3u8
-
-***************************************************************   **************************************************************************************
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 01
-https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 02
-https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 03
-https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 04
-https://78549.pricesaskeloadsc.com/winplus/tracks-v1a1/mono.m3u8?token=f94307dc0c837f6ab98e3c5b4f7832a5a4a110b4-bd-1718034146-1718023346
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 05
-https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 06
-https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 07
-http://177.53.153.20:8001/play/a0em/index.m3u8
-
-***************************************************************   **************************************************************************************
 ******************** sports ****************
 
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 01
@@ -199,31 +204,262 @@ http://200.60.124.19:29000/play/a016/index.m3u8
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 04
 https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 05
-http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/335876
+http://45.41.213.34:70/TSN1/index.m3u8
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 06
+http://45.41.213.34:70/TSN4/index.m3u8
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 07
+http://45.41.213.34:70/TSN5/index.m3u8
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 08
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 09
+https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 10
+http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/117156
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 11
+https://homeip.biz/livso/index.m3u8
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 12
+https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 13
+https://d1u68oyra9spme.cloudfront.net/master.m3u8
+
+*****************************************************************************************************************************************************
+******************************************************* TEMPORALES POR EVENTO ***********************************************************************
+*****************************************************************************************************************************************************
 
 ***************************************************************   **************************************************************************************
-#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 01
-http://181.78.105.146:2000/play/a08m/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 02
-https://linear-507.frequency.stream/mt/studio/507/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 03
-https://linear-506.frequency.stream/mt/studio/506/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 01
+***** http://181.78.105.146:2000/play/a08m/index.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 02
+***** https://linear-507.frequency.stream/mt/studio/507/hls/master/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 03
+***** https://linear-506.frequency.stream/mt/studio/506/hls/master/playlist.m3u8
+
 
 ***************************************************************   **************************************************************************************
 
-#EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 01
+***** #EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 01
+***** https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+
+***************************************************************   **************************************************************************************
+
+#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 01
+http://45.41.213.34:70/TSN1/index.m3u8
+#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 02
+https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 03
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195
+#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 04
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 05
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 06
+https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
+#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 07
+https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 08
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 09
+https://d1u68oyra9spme.cloudfront.net/master.m3u8
+
+***************************************************************   **************************************************************************************
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 01
+https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 02
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 03
+https://live-c2.cf.dmcdn.net/sec2(ejBWN_KARqzTGVSONN4_8uGkY48kusy5_D_ODZ0nt_aC46CLXvSnAn4PDHZFaXjve9te_lxIQCj3PLK9a5asdzDj0Z_3X5I2YUxkpBWi_mU)/cloud/3/x8lwrcd/s/live-2.m3u8#cell=lcfc2
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 04
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 05
+https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 06
+http://tvlatino.live:8080/play/_A1diXa2YXbIu98UrBQoM9CFoCCxS-MNbukUrvdLOUB0IQGh8M7qvrrK6_2OKABd/ts
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 07
+http://zuiowy.net:8080/live/Paola2023/7ThHZTUFn8ze/464.m3u8
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 08
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/76703.m3u8
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 09
+https://ch1-tva.duin.dev/hls/stream.m3u8
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 10
+https://vxlive.cdn.antel.net.uy/auth_V__TV_Ciudad,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfX1RWX0NpdWRhZCUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzE4NTcwNjE3JnJhbmRvbT1WM0lzeHBhcFY5JmMtaXA9MjAxLjE0MS4xMTQuMTIxJmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTI4MCZwdWJsaWNfaWQ9MnNnc20sMmQ5ODlmZDg1NzJhZmJhNzkyNDAzN2Y3MzdiMTY0YzhlODVlNmZjNjc2NzE2YmRlNDVhNzE3MzUxNDFkZDYxMA==/vxfmt=hls/h_90ea08d700b9abffa951ea608e121f20/var3950000/playlist.m3u8
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 11
+https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/chunklist_w984880022.m3u8?k=6980c82cf2f8826ebe702b27cedaa8378ce91c44410783288cd05392ba49f8e1&exp=1718557383
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 12
+http://177.53.153.20:8001/play/a040/index.m3u8
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 12
+http://tv.soccerplus.link:8000/julia35a/anticona34/868
+
+********************  https://github.com/proyecto04/club-tv/blob/main/.m3u ***************
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 13
+http://20957968804646234.otjb0606.xyz:80/play/XJAGG3528/KA855743254/646234.ts
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 14
+http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/468
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 15
+http://394127477385816648.otjb0606.xyz:80/play/vi930121/pjApv4C8Sg/816648.ts
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 16
+http://502663436616856809.otjb0606.xyz:80/live/fe715725/3pTCaErhC6/856809.ts
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 17
+http://xyz.lattv.com.co:8080/play/Q12GJAllEl6XF3JCHmoEPYTvgFWt_s5-l1gYSFHbXzXIQ44e3FJLxqKdO0oG3odc/ts
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 18
+http://xyz.lattv.com.co:8080/play/Q12GJAllEl6XF3JCHmoEPYTvgFWt_s5-l1gYSFHbXzVH0ReIYly0aup0e-e8sIAt/ts
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 19
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="Bics DEPORTES", WIN SPORTS (colombia)
+http://zuiowy.net:8080/live/Paola2023/7ThHZTUFn8ze/464.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", WIN SPORT+ (colombia)
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/76703.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", WIN SPORT+ opc.2 (colombia)
+http://galaxypro.online:8080/LuisiBarra/CVZ3cEFX2024/555690
+#EXTINF:-1 group-title="Bics DEPORTES", vtv plus (uruguay)
+http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/181758
+#EXTINF:-1 group-title="Bics DEPORTES",  direc tv sports (argentina)
+http://tv.proyectox.vip:8080/userfruto1/H2m3De4aMA/358817
+#EXTINF:-1 group-title="Bics DEPORTES",  direc tv sport 2 (argentina)
+http://home-playtv.com:8080/powertv/W8LULsPWL9by/456658
+#EXTINF:-1 group-title="Bics DEPORTES",  espn (argentina)
+http://mstrtv.com:25461/live/3N1gma2/4h51akrHnt/50087.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",  espn 2 (argentina)
+http://tvbross.com:8090/mBEic2w7BZ/nuDwNNJLE8/18192
+#EXTINF:-1 group-title="Bics DEPORTES",  espn 3 (argentina)
+http://217.182.213.252:8080/play/hls/eyJpdiI6IkpHSE9TOVVyUFZLSnlHUEl3RHcxc0E9PSIsInZhbHVlIjoiVjdDTDZGREtIdGJUTHVrczUvRVMyUVJ0Z2JMUDZjemlNN0pZcSt0M0Z6WEVXaGhpTXowenJsUVpIK1VrcVZ2byIsIm1hYyI6ImYzZWZkNTI5MWE2Y2I3ODg1Njc5OGEwNTVmNGVmODJlYjdiYTJjNmY4YzcxZDJmOTc0MWU3ZDIwY2IxZGQ1ODIiLCJ0YWciOiIifQ==/6d068831-b2ec-4dee-b555-bcfc801b32f0.m3u8?lvtoken=eyJpdiI6InZENzlGNDFvejdoT0VsOS9MMzV5OHc9PSIsInZhbHVlIjoibzFzNGZ5L09uYkd5a2NsK2hYSTBOSmdBc1NqRzdvaG9VWHZYQ1hZSFNzWkZaRlF4UkRnTFhGV1lhZ1JSWGJWdEtUUFlkckR2RlM5a3hxSjVhNW1kclhURHFHMlB3dkZOWnBZM2NDWldyMzcrVzc1QllUUmtjUzhEWTJNTDFpUDBFNWhWUCtDNUxBMVRTTUFZZGxEMDZXd3pjbDZnYnhyb3B1elY1OVd2TlBpd2RrUkpjK29paUZlak1md3A1OWkxVXhiWlVDUFRiRWFZNTJDRFlTUnBKUT09IiwibWFjIjoiNzIwMjk2ZThkNzVkNmY3MjZmMTNlNjE5YzRjYjEzNjYxZTU4OTZkMDBhOTZmMDFiMzkzNGM4NjRmYjEyZDFmNCIsInRhZyI6IiJ9&r=693940&rt=d4f1f59876ba91f22fdf65c72064c53c
+#EXTINF:-1 group-title="Bics DEPORTES",  espn premium (argentina)
+http://tvbross.com:8090/mBEic2w7BZ/nuDwNNJLE8/47185
+#EXTINF:-1 group-title="Bics DEPORTES",  fox sport (argentina)
+http://maiolve.club:8080/GalaxyQQQ6987/fR4W3NQ35DSs/2090080
+#EXTINF:-1 group-title="Bics DEPORTES",  fox sport 2 (argentina)
+http://lobo-tv.live:8080/rhin0xCPwow/yXtqbNNtmzaqU/10957
+#EXTINF:-1 group-title="Bics DEPORTES", fox 3 (argentina)
+http://tv.soccerplus.link:8000/andresmiranda/DTp1CZJ98f/34589
+#EXTINF:-1 group-title="Bics DEPORTES", tyc SPORTS (argentina)
+http://mstrtv.com:25461/live/3N1gma2/4h51akrHnt/127555.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", TyC sports play (argentina)
+https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",  TNT Sports (argentina)
+http://tvbross.com:8090/mBEic2w7BZ/nuDwNNJLE8/37542
+#EXTINF:-1 group-title="Bics DEPORTES", Tnt sports (chile)
+http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/57160
+#EXTINF:-1 group-title="Bics DEPORTES", TNT SPORTS 2 (chile)
+http://854028012115848149.ofk0601.xyz:80/live/MFCiptv2023.7/dFxQTA3KYGWX/848149.ts
+#EXTINF:-1 group-title="Bics DEPORTES", Tnt sports 3 (chile)
+http://maiolve.club:8080/GalaxyQQQ6987/fR4W3NQ35DSs/25366
+#EXTINF:-1 group-title="Bics DEPORTES", Tnt estadio sports (chile)
+http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/57154
+#EXTINF:-1 group-title="Bics DEPORTES", CDO PREMIUM (chile)
+http://maiolve.club:8080/GalaxyQQQ6987/fR4W3NQ35DSs/25371
+#EXTINF:-1 group-title="Bics DEPORTES", contacto deportivo (peru)
+https://live.obslivestream.com/cdeportivo/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", gol peru (peru)
+http://alfatv.lat:2082/diego270903/diego270903/234942
+#EXTINF:-1 group-title="Bics DEPORTES", liga 1
+http://tvbross.com:8090/comandoalmache/almache2022../140577
+#EXTINF:-1 group-title="Bics DEPORTES", liga 1 max
+http://galaxypro.online:8080/GingerAndrade1311/0984789890GA/103257
+#EXTINF:-1 group-title="Bics DEPORTES",  movistar (peru)
+http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/181756
+#EXTINF:-1 group-title="Bics DEPORTES",  FOX SPORTS  1 (México)
+http://home-playtv.com:8080/powertv/W8LULsPWL9by/36396
+#EXTINF:-1 group-title="Bics DEPORTES",  FOX SPORTS 2 (México)
+http://tilinki.com:25461/caqo5939/2g7xS/24
+#EXTINF:-1 group-title="Bics DEPORTES",  FOX SPORTS 3 (México)
+http://home-playtv.com:8080/powertv/W8LULsPWL9by/9538
+#EXTINF:-1 group-title="Bics DEPORTES",  ESPN SPORT 1 (México)
+https://sdmx.vip:443/belpley/sYqKZQrTZa/155472.ts
+#EXTINF:-1 group-title="Bics DEPORTES",  ESPN SPORT 2 (mexico)
+http://elperrotv.online:80/OSCARNOE/VXF6vmcXYH/1069852
+#EXTINF:-1 group-title="Bics DEPORTES",  ESPN SPORT 3 (México)
+http://elperrotv.online:80/OSCARNOE/VXF6vmcXYH/1069859
+#EXTINF:-1 group-title="Bics DEPORTES",  espn 4 (México)
+http://elperrotv.online:80/OSCARNOE/VXF6vmcXYH/1069865
+#EXTINF:-1 group-title="Bics DEPORTES",TVC SPORTS 
+http://budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159097
+#EXTINF:-1 group-title="Bics DEPORTES", fox sport premiun (mexico)
+http://home-playtv.com:8080/powertv/W8LULsPWL9by/158454
+#EXTINF:-1 group-title="Bics DEPORTES",  TUDN
+https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", TUDN usa
+http://tvmate.icu:8080/Alan/Alan1234/82241
+ #EXTINF:-1 group-title="Bics DEPORTES", sky sport (México)
+https://dashtvcloud.online:8443/josealbrook/panama121/144286
+#EXTINF:-1 group-title="Bics DEPORTES", azteca deportes (México)
+http://tv.proyectox.vip:8080/Hidr13odemsww/nTAuRWcTmD/180062
+#EXTINF:-1 group-title="Bics DEPORTES", deportes ufc (México)
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/8918
+#EXTINF:-1 group-title="Bics DEPORTES", deportes itv (México)
+https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", futbol network tv (México)
+https://59d39900ebfb8.streamlock.net/8312/8312/.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", faceta tv (bolivia)
+https://master.tucableip.com/ftv/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", tigo sports (bolivia)
+http://tilinki.com:25461/caqo5939/2g7xS/98583
+#EXTINF:-1 group-title="Bics DEPORTES", td + (costa rica)
+https://cdn02.teletica.com/StreamTDMas1/Streamtdmas_1_04122023/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", td + 2 (costa rica)
+https://cdn02.teletica.com/StreamTDMas2/Streamtdmas_2_04122023/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", futv (costa rica)
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162220
+#EXTINF:-1 group-title="Bics DEPORTES", tigo sports (costa rica)
+http://201.159.113.219:49000/play/a04x/index.m3u8
+ #EXTINF:-1 group-title="Bics DEPORTES", tigo sports (panama)
+https://dashtvcloud.online:8443/josealbrook/panama121/144349
+ #EXTINF:-1 group-title="Bics DEPORTES", ser tv (panama)
+https://dashtvcloud.online:8443/josealbrook/panama121/126568
+ #EXTINF:-1 group-title="Bics DEPORTES", cos fc (panama)
+https://dashtvcloud.online:8443/josealbrook/panama121/213622
+ #EXTINF:-1 group-title="Bics DEPORTES", SportTv Premiere Uno
+http://wabot.win:8080/RAX42434hh/RAX42434hh/667119
+ #EXTINF:-1 group-title="Bics DEPORTES", SportTv Premiere dos
+http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/562
+ #EXTINF:-1 group-title="Bics DEPORTES", SportTv Premiere tres
+http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/563
+ #EXTINF:-1 group-title="Bics DEPORTES", SportTv Premiere cuatro
+http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/564
+ #EXTINF:-1 group-title="Bics DEPORTES", SportTv Premiere cinco
+http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/565
+ #EXTINF:-1 group-title="Bics DEPORTES", BAND SPORTS
+http://magmas5.com:8000/live/Y78PIVSQGY/ZTY3Y2FNXB/5099.m3u8
+ #EXTINF:-1 group-title="Bics DEPORTES", WAPA BEISBOL
+https://live.field59.com/wapa/wapa2/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", Canal 13 nicaragua
+http://tvlatino.live:8080/play/_A1diXa2YXbIu98UrBQoM9CFoCCxS-MNbukUrvdLOUB0IQGh8M7qvrrK6_2OKABd/ts
+
+#EXTINF:-1 group-title="Bics DEPORTES", nba tv
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEXn4MLNstO02YGaIQk7Vj7_
+#EXTINF:-1 group-title="Bics DEPORTES", mlb network 
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEXuEvcE6ncGKEYRubAc_MXo
+#EXTINF:-1 group-title="Bics DEPORTES", nfl network 
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEVYJW-Q5gl89q2J5sBjKlEZ
+#EXTINF:-1 group-title="Bics DEPORTES", tennis channels
+http://tvlatino.club:2082/devil40/VkCBMYP78uZn/243903
+#EXTINF:-1 group-title="Bics DEPORTES", golf channels
+http://tvlatino.club:2082/devil40/VkCBMYP78uZn/190695
+#EXTINF:-1 group-title="Bics DEPORTES", wwe network
+http://tvlatino.club:2082/devil40/VkCBMYP78uZn/243910
+#EXTINF:-1 group-title="Bics DEPORTES", willow cricket network 
+http://tvlatino.club:2082/devil40/VkCBMYP78uZn/243908
+#EXTINF:-1 group-title="Bics DEPORTES", nhl network
+http://home-playtv.com:8080/ArianLatino/HmzUpdy26e/36435
+#EXTINF:-1 group-title="Bics DEPORTES", yes network (usa)
+https://dashtvcloud.online:8443/josealbrook/panama121/146532
+#EXTINF:-1 group-title="Bics DEPORTES", gol tv (usa)
+https://dashtvcloud.online:8443/josealbrook/panama121/223552
 
 ***************************************************************   **************************************************************************************
 
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: LMB OFICIAL
-https://ythls-v2.onrender.com/channel/UCK2zXiKpzbIrooNi6oRBLvg.m3u8
+https://ythls-v3.onrender.com/channel/UCK2zXiKpzbIrooNi6oRBLvg.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: AZTECA DEPORTES
-https://ythls-v2.onrender.com/channel/UCe3Ev4a4Sm9L5aO9sJJ_WXw.m3u8
+https://ythls-v3.onrender.com/channel/UCe3Ev4a4Sm9L5aO9sJJ_WXw.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: FOX SPORTS DIGITAL
-https://ythls-v2.onrender.com/channel/UCUf4RLsG_TsjinvtL2jT-VA.m3u8
+https://ythls-v3.onrender.com/channel/UCUf4RLsG_TsjinvtL2jT-VA.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: Hi SPORTS TV
-https://ythls-v2.onrender.com/channel/UCpWPnP8s0YbVpzhzg6Pk2iA.m3u8
+https://ythls-v3.onrender.com/channel/UCpWPnP8s0YbVpzhzg6Pk2iA.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: CLARO SPORTS
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: INTERNETV DEPORTES
@@ -250,15 +486,18 @@ https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: BRAVOS LEON
 https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: ACEREROS (SOLO EN PARTIDO)
-https://ythls-v2.onrender.com/channel/UCsRvUjq4j4LvHxNdHLUbydw.m3u8
+https://ythls-v3.onrender.com/channel/UCsRvUjq4j4LvHxNdHLUbydw.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: DORADOS (SOLO EN PARTIDO)
-https://ythls-v2.onrender.com/channel/UCQOSwVDBx6UDeM0v66zQjAg.m3u8
+https://ythls-v3.onrender.com/channel/UCQOSwVDBx6UDeM0v66zQjAg.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: TOROS (SOLO EN PARTIDO)
-https://ythls-v2.onrender.com/channel/UCcjoyEQK5cAuYlw78v4GCuA.m3u8
+https://ythls-v3.onrender.com/channel/UCcjoyEQK5cAuYlw78v4GCuA.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: CALIENTE DGO (SOLO EN PARTIDO)
-https://ythls-v2.onrender.com/channel/UC4OsFuy6GS9l0beb6MLbblA.m3u8
+https://ythls-v3.onrender.com/channel/UC4OsFuy6GS9l0beb6MLbblA.m3u8
+
+https://anym3u8player.com/youtube.php/id/UC4OsFuy6GS9l0beb6MLbblA.m3u8
+
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: DOS LAREDOS (SOLO EN PARTIDO)
-https://ythls-v2.onrender.com/channel/UCc_Ql73KzxzsJJD8jhU52dg.m3u8
+https://ythls-v3.onrender.com/channel/UCc_Ql73KzxzsJJD8jhU52dg.m3u8
 
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: PERICOS
 https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
@@ -269,7 +508,7 @@ https://webprod.sipse.com.mx:8080/show/merida.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: TIGRES DE QOO
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: TIGRES DE QOO (SOLO EN PARTIDO)
-https://ythls-v2.onrender.com/channel/UCmI3b9y_83CF39GBvBEnkUw.m3u8
+https://ythls-v3.onrender.com/channel/UCmI3b9y_83CF39GBvBEnkUw.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: PIRATAS
 https://5f1af61612fb5.streamlock.net/trc/videotrc/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: GUERREROS
@@ -277,11 +516,11 @@ https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: OLMECAS
 https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: DIABLOS ROJOS (SOLO EN PARTIDO)
-https://ythls-v2.onrender.com/channel/UCbPTmPbmSO-BYGCMHm77RUg.m3u8
+https://ythls-v3.onrender.com/channel/UCbPTmPbmSO-BYGCMHm77RUg.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", MX: TU CANAL EDUCATIVO (SOLO EN PARTIDO)
-https://ythls-v2.onrender.com/channel/UC4mSfK49CGFZPrRK50xPS6w.m3u8
+https://ythls-v3.onrender.com/channel/UC4mSfK49CGFZPrRK50xPS6w.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", MX: MADO REPORT DEPORTES (SOLO EN PARTIDO)
-https://ythls-v2.onrender.com/channel/UCB8Tv4_FgS5-JYezqShFDKQ.m3u8
+https://ythls-v3.onrender.com/channel/UCB8Tv4_FgS5-JYezqShFDKQ.m3u8
 
 
 ***************************************************************   **************************************************************************************
@@ -289,17 +528,17 @@ https://ythls-v2.onrender.com/channel/UCB8Tv4_FgS5-JYezqShFDKQ.m3u8
 ********************************************* CANALES REGIONALES Y YOUTUBE  ********************************************************************************
 
 #EXTINF:-1 group-title="Bics REGIONALES", AGS: TELEVISA AGUASCALIENTES
-https://ythls-v2.onrender.com/channel/UC5ZtV3bu3bjSuOLoA6oCFIg.m3u8
+https://ythls-v3.onrender.com/channel/UC5ZtV3bu3bjSuOLoA6oCFIg.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", AGS: CANAL 26
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", BAJA: TELEVISA ENSENADA
-https://ythls-v2.onrender.com/channel/UCFuWAM_YItwkHzDWDKtJULg.m3u8
+https://ythls-v3.onrender.com/channel/UCFuWAM_YItwkHzDWDKtJULg.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", BAJA: TELEVISA MEXICALI
-https://ythls-v2.onrender.com/channel/UCcmuFsMIIIHO3LBqeBVfm8Q.m3u8
+https://ythls-v3.onrender.com/channel/UCcmuFsMIIIHO3LBqeBVfm8Q.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", BAJA: TELEVISA TIJUANA
-https://ythls-v2.onrender.com/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
+https://ythls-v3.onrender.com/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", BAJA: CANAL 66 MEXICALI
-https://ythls-v2.onrender.com/channel/UCgu4v4HAioB0N5K6aq_H-WQ.m3u8
+https://ythls-v3.onrender.com/channel/UCgu4v4HAioB0N5K6aq_H-WQ.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", BAJA: CANAL 33 TIJUANA
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
 
@@ -321,13 +560,13 @@ https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", CDMX: CANAL 22.2
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", CUA: TELEVISA CD. JUAREZ
-https://ythls-v2.onrender.com/channel/UCot4t8PVKz8TT5xVM8Eb00w.m3u8
+https://ythls-v3.onrender.com/channel/UCot4t8PVKz8TT5xVM8Eb00w.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", CUA: CANAL 44 Chihuahua
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", COA: TELEVISA PIEDRAS NEGRAS
-https://ythls-v2.onrender.com/channel/UCxK8C1E8UZ5RipNXIBYEvTA.m3u8
+https://ythls-v3.onrender.com/channel/UCxK8C1E8UZ5RipNXIBYEvTA.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", COA: TELEVISA SALTILLO
-https://ythls-v2.onrender.com/channel/UCpeD73Gb4KjKUL2gyoJ4gLw.m3u8
+https://ythls-v3.onrender.com/channel/UCpeD73Gb4KjKUL2gyoJ4gLw.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", COA: RCG
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", COA: RCG .2
@@ -354,7 +593,7 @@ https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 https://alba-mx-c13mexico-c13tapachula.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", DGO: TELEVISA DURANGO
-https://ythls-v2.onrender.com/channel/UCON7DvLd5N8tXivc9WqILxQ.m3u8
+https://ythls-v3.onrender.com/channel/UCON7DvLd5N8tXivc9WqILxQ.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", DGO: CANAL 10
 https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
 
@@ -364,10 +603,10 @@ https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", GRO: TELEVISA GUERRERO
-https://ythls-v2.onrender.com/channel/UCnxTRk2K1iNsQkgpWXxyj4w.m3u8
+https://ythls-v3.onrender.com/channel/UCnxTRk2K1iNsQkgpWXxyj4w.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", GTO: TELEVISA DEL BAJIO
-https://ythls-v2.onrender.com/channel/UC-uYy4_jIvDoJ4wigEv1S5A.m3u8
+https://ythls-v3.onrender.com/channel/UC-uYy4_jIvDoJ4wigEv1S5A.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", GTO: TV 4.1
 https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
@@ -377,10 +616,10 @@ https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
 https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", JAL: TELEVISA GUADALAJARA
-https://ythls-v2.onrender.com/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
+https://ythls-v3.onrender.com/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", MEX: IMAGEN TV
-https://ythls-v2.onrender.com/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
+https://ythls-v3.onrender.com/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", MICH: SMRT
 https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
@@ -388,41 +627,41 @@ https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
 https://alba-mx-c13mexico-c13michoacan.stream.mediatiquestream.com/480p.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", MOR: TELEVISA MORELOS
-https://ythls-v2.onrender.com/channel/UCcC9ykApQrgl4UxbKg2U4zw.m3u8
+https://ythls-v3.onrender.com/channel/UCcC9ykApQrgl4UxbKg2U4zw.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", MOR: 15.1
 https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", NL: TELEVISA MONTERREY
-https://ythls-v2.onrender.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg.m3u8
+https://ythls-v3.onrender.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", NL: TELEVISA NORESTE
-https://ythls-v2.onrender.com/channel/UC752DYv5vPlTSMrvEjfZXcw.m3u8
+https://ythls-v3.onrender.com/channel/UC752DYv5vPlTSMrvEjfZXcw.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", NL: MULTIMEDIOS
-https://ythls-v2.onrender.com/channel/UCo1nfa1JKNqtcUyLjLwTiIw.m3u8
+https://ythls-v3.onrender.com/channel/UCo1nfa1JKNqtcUyLjLwTiIw.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", PUE: TELEVISA PUEBLA
-https://ythls-v2.onrender.com/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
+https://ythls-v3.onrender.com/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", PUE: MULTIMEDIOS PUEBLA
 https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", PUE: CANAL 13
 https://alba-mx-c13mexico-c13puebla.stream.mediatiquestream.com/live2/alba-mx-c13mexico-c13puebla_240p/chunks.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", QRO: TELEVISA QUERETARO
-https://ythls-v2.onrender.com/channel/UC9QNz6VS3gGz55dzxAQtgtA.m3u8
+https://ythls-v3.onrender.com/channel/UC9QNz6VS3gGz55dzxAQtgtA.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", QOO: TELEVISA QUINTANA QOO
-https://ythls-v2.onrender.com/channel/UC37V2K5_sXWqOhoc5WgiXhw.m3u8
+https://ythls-v3.onrender.com/channel/UC37V2K5_sXWqOhoc5WgiXhw.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", QOO: CANAL 10 CANCUN
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", QOO: SIPSE
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", SIN: TELEVISA SINALOA
-https://ythls-v2.onrender.com/channel/UCtm1LvYEIQ_NrfOUVJ08YhQ.m3u8
+https://ythls-v3.onrender.com/channel/UCtm1LvYEIQ_NrfOUVJ08YhQ.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", SLP: TELEVISA SAN LUIS POTOSI
-https://ythls-v2.onrender.com/channel/UCaRuyaHshLdq462E9_pLzdA.m3u8
+https://ythls-v3.onrender.com/channel/UCaRuyaHshLdq462E9_pLzdA.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", SON: TELEVISA SONORA
-https://ythls-v2.onrender.com/channel/UCyzWMHGS7bs0sot6KZk5EZg.m3u8
+https://ythls-v3.onrender.com/channel/UCyzWMHGS7bs0sot6KZk5EZg.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", SON: TELEMAX
 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 
@@ -435,27 +674,28 @@ https://5fe2654d6127d.streamlock.net/tabasco/videotabasco/playlist.m3u8?wmsAuthS
 https://alba-mx-c13mexico-c13tabasco.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", TAM: TELEVISA DEL GOLFO
-https://ythls-v2.onrender.com/channel/UCQ08tNTPiBn44c975S81ftg.m3u8
+https://ythls-v3.onrender.com/channel/UCQ08tNTPiBn44c975S81ftg.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", TAM: TELEVISA VICTORIA
-https://ythls-v2.onrender.com/channel/UCIqGddpV4flOlK3b-hgu9pQ.m3u8
+https://ythls-v3.onrender.com/channel/UCIqGddpV4flOlK3b-hgu9pQ.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", VER: TELEVISA VERACRUZ
-https://ythls-v2.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
+https://ythls-v3.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", VER: RTV  VERACRUZ
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", YUC: TELEVISA YUCATAN
-https://ythls-v2.onrender.com/channel/UCMIYaH2cLoPS8Hcb-9AA2ZA.m3u8
+https://ythls-v3.onrender.com/channel/UCMIYaH2cLoPS8Hcb-9AA2ZA.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", YUC: TELEPLAY
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", YUC: SIPSE
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", ZAC: TELEVISA ZACATECAS
-https://ythls-v2.onrender.com/channel/UCQb3i7gu9J8A4zzQU7j6C1Q.m3u8
+https://ythls-v3.onrender.com/channel/UCQb3i7gu9J8A4zzQU7j6C1Q.m3u8
 
 
 ********************************************* CANALES DEPORTES Y YOUTUBE  ********************************************************************************
+
 ******** emilio *********
 #EXTINF:-1 group-title="Bics DEPORTES", MX: TVC
 http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26966
@@ -475,9 +715,7 @@ https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: AYM SPORTS
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: CALIENTE TV
-https://ythls-v2.onrender.com/channel/UCpJN_3WCOtfICbsKKxZcBsg.m3u8
-
-************************** emilio ************************************************************************
+https://ythls-v3.onrender.com/channel/UCpJN_3WCOtfICbsKKxZcBsg.m3u8
 
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FOX SPORTS 1
 https://vivo.lamtv.tv:8081/a/0175/playlist.m3u8
@@ -496,14 +734,6 @@ http://181.78.105.146:2000/play/a064/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN3
 http://181.78.105.146:2000/play/a03n/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", Claro Sports 1 HD
-http://131.161.53.2:8000/play/a01i/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", Claro Sports 1 SD
-http://131.161.53.2:8000/play/a06h/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", Claro Sports 2 HD
-http://131.161.53.2:8000/play/a01j/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", Claro Sports 2 SD
-http://131.161.53.2:8000/play/a045/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", ESPN
 http://131.161.53.2:8000/play/a058/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", ESPN 4
@@ -535,27 +765,46 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u
 
 ************************** sports *********************************
 
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN VIVO 🇦🇷
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN VIVO
 http://170.82.37.21:8000/play/a04g/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN VIVO 🇦🇷
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN VIVO
 http://181.78.8.90:16123/play/ch16
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN VIVO HD 🇦🇷
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN VIVO HD
 http://200.60.124.19:29000/play/a016/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 2 HD 🇦🇷
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 2 HD
 http://181.78.8.90:16123/play/ch17
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 2 HD 🇦🇷
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 2 HD
 http://200.60.124.19:29000/play/a015/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 3 HD 🇦🇷
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 3 HD
 http://200.60.124.19:29000/play/a02e/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 5 🇦🇷
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 5
 http://181.78.8.90:16123/play/ch19
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 5 🇦🇷
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 5 
 http://200.60.124.19:29000/play/a04y/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN 6 🇦🇷
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN 6 
 http://200.60.124.19:29000/play/a01f/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 7 🇦🇷
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 7 
 http://200.60.124.19:29000/play/a01e/index.m3u8
 
+#EXTINF:-1 group-title="Bics DEPORTES", TSN 1 
+http://45.41.213.34:70/TSN1/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", TSN 2 
+http://45.41.213.34:70/TSN2/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", TSN 3 
+http://45.41.213.34:70/TSN3/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", TSN 4 
+http://45.41.213.34:70/TSN4/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", TSN 5 
+http://45.41.213.34:70/TSN5/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Bics DEPORTES", CCTV5 🇨🇳
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", CCTV5 🇨🇳
+https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8?|referer:https://olevod.tv/
+#EXTINF:-1 group-title="Bics DEPORTES", CCTV5 + 🇨🇳
+https://live.olelive.com:6443/live/CCTV5PHD/hls.m3u8?|referer:https://olevod.tv/
 
 ****************************************************************************************************************************
 
