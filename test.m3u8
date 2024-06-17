@@ -122,7 +122,7 @@ https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", CR: CANAL 11
 https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 group-title="Bics Extra Latino", US: CANAL 57
+#EXTINF:-1 group-title="Bics Extra US", US: CANAL 57
 ***** https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.fmp4.m3u8
 
@@ -135,6 +135,15 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
 #EXTINF:-1 group-title="Bics Extra US", AL JAZEERA ARAB
 https://live-hls-web-aja-fa.getaj.net/AJA/05.m3u8
+
+#EXTINF:-1 group-title="Bics Extra US", KTLA
+https://dcs-live-uw1.mp.lura.live/server/play/50ZGbepT8XD8SGRA/rendition.m3u8?track=video-1&anvsid=m177610542-nd7f151f7b23970e480f6bf8ec8c4f1e7&ts=1718648788
+
+
+#EXTINF:-1 group-title="Bics Extra Internacional", IT: LA 7
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
+#EXTINF:-1 group-title="Bics Extra Internacional", IT: LA 7D
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
 
 ***************  rasta ***************
 
@@ -714,6 +723,9 @@ https://dai.google.com/linear/hls/pa/event/NHe1sutaROeLlaDlLvF4-g/stream/031383d
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: CALIENTE TV
 https://ythls-v3.onrender.com/channel/UCpJN_3WCOtfICbsKKxZcBsg.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", MX: CHIRINGUITO INSIDE
+https://ythls-v3.onrender.com/channel/UCznSLkPhcORf0JhonB7Aegg.m3u8
+
 
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FOX SPORTS 1
 https://vivo.lamtv.tv:8081/a/0175/playlist.m3u8
