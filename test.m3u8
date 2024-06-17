@@ -202,6 +202,8 @@ https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
 http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/117156
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 11
 https://homeip.biz/livso/index.m3u8
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 12
+https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
 ***************************************************************   **************************************************************************************
 #EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 01
@@ -214,6 +216,10 @@ http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 #EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 05
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 06
+https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
+#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 07
+https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
 ***************************************************************   **************************************************************************************
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 01
@@ -243,12 +249,11 @@ http://177.53.153.20:8001/play/a040/index.m3u8
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 12
 http://tv.soccerplus.link:8000/julia35a/anticona34/868
 
-
 ********************  https://github.com/proyecto04/club-tv/blob/main/.m3u ***************
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 13
 http://20957968804646234.otjb0606.xyz:80/play/XJAGG3528/KA855743254/646234.ts
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 14
-http://394127477385855513.otjb0606.xyz:80/play/vi930121/pjApv4C8Sg/855513.ts
+http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/468
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 15
 http://394127477385816648.otjb0606.xyz:80/play/vi930121/pjApv4C8Sg/816648.ts
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 16
@@ -257,6 +262,8 @@ http://502663436616856809.otjb0606.xyz:80/live/fe715725/3pTCaErhC6/856809.ts
 http://xyz.lattv.com.co:8080/play/Q12GJAllEl6XF3JCHmoEPYTvgFWt_s5-l1gYSFHbXzXIQ44e3FJLxqKdO0oG3odc/ts
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 18
 http://xyz.lattv.com.co:8080/play/Q12GJAllEl6XF3JCHmoEPYTvgFWt_s5-l1gYSFHbXzVH0ReIYly0aup0e-e8sIAt/ts
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 19
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
 
 #EXTINF:-1 group-title="Bics DEPORTES", WIN SPORTS (colombia)
@@ -760,6 +767,14 @@ http://45.41.213.34:70/TSN4/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", TSN 5 
 http://45.41.213.34:70/TSN5/index.m3u8
 
+
+
+#EXTINF:-1 group-title="Bics DEPORTES", CCTV5 🇨🇳
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", CCTV5 🇨🇳
+https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8?|referer:https://olevod.tv/
+#EXTINF:-1 group-title="Bics DEPORTES", CCTV5 + 🇨🇳
+https://live.olelive.com:6443/live/CCTV5PHD/hls.m3u8?|referer:https://olevod.tv/
 
 ****************************************************************************************************************************
 
