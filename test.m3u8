@@ -123,8 +123,8 @@ https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 group-title="Bics Extra US", US: CANAL 57
-***** https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
-https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.fmp4.m3u8
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="Bics Extra US", US: CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -153,7 +153,7 @@ http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158838
 #EXTINF:-1 group-title="Bics Extra Latino", PA: TV  Max
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", PA: RPC
-https://live-c2.cf.dmcdn.net/sec2(ejBWN_KARqzTGVSONN4_8uGkY48kusy5_D_ODZ0nt_aC46CLXvSnAn4PDHZFaXjve9te_lxIQCj3PLK9a5asdzDj0Z_3X5I2YUxkpBWi_mU)/cloud/3/x8lwrcd/s/live-2.m3u8#cell=lcfc2
+https://live-c2.cf.dmcdn.net/sec2(ejBWN_KARqzTGVSONN4_8uGkY48kusy5_D_ODZ0nt_aC46CLXvSnAn4PDHZFaXjve9te_lxIQCj3PLK9a5asdzDj0Z_3X5I2YUxkpBWi_mU)/cloud/3/x8lwrcd/s/live-2.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", AR: TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
@@ -269,7 +269,7 @@ https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 02
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 03
-https://live-c2.cf.dmcdn.net/sec2(ejBWN_KARqzTGVSONN4_8uGkY48kusy5_D_ODZ0nt_aC46CLXvSnAn4PDHZFaXjve9te_lxIQCj3PLK9a5asdzDj0Z_3X5I2YUxkpBWi_mU)/cloud/3/x8lwrcd/s/live-2.m3u8#cell=lcfc2
+https://live-c2.cf.dmcdn.net/sec2(ejBWN_KARqzTGVSONN4_8uGkY48kusy5_D_ODZ0nt_aC46CLXvSnAn4PDHZFaXjve9te_lxIQCj3PLK9a5asdzDj0Z_3X5I2YUxkpBWi_mU)/cloud/3/x8lwrcd/s/live-2.m3u8
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 04
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 05
