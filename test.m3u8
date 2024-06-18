@@ -255,16 +255,18 @@ http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195
 #EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 04
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 #EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 05
-https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+http://rasaiptv.com:8080/amartinez/s1stemas.13579/114358
 #EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 06
-https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 #EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 07
-https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8
+https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 08
-https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 09
-https://d1u68oyra9spme.cloudfront.net/master.m3u8
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 10
+https://d1u68oyra9spme.cloudfront.net/master.m3u8
+#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 11
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 
 ***************************************************************   **************************************************************************************
