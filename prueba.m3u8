@@ -2,3 +2,21 @@
 
 #EXTINF:-1 group-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5b3ef5178266173.653c678f16ee5.png" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5b3ef5178266173.653c678f16ee5.png" group-title="INTENSAMENTE 2 "LA PELICULA"", INTENSAMENTE 2
 https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/17/20/58/63r8Yesx8sg6/media/hls/master.m3u8
+
+
+
+
+#EXTINF:-1 group-title="INTENSAMENTE 2 "LA PELICULA"", TRT 1
+https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=6i33vhfuwhm0&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+
+#EXTINF:-1 group-title="INTENSAMENTE 2 "LA PELICULA"", TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="INTENSAMENTE 2 "LA PELICULA"", TRT BELGESEL
+https://tv-trtbelgesel.medya.trt.com.tr/master_480.m3u8
+
+#EXTINF:-1 group-title="INTENSAMENTE 2 "LA PELICULA"", TRT SPORT
+https://trt.daioncdn.net/trtspor/master_480p.m3u8?&sid=6i34804vd6dm&app=71ff325a-50b6-48f4-8a67-3daa89386c24&ce=2
+
+#EXTINF:-1 group-title="INTENSAMENTE 2 "LA PELICULA"", TRT SPORT STAR
+https://trt.daioncdn.net/trtspor-yildiz/master_480p.m3u8?&sid=6i34afrum93c&app=2c6690bb-4021-4292-8ddc-c93a3cf04a3a&ce=2
