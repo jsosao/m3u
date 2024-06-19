@@ -125,15 +125,19 @@ https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", CR: CANAL 11
 https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 
+#EXTINF:-1 group-title="Bics Extra Latino", PA: TV  Max
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+
+
 #EXTINF:-1 group-title="Bics Extra US", US: CANAL 57
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Bics Extra US", US: CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="Bics Extra US", US: NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 group-title="Bics Extra US", AL JAZEERA EN
+#EXTINF:-1 group-title="Bics Extra US", US: AL JAZEERA EN
 https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
-#EXTINF:-1 group-title="Bics Extra US", AL JAZEERA ARAB
+#EXTINF:-1 group-title="Bics Extra US", US: AL JAZEERA ARAB
 https://live-hls-web-aja-fa.getaj.net/AJA/05.m3u8
 
 #EXTINF:-1 group-title="Bics Extra Internacional", IT: LA 7
@@ -141,17 +145,15 @@ https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 #EXTINF:-1 group-title="Bics Extra Internacional", IT: LA 7D
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
 
+
 ***************  rasta ***************
 
-#EXTINF:-1 group-title="Bics Extra US", UNIVERSO
+#EXTINF:-1 group-title="Bics Extra US", US: UNIVERSO
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195
-#EXTINF:-1 group-title="Bics Extra US", ESPN DEPORTES
+#EXTINF:-1 group-title="Bics Extra US", US: ESPN DEPORTES
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158831
-#EXTINF:-1 group-title="Bics Extra US", FOX DEPORTES
+#EXTINF:-1 group-title="Bics Extra US", US: FOX DEPORTES
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158838
-
-#EXTINF:-1 group-title="Bics Extra Latino", PA: TV  Max
-https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 
 ***** #EXTINF:-1 group-title="Bics Extra Latino", PA: RPC
 ***** https://live-b2.cf.dmcdn.net/sec2(9yjPJR_NLZBp4XezizRliwDIQgOmaf1vVGX9Fi3JiyDbWJ5FD7VKQuhZ2wGN3ZvZA6dEQkId0Q0qcanhPWfrHl9JAUmB5Hu9_UWN3ww3gl8)/cloud/3/x8lwrcd/s/live-2.m3u8
@@ -171,6 +173,7 @@ https://5ca39be538307.streamlock.net/tves/smil:tves.smil/playlist.m3u8?wmsAuthSi
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 12
 http://168.227.22.18:1935/live/mobile-082/playlist.m3u8
 ***********************************************
+
 #EXTINF:-1 group-title="Bics Extra Latino", CO: CARACOL
 http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/101141 
 #EXTINF:-1 group-title="Bics Extra Latino", CO: CARACOL
@@ -184,7 +187,7 @@ http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/118354
 
 ************* pepe *******************
 
-#EXTINF:-1 group-title="Bics Extra Latino", TELEMUNDO
+#EXTINF:-1 group-title="Bics Extra US", US: TELEMUNDO
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/114358
 
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 2
@@ -200,14 +203,17 @@ https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 
 ******************  club-tv *******************************************
 
-#EXTINF:-1 group-title="Bics Extra Latino", TELEMUNDO
+#EXTINF:-1 group-title="Bics Extra US", US: TELEMUNDO
 http://elperrotv.online:80/OSCARNOE/VXF6vmcXYH/585890
-#EXTINF:-1 group-title="Bics Extra Latino", TELEMUNDO INTERNACIONAL
+#EXTINF:-1 group-title="Bics Extra US", US: TELEMUNDO INTERNACIONAL
 http://home-playtv.com:8080/powertv/W8LULsPWL9by/199197 
-#EXTINF:-1 group-title="Bics Extra Latino", UNIVISION
+#EXTINF:-1 group-title="Bics Extra US", US: UNIVISION
 http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304306
 
-***************************************************************   **************************************************************************************
+*****************************************************************************************************************************************************
+******************************************************* TEMPORALES POR EVENTO ***********************************************************************
+*****************************************************************************************************************************************************
+
 ******************** sports ****************
 
 #EXTINF:-1 group-title="Bics COPA EURO", AR: ESPN COPA EURO 01
@@ -236,10 +242,8 @@ https://homeip.biz/livso/index.m3u8
 https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 group-title="Bics COPA EURO", TR: TRT 1 COPA EURO 13
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
-
-*****************************************************************************************************************************************************
-******************************************************* TEMPORALES POR EVENTO ***********************************************************************
-*****************************************************************************************************************************************************
+#EXTINF:-1 group-title="Bics COPA EURO", US: TUDN COPA EURO 14
+https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
 
 ***************************************************************   **************************************************************************************
 ***** #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 01
