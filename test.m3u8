@@ -290,58 +290,30 @@ http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/76703.m3u8
 #EXTINF:-1 group-title="Bics COPA AMERICA", GT: TV AZTECA COPA AMERICA 09
 https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 group-title="Bics COPA AMERICA", UY: TV CIUDAD COPA AMERICA 10
-https://vxlive.cdn.antel.net.uy/auth_V__TV_Ciudad,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfX1RWX0NpdWRhZCUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzE4NTcwNjE3JnJhbmRvbT1WM0lzeHBhcFY5JmMtaXA9MjAxLjE0MS4xMTQuMTIxJmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTI4MCZwdWJsaWNfaWQ9MnNnc20sMmQ5ODlmZDg1NzJhZmJhNzkyNDAzN2Y3MzdiMTY0YzhlODVlNmZjNjc2NzE2YmRlNDVhNzE3MzUxNDFkZDYxMA==/vxfmt=hls/h_90ea08d700b9abffa951ea608e121f20/var3950000/playlist.m3u8
+https://vxlive.cdn.antel.net.uy/auth_V__TV_Ciudad,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfX1RWX0NpdWRhZCUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzE4NzcwODQyJnJhbmRvbT1Kc1g2VUJvcDZVJmMtaXA9MjAxLjE0MS4xMTQuMTIxJmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTI4MCZwdWJsaWNfaWQ9MnNnc20sNmMyMWRiOTc2NWFlOTYwZThmYTlkNzgwZTNhZjRiYmQ5NDg2ZTQ3ZTM1OTg3NzU5NmQ2NmU3ZjI1OGJmOTYwYQ==/vxfmt=hls/playlist.m3u8
 #EXTINF:-1 group-title="Bics COPA AMERICA", PY: UNICANAL COPA AMERICA 11
 https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/chunklist_w984880022.m3u8?k=6980c82cf2f8826ebe702b27cedaa8378ce91c44410783288cd05392ba49f8e1&exp=1718557383
 #EXTINF:-1 group-title="Bics COPA AMERICA", EC: ECDF COPA AMERICA 12
 http://177.53.153.20:8001/play/a040/index.m3u8
 #EXTINF:-1 group-title="Bics COPA AMERICA", EC: ECDF COPA AMERICA 13
 http://tv.soccerplus.link:8000/julia35a/anticona34/868
-
-********************  https://github.com/proyecto04/club-tv/blob/main/.m3u ***************
-#EXTINF:-1 group-title="Bics COPA AMERICA", ES: M+ COPA AMERICA 14
-http://20957968804646234.otjb0606.xyz:80/play/XJAGG3528/KA855743254/646234.ts
-#EXTINF:-1 group-title="Bics COPA AMERICA", EC: ECDF COPA AMERICA 15
-http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/468
-#EXTINF:-1 group-title="Bics COPA AMERICA", AR: TyC SPORTS COPA AMERICA 16
-http://394127477385816648.otjb0606.xyz:80/play/vi930121/pjApv4C8Sg/816648.ts
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 17
-http://502663436616856809.otjb0606.xyz:80/live/fe715725/3pTCaErhC6/856809.ts
-#EXTINF:-1 group-title="Bics COPA AMERICA", EC: ECDF COPA AMERICA 18
-http://xyz.lattv.com.co:8080/play/Q12GJAllEl6XF3JCHmoEPYTvgFWt_s5-l1gYSFHbXzXIQ44e3FJLxqKdO0oG3odc/ts
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 19
-http://xyz.lattv.com.co:8080/play/Q12GJAllEl6XF3JCHmoEPYTvgFWt_s5-l1gYSFHbXzVH0ReIYly0aup0e-e8sIAt/ts
-
-
-
-#EXTINF:-1,tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ofRK-yK342xejmufie4HwL6tQzk3DSLYxg&usqp=CAU " group-title="  ", copa america 2024
-https://dl.dropboxusercontent.com/scl/fi/d22zor5zus3q0hp9fzf7d/1_5098376675729605700.mp4?rlkey=yl6565jfzwi0lbn26hbhn8b6m&dl=0
-#EXTINF:-1,tvg-logo="  https://static.wikia.nocookie.net/the-football-database/images/3/36/Copa_America_2024_Logo.png/revision/latest/scale-to-width-down/230?cb=20231206090404 ", argentina-canada
-http://20957968804646234.otjb0606.xyz:80/play/XJAGG3528/KA855743254/646234.ts
-
-#EXTINF:-1,tvg-logo=" https://static.wikia.nocookie.net/the-football-database/images/3/36/Copa_America_2024_Logo.png/revision/latest/scale-to-width-down/230?cb=20231206090404 ", evento 2
-http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/468
-
-#EXTINF:-1,tvg-logo="  https://static.wikia.nocookie.net/the-football-database/images/3/36/Copa_America_2024_Logo.png/revision/latest/scale-to-width-down/230?cb=20231206090404 ", evento 3
-http://394127477385816648.otjb0606.xyz:80/play/vi930121/pjApv4C8Sg/816648.ts
-
-#EXTINF:-1,tvg-logo=" https://static.wikia.nocookie.net/the-football-database/images/3/36/Copa_America_2024_Logo.png/revision/latest/scale-to-width-down/230?cb=20231206090404 ", evento 4
-http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/24941
-
-#EXTINF:-1,tvg-logo=" https://static.wikia.nocookie.net/the-football-database/images/3/36/Copa_America_2024_Logo.png/revision/latest/scale-to-width-down/230?cb=20231206090404 ", evento 5
-http://xyz.lattv.com.co:8080/play/Q12GJAllEl6XF3JCHmoEPYTvgFWt_s5-l1gYSFHbXzXIQ44e3FJLxqKdO0oG3odc/ts
-
-#EXTINF:-1,tvg-logo=" https://static.wikia.nocookie.net/the-football-database/images/3/36/Copa_America_2024_Logo.png/revision/latest/scale-to-width-down/230?cb=20231206090404 ", evento 6
-http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/553
-
-
-
-
-
-#EXTINF:-1 group-title="Bics COPA AMERICA", CN: CCTV 5 COPA AMERICA 20
+#EXTINF:-1 group-title="Bics COPA AMERICA", CN: CCTV 5 COPA AMERICA 14
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
+********************  proyecto04/club-tv ***************
 
+#EXTINF:-1 group-title="Bics COPA AMERICA", ES: M+ COPA AMERICA 15
+http://20957968804646234.otjb0606.xyz:80/play/XJAGG3528/KA855743254/646234.ts
+#EXTINF:-1 group-title="Bics COPA AMERICA", EC: ECDF COPA AMERICA 16
+http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/468
+#EXTINF:-1 group-title="Bics COPA AMERICA", AR: TyC SPORTS COPA AMERICA 17
+http://394127477385816648.otjb0606.xyz:80/play/vi930121/pjApv4C8Sg/816648.ts
+#EXTINF:-1 group-title="Bics COPA AMERICA", MX: TUDN COPA AMERICA 18
+http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/24941
+#EXTINF:-1 group-title="Bics COPA AMERICA", EC: ECDF COPA AMERICA 19
+http://xyz.lattv.com.co:8080/play/Q12GJAllEl6XF3JCHmoEPYTvgFWt_s5-l1gYSFHbXzXIQ44e3FJLxqKdO0oG3odc/ts
+#EXTINF:-1 group-title="Bics COPA AMERICA", MX: TUDN COPA AMERICA 20
+http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/553
 
 
 
