@@ -200,31 +200,31 @@ https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 ***************************************************************   **************************************************************************************
 ******************** sports ****************
 
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 01
+#EXTINF:-1 group-title="Bics COPA EURO", AR: ESPN COPA EURO 01
 http://170.82.37.21:8000/play/a04g/index.m3u8
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 02
+#EXTINF:-1 group-title="Bics COPA EURO", AR: ESPN COPA EURO 02
 http://181.78.8.90:16123/play/ch16
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 03
+#EXTINF:-1 group-title="Bics COPA EURO", AR: ESPN COPA EURO 03
 http://200.60.124.19:29000/play/a016/index.m3u8
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 04
+#EXTINF:-1 group-title="Bics COPA EURO", SV: CANAL 4 COPA EURO 04
 https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 05
+#EXTINF:-1 group-title="Bics COPA EURO", CA: TSN 1 COPA EURO 05
 http://45.41.213.34:70/TSN1/index.m3u8
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 06
+#EXTINF:-1 group-title="Bics COPA EURO", CA: TSN 2 COPA EURO 06
 http://45.41.213.34:70/TSN4/index.m3u8
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 07
+#EXTINF:-1 group-title="Bics COPA EURO", CA: TSN 3 COPA EURO 07
 http://45.41.213.34:70/TSN5/index.m3u8
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 08
+#EXTINF:-1 group-title="Bics COPA EURO", MX: CANAL 5 COPA EURO 08
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 09
+#EXTINF:-1 group-title="Bics COPA EURO", ES: LA 1 COPA EURO 09
 https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 10
+#EXTINF:-1 group-title="Bics COPA EURO", ES: LA 2 COPA EURO 10
 http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/117156
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 11
+#EXTINF:-1 group-title="Bics COPA EURO", IN: SONY COPA EURO 11
 https://homeip.biz/livso/index.m3u8
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 12
+#EXTINF:-1 group-title="Bics COPA EURO", CN: CCTV COPA EURO 12
 https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 13
+#EXTINF:-1 group-title="Bics COPA EURO", TR: TRT 1 COPA EURO 13
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
 
 *****************************************************************************************************************************************************
@@ -247,72 +247,102 @@ https://d1u68oyra9spme.cloudfront.net/master.m3u8
 
 ***************************************************************   **************************************************************************************
 
-#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 01
+#EXTINF:-1 group-title="Bics PARIS 2024", CA: TSN 1 PARIS 2024 01
 http://45.41.213.34:70/TSN1/index.m3u8
-#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 02
+#EXTINF:-1 group-title="Bics PARIS 2024", SV: CANAL 12 PARIS 2024 02
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 03
+#EXTINF:-1 group-title="Bics PARIS 2024", US: UNIVERSO PARIS 2024 03
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195
-#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 04
+#EXTINF:-1 group-title="Bics PARIS 2024", US: TELEMUNDO PARIS 2024 04
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
-#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 05
+#EXTINF:-1 group-title="Bics PARIS 2024", US: TELEMUNDO PARIS 2024 05
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/114358
-#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 06
+#EXTINF:-1 group-title="Bics PARIS 2024", PA: TV MAX PARIS 2024 06
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 07
+#EXTINF:-1 group-title="Bics PARIS 2024", MX: CLARO SPORTS PARIS 2024 07
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
-#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 08
+#EXTINF:-1 group-title="Bics PARIS 2024", CN: CCTV 5 PARIS 2024 08
 https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 09
+#EXTINF:-1 group-title="Bics PARIS 2024", CR: CANAL 6 PARIS 2024 09
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 10
+#EXTINF:-1 group-title="Bics PARIS 2024", TR: TRT 1PARIS 2024 10
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
-#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 11
+#EXTINF:-1 group-title="Bics PARIS 2024", HN: VTV PARIS 2024 11
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 
 ***************************************************************   **************************************************************************************
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 01
+#EXTINF:-1 group-title="Bics COPA AMERICA", MX: TUDN COPA AMERICA 01
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 02
+#EXTINF:-1 group-title="Bics COPA AMERICA", PA: TVMAX COPA AMERICA 02
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 03
-https://live-c2.cf.dmcdn.net/sec2(ejBWN_KARqzTGVSONN4_8uGkY48kusy5_D_ODZ0nt_aC46CLXvSnAn4PDHZFaXjve9te_lxIQCj3PLK9a5asdzDj0Z_3X5I2YUxkpBWi_mU)/cloud/3/x8lwrcd/s/live-2.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 04
+#EXTINF:-1 group-title="Bics COPA AMERICA", PA: RPC COPA AMERICA 03
+https://live-b2.cf.dmcdn.net/sec2(9yjPJR_NLZBp4XezizRliwDIQgOmaf1vVGX9Fi3JiyDbWJ5FD7VKQuhZ2wGN3ZvZA6dEQkId0Q0qcanhPWfrHl9JAUmB5Hu9_UWN3ww3gl8)/cloud/3/x8lwrcd/s/live-2.m3u8
+#EXTINF:-1 group-title="Bics COPA AMERICA", CR: CANAL 6 COPA AMERICA 04
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 05
+#EXTINF:-1 group-title="Bics COPA AMERICA", SV: CANAL 4 COPA AMERICA 05
 https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 06
+#EXTINF:-1 group-title="Bics COPA AMERICA", NI: CANAL 13 COPA AMERICA 06
 http://tvlatino.live:8080/play/_A1diXa2YXbIu98UrBQoM9CFoCCxS-MNbukUrvdLOUB0IQGh8M7qvrrK6_2OKABd/ts
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 07
+#EXTINF:-1 group-title="Bics COPA AMERICA", CO: WIN SPORTS COPA AMERICA 07
 http://zuiowy.net:8080/live/Paola2023/7ThHZTUFn8ze/464.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 08
+#EXTINF:-1 group-title="Bics COPA AMERICA", CO: WIN SPORTS+ COPA AMERICA 08
 http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/76703.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 09
+#EXTINF:-1 group-title="Bics COPA AMERICA", GT: TV AZTECA COPA AMERICA 09
 https://ch1-tva.duin.dev/hls/stream.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 10
+#EXTINF:-1 group-title="Bics COPA AMERICA", UY: TV CIUDAD COPA AMERICA 10
 https://vxlive.cdn.antel.net.uy/auth_V__TV_Ciudad,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfX1RWX0NpdWRhZCUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzE4NTcwNjE3JnJhbmRvbT1WM0lzeHBhcFY5JmMtaXA9MjAxLjE0MS4xMTQuMTIxJmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTI4MCZwdWJsaWNfaWQ9MnNnc20sMmQ5ODlmZDg1NzJhZmJhNzkyNDAzN2Y3MzdiMTY0YzhlODVlNmZjNjc2NzE2YmRlNDVhNzE3MzUxNDFkZDYxMA==/vxfmt=hls/h_90ea08d700b9abffa951ea608e121f20/var3950000/playlist.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 11
+#EXTINF:-1 group-title="Bics COPA AMERICA", PY: UNICANAL COPA AMERICA 11
 https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/chunklist_w984880022.m3u8?k=6980c82cf2f8826ebe702b27cedaa8378ce91c44410783288cd05392ba49f8e1&exp=1718557383
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 12
+#EXTINF:-1 group-title="Bics COPA AMERICA", EC: ECDF COPA AMERICA 12
 http://177.53.153.20:8001/play/a040/index.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 12
+#EXTINF:-1 group-title="Bics COPA AMERICA", EC: ECDF COPA AMERICA 13
 http://tv.soccerplus.link:8000/julia35a/anticona34/868
 
 ********************  https://github.com/proyecto04/club-tv/blob/main/.m3u ***************
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 13
+#EXTINF:-1 group-title="Bics COPA AMERICA", ES: M+ COPA AMERICA 14
 http://20957968804646234.otjb0606.xyz:80/play/XJAGG3528/KA855743254/646234.ts
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 14
+#EXTINF:-1 group-title="Bics COPA AMERICA", EC: ECDF COPA AMERICA 15
 http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/468
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 15
+#EXTINF:-1 group-title="Bics COPA AMERICA", AR: TyC SPORTS COPA AMERICA 16
 http://394127477385816648.otjb0606.xyz:80/play/vi930121/pjApv4C8Sg/816648.ts
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 16
-http://502663436616856809.otjb0606.xyz:80/live/fe715725/3pTCaErhC6/856809.ts
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 17
+http://502663436616856809.otjb0606.xyz:80/live/fe715725/3pTCaErhC6/856809.ts
+#EXTINF:-1 group-title="Bics COPA AMERICA", EC: ECDF COPA AMERICA 18
 http://xyz.lattv.com.co:8080/play/Q12GJAllEl6XF3JCHmoEPYTvgFWt_s5-l1gYSFHbXzXIQ44e3FJLxqKdO0oG3odc/ts
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 18
-http://xyz.lattv.com.co:8080/play/Q12GJAllEl6XF3JCHmoEPYTvgFWt_s5-l1gYSFHbXzVH0ReIYly0aup0e-e8sIAt/ts
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA 19
+http://xyz.lattv.com.co:8080/play/Q12GJAllEl6XF3JCHmoEPYTvgFWt_s5-l1gYSFHbXzVH0ReIYly0aup0e-e8sIAt/ts
+
+
+
+#EXTINF:-1,tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ofRK-yK342xejmufie4HwL6tQzk3DSLYxg&usqp=CAU " group-title="  ", copa america 2024
+https://dl.dropboxusercontent.com/scl/fi/d22zor5zus3q0hp9fzf7d/1_5098376675729605700.mp4?rlkey=yl6565jfzwi0lbn26hbhn8b6m&dl=0
+#EXTINF:-1,tvg-logo="  https://static.wikia.nocookie.net/the-football-database/images/3/36/Copa_America_2024_Logo.png/revision/latest/scale-to-width-down/230?cb=20231206090404 ", argentina-canada
+http://20957968804646234.otjb0606.xyz:80/play/XJAGG3528/KA855743254/646234.ts
+
+#EXTINF:-1,tvg-logo=" https://static.wikia.nocookie.net/the-football-database/images/3/36/Copa_America_2024_Logo.png/revision/latest/scale-to-width-down/230?cb=20231206090404 ", evento 2
+http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/468
+
+#EXTINF:-1,tvg-logo="  https://static.wikia.nocookie.net/the-football-database/images/3/36/Copa_America_2024_Logo.png/revision/latest/scale-to-width-down/230?cb=20231206090404 ", evento 3
+http://394127477385816648.otjb0606.xyz:80/play/vi930121/pjApv4C8Sg/816648.ts
+
+#EXTINF:-1,tvg-logo=" https://static.wikia.nocookie.net/the-football-database/images/3/36/Copa_America_2024_Logo.png/revision/latest/scale-to-width-down/230?cb=20231206090404 ", evento 4
+http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/24941
+
+#EXTINF:-1,tvg-logo=" https://static.wikia.nocookie.net/the-football-database/images/3/36/Copa_America_2024_Logo.png/revision/latest/scale-to-width-down/230?cb=20231206090404 ", evento 5
+http://xyz.lattv.com.co:8080/play/Q12GJAllEl6XF3JCHmoEPYTvgFWt_s5-l1gYSFHbXzXIQ44e3FJLxqKdO0oG3odc/ts
+
+#EXTINF:-1,tvg-logo=" https://static.wikia.nocookie.net/the-football-database/images/3/36/Copa_America_2024_Logo.png/revision/latest/scale-to-width-down/230?cb=20231206090404 ", evento 6
+http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/553
+
+
+
+
+
+#EXTINF:-1 group-title="Bics COPA AMERICA", CN: CCTV 5 COPA AMERICA 20
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+
+
+
 
 
 
