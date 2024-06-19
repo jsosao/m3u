@@ -199,6 +199,15 @@ https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 57
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 
+******************  club-tv *******************************************
+
+#EXTINF:-1 group-title="Bics Extra Latino", TELEMUNDO
+http://elperrotv.online:80/OSCARNOE/VXF6vmcXYH/585890
+#EXTINF:-1 group-title="Bics Extra Latino", TELEMUNDO INTERNACIONAL
+http://home-playtv.com:8080/powertv/W8LULsPWL9by/199197 
+#EXTINF:-1 group-title="Bics Extra Latino", UNIVISION
+http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304306
+
 ***************************************************************   **************************************************************************************
 ******************** sports ****************
 
