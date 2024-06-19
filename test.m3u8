@@ -821,7 +821,7 @@ http://45.41.213.34:70/TSN2/index.m3u8
 http://45.41.213.34:70/TSN3/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", CA: TSN 4 
 http://45.41.213.34:70/TSN4/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", TSN 5 
+#EXTINF:-1 group-title="Bics DEPORTES", CA: TSN 5 
 http://45.41.213.34:70/TSN5/index.m3u8
 
 
@@ -837,6 +837,8 @@ https://live.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 
 #EXTINF:-1 group-title="Bics DEPORTES", TR: TRT 1
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
+
+https://trt.daioncdn.net/trtspor/master_720p.m3u8?&sid=6i33rlwalut5&app=71ff325a-50b6-48f4-8a67-3daa89386c24&ce=2
 
 ****************************************************************************************************************************
 
