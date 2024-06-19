@@ -118,6 +118,8 @@ https://alba-ni-c10-c10.stream.mediatiquestream.com/original.m3u8
 
 #EXTINF:-1 group-title="Bics Extra Latino", EC: TELEAMAZONAS
 https://teleamazonas-live.cdn.vustreams.com/live/43953caa-53ff-4525-9f9e-202a12bf264e/live.isml/43953caa-53ff-4525-9f9e-202a12bf264e.m3u8
+#EXTINF:-1 group-title="Bics Extra Latino", EC: ECUADOR TV
+https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bics Extra Latino", CR: CANAL 2
 https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
