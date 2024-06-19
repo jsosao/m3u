@@ -113,6 +113,9 @@ https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlayl
 #EXTINF:-1 group-title="Bics Extra Latino", HN: VTV
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 
+#EXTINF:-1 group-title="Bics Extra Latino", NI: CANAL 10
+https://alba-ni-c10-c10.stream.mediatiquestream.com/original.m3u8
+
 #EXTINF:-1 group-title="Bics Extra Latino", EC: TELEAMAZONAS
 https://teleamazonas-live.cdn.vustreams.com/live/43953caa-53ff-4525-9f9e-202a12bf264e/live.isml/43953caa-53ff-4525-9f9e-202a12bf264e.m3u8
 
@@ -127,6 +130,7 @@ https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 group-title="Bics Extra Latino", PA: TV  Max
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+
 
 
 #EXTINF:-1 group-title="Bics Extra US", US: CANAL 57
@@ -144,6 +148,7 @@ https://live-hls-web-aja-fa.getaj.net/AJA/05.m3u8
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 #EXTINF:-1 group-title="Bics Extra Internacional", IT: LA 7D
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
+
 
 
 ***************  rasta ***************
@@ -200,6 +205,8 @@ https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 57
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
+#EXTINF:-1 group-title="Bics Extra Latino", SV: TCS+
+https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-video=2000000-audio_0=64000.m3u8
 
 ******************  club-tv *******************************************
 
