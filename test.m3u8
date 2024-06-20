@@ -1,13 +1,13 @@
 #EXTM3U
 
-************************  19/JUN/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  20/JUN/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ************************ HI, THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", CANAL_190620241100
+#EXTINF:-1 group-title="Bics", CANAL_200620241100
 https://raw.githubusercontent.com/jsosao/m3u/main/patron.m3u8
 
 #EXTINF:-1 group-title="Bics", MX: AZTECA UNO
@@ -149,8 +149,24 @@ https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 #EXTINF:-1 group-title="Bics Extra Internacional", IT: LA 7D
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
 
-#EXTINF:-1 group-title="Bics Extra Internacional", PT: RTP3 MADEIRA
+#EXTINF:-1 group-title="Bics Extra Internacional", PT: RTP
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Bics Extra Internacional", PT: RTP 2
+https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Bics Extra Internacional", PT: RTP3 MADEIRA 2
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra Internacional", PT: RTP3 MADEIRA 3
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Bics Extra Internacional", PT: RTP MADEIRA
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+
+
+
+
 
 ***************  rasta ***************
 
