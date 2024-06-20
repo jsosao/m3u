@@ -245,10 +245,6 @@ https://homeip.biz/livso/index.m3u8
 https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO TR: TRT 1
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO PT: RTP
-https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO PT: RTP3 
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 
 *****************************************************************************************************************************************************
 ********************************************************  LA LIGA  **********************************************************************************
