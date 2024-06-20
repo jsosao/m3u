@@ -133,6 +133,10 @@ https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", PA: TV  Max
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 
+#EXTINF:-1 group-title="Bics Extra Latino", AR: TN
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+
+
 #EXTINF:-1 group-title="Bics Extra US", US: CANAL 57
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Bics Extra US", US: CNN
@@ -160,10 +164,6 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra Internacional", PT: RTP MADEIRA
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 
-
-
-
-
 ***************  rasta ***************
 
 #EXTINF:-1 group-title="Bics Extra US", US: UNIVERSO
@@ -172,9 +172,6 @@ http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158831
 #EXTINF:-1 group-title="Bics Extra US", US: FOX DEPORTES
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158838
-
-#EXTINF:-1 group-title="Bics Extra Latino", AR: TN
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 #EXTINF:-1 group-title="Bics Extra Latino", CO: CARACOL
 http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/101141 
@@ -219,7 +216,6 @@ http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304306
 *****************************************************************************************************************************************************
 ******************************************************* TEMPORALES POR EVENTO ***********************************************************************
 
-
 ******************** sports ****************
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO US: TUDN
 https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
@@ -254,7 +250,9 @@ https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO PT: RTP3 
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 
-***************************************************************   **************************************************************************************
+*****************************************************************************************************************************************************
+********************************************************  LA LIGA  **********************************************************************************
+
 ***** #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 01
 ***** http://181.78.105.146:2000/play/a08m/index.m3u8
 ***** #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 02
@@ -262,12 +260,14 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 ***** #EXTINF:-1 group-title="Bics DEPORTES LA LIGA", LA LIGA 03
 ***** https://linear-506.frequency.stream/mt/studio/506/hls/master/playlist.m3u8
 
-***************************************************************   **************************************************************************************
+*****************************************************************************************************************************************************
+********************************************************  PREMIER  **********************************************************************************
 
 ***** #EXTINF:-1 group-title="Bics DEPORTES PREMIER", PREMIER 01
 ***** https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
-***************************************************************   **************************************************************************************
+*****************************************************************************************************************************************************
+********************************************************  PARIS 2024  **********************************************************************************
 
 #EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 CA: TSN 1
 http://45.41.213.34:70/TSN1/index.m3u8
@@ -292,7 +292,9 @@ https://d1u68oyra9spme.cloudfront.net/master.m3u8
 #EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 HN: VTV PARIS
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 
-***************************************************************   **************************************************************************************
+*****************************************************************************************************************************************************
+********************************************************  COPA AMERICA  *****************************************************************************
+
 #EXTINF:-1 group-title="Bics COPA EURO", COPA AMERICA US: TUDN
 https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA MX: TUDN
@@ -346,6 +348,9 @@ http://xyz.lattv.com.co:8080/play/Q12GJAllEl6XF3JCHmoEPYTvgFWt_s5-l1gYSFHbXzXIQ4
 http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/553
 
 
+
+*****************************************************************************************************************************************************
+*********************************************************  DEPORTES  ********************************************************************************
 
 
 #EXTINF:-1 group-title="Bics DEPORTES", WIN SPORTS (colombia)
@@ -488,7 +493,8 @@ https://dashtvcloud.online:8443/josealbrook/panama121/146532
 #EXTINF:-1 group-title="Bics DEPORTES", gol tv (usa)
 https://dashtvcloud.online:8443/josealbrook/panama121/223552
 
-***************************************************************   **************************************************************************************
+*****************************************************************************************************************************************************
+************************************************************** LMB  *********************************************************************************
 
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: LMB OFICIAL
 https://ythls-v3.onrender.com/channel/UCK2zXiKpzbIrooNi6oRBLvg.m3u8
@@ -561,9 +567,8 @@ https://ythls-v3.onrender.com/channel/UC4mSfK49CGFZPrRK50xPS6w.m3u8
 https://ythls-v3.onrender.com/channel/UCB8Tv4_FgS5-JYezqShFDKQ.m3u8
 
 
-***************************************************************   **************************************************************************************
-
-********************************************* CANALES REGIONALES Y YOUTUBE  ********************************************************************************
+*****************************************************************************************************************************************************
+************************************************  CANALES REGIONALES Y YOUTUBE  *********************************************************************
 
 #EXTINF:-1 group-title="Bics REGIONALES", AGS: TELEVISA AGUASCALIENTES
 https://ythls-v3.onrender.com/channel/UC5ZtV3bu3bjSuOLoA6oCFIg.m3u8
@@ -731,7 +736,6 @@ https://ythls-v3.onrender.com/channel/UCQb3i7gu9J8A4zzQU7j6C1Q.m3u8
 
 
 **********************************************************************************************************************************************************
-**********************************************************************************************************************************************************
 ********************************************* CANALES DEPORTES Y YOUTUBE  ********************************************************************************
 
 #EXTINF:-1 group-title="Bics DEPORTES", US: TUDN
@@ -855,7 +859,6 @@ https://live.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 
 #EXTINF:-1 group-title="Bics DEPORTES", TR: TRT 1
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
-
 
 
 *******************************************************************************************************************************************************
