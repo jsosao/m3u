@@ -7,11 +7,6 @@
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", MX: otro
-https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-dai/c2986629464f4312b2ebc46b572e2aab/manifest/f624fec49dadc88894ebeff1d974eab019af7757/65d4c7bcbe741b6c4131bd70/0a382786-e26a-4c1d-8ceb-f3cb86211c5d/3.m3u8
-#EXTINF:-1 group-title="Bics", MX: chunk
-https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio/6495bd4ecd55fe08b4765b53/654a5c9f40fd924d7ba3cd41/chunks.m3u8
-
 #EXTINF:-1 group-title="Bics", MX: AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 group-title="Bics", MX: AZTECA UNO -1 HR
@@ -134,6 +129,10 @@ https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 group-title="Bics Extra Latino", PA: TV  Max
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Bics Extra Latino", PA: TV  Max 1
+https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-dai/c2986629464f4312b2ebc46b572e2aab/manifest/f624fec49dadc88894ebeff1d974eab019af7757/65d4c7bcbe741b6c4131bd70/0a382786-e26a-4c1d-8ceb-f3cb86211c5d/3.m3u8
+#EXTINF:-1 group-title="Bics Extra Latino", PA: TV  Max 2
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio/6495bd4ecd55fe08b4765b53/654a5c9f40fd924d7ba3cd41/chunks.m3u8
 
 #EXTINF:-1 group-title="Bics Extra Latino", AR: TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
@@ -502,7 +501,7 @@ https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: BRAVOS LEON
 https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: ACEREROS (SOLO EN PARTIDO)
-https://ythls-v3.onrender.com/channel/UCsRvUjq4j4LvHxNdHLUbydw.m3u8
+https://ythls-v3.onrender.com/channel/UCyVbtDAPhDwT4waRlhLFHaA.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: DORADOS (SOLO EN PARTIDO)
 https://ythls-v3.onrender.com/channel/UCQOSwVDBx6UDeM0v66zQjAg.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: TOROS (SOLO EN PARTIDO)
