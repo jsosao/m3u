@@ -501,12 +501,8 @@ https://ythls-v3.onrender.com/channel/UCQOSwVDBx6UDeM0v66zQjAg.m3u8
 https://ythls-v3.onrender.com/channel/UCcjoyEQK5cAuYlw78v4GCuA.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: CALIENTE DGO (SOLO EN PARTIDO)
 https://ythls-v3.onrender.com/channel/UC4OsFuy6GS9l0beb6MLbblA.m3u8
-
-https://anym3u8player.com/youtube.php/id/UC4OsFuy6GS9l0beb6MLbblA.m3u8
-
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: DOS LAREDOS (SOLO EN PARTIDO)
 https://ythls-v3.onrender.com/channel/UCc_Ql73KzxzsJJD8jhU52dg.m3u8
-
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: PERICOS
 https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: RTV  VERACRUZ
@@ -529,7 +525,6 @@ https://ythls-v3.onrender.com/channel/UCbPTmPbmSO-BYGCMHm77RUg.m3u8
 https://ythls-v3.onrender.com/channel/UC4mSfK49CGFZPrRK50xPS6w.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", MX: MADO REPORT DEPORTES (SOLO EN PARTIDO)
 https://ythls-v3.onrender.com/channel/UCB8Tv4_FgS5-JYezqShFDKQ.m3u8
-
 
 *****************************************************************************************************************************************************
 ************************************************  CANALES REGIONALES Y YOUTUBE  *********************************************************************
@@ -713,6 +708,8 @@ https://ythls-v3.onrender.com/channel/UCpJN_3WCOtfICbsKKxZcBsg.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 1
 https://linear-439.frequency.stream/mt/studio/439/hls/master/playlist.m3u8
 
+#EXTINF:-1 group-title="Bics DEPORTES", MX: TVC
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/TVCDeportes2500.m3u8
 
 ******** emilio *********
 #EXTINF:-1 group-title="Bics DEPORTES", MX: TVC
