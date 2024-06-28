@@ -1,6 +1,6 @@
 #EXTM3U
 
-************************  24/JUN/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  28/JUN/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ************************ HI, THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
@@ -98,8 +98,6 @@ https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cf
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", PR: PUNTO 2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-#EXTINF:-1 group-title="Bics Extra Latino", PR: WIPR
-https://cprdp.pr/hls/stream/1_2/index.m3u8
 
 #EXTINF:-1 group-title="Bics Extra Latino", GT: TV AZTECA GUATE
 https://ch1-tva.duin.dev/hls/stream.m3u8
@@ -224,14 +222,6 @@ https://homeip.biz/livso/index.m3u8
 https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO TR: TRT 1
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
-
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO 
-http://realsport.scalecdn.co:8080/live/DrReaper012/01ef1649eb/2359.ts
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO
-http://realsport.scalecdn.co:8080/live/DrReaper012/01ef1649eb/38039.ts
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO
-http://realsport.scalecdn.co:8080/live/DrReaper012/01ef1649eb/527497.ts
-
 
 *****************************************************************************************************************************************************
 ********************************************************  LA LIGA  **********************************************************************************
