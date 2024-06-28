@@ -123,26 +123,11 @@ https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bics Extra Latino", BO: CANAL 7.1
 https://5ca3e84a76d30.streamlock.net/boliviatv/videoboliviatv/chunklist_w613957484.m3u8
-#EXTINF:-1 group-title="Bics Extra Latino", BO: CANAL 7.2
-https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w376273250.m3u8
-#EXTINF:-1 group-title="Bics Extra Latino", BO: BOLIVIA DEPORTES
-https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w376273250.m3u8
-
-#EXTINF:-1 group-title="Bics Extra Latino", CR: CANAL 2
-https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 group-title="Bics Extra Latino", CR: CANAL 4
-https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 group-title="Bics Extra Latino", CR: CANAL 6
-https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 group-title="Bics Extra Latino", CR: CANAL 11
-https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="Bics Extra Latino", BO: CANAL 7.2 DEPORTES
+https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-86/jhxg-mual/chunklist_DVR.m3u8
 
 #EXTINF:-1 group-title="Bics Extra Latino", PA: TV  Max
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-#EXTINF:-1 group-title="Bics Extra Latino", PA: TV  Max 1
-https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-dai/c2986629464f4312b2ebc46b572e2aab/manifest/f624fec49dadc88894ebeff1d974eab019af7757/65d4c7bcbe741b6c4131bd70/0a382786-e26a-4c1d-8ceb-f3cb86211c5d/3.m3u8
-#EXTINF:-1 group-title="Bics Extra Latino", PA: TV  Max 2
-https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio/6495bd4ecd55fe08b4765b53/654a5c9f40fd924d7ba3cd41/chunks.m3u8
 
 #EXTINF:-1 group-title="Bics Extra Latino", AR: TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
@@ -184,17 +169,17 @@ http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/118354
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/114358
 
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 2
-https://telecorporacion.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/live-video=144960.m3u8
+https://telecorporacion.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 4
 https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 6
-https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/.m3u8
+https://telecorporacion.cdn.vustreams.com/live/0ee29634-11fb-4b59-8987-996d5663dbd8/live.isml/.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 12
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 57
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", SV: TCS+
-https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-video=2000000-audio_0=64000.m3u8
+https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8
 
 ******************  club-tv *******************************************
 
