@@ -276,8 +276,9 @@ https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 *****************************************************************************************************************************************************
 ********************************************************  COPA AMERICA  *****************************************************************************
 
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA US: TUDN
-https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA
+***** https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
+https://linear-381.frequency.stream/mt/studio/381/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA MX: AZTECA 7
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA PA: TVMAX
