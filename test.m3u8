@@ -194,8 +194,8 @@ http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304306
 ******************************************************* TEMPORALES POR EVENTO ***********************************************************************
 
 ******************** sports ****************
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO US: TUDN
-https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO EN: BBC
+https://ovo.eelov.com/live/n-1/chunks.m3u8
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO AR: ESPN
 http://170.82.37.21:8000/play/a04g/index.m3u8
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO AR: ESPN
@@ -214,6 +214,8 @@ http://45.41.213.34:70/TSN5/index.m3u8
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO ES: LA 1
 https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO ES: LA 1
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO ES: LA 2
 http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/117156
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO IN: SONY
@@ -274,16 +276,11 @@ https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 ********************************************************  COPA AMERICA  *****************************************************************************
 
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA
-***** https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
 https://linear-381.frequency.stream/mt/studio/381/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA MX: AZTECA 7
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA PA: TVMAX
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-***** #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA PA: RPC
-***** https://live-b2.cf.dmcdn.net/sec2(9yjPJR_NLZBp4XezizRliwDIQgOmaf1vVGX9Fi3JiyDbWJ5FD7VKQuhZ2wGN3ZvZA6dEQkId0Q0qcanhPWfrHl9JAUmB5Hu9_UWN3ww3gl8)/cloud/3/x8lwrcd/s/live-2.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA CR: CANAL 6
-https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA SV: CANAL 4
 https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA NI: CANAL 13
