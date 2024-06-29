@@ -173,7 +173,7 @@ http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/118354
 ************* pepe *******************
 
 #EXTINF:-1 group-title="Bics Extra US", US: TELEMUNDO
-http://rasaiptv.com:8080/amartinez/s1stemas.13579/114358
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 2
 https://telecorporacion.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/.m3u8
@@ -190,7 +190,7 @@ https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c
 
 ******************  club-tv *******************************************
 
-#EXTINF:-1 group-title="Bics Extra US", US: TELEMUNDO
+#EXTINF:-1 group-title="Bics Extra US", US: UNIVISION
 http://elperrotv.online:80/OSCARNOE/VXF6vmcXYH/585890
 #EXTINF:-1 group-title="Bics Extra US", US: TELEMUNDO INTERNACIONAL
 http://home-playtv.com:8080/powertv/W8LULsPWL9by/199197 
@@ -203,7 +203,7 @@ http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304306
 ******************************************************* TEMPORALES POR EVENTO ***********************************************************************
 
 ******************** sports ****************
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO EN: BBC
+#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO EN: ITV
 https://ovo.eelov.com/live/n-1/chunks.m3u8
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO AR: ESPN
 http://170.82.37.21:8000/play/a04g/index.m3u8
@@ -213,22 +213,12 @@ http://181.78.8.90:16123/play/ch16
 http://200.60.124.19:29000/play/a016/index.m3u8
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO SV: CANAL 4
 https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO CA: TSN 1
-http://xlbh-a36-ul29-30-lvnvcolox.dns-online.network:70/TSN1/index.m3u8
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO CA: TSN 2
-http://45.41.213.34:70/TSN4/index.m3u8
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO CA: TSN 3
-http://45.41.213.34:70/TSN5/index.m3u8
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO MX: CANAL 5
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO ES: LA 1
 https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO ES: LA 1
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO ES: LA 2
 http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/117156
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO IN: SONY
-https://homeip.biz/livso/index.m3u8
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO CN: CCTV 5
 https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO TR: TRT 1
@@ -296,12 +286,6 @@ http://177.53.153.20:8001/play/a040/index.m3u8
 http://tv.soccerplus.link:8000/julia35a/anticona34/868
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA CN: CCTV 5+
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA CA: TSN 1
-http://xlbh-a36-ul29-30-lvnvcolox.dns-online.network:70/TSN1/index.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA CA: TSN 2
-http://45.41.213.34:70/TSN4/index.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA CA: TSN 3
-http://45.41.213.34:70/TSN5/index.m3u8
 
 ********************  proyecto04/club-tv ***************
 
@@ -800,17 +784,6 @@ http://200.60.124.19:29000/play/a01f/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN 7 
 http://200.60.124.19:29000/play/a01e/index.m3u8
 
-#EXTINF:-1 group-title="Bics DEPORTES", CA: TSN 1 
-http://xlbh-a36-ul29-30-lvnvcolox.dns-online.network:70/TSN1/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", CA: TSN 2 
-http://45.41.213.34:70/TSN2/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", CA: TSN 3 
-http://45.41.213.34:70/TSN3/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", CA: TSN 4 
-http://45.41.213.34:70/TSN4/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", CA: TSN 5 
-http://45.41.213.34:70/TSN5/index.m3u8
-
 *******************************************************************************************************************************************************
 
 #EXTINF:-1 group-title="Bics DEPORTES", CN: CCTV5
@@ -826,7 +799,6 @@ https://live.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
 
 *******************************************************************************************************************************************************
-
 
 #EXTINF:-1 group-title="Bics DEPORTES", FUTBOL
 https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
