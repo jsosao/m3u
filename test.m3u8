@@ -1,6 +1,6 @@
 #EXTM3U
 
-************************  30/JUN/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  06/JUL/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ************************ HI, THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
@@ -118,7 +118,7 @@ https://5ca3e84a76d30.streamlock.net/boliviatv/videoboliviatv/chunklist_w6139574
 https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-86/jhxg-mual/chunklist_DVR.m3u8
 
 #EXTINF:-1 group-title="Bics Extra Latino", PA: TV  Max
-https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+https://tvnpan-ecdn3.cdn.mdstrm.com/live-stream-dai/65d4c7bcbe741b6c4131bd70/c2986629464f4312b2ebc46b572e2aab/f624fec49dadc88894ebeff1d974eab019af7757/session/43268dfc-e35f-4fed-a003-4051fb09e26f/media.m3u8?aid=6495bd4ecd55fe08b4765b53&uid=rjwxgsufgb45pxwpyx1rj68ns9h3vvk8&sid=js9p1nbvugbmbxqxntndvyqvz6p9w33r&pid=mqcwnl71xwd0d6korhv0pj4npedfmtll&ref=https%3a%2f%2ftvnpass.com%2f&without_cookies=false&listenerid=&dnt=true&access_token=thow7ko4iq85ycpk1gcgld4gffyqo0yh4dqgzosx7gyfd5wndnz2jegihmgsle9gc9maurdwrzl&es=tvnpan-ecdn3.cdn.mdstrm.com&proto=https&pz=us&hash=0c3d423051f23285c9f2f
 
 #EXTINF:-1 group-title="Bics Extra Latino", AR: TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
@@ -134,8 +134,8 @@ https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
 #EXTINF:-1 group-title="Bics Extra US", US: AL JAZEERA ARAB
 https://live-hls-web-aja-fa.getaj.net/AJA/05.m3u8
 
-#EXTINF:-1 group-title="Bics Extra Internacional", TR: TRT 1
-https://d1u68oyra9spme.cloudfront.net/master.m3u8
+#EXTINF:-1 group-title="Bics Extra Internacional", TR: TRT4K
+https://mn-nl.mncdn.com/blutv_trt4k/live.m3u8
 
 #EXTINF:-1 group-title="Bics Extra Internacional", ES: LA 1
 https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
@@ -204,18 +204,10 @@ http://170.82.37.21:8000/play/a04g/index.m3u8
 http://181.78.8.90:16123/play/ch16
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO AR: ESPN
 http://200.60.124.19:29000/play/a016/index.m3u8
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO SV: CANAL 4
-https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO MX: CANAL 5
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO ES: LA 1
-https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO ES: LA 2
-http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/117156
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO CN: CCTV 5
 https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO TR: TRT 1
-https://d1u68oyra9spme.cloudfront.net/master.m3u8
 
 *****************************************************************************************************************************************************
 ********************************************************  LA LIGA  **********************************************************************************
@@ -249,15 +241,11 @@ http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 #EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 US: TELEMUNDO
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/114358
-#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 PA: TV MAX
-https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 #EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 MX: CLARO SPORTS
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
-#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 CN: CCTV 5 PARIS
+#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 CN: CCTV 5
 https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 TR: TRT 1 PARIS
-https://d1u68oyra9spme.cloudfront.net/master.m3u8
-#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 HN: VTV PARIS
+#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 HN: VTV 
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 
 *****************************************************************************************************************************************************
@@ -267,10 +255,6 @@ https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 https://linear-381.frequency.stream/mt/studio/381/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA MX: AZTECA 7
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA PA: TVMAX
-https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA SV: CANAL 4
-https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA NI: CANAL 13
 http://tvlatino.live:8080/play/_A1diXa2YXbIu98UrBQoM9CFoCCxS-MNbukUrvdLOUB0IQGh8M7qvrrK6_2OKABd/ts
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA EC: ECDF
@@ -280,23 +264,8 @@ http://tv.soccerplus.link:8000/julia35a/anticona34/868
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA CN: CCTV 5+
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 
-********************  proyecto04/club-tv ***************
-
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA ES: M+
-http://20957968804646234.otjb0606.xyz:80/play/XJAGG3528/KA855743254/646234.ts
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA AR: D SPORTS
-http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/468
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA AR: TyC SPORTS
-http://394127477385816648.otjb0606.xyz:80/play/vi930121/pjApv4C8Sg/816648.ts
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA MX: TUDN
-http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/24941
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA AR: D SPORTS+
-http://xyz.lattv.com.co:8080/play/Q12GJAllEl6XF3JCHmoEPYTvgFWt_s5-l1gYSFHbXzXIQ44e3FJLxqKdO0oG3odc/ts
-
-
 *****************************************************************************************************************************************************
 *********************************************************  DEPORTES  ********************************************************************************
-
 
 #EXTINF:-1 group-title="Bics DEPORTES", WIN SPORTS (colombia)
 http://zuiowy.net:8080/live/Paola2023/7ThHZTUFn8ze/464.m3u8
