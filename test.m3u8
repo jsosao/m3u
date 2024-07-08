@@ -435,10 +435,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
 
 ***** #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: AYM SPORTS
 ***** https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: AYM SPORTS
+***** #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: AYM SPORTS
 ***** https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: AYM SPORTS
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
-***** https://aym-as.otteravision.com/aym/as/as.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: AYM SPORTS
+https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: AYM SPORTS
+https://aym-as.otteravision.com/aym/as/as.m3u8
 
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: CANAL ONCE
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
