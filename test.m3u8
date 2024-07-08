@@ -664,21 +664,16 @@ https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 https://linear-380.frequency.stream/mt/studio/380/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: CLARO SPORTS
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
-***** https://pubads.g.doubleclick.net/ssai/event/r5w9dL8MT8ygfiegKRCUtw/master.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: CLARO SPORTS 2
 https://pubads.g.doubleclick.net/ssai/event/erhZGvvqQdmR8xTfFO3MZw/master.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: CLARO SPORTS 3
 https://pubads.g.doubleclick.net/ssai/event/6DSQ8CGURXew6V-oYhN27Q/master.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: CLARO SPORTS 4
 https://pubads.g.doubleclick.net/ssai/event/UDhGuB7fSvuKDebY72_m_Q/master.m3u8
-***** https://dai.google.com/linear/hls/pa/event/UDhGuB7fSvuKDebY72_m_Q/stream/8f4f99bd-c846-4496-864e-0bfd305a3268:TUL/variant/b98105c9f23d4e4642c011d83e182194/bandwidth/3610000.m3u8
-
 #EXTINF:-1 group-title="Bics DEPORTES", MX: CALIENTE TV [NOT 24/7]
 https://ythls-v3.onrender.com/channel/UCpJN_3WCOtfICbsKKxZcBsg.m3u8
-
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FUTBOL 1
 https://linear-439.frequency.stream/mt/studio/439/hls/master/playlist.m3u8
-
 #EXTINF:-1 group-title="Bics DEPORTES", MX: CHIRINGUITO INSIDE
 https://ythls-v3.onrender.com/channel/UCznSLkPhcORf0JhonB7Aegg.m3u8
 
@@ -687,16 +682,12 @@ https://ythls-v3.onrender.com/channel/UCznSLkPhcORf0JhonB7Aegg.m3u8
 https://sdmx.vip:443/belpley/sYqKZQrTZa/10944
 #EXTINF:-1 group-title="Bics DEPORTES", MX: TVC
 https://sdmx.vip:443/belpley/sYqKZQrTZa/2145706
-
-
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FOX DEPORTES
 https://sdmx.vip:443/belpley/sYqKZQrTZa/2216927
 #EXTINF:-1 group-title="Bics DEPORTES", MX: SKY SPORTS
 https://sdmx.vip:443/belpley/sYqKZQrTZa/2092605
-
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FOX SPORTS ESPAÑOL
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
-
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FOX SPORTS 1
 https://sdmx.vip:443/belpley/sYqKZQrTZa/155648
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FOX SPORTS 2
@@ -709,7 +700,7 @@ https://sdmx.vip:443/belpley/sYqKZQrTZa/10915
 https://sdmx.vip:443/belpley/sYqKZQrTZa/2106730
 #EXTINF:-1 group-title="Bics DEPORTES", MX: ESPN
 https://sdmx.vip:443/belpley/sYqKZQrTZa/219099
-#EXTINF:-1 group-title="Bics DEPORTES", MX: ESPN
+#EXTINF:-1 group-title="Bics DEPORTES", MX: ESPN 2
 https://sdmx.vip:443/belpley/sYqKZQrTZa/10962
 #EXTINF:-1 group-title="Bics DEPORTES", MX: ESPN 3
 https://sdmx.vip:443/belpley/sYqKZQrTZa/155475
@@ -717,6 +708,19 @@ https://sdmx.vip:443/belpley/sYqKZQrTZa/155475
 https://sdmx.vip:443/belpley/sYqKZQrTZa/2215952
 #EXTINF:-1 group-title="Bics DEPORTES", MX: ESPN DEPORTES
 https://sdmx.vip:443/belpley/sYqKZQrTZa/2218544
+
+#EXTINF:-1 group-title="Bics Extra Latino", UNIVISION LA
+https://sdmx.vip:443/belpley/sYqKZQrTZa/10888
+#EXTINF:-1 group-title="Bics Extra Latino", UNIVISION NY
+https://sdmx.vip:443/belpley/sYqKZQrTZa/126150
+#EXTINF:-1 group-title="Bics Extra Latino", TELEMUNDO INTERNACIONAL
+https://sdmx.vip:443/belpley/sYqKZQrTZa/2145673
+#EXTINF:-1 group-title="Bics Extra Latino", TELEMUNDO NY
+https://sdmx.vip:443/belpley/sYqKZQrTZa/10910
+#EXTINF:-1 group-title="Bics Extra Latino", TELEMUNDO FRESNO
+https://sdmx.vip:443/belpley/sYqKZQrTZa/169839
+
+
 
 ******************************************* rasta  ******************************************************************************
 
