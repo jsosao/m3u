@@ -1,6 +1,6 @@
 #EXTM3U
 
-************************  07/JUL/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  12/JUL/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ************************ HI, THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
@@ -161,19 +161,10 @@ http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/118354
 
 #EXTINF:-1 group-title="Bics Extra US", US: TELEMUNDO
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
-
-***** #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 2
-***** https://telecorporacion.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/.m3u8
-***** #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 4
-***** https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
-***** #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 6
-***** https://telecorporacion.cdn.vustreams.com/live/0ee29634-11fb-4b59-8987-996d5663dbd8/live.isml/.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 12
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 57
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
-***** #EXTINF:-1 group-title="Bics Extra Latino", SV: TCS+
-***** https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8
 
 ******************  club-tv *******************************************
 
@@ -200,8 +191,6 @@ http://181.78.8.90:16123/play/ch16
 http://200.60.124.19:29000/play/a016/index.m3u8
 #EXTINF:-1 group-title="Bics COPA EURO", COPA EURO MX: CANAL 5
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO CN: CCTV 5
-https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
 *****************************************************************************************************************************************************
 ********************************************************  LA LIGA  **********************************************************************************
@@ -235,10 +224,14 @@ http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 #EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 US: TELEMUNDO
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/114358
-#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 MX: CLARO SPORTS
+#EXTINF:-1 group-title="Bics DEPORTES", MX: CLARO SPORTS
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
-#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 CN: CCTV 5
-https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", MX: CLARO SPORTS 2
+https://pubads.g.doubleclick.net/ssai/event/erhZGvvqQdmR8xTfFO3MZw/master.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", MX: CLARO SPORTS 3
+https://pubads.g.doubleclick.net/ssai/event/6DSQ8CGURXew6V-oYhN27Q/master.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", MX: CLARO SPORTS 4
+https://pubads.g.doubleclick.net/ssai/event/UDhGuB7fSvuKDebY72_m_Q/master.m3u8
 #EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 HN: VTV 
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 
@@ -257,6 +250,14 @@ https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 https://linear-380.frequency.stream/mt/studio/380/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics LIGA MX", LIGA MX: CALIENTE TV [NOT 24/7]
 https://ythls-v3.onrender.com/channel/UCpJN_3WCOtfICbsKKxZcBsg.m3u8
+#EXTINF:-1 group-title="Bics ELIGA MX", LIGA MX: UNIVISION LA
+https://sdmx.vip:443/belpley/sYqKZQrTZa/10888
+#EXTINF:-1 group-title="Bics LIGA MX", LIGA MX: UNIVISION NY
+https://sdmx.vip:443/belpley/sYqKZQrTZa/126150
+#EXTINF:-1 group-title="Bics LIGA MX", LIGA MX: TELEMUNDO NY
+https://sdmx.vip:443/belpley/sYqKZQrTZa/10910
+#EXTINF:-1 group-title="Bics LIGA MX", LIGA MX: TELEMUNDO FRESNO
+https://sdmx.vip:443/belpley/sYqKZQrTZa/169839
 
 *****************************************************************************************************************************************************
 ********************************************************  COPA AMERICA  *****************************************************************************
@@ -271,8 +272,6 @@ http://tvlatino.live:8080/play/_A1diXa2YXbIu98UrBQoM9CFoCCxS-MNbukUrvdLOUB0IQGh8
 http://177.53.153.20:8001/play/a040/index.m3u8
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA EC: ECDF
 http://tv.soccerplus.link:8000/julia35a/anticona34/868
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA CN: CCTV 5+
-https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 
 *****************************************************************************************************************************************************
 *********************************************************  DEPORTES  ********************************************************************************
@@ -424,12 +423,6 @@ https://dashtvcloud.online:8443/josealbrook/panama121/223552
 https://ythls-v3.onrender.com/channel/UCpWPnP8s0YbVpzhzg6Pk2iA.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: CLARO SPORTS
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
-
-***** #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: INTERNETV DEPORTES
-***** https://thm-it-roku.otteravision.com/thm/it/it.m3u8
-***** #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: INTERNETV DEPORTES
-***** https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
-
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: INTERNETV DEPORTES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: AYM SPORTS
@@ -787,13 +780,6 @@ http://200.60.124.19:29000/play/a01e/index.m3u8
 
 *******************************************************************************************************************************************************
 
-#EXTINF:-1 group-title="Bics DEPORTES", CN: CCTV5
-https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", CN: CCTV5+
-https://live.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-
-#EXTINF:-1 group-title="Bics DEPORTES", TR: TRT 1
-https://d1u68oyra9spme.cloudfront.net/master.m3u8
 
 *******************************************************************************************************************************************************
 
