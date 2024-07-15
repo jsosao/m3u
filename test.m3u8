@@ -1,6 +1,6 @@
 #EXTM3U
 
-************************  13/JUL/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  15/JUL/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ************************ HI, THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
@@ -170,18 +170,6 @@ http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304306
 *****************************************************************************************************************************************************
 ******************************************************* TEMPORALES POR EVENTO ***********************************************************************
 
-******************** sports ****************
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO EN: ITV
-https://ovo.eelov.com/live/n-1/chunks.m3u8
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO AR: ESPN
-http://170.82.37.21:8000/play/a04g/index.m3u8
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO AR: ESPN
-http://181.78.8.90:16123/play/ch16
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO AR: ESPN
-http://200.60.124.19:29000/play/a016/index.m3u8
-#EXTINF:-1 group-title="Bics COPA EURO", COPA EURO MX: CANAL 5
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
-
 *****************************************************************************************************************************************************
 ********************************************************  LA LIGA  **********************************************************************************
 
@@ -240,7 +228,7 @@ https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 https://linear-380.frequency.stream/mt/studio/380/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics LIGA MX", LIGA MX: CALIENTE TV [NOT 24/7]
 https://ythls-v3.onrender.com/channel/UCpJN_3WCOtfICbsKKxZcBsg.m3u8
-#EXTINF:-1 group-title="Bics ELIGA MX", LIGA MX: UNIVISION LA
+#EXTINF:-1 group-title="Bics LIGA MX", LIGA MX: UNIVISION LA
 https://sdmx.vip:443/belpley/sYqKZQrTZa/10888
 #EXTINF:-1 group-title="Bics LIGA MX", LIGA MX: UNIVISION NY
 https://sdmx.vip:443/belpley/sYqKZQrTZa/126150
@@ -248,20 +236,6 @@ https://sdmx.vip:443/belpley/sYqKZQrTZa/126150
 https://sdmx.vip:443/belpley/sYqKZQrTZa/10910
 #EXTINF:-1 group-title="Bics LIGA MX", LIGA MX: TELEMUNDO FRESNO
 https://sdmx.vip:443/belpley/sYqKZQrTZa/169839
-
-*****************************************************************************************************************************************************
-********************************************************  COPA AMERICA  *****************************************************************************
-
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA
-https://linear-381.frequency.stream/mt/studio/381/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA MX: AZTECA 7
-https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA NI: CANAL 13
-http://tvlatino.live:8080/play/_A1diXa2YXbIu98UrBQoM9CFoCCxS-MNbukUrvdLOUB0IQGh8M7qvrrK6_2OKABd/ts
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA EC: ECDF
-http://177.53.153.20:8001/play/a040/index.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA EC: ECDF
-http://tv.soccerplus.link:8000/julia35a/anticona34/868
 
 *****************************************************************************************************************************************************
 *********************************************************  DEPORTES  ********************************************************************************
@@ -771,8 +745,16 @@ http://200.60.124.19:29000/play/a01f/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN 7 
 http://200.60.124.19:29000/play/a01e/index.m3u8
 
-*******************************************************************************************************************************************************
+#EXTINF:-1 group-title="Bics DEPORTES", EN: ITV
+https://ovo.eelov.com/live/n-1/chunks.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", AR: ESPN
+http://170.82.37.21:8000/play/a04g/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", AR: ESPN
+http://181.78.8.90:16123/play/ch16
+#EXTINF:-1 group-title="Bics DEPORTES", AR: ESPN
+http://200.60.124.19:29000/play/a016/index.m3u8
 
+*******************************************************************************************************************************************************
 
 *******************************************************************************************************************************************************
 
