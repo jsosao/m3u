@@ -104,6 +104,8 @@ https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 https://5ca3e84a76d30.streamlock.net/boliviatv/videoboliviatv/chunklist_w613957484.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", BO: CANAL 7.2 DEPORTES
 https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-86/jhxg-mual/chunklist_DVR.m3u8
+#EXTINF:-1 group-title="Bics Extra Latino", BO: BOLIVISION
+https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/original.m3u8
 
 #EXTINF:-1 group-title="Bics Extra Latino", PA: TV  Max
 https://tvnpan-ecdn3.cdn.mdstrm.com/live-stream-dai/65d4c7bcbe741b6c4131bd70/c2986629464f4312b2ebc46b572e2aab/f624fec49dadc88894ebeff1d974eab019af7757/session/43268dfc-e35f-4fed-a003-4051fb09e26f/media.m3u8?aid=6495bd4ecd55fe08b4765b53&uid=rjwxgsufgb45pxwpyx1rj68ns9h3vvk8&sid=js9p1nbvugbmbxqxntndvyqvz6p9w33r&pid=mqcwnl71xwd0d6korhv0pj4npedfmtll&ref=https%3a%2f%2ftvnpass.com%2f&without_cookies=false&listenerid=&dnt=true&access_token=thow7ko4iq85ycpk1gcgld4gffyqo0yh4dqgzosx7gyfd5wndnz2jegihmgsle9gc9maurdwrzl&es=tvnpan-ecdn3.cdn.mdstrm.com&proto=https&pz=us&hash=0c3d423051f23285c9f2f
@@ -194,6 +196,8 @@ http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304306
 *****************************************************************************************************************************************************
 ********************************************************  PARIS 2024  **********************************************************************************
 
+#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 BO: BOLIVISION
+https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 SV: CANAL 12
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 US: UNIVERSO
@@ -613,6 +617,8 @@ https://ythls-v3.onrender.com/channel/UCQb3i7gu9J8A4zzQU7j6C1Q.m3u8
 **********************************************************************************************************************************************************
 ********************************************* CANALES DEPORTES Y YOUTUBE  ********************************************************************************
 
+#EXTINF:-1 group-title="Bics DEPORTES", MX: AZTECA DEPORTES
+https://ythls-v3.onrender.com/channel/UCe3Ev4a4Sm9L5aO9sJJ_WXw.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: INTERNETV DEPORTES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
 #EXTINF:-1 group-title="Bics DEPORTES", MX: AYM SPORTS
@@ -680,10 +686,7 @@ https://sdmx.vip:443/belpley/sYqKZQrTZa/10910
 #EXTINF:-1 group-title="Bics Extra Latino", TELEMUNDO FRESNO
 https://sdmx.vip:443/belpley/sYqKZQrTZa/169839
 
-
-
 ******************************************* rasta  ******************************************************************************
-
 #EXTINF:-1 group-title="Bics DEPORTES",Claro Sport
 http://181.78.105.146:2000/play/a053/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN 2
