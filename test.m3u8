@@ -1,6 +1,6 @@
 #EXTM3U
 
-************************  15/JUL/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  23/JUL/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ************************ HI, THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
@@ -76,8 +76,13 @@ https://ythls-v3.onrender.com/channel/UCjhq1eY5Ce1TGOn2JbGnHsw.m3u8
 **************************************************************************************************************************************************************
 *************************************************************** PROPIO  **************************************************************************************
 
-#EXTINF:-1 group-title="Bics Extra Latino", PR: UNIVISION
-https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
+**** CODERX24 *****
+#EXTINF:-1 group-title="Bics Extra Latino", US: TELEMUNDO
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
+
+
+***** #EXTINF:-1 group-title="Bics Extra Latino", PR: UNIVISION
+***** https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", PR: TELEMUNDO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", PR: PUNTO 2
@@ -101,9 +106,9 @@ https://teleamazonas-live.cdn.vustreams.com/live/43953caa-53ff-4525-9f9e-202a12b
 https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bics Extra Latino", BO: CANAL 7.1
-https://5ca3e84a76d30.streamlock.net/boliviatv/videoboliviatv/chunklist_w613957484.m3u8
+https://5fe2654d6127d.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", BO: CANAL 7.2 DEPORTES
-https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-86/jhxg-mual/chunklist_DVR.m3u8
+https://rumble.com/live-hls-dvr/54ppbh/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", BO: BOLIVISION
 https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/original.m3u8
 
@@ -132,22 +137,23 @@ https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 ***************  rasta ***************
 
 #EXTINF:-1 group-title="Bics Extra US", US: UNIVERSO
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195
+http://pe.shortgod.com/wow/play.php?id=136
+
 #EXTINF:-1 group-title="Bics Extra US", US: ESPN DEPORTES
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158831
+http://pe.shortgod.com/wow/play.php?id=161
 #EXTINF:-1 group-title="Bics Extra US", US: FOX DEPORTES
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158838
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/200284
 
 #EXTINF:-1 group-title="Bics Extra Latino", CO: CARACOL
-http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/101141 
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/176568
 #EXTINF:-1 group-title="Bics Extra Latino", CO: CARACOL
-http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/115772
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/176569
 #EXTINF:-1 group-title="Bics Extra Latino", CO: CARACOL INTERNACIONAL
-http://galaxypro.online:8080/GingerAndrade1311/0984789890GA/93747
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/199323
 #EXTINF:-1 group-title="Bics Extra Latino", CO: RCN
 http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/181770
 #EXTINF:-1 group-title="Bics Extra Latino", CO: RCN INTERACIONAL
-http://tv.proyectox.vip:8080/joserojas1/ctacfZsrzw/118354
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/199513
 
 ************* pepe *******************
 
