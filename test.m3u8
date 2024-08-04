@@ -18,12 +18,17 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", MX: IMAGEN TV
 http://181.78.105.146:2000/play/a00h/index.m3u8
-++++#EXTINF:-1 group-title="Bics", MX: IMAGEN TV
+#EXTINF:-1 group-title="Bics", MX: IMAGEN TV
 http://offshore.lat:8080/play/Zu9aemvltwDpgcDabpCYgEtiYiPV0okojPY1U0s6GG4
-+++++#EXTINF:-1 group-title="Bics", MX: IMAGEN TV -1 HR
-https://r.mjh.nz/PlutoTV/64e35aff6b1fdb0008ea8441-alt.m3u8
-+++++#EXTINF:-1 group-title="Bics", MX: CANAL 5
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
+#EXTINF:-1 group-title="Bics", MX: IMAGEN TV -1 HR
+http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0jvGubXZ7ForYpK2yBR7LZBmpMpDfWOaj0WUwQj14LTSr/ts
+#EXTINF:-1 group-title="Bics", MX: CANAL 5
+http://181.78.105.146:2000/play/a038/index.m3u8
+#EXTINF:-1 group-title="Bics", MX: CANAL 5
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/2100979
+#EXTINF:-1 group-title="Bics", MX: CANAL 5
+http://45.228.234.167:8000/play/a0ll/index.m3u8
+
 #EXTINF:-1 group-title="Bics", MX: MULTIMEDIOS CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 group-title="Bics", MX: MULTIMEDIOS MTY
