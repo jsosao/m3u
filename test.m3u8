@@ -1,6 +1,6 @@
 #EXTM3U
 
-************************  09/AGO/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  12/AGO/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ************************ HI, THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
@@ -57,14 +57,14 @@ https://channel02-onlymex.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 https://channel02-onlymex.akamaized.net/hls/live/2023914/event01/index.m3u8
 
 #EXTINF:-1 group-title="Bics", MX: N+ MEDIA
-https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
-++++#EXTINF:-1 group-title="Bics", MX: N+
-https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
+https://channel07-onlymex.akamaized.net/hls/live/2036971/event01/index.m3u8
+#EXTINF:-1 group-title="Bics", MX: N+
+https://channel04-onlymex.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", MX: N+ GDL
-https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
+https://channel08-onlymex.akamaized.net/hls/live/2037034/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", MX: N+ MTY
-https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
-***** https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8
+https://channel09-onlymex.akamaized.net/hls/live/2094418/event01/index.m3u8
+
 #EXTINF:-1  group-title="Bics", MX: MARIA VISION
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 #EXTINF:-1  group-title="Bics", MX: MARIA VISION CAPILLA
@@ -99,9 +99,6 @@ https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
 
-#EXTINF:-1 group-title="Bics Extra Latino", HN: VTV
-https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
-
 #EXTINF:-1 group-title="Bics Extra Latino", EC: TELEAMAZONAS
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/live-video=2000000.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", EC: ECUADOR TV
@@ -120,7 +117,6 @@ https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61da
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/1660000.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", VE: TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
-
 
 #EXTINF:-1 group-title="Bics Extra Latino", PA: TV  Max
 https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/155916
@@ -194,20 +190,6 @@ http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304306
 *****************************************************************************************************************************************************
 ********************************************************  PARIS 2024  **********************************************************************************
 
-#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 BO: BOLIVISION
-https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/original.m3u8
-#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 SV: CANAL 12
-https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 US: UNIVERSO
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195
-#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 US: UNIVERSO
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159195
-#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 US: UNIVERSO
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/1939
-#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 US: TELEMUNDO
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
-#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 US: TELEMUNDO
-http://rasaiptv.com:8080/amartinez/s1stemas.13579/114358
 #EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 MX: CLARO SPORTS
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 MX: CLARO SPORTS 2
@@ -216,8 +198,6 @@ https://pubads.g.doubleclick.net/ssai/event/erhZGvvqQdmR8xTfFO3MZw/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/6DSQ8CGURXew6V-oYhN27Q/master.m3u8
 #EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 MX: CLARO SPORTS 4
 https://pubads.g.doubleclick.net/ssai/event/UDhGuB7fSvuKDebY72_m_Q/master.m3u8
-#EXTINF:-1 group-title="Bics PARIS 2024", PARIS 2024 HN: VTV 
-https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 
 *****************************************************************************************************************************************************
 ********************************************************   LIGA MX   *******************************************************************************
