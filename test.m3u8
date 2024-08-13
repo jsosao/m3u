@@ -41,8 +41,8 @@ https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 group-title="Bics", MX: AZTECA 7 3
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: NU9VE
-***** https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
+#EXTINF:-1 group-title="Bics", MX: NU9VE
+https://channel06-onlymex.akamaized.net/hls/live/2033784/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", MX: ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1  group-title="Bics", MX: A+
