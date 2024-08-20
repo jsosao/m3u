@@ -1,6 +1,6 @@
 #EXTM3U
 
-************************  15/AGO/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  20/AGO/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ************************ HI, THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
@@ -17,11 +17,14 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", MX: IMAGEN TV
 http://181.78.105.146:2000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Bics", MX: IMAGEN TV
+http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0jvGubXZ7ForYpK2yBR7LZBmpMpDfWOaj0WUwQj14LTSr/ts
+#EXTINF:-1 group-title="Bics", MX: IMAGEN TV
+http://tv.proyectox.vip:8080/Hidr13odemsww/nTAuRWcTmD/58099
 #EXTINF:-1 group-title="Bics", MX: CANAL 5
 http://181.78.105.146:2000/play/a038/index.m3u8
 #EXTINF:-1 group-title="Bics", MX: CANAL 5
 http://45.228.234.167:8000/play/a0ll/index.m3u8
-
 #EXTINF:-1 group-title="Bics", MX: MULTIMEDIOS CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 group-title="Bics", MX: MULTIMEDIOS MTY
@@ -373,7 +376,7 @@ https://aym-as.otteravision.com/aym/as/as.m3u8
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: NRT MEXICO
-https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
+https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal4/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: SULTANES
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: ALGODONEROS UL
@@ -470,13 +473,13 @@ https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", COA: CANAL 15 SABINAS
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", COA: NRT INTERNACIONAL
-https://59e88b197fb16.streamlock.net:4443/live/canal24/playlist.m3u8
+https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal24/playlist.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", COA: NRT REGION CARBONIFERA
 https://59e88b197fb16.streamlock.net:4443/live/canal10/playlist.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", COA: NRT REGION SURESTE
-https://59e88b197fb16.streamlock.net:4443/live/canal6/playlist.m3u8
+https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal6/playlist.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", COA: NRT REGION CENTRO
-https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
+https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal4/playlist.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", CHIAP: CANAL 10
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
