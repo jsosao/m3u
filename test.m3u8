@@ -1,6 +1,6 @@
 #EXTM3U
 
-************************  20/AGO/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  09/SEP/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ************************ HI, THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
@@ -25,6 +25,8 @@ http://tv.proyectox.vip:8080/Hidr13odemsww/nTAuRWcTmD/58099
 http://181.78.105.146:2000/play/a038/index.m3u8
 #EXTINF:-1 group-title="Bics", MX: CANAL 5
 http://45.228.234.167:8000/play/a0ll/index.m3u8
+#EXTINF:-1 group-title="Bics", MX: CANAL NU9VE
+http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0jrEj9jWjRkgprppMWS9rs-GoWXhV27HAgXQJrJM4AaOa/ts
 #EXTINF:-1 group-title="Bics", MX: MULTIMEDIOS CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 group-title="Bics", MX: MULTIMEDIOS MTY
@@ -149,10 +151,15 @@ https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/200284
 
 #EXTINF:-1 group-title="Bics Extra US", US: TELEMUNDO
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
+#EXTINF:-1 group-title="Bics Extra US", US: TELEMUNDO
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+
 +++++#EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 12
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 57
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
+#EXTINF:-1 group-title="Bics Extra Latino", US: UNIVERSO
+http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0jqZlwRmkOKrlwa65Dx1q4l1F5nInbrcH0z8gcGf2F8m1/ts
 
 ******************  club-tv *******************************************
 
