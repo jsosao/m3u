@@ -1,6 +1,6 @@
 #EXTM3U
 
-************************  09/SEP/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  08/SEP/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ************************ HI, THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
@@ -225,6 +225,8 @@ https://sdmx.vip:443/belpley/sYqKZQrTZa/169839
 
 #EXTINF:-1 group-title="Bics DEPORTES", WIN SPORTS (colombia)
 http://zuiowy.net:8080/live/Paola2023/7ThHZTUFn8ze/464.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", WIN SPORTS (colombia)
+http://zuiowy.net:8080/live/Paola2023/7ThHZTUFn8ze/464.ts
 #EXTINF:-1 group-title="Bics DEPORTES", WIN SPORT+ (colombia)
 http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/76703.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", WIN SPORT+ opc.2 (colombia)
