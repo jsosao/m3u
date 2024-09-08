@@ -228,8 +228,10 @@ https://sdmx.vip:443/belpley/sYqKZQrTZa/169839
 http://dnslivetv.online:80/live/12581/12581/591707.ts
 #EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS  2 (México)
 http://dnslivetv.online:80/live/12581/12581/591710.ts
-#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS  3 (México)
+#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS 3 (México)
 http://stkip.ddns.me:2082/live/restreamtvplux/Mhsi3wMSJSEjska343255/3092.ts
+V#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS PREMIUM  (México)
+http://dnslivetv.online:80/live/12581/12581/1069885.ts
 #EXTINF:-1 group-title="Bics DEPORTES", ESPN 1 (México)
 http://dnslivetv.online:80/live/12581/12581/591695.ts
 #EXTINF:-1 group-title="Bics DEPORTES", ESPN 2 (México)
@@ -239,8 +241,30 @@ http://dnslivetv.online:80/live/12581/12581/591701.ts
 #EXTINF:-1 group-title="Bics DEPORTES", ESPN 4 (México)
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/173357.ts
 
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN (argentina)
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/50087.ts
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN 2 (argentina)
+http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/51158
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN 3 (argentina)
+http://dnslivetv.online:80/live/12581/12581/1070142.ts
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN PREMIUM (argentina)
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/173358.ts
+#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS (argentina)
+http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/3082
+#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS 2 (argentina)
+http://dnslivetv.online:80/live/12581/12581/1070151.ts
+#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS 3 (argentina)
+http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/76710
 
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN ( USA )
+http://143.244.60.30/ESPN/index.m3u8
 
+#EXTINF:-1 group-title="Bics DEPORTES", TUDN
+http://proxtream.us:8080/live/cambioVeoTv6a5X2/vjeKUhYYx5z3/245229.ts
+#EXTINF:-1 group-title="Bics DEPORTES", TUDN USA
+http://tvmate.icu:8080/Alan/Alan1234/82241
+ #EXTINF:-1 group-title="Bics DEPORTES", SKY SPORTS (México)
+https://dashtvcloud.online:8443/josealbrook/panama121/144286
 
 
 *****************************************************************************************************************************************************
