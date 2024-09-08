@@ -285,38 +285,38 @@ https://aym-as.otteravision.com/aym/as/as.m3u8
 
 ***** #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: NRT MEXICO
 ***** https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal4/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: SULTANES
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: SULTANES
+***** https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 ***** #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: ALGODONEROS UL
 ***** https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 ***** #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: SARAPEROS
 ***** https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 ***** #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: BRAVOS LEON
 ***** https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: ACEREROS (SOLO EN PARTIDO)
-https://ythls-v3.onrender.com/channel/UCyVbtDAPhDwT4waRlhLFHaA.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: ACEREROS (SOLO EN PARTIDO)
+***** https://ythls-v3.onrender.com/channel/UCyVbtDAPhDwT4waRlhLFHaA.m3u8
 ***** #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: DORADOS (SOLO EN PARTIDO)
 ***** https://ythls-v3.onrender.com/channel/UCQOSwVDBx6UDeM0v66zQjAg.m3u8
 ***** #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: TOROS (SOLO EN PARTIDO)
 ***** https://ythls-v3.onrender.com/channel/UCcjoyEQK5cAuYlw78v4GCuA.m3u8
 ***** #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: CALIENTE DGO (SOLO EN PARTIDO)
 ***** https://ythls-v3.onrender.com/channel/UC4OsFuy6GS9l0beb6MLbblA.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: DOS LAREDOS (SOLO EN PARTIDO)
-https://ythls-v3.onrender.com/channel/UCc_Ql73KzxzsJJD8jhU52dg.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: DOS LAREDOS (SOLO EN PARTIDO)
+***** https://ythls-v3.onrender.com/channel/UCc_Ql73KzxzsJJD8jhU52dg.m3u8
 ***** #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: PERICOS
 ***** https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 ***** #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: RTV  VERACRUZ
 ***** https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: LEONES YUC
-https://webprod.sipse.com.mx:8080/show/merida.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: LEONES YUC
+***** https://webprod.sipse.com.mx:8080/show/merida.m3u8
 ***** #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: TIGRES DE QOO
 ***** https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 ***** #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: TIGRES DE QOO (SOLO EN PARTIDO)
 ***** https://ythls-v3.onrender.com/channel/UCmI3b9y_83CF39GBvBEnkUw.m3u8
 ***** #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: PIRATAS
 ***** https://5f1af61612fb5.streamlock.net/trc/videotrc/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: GUERREROS
-https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
+***** #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: GUERREROS
+***** https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
 ***** #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: OLMECAS
 ***** https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
 ***** #EXTINF:-1 group-title="Bics DEPORTES LMB", LMB: DIABLOS ROJOS (SOLO EN PARTIDO)
@@ -393,7 +393,6 @@ https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal4/playlist.m3u8
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", CHIAP: CANAL 13
 https://207963.global.ssl.fastly.net/65313d270e749722b6474684/live_9ada1d70dfbe11eeabd66ba1b9ba93a1/tracks-v1/index.fmp4.m3u8
-
 
 #EXTINF:-1 group-title="Bics REGIONALES", DGO: TELEVISA DURANGO
 https://ythls-v3.onrender.com/channel/UCON7DvLd5N8tXivc9WqILxQ.m3u8
@@ -522,46 +521,67 @@ https://ythls-v3.onrender.com/channel/UCznSLkPhcORf0JhonB7Aegg.m3u8
 
 ******** emilio *********
 #EXTINF:-1 group-title="Bics DEPORTES", MX: TVC
-https://sdmx.vip:443/belpley/sYqKZQrTZa/10944
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9607
 #EXTINF:-1 group-title="Bics DEPORTES", MX: TVC
-https://sdmx.vip:443/belpley/sYqKZQrTZa/2145706
-#EXTINF:-1 group-title="Bics DEPORTES", MX: FOX DEPORTES
-https://sdmx.vip:443/belpley/sYqKZQrTZa/2216927
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/87609
+#EXTINF:-1 group-title="Bics DEPORTES", MX: TVC
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/87610
 #EXTINF:-1 group-title="Bics DEPORTES", MX: SKY SPORTS
-https://sdmx.vip:443/belpley/sYqKZQrTZa/2092605
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9599
+#EXTINF:-1 group-title="Bics DEPORTES", MX: SKY SPORTS BUNDESLIGA
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9600
+#EXTINF:-1 group-title="Bics DEPORTES", MX: SKY SPORTS LA LIGA
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9601
+
+#EXTINF:-1 group-title="Bics DEPORTES", MX: FOX DEPORTES
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/10813
+#EXTINF:-1 group-title="Bics DEPORTES", MX: FOX DEPORTES
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9571
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FOX SPORTS ESPAÑOL
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FOX SPORTS 1
-https://sdmx.vip:443/belpley/sYqKZQrTZa/155648
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9579
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FOX SPORTS 2
-https://sdmx.vip:443/belpley/sYqKZQrTZa/10952
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9585
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FOX SPORTS 3
-https://sdmx.vip:443/belpley/sYqKZQrTZa/10951
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9592
 #EXTINF:-1 group-title="Bics DEPORTES", MX: FOX SPORTS PREMIUM
-https://sdmx.vip:443/belpley/sYqKZQrTZa/10915
-#EXTINF:-1 group-title="Bics DEPORTES", MX: FOX SPORTS PREMIUM
-https://sdmx.vip:443/belpley/sYqKZQrTZa/2106730
-#EXTINF:-1 group-title="Bics DEPORTES", MX: ESPN
-https://sdmx.vip:443/belpley/sYqKZQrTZa/219099
-#EXTINF:-1 group-title="Bics DEPORTES", MX: ESPN 2
-https://sdmx.vip:443/belpley/sYqKZQrTZa/10962
-#EXTINF:-1 group-title="Bics DEPORTES", MX: ESPN 3
-https://sdmx.vip:443/belpley/sYqKZQrTZa/155475
-#EXTINF:-1 group-title="Bics DEPORTES", MX: ESPN 4
-https://sdmx.vip:443/belpley/sYqKZQrTZa/2215952
-#EXTINF:-1 group-title="Bics DEPORTES", MX: ESPN DEPORTES
-https://sdmx.vip:443/belpley/sYqKZQrTZa/2218544
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9593
 
-#EXTINF:-1 group-title="Bics Extra Latino", UNIVISION LA
-https://sdmx.vip:443/belpley/sYqKZQrTZa/10888
+#EXTINF:-1 group-title="Bics DEPORTES", MX: ESPN
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9525
+#EXTINF:-1 group-title="Bics DEPORTES", MX: ESPN 2
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9531
+#EXTINF:-1 group-title="Bics DEPORTES", MX: ESPN 3
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9535
+#EXTINF:-1 group-title="Bics DEPORTES", MX: ESPN 4
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9537
+#EXTINF:-1 group-title="Bics DEPORTES", MX: ESPN DEPORTES
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9544
+#EXTINF:-1 group-title="Bics DEPORTES", MX: ESPN PREMIUM
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9546
+
+#EXTINF:-1 group-title="Bics Extra Latino", UNIVISION MIAMI
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/67011
+
+
+#EXTINF:-1 group-title="Bics Extra Latino", UNIVISION SF
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/67010
 #EXTINF:-1 group-title="Bics Extra Latino", UNIVISION NY
 https://sdmx.vip:443/belpley/sYqKZQrTZa/126150
+#EXTINF:-1 group-title="Bics Extra Latino", UNIVISION LA
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8337
+
+#EXTINF:-1 group-title="Bics Extra Latino", TELEMUNDO
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8336
 #EXTINF:-1 group-title="Bics Extra Latino", TELEMUNDO INTERNACIONAL
-https://sdmx.vip:443/belpley/sYqKZQrTZa/2145673
-#EXTINF:-1 group-title="Bics Extra Latino", TELEMUNDO NY
-https://sdmx.vip:443/belpley/sYqKZQrTZa/10910
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/62101
+#EXTINF:-1 group-title="Bics Extra Latino", TELEMUNDO EAST
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8359
+#EXTINF:-1 group-title="Bics Extra Latino", TELEMUNDO WEST
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8360
 #EXTINF:-1 group-title="Bics Extra Latino", TELEMUNDO FRESNO
-https://sdmx.vip:443/belpley/sYqKZQrTZa/169839
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/8349
 
 ******************************************* rasta  ******************************************************************************
 #EXTINF:-1 group-title="Bics DEPORTES",Claro Sport
