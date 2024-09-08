@@ -256,14 +256,11 @@ http://dnslivetv.online:80/live/12581/12581/1070151.ts
 #EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS 3 (argentina)
 http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/76710
 
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN ( USA )
-http://143.244.60.30/ESPN/index.m3u8
-
 #EXTINF:-1 group-title="Bics DEPORTES", TUDN
 http://proxtream.us:8080/live/cambioVeoTv6a5X2/vjeKUhYYx5z3/245229.ts
 #EXTINF:-1 group-title="Bics DEPORTES", TUDN USA
 http://tvmate.icu:8080/Alan/Alan1234/82241
- #EXTINF:-1 group-title="Bics DEPORTES", SKY SPORTS (México)
+#EXTINF:-1 group-title="Bics DEPORTES", SKY SPORTS (México)
 https://dashtvcloud.online:8443/josealbrook/panama121/144286
 
 
