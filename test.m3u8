@@ -55,7 +55,7 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 group-title="Bics", MX: MILENIO
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 group-title="Bics", MX: FORO TV
-https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_4.m3u8?hdntl=exp=1726340039~acl=/*~data=hdntl~hmac=f47bee0f50851de7f707e9db9a58ae6241fec450c1bd65e96931e8c1d4388328&
+https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_4.m3u8?hdntl=exp=1726340700~acl=/*~data=hdntl~hmac=ebf874c72e11544e70451cf94a17b21c034e7734b49e6c244fcca82702ada794&
 #EXTINF:-1 group-title="Bics", MX: FORO TV
 https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", MX: N+
