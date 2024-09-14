@@ -1,6 +1,6 @@
 #EXTM3U
 
-************************  13/SEP/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  14/SEP/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ************************ HI, THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
@@ -189,55 +189,55 @@ http://home-playtv.com:8080/powertv/W8LULsPWL9by/199197
 #EXTINF:-1 group-title="Bics Extra US", US: UNIVISION
 http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304306
 
+******************  inspiration *******************************************
+
+#EXTINF:-1 group-title="Bics Extra US", US: TELEMUNDO LA
+https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8
+
 
 *****************************************************************************************************************************************************
 *****************************************************************************************************************************************************
 ******************************************************* TEMPORALES POR EVENTO ***********************************************************************
 
 *****************************************************************************************************************************************************
-********************************************************  LA LIGA  **********************************************************************************
+********************************************************  FUTBOL  **********************************************************************************
 
-#EXTINF:-1 group-title="Bics LIGA", 01
+#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 01
 https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_6.m3u8
-
-#EXTINF:-1 group-title="Bics LIGA", 02
+#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 02
 https://1.goalglory.org/n-1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Bics LIGA", 03
+#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 03
 http://190.185.121.102:58092/play/a00t
-
-#EXTINF:-1 group-title="Bics LIGA", 04
+#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 04
 http://181.78.105.146:2000/play/a08m/index.m3u8
-
-#EXTINF:-1 group-title="Bics LIGA", 05
+#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 05
 http://181.78.109.49:8000/play/a06r/index.m3u8
-
-#EXTINF:-1 group-title="Bics LIGA", 06
+#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 06
 http://45.5.117.182:8000/play/jnl0/index.m3u8
-
-#EXTINF:-1 group-title="Bics LIGA", 07
+#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 07
 http://181.78.105.146:8800/play/a07h
-
-#EXTINF:-1 group-title="Bics LIGA", 08
+#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 08
 https://www.oha.to/play/2428779244/index.m3u8
-
-#EXTINF:-1 group-title="Bics LIGA", 09
+#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 09
 http://604262224137165392.ofre802.xyz:80/play/tello3/23122023/165392.ts
-
-#EXTINF:-1 group-title="Bics LIGA", 10
+#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 10
 http://604262224137320781.ofre802.xyz:80/play/tello3/23122023/320781.ts
-
-#EXTINF:-1 group-title="Bics LIGUE", 01
+#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 11
 http://51.178.65.238/BeinSport/mono.m3u8
-
-#EXTINF:-1 group-title="Bics LIGUE", 02
+#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 12
 http://145.239.5.177:8080/520/index.m3u8
-
-#EXTINF:-1 group-title="Bics LIGUE", 03
+#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 13
 http://145.239.5.177:8080/516/index.m3u8
-
-#EXTINF:-1 group-title="Bics LIGUE", 04
+#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 14
 http://145.239.5.177:8080/521/index.m3u8
+#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 15
+https://cdn-5.nxplay.com.br/ESPN/index.m3u8
+#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 15
+https://cdn-5.nxplay.com.br/ESPN_2/index.m3u8
+#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 15
+https://cdn-5.nxplay.com.br/ESPN_3/index.m3u8
+#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 15
+https://cdn-5.nxplay.com.br/ESPN_4/index.m3u8
 
 
 *****************************************************************************************************************************************************
