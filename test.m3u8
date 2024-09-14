@@ -54,6 +54,10 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 group-title="Bics", MX: MILENIO
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+
+
+#EXTINF:-1 group-title="Bics", MX: FORO TV
+https://ythls-v3.onrender.com/channel/UCUsm-fannqOY02PNN67C0KA.m3u8
 #EXTINF:-1 group-title="Bics", MX: FORO TV
 https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_4.m3u8?hdntl=exp=1726340700~acl=/*~data=hdntl~hmac=ebf874c72e11544e70451cf94a17b21c034e7734b49e6c244fcca82702ada794&
 #EXTINF:-1 group-title="Bics", MX: FORO TV
@@ -188,11 +192,6 @@ http://elperrotv.online:80/OSCARNOE/VXF6vmcXYH/585890
 http://home-playtv.com:8080/powertv/W8LULsPWL9by/199197 
 #EXTINF:-1 group-title="Bics Extra US", US: UNIVISION
 http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304306
-
-******************  inspiration *******************************************
-
-#EXTINF:-1 group-title="Bics Extra US", US: TELEMUNDO LA
-https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8
 
 
 *****************************************************************************************************************************************************
@@ -406,6 +405,7 @@ https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 https://ythls-v3.onrender.com/channel/UCxK8C1E8UZ5RipNXIBYEvTA.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", COA: TELEVISA SALTILLO
 https://ythls-v3.onrender.com/channel/UCpeD73Gb4KjKUL2gyoJ4gLw.m3u8
+
 #EXTINF:-1 group-title="Bics REGIONALES", COA: TELEVISA LAGUNA
 https://ythls-v3.onrender.com/channel/UC_mwCcsKDJLSWjply5s0h8w.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", COA: RCG
