@@ -54,17 +54,10 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 group-title="Bics", MX: MILENIO
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-
-
 #EXTINF:-1 group-title="Bics", MX: FORO TV
 https://ythls-v3.onrender.com/channel/UCUsm-fannqOY02PNN67C0KA.m3u8
 #EXTINF:-1 group-title="Bics", MX: FORO TV
-https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_4.m3u8?hdntl=exp=1726340700~acl=/*~data=hdntl~hmac=ebf874c72e11544e70451cf94a17b21c034e7734b49e6c244fcca82702ada794&
-#EXTINF:-1 group-title="Bics", MX: FORO TV
-https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
-#EXTINF:-1 group-title="Bics", MX: N+
-https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
-
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 #EXTINF:-1 group-title="Bics", MX: N+ GDL
 https://channel08-onlymex.akamaized.net/hls/live/2037034/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", MX: N+ MTY
@@ -82,6 +75,26 @@ https://ythls-v3.onrender.com/channel/UCjhq1eY5Ce1TGOn2JbGnHsw.m3u8
 **************************************************************************************************************************************************************
 **************************************************************************************************************************************************************
 *************************************************************** PROPIO  **************************************************************************************
+
+#EXTINF:-1 group-title="TV ABIERTA", UNIVISION 
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.ts
+
+#EXTINF:-1 group-title="TV ABIERTA", UNIVISION 
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.ts
+
+#EXTINF:-1 group-title="TV ABIERTA", UNIMAS UHD
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.ts
+
+#EXTINF:-1 group-title="TV ABIERTA", UNIMAS
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=sd&.ts
+
+#EXTINF:-1 group-title="TV ABIERTA", TELEMUNDO CALIFORNIA 
+https://i.mjh.nz/SamsungTVPlus/USBC4400020H7.m3u8
+
+#EXTINF:-1 group-title="TV ABIERTA", TELEMUNDO 51 MIAMI
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
+
+
 
 **** CODERX24 *****
 #EXTINF:-1 group-title="Bics Extra Latino", US: TELEMUNDO
