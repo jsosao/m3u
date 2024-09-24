@@ -76,6 +76,41 @@ https://ythls-v3.onrender.com/channel/UCjhq1eY5Ce1TGOn2JbGnHsw.m3u8
 **************************************************************************************************************************************************************
 *************************************************************** PROPIO  **************************************************************************************
 
+
+**************   casado74/lisatam3upro *******************
+#EXTINF:-1 group-title="Bics Extra US", US: ABC 4 Pittsburg PA (WTAE) (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WTAE.m3u8
+#EXTINF:-1 group-title="Bics Extra US", US: ABC 4 Seattle WA (KOMO-TV) (720p)
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:-1 group-title="Bics Extra US", US: ABC 5 (KRGV 5.1)
+https://stream.krgv.com/krgv-english/krgv-english.smil/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra US", US: ABC 5 Oklahoma City OK (KOCO) (576p) [Not 24/7]
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KOCO.m3u8
+#EXTINF:-1 group-title="Bics Extra US", US: ABC 7 Denver CO (KMGH) (720p)
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+#EXTINF:-1 group-title="Bics Extra US", US: ABC 7 Los Angeles CA (KABC-TV) (720p)
+https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+#EXTINF:-1 group-title="Bics Extra US", US: ABC 7 Omaha NE (KETV) (720p) [Not 24/7]
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KETV.m3u8
+#EXTINF:-1 group-title="Bics Extra US", US: ABC 7 Washington DC (WJLA) (720p)
+https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
+#EXTINF:-1 group-title="Bics Extra US", US: ABC 8 Dallas TX (WFAA) (1080p)
+https://livevideo01.wfaa.com/hls/live/2014541/newscasts/live.m3u8
+#EXTINF:-1 group-title="Bics Extra US", US: ABC 9 Kansas City MO (KMBC-TV) (720p) [Not 24/7]
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KMBC.m3u8
+#EXTINF:-1 group-title="Bics Extra US", US: ABC 9 Manchester NH (WMUR-TV) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMUR.m3u8
+#EXTINF:-1 group-title="Bics Extra US", US: ABC 13 Las Vegas NV (KTNV) (720p)
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+#EXTINF:-1 group-title="Bics Extra US", US: ABC 15 Phoenix AZ (KNXV-TV) (720p)
+https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
+#EXTINF:-1 group-title="Bics Extra US", US: ABC 16 Wilkes Barre PA (WNEP) (1080p)
+https://livevideo01.wnep.com/hls/live/2011655/newscasts/live.m3u8
+#EXTINF:-1 group-title="Bics Extra US", US: ABC 25 News Central Texas (KXXV-DT1)
+https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8
+
+
+
 **** ATOM *****
 #EXTINF:-1 group-title="Bics Extra US", US: NBC WI
 https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
