@@ -76,6 +76,27 @@ https://ythls-v3.onrender.com/channel/UCjhq1eY5Ce1TGOn2JbGnHsw.m3u8
 **************************************************************************************************************************************************************
 *************************************************************** PROPIO  **************************************************************************************
 
+**** ATOM *****
+#EXTINF:-1 group-title="Bics Extra US", US: NBC WI
+https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
+#EXTINF:-1 group-title="Bics Extra US", US: NBC GB WI
+https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
+
+#EXTINF:-1 group-title="Bics Extra US", US: CBS CC TX
+https://content.uplynk.com/channel/d1f868588ae5476dadaeff450170a183.m3u8
+#EXTINF:-1 group-title="Bics Extra US", US: NBC CC TX
+https://content.uplynk.com/channel/e72660594b7a4182982af1690609683d.m3u8
+
+#EXTINF:-1 group-title="Bics Extra US", US: TELEMUNDO CC TX
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+
+#EXTINF:-1 group-title="Bics Extra US", US: ABC FL
+https://content.uplynk.com/channel/c66d1d2d9e2c46cea1cf22a33f6ca488.m3u8
+#EXTINF:-1 group-title="Bics Extra US", US: ABC CO
+https://content.uplynk.com/channel/49fbfb5d15574052bb429eb8593e7662.m3u8
+#EXTINF:-1 group-title="Bics Extra US", US: ABC
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/727
+
 **** CODERX24 *****
 #EXTINF:-1 group-title="Bics Extra Latino", US: TELEMUNDO
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
