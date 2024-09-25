@@ -78,6 +78,18 @@ https://ythls-v3.onrender.com/channel/UCjhq1eY5Ce1TGOn2JbGnHsw.m3u8
 **************************************************************************************************************************************************************
 *************************************************************** PROPIO  **************************************************************************************
 
+*************** gogetta ************************
+#EXTINF:-1 group-title="Bics Extra US", US: ABC
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 group-title="Bics Extra US", US: CBS
+http://fl2.moveonjoy.com/CBSEAST/index.m3u8
+#EXTINF:-1 group-title="Bics Extra US", US: CBS SPORTS
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Bics Extra US", US: FOX
+http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 group-title="Bics Extra US", US: NBC
+http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+
 **** ATOM *****
 #EXTINF:-1 group-title="Bics Extra US", US: NBC WI
 https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
@@ -97,8 +109,9 @@ https://content.uplynk.com/channel/c66d1d2d9e2c46cea1cf22a33f6ca488.m3u8
 #EXTINF:-1 group-title="Bics Extra US", US: ABC CO
 https://content.uplynk.com/channel/49fbfb5d15574052bb429eb8593e7662.m3u8
 
-#EXTINF:-1 group-title="Bics Extra US", US: ABC
-http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+
+
+
 #EXTINF:-1 group-title="Bics Extra US", US: ???
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/330
 #EXTINF:-1 group-title="Bics Extra US", US: ABC
