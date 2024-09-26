@@ -24,8 +24,6 @@ http://181.78.105.146:2000/play/a038/index.m3u8
 http://45.228.234.167:8000/play/a0ll/index.m3u8
 #EXTINF:-1 group-title="Bics", MX: CANAL 5
 http://streamsy.online:2999/happy2024/newyear/1457
-#EXTINF:-1 group-title="Bics", MX: CANAL NU9VE
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/230603.ts
 #EXTINF:-1 group-title="Bics", MX: MULTIMEDIOS TELEDIARIO NOW
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1ynn&did=3dafe10496907bcf3d5a3415a3135845&ifa_type=sessionid&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=es&country=mx&country_region=mexico%20city&postal_code=07890&site_page=https%253a%252f%252fwww.canela.tv%252fes%252flinear%252ftelediario-now&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&timestamp=1726015280&id=69276&ip=2806%3A2f0%3Aa2a0%3Afb1d%3A7121%3A79d4%3Ac454%3A16ac&override_expiration=1500&deliveryProfileId=23762&sign=1MztDmTEi0FHwHXT9qSFpZNa08kwr6CgtXl8ZbK0rIs%3D
 #EXTINF:-1 group-title="Bics", MX: MULTIMEDIOS CDMX
@@ -46,8 +44,8 @@ https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 group-title="Bics", MX: AZTECA 7 3
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-***** #EXTINF:-1 group-title="Bics", MX: NU9VE
-***** https://channel06-onlymex.akamaized.net/hls/live/2033784/event01/index.m3u8
+#EXTINF:-1 group-title="Bics", MX: CANAL NU9VE
+http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/230603.ts
 #EXTINF:-1 group-title="Bics", MX: ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1  group-title="Bics", MX: A+
@@ -56,6 +54,8 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 group-title="Bics", MX: MILENIO
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1 group-title="Bics", MX: N+ FORO
+http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/59.ts
 #EXTINF:-1 group-title="Bics", MX: N+ FORO
 https://ythls-v3.onrender.com/channel/UCUsm-fannqOY02PNN67C0KA.m3u8
 #EXTINF:-1 group-title="Bics", MX: N+ FORO
@@ -71,8 +71,6 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Privado2/playlist.m3u8
 #EXTINF:-1  group-title="Bics", MX: EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1  group-title="Bics", MX: MUNDO CATOLICO [NOT 24/7]
-https://ythls-v3.onrender.com/channel/UCjhq1eY5Ce1TGOn2JbGnHsw.m3u8
 
 **************************************************************************************************************************************************************
 **************************************************************************************************************************************************************
@@ -90,41 +88,9 @@ http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 group-title="Bics Extra US", US: NBC
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
 
-**** ATOM *****
-#EXTINF:-1 group-title="Bics Extra US", US: NBC WI
-https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
-#EXTINF:-1 group-title="Bics Extra US", US: NBC GB WI
-https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
-
-#EXTINF:-1 group-title="Bics Extra US", US: CBS CC TX
-https://content.uplynk.com/channel/d1f868588ae5476dadaeff450170a183.m3u8
-#EXTINF:-1 group-title="Bics Extra US", US: NBC CC TX
-https://content.uplynk.com/channel/e72660594b7a4182982af1690609683d.m3u8
-
-#EXTINF:-1 group-title="Bics Extra US", US: TELEMUNDO CC TX
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
-
-#EXTINF:-1 group-title="Bics Extra US", US: ABC FL
-https://content.uplynk.com/channel/c66d1d2d9e2c46cea1cf22a33f6ca488.m3u8
-#EXTINF:-1 group-title="Bics Extra US", US: ABC CO
-https://content.uplynk.com/channel/49fbfb5d15574052bb429eb8593e7662.m3u8
-
-
-#EXTINF:-1 group-title="Bics Extra US", US: ???
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/330
-#EXTINF:-1 group-title="Bics Extra US", US: ABC
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/727
-#EXTINF:-1 group-title="Bics Extra US", US: CBS
-https://raw.githubusercontent.com/ehzzzd/ETV/refs/heads/main/TV/ETVCHS/WCBS.m3u8
-#EXTINF:-1 group-title="Bics Extra US", US: NBC
-https://raw.githubusercontent.com/ehzzzd/ETV/refs/heads/main/TV/ETVCHS/WNBC.m3u8
-
 **** CODERX24 *****
 #EXTINF:-1 group-title="Bics Extra Latino", US: TELEMUNDO
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
-
-***** #EXTINF:-1 group-title="Bics Extra Latino", PR: UNIVISION
-***** https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
 #EXTINF:-1 group-title="Bics Extra Latino", PR: TELEMUNDO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
@@ -158,8 +124,8 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/16600
 #EXTINF:-1 group-title="Bics Extra Latino", VE: TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Bics Extra Latino", PA: TV  Max
-https://tvnpan-ecdn3.cdn.mdstrm.com/live-stream-dai/65d4c7bcbe741b6c4131bd70/c2986629464f4312b2ebc46b572e2aab/f624fec49dadc88894ebeff1d974eab019af7757/session/43268dfc-e35f-4fed-a003-4051fb09e26f/media.m3u8?aid=6495bd4ecd55fe08b4765b53&uid=rjwxgsufgb45pxwpyx1rj68ns9h3vvk8&sid=js9p1nbvugbmbxqxntndvyqvz6p9w33r&pid=mqcwnl71xwd0d6korhv0pj4npedfmtll&ref=https%3a%2f%2ftvnpass.com%2f&without_cookies=false&listenerid=&dnt=true&access_token=thow7ko4iq85ycpk1gcgld4gffyqo0yh4dqgzosx7gyfd5wndnz2jegihmgsle9gc9maurdwrzl&es=tvnpan-ecdn3.cdn.mdstrm.com&proto=https&pz=us&hash=0c3d423051f23285c9f2f
+***** #EXTINF:-1 group-title="Bics Extra Latino", PA: TV  Max
+***** https://tvnpan-ecdn3.cdn.mdstrm.com/live-stream-dai/65d4c7bcbe741b6c4131bd70/c2986629464f4312b2ebc46b572e2aab/f624fec49dadc88894ebeff1d974eab019af7757/session/43268dfc-e35f-4fed-a003-4051fb09e26f/media.m3u8?aid=6495bd4ecd55fe08b4765b53&uid=rjwxgsufgb45pxwpyx1rj68ns9h3vvk8&sid=js9p1nbvugbmbxqxntndvyqvz6p9w33r&pid=mqcwnl71xwd0d6korhv0pj4npedfmtll&ref=https%3a%2f%2ftvnpass.com%2f&without_cookies=false&listenerid=&dnt=true&access_token=thow7ko4iq85ycpk1gcgld4gffyqo0yh4dqgzosx7gyfd5wndnz2jegihmgsle9gc9maurdwrzl&es=tvnpan-ecdn3.cdn.mdstrm.com&proto=https&pz=us&hash=0c3d423051f23285c9f2f
 
 #EXTINF:-1 group-title="Bics Extra US", US: CANAL 57
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
@@ -185,7 +151,6 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 57
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
-
 
 #EXTINF:-1 group-title="Bics Extra Latino", AR: TELEFE
 http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0jhHRHRUqc6S2jzMEWq_b_7oqSZl1eoQ7RwoDGuGu57Bx/ts
@@ -238,11 +203,8 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.ts
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.ts
 #EXTINF:-1 group-title="Bics Extra Latino", US: UNIMAS
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=sd&.ts
-#EXTINF:-1 group-title="Bics Extra Latino", US: TELEMUNDO CALIFORNIA 
-https://i.mjh.nz/SamsungTVPlus/USBC4400020H7.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", US: TELEMUNDO 51 MIAMI
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
-
 
 *****************************************************************************************************************************************************
 *****************************************************************************************************************************************************
@@ -281,16 +243,12 @@ http://145.239.5.177:8080/516/index.m3u8
 http://145.239.5.177:8080/521/index.m3u8
 #EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 15
 https://cdn-5.nxplay.com.br/ESPN/index.m3u8
-#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 15
+#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 16
 https://cdn-5.nxplay.com.br/ESPN_2/index.m3u8
-#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 15
+#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 17
 https://cdn-5.nxplay.com.br/ESPN_3/index.m3u8
-#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 15
+#EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 18
 https://cdn-5.nxplay.com.br/ESPN_4/index.m3u8
-
-
-*****************************************************************************************************************************************************
-********************************************************  PREMIER  **********************************************************************************
 
 *****************************************************************************************************************************************************
 ********************************************************   LIGA MX   *******************************************************************************
@@ -305,7 +263,6 @@ https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 #EXTINF:-1 group-title="Bics LIGA MX", LIGA MX: CALIENTE TV [NOT 24/7]
 https://ythls-v3.onrender.com/channel/UCpJN_3WCOtfICbsKKxZcBsg.m3u8
-
 
 *****************************************************************************************************************************************************
 *********************************************************  DEPORTES  ********************************************************************************
@@ -328,7 +285,6 @@ http://2.magmas5.com:8000/live/gooodseerveriptv/X7MY8691HH/132279.ts
 http://2.magmas5.com:8000/live/gooodseerveriptv/X7MY8691HH/145426.ts
 #EXTINF:-1 group-title="Bics DEPORTES", ESPN 4 (México)
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/173357.ts
-
 
 #EXTINF:-1 group-title="Bics DEPORTES", ESPN (argentina)
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/50087.ts
@@ -450,7 +406,7 @@ https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
 https://ythls-v3.onrender.com/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", MEX: IMAGEN TV
-https://ythls-v3.onrender.com/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
+http://181.78.105.146:2000/play/a00h/index.m3u8
 
 #EXTINF:-1 group-title="Bics REGIONALES", MICH: SMRT
 https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
@@ -597,7 +553,7 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u
 ************************** sports *********************************
 
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN VIVO
-http://170.82.37.21:8000/play/a04g/index.m3u8
+http://38.51.233.85:8000/play/a03x/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN VIVO
 http://181.78.8.90:16123/play/ch16
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN VIVO HD
@@ -639,117 +595,99 @@ https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2223127
 
 
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO 00
-https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/2236578
+http://cdn1host.online:2999/happy2024/newyear/366
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO 01
-https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/2236583
+http://cdn1host.online:2999/happy2024/newyear/367
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO 02
-https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/2236584
+http://cdn1host.online:2999/happy2024/newyear/368
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO 03
-https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/2236585
+http://cdn1host.online:2999/happy2024/newyear/369
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO 04
-https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/2236586
+http://cdn1host.online:2999/happy2024/newyear/369
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO 05
-https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/2236587
+http://cdn1host.online:2999/happy2024/newyear/370
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO 06
-https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/2236588
+http://cdn1host.online:2999/happy2024/newyear/371
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO 07
-https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/2236589
+http://cdn1host.online:2999/happy2024/newyear/372
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO 08
-https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/2236591
+http://cdn1host.online:2999/happy2024/newyear/373
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO 09
-https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/2236592
+http://cdn1host.online:2999/happy2024/newyear/374
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO 10
-https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/2236594
+http://cdn1host.online:2999/happy2024/newyear/375
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO 11
-https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/2236596
+http://cdn1host.online:2999/happy2024/newyear/376
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO 12
-https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/2236597
+http://cdn1host.online:2999/happy2024/newyear/377
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO 13
-https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/2236598
+http://cdn1host.online:2999/happy2024/newyear/378
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO 14
-https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/2236599
+http://cdn1host.online:2999/happy2024/newyear/379
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO 15
-https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/2236600
-#EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO 16
-https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/2236601
-#EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO 17
-https://lobo-tv.live:443/Daleplayperu52/tVFeXytHnZ/2236602
+http://cdn1host.online:2999/happy2024/newyear/380
 
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO GAME 00
-https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2236578
+http://cdn1host.online:2999/velous/OyEDBHzcaE/366
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO GAME 01
-https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2236583
+http://cdn1host.online:2999/velous/OyEDBHzcaE/367
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO GAME 02
-https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2236584
+http://cdn1host.online:2999/velous/OyEDBHzcaE/368
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO GAME 03
-https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2236585
+http://cdn1host.online:2999/velous/OyEDBHzcaE/369
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO GAME 04
-https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2236586
+http://cdn1host.online:2999/velous/OyEDBHzcaE/370
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO GAME 05
-https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2236587
+http://cdn1host.online:2999/velous/OyEDBHzcaE/371
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO GAME 06
-https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2236588
+http://cdn1host.online:2999/velous/OyEDBHzcaE/372
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO GAME 07
-https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2236589
+http://cdn1host.online:2999/velous/OyEDBHzcaE/373
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO GAME 08
-https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2236591
+http://cdn1host.online:2999/velous/OyEDBHzcaE/374
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO GAME 09
-https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2236592
+http://cdn1host.online:2999/velous/OyEDBHzcaE/375
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO GAME 10
-https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2236594
+http://cdn1host.online:2999/velous/OyEDBHzcaE/376
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO GAME 11
-https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2236596
+http://cdn1host.online:2999/velous/OyEDBHzcaE/377
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO GAME 12
-https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2236597
+http://cdn1host.online:2999/velous/OyEDBHzcaE/378
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO GAME 13
-https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2236598
+http://cdn1host.online:2999/velous/OyEDBHzcaE/379
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO GAME 14
-https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2236599
-#EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO GAME 15
-https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2236600
-#EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO GAME 16
-https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2236601
-#EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO GAME 17
-https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2236602
-#EXTINF:-1 group-title="Bics DEPORTES AMERICANO", AMERICANO GAME 18
-https://lobo-tv.live:443/F4PLAYDF/3BVz78VTs8kC/2237511
+http://cdn1host.online:2999/velous/OyEDBHzcaE/380
 
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", GAME 00
-https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2236578
+http://cdn1host.online:2999/xman2b/d5lxdEfHnB/366
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", GAME 01
-https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2236583
+http://cdn1host.online:2999/xman2b/d5lxdEfHnB/367
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", GAME 02
-https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2236584
+http://cdn1host.online:2999/xman2b/d5lxdEfHnB/368
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", GAME 03
-https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2236585
+http://cdn1host.online:2999/xman2b/d5lxdEfHnB/369
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", GAME 04
-https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2236586
+http://cdn1host.online:2999/xman2b/d5lxdEfHnB/370
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", GAME 05
-https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2236587
+http://cdn1host.online:2999/xman2b/d5lxdEfHnB/371
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", GAME 06
-https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2236588
+http://cdn1host.online:2999/xman2b/d5lxdEfHnB/372
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", GAME 07
-https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2236589
+http://cdn1host.online:2999/xman2b/d5lxdEfHnB/373
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", GAME 08
-https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2236591
+http://cdn1host.online:2999/xman2b/d5lxdEfHnB/374
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", GAME 09
-https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2236592
+http://cdn1host.online:2999/xman2b/d5lxdEfHnB/375
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", GAME 10
-https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2236594
+http://cdn1host.online:2999/xman2b/d5lxdEfHnB/376
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", GAME 11
-https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2236596
+http://cdn1host.online:2999/xman2b/d5lxdEfHnB/377
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", GAME 12
-https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2236597
+http://cdn1host.online:2999/xman2b/d5lxdEfHnB/378
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", GAME 13
-https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2236598
+http://cdn1host.online:2999/xman2b/d5lxdEfHnB/379
 #EXTINF:-1 group-title="Bics DEPORTES AMERICANO", GAME 14
-https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2236599
-#EXTINF:-1 group-title="Bics DEPORTES AMERICANO", GAME 15
-https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2236600
-#EXTINF:-1 group-title="Bics DEPORTES AMERICANO", GAME 16
-https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2236601
-#EXTINF:-1 group-title="Bics DEPORTES AMERICANO", GAME 17
-https://lobo-tv.live:443/Megatvplus/pZNvewtBmjTfAe/2236602
+http://cdn1host.online:2999/xman2b/d5lxdEfHnB/380
 
 
 *****************************************************************************************************************************************************
