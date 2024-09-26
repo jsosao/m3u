@@ -88,7 +88,7 @@ http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Bics Extra US", US: FOX
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 group-title="Bics Extra US", US: NBC
-http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
 
 **** ATOM *****
 #EXTINF:-1 group-title="Bics Extra US", US: NBC WI
