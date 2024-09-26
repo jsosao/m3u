@@ -79,14 +79,22 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 *************** go ge ************************
 #EXTINF:-1 group-title="Bics Extra US", US: ABC
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 group-title="Bics Extra US", US: ABC
+http://fl3.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 group-title="Bics Extra US", US: CBS
 http://fl2.moveonjoy.com/CBSEAST/index.m3u8
+#EXTINF:-1 group-title="Bics Extra US", US: CBS
+http://fl1.moveonjoy.com/CBSEAST/index.m3u8
 #EXTINF:-1 group-title="Bics Extra US", US: CBS SPORTS
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Bics Extra US", US: FOX
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 group-title="Bics Extra US", US: FOX
+http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 group-title="Bics Extra US", US: NBC
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:-1 group-title="Bics Extra US", US: NBC
+http://fl5.moveonjoy.com/NBC_EAST/index.m3u8
 
 **** CODERX24 *****
 #EXTINF:-1 group-title="Bics Extra Latino", US: TELEMUNDO
