@@ -142,11 +142,6 @@ https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
 ****** 03 *****
 #EXTINF:-1 group-title="Bics Extra US", US: TELEMUNDO
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
-#EXTINF:-1 group-title="Bics Extra US", US: TELEMUNDO
-http://rhsbjv7k.tvclub.xyz/iptv/YF8M7CWF2TZSDU/1080/index.m3u8
-#EXTINF:-1 group-title="Bics Extra US", US: UNIVERSO
-http://rhsbjv7k.tvclub.xyz/iptv/YF8M7CWF2TZSDU/31121/index.m3u8
-
 #EXTINF:-1 group-title="Bics Extra US", US: UNIVISION
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
 
@@ -178,10 +173,6 @@ http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0jn6xCG-BatOD7CLI5hHOqHNzbdQpwM7dcu
 #EXTINF:-1 group-title="Bics DEPORTES", Fox Sports 3
 http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0jn6xCG-BatOD7CLI5hHOqHO8L0e1-P70g64RRyYkiIRr/ts
 
-#EXTINF:-1 group-title="Bics DEPORTES", TUDN
-http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0jkHrJgzw7vjYpheGT9oUhwGa5JVd_uitHUGbMU1gqgSi/ts
-#EXTINF:-1 group-title="Bics DEPORTES", TUDN US
-http://rhsbjv7k.tvclub.xyz/iptv/YF8M7CWF2TZSDU/31103/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", TUDN US
 http://tvmate.icu:8080/Alan/Alan1234/82241
 
@@ -238,15 +229,15 @@ https://dashtvcloud.online:8443/josealbrook/panama121/144286
 ******************
 
 ****** 05 ******
-#EXTINF:-1 group-title="Bics Extra Latino", US: UNIVISION 
+#EXTINF:-1 group-title="Bics Extra US", US: UNIVISION 
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.ts
-#EXTINF:-1 group-title="Bics Extra Latino", US: UNIVISION 
+#EXTINF:-1 group-title="Bics Extra US", US: UNIVISION 
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.ts
-#EXTINF:-1 group-title="Bics Extra Latino", US: UNIMAS UHD
+#EXTINF:-1 group-title="Bics Extra US", US: UNIMAS UHD
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.ts
-#EXTINF:-1 group-title="Bics Extra Latino", US: UNIMAS
+#EXTINF:-1 group-title="Bics Extra US", US: UNIMAS
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=sd&.ts
-#EXTINF:-1 group-title="Bics Extra Latino", US: TELEMUNDO 51 MIAMI
+#EXTINF:-1 group-title="Bics Extra US", US: TELEMUNDO 51 MIAMI
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 ******************
 
@@ -285,6 +276,7 @@ http://145.239.5.177:8080/520/index.m3u8
 http://145.239.5.177:8080/516/index.m3u8
 #EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 14
 http://145.239.5.177:8080/521/index.m3u8
+
 #EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 15
 https://cdn-5.nxplay.com.br/ESPN/index.m3u8
 #EXTINF:-1 group-title="Bics FUTBOL", FUTBOL 16
@@ -526,52 +518,13 @@ http://iptvtree.net:8080/Luctv2024/c6b6031eb1/3031
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/3032
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN 4
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/295304
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN Deportes
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/6446
 
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 1
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/1157.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 1
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/888.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 1
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/882.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 2
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/1158.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 2
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/890.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 2
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/884.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 3
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/1159.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 3
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/887.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN PLUS
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/881.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN PREMIUM
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/1171.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",FOX SPORTS 1
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/905.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",FOX SPORTS 1
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/898.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",FOX SPORTS 2
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/906.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",FOX SPORTS 2
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5J88Y/899.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",FOX SPORTS 3
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/909.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",FOX SPORTS 3
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/902.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",FOX SPORTS PREMIUM
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/892.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",FOX SPORTS PREMIUM
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/895.m3u8
-#EXTINF:-1 group-title="Deportes" user-agent="Ha3ia3USGXTgFNn
 #EXTINF:-1 group-title="Bics DEPORTES", SKY LA LIGA
 http://181.78.105.146:2000/play/a08m/index.m3u8
 
-#EXTINF:-1 group-title="Bics Extra Latino", UNIVISION EAST
+#EXTINF:-1 group-title="Bics Extra US", UNIVISION EAST
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
-#EXTINF:-1 group-title="Bics Extra Latino", UNIVISION MIAMI
+#EXTINF:-1 group-title="Bics Extra US", UNIVISION MIAMI
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
 
 ***** 06 ******
@@ -610,9 +563,6 @@ http://209.45.20.210:50001/play/a02p/index.m3u8
 
 #EXTINF:-1 group-title="Bics DEPORTES",FOX DEPORTES
 https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8?playback_start_ts=1727276199.351&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
-
-#EXTINF:-1 group-title="Bics DEPORTES", EN: ITV
-https://ovo.eelov.com/live/n-1/chunks.m3u8
 
 ******** 02 *********
 
