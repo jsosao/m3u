@@ -601,7 +601,6 @@ http://fl6.moveonjoy.com/NFL_9/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", US: LFA 10
 http://fl6.moveonjoy.com/NFL_10/index.m3u8
 
-******** 01 *********
 #EXTINF:-1 group-title="Bics DEPORTES", US: BLM 01
 https://fl4.moveonjoy.com/MLB_1/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", US: BLM 02
@@ -622,6 +621,28 @@ https://fl4.moveonjoy.com/MLB_8/index.m3u8
 https://fl4.moveonjoy.com/MLB_9/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", US: BLM 10
 https://fl4.moveonjoy.com/MLB_10/index.m3u8
+
+#EXTINF:-1 group-title="Bics DEPORTES", US: ANB 01
+https://fl5.moveonjoy.com/NBA_1/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: ANB 02
+https://fl5.moveonjoy.com/NBA_2/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: ANB 03
+https://fl5.moveonjoy.com/NBA_3/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: ANB 04
+https://fl5.moveonjoy.com/NBA_4/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: ANB 05
+https://fl5.moveonjoy.com/NBA_5/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: ANB 06
+https://fl5.moveonjoy.com/NBA_6/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: ANB 07
+https://fl5.moveonjoy.com/NBA_7/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: ANB 08
+https://fl5.moveonjoy.com/NBA_8/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: ANB 09
+https://fl5.moveonjoy.com/NBA_9/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: ANB 10
+https://fl5.moveonjoy.com/NBA_10/index.m3u8
+
 ***********
 
 *****************************************************************************************************************************************************
