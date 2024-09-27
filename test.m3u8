@@ -126,15 +126,27 @@ http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 group-title="Bics Extra US", US: NBC
 http://fl5.moveonjoy.com/NBC_EAST/index.m3u8
 
-#EXTINF:-1 group-title="Bics Extra US", US: FS 1
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 group-title="Bics Extra US", US: FS 1
-http://fl4.moveonjoy.com/FOX_Sports_1/index.m3u8
 
-#EXTINF:-1 group-title="Bics Extra US", US: FS 2
+#EXTINF:-1 group-title="Bics DEPORTES", US: ESPN 2
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: ESPN 2
+http://fl5.moveonjoy.com/ESPN_2/index.m3u8
+
+
+#EXTINF:-1 group-title="Bics DEPORTES", US: FS 1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: FS 1
+http://fl4.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: FS 2
 http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
-#EXTINF:-1 group-title="Bics Extra US", US: FS 2
+#EXTINF:-1 group-title="Bics DEPORTES", US: FS 2
 http://fl5.moveonjoy.com/FOX_Sports_2/index.m3u8
+
+#EXTINF:-1 group-title="Bics DEPORTES", US: YES NETWORK
+http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: YES NETWORK
+http://fl5.moveonjoy.com/YES_NETWORK/index.m3u8
+
 
 ******************
 
