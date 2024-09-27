@@ -146,50 +146,6 @@ http://fl5.moveonjoy.com/FOX_Sports_2/index.m3u8
 http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", US: YES NETWORK
 http://fl5.moveonjoy.com/YES_NETWORK/index.m3u8
-
-#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 01
-http://fl6.moveonjoy.com/NFL_1/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 02
-http://fl6.moveonjoy.com/NFL_2/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 03
-http://fl6.moveonjoy.com/NFL_3/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 04
-http://fl6.moveonjoy.com/NFL_4/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 05
-http://fl6.moveonjoy.com/NFL_5/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 06
-http://fl6.moveonjoy.com/NFL_6/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 07
-http://fl6.moveonjoy.com/NFL_7/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 08
-http://fl6.moveonjoy.com/NFL_8/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 09
-http://fl6.moveonjoy.com/NFL_9/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 10
-http://fl6.moveonjoy.com/NFL_10/index.m3u8
-
-#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 01
-https://fl2.moveonjoy.com/MLB_1/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 02
-https://fl2.moveonjoy.com/MLB_2/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 03
-https://fl2.moveonjoy.com/MLB_3/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 04
-https://fl2.moveonjoy.com/MLB_4/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 05
-https://fl2.moveonjoy.com/MLB_5/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 06
-https://fl2.moveonjoy.com/MLB_6/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 07
-https://fl2.moveonjoy.com/MLB_7/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 08
-https://fl2.moveonjoy.com/MLB_8/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 09
-https://fl2.moveonjoy.com/MLB_9/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 10
-https://fl2.moveonjoy.com/MLB_10/index.m3u8
-
-
 ******************
 
 **** CODERX24 *****
@@ -623,109 +579,50 @@ http://209.45.20.210:50001/play/a02p/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES",FOX DEPORTES
 https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8?playback_start_ts=1727276199.351&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
 
-******** 02 *********
 
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", RED Z
-http://cdn1host.online:2999/happy2024/newyear/260
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", GAME D
-http://cdn1host.online:2999/happy2024/newyear/2713
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", NETWORK
-http://cdn1host.online:2999/happy2024/newyear/1880
+#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 01
+http://fl6.moveonjoy.com/NFL_1/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 02
+http://fl6.moveonjoy.com/NFL_2/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 03
+http://fl6.moveonjoy.com/NFL_3/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 04
+http://fl6.moveonjoy.com/NFL_4/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 05
+http://fl6.moveonjoy.com/NFL_5/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 06
+http://fl6.moveonjoy.com/NFL_6/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 07
+http://fl6.moveonjoy.com/NFL_7/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 08
+http://fl6.moveonjoy.com/NFL_8/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 09
+http://fl6.moveonjoy.com/NFL_9/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 10
+http://fl6.moveonjoy.com/NFL_10/index.m3u8
 
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", AMERICAN 00
-http://cdn1host.online:2999/happy2024/newyear/366
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", AMERICAN 01
-http://cdn1host.online:2999/happy2024/newyear/367
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", AMERICAN 02
-http://cdn1host.online:2999/happy2024/newyear/368
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", AMERICAN 03
-http://cdn1host.online:2999/happy2024/newyear/369
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", AMERICAN 04
-http://cdn1host.online:2999/happy2024/newyear/369
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", AMERICAN 05
-http://cdn1host.online:2999/happy2024/newyear/370
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", AMERICAN 06
-http://cdn1host.online:2999/happy2024/newyear/371
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", AMERICAN 07
-http://cdn1host.online:2999/happy2024/newyear/372
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", AMERICAN 08
-http://cdn1host.online:2999/happy2024/newyear/373
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", AMERICAN 09
-http://cdn1host.online:2999/happy2024/newyear/374
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", AMERICAN 10
-http://cdn1host.online:2999/happy2024/newyear/375
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", AMERICAN 11
-http://cdn1host.online:2999/happy2024/newyear/376
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", AMERICAN 12
-http://cdn1host.online:2999/happy2024/newyear/377
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", AMERICAN 13
-http://cdn1host.online:2999/happy2024/newyear/378
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", AMERICAN 14
-http://cdn1host.online:2999/happy2024/newyear/379
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", AMERICAN 15
-http://cdn1host.online:2999/happy2024/newyear/380
-
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", AMERICAN GAME 00
-http://cdn1host.online:2999/velous/OyEDBHzcaE/366
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", AMERICAN GAME 01
-http://cdn1host.online:2999/velous/OyEDBHzcaE/367
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", AMERICAN GAME 02
-http://cdn1host.online:2999/velous/OyEDBHzcaE/368
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", AMERICAN GAME 03
-http://cdn1host.online:2999/velous/OyEDBHzcaE/369
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", AMERICAN GAME 04
-http://cdn1host.online:2999/velous/OyEDBHzcaE/370
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", AMERICAN GAME 05
-http://cdn1host.online:2999/velous/OyEDBHzcaE/371
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", AMERICAN GAME 06
-http://cdn1host.online:2999/velous/OyEDBHzcaE/372
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", AMERICAN GAME 07
-http://cdn1host.online:2999/velous/OyEDBHzcaE/373
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", AMERICAN GAME 08
-http://cdn1host.online:2999/velous/OyEDBHzcaE/374
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", AMERICAN GAME 09
-http://cdn1host.online:2999/velous/OyEDBHzcaE/375
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", AMERICAN GAME 10
-http://cdn1host.online:2999/velous/OyEDBHzcaE/376
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", AMERICAN GAME 11
-http://cdn1host.online:2999/velous/OyEDBHzcaE/377
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", AMERICAN GAME 12
-http://cdn1host.online:2999/velous/OyEDBHzcaE/378
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", AMERICAN GAME 13
-http://cdn1host.online:2999/velous/OyEDBHzcaE/379
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", AMERICAN GAME 14
-http://cdn1host.online:2999/velous/OyEDBHzcaE/380
-
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", GAME 00
-http://cdn1host.online:2999/xman2b/d5lxdEfHnB/366
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", GAME 01
-http://cdn1host.online:2999/xman2b/d5lxdEfHnB/367
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", GAME 02
-http://cdn1host.online:2999/xman2b/d5lxdEfHnB/368
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", GAME 03
-http://cdn1host.online:2999/xman2b/d5lxdEfHnB/369
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", GAME 04
-http://cdn1host.online:2999/xman2b/d5lxdEfHnB/370
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", GAME 05
-http://cdn1host.online:2999/xman2b/d5lxdEfHnB/371
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", GAME 06
-http://cdn1host.online:2999/xman2b/d5lxdEfHnB/372
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", GAME 07
-http://cdn1host.online:2999/xman2b/d5lxdEfHnB/373
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", GAME 08
-http://cdn1host.online:2999/xman2b/d5lxdEfHnB/374
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", GAME 09
-http://cdn1host.online:2999/xman2b/d5lxdEfHnB/375
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", GAME 10
-http://cdn1host.online:2999/xman2b/d5lxdEfHnB/376
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", GAME 11
-http://cdn1host.online:2999/xman2b/d5lxdEfHnB/377
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", GAME 12
-http://cdn1host.online:2999/xman2b/d5lxdEfHnB/378
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", GAME 13
-http://cdn1host.online:2999/xman2b/d5lxdEfHnB/379
-#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", GAME 14
-http://cdn1host.online:2999/xman2b/d5lxdEfHnB/380
+******** 01 *********
+#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 01
+https://fl4.moveonjoy.com/MLB_1/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 02
+https://fl4.moveonjoy.com/MLB_2/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 03
+https://fl4.moveonjoy.com/MLB_3/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 04
+https://fl4.moveonjoy.com/MLB_4/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 05
+https://fl4.moveonjoy.com/MLB_5/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 06
+https://fl4.moveonjoy.com/MLB_6/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 07
+https://fl4.moveonjoy.com/MLB_7/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 08
+https://fl4.moveonjoy.com/MLB_8/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 09
+https://fl4.moveonjoy.com/MLB_9/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 10
+https://fl4.moveonjoy.com/MLB_10/index.m3u8
+***********
 
 *****************************************************************************************************************************************************
 ************************************************************** LMB  *********************************************************************************
