@@ -566,6 +566,13 @@ https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tu
 
 ******** 02 *********
 
+#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", RED Z
+http://cdn1host.online:2999/happy2024/newyear/260
+#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", GAME D
+http://cdn1host.online:2999/happy2024/newyear/2713
+#EXTINF:-1 group-title="Bics DEPORTES AMERICAN", NETWORK
+http://cdn1host.online:2999/happy2024/newyear/1880
+
 #EXTINF:-1 group-title="Bics DEPORTES AMERICAN", AMERICAN 00
 http://cdn1host.online:2999/happy2024/newyear/366
 #EXTINF:-1 group-title="Bics DEPORTES AMERICAN", AMERICAN 01
