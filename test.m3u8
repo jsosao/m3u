@@ -147,6 +147,48 @@ http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", US: YES NETWORK
 http://fl5.moveonjoy.com/YES_NETWORK/index.m3u8
 
+#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 01
+http://fl6.moveonjoy.com/NFL_1/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 02
+http://fl6.moveonjoy.com/NFL_2/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 03
+http://fl6.moveonjoy.com/NFL_3/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 04
+http://fl6.moveonjoy.com/NFL_4/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 05
+http://fl6.moveonjoy.com/NFL_5/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 06
+http://fl6.moveonjoy.com/NFL_6/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 07
+http://fl6.moveonjoy.com/NFL_7/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 08
+http://fl6.moveonjoy.com/NFL_8/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 09
+http://fl6.moveonjoy.com/NFL_9/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 10
+http://fl6.moveonjoy.com/NFL_10/index.m3u8
+
+#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 01
+https://fl2.moveonjoy.com/MLB_1/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 02
+https://fl2.moveonjoy.com/MLB_2/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 03
+https://fl2.moveonjoy.com/MLB_3/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 04
+https://fl2.moveonjoy.com/MLB_4/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 05
+https://fl2.moveonjoy.com/MLB_5/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 06
+https://fl2.moveonjoy.com/MLB_6/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 07
+https://fl2.moveonjoy.com/MLB_7/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 08
+https://fl2.moveonjoy.com/MLB_8/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 09
+https://fl2.moveonjoy.com/MLB_9/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 10
+https://fl2.moveonjoy.com/MLB_10/index.m3u8
+
 
 ******************
 
