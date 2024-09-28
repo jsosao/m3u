@@ -260,6 +260,18 @@ https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 *****************************************************************************************************************************************************
 ******************************************************* TEMPORALES POR EVENTO ***********************************************************************
 
+********************************************************  EPL  **********************************************************************************
+#EXTINF:-1 group-title="Bics DEPORTES EPL", True Premier Football HD 1
+https://www.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES EPL", True Premier Football HD 2
+https://www.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES EPL", True Premier Football HD 3
+https://www.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES EPL", True Premier Football HD 4
+https://www.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES EPL", True Premier Football HD 5
+https://www.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
+
 *****************************************************************************************************************************************************
 ********************************************************  FUTBOL  **********************************************************************************
 
@@ -315,8 +327,6 @@ https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 #EXTINF:-1 group-title="Bics LIGA MX", LIGA MX: CALIENTE TV [NOT 24/7]
 https://ythls-v3.onrender.com/channel/UCpJN_3WCOtfICbsKKxZcBsg.m3u8
 
-*****************************************************************************************************************************************************
-*********************************************************  DEPORTES  ********************************************************************************
 
 *****************************************************************************************************************************************************
 ************************************************  CANALES REGIONALES Y YOUTUBE  *********************************************************************
@@ -488,7 +498,6 @@ https://webprod.sipse.com.mx:8080/show/merida.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES", ZAC: TELEVISA ZACATECAS
 https://ythls-v3.onrender.com/channel/UCQb3i7gu9J8A4zzQU7j6C1Q.m3u8
 
-
 **********************************************************************************************************************************************************
 ********************************************* CANALES DEPORTES Y YOUTUBE  ********************************************************************************
 
@@ -555,80 +564,6 @@ https://www.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8
 https://www.livedoomovies.com:4431/02_sport5_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", True Sports 7
 https://www.livedoomovies.com:4431/02_sport7_480p/chunklist.m3u8
-
-#EXTINF:-1 group-title="Bics DEPORTES", True Premier Football HD 1
-https://www.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", True Premier Football HD 2
-https://www.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", True Premier Football HD 3
-https://www.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", True Premier Football HD 4
-https://www.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", True Premier Football HD 5
-https://www.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
-
-
-
-#EXTINF:-1 group-title="Bics MOVIES", Sky Store Premiere 1
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567233
-#EXTINF:-1 group-title="Bics MOVIES", Sky Store Premiere 2
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567234
-#EXTINF:-1 group-title="Bics MOVIES", Sky Store Premiere 3
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567235
-#EXTINF:-1 group-title="Bics MOVIES", Sky Store Premiere 4
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567236
-#EXTINF:-1 group-title="Bics MOVIES", Sky Store Premiere 5
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567237
-#EXTINF:-1 group-title="Bics MOVIES", Sky Store Premiere 6
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567238
-#EXTINF:-1 group-title="Bics MOVIES", Sky Store Premiere 7
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567239
-#EXTINF:-1 group-title="Bics MOVIES", Sky Store Premiere 8
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567240
-#EXTINF:-1 group-title="Bics MOVIES", Sky Store Premiere 9
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567241
-#EXTINF:-1 group-title="Bics MOVIES", Sky Store Premiere 10
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567242
-#EXTINF:-1 group-title="Bics MOVIES", Sky Store Premiere 11
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567243
-#EXTINF:-1 group-title="Bics MOVIES", Sky Store Premiere 12
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567244
-#EXTINF:-1 group-title="Bics MOVIES", Sky Store Premiere 13
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567245
-#EXTINF:-1 group-title="Bics MOVIES", Sky Store Premiere 14
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567246
-#EXTINF:-1 group-title="Bics MOVIES", Sky Store Premiere 15
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567247
-#EXTINF:-1 group-title="Bics MOVIES", Sky Store Premiere 16
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567248
-#EXTINF:-1 group-title="Bics MOVIES", Sky Store Premiere 17
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567249
-#EXTINF:-1 group-title="Bics MOVIES", Sky Store Premiere 18
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567250
-#EXTINF:-1 group-title="Bics MOVIES", Sky Store Premiere 19
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567251
-#EXTINF:-1 group-title="Bics MOVIES", Sky Store Premiere 20
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567252
-#EXTINF:-1 group-title="Bics MOVIES", Sky Store Premiere 21
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567253
-#EXTINF:-1 group-title="Bics MOVIES", Sky Store Premiere 22
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567254
-#EXTINF:-1 group-title="Bics MOVIES", Sky Store Premiere 23
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567255
-#EXTINF:-1 group-title="Bics MOVIES", Sky Store Premiere 24
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567256
-#EXTINF:-1 group-title="Bics MOVIES", Sky Store Premiere 25
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567257
-#EXTINF:-1 group-title="Bics MOVIES", Sky Store Premiere 26
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567258
-#EXTINF:-1 group-title="Bics MOVIES", Sky Store Premiere 27
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567259
-#EXTINF:-1 group-title="Bics MOVIES", Sky Store Premiere 28
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567260
-#EXTINF:-1 group-title="Bics MOVIES", Sky Store Premiere 29
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567261
-#EXTINF:-1 group-title="Bics MOVIES", Sky Store Premiere 30
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567262
 
 ****************
 
