@@ -558,6 +558,8 @@ https://www.livedoomovies.com:4431/02_sport7_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", TH: BeIn Sports 
 https://www.livedoomovies.com:4431/02_sport2_480p/chunklist.m3u8
 
+#EXTINF:-1 group-title="Bics DEPORTES", TNT SPORT 1
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6566/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", TNT SPORT 2
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=1920
 #EXTINF:-1 group-title="Bics DEPORTES", TNT SPORT 3
