@@ -261,15 +261,15 @@ https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 ******************************************************* TEMPORALES POR EVENTO ***********************************************************************
 
 ********************************************************  EPL  **********************************************************************************
-#EXTINF:-1 group-title="Bics DEPORTES EPL", True Premier Football HD 1
+#EXTINF:-1 group-title="Bics DEPORTES EPL", TH: True Premier Football HD 1
 https://www.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES EPL", True Premier Football HD 2
+#EXTINF:-1 group-title="Bics DEPORTES EPL", TH: True Premier Football HD 2
 https://www.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES EPL", True Premier Football HD 3
+#EXTINF:-1 group-title="Bics DEPORTES EPL", TH: True Premier Football HD 3
 https://www.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES EPL", True Premier Football HD 4
+#EXTINF:-1 group-title="Bics DEPORTES EPL", TH: True Premier Football HD 4
 https://www.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES EPL", True Premier Football HD 5
+#EXTINF:-1 group-title="Bics DEPORTES EPL", TH: True Premier Football HD 5
 https://www.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
 
 *****************************************************************************************************************************************************
@@ -552,18 +552,60 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
 
 *****       *******
-#EXTINF:-1 group-title="Bics DEPORTES", True Sports 1
+#EXTINF:-1 group-title="Bics DEPORTES", TH: True Sports 1
 https://www.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", True Sports 2
+#EXTINF:-1 group-title="Bics DEPORTES", TH: True Sports 2
 https://www.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", True Sports 3
+#EXTINF:-1 group-title="Bics DEPORTES", TH: True Sports 3
 https://www.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", True Sports 4
+#EXTINF:-1 group-title="Bics DEPORTES", TH: True Sports 4
 https://www.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", True Sports 5
+#EXTINF:-1 group-title="Bics DEPORTES", TH: True Sports 5
 https://www.livedoomovies.com:4431/02_sport5_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", True Sports 7
+#EXTINF:-1 group-title="Bics DEPORTES", TH: True Sports 7
 https://www.livedoomovies.com:4431/02_sport7_480p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="Bics DEPORTES", TNT SPORT 2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=1920
+#EXTINF:-1 group-title="Bics DEPORTES", TNT SPORT 3
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=1921
+#EXTINF:-1 group-title="Bics DEPORTES", TNT SPORT 4
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=1922
+#EXTINF:-1 group-title="Bics DEPORTES", EUROSPORT 1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=2120
+#EXTINF:-1 group-title="Bics DEPORTES", EUROSPORT 2
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6556/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", PREMIER SPORTS 1
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6555/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", PREMIER SPORTS 2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=2111
+#EXTINF:-1 group-title="Bics DEPORTES", Racing TV
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=1955
+#EXTINF:-1 group-title="Bics DEPORTES", SKY SPORTS +
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/7338/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", SKY SPORTS ACTION
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=1871
+#EXTINF:-1 group-title="Bics DEPORTES", SKY SPORTS ARENA
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=1872
+#EXTINF:-1 group-title="Bics DEPORTES", SKY SPORTS RACING
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=1868
+#EXTINF:-1 group-title="Bics DEPORTES", SKY SPORTS TENNIS
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=1802401
+#EXTINF:-1 group-title="Bics DEPORTES", SKY SPORTS NEWS
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=1870
+#EXTINF:-1 group-title="Bics DEPORTES", SKY SPORTS F1
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/7342/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", SKY SPORTS FOOTBALL
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/7336/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", SKY SPORTS GOLF
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/7344/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", SKY SPORTS MAIN EVENT
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/7337/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", SKY SPORTS MIX
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/7339/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", SKY SPORTS PREMIER LEAGUE
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/7335/index.m3u8
 
 ****************
 
