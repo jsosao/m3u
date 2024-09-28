@@ -260,7 +260,7 @@ https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 *****************************************************************************************************************************************************
 ******************************************************* TEMPORALES POR EVENTO ***********************************************************************
 
-********************************************************  EPL  **********************************************************************************
+********************************************************  08 EPL  **********************************************************************************
 #EXTINF:-1 group-title="Bics DEPORTES EPL", TH: True Premier Football HD 1
 https://www.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES EPL", TH: True Premier Football HD 2
@@ -551,7 +551,7 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
 #EXTINF:-1 group-title="Bics Extra US", UNIVISION MIAMI
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
 
-*****       *******
+***** 08   *******
 #EXTINF:-1 group-title="Bics DEPORTES", TH: True Sports 1
 https://www.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", TH: True Sports 2
