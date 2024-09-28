@@ -251,6 +251,21 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=sd&.ts
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 ******************
 
+******     08     *******
+#EXTINF:-1 group-title="Bics US", US: USA NETWORK
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/1101/index.m3u8
+#EXTINF:-1 group-title="Bics US", US: ABC
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/1087/index.m3u8
+#EXTINF:-1 group-title="Bics US", US: ABC 25 Columbia
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 group-title="Bics US", US: ABC Spark
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6466/index.m3u8
+#EXTINF:-1 group-title="Bics US", US: ABC Buffalo
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6507/index.m3u8
+#EXTINF:-1 group-title="Bics US", US: NBC
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/1081/index.m3u8
+******************
+
 *****************************************************************************************************************************************************
 *****************************************************************************************************************************************************
 ******************************************************* TEMPORALES POR EVENTO ***********************************************************************
@@ -513,7 +528,6 @@ https://ythls-v3.onrender.com/channel/UCpJN_3WCOtfICbsKKxZcBsg.m3u8
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
 ****** 07  ******
-
 #EXTINF:-1 group-title="Bics DEPORTES",Claro Sport
 http://181.78.105.146:2000/play/a053/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN 2
@@ -599,7 +613,6 @@ http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/7337/index.m3u8
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/7339/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", SKY SPORTS PREMIER LEAGUE
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/7335/index.m3u8
-
 #EXTINF:-1 group-title="Bics DEPORTES", CA: NBA TV
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6491/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", CA: TSN 1
@@ -610,7 +623,6 @@ http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6492/index.m3u8
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6522/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", CA: TSN 4
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6445/index.m3u8
-
 #EXTINF:-1 group-title="Bics DEPORTES", JP: Sports 1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="Bics DEPORTES", JP: Sports 2
@@ -619,7 +631,54 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&b
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="Bics DEPORTES", JP: Sports 4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
-
+#EXTINF:-1 group-title="Bics DEPORTES", US: ESPN
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19156/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: FOX SPORTS 1
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/7322/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: FOX SPORTS 2
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/7323/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: FOX SPORTS ARIZONA
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19139/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: FOX SPORTS FLORIDA
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19140/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: FOX SPORTS OKLAHOMA
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19146/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: FOX SPORTS SOUTHWEST PLUS
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19143/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: FOX SPORTS Racing
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19144/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: SKY SPORT NBA
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19134/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: Sky Racing
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6122/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: MSG
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/7325/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: MSG 2
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/7326/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: NESN
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/11109/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: NBA TV
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/7226/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: CBS SPORTS NETWORK
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/7324/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: NBC SPORTS NETWORK
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/7327/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: BALLY SPORTS MIDWEST
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19153/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: BALLY SPORTS NORTH
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19152/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: BALLY SPORTS SOUTHEAST CAROLINAS
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19151/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: BALLY SPORTS SUN
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19150/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: NFL Network
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: MLB Network
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: Yes Network
+http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: Big Ten Network
+http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 ****************
 
 ***** 06 ******
