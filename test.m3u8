@@ -5,28 +5,6 @@
 ***********************************************************************************************************************************************
 ******************************************************     PROPIO     *************************************************************************
 ******************************************************     BICS MX     *************************************************************************
-#EXTINF:-1 group-title="Bics TEST", TEST
-https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/trtsport200.m3u8
-#EXTINF:-1 group-title="Bics TEST", ARENA SPORT
-https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/arenasportHR100.m3u8
-#EXTINF:-1 group-title="Bics TEST", ARENA SPORT
-https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/arenasportHR1000
-#EXTINF:-1 group-title="Bics TEST", ARENA SPORT
-https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/arenasportHR200.m3u8
-#EXTINF:-1 group-title="Bics TEST", ARENA SPORT
-https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/arenasportHR300.m3u8
-#EXTINF:-1 group-title="Bics TEST", ARENA SPORT
-https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/arenasportHR400.m3u8
-#EXTINF:-1 group-title="Bics TEST", ARENA SPORT
-https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/arenasportHR500.m3u8
-#EXTINF:-1 group-title="Bics TEST", ARENA SPORT
-https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/arenasportHR600.m3u8
-#EXTINF:-1 group-title="Bics TEST", ARENA SPORT
-https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/arenasportHR700.m3u8
-#EXTINF:-1 group-title="Bics TEST", ARENA SPORT
-https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/arenasportHR800.m3u8
-#EXTINF:-1 group-title="Bics TEST", ARENA SPORT
-https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/arenasportHR900.m3u8
 
 #EXTINF:-1 group-title="Bics MX", MX: AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
@@ -809,7 +787,50 @@ https://fl5.moveonjoy.com/NBA_10/index.m3u8
 
 ***********
 
+#EXTINF:-1 group-title="Bics DEPORTES", ARENA SPORT 1
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/arenasportHR100.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", ARENA SPORT 2
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/arenasportHR200.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", ARENA SPORT 3
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/arenasportHR300.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", ARENA SPORT 4
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/arenasportHR400.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", ARENA SPORT 5
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/arenasportHR500.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", ARENA SPORT 6
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/arenasportHR600.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", ARENA SPORT 7
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/arenasportHR700.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", ARENA SPORT 8
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/arenasportHR800.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", ARENA SPORT 9
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/arenasportHR900.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", ARENA SPORT 10
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/arenasportHR1000
+#EXTINF:-1 group-title="Bics DEPORTES", ARENA SPORT PREMIUM 1
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/arenasportpremium100.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", ARENA SPORT PREMIUM 2
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/arenasportpremium200.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", ARENA SPORT PREMIUM 3
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/arenasportpremium300.m3u8
 
+#EXTINF:-1 group-title="Bics DEPORTES", SPORT TV 1
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/sporttvPT1.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", SPORT TV 2
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/sporttvPT2.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", SPORT TV 3
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/sporttvPT3.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", SPORT TV 4
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/sporttvPT4.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", SPORT TV 5
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/sporttvPT5.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", SPORT TV 6
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/sporttvPT6.m3u8
+
+
+
+#EXTINF:-1 group-title="Bics DEPORTES", TEST
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/trtsport200.m3u8
 
 ******** 02 *********
 
