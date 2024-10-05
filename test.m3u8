@@ -87,6 +87,8 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 #EXTINF:-1 group-title="Bics Latino", GT: TV AZTECA GUATE
 https://ch1-tva.duin.dev/hls/stream.m3u8
+#EXTINF:-1 group-title="Bics Latino", HN: CTV INTERNACIONAL
+https://mediacp.us:8081/ctvhn/index.m3u8
 #EXTINF:-1 group-title="Bics Latino", PE: PANAMERICANA
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1 group-title="Bics Latino", SV: CANAL 21
