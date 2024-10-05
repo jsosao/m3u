@@ -81,43 +81,28 @@ https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
 #EXTINF:-1 group-title="Bics US", US: AL JAZEERA ARAB
 https://live-hls-web-aja-fa.getaj.net/AJA/05.m3u8
 
-#EXTINF:-1 group-title="CANADA",CA CTV Two Atlantic
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/79547
-#EXTINF:-1 group-title="CANADA",CA CTV CALGARY (E)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57964
-#EXTINF:-1 group-title="CANADA",CA CTV Comedy Channel
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57408
-#EXTINF:-1 group-title="CANADA",CA CTV Drama Channel (R)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57254
-#EXTINF:-1 group-title="CANADA",CA CTV Edmonton Alberta HD (D)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/58725
-#EXTINF:-1 group-title="CANADA",CA CTV Halifax Nova Scotia HD
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57410
-#EXTINF:-1 group-title="CANADA",CA CTV Kitchener
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/58557
-#EXTINF:-1 group-title="CANADA",CA CTV 2 London HD
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/58546
-#EXTINF:-1 group-title="CANADA",CA CTV Montreal HD
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47234
-#EXTINF:-1 group-title="CANADA",CA: CTV NEWS CHANNEL HD
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57350
-#EXTINF:-1 group-title="CANADA",CA: CTV OTTAWA
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47237
-#EXTINF:-1 group-title="CANADA",CA CTV Regina Saskatchewan HD (D)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/66381
-#EXTINF:-1 group-title="CANADA",CA CTV Saskatoon Saskatchewan HD (D)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/66382
-#EXTINF:-1 group-title="CANADA",CA CTV Sci-Fi Channel (B)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57253
-#EXTINF:-1 group-title="CANADA",CA CTV Toronto HD (R)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47296
-#EXTINF:-1 group-title="CANADA",CA: CTV2 Vancouver
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57316
-#EXTINF:-1 group-title="CANADA",CA CTV2 Windsor HD (B)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/77165
-#EXTINF:-1 group-title="CANADA",CA CTV Barrie Ontario HD
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57373
-
+#EXTINF:-1 group-title="CANADA",CA CTV SCI-FI
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57464
+#EXTINF:-1 group-title="CANADA",CA: TFO  (FR)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57291
+#EXTINF:-1 group-title="CANADA",CA TLC
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57290
+#EXTINF:-1 group-title="CANADA",CA : The Shopping Channel (B)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57370
+#EXTINF:-1 group-title="CANADA",CA TSN 1 (R)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47440
+#EXTINF:-1 group-title="CANADA",CA TSN 2 HD
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47442
+#EXTINF:-1 group-title="CANADA",CA TSN 3 HD
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47444
+#EXTINF:-1 group-title="CANADA",CA TSN 4
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/66783
+#EXTINF:-1 group-title="CANADA",CA TSN 4 (B)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47446
+#EXTINF:-1 group-title="CANADA",CA TSN 5
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57467
+#EXTINF:-1 group-title="CANADA",CA TSN 5
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57295
 
 #EXTINF:-1 group-title="Bics Latino", PR: TELEMUNDO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
