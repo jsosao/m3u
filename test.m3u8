@@ -839,7 +839,20 @@ https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/cosmote400.m3u8
 https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/cosmote500.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", COSMO 6
 https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/cosmote600.m3u8
-
+#EXTINF:-1 group-title="Bics DEPORTES", CYTA 1
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/cyta100.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", CYTA 2
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/cyta200.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", CYTA 3
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/cyta300.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", CYTA 4
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/cyta400.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", CYTA 5
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/cyta500.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", CYTA 6
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/cyta600.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", CYTA 7
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/cyta700.m3u8
 
 #EXTINF:-1 group-title="Bics DEPORTES", SPORT TV 1
 https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/sporttvPT1.m3u8
