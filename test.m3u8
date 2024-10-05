@@ -5,6 +5,9 @@
 ***********************************************************************************************************************************************
 ******************************************************     PROPIO     *************************************************************************
 ******************************************************     BICS MX     *************************************************************************
+#EXTINF:-1 group-title="Bics TEST", TEST
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/trtsport200.m3u8
+
 #EXTINF:-1 group-title="Bics MX", MX: AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 group-title="Bics MX", MX: AZTECA UNO -1 HR
@@ -80,29 +83,6 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
 #EXTINF:-1 group-title="Bics US", US: AL JAZEERA ARAB
 https://live-hls-web-aja-fa.getaj.net/AJA/05.m3u8
-
-#EXTINF:-1 group-title="CANADA",CA CTV SCI-FI
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57464
-#EXTINF:-1 group-title="CANADA",CA: TFO  (FR)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57291
-#EXTINF:-1 group-title="CANADA",CA TLC
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57290
-#EXTINF:-1 group-title="CANADA",CA : The Shopping Channel (B)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57370
-#EXTINF:-1 group-title="CANADA",CA TSN 1 (R)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47440
-#EXTINF:-1 group-title="CANADA",CA TSN 2 HD
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47442
-#EXTINF:-1 group-title="CANADA",CA TSN 3 HD
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47444
-#EXTINF:-1 group-title="CANADA",CA TSN 4
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/66783
-#EXTINF:-1 group-title="CANADA",CA TSN 4 (B)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47446
-#EXTINF:-1 group-title="CANADA",CA TSN 5
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57467
-#EXTINF:-1 group-title="CANADA",CA TSN 5
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57295
 
 #EXTINF:-1 group-title="Bics Latino", PR: TELEMUNDO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
