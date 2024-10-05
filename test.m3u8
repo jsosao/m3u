@@ -7,6 +7,8 @@
 ******************************************************     BICS MX     *************************************************************************
 #EXTINF:-1 group-title="Bics TEST", TEST
 https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/trtsport200.m3u8
+#EXTINF:-1 group-title="Bics TEST", ARENA SPORT
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/arenasportHR100.m3u8
 
 #EXTINF:-1 group-title="Bics MX", MX: AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
