@@ -1043,6 +1043,24 @@ https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/orangesport200.m3
 https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/orangesport300.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", ORANGE SPORTS 4
 https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/orangesport400.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", POLSAT PREMIUM 1
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/polsatpremium100.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", POLSAT PREMIUM 2
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/polsatpremium200.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", POLSAT PREMIUM 3
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/polsatpremium300.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", POLSAT SPORT
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/polsatsport00.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", POLSAT SPORT EXTRA
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/polsatsportextra00.m3u8
+
+#EXTINF:-1 group-title="Bics DEPORTES", SKY SPORTS CALCIO
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/skysportITcalcio.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", SKY SPORTS F1
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/skysportITf1.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", SKY SPORTS FOOTBALL
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/skysportITfootball.m3u8
+
 #EXTINF:-1 group-title="Bics DEPORTES", SPORTKLUB 1
 https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/sportklubHR1.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", SPORTKLUB 2
