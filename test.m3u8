@@ -871,8 +871,26 @@ https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/diemasport100.m3u
 https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/diemasport200.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", DIEMASPORT 3
 https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/diemasport300.m3u8
-
-
+#EXTINF:-1 group-title="Bics DEPORTES", DIGISPORT 1
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/digisport001.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", DIGISPORT 2
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/digisport002.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", DIGISPORT 3
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/digisport003.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", DIGISPORT 4
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/digisport004.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", ELEVEN 1
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/elevenPL100.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", ELEVEN 2
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/elevenPL200.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", ELEVEN 3
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/elevenPL300.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", ELEVEN 4
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/elevenPL400.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", ELEVEN 5
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/elevenPL500.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", ELEVEN 6
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/elevenPL600.m3u8
 
 #EXTINF:-1 group-title="Bics DEPORTES", SPORT TV 1
 https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/sporttvPT1.m3u8
