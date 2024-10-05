@@ -1,6 +1,6 @@
 #EXTM3U
 
-************************  28/SEP/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  05/OCT/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ******************************************************     PROPIO     *************************************************************************
@@ -813,6 +813,20 @@ https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/arenasportpremium
 https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/arenasportpremium200.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", ARENA SPORT PREMIUM 3
 https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/arenasportpremium300.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", ART SPORTS 1
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/artsport100.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", ART SPORTS 2
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/artsport200.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", ART SPORTS 3
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/artsport300.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", CANAL+ 1
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/canal%2BPL100.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", CANAL+ 2
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/canal%2BPL200.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", CANAL+ 3
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/canal%2BPL300.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", CANAL+ 4
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/canal%2BPL400.m3u8
 
 #EXTINF:-1 group-title="Bics DEPORTES", SPORT TV 1
 https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/sporttvPT1.m3u8
@@ -831,6 +845,7 @@ https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/sporttvPT6.m3u8
 
 #EXTINF:-1 group-title="Bics DEPORTES", TEST
 https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/trtsport200.m3u8
+
 
 ******** 02 *********
 
