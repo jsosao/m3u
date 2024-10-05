@@ -827,32 +827,52 @@ https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/canal%2BPL200.m3u
 https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/canal%2BPL300.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", CANAL+ 4
 https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/canal%2BPL400.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", COSMO 1
+#EXTINF:-1 group-title="Bics DEPORTES", COSMOTE 1
 https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/cosmote100.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", COSMO 2
+#EXTINF:-1 group-title="Bics DEPORTES", COSMOTE 2
 https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/cosmote200.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", COSMO 3
+#EXTINF:-1 group-title="Bics DEPORTES", COSMOTE 3
 https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/cosmote300.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", COSMO 4
+#EXTINF:-1 group-title="Bics DEPORTES", COSMOTE 4
 https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/cosmote400.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", COSMO 5
+#EXTINF:-1 group-title="Bics DEPORTES", COSMOTE 5
 https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/cosmote500.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", COSMO 6
+#EXTINF:-1 group-title="Bics DEPORTES", COSMOTE 6
 https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/cosmote600.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", CYTA 1
+#EXTINF:-1 group-title="Bics DEPORTES", CYTAVISION 1
 https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/cyta100.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", CYTA 2
+#EXTINF:-1 group-title="Bics DEPORTES", CYTAVISION 2
 https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/cyta200.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", CYTA 3
+#EXTINF:-1 group-title="Bics DEPORTES", CYTAVISION 3
 https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/cyta300.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", CYTA 4
+#EXTINF:-1 group-title="Bics DEPORTES", CYTAVISION 4
 https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/cyta400.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", CYTA 5
+#EXTINF:-1 group-title="Bics DEPORTES", CYTAVISION 5
 https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/cyta500.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", CYTA 6
+#EXTINF:-1 group-title="Bics DEPORTES", CYTAVISION 6
 https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/cyta600.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", CYTA 7
+#EXTINF:-1 group-title="Bics DEPORTES", CYTAVISION 7
 https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/cyta700.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", DE: DAZN 1
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/daznDE100.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", DE: DAZN 2
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/daznDE200.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", ES: DAZN 1
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/daznES100.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", ES: DAZN 2
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/daznES100.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", IT: DAZN 1
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/daznIT100.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", IT: DAZN 2
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/daznIT100.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", DIEMASPORT 1
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/diemasport100.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", DIEMASPORT 2
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/diemasport200.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", DIEMASPORT 3
+https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/diemasport300.m3u8
+
+
 
 #EXTINF:-1 group-title="Bics DEPORTES", SPORT TV 1
 https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/sporttvPT1.m3u8
@@ -866,8 +886,6 @@ https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/sporttvPT4.m3u8
 https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/sporttvPT5.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", SPORT TV 6
 https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/sporttvPT6.m3u8
-
-
 
 #EXTINF:-1 group-title="Bics DEPORTES", TEST
 https://raw.githubusercontent.com/jwz4rt/ikitv/refs/heads/main/trtsport200.m3u8
