@@ -128,7 +128,17 @@ http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 group-title="Bics US", US: NBC
 http://fl5.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:-1 group-title="Bics US", US: USA NETWORK
+http://fl2.moveonjoy.com/USA_Network/index.m3u8
 
+#EXTINF:-1 group-title="Bics US", US: CRAVE 1
+http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
+#EXTINF:-1 group-title="Bics US", US: CRAVE 2
+http://fl2.moveonjoy.com/CRAVE_2/index.m3u8
+#EXTINF:-1 group-title="Bics US", US: CRAVE 3
+http://fl3.moveonjoy.com/CRAVE_3/index.m3u8
+#EXTINF:-1 group-title="Bics US", US: CRAVE 4
+http://fl2.moveonjoy.com/CRAVE_4/index.m3u8
 
 #EXTINF:-1 group-title="Bics DEPORTES", US: ESPN 2
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
@@ -722,105 +732,114 @@ http://209.45.20.210:50001/play/a02p/index.m3u8
 https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8?playback_start_ts=1727276199.351&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
 
 ******   01 *******
-#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 01
+#EXTINF:-1 group-title="Bics DEPORTES", CA: TSN 1
+http://fl5.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", CA: TSN 2
+http://fl5.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", CA: TSN 3
+http://fl5.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", CA: TSN 4
+http://fl5.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", CA: TSN 5
+http://fl5.moveonjoy.com/TSN_5/index.m3u8
+
+#EXTINF:-1 group-title="Bics DEPORTES LFA", US: LFA 01
 http://fl6.moveonjoy.com/NFL_1/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 02
+#EXTINF:-1 group-title="Bics DEPORTES LFA", US: LFA 02
 http://fl6.moveonjoy.com/NFL_2/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 03
+#EXTINF:-1 group-title="Bics DEPORTES LFA", US: LFA 03
 http://fl6.moveonjoy.com/NFL_3/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 04
+#EXTINF:-1 group-title="Bics DEPORTES LFA", US: LFA 04
 http://fl6.moveonjoy.com/NFL_4/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 05
+#EXTINF:-1 group-title="Bics DEPORTES LFA", US: LFA 05
 http://fl6.moveonjoy.com/NFL_5/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 06
+#EXTINF:-1 group-title="Bics DEPORTES LFA", US: LFA 06
 http://fl6.moveonjoy.com/NFL_6/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 07
+#EXTINF:-1 group-title="Bics DEPORTES LFA", US: LFA 07
 http://fl6.moveonjoy.com/NFL_7/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 08
+#EXTINF:-1 group-title="Bics DEPORTES LFA", US: LFA 08
 http://fl6.moveonjoy.com/NFL_8/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 09
+#EXTINF:-1 group-title="Bics DEPORTES LFA", US: LFA 09
 http://fl6.moveonjoy.com/NFL_9/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 10
+#EXTINF:-1 group-title="Bics DEPORTES LFA", US: LFA 10
 http://fl6.moveonjoy.com/NFL_10/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 11
+#EXTINF:-1 group-title="Bics DEPORTES LFA", US: LFA 11
 http://fl6.moveonjoy.com/NFL_11/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 12
+#EXTINF:-1 group-title="Bics DEPORTES LFA", US: LFA 12
 http://fl6.moveonjoy.com/NFL_12/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 13
+#EXTINF:-1 group-title="Bics DEPORTES LFA", US: LFA 13
 http://fl6.moveonjoy.com/NFL_13/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 14
+#EXTINF:-1 group-title="Bics DEPORTES LFA", US: LFA 14
 http://fl6.moveonjoy.com/NFL_14/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 15
+#EXTINF:-1 group-title="Bics DEPORTES LFA", US: LFA 15
 http://fl6.moveonjoy.com/NFL_15/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: LFA 16
+#EXTINF:-1 group-title="Bics DEPORTES LFA", US: LFA 16
 http://fl6.moveonjoy.com/NFL_16/index.m3u8
 
-#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 01
+#EXTINF:-1 group-title="Bics DEPORTES BLM", US: BLM 01
 https://fl4.moveonjoy.com/MLB_1/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 02
+#EXTINF:-1 group-title="Bics DEPORTES BLM", US: BLM 02
 https://fl4.moveonjoy.com/MLB_2/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 03
+#EXTINF:-1 group-title="Bics DEPORTES BLM", US: BLM 03
 https://fl4.moveonjoy.com/MLB_3/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 04
+#EXTINF:-1 group-title="Bics DEPORTES BLM", US: BLM 04
 https://fl4.moveonjoy.com/MLB_4/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 05
+#EXTINF:-1 group-title="Bics DEPORTES BLM", US: BLM 05
 https://fl4.moveonjoy.com/MLB_5/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 06
+#EXTINF:-1 group-title="Bics DEPORTES BLM", US: BLM 06
 https://fl4.moveonjoy.com/MLB_6/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 07
+#EXTINF:-1 group-title="Bics DEPORTES BLM", US: BLM 07
 https://fl4.moveonjoy.com/MLB_7/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 08
+#EXTINF:-1 group-title="Bics DEPORTES BLM", US: BLM 08
 https://fl4.moveonjoy.com/MLB_8/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 09
+#EXTINF:-1 group-title="Bics DEPORTES BLM", US: BLM 09
 https://fl4.moveonjoy.com/MLB_9/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 10
+#EXTINF:-1 group-title="Bics DEPORTES BLM", US: BLM 10
 https://fl4.moveonjoy.com/MLB_10/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 11
+#EXTINF:-1 group-title="Bics DEPORTES BLM", US: BLM 11
 https://fl4.moveonjoy.com/MLB_11/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 12
+#EXTINF:-1 group-title="Bics DEPORTES BLM", US: BLM 12
 https://fl4.moveonjoy.com/MLB_12/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 13
+#EXTINF:-1 group-title="Bics DEPORTES BLM", US: BLM 13
 https://fl4.moveonjoy.com/MLB_13/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 14
+#EXTINF:-1 group-title="Bics DEPORTES BLM", US: BLM 14
 https://fl4.moveonjoy.com/MLB_14/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 15
+#EXTINF:-1 group-title="Bics DEPORTES BLM", US: BLM 15
 https://fl4.moveonjoy.com/MLB_15/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: BLM 16
+#EXTINF:-1 group-title="Bics DEPORTES BLM", US: BLM 16
 https://fl4.moveonjoy.com/MLB_16/index.m3u8
 
-
-
-#EXTINF:-1 group-title="Bics DEPORTES", US: ANB 01
+#EXTINF:-1 group-title="Bics DEPORTES ANB", US: ANB 01
 https://fl5.moveonjoy.com/NBA_1/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: ANB 02
+#EXTINF:-1 group-title="Bics DEPORTES ANB", US: ANB 02
 https://fl5.moveonjoy.com/NBA_2/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: ANB 03
+#EXTINF:-1 group-title="Bics DEPORTES ANB", US: ANB 03
 https://fl5.moveonjoy.com/NBA_3/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: ANB 04
+#EXTINF:-1 group-title="Bics DEPORTES ANB", US: ANB 04
 https://fl5.moveonjoy.com/NBA_4/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: ANB 05
+#EXTINF:-1 group-title="Bics DEPORTES ANB", US: ANB 05
 https://fl5.moveonjoy.com/NBA_5/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: ANB 06
+#EXTINF:-1 group-title="Bics DEPORTES ANB", US: ANB 06
 https://fl5.moveonjoy.com/NBA_6/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: ANB 07
+#EXTINF:-1 group-title="Bics DEPORTES ANB", US: ANB 07
 https://fl5.moveonjoy.com/NBA_7/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: ANB 08
+#EXTINF:-1 group-title="Bics DEPORTES ANB", US: ANB 08
 https://fl5.moveonjoy.com/NBA_8/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: ANB 09
+#EXTINF:-1 group-title="Bics DEPORTES ANB", US: ANB 09
 https://fl5.moveonjoy.com/NBA_9/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: ANB 10
+#EXTINF:-1 group-title="Bics DEPORTES ANB", US: ANB 10
 https://fl5.moveonjoy.com/NBA_10/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: ANB 11
+#EXTINF:-1 group-title="Bics DEPORTES ANB", US: ANB 11
 https://fl5.moveonjoy.com/NBA_11/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: ANB 12
+#EXTINF:-1 group-title="Bics DEPORTES ANB", US: ANB 12
 https://fl5.moveonjoy.com/NBA_12/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: ANB 13
+#EXTINF:-1 group-title="Bics DEPORTES ANB", US: ANB 13
 https://fl5.moveonjoy.com/NBA_13/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: ANB 14
+#EXTINF:-1 group-title="Bics DEPORTES ANB", US: ANB 14
 https://fl5.moveonjoy.com/NBA_14/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: ANB 15
+#EXTINF:-1 group-title="Bics DEPORTES ANB", US: ANB 15
 https://fl5.moveonjoy.com/NBA_15/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: ANB 16
+#EXTINF:-1 group-title="Bics DEPORTES ANB", US: ANB 16
 https://fl5.moveonjoy.com/NBA_16/index.m3u8
 
 ***********
