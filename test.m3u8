@@ -162,19 +162,10 @@ http://hardcoremedia.xyz/live/6FyrkGbRP/D4Q4pk3k8u/129987.m3u8
 
 #EXTINF:-1 group-title="Bics DEPORTES", US: ESPN
 http://tvmate.icu:8080/live/7686199/9576982/14197.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: TNT SPORTS 1
-http://5.206.227.184:8080/live/dgvsmaK54i/NBm7hK3SRb/10878.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: TNT SPORTS 2
-http://5.206.227.184:8080/live/dgvsmaK54i/NBm7hK3SRb/10820.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: TNT SPORTS 3
-http://5.206.227.184:8080/live/dgvsmaK54i/NBm7hK3SRb/10877.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: TNT SPORTS 5
-http://5.206.227.184:8080/live/dgvsmaK54i/NBm7hK3SRb/10752.m3u8
 #EXTINF:-1 group-title="Bics US", US: UNIVISION
 http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
-
-#EXTINF:-1 group-title="Bics DEPORTES", US: ONE SPORTS
-http://5.206.227.184:8080/live/dgvsmaK54i/NBm7hK3SRb/111662.m3u8
+#EXTINF:-1 group-title="Bics US", US: PARAMOUNT NETWORK
+http://hardcoremedia.xyz/live/6FyrkGbRP/D4Q4pk3k8u/129938.m3u8
 
 #EXTINF:-1 group-title="Bics DEPORTES", US: ESPN 2
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
