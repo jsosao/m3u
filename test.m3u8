@@ -1,6 +1,6 @@
 #EXTM3U
 
-************************  06/OCT/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  12/OCT/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ******************************************************     PROPIO     *************************************************************************
@@ -101,7 +101,7 @@ https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8
 #EXTINF:-1 group-title="Bics Latino", BO: CANAL 7.2 DEPORTES
 https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 #EXTINF:-1 group-title="Bics Latino", BO: BOLIVISION
-https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/original.m3u8
+https://d3ew2cr4djta2j.cloudfront.net/index.m3u8
 #EXTINF:-1 group-title="Bics Latino", VE: VPI TV
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
 #EXTINF:-1 group-title="Bics Latino", VE: VENEVISION INTERNACIONAL
@@ -116,10 +116,6 @@ http://hardcoremedia.xyz/live/6FyrkGbRP/D4Q4pk3k8u/129979.m3u8
 
 #EXTINF:-1 group-title="Bics US", US: SKY CINEMA ACTION
 http://tvmate.icu:8080/live/7686199/9576982/35254.m3u8
-#EXTINF:-1 group-title="Bics US", US: SKY CINEMA HITS
-http://hardcoremedia.xyz/live/6FyrkGbRP/D4Q4pk3k8u/10775.m3u8
-#EXTINF:-1 group-title="Bics US", US: SKY CINEMA PREMIER
-http://tvmate.icu:8080/live/7686199/9576982/35256.m3u8
 
 #EXTINF:-1 group-title="Bics US", CA: CTV
 http://tvmate.icu:8080/live/7686199/9576982/47234.m3u8
@@ -137,7 +133,6 @@ http://tvmate.icu:8080/live/7686199/9576982/12730.m3u8
 http://tvmate.icu:8080/live/7686199/9576982/12744.m3u8
 #EXTINF:-1 group-title="Bics US", US: MGM +
 http://hardcoremedia.xyz/live/6FyrkGbRP/D4Q4pk3k8u/129987.m3u8
-
 
 #EXTINF:-1 group-title="Bics DEPORTES", US: ESPN
 http://tvmate.icu:8080/live/7686199/9576982/14197.m3u8
@@ -274,18 +269,6 @@ https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 *****************************************************************************************************************************************************
 ******************************************************* TEMPORALES POR EVENTO ***********************************************************************
 
-********************************************************  08 EPL  **********************************************************************************
-#EXTINF:-1 group-title="Bics DEPORTES EPL", TH: True Premier Football HD 1
-https://www.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES EPL", TH: True Premier Football HD 2
-https://www.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES EPL", TH: True Premier Football HD 3
-https://www.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES EPL", TH: True Premier Football HD 4
-https://www.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES EPL", TH: True Premier Football HD 5
-https://www.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
-
 ********************************************************   LIGA MX   *******************************************************************************
 
 #EXTINF:-1 group-title="Bics DEPORTES LIGA MX", LIGA MX: CLARO SPORTS
@@ -353,10 +336,9 @@ https://ythls-v3.onrender.com/channel/UCcmuFsMIIIHO3LBqeBVfm8Q.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES MX", BAJA: TELEVISA TIJUANA
 https://ythls-v3.onrender.com/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES MX", BAJA: CANAL 66 MEXICALI
-https://ythls-v3.onrender.com/channel/UCgu4v4HAioB0N5K6aq_H-WQ.m3u8
+https://60417ddeaf0d9.streamlock.net/canal66/videocanal66/playlist.m3u8
 #EXTINF:-1 group-title="Bics REGIONALES MX", BAJA: CANAL 33 TIJUANA
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
-
 #EXTINF:-1 group-title="Bics REGIONALES MX", CAM: TRC
 https://5f1af61612fb5.streamlock.net/trc/videotrc/playlist.m3u8
 
@@ -558,124 +540,6 @@ http://181.78.105.146:2000/play/a08m/index.m3u8
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
 #EXTINF:-1 group-title="Bics US", UNIVISION MIAMI
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
-
-***** 08   *******
-#EXTINF:-1 group-title="Bics DEPORTES", TH: True Sports 1
-https://www.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", TH: True Sports 2
-https://www.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", TH: True Sports 3
-https://www.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", TH: True Sports 4
-https://www.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", TH: True Sports 5
-https://www.livedoomovies.com:4431/02_sport5_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", TH: True Sports 7
-https://www.livedoomovies.com:4431/02_sport7_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", TH: BeIn Sports 
-https://www.livedoomovies.com:4431/02_sport2_480p/chunklist.m3u8
-
-#EXTINF:-1 group-title="Bics DEPORTES", TNT SPORT 1
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6566/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", TNT SPORT 2
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=1920
-#EXTINF:-1 group-title="Bics DEPORTES", TNT SPORT 3
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=1921
-#EXTINF:-1 group-title="Bics DEPORTES", TNT SPORT 4
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=1922
-#EXTINF:-1 group-title="Bics DEPORTES", EUROSPORT 1
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=2120
-#EXTINF:-1 group-title="Bics DEPORTES", EUROSPORT 2
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6556/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", PREMIER SPORTS 1
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6555/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", PREMIER SPORTS 2
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=2111
-#EXTINF:-1 group-title="Bics DEPORTES", Racing TV
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=1955
-#EXTINF:-1 group-title="Bics DEPORTES", SKY SPORTS +
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/7338/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", SKY SPORTS ACTION
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=1871
-#EXTINF:-1 group-title="Bics DEPORTES", SKY SPORTS ARENA
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=1872
-#EXTINF:-1 group-title="Bics DEPORTES", SKY SPORTS RACING
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=1868
-#EXTINF:-1 group-title="Bics DEPORTES", SKY SPORTS TENNIS
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=1802401
-#EXTINF:-1 group-title="Bics DEPORTES", SKY SPORTS NEWS
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=1870
-#EXTINF:-1 group-title="Bics DEPORTES", SKY SPORTS F1
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/7342/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", SKY SPORTS FOOTBALL
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/7336/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", SKY SPORTS GOLF
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/7344/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", SKY SPORTS MAIN EVENT
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/7337/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", SKY SPORTS MIX
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/7339/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", SKY SPORTS PREMIER LEAGUE
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/7335/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", CA: NBA TV
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6491/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", JP: Sports 1
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="Bics DEPORTES", JP: Sports 2
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="Bics DEPORTES", JP: Sports 3
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="Bics DEPORTES", JP: Sports 4
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="Bics DEPORTES", US: ESPN
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19156/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: FOX SPORTS 1
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/7322/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: FOX SPORTS 2
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/7323/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: FOX SPORTS ARIZONA
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19139/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: FOX SPORTS FLORIDA
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19140/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: FOX SPORTS OKLAHOMA
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19146/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: FOX SPORTS SOUTHWEST PLUS
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19143/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: FOX SPORTS Racing
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19144/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: SKY SPORT NBA
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19134/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: Sky Racing
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6122/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: MSG
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/7325/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: MSG 2
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/7326/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: NESN
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/11109/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: NBA TV
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/7226/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: CBS SPORTS NETWORK
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/7324/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: NBC SPORTS NETWORK
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/7327/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: BALLY SPORTS MIDWEST
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19153/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: BALLY SPORTS NORTH
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19152/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: BALLY SPORTS SOUTHEAST CAROLINAS
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19151/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: BALLY SPORTS SUN
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19150/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: NFL Network
-http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: MLB Network
-http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: Yes Network
-http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", US: Big Ten Network
-http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
-****************
 
 ***** 06 ******
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN VIVO
