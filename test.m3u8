@@ -116,9 +116,15 @@ http://hardcoremedia.xyz/live/6FyrkGbRP/D4Q4pk3k8u/129979.m3u8
 
 #EXTINF:-1 group-title="Bics US", US: SKY CINEMA ACTION
 http://tvmate.icu:8080/live/7686199/9576982/35254.m3u8
+#EXTINF:-1 group-title="Bics US", US: SKY CINEMA HITS
+http://hardcoremedia.xyz/live/6FyrkGbRP/D4Q4pk3k8u/10775.m3u8
+#EXTINF:-1 group-title="Bics US", US: SKY CINEMA PREMIER
+http://tvmate.icu:8080/live/7686199/9576982/35256.m3u8
 
 #EXTINF:-1 group-title="Bics US", CA: CTV
 http://tvmate.icu:8080/live/7686199/9576982/47234.m3u8
+#EXTINF:-1 group-title="Bics US", CA: CTV DRAMA
+http://tvmate.icu:8080/live/7686199/9576982/57254.m3u8
 #EXTINF:-1 group-title="Bics US", CA: CTV LIFE
 http://tvmate.icu:8080/live/7686199/9576982/116506.m3u8
 #EXTINF:-1 group-title="Bics US", CA: CTV SCI FI
@@ -131,10 +137,6 @@ http://tvmate.icu:8080/live/7686199/9576982/12730.m3u8
 http://tvmate.icu:8080/live/7686199/9576982/12744.m3u8
 #EXTINF:-1 group-title="Bics US", US: MGM +
 http://hardcoremedia.xyz/live/6FyrkGbRP/D4Q4pk3k8u/129987.m3u8
-
-#EXTINF:-1 group-title="Bics US", US: CHANNEL 4
-http://tvmate.icu:8080/live/7686199/9576982/119437.m3u8
-
 
 
 #EXTINF:-1 group-title="Bics DEPORTES", US: ESPN
