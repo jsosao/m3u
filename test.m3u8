@@ -132,6 +132,11 @@ http://tvmate.icu:8080/live/7686199/9576982/12744.m3u8
 #EXTINF:-1 group-title="Bics US", US: MGM +
 http://hardcoremedia.xyz/live/6FyrkGbRP/D4Q4pk3k8u/129987.m3u8
 
+#EXTINF:-1 group-title="Bics US", US: CHANNEL 4
+http://tvmate.icu:8080/live/7686199/9576982/119437.m3u8
+
+
+
 #EXTINF:-1 group-title="Bics DEPORTES", US: ESPN
 http://tvmate.icu:8080/live/7686199/9576982/14197.m3u8
 #EXTINF:-1 group-title="Bics US", US: UNIVISION
