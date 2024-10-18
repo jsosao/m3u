@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="[XML_EPG]"
 #EXTINF:-1 group-title="Live TV (MoveOnJoy)", ABC EAST
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 group-title="Live TV (MoveOnJoy)", ABC EAST
+http://fl3.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 group-title="Live TV (MoveOnJoy)", ACC NETWORK
 http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Live TV (MoveOnJoy)", AMC NETWORK
