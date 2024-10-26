@@ -1,6 +1,6 @@
 #EXTM3U
 
-************************  12/OCT/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  28/OCT/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ******************************************************     PROPIO     *************************************************************************
@@ -54,8 +54,8 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 group-title="Bics MX", MX: MILENIO
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:-1 group-title="Bics MX", MX: N+ FORO
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/59.ts
+                                                          #EXTINF:-1 group-title="Bics MX", MX: N+ FORO
+                                                          http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/59.ts
 #EXTINF:-1 group-title="Bics MX", MX: N+ FORO YOUTUBE
 https://ythls-v3.onrender.com/channel/UCUsm-fannqOY02PNN67C0KA.m3u8
 #EXTINF:-1 group-title="Bics MX", MX: N+ FORO
@@ -206,46 +206,47 @@ http://tvmate.icu:8080/Alan/Alan1234/82241
 
 *****  04 ******
 #EXTINF:-1 group-title="Bics US", US: UNIVISION
-http://ultrapremium.cloud:8080/live/79heru87se35pe97/52mawu67wedu98/22936.ts
+http://directo.ddns.me:33200/live/restreamtvplux/Mhsi3wMSJSEjska343255/55149.ts
+
 #EXTINF:-1 group-title="Bics US", US: TELEMUNDO INTERNACIONAL
-http://2.magmas5.com:8000/live/gooodseerveriptv/X7MY8691HH/3024.ts
+http://directo.ddns.me:33200/live/restreamtvplux/Mhsi3wMSJSEjska343255/55148.ts
 #EXTINF:-1 group-title="Bics US", US: TELEMUNDO
-http://ultrapremium.cloud:8080/live/79heru87se35pe97/52mawu67wedu98/23426.ts
+http://directo.ddns.me:33200/live/restreamtvplux/Mhsi3wMSJSEjska343255/55146.ts
 
 #EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS  1 (México)
-http://2.magmas5.com:8000/live/gooodseerveriptv/X7MY8691HH/1971.ts
+http://2.00322.xyz:8000/live/P2SpeedR24/048TkmP2Speed/1971.ts
 #EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS  2 (México)
-http://2.magmas5.com:8000/live/gooodseerveriptv/X7MY8691HH/132269.ts
+http://2.00322.xyz:8000/live/P2SpeedR24/048TkmP2Speed/132269.ts
 #EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS 3 (México)
 http://stkip.ddns.me:2082/live/restreamtvplux/Mhsi3wMSJSEjska343255/3092.ts
 #EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS PREMIUM  (México)
-http://galaxypro.online:8080/live/ROXANA89/ROXA172316/674181.ts
+http://2.00322.xyz:8000/live/P2SpeedR24/048TkmP2Speed/4787.ts
 #EXTINF:-1 group-title="Bics DEPORTES", ESPN 1 (México)
-http://2.magmas5.com:8000/live/gooodseerveriptv/X7MY8691HH/132278.ts
+http://2.00322.xyz:8000/live/P2SpeedR24/048TkmP2Speed/132278.ts
 #EXTINF:-1 group-title="Bics DEPORTES", ESPN 2 (México)
-http://2.magmas5.com:8000/live/gooodseerveriptv/X7MY8691HH/132279.ts
+http://2.00322.xyz:8000/live/P2SpeedR24/048TkmP2Speed/132279.ts
 #EXTINF:-1 group-title="Bics DEPORTES", ESPN 3 (México)
-http://2.magmas5.com:8000/live/gooodseerveriptv/X7MY8691HH/145426.ts
+http://2.00322.xyz:8000/live/P2SpeedR24/048TkmP2Speed/132280.ts
 #EXTINF:-1 group-title="Bics DEPORTES", ESPN 4 (México)
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/173357.ts
 
 #EXTINF:-1 group-title="Bics DEPORTES", ESPN (argentina)
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/50087.ts
 #EXTINF:-1 group-title="Bics DEPORTES", ESPN 2 (argentina)
-http://tvbross.com:8090/live/TGfKi5GpAg/tMbyd8gzhx/18192.ts
+http://fastream.xyz:8080/novacon79/5544545/507
 #EXTINF:-1 group-title="Bics DEPORTES", ESPN 3 (argentina)
-http://2.magmas5.com:8000/live/gooodseerveriptv/X7MY8691HH/4940.ts
+http://tv.iprotv.live/live/ProYeCtoX998/NuevaProyectoRw/94807.ts
 #EXTINF:-1 group-title="Bics DEPORTES", ESPN PREMIUM (argentina)
-http://ultra-premium-pro.xyz:8080/932350310tv/rt1brn/542
+http://ultrapremium.cloud:8080/live/999833692tv/9M206UbCp/542.ts
 #EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS (argentina)
-http://ultra-premium-pro.xyz:8080/932350310tv/rt1brn/456
+http://84423.xyz:8000/live/elmoncho5/4DM8JP0UGJ/132268.ts
 #EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS 2 (argentina)
-http://tvbross.com:8090/live/Ruben2023/2023Ruben/17756.ts
+http://265843806419935281.ofdos.xyz:80/play/EDJUPGSA4C/0869008345/935281.ts
 #EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS 3 (argentina)
-http://ultra-premium-pro.xyz:8080/932350310tv/rt1brn/455
+http://84423.xyz:8000/live/elmoncho5/4DM8JP0UGJ/3041.ts
 
 #EXTINF:-1 group-title="Bics DEPORTES", TUDN
-http://ultrapremium.cloud:8080/live/79heru87se35pe97/52mawu67wedu98/553.ts
+http://2.00322.xyz:8000/live/P2SpeedR24/048TkmP2Speed/134466.ts
 #EXTINF:-1 group-title="Bics DEPORTES", TUDN USA
 http://tvmate.icu:8080/Alan/Alan1234/82241
 #EXTINF:-1 group-title="Bics DEPORTES", SKY SPORTS (México)
@@ -497,8 +498,6 @@ https://aym-as.otteravision.com/aym/as/as.m3u8#EXTINF:-1 group-title="Bics DEPOR
 https://linear-380.frequency.stream/mt/studio/380/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", MX: CLARO SPORTS
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", MX: CALIENTE TV [NOT 24/7]
-https://ythls-v3.onrender.com/channel/UCpJN_3WCOtfICbsKKxZcBsg.m3u8
 
 ******** emilio *********
 
