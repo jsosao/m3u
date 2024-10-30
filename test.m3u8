@@ -1,6 +1,6 @@
 #EXTM3U
 
-************************  28/OCT/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  29/OCT/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ******************************************************     PROPIO     *************************************************************************
@@ -679,6 +679,38 @@ https://fl5.moveonjoy.com/NBA_14/index.m3u8
 https://fl5.moveonjoy.com/NBA_15/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES ANB", US: ANB 16
 https://fl5.moveonjoy.com/NBA_16/index.m3u8
+
+
+#EXTINF:-1 group-title="Bics DEPORTES LNH", US: LNH 01
+http://fl5.moveonjoy.com/NHL_1/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LNH", US: LNH 02
+http://fl5.moveonjoy.com/NHL_2/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LNH", US: LNH 03
+http://fl5.moveonjoy.com/NHL_3/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LNH", US: LNH 04
+http://fl5.moveonjoy.com/NHL_4/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LNH", US: LNH 05
+http://fl5.moveonjoy.com/NHL_5/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LNH", US: LNH 06
+http://fl5.moveonjoy.com/NHL_6/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LNH", US: LNH 07
+http://fl5.moveonjoy.com/NHL_7/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LNH", US: LNH 08
+http://fl5.moveonjoy.com/NHL_8/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LNH", US: LNH 09
+http://fl5.moveonjoy.com/NHL_9/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LNH", US: LNH 10
+http://fl5.moveonjoy.com/NHL_10/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LNH", US: LNH 11
+http://fl5.moveonjoy.com/NHL_11/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LNH", US: LNH 12
+http://fl5.moveonjoy.com/NHL_12/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LNH", US: LNH 13
+http://fl5.moveonjoy.com/NHL_13/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LNH", US: LNH 14
+http://fl5.moveonjoy.com/NHL_14/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES LNH", US: LNH 15
+http://fl5.moveonjoy.com/NHL_15/index.m3u8
 
 ***********
 
