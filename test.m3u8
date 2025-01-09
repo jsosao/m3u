@@ -6,19 +6,6 @@
 ******************************************************     PROPIO     *************************************************************************
 ******************************************************     BICS MX     *************************************************************************
 
-#EXTINF:-1 group-title="Bics STIN", LATIN POP
-https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Bics STIN", SEASON
-https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Bics STIN", ROMANCE LATINO
-https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Bics STIN", REMEMBER THE 80s
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991742
-#EXTINF:-1 group-title="Bics STIN", GREATEST HOLIDAY HITS
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991120
-#EXTINF:-1 group-title="Bics STIN", COUNTRY CHRISTMAS
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991118
-
 #EXTINF:-1 group-title="Bics MX", MX: AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 group-title="Bics MX", MX: AZTECA UNO -1 HR
@@ -135,6 +122,9 @@ https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61da
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/1660000.m3u8
 #EXTINF:-1 group-title="Bics Latino", VE: TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
+#EXTINF:-1 group-title="Bics Latino", VE: TELECENTRO
+https://streamtv.intervenhosting.net:3698/live/telecentrolive.m3u8
+
 
 ****** 01 *****
 
@@ -843,3 +833,17 @@ http://cdn1host.online:2999/xman2b/d5lxdEfHnB/379
 http://cdn1host.online:2999/xman2b/d5lxdEfHnB/380
 
 ******************************
+
+#EXTINF:-1 group-title="Bics STIN", LATIN POP
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Bics STIN", SEASON
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Bics STIN", ROMANCE LATINO
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Bics STIN", REMEMBER THE 80s
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991742
+#EXTINF:-1 group-title="Bics STIN", GREATEST HITS
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991120
+#EXTINF:-1 group-title="Bics STIN", COUNTRY
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991118
+
