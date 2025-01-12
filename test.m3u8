@@ -528,31 +528,11 @@ http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 
 ******************
 
-**** CODERX24 *****
-#EXTINF:-1 group-title="Bics US", US: TELEMUNDO
-https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
-#EXTINF:-1 group-title="Bics US", US: CNN
-https://github.com/CODERX24/tv/blob/master/CNN.m3u8
-#EXTINF:-1 group-title="Bics US", US: CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1064000.m3u8
-#EXTINF:-1 group-title="Bics US", US: TNT
-https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_2_1964000.m3u8
-
-******************
-
 ****** 03 *****
-#EXTINF:-1 group-title="Bics US", US: TELEMUNDO
-https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
-#EXTINF:-1 group-title="Bics US", US: NBC UNIVERSO
-http://home-playtv.com:8080/OlgerAlvarado/KWWGT/185096
-
 #EXTINF:-1 group-title="Bics US", US: UNIVISION
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
 #EXTINF:-1 group-title="Bics US", US: UNIVISION
 http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/19682
-
-#EXTINF:-1 group-title="Bics Latino", MX: UNIVERSAL PREMIER
-http://rasaiptv.com:8080/amartinez/s1stemas.13579/111419
 
 #EXTINF:-1 group-title="Bics Latino", SV: TCS+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8
@@ -570,8 +550,12 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,F
 
 *****  04 ******
 
-#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS PREMIUM  (México)
-http://imaxplay.net:2082/live/TomasR/WZdKJzknkg/158454.ts
+#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS 
+http://newultra.xyz:8080/pastennyztv/92kpbhgn/540
+#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS 2
+http://newultra.xyz:8080/pastennyztv/92kpbhgn/529
+#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS 3
+http://newultra.xyz:8080/pastennyztv/92kpbhgn/24824
 
 #EXTINF:-1 group-title="Bics DEPORTES", ESPN 1 (México)
 http://imaxplay.net:2082/live/TomasR/WZdKJzknkg/185154.ts
