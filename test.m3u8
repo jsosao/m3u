@@ -6,13 +6,6 @@
 ******************************************************     PROPIO     *************************************************************************
 ******************************************************     BICS MX     *************************************************************************
 
-#EXTINF:-1 group-title="Bics MX", MX: PPV 1
-http://fl6.moveonjoy.com/PPV_1/index.m3u8
-#EXTINF:-1 group-title="Bics MX", MX: PPV 2
-http://fl6.moveonjoy.com/PPV_1/index.m3u8
-#EXTINF:-1 group-title="Bics MX", MX: PPV 6
-http://fl6.moveonjoy.com/PPV_6/index.m3u8
-
 #EXTINF:-1 group-title="Bics MX", MX: AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 group-title="Bics MX", MX: AZTECA UNO -1 HR
@@ -154,6 +147,13 @@ http://tvmate.icu:8080/live/7686199/9576982/14197.m3u8
 http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
 
 ********************************
+
+#EXTINF:-1 group-title="Bics MoveOnJoy US", US: PPV 1
+http://fl6.moveonjoy.com/PPV_1/index.m3u8
+#EXTINF:-1 group-title="Bics MoveOnJoy US", US: PPV 2
+http://fl6.moveonjoy.com/PPV_1/index.m3u8
+#EXTINF:-1 group-title="Bics MoveOnJoy US", US: PPV 6
+http://fl6.moveonjoy.com/PPV_6/index.m3u8
 
 #EXTINF:-1 group-title="Bics MoveOnJoy US", US: ABC EAST
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
@@ -534,9 +534,9 @@ https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
 #EXTINF:-1 group-title="Bics US", US: CNN
 https://github.com/CODERX24/tv/blob/master/CNN.m3u8
 #EXTINF:-1 group-title="Bics US", US: CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1064000.m3u8
 #EXTINF:-1 group-title="Bics US", US: TNT
-https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_4_1064000.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_2_1964000.m3u8
 
 ******************
 
