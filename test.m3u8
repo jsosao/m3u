@@ -550,42 +550,6 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,F
 
 *****  04 ******
 
-#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS 
-http://newultra.xyz:8080/pastennyztv/92kpbhgn/540
-#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS 2
-http://newultra.xyz:8080/pastennyztv/92kpbhgn/529
-#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS 3
-http://newultra.xyz:8080/pastennyztv/92kpbhgn/24824
-
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN 1 (México)
-http://imaxplay.net:2082/live/TomasR/WZdKJzknkg/185154.ts
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN 2 (México)
-http://imaxplay.net:2082/live/TomasR/WZdKJzknkg/36391.ts
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN 3 (México)
-http://imaxplay.net:2082/live/TomasR/WZdKJzknkg/9530.ts
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN 4 (México)
-http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/173357.ts
-
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN (argentina)
-http://daleplay.club:80/live/LizbethLeon/Lizbeth09122021/339542.ts
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN 2 (argentina)
-http://fastream.xyz:8080/novacon79/5544545/507
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN 3 (argentina)
-http://imaxplay.net:2082/live/TomasR/WZdKJzknkg/21220.ts
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN PREMIUM (argentina)
-http://imaxplay.net:2082/live/TomasR/WZdKJzknkg/215252.ts
-#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS (argentina)
-http://imaxplay.net:2082/live/TomasR/WZdKJzknkg/158518.ts
-#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS 2 (argentina)
-http://imaxplay.net:2082/live/TomasR/WZdKJzknkg/19652.ts
-#EXTINF:-1 group-title="Bics DEPORTES", FOX SPORTS 3 (argentina)
-http://quality.primegold.xyz:80/live/Fali0314L/Akwakfwyp121/971462.ts
-
-#EXTINF:-1 group-title="Bics DEPORTES", TUDN
-http://imaxplay.net:2082/live/TomasR/WZdKJzknkg/456663.ts
-#EXTINF:-1 group-title="Bics DEPORTES", TUDN USA
-http://imaxplay.net:2082/live/TomasR/WZdKJzknkg/456664.ts
-
 ******************
 
 ****** 05 ******
@@ -622,33 +586,14 @@ https://ythls-v3.onrender.com/channel/UCpJN_3WCOtfICbsKKxZcBsg.m3u8
 ********************************************************  FUTBOL  **********************************************************************************
 
 #EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 01
-https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_6.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 02
-https://1.goalglory.org/n-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 03
 http://190.185.121.102:58092/play/a00t
-#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 04
+#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 02
 http://181.78.105.146:2000/play/a08m/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 05
-http://181.78.109.49:8000/play/a06r/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 06
+#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 03
 http://45.5.117.182:8000/play/jnl0/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 07
+#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 04
 http://181.78.105.146:8800/play/a07h
-#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 08
-https://www.oha.to/play/2428779244/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 09
-http://604262224137165392.ofre802.xyz:80/play/tello3/23122023/165392.ts
-#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 10
-http://604262224137320781.ofre802.xyz:80/play/tello3/23122023/320781.ts
-#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 11
-http://51.178.65.238/BeinSport/mono.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 12
-http://145.239.5.177:8080/520/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 13
-http://145.239.5.177:8080/516/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 14
-http://145.239.5.177:8080/521/index.m3u8
+
 
 *****************************************************************************************************************************************************
 ************************************************  CANALES REGIONALES Y YOUTUBE  *********************************************************************
