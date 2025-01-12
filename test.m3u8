@@ -1,10 +1,17 @@
 #EXTM3U
 
-************************  19/DIC/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  12/ENE/2025  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
 ******************************************************     PROPIO     *************************************************************************
 ******************************************************     BICS MX     *************************************************************************
+
+#EXTINF:-1 group-title="Bics MX", MX: PPV 1
+http://fl6.moveonjoy.com/PPV_1/index.m3u8
+#EXTINF:-1 group-title="Bics MX", MX: PPV 2
+http://fl6.moveonjoy.com/PPV_1/index.m3u8
+#EXTINF:-1 group-title="Bics MX", MX: PPV 6
+http://fl6.moveonjoy.com/PPV_6/index.m3u8
 
 #EXTINF:-1 group-title="Bics MX", MX: AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
@@ -18,8 +25,6 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/ESTRELLAS/40-hls/live-media.m3u8
 #EXTINF:-1 group-title="Bics MX", MX: IMAGEN TV
 http://181.78.105.146:2000/play/a00h/index.m3u8
-#EXTINF:-1 group-title="Bics MX", MX: IMAGEN TV
-http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0jvGubXZ7ForYpK2yBR7LZBmpMpDfWOaj0WUwQj14LTSr/ts
 #EXTINF:-1 group-title="Bics MX", MX: IMAGEN TV
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/IMAGEN/40-hls/live-media.m3u8
 #EXTINF:-1 group-title="Bics MX", MX: IMAGEN TV+
@@ -186,7 +191,7 @@ http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
 http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Bics MoveOnJoy US", BLOOMBERG
 http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", BLOOMBERG
+#EXTINF:-1 group-title="Bics MoveOnJoy US", BOOMERANG
 http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 #EXTINF:-1 group-title="Bics MoveOnJoy US", BOUNCE TV
 http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
@@ -526,6 +531,13 @@ http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 **** CODERX24 *****
 #EXTINF:-1 group-title="Bics US", US: TELEMUNDO
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
+#EXTINF:-1 group-title="Bics US", US: CNN
+https://github.com/CODERX24/tv/blob/master/CNN.m3u8
+#EXTINF:-1 group-title="Bics US", US: CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+#EXTINF:-1 group-title="Bics US", US: TNT
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_4_1064000.m3u8
+
 ******************
 
 ****** 03 *****
