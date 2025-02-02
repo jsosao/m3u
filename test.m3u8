@@ -699,8 +699,11 @@ https://webprod.sipse.com.mx:8080/show/merida.m3u8
 **********************************************************************************************************************************************************
 ********************************************* CANALES DEPORTES Y YOUTUBE  ********************************************************************************
 
-#EXTINF:-1 group-title="Bics DEPORTES", MX: TUBI FOX SPORTS
+#EXTINF:-1 group-title="Bics DEPORTES", US: TUBI FOX SPORTS
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+
+#EXTINF:-1 group-title="Bics DEPORTES", MX: TUBI FOX SPORTS
+https://aegis-cloudfront-1.tubi.video/63c84a5d-300a-4b9d-b1e8-40edbefb1ef6/index_1.m3u8
 
 #EXTINF:-1 group-title="Bics DEPORTES", MX: INTERNETV DEPORTES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
