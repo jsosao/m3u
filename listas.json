@@ -1,0 +1,733 @@
+{
+	"providerName": "Roku Developers",
+	"language": "en-US",
+	"lastUpdated": "2020-03-15T02:01:00+02:00",
+	"shortFormVideos": [
+	{
+			"longDescription": "Learn how streaming works on the Roku platform. This video explains how content is delivered from a content delivery network (CDN) to a Roku device via a content feed",
+			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/streaming-overview.jpg",
+			"releaseDate": "2020-01-15",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"getting-started"
+			],
+			"id": "shortform-roku-streaming-overview",
+			"shortDescription": "Learn how streaming works on the Roku platform. This video explains how content is delivered from a content delivery network (CDN) to a Roku device via a content feed",
+			"title": "Streaming overview",
+			"content": {
+				"duration": 100,
+				"videos": [{
+					"videoType": "MP4",
+					"url": "https://image.roku.com/ZHZscHItMTc2/roku-streaming-overview-v3.mp4",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-15T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Learn how Roku's rapidly growing user base makes developing for the Roku platform a viable opportunity. See how developing for the Roku platform is free and easy. There's no cost to enroll in the Roku developer program, develop channels, or publish them to the Roku Channel Store, which is Roku's app marketplace. The Roku channel UI is defined with SceneGraph, Roku's object-oriented UI XML framework, and the channel behavior is defined using BrightScript, which is Roku's scripting language.",
+			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/roku-overview.jpg",
+			"releaseDate": "2020-01-15",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"getting-started"
+			],
+			"id": "shortform-roku-development-overview",
+			"shortDescription": "Learn how Roku's rapidly growing user base makes developing for the Roku platform a viable opportunity",
+			"title": "Roku Development Overview",
+			"content": {
+				"duration": 248,
+				"videos": [{
+					"videoType": "MP4",
+					"url": "https://image.roku.com/ZHZscHItMTc2/roku-overview.mp4",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Steps for enabling Developer Mode on a Roku device",
+			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/enable-developer-mode-v1b.png",
+			"releaseDate": "2020-01-17",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"getting-started"
+			],
+			"id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+			"shortDescription": "Steps for enabling Developer Mode on a Roku device",
+			"title": "Enabling Developer Mode",
+			"content": {
+				"duration": 120,
+				"videos": [{
+					"videoType": "DASH",
+					"url": "https://ovp-selector.sr.roku.com/v1/12cdcf33-58e7-46a6-bbbf-cbb5c5fec500?format=dash",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+			{
+			"longDescription": "Video highlighting Direct to Play and Enhanced Voice Control features",
+			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/images/VoiceFeatures.jpg",
+			"releaseDate": "2020-01-17",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"feature"
+			],
+			"id": "shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d",
+			"shortDescription": "Video highlighting Direct to Play and Enhanced Voice Control features",
+			"title": "Voice Features",
+			"content": {
+				"duration": 98,
+				"videos": [{
+					"videoType": "MP4",
+					"url": "https://image.roku.com/ZHZscHItMTc2/roku-voice-demo-v4.mp4",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:12Z",
+				"captions": [{
+						"language": "en",
+						"captionType": "CLOSED_CAPTION",
+						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.srt"
+					},
+					{
+						"language": "en",
+						"captionType": "CLOSED_CAPTION",
+						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.vtt"
+					}
+				]
+			}
+		}
+	],
+	"series": [{
+			"id": "series_1_tips",
+			"title": "Roku Tips & Tricks",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "Videos highlighting Roku products and features",
+			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/tips-tricks.jpg",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"tips"
+			],
+			"seasons": [{
+					"title": "Season 1",
+					"episodes": [{
+							"id": "shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4",
+							"title": "How to listen to music",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-03-06T20:25:52Z",
+								"videos": [{
+									"videoType": "HLS",
+									"url": "https://d1n7kckvd41xqg.cloudfront.net/61f6f859d30743378290300e99f2f53a/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
+									"quality": "HD"
+								}],
+								"duration": 187,
+								"captions": [{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.srt"
+									},
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.vtt"
+									}
+								],
+								"language": "en-us"
+							},
+							"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/images/HowToListenToMusic.jpg",
+							"shortDescription": "Stream music on your Roku device",
+							"releaseDate": "2020-01-02",
+							"longDescription": "Stream music on your Roku device",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9",
+							"title": "Best speaker placement",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2020-02-04T19:08:55Z",
+								"videos": [{
+									"videoType": "HLS",
+									"url": "https://d1n7kckvd41xqg.cloudfront.net/62405a3b6d304bd180626636854f7acd/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
+									"quality": "HD"
+								}],
+								"duration": 134,
+								"captions": [{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.srt"
+									},
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.vtt"
+									}
+								],
+								"language": "en-us"
+							},
+							"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/images/Best_Speaker_Placement.jpg",
+							"shortDescription": "Find the best placement of your Roku audio devices",
+							"releaseDate": "2020-01-02",
+							"longDescription": "Find the best placement of your Roku audio devices",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "Season 2",
+					"episodes": [{
+							"id": "shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5",
+							"title": "Guest Mode",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-01-29T02:32:18Z",
+								"videos": [{
+									"videoType": "HLS",
+									"url": "https://d1n7kckvd41xqg.cloudfront.net/aed3cf8c357f4ef8b8e267a30ac8f25a/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
+									"quality": "HD"
+								}],
+								"duration": 15,
+								"captions": [{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5_1/captions/GUEST_MODE_cc_eng.srt"
+									},
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5_1/captions/GUEST_MODE_cc_eng.vtt"
+									}
+								],
+								"language": "en-us"
+							},
+							"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5_1/images/GUEST_MODE.jpg",
+							"shortDescription": "Let your guests stream with their own accounts",
+							"releaseDate": "2019-12-03",
+							"longDescription": "Let your guests stream with their own accounts",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "shortform-6f2088297f82e02e74e07341fd404750b56e2fbb",
+							"title": "Private Listening",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2020-03-06T20:43:17Z",
+								"videos": [{
+									"videoType": "HLS",
+									"url": "https://d1n7kckvd41xqg.cloudfront.net/f137dd3848ba4bf3b70bb00b90b0eaf7/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
+									"quality": "HD"
+								}],
+								"duration": 30,
+								"captions": [{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-6f2088297f82e02e74e07341fd404750b56e2fbb_2/captions/ROKU_PRIVATE_LISTENING_012219_cc_eng.srt"
+									},
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-6f2088297f82e02e74e07341fd404750b56e2fbb_2/captions/ROKU_PRIVATE_LISTENING_012219_cc_eng.vtt"
+									}
+								],
+								"language": "en-us"
+							},
+							"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-6f2088297f82e02e74e07341fd404750b56e2fbb_2/images/ROKU_PRIVATE_LISTENING_012219.jpg",
+							"shortDescription": "See the benefits of the Private Listening",
+							"releaseDate": "2019-10-15",
+							"longDescription": "See the benefits of the Private Listening",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "series_2_RSG",
+			"title": "SceneGraph Developers: Build a Channel",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "The \"SceneGraph Developers: Build a Channel\" course teaches novice Roku developers how to develop a channel from the ground up with the Roku SDK. This course walks developers through each step in building a basic, high-performance Roku channel that passes certification. This course is ideal for developers that are new to the Roku platform and want a simple, streamlined path for quickly understanding Roku development.",
+			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-build-channel-series.jpg",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"RSG"
+			],
+			"seasons": [{
+					"title": "Season 1",
+					"episodes": [{
+							"id": "rsg_unit1_intro",
+							"title": "Introduction to the course",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+									"quality": "HD"
+								}],
+								"duration": 178,
+								"language": "en-us"
+							},
+							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/video1-intro-course-v2.png",
+							"shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
+							"releaseDate": "2020-05-07",
+							"longDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "rsg-unit2-developerSetup",
+							"title": "Development setup",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit2-developerSetup-v4.mp4",
+									"quality": "HD"
+								}],
+								"duration": 431,
+								"language": "en-us"
+							},
+							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit2-developerSetup-v4.png",
+							"shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
+							"releaseDate": "2020-05-07",
+							"longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+
+						{
+							"id": "video3-scenegraph-overview",
+							"title": "Core concepts",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit3-sgoverview-v3.mp4",
+									"quality": "HD"
+								}],
+								"duration": 765,
+								"language": "en-us"
+							},
+							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit3-core-concepts.png",
+							"shortDescription": "Review key concepts for developing on the Roku platform.",
+							"releaseDate": "2020-05-07",
+							"longDescription": "Review key concepts for developing on the Roku platform. This lesson explains the basic design principles and key concepts of Roku development, provide an overview of Roku's development platform, and review the contents and structure of Roku channels. You'll learn about: SceneGraph and BrightScript, the different types of components you can use to build your channel UI, and many other topics. When you are done with this lesson, you will be ready to start working on your first Roku channel!",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+
+						{
+							"id": "rsg-unit4-contentFeed",
+							"title": "Creating the content feed",
+							"episodeNumber": 4,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit4-contentFeed-v3.mp4",
+									"quality": "HD"
+								}],
+								"duration": 280,
+								"language": "en-us"
+							},
+							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit4-content-feed.png",
+							"shortDescription": "Learn how the content feed is used to load and organize content in the channel.",
+							"releaseDate": "2020-07-18",
+							"longDescription": "Learn how the content feed is used to load and organize content in the channel. This lesson explains how the ContentNode maps metadata in your content feed to components in your channel UI, and it provides a few tips for creating your own feed.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+
+						{
+							"id": "video5-grid-screen",
+							"title": "Creating a Grid Screen",
+							"episodeNumber": 5,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit5-gridscreen-v4.mp4",
+									"quality": "HD"
+								}],
+								"duration": 1899,
+								"language": "en-us"
+							},
+							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit5-gridScreen.png",
+							"shortDescription": "Build a grid screen that displays rows of content",
+							"releaseDate": "2020-05-07",
+							"longDescription": "Build a grid screen that displays rows of content. This lesson describes how to create a basic channel that gets the videos from a content feed and displays them in a grid. It explains how to create SceneGraph components, set their attributes, and create their interfaces. It also teaches how to use BrightScript to parse the metadata in the content feed, add the metadata to content nodes, and then add the content nodes to your components.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "video6-video-player",
+							"title": "Adding the Video Player",
+							"episodeNumber": 6,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit6-videoplayer-v3.mp4",
+									"quality": "HD"
+								}],
+								"duration": 819,
+								"language": "en-us"
+							},
+							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit6-videoPlayer-v2a.png",
+							"shortDescription": "Add a video player to launch content into playback",
+							"releaseDate": "2020-05-13",
+							"longDescription": "Add a video player to launch content into playback. This lesson teaches how to add the SceneGraph Video node to your channel and link it to the content in other components. It explains how to open the video screen when content is selected, and close it when playback finishes or the back button is pressed on the Roku remote control.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "Season 2",
+					"episodes": [{
+							"id": "video7-debugger",
+							"title": "Debugging channels",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-05-16T02:32:24Z",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit7-debugger-v3.mp4",
+									"quality": "HD"
+								}],
+								"duration": 381,
+								"language": "en-us"
+							},
+							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit7-debugging.png",
+							"shortDescription": "Debug Roku channels using the debug console",
+							"releaseDate": "2020-05-13",
+							"longDescription": "Debug Roku channels using the debug console. This lesson teaches you how to access the debug console via Telnet and the Roku Eclipse Plug-in and use the different debug ports. It explains how to view the crash logs, stack traces, and channel performance metrics in the console, and how to use the interactive debugger to type commands for checking and updating variable values, calling functions, and stepping through the application.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "video8-detailsScreen",
+							"title": "Creating a Details Screen",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2020-05-22T02:32:24Z",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit8-details-screen-v3.mp4",
+									"quality": "HD"
+								}],
+								"duration": 1251,
+								"language": "en-us"
+							},
+							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit8-detailsScreen.png",
+							"shortDescription": "Build a details screen that displays the release date, rating, genre, cast, and detailed description of the content selected from the grid screen",
+							"releaseDate": "2020-07-13",
+							"longDescription": "Build a details screen that provides more information about the content selected in the GridScreen, including the item's release date, rating, genre, cast, and detailed description. This lesson explains how to build a screen using more complex SceneGraph components. It describes how to create a Play button that launches the video player, populate the details screen with metadata that is already stored in other components, and switch the focus when the Details Screen is opened and closed.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "video9-episodesScreen",
+							"title": "Creating an Episodes Screen",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2020-05-29T02:32:24Z",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit9-episodePicker-v3.mp4",
+									"quality": "HD"
+								}],
+								"duration": 2188,
+								"language": "en-us"
+							},
+							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit9-episodesScreen.png",
+							"shortDescription": "Build an episodes screen that organizes television series into seasons and episodes.",
+							"releaseDate": "2020-05-29",
+							"longDescription": "Build an episodes screen that organizes television series into seasons and episodes. The left side of the screen displays the seasons; the right side of the screen lists the episodes in the selected season. This lesson explains how to use new components such as the MarkupList and further layer components to create more complex UIs. It shows how to parse the content feed to populate an episode screen with sequentially numbered seasons and the episodes that belong in those seasons.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						}]	
+					},
+				{
+					"title": "Season 3",
+					"episodes": [{
+							"id": "video10-videoAds",
+							"title": "Displaying Video Ads",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-06-20T02:32:24Z",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit10-video-ads-part3.mp4",
+									"quality": "HD"
+								}],
+								"duration": 1380,
+								"language": "en-us"
+							},
+							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit10-video-ads.png",
+							"shortDescription": "Monetize content on the Roku platform through video ads.",
+							"releaseDate": "2020-06-20",
+							"longDescription": "Monetize content on the Roku platform through video ads. This lesson explains how to implement the Roku Advertising Framework (RAF) in order to seamlessly insert video ads into content. It describes the different client and server-side ad insertion and stitching solutions provided by RAF, and how to get started with RAF in order to display video ads in your channel.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "video11-subscriptions",
+							"title": "Offering Subscriptions",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2020-06-27T02:32:24Z",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit11-subscriptions-v3.mp4",
+									"quality": "HD"
+								}],
+								"duration": 1561,
+								"language": "en-us"
+							},
+							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit11-rpay-subscriptions.png",
+							"shortDescription": "Monetize content on your channel by offering subscriptions, directly on-device, through Roku Pay",
+							"releaseDate": "2020-06-27",
+							"longDescription": "Monetize content on your channel by offering subscriptions, directly on-device, through Roku Pay. This lesson explains how to get started with Roku Pay, including how to create a channel, in-channel products, and test users. It describes how the Roku Pay workflow from checking entitlements to completing purchases and granting access to content. It explains how to integrate the Roku Web Service RESTful APIs into your backend system for validating, refunding, and canceling subscriptions.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "video12-deep-linking-part1",
+							"title": "Deep Linking (part 1)",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2020-07-10T02:32:24Z",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit12-deep-linking-v3-part1.mp4",
+									"quality": "HD"
+								}],
+								"duration": 2481,
+								"language": "en-us"
+							},
+							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit12-deep-linking.png",
+							"shortDescription": "Implement deep linking to get users to content as fast as possible.",
+							"releaseDate": "2020-07-04",
+							"longDescription": "Implement deep linking to get users to content as fast as possible. Program your channel application to accept and process deep links upon being launched and while it is already running. Configure the playback experiences required for the content types in your feed. Create bookmarks to store the user's playback position in the device registry or backend system, and create smart bookmarks to launch the most appropriate episode in a TV series based on the user's viewing history with that series.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "video12-deep-linking-part2",
+							"title": "Deep Linking (part 2)",
+							"episodeNumber": 4,
+							"content": {
+								"dateAdded": "2020-07-10T02:32:24Z",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit12-deep-linking-v3-part2.mp4",
+									"quality": "HD"
+								}],
+								"duration": 1567,
+								"language": "en-us"
+							},
+							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit12-deep-linking.png",
+							"shortDescription": "Implement deep linking to get users to content as fast as possible.",
+							"releaseDate": "2020-07-04",
+							"longDescription": "Implement deep linking to get users to content as fast as possible. Program your channel application to accept and process deep links upon being launched and while it is already running. Configure the playback experiences required for the content types in your feed. Create bookmarks to store the user's playback position in the device registry or backend system, and create smart bookmarks to launch the most appropriate episode in a TV series based on the user's viewing history with that series.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "video13-certification-testing",
+							"title": "Certification Testing",
+							"episodeNumber": 5,
+							"content": {
+								"dateAdded": "2020-07-16T02:32:24Z",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit13-cert-testing-v3.mp4",
+									"quality": "HD"
+								}],
+								"duration": 848,
+								"language": "en-us"
+							},
+							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit13-cert-testing.jpg",
+							"shortDescription": "Prepare your channel to be published to the Roku channel store.",
+							"releaseDate": "2020-07-16",
+							"longDescription": "Prepare your channel to be published to the Roku channel store. This lesson explains how to test your channel's design and performance and verify that it meets all of Roku's certification criteria using Roku's test automation software and automated testing tools. It provides a quick demo of Roku's Static Analysis tool, which detects certification-related issues with your channel's code and must be passed in order for your channel to be published to the Roku channel store.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		}
+	],
+	"movies": [{
+			"longDescription": "This video demonstrates the Roku Remote Debugger, and it shows how the BrightScript network debug protocol could be used in an integration with an IDE such as Visual Studio Code.",
+			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a_1/images/roku-brightscript-network-debug-protocol.jpg",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
+			"shortDescription": "Demonstrates the Roku Remote Debugger",
+			"title": "BrightScript debug protocol",
+			"content": {
+				"duration": 713,
+				"videos": [{
+					"videoType": "MP4",
+					"url": "https://image.roku.com/ZHZscHItMTc2/roku-brightscript-debug-protocol.mp4",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Video that demonstrates the Roku automated channel testing software. It provides a brief overview of the technology stack, and it shows how both the Roku WebDriver and Robot Framework Library can be used for state-driven channel UI automation testing.",
+			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4374be10035077242dde8b7fe272e509ad6e563a_1/images/basicTestReport.jpg",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "shortform-4374be10035077242dde8b7fe272e509ad6e563a",
+			"shortDescription": "Demonstrates the Roku automated channel testing software.",
+			"title": "Automated channel testing",
+			"content": {
+				"duration": 713,
+				"videos": [{
+					"videoType": "HLS",
+					"url": "https://ovp-selector.sr.roku.com/v1/f73763a9-8105-4b78-90e0-381ea0d0128b?format=hls",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:10Z"
+			}
+		},
+		{
+			"longDescription": "Video demonstrating how a developer can use the Developer Dashboard's user access management feature to give team members the authority to take administrative actions, which are appropriate for their respective organizational roles",
+			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-a59a8c9b7140da32b98cb91fe415a2e3e7dc0660_1/images/userManagementAccess.jpg",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "shortform-a59a8c9b7140da32b98cb91fe415a2e3e7dc0660",
+			"shortDescription": "Demonstrates how a developer can use the Developer Dashboard's user access management feature",
+			"title": "Managing user access",
+			"content": {
+				"duration": 576,
+				"videos": [{
+					"videoType": "HLS",
+					"url": "https://ovp-selector.sr.roku.com/v1/0c18bf4e-b295-437c-badb-3a171a1b52aa?format=hls",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		}
+	]
+
+}
