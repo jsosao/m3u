@@ -4,7 +4,7 @@
 	"lastUpdated": "2020-03-15T02:01:00+02:00",
 	"shortFormVideos": [
 	{
-			"longDescription": "Descripción Larga",
+			"longDescription": "Descripción Larga 1",
 			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/streaming-overview.jpg",
 			"releaseDate": "2020-01-15",
 			"genres": [
@@ -14,7 +14,7 @@
 				"getting-started"
 			],
 			"id": "MX",
-			"shortDescription": "ABC",
+			"shortDescription": "Descripción Corta 1",
 			"title": "México",
 			"content": {
 				"duration": 100,
@@ -28,7 +28,7 @@
 			}
 		},
 		{
-			"longDescription": "Learn how Roku's rapidly growing user base makes developing for the Roku platform a viable opportunity. See how developing for the Roku platform is free and easy. There's no cost to enroll in the Roku developer program, develop channels, or publish them to the Roku Channel Store, which is Roku's app marketplace. The Roku channel UI is defined with SceneGraph, Roku's object-oriented UI XML framework, and the channel behavior is defined using BrightScript, which is Roku's scripting language.",
+			"longDescription": "Descripción Larga 2",
 			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/roku-overview.jpg",
 			"releaseDate": "2020-01-15",
 			"genres": [
@@ -38,7 +38,7 @@
 				"getting-started"
 			],
 			"id": "shortform-roku-development-overview",
-			"shortDescription": "zzzzzzzzzzzzzz",
+			"shortDescription": "Descripción Corta 2",
 			"title": "Roku Development Overview",
 			"content": {
 				"duration": 248,
