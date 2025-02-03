@@ -4,17 +4,17 @@
 	"lastUpdated": "2020-03-15T02:01:00+02:00",
 	"shortFormVideos": [
 	{
-			"longDescription": "Descripción Larga 1",
-			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/streaming-overview.jpg",
-			"releaseDate": "2020-01-15",
+			"longDescription": "Canales México",
+			"thumbnail": "/images/Mexico.png",
+			"releaseDate": "2025-02-03",
 			"genres": [
-				"educational"
+				"IPTV"
 			],
 			"tags": [
-				"getting-started"
+				"IPTV"
 			],
 			"id": "MX",
-			"shortDescription": "Descripción Corta 1",
+			"shortDescription": "México",
 			"title": "México",
 			"content": {
 				"duration": 100,
