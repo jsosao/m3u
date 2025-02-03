@@ -5,7 +5,7 @@
 	"shortFormVideos": [
 	{
 			"longDescription": "Canales México",
-			"thumbnail": "Mexico.png",
+			"thumbnail": "https://raw.githubusercontent.com/jsosao/m3u/main/Mexico.png",
 			"releaseDate": "2025-02-03",
 			"genres": [
 				"IPTV"
