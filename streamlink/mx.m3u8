@@ -19,15 +19,15 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://raw.githubusercontent.com/jsosao/m3u/main/streamlink/images/logo_las_estrellas.png" group-title="Bics MX", LAS ESTRELLAS 
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/ESTRELLAS/40-hls/live-media.m3u8
-
-#EXTINF:-1 group-title="Bics MX", MX: IMAGEN TV
+#EXTINF:-1 tvg-id="IMAGENTV" tvg-name="IMAGEN TV" tvg-logo="https://raw.githubusercontent.com/jsosao/m3u/main/streamlink/images/logo_imagen_tv_mx.png" group-title="Bics MX", IMAGEN TV 
 http://181.78.105.146:2000/play/a00h/index.m3u8
-#EXTINF:-1 group-title="Bics MX", MX: IMAGEN TV
+#EXTINF:-1 tvg-id="IMAGENTV" tvg-name="IMAGEN TV" tvg-logo="https://raw.githubusercontent.com/jsosao/m3u/main/streamlink/images/logo_imagen_tv_mx.png" group-title="Bics MX", IMAGEN TV 
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/IMAGEN/40-hls/live-media.m3u8
-#EXTINF:-1 group-title="Bics MX", MX: IMAGEN TV+
+#EXTINF:-1 tvg-id="IMAGENTV+" tvg-name="IMAGEN TV+" tvg-logo="https://raw.githubusercontent.com/jsosao/m3u/main/streamlink/images/logo_imagen_tv_mx.png" group-title="Bics MX", IMAGEN TV+
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
-#EXTINF:-1 group-title="Bics MX", MX: IMAGEN TV+
+#EXTINF:-1 tvg-id="IMAGENTV+" tvg-name="IMAGEN TV+" tvg-logo="https://raw.githubusercontent.com/jsosao/m3u/main/streamlink/images/logo_imagen_tv_mx.png" group-title="Bics MX", IMAGEN TV+
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
+
 #EXTINF:-1 group-title="Bics MX", MX: CANAL 5
 http://181.78.105.146:2000/play/a038/index.m3u8
 #EXTINF:-1 group-title="Bics MX", MX: CANAL 5
