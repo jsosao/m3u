@@ -9,18 +9,16 @@
 *****************************************************************************************************************************************************
 ************************************************  CANALES NACIONALES ******************************************************************************
 
-#EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://raw.githubusercontent.com/jsosao/m3u/main/streamlink/images/logo-azteca-uno.png" group-title="TV ABIERTA", AZTECA UNO 1.1 
+#EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://raw.githubusercontent.com/jsosao/m3u/main/streamlink/images/logo-azteca-uno.png" group-title="Bics MX", AZTECA UNO 1.1 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 tvg-id="AZTECAUNO_1H" tvg-name="AZTECA UNO -1 H" tvg-logo="https://raw.githubusercontent.com/jsosao/m3u/main/streamlink/images/logo-azteca-uno.png" group-title="TV ABIERTA", AZTECA UNO 1.1 -1H
+#EXTINF:-1 tvg-id="AZTECAUNO_1H" tvg-name="AZTECA UNO -1 H" tvg-logo="https://raw.githubusercontent.com/jsosao/m3u/main/streamlink/images/logo-azteca-uno.png" group-title="Bics MX", AZTECA UNO 1.1 -1H
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8
-#EXTINF:-1 tvg-id="AZTECAINTERNACIONAL" tvg-name="AZTECA INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/jsosao/m3u/main/streamlink/images/logo_aztecainternacional.png" group-title="TV ABIERTA", AZTECA INTERNACIONAL
+#EXTINF:-1 tvg-id="AZTECAINTERNACIONAL" tvg-name="AZTECA INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/jsosao/m3u/main/streamlink/images/logo_aztecainternacional.png" group-title="Bics MX", AZTECA INTERNACIONAL
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
-#EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="TV ABIERTA", LAS ESTRELLAS 
-***** #EXTINF:-1 group-title="Bics MX", MX: LAS ESTRELLAS
+#EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="Bics MX", LAS ESTRELLAS 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="TV ABIERTA", LAS ESTRELLAS 
-***** #EXTINF:-1  group-title="Bics MX", MX: ESTRELLAS
+#EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="Bics MX", LAS ESTRELLAS 
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/ESTRELLAS/40-hls/live-media.m3u8
 
 #EXTINF:-1 group-title="Bics MX", MX: IMAGEN TV
@@ -63,7 +61,7 @@ https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AZTECA7/20-hls/live-media.m3u8
 http://innovat.ddns.net/live/INNOVA2011/GPygQQ7Crh/3746.m3u8
 #EXTINF:-1 group-title="Bics MX", MX: CANAL NU9VE
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/GALAVISION/40-hls/live-media.m3u8
-#EXTINF:-1 tvg-id="ADN40" tvg-name="ADN 40" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" group-title="TV ABIERTA", ADN 40 
+#EXTINF:-1 tvg-id="ADN40" tvg-name="ADN 40" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" group-title="Bics MX", ADN 40 
 ***** #EXTINF:-1 group-title="Bics MX", MX: ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1  group-title="Bics MX", MX: A+
@@ -72,10 +70,10 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 group-title="Bics MX", MX: MILENIO
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:-1 tvg-id="FOROTV" tvg-name="FORO TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/foro_tv-mediano.png" group-title="TV ABIERTA", FORO 4.1
+#EXTINF:-1 tvg-id="FOROTV" tvg-name="FORO TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/foro_tv-mediano.png" group-title="Bics MX", FORO 4.1
 ***** #EXTINF:-1 group-title="Bics MX", MX: N+ FORO
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
-#EXTINF:-1 tvg-id="FOROTV" tvg-name="FORO TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/foro_tv-mediano.png" group-title="TV ABIERTA", FORO 4.1
+#EXTINF:-1 tvg-id="FOROTV" tvg-name="FORO TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/foro_tv-mediano.png" group-title="Bics MX", FORO 4.1
 ***** #EXTINF:-1  group-title="Bics MX", MX: N+ FORO
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/FOROTV/20-hls/live-media.m3u8
 #EXTINF:-1 group-title="Bics MX", MX: N+ GDL
