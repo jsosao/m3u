@@ -9,14 +9,11 @@
 *****************************************************************************************************************************************************
 ************************************************  CANALES NACIONALES ******************************************************************************
 
-#EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO 1.1 
-***** #EXTINF:-1 group-title="Bics MX", MX: AZTECA UNO
+#EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://raw.githubusercontent.com/jsosao/m3u/main/streamlink/images/logo-azteca-uno.png" group-title="TV ABIERTA", AZTECA UNO 1.1 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 tvg-id="AZTECAUNO_1H" tvg-name="AZTECA UNO -1 H" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO 1.1 -1H
-***** #EXTINF:-1 group-title="Bics MX", MX: AZTECA UNO -1 HR
+#EXTINF:-1 tvg-id="AZTECAUNO_1H" tvg-name="AZTECA UNO -1 H" tvg-logo="https://raw.githubusercontent.com/jsosao/m3u/main/streamlink/images/logo-azteca-uno.png" group-title="TV ABIERTA", AZTECA UNO 1.1 -1H
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8
-#EXTINF:-1 tvg-id="AZTECAINTERNACIONAL" tvg-name="AZTECA INTERNACIONAL" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA INTERNACIONAL
-***** #EXTINF:-1 group-title="Bics MX", MX: AZTECA INTERNACIONAL
+#EXTINF:-1 tvg-id="AZTECAINTERNACIONAL" tvg-name="AZTECA INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/jsosao/m3u/main/streamlink/images/logo_aztecainternacional.png" group-title="TV ABIERTA", AZTECA INTERNACIONAL
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="TV ABIERTA", LAS ESTRELLAS 
