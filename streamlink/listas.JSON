@@ -1,1 +1,22 @@
-
+[
+    {
+        "name": "México",
+        "code": "MX"
+    },
+    {
+        "name": "Estados Unidos",
+        "code": "US"
+    },
+    {
+        "name": "China",
+        "code": "CN"
+    },
+    {
+        "name": "Cuatro",
+        "code": "C4"
+    },
+    {
+        "name": "Cinco",
+        "code": "C5"
+    }
+]
