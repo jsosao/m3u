@@ -92,6 +92,8 @@ https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/GALAVISION/40-hls/live-media.m3
 #EXTINF:-1  group-title="Bics MX", MX: TELEFORMULA
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/Teleformula/20-hls/live-media.m3u8
 
+#EXTINF:-1  group-title="Bics MX", MX: CÑÑ
+https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 
 ******************************************************     BICS US     *************************************************************************
 
@@ -701,9 +703,10 @@ https://webprod.sipse.com.mx:8080/show/merida.m3u8
 
 #EXTINF:-1 group-title="Bics DEPORTES", US: TUBI FOX SPORTS
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
-
 #EXTINF:-1 group-title="Bics DEPORTES", MX: TUBI FOX SPORTS
 https://aegis-cloudfront-1.tubi.video/63c84a5d-300a-4b9d-b1e8-40edbefb1ef6/index_1.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", MX: CANELA DEPORTES
+https://amg00658-amg00658c28-canelatv-international-5109.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-deportesltta-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 group-title="Bics DEPORTES", MX: INTERNETV DEPORTES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
