@@ -1,5 +1,12 @@
 #EXTM3U
 
+EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_C-KVwUa_O4w_6mmkqjI7H6HaLYNWVT1Rcw&usqp=CAU" group-title="⚽ Deportes ",  ESPN SPORT 1 (México)
+http://imaxplay.net:2082/live/TomasR/WZdKJzknkg/185154.ts
+EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSwWIvd6k63Amy4juhuAJvKh7tkX_Ca7apbQ&usqp=CAU" group-title="⚽ Deportes ",  ESPN SPORT 2 (mexico)
+http://imaxplay.net:2082/live/TomasR/WZdKJzknkg/36391.ts
+EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbCnorejxWH1BID3ZLCbUboqyO1-vjhBMgQw&usqp=CAU" group-title="⚽ Deportes ",  ESPN SPORT 3 (México)
+http://imaxplay.net:2082/live/TomasR/WZdKJzknkg/9530.ts
+
 #EXTINF:-1,ESPN DEPORTES 🇺🇸
 http://190.92.10.66:4000/play/a003/index.m3u8
 
